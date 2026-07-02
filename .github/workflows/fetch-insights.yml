@@ -1,0 +1,57 @@
+name: Fetch Insights (both accounts)
+
+on:
+  schedule:
+    - cron: '15 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  insights-iams:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Fetch iams insights
+        env:
+          THREADS_ACCESS_TOKEN: ${{ secrets.IAMS_THREADS_ACCESS_TOKEN }}
+          THREADS_USER_ID: ${{ secrets.IAMS_THREADS_USER_ID }}
+        run: node scripts/fetch-insights.mjs --account=iams
+      - name: Commit iams insights
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git pull --rebase
+          git add data/iams/insights.json
+          if ! git diff --staged --quiet; then
+            git commit -m "data(iams): update insights"
+            git push
+          fi
+
+  insights-rrpetch:
+    runs-on: ubuntu-latest
+    needs: insights-iams
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Fetch rrpetch insights
+        env:
+          THREADS_ACCESS_TOKEN: ${{ secrets.RRPETCH_THREADS_ACCESS_TOKEN }}
+          THREADS_USER_ID: ${{ secrets.RRPETCH_THREADS_USER_ID }}
+        run: node scripts/fetch-insights.mjs --account=rrpetch
+      - name: Commit rrpetch insights
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git pull --rebase
+          git add data/rrpetch/insights.json
+          if ! git diff --staged --quiet; then
+            git commit -m "data(rrpetch): update insights"
+            git push
+          fi
