@@ -1,8 +1,8 @@
 name: Fetch Insights (both accounts)
 
+# Schedule di-disable sampai secrets di-set (setelah OAuth setup).
+# Nanti akan diaktifkan lagi via cron-job.org atau schedule dikembalikan.
 on:
-  schedule:
-    - cron: '15 * * * *'
   workflow_dispatch:
 
 permissions:
