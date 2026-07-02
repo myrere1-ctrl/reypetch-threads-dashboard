@@ -50,6 +50,7 @@ export function buildPrompt({ config, angle, product, destination, note = '' }) 
     '',
     `Format post:`,
     ...config.formatRules.map((r) => `- ${r}`),
+    `- BATAS KARAKTER KETAT: total teks + CTA MAX 450 karakter (Threads limit 500, buffer 50). Punchy > verbose. Kalau ide panjang, potong.`,
     '',
     `Voice signature ${config.brandName}:`,
     config.voiceSignature,
@@ -68,10 +69,10 @@ export function buildPrompt({ config, angle, product, destination, note = '' }) 
   return parts.filter(Boolean).join('\n');
 }
 
-export async function generatePost({ apiKey, config, product, destination, note = '' }) {
-  const angle = pickRandom(config.angles);
-  const prompt = buildPrompt({ config, angle, product, destination, note });
+const THREADS_LIMIT = 500;
+const MAX_RETRIES = 3;
 
+async function callClaude({ apiKey, prompt }) {
   const res = await fetch(ANTHROPIC_URL, {
     method: 'POST',
     headers: {
@@ -86,21 +87,48 @@ export async function generatePost({ apiKey, config, product, destination, note 
       messages: [{ role: 'user', content: prompt }],
     }),
   });
-
   const data = await res.json();
-  if (!res.ok) {
-    throw new Error(`Anthropic ${res.status}: ${JSON.stringify(data)}`);
+  if (!res.ok) throw new Error(`Anthropic ${res.status}: ${JSON.stringify(data)}`);
+  return data.content?.[0]?.text || '';
+}
+
+export async function generatePost({ apiKey, config, product, destination, note = '' }) {
+  const angle = pickRandom(config.angles);
+  let lastFull = '';
+  let attempt = 0;
+
+  while (attempt < MAX_RETRIES) {
+    attempt++;
+    const shortenNote = attempt > 1
+      ? `${note ? note + ' ' : ''}[RETRY ${attempt}: post sebelumnya ${lastFull.length} karakter — LEBIH PENDEK, max 400 total]`
+      : note;
+    const prompt = buildPrompt({ config, angle, product, destination, note: shortenNote });
+    const raw = await callClaude({ apiKey, prompt });
+    const { teks, cta } = parseResponse(raw);
+    const text = teks.replace(/\|/g, '\n');
+    const full = `${text}\n\n${cta}`;
+    lastFull = full;
+
+    if (full.length <= THREADS_LIMIT) {
+      if (attempt > 1) console.log(`Retry ${attempt} succeeded (${full.length} chars)`);
+      return {
+        text, cta,
+        angle: angle.name,
+        productSlug: product?.slug || null,
+        destination,
+        full,
+      };
+    }
+    console.log(`Attempt ${attempt}: post too long (${full.length} chars > ${THREADS_LIMIT}), retrying...`);
   }
 
-  const raw = data.content?.[0]?.text || '';
-  const { teks, cta } = parseResponse(raw);
-  const text = teks.replace(/\|/g, '\n');
+  console.warn(`All ${MAX_RETRIES} retries exceeded limit. Hard truncating.`);
+  const truncated = lastFull.slice(0, THREADS_LIMIT - 3) + '...';
   return {
-    text,
-    cta,
+    text: truncated, cta: '',
     angle: angle.name,
     productSlug: product?.slug || null,
     destination,
-    full: `${text}\n\n${cta}`,
+    full: truncated,
   };
 }
