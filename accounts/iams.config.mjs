@@ -9,25 +9,32 @@ export const config = {
   // WIB times, harus consistent dengan catchup script
   slots: ['08.00', '13.00', '18.00', '21.00'],
 
-  destinations: [
-    'Jepang', 'Prancis', 'Italia', 'Spanyol', 'Belanda', 'Turki',
-    'Arab Saudi (Umroh)', 'Solo Eropa', 'Jepang street food',
-  ],
+  // Theme rotation: 1 minggu 1 produk. Order = urutan minggu.
+  // Week 1: Tomodachi (Jepang), Week 2: Safar (Umroh), Week 3: ViaAI (Eropa)
+  themeMode: 'weekly',
 
   products: [
-    {
-      slug: 'safar-ai',
-      name: 'Safar AI',
-      desc: 'Teman ibadah di Tanah Suci — Vision AI (scan Kabah/tempat sejarah), Qibla compass akurat, jadwal shalat otomatis, ritual quest mode (Thawaf/Sai step by step), doa generator AI, crowd heatmap Masjidil Haram, jurnal spiritual, emergency mode dengan Arab phrases',
-      oneLiner: 'Companion Umroh/Hajj yang temenin ritual + kasih tau sejarah tempat suci real-time',
-      audience: 'Jamaah Umroh, muslim traveler yang butuh guidance tanpa panik',
-    },
     {
       slug: 'tomodachi-ai',
       name: 'Tomodachi AI',
       desc: 'AI travel companion untuk Jepang — itinerary personal per mood, tips transport lokal, local eats guide, chat AI 24/7. Akses lewat travel agency (agency bayar, traveler dapat gratis)',
       oneLiner: 'Teman travel Jepang yang tau tips lokal + itinerary yang beneran nyambung sama mood kamu',
       audience: 'Traveler pertama kali ke Jepang, yang overwhelmed sama info di Google',
+      destinations: [
+        'Jepang', 'Tokyo', 'Osaka', 'Kyoto', 'Hokkaido',
+        'Jepang street food', 'Onsen', 'Sakura season', 'Autumn leaves Jepang',
+      ],
+    },
+    {
+      slug: 'safar-ai',
+      name: 'Safar AI',
+      desc: 'Teman ibadah di Tanah Suci — Vision AI (scan Kabah/tempat sejarah), Qibla compass akurat, jadwal shalat otomatis, ritual quest mode (Thawaf/Sai step by step), doa generator AI, crowd heatmap Masjidil Haram, jurnal spiritual, emergency mode dengan Arab phrases',
+      oneLiner: 'Companion Umroh/Hajj yang temenin ritual + kasih tau sejarah tempat suci real-time',
+      audience: 'Jamaah Umroh, muslim traveler yang butuh guidance tanpa panik',
+      destinations: [
+        'Mekkah', 'Madinah', 'Umroh', 'Masjidil Haram',
+        'Jabal Rahmah', 'Raudhah', 'Persiapan Umroh', 'Tanah Suci',
+      ],
     },
     {
       slug: 'via-ai',
@@ -35,6 +42,10 @@ export const config = {
       desc: 'AI travel companion untuk Paris/Roma/Barcelona — 15 tools: itinerary mood-based, area intel (safety/vibe per neighborhood), food guide anti-tourist-trap, language coach dengan audio pronunciation, budget tracker, hidden gems, offline packs, culture decoder, day rebuilder (kalau hujan/strike/closed), fatigue tracker',
       oneLiner: 'Smart local friend di 3 kota Eropa yang ngerti hidden gems + budget hacks',
       audience: 'Solo traveler Eropa yang mau explore lebih dari destinasi mainstream',
+      destinations: [
+        'Paris', 'Roma', 'Barcelona', 'Prancis', 'Italia', 'Spanyol',
+        'Le Marais', 'Trastevere', 'El Born', 'Solo Eropa',
+      ],
     },
   ],
 

@@ -15,8 +15,23 @@ function parseArgs() {
 function pickContent({ config, slot }) {
   const now = new Date();
   const dayIndex = Math.floor(now.getTime() / 86400000);
-  const product = config.products[(dayIndex + slot) % config.products.length];
-  const destination = config.destinations[(dayIndex + slot * 2) % config.destinations.length];
+
+  let product;
+  if (config.themeMode === 'weekly') {
+    // 1 week per product, rotate
+    const weekIndex = Math.floor(dayIndex / 7) % config.products.length;
+    product = config.products[weekIndex];
+  } else {
+    // Legacy random rotation
+    product = config.products[(dayIndex + slot) % config.products.length];
+  }
+
+  // Prefer product-specific destinations, fallback to config-level
+  const destPool = product.destinations && product.destinations.length
+    ? product.destinations
+    : config.destinations || ['umum'];
+  const destination = destPool[(dayIndex + slot * 2) % destPool.length];
+
   return { product, destination };
 }
 
