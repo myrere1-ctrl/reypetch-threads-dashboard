@@ -15,20 +15,51 @@ export const config = {
   ],
 
   products: [
-    { slug: 'safar-ai', name: 'Safar AI', desc: 'AI companion untuk Umroh/Hajj: doa+audio, Qibla GPS, prayer times, Vision AI, chat guide' },
-    { slug: 'tomodachi-ai', name: 'Tomodachi AI', desc: 'AI companion untuk travel Jepang: itinerary, transport tips, local eats guide' },
-    { slug: 'via-ai', name: 'ViaAI', desc: 'AI companion untuk travel Eropa (Prancis/Italia/Spanyol): route, budget, hidden gems' },
+    {
+      slug: 'safar-ai',
+      name: 'Safar AI',
+      desc: 'Teman ibadah di Tanah Suci — Vision AI (scan Kabah/tempat sejarah), Qibla compass akurat, jadwal shalat otomatis, ritual quest mode (Thawaf/Sai step by step), doa generator AI, crowd heatmap Masjidil Haram, jurnal spiritual, emergency mode dengan Arab phrases',
+      oneLiner: 'Companion Umroh/Hajj yang temenin ritual + kasih tau sejarah tempat suci real-time',
+      audience: 'Jamaah Umroh, muslim traveler yang butuh guidance tanpa panik',
+    },
+    {
+      slug: 'tomodachi-ai',
+      name: 'Tomodachi AI',
+      desc: 'AI travel companion untuk Jepang — itinerary personal per mood, tips transport lokal, local eats guide, chat AI 24/7. Akses lewat travel agency (agency bayar, traveler dapat gratis)',
+      oneLiner: 'Teman travel Jepang yang tau tips lokal + itinerary yang beneran nyambung sama mood kamu',
+      audience: 'Traveler pertama kali ke Jepang, yang overwhelmed sama info di Google',
+    },
+    {
+      slug: 'via-ai',
+      name: 'ViaAI',
+      desc: 'AI travel companion untuk Paris/Roma/Barcelona — 15 tools: itinerary mood-based, area intel (safety/vibe per neighborhood), food guide anti-tourist-trap, language coach dengan audio pronunciation, budget tracker, hidden gems, offline packs, culture decoder, day rebuilder (kalau hujan/strike/closed), fatigue tracker',
+      oneLiner: 'Smart local friend di 3 kota Eropa yang ngerti hidden gems + budget hacks',
+      audience: 'Solo traveler Eropa yang mau explore lebih dari destinasi mainstream',
+    },
   ],
 
+  // 8 dari 10 angle NO product mention. Cuma 2 subtle mention.
   angles: [
-    { name: 'unpopular_opinion', instruction: 'Mulai dengan "Unpopular opinion:" + statement kontrarian. Punchy, bikin orang defensif atau agree. Tidak toxic — provokatif cerdas.' },
-    { name: 'myth_busting', instruction: 'Mulai dengan "Yang bilang X itu bohong. Justru..." atau "Katanya X, ternyata Y". Debunk assumption umum.' },
-    { name: 'personal_reveal', instruction: 'Mulai dengan "Dulu mikir X, ternyata Y" atau "Aku baru sadar...". Personal vulnerability + insight.' },
-    { name: 'hidden_gem_tip', instruction: 'Bagi info hidden gem / tips ga ke-Google-able. Format: mini list atau anecdote pendek.' },
-    { name: 'real_time_reactive', instruction: 'Post yang reaktif ke situasi (jam berapa, di mana). Contoh: "Jam X di Y, gue baru sadar/lihat...". Feels spontan.' },
-    { name: 'book_curation', instruction: 'Rekomendasi buku dengan hook plot twist. Format: intro buku + insight yang bikin otak nge-lag + "1/N" thread teaser.' },
-    { name: 'introvert_survival', instruction: 'Sudut pandang introvert traveling: tips coping, small win, moment "ternyata gue bisa". Relatable, gentle.' },
-    { name: 'food_dichotomy', instruction: 'Ambil dari vibe bio: "kadang fine dining kadang street food". Kontras 2 pengalaman ekstrim di destinasi yang sama.' },
+    { name: 'unpopular_opinion', mention: 'none', instruction: 'Mulai dengan "Unpopular opinion:" + statement kontrarian. Punchy. TIDAK sebut produk sama sekali — pure opinion piece.' },
+    { name: 'myth_busting', mention: 'none', instruction: 'Mulai "Yang bilang X itu bohong. Justru..." atau "Katanya X, ternyata Y". Debunk assumption. TIDAK sebut produk.' },
+    { name: 'personal_reveal', mention: 'none', instruction: 'Mulai "Dulu mikir X, ternyata Y" atau "Aku baru sadar...". Personal vulnerability + insight. TIDAK sebut produk.' },
+    { name: 'hidden_gem_tip', mention: 'none', instruction: 'Bagi info hidden gem / detail spesifik ga ke-Google-able (nama bakery, nyasar di gang tertentu, moment kecil). TIDAK sebut produk.' },
+    { name: 'real_time_reactive', mention: 'none', instruction: 'Post reaktif ke situasi (jam, di mana). Contoh: "Jam X di Y, gue baru sadar...". Spontan. TIDAK sebut produk.' },
+    { name: 'introvert_survival', mention: 'none', instruction: 'Sudut pandang introvert traveling: tips coping, small win. TIDAK sebut produk.' },
+    { name: 'food_dichotomy', mention: 'none', instruction: 'Kontras "kadang fine dining kadang street food" di destinasi tertentu. TIDAK sebut produk.' },
+    { name: 'observation_quirky', mention: 'none', instruction: 'Observasi detail unik dari destinasi (kebiasaan lokal, hal aneh). Bikin orang nodding. TIDAK sebut produk.' },
+    { name: 'subtle_mention_tips', mention: 'subtle', instruction: 'Cerita personal + di ujung sebut produk 1 baris style natural (contoh: "aku pakai [App]. link di bio kalau mau." atau "ada tips lengkap yang aku pake dan it works banget 🙌 cek di sini:"). JANGAN list fitur.' },
+    { name: 'subtle_mention_planning', mention: 'subtle', instruction: 'Cerita planning atau tips traveling + di ujung: "kalau lo lagi planning ke [tempat], aku ada tips helpful. Link di bio." SATU baris CTA doang, ga jual features.' },
+  ],
+
+  // Referensi few-shot dari post organik user iams_ichi (contoh yang WORK di audience-nya)
+  fewShotExamples: [
+    { angle: 'personal_reveal', text: 'Dulu mikir solo traveling ke Eropa tuh cuma buat orang kaya atau yang super pemberani. Ternyata setelah nyoba sendiri, lebih ke soal planning yang bener sih. Dan yes, introvert kayak aku ternyata bisa survive juga 😅' },
+    { angle: 'myth_busting', text: 'Yang bilang solo traveling kesepian itu bohong. Justru lo lebih gampang kenalan sama orang random di hostel atau cafe. Apalagi di Eropa, banyak banget solo traveler lain yang sama-sama butuh temen ngobrol' },
+    { angle: 'unpopular_opinion', text: 'Unpopular opinion: mending ke 3 negara tapi santai daripada ke 10 negara tapi cuma foto-foto doang terus pulang capek. Quality over quantity, bestie' },
+    { angle: 'hidden_gem_tip', text: 'Hal yang gak ada di itinerary tapi paling berkesan: nyasar di gang-gang kecil Roma, ketemu bakery random di Barcelona yang rotinya enak parah, sama duduk sendirian di pinggir Seine sambil makan croissant. Sometimes getting lost is the whole point' },
+    { angle: 'subtle_mention_tips', text: 'Banyak yang nanya gimana caranya aku bisa solo traveling ke Perancis Roma Barcelona tanpa panik. Jujur aku juga awalnya deg-degan, tapi ada tips lengkap yang aku pake dan it works banget 🙌 cek di sini: LINK' },
+    { angle: 'subtle_mention_planning', text: 'Kalau lo lagi planning solo trip ke Eropa tahun ini, seriusan siapin diri dari sekarang. Aku ada rekomen tips solo traveling ke Perancis Roma dan Barcelona yang super helpful buat pemula. Link di bio' },
   ],
 
   ctaSamples: [
@@ -43,24 +74,28 @@ export const config = {
   ],
 
   formatRules: [
-    '3-5 baris pendek (max 6, punchy)',
-    'Bahasa santai, mix "lo"/"aku"/"kamu" — natural',
+    '2-4 baris pendek total (bukan 3-5)',
+    'PUNCHY. Ga verbose. Kalau bisa 1 baris hook + 1 baris reveal aja, itu terbaik.',
+    'Bahasa santai, mix "lo"/"aku"/"gue" — natural',
     'Emoji SPARING di ujung, bukan di tengah (max 2 emoji per post)',
     'Panggilan "bestie" boleh kalau natural',
-    'Reference ke traveling/food/psikologi — vibes iams_ichi',
+    'Reference travel/food/psikologi — vibes iams_ichi',
   ],
 
   antiPatterns: [
+    'BROCHURE STYLE: list fitur produk ("X ada A, B, C, D — semua ada")',
+    'HARD-SELL: "coba app kami sekarang!", "beli di link ini!"',
     'Format "Banyak yang..." (klise, ga cocok voice iams_ichi)',
-    'Hard-sell direct produk',
+    'Feature-first: mention produk di awal atau tengah post',
     'Emoji spam di tengah kalimat',
-    'Formal tone / patronizing',
+    'Formal tone / patronizing / sound like copywriter',
     'CTA yes/no yang tertutup ("mau tau?", "penasaran?")',
     'Pretend jadi expert padahal casual',
+    'Over-explain (3+ baris jelasin produk = brochure alert)',
   ],
 
   brandInfo:
-    'reypetch-ai.com adalah platform AI companion untuk travel + Umroh. 3 produk utama: Safar AI (Umroh), Tomodachi AI (Jepang), ViaAI (Eropa). Model: bisa dipakai individu (email-based, $9/bln) atau di-brand ulang oleh agen travel/umroh (white-label). Untuk iams_ichi audience, mention app sebagai companion pribadi yang membantu traveling — bukan pitching produk B2B.',
+    'reypetch-ai.com = marketing site untuk 3 AI travel companion app. Model bisnis B2B: agen travel/umroh bayar → traveler/jamaah dapat akses gratis. Untuk konteks post iams_ichi: mention produk sebagai "aku pakai [App]" atau "cek [App] di bio" — kayak temen yang share tools favorit, BUKAN pitching produk. Sebutkan link di bio, JANGAN listing feature. Kalau ga sesuai topik, ga usah sebut sama sekali (pure story lebih valuable).',
 
   voiceSignature: `- Sudut pandang solo traveler yang cerdas + relatable
 - Sering pakai kontras/reversal ("dulu X, ternyata Y")
