@@ -19,7 +19,8 @@ function pickContent({ config, slot }) {
   let product;
   if (config.themeMode === 'weekly') {
     // 1 week per product, rotate
-    const weekIndex = Math.floor(dayIndex / 7) % config.products.length;
+    const offset = config.weekOffset || 0;
+    const weekIndex = (Math.floor(dayIndex / 7) + offset) % config.products.length;
     product = config.products[weekIndex];
   } else {
     // Legacy random rotation

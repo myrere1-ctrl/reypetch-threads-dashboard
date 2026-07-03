@@ -12,6 +12,8 @@ export const config = {
   // Theme rotation: 1 minggu 1 produk. Order = urutan minggu.
   // Week 1: Tomodachi (Jepang), Week 2: Safar (Umroh), Week 3: ViaAI (Eropa)
   themeMode: 'weekly',
+  // Offset supaya start minggu ini di Tomodachi (natural rotation di 2026-07-03 = ViaAI, offset +1 → Tomodachi)
+  weekOffset: 1,
 
   products: [
     {
