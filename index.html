@@ -241,28 +241,31 @@
         </div>
 
         <div class="fg">
-          <label class="flabel">Tipe konten</label>
+          <label class="flabel">Angle post</label>
           <select class="fcontrol" id="contentType">
-            <option value="pain">Pain point & solusi</option>
-            <option value="tips">Tips karir global</option>
-            <option value="promo">Promo fitur Pro</option>
-            <option value="story">Kisah sukses</option>
-            <option value="hook">Hook & pertanyaan</option>
+            <option value="unpopular_opinion">Unpopular opinion</option>
+            <option value="myth_busting">Myth-busting</option>
+            <option value="personal_reveal">Personal reveal (Dulu mikir X, ternyata Y)</option>
+            <option value="hidden_gem_tip">Hidden gem / tip lokal</option>
+            <option value="food_dichotomy">Food dichotomy (fine dining vs street)</option>
+            <option value="introvert_survival">Introvert survival</option>
+            <option value="real_time_reactive">Real-time reactive (jam X di Y...)</option>
+            <option value="subtle_mention_tips">+ Subtle mention (sebut app di ujung)</option>
           </select>
         </div>
 
         <div class="fg">
-          <label class="flabel">Negara / destinasi</label>
-          <input type="text" class="fcontrol" id="negara" placeholder="cth: Jepang, Kapal Pesiar, Remote, Australia..." />
-          <div class="fhint">Bebas tulis — negara, sektor, atau kombinasi</div>
+          <label class="flabel">Produk / destinasi</label>
+          <input type="text" class="fcontrol" id="negara" placeholder="cth: Jepang, Umroh, Paris, Roma, Barcelona, Tokyo..." />
+          <div class="fhint">Free-form — bisa negara, kota, atau tema traveling</div>
         </div>
 
         <div class="fg">
           <label class="flabel">Tone</label>
           <div class="tone-grid">
             <div class="tone-btn active" onclick="setTone(this)">Santai & ngobrol</div>
-            <div class="tone-btn" onclick="setTone(this)">Inspiratif</div>
-            <div class="tone-btn" onclick="setTone(this)">Edukatif</div>
+            <div class="tone-btn" onclick="setTone(this)">Cerdas casual</div>
+            <div class="tone-btn" onclick="setTone(this)">Vulnerable jujur</div>
             <div class="tone-btn" onclick="setTone(this)">Humor ringan</div>
           </div>
         </div>
@@ -461,35 +464,48 @@ insight yang bikin mikir.</div>
       return;
     }
 
-    const typeMap = {
-      pain:'pain point dan solusi', tips:'tips karir global',
-      promo:'promosi fitur Pro GoGlobal AI', story:'kisah sukses',
-      hook:'hook dan pertanyaan penasaran'
+    const angleMap = {
+      unpopular_opinion: { instr: 'Mulai dengan "Unpopular opinion:" + statement kontrarian. Punchy, TIDAK sebut produk sama sekali.', mention: 'none' },
+      myth_busting: { instr: 'Mulai "Yang bilang X itu bohong. Justru..." atau "Katanya X, ternyata Y". Debunk. TIDAK sebut produk.', mention: 'none' },
+      personal_reveal: { instr: 'Mulai "Dulu mikir X, ternyata Y" atau "Aku baru sadar...". Personal vulnerability. TIDAK sebut produk.', mention: 'none' },
+      hidden_gem_tip: { instr: 'Bagi info hidden gem / detail spesifik ga ke-Google-able. TIDAK sebut produk.', mention: 'none' },
+      food_dichotomy: { instr: 'Kontras "fine dining vs street food" di destinasi tertentu. TIDAK sebut produk.', mention: 'none' },
+      introvert_survival: { instr: 'Sudut pandang introvert traveling: tips coping, small win. TIDAK sebut produk.', mention: 'none' },
+      real_time_reactive: { instr: 'Post reaktif ke situasi (jam, di mana). Contoh: "Jam X di Y, gue baru sadar...". TIDAK sebut produk.', mention: 'none' },
+      subtle_mention_tips: { instr: 'Cerita personal + di ujung sebut app SATU baris: "aku pakai [App], link di bio". JANGAN list fitur.', mention: 'subtle' },
     };
 
     const type = document.getElementById('contentType').value;
+    const angle = angleMap[type];
     const negara = document.getElementById('negara').value || 'umum';
     const catatan = document.getElementById('catatan').value;
     const tone = document.querySelector('.tone-btn.active').textContent;
 
-    const prompt = `Kamu content creator Threads untuk GoGlobal AI, app untuk orang Indonesia yang mau kerja di luar negeri.
+    const prompt = `Kamu content creator Threads untuk @iams_ichi — persona travel + food + psikologi. Solo traveler bunglon (kadang bareng bestie). Isi kepala: teori psikologi. Isi koper: baju liburan. Vibe: 20-an, cerdas-casual, introvert-aware.
 
 Buat 10 post Threads Bahasa Indonesia:
-- Tipe: ${typeMap[type]}
-- Negara/destinasi: ${negara}
+- Angle: ${angle.instr}
+- Destinasi/topik: ${negara}
 - Tone: ${tone}
 - Catatan: ${catatan || '-'}
 
-Format WAJIB tiap post (PENTING — ikuti persis):
-- 3-5 baris pendek
-- Bahasa santai seperti ngobrol sama teman
-- JANGAN pakai kata menakutkan atau terlalu jualan
-- Akhiri dengan CTA ngegantung natural (contoh: "mau cerita?", "pernah ngerasain?", "lanjut?")
+MODE: ${angle.mention === 'subtle' ? 'SUBTLE MENTION — 1 baris ujung sebut app natural style "aku pakai [X], link di bio". JANGAN listing fitur.' : 'PURE STORY — JANGAN sebut app apapun (Safar AI / Tomodachi AI / ViaAI). Zero pitching.'}
 
-GoGlobal AI info: App PWA karir internasional. Gratis: Explore, Chat AI, Visa, Gaji, Scam Detector. Pro Rp299rb: CV Builder, Interview AI, Cover Letter, Job Finder, Roadmap.
+Format tiap post WAJIB:
+- 2-4 baris pendek, punchy (bukan 3-5)
+- Mix "lo"/"aku"/"gue" — natural
+- Emoji SPARING di ujung (max 2 per post), bukan di tengah
+- Panggilan "bestie" boleh kalau natural
+- Total karakter (teks + CTA) MAX 450 (Threads limit 500)
+
+HINDARI KETAT: format "Banyak yang...", "Tau gak..." (klise), BROCHURE STYLE (list fitur produk), hard-sell, CTA yes/no tertutup.
+
+Contoh voice yang WORK:
+"Unpopular opinion: mending ke 3 negara tapi santai daripada ke 10 negara tapi cuma foto-foto doang terus pulang capek. Quality over quantity, bestie"
+"Dulu mikir solo traveling ke Eropa tuh cuma buat orang kaya. Ternyata setelah nyoba sendiri, lebih ke soal planning yang bener sih. Dan yes, introvert kayak aku ternyata bisa survive juga 😅"
 
 BALAS HANYA JSON VALID. Gunakan pipe | untuk jeda baris dalam teks, BUKAN newline asli:
-[{"jam":"06.00","teks":"baris1|baris2|baris3","cta":"mau cerita?"},{"jam":"07.30","teks":"...","cta":"..."}]`;
+[{"jam":"08.00","teks":"baris1|baris2","cta":"ada yang relate?"},{"jam":"13.00","teks":"...","cta":"..."}]`;
 
     document.getElementById('overlay').classList.add('show');
 
@@ -536,7 +552,12 @@ BALAS HANYA JSON VALID. Gunakan pipe | untuk jeda baris dalam teks, BUKAN newlin
     }
   }
 
-  const times = ['06.00','07.30','09.00','10.30','12.00','13.30','15.00','17.00','19.00','21.00'];
+  // Slot times per account (iams = 4 posts/day, rrpetch = 10 posts/day)
+  const SLOTS_PER_ACCOUNT = {
+    iams: ['08.00','13.00','18.00','21.00'],
+    rrpetch: ['06.00','07.30','09.00','10.30','12.00','13.30','15.00','17.00','19.00','21.00'],
+  };
+  const times = SLOTS_PER_ACCOUNT.iams; // Default; switched dynamically
 
   // ============ BOT LIVE DATA ============
 
@@ -993,6 +1014,10 @@ BALAS HANYA JSON VALID. Gunakan pipe | untuk jeda baris dalam teks, BUKAN newlin
     const meta = ACCOUNT_META[acc];
     document.getElementById('topSub').textContent = `Reypetch AI · ${meta.label}`;
     document.getElementById('topThreadsLink').href = meta.threadsUrl;
+
+    // Update slot times array based on account
+    times.length = 0;
+    for (const t of (SLOTS_PER_ACCOUNT[acc] || SLOTS_PER_ACCOUNT.iams)) times.push(t);
 
     // Reload data
     cachedLog = [];
