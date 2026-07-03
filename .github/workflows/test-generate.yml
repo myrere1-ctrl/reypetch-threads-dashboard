@@ -1,0 +1,37 @@
+name: Test Generate (dry-run preview)
+
+on:
+  workflow_dispatch:
+    inputs:
+      account:
+        description: 'Account: iams or rrpetch'
+        required: true
+        default: 'iams'
+        type: choice
+        options:
+          - iams
+          - rrpetch
+      slot:
+        description: 'Slot index (0-9 for rrpetch, 0-3 for iams)'
+        required: true
+        default: '0'
+
+permissions:
+  contents: read
+
+jobs:
+  preview:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Dry-run generate
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          THREADS_ACCESS_TOKEN: ${{ inputs.account == 'iams' && secrets.IAMS_THREADS_ACCESS_TOKEN || secrets.RRPETCH_THREADS_ACCESS_TOKEN }}
+          THREADS_USER_ID: ${{ inputs.account == 'iams' && secrets.IAMS_THREADS_USER_ID || secrets.RRPETCH_THREADS_USER_ID }}
+        run: node scripts/generate-and-post.mjs --account=${{ inputs.account }} --slot=${{ inputs.slot }} --dry-run
