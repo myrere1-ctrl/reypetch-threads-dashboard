@@ -53,8 +53,8 @@ export const config = {
 
   // 8 dari 10 angle NO product mention. Cuma 2 subtle mention.
   angles: [
-    { name: 'unpopular_opinion', mention: 'none', instruction: 'Mulai dengan "Unpopular opinion:" + statement kontrarian. Punchy. TIDAK sebut produk sama sekali — pure opinion piece.' },
-    { name: 'myth_busting', mention: 'none', instruction: 'Mulai "Yang bilang X itu bohong. Justru..." atau "Katanya X, ternyata Y". Debunk assumption. TIDAK sebut produk.' },
+    { name: 'unpopular_opinion', mention: 'none', instruction: 'Mulai dengan "Unpopular opinion:" + statement kontrarian yang bersifat OPINI/SELERA/PENGALAMAN PRIBADI (bukan klaim fakta terukur). Contoh bagus: "Unpopular opinion: overplan trip malah bikin ga menikmati." Contoh BURUK (jangan): "Unpopular opinion: street food Jepang itu mahal/murah" — ini klaim harga yang gampang dikontradiksi. Kalau mau bahas harga, WAJIB kasih konteks spesifik (area turis vs gang lokal, musim matsuri vs biasa), jangan klaim absolut.' },
+    { name: 'myth_busting', mention: 'none', instruction: 'Bongkar mitos tentang PENGALAMAN/PROSES (bukan angka absolut). Contoh: "Katanya solo traveling itu sepi. Ternyata malah lebih gampang kenalan." Kalau nyangkut fakta terukur (harga, jarak, waktu), WAJIB nuance dengan konteks — jangan bikin klaim hitam-putih yang bisa berlawanan dengan post lain.' },
     { name: 'personal_reveal', mention: 'none', instruction: 'Mulai "Dulu mikir X, ternyata Y" atau "Aku baru sadar...". Personal vulnerability + insight. TIDAK sebut produk.' },
     { name: 'hidden_gem_tip', mention: 'none', instruction: 'Bagi info hidden gem / detail spesifik ga ke-Google-able (nama bakery, nyasar di gang tertentu, moment kecil). TIDAK sebut produk.' },
     { name: 'real_time_reactive', mention: 'none', instruction: 'Post reaktif ke situasi (jam, di mana). Contoh: "Jam X di Y, gue baru sadar...". Spontan. TIDAK sebut produk.' },
@@ -105,6 +105,8 @@ export const config = {
     'CTA yes/no yang tertutup ("mau tau?", "penasaran?")',
     'Pretend jadi expert padahal casual',
     'Over-explain (3+ baris jelasin produk = brochure alert)',
+    'KLAIM FAKTA ABSOLUT tanpa konteks (mahal/murah/deket/jauh) — bikin ketahuan bot kalau post lain berlawanan. Selalu kasih konteks spesifik.',
+    'BERTOLAK BELAKANG dengan post sebelumnya soal fakta yang sama (lihat RIWAYAT POST di prompt).',
   ],
 
   brandInfo:

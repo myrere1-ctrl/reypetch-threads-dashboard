@@ -36,12 +36,18 @@ function pickContent({ config, slot }) {
   return { product, destination };
 }
 
+async function loadLog(account) {
+  const p = dataPath(account, 'posted-log.json');
+  try {
+    return JSON.parse(await fs.readFile(p, 'utf8'));
+  } catch {
+    return [];
+  }
+}
+
 async function appendLog(account, entry) {
   const p = dataPath(account, 'posted-log.json');
-  let log = [];
-  try {
-    log = JSON.parse(await fs.readFile(p, 'utf8'));
-  } catch {}
+  const log = await loadLog(account);
   log.push(entry);
   await fs.writeFile(p, JSON.stringify(log, null, 2) + '\n');
 }
@@ -67,7 +73,11 @@ async function main() {
   console.log(`Slot ${slot} (${config.slots[slot]} WIB) · account: ${account}`);
   console.log('Pick:', { product: product.slug, destination });
 
-  const post = await generatePost({ apiKey, config, product, destination });
+  // Ambil 12 post terakhir sebagai riwayat (anti-kontradiksi + anti-repetisi)
+  const log = await loadLog(account);
+  const recentPosts = log.slice(-12).map((e) => e.body || e.text || '');
+
+  const post = await generatePost({ apiKey, config, product, destination, recentPosts });
   console.log('---');
   console.log(post.full);
   console.log('---');

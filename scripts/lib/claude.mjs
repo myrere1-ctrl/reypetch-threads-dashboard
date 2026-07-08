@@ -45,7 +45,16 @@ function fewShotBlock(config, angle) {
     .join('\n\n');
 }
 
-export function buildPrompt({ config, angle, product, destination, note = '' }) {
+function recentPostsBlock(recentPosts) {
+  if (!recentPosts?.length) return '';
+  const lines = recentPosts
+    .slice(-12)
+    .map((t, i) => `${i + 1}. "${(t || '').replace(/\n/g, ' ').slice(0, 160)}"`)
+    .join('\n');
+  return `RIWAYAT POST TERAKHIR (JANGAN kontradiksi klaim spesifik di sini, JANGAN ulang topik/struktur yang sama persis — variasikan):\n${lines}`;
+}
+
+export function buildPrompt({ config, angle, product, destination, note = '', recentPosts = [] }) {
   const mentionMode = angle.mention || 'none';
   const mentionInstructions = {
     none: `MODE: PURE STORY — JANGAN sebut nama produk apapun (${config.products
@@ -56,6 +65,7 @@ export function buildPrompt({ config, angle, product, destination, note = '' }) 
   }[mentionMode];
 
   const few = fewShotBlock(config, angle);
+  const history = recentPostsBlock(recentPosts);
 
   const parts = [
     `Kamu content creator Threads untuk ${config.brandName}.`,
@@ -72,6 +82,8 @@ export function buildPrompt({ config, angle, product, destination, note = '' }) 
     '',
     mentionInstructions,
     '',
+    history,
+    history ? '' : null,
     few ? `CONTOH POST YANG WORK di akun ini (mimic style-nya, jangan copy persis):\n\n${few}` : '',
     '',
     `Format post:`,
@@ -115,7 +127,7 @@ async function callClaude({ apiKey, prompt }) {
   return data.content?.[0]?.text || '';
 }
 
-export async function generatePost({ apiKey, config, product, destination, note = '' }) {
+export async function generatePost({ apiKey, config, product, destination, note = '', recentPosts = [] }) {
   const angle = pickRandom(config.angles);
   let lastFull = '';
   let attempt = 0;
@@ -125,7 +137,7 @@ export async function generatePost({ apiKey, config, product, destination, note 
     const shortenNote = attempt > 1
       ? `${note ? note + ' ' : ''}[RETRY ${attempt}: post sebelumnya ${lastFull.length} karakter — LEBIH PENDEK, max 400 total]`
       : note;
-    const prompt = buildPrompt({ config, angle, product, destination, note: shortenNote });
+    const prompt = buildPrompt({ config, angle, product, destination, note: shortenNote, recentPosts });
     const raw = await callClaude({ apiKey, prompt });
     const { teks, cta } = parseResponse(raw);
     const text = teks.replace(/\|/g, '\n');
