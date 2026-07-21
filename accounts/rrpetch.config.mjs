@@ -33,13 +33,13 @@ export const config = {
   ],
 
   ctaSamples: [
-    'Cek demo di reypetch-ai.com',
-    'Info lengkap di bio',
-    'DM untuk demo agen',
-    'Coba gratis di reypetch-ai.com',
-    'Ada agen umroh yang butuh ini?',
-    'Setuju gak?',
-    'Share ke agen travel yang lagi cari solusi',
+    'cek link di bio ya',
+    'info lengkap ada di bio 👆',
+    'link demo ada di bio',
+    'ada agen umroh/travel yang butuh ini?',
+    'setuju gak?',
+    'share ke agen yang lagi cari solusi',
+    'DM kalau mau tau lebih detail',
   ],
 
   formatRules: [
@@ -47,7 +47,7 @@ export const config = {
     'Bahasa formal-friendly, ga terlalu casual',
     'Sebutkan produk (Safar AI / Tomodachi AI / ViaAI) di tempat natural',
     'Emoji SPARING (max 1-2 per post)',
-    'CTA yang ngarah ke reypetch-ai.com atau demo',
+    'CTA arahkan ke "link di bio" — JANGAN tulis URL (reypetch-ai.com, safarai.reypetch-ai.com, dll) di dalam post. Reach turun kalau ada link. Link biar ditambah manual di DM/message.',
   ],
 
   antiPatterns: [
@@ -55,6 +55,7 @@ export const config = {
     'Emoji spam',
     'Hard-sell yang aggressive ("Beli sekarang!")',
     'Klaim yang berlebihan tanpa proof',
+    'Nempelin URL/link apapun di dalam post (reypetch-ai.com, safarai.reypetch-ai.com, dll) — reach turun. Cukup "cek link di bio".',
   ],
 
   brandInfo:
