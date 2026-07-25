@@ -161,6 +161,7 @@
       <div style="display:flex;gap:6px">
         <button id="accBtnIams" onclick="switchAccount('iams')" class="acc-btn acc-btn-active" style="flex:1;padding:8px 10px;border-radius:8px;border:1px solid var(--border);background:var(--blue-light);color:var(--blue-mid);font-size:12px;font-weight:600;cursor:pointer;font-family:inherit">iams_ichi</button>
         <button id="accBtnRrpetch" onclick="switchAccount('rrpetch')" class="acc-btn" style="flex:1;padding:8px 10px;border-radius:8px;border:1px solid var(--border);background:var(--card);color:var(--muted);font-size:12px;font-weight:500;cursor:pointer;font-family:inherit">rrpetch</button>
+        <button id="accBtnIamehijrah" onclick="switchAccount('iamehijrah')" class="acc-btn" style="flex:1;padding:8px 10px;border-radius:8px;border:1px solid var(--border);background:var(--card);color:var(--muted);font-size:12px;font-weight:500;cursor:pointer;font-family:inherit">iame.hijrah</button>
       </div>
     </div>
     <nav class="sidebar-nav">
@@ -556,6 +557,7 @@ BALAS HANYA JSON VALID. Gunakan pipe | untuk jeda baris dalam teks, BUKAN newlin
   const SLOTS_PER_ACCOUNT = {
     iams: ['07.30','11.00','14.30','18.00','21.00'],
     rrpetch: ['06.00','07.30','09.00','10.30','12.00','13.30','15.00','17.00','19.00','21.00'],
+    iamehijrah: ['05.00','09.00','12.30','16.00','18.30','20.00','21.30','23.30'],
   };
   const times = SLOTS_PER_ACCOUNT.iams; // Default; switched dynamically
 
@@ -988,6 +990,7 @@ BALAS HANYA JSON VALID. Gunakan pipe | untuk jeda baris dalam teks, BUKAN newlin
   const ACCOUNT_META = {
     iams: { username: 'iams_ichi', threadsUrl: 'https://www.threads.net/@iams_ichi', label: 'Personal (iams_ichi)' },
     rrpetch: { username: 'rrpetch', threadsUrl: 'https://www.threads.net/@rrpetch', label: 'Official (rrpetch)' },
+    iamehijrah: { username: '_iame.hijrah', threadsUrl: 'https://www.threads.net/@_iame.hijrah', label: 'Hijrah (iame.hijrah)' },
   };
 
   function switchAccount(acc) {

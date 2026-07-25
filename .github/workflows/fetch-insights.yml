@@ -57,3 +57,27 @@ jobs:
             git pull --rebase
             git push
           fi
+
+  insights-iamehijrah:
+    runs-on: ubuntu-latest
+    needs: insights-rrpetch
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Fetch iamehijrah insights
+        env:
+          THREADS_ACCESS_TOKEN: ${{ secrets.IAMEHIJRAH_THREADS_ACCESS_TOKEN }}
+          THREADS_USER_ID: ${{ secrets.IAMEHIJRAH_THREADS_USER_ID }}
+        run: node scripts/fetch-insights.mjs --account=iamehijrah
+      - name: Commit iamehijrah insights
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/iamehijrah/insights.json
+          if ! git diff --staged --quiet; then
+            git commit -m "data(iamehijrah): update insights"
+            git pull --rebase
+            git push
+          fi
