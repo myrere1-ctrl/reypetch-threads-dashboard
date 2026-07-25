@@ -1,22 +1,22 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-07-25T15:33:26.430Z",
+  "updated_at": "2026-07-25T17:27:18.805Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-fra5-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=8w9qcfiQzAMQ7kNvwEPrVvh&_nc_oc=Adoxa1-1UuA-twWcFV-1FmpOGExtWPXWodk1zXKZDsj5pI4Ca1Pu7YHns37mv4qxkYA&_nc_zt=24&_nc_ht=scontent-fra5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=u6eIbaaAjFfp-rctBhaBug&_nc_tpa=Q5bMBQGWzsTkGGzyRLTbOe47puDVl56WhRZoO5MBijSXtrG0naD80dWf9SnCz-Jgv-GlY2532t5Kxw3y4w&oh=00_AQCqVOSfgT2U9S4nDfsI2syg1cTXmjT9umVjDSo7z4-OGg&oe=6A6ABAD3"
+    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=8w9qcfiQzAMQ7kNvwHiEMX0&_nc_oc=AdrEpAoob6Q-XGUUWIUZh6lG5rA_49Go2d8LMP33AVo09zmHXw6cy0H81P8iSxZ309c&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=zcKWCNsj3SjLSky5WbK8bw&_nc_tpa=Q5bMBQHTgHpMkaSCUpYNL9ylDAfE8DWaU0Gy66BZhl4ssy8x3h643W6UZYguimz-qLJkgCLaOUtbp_TIuQ&oh=00_AQAO8nHHOe-1G9zLqRhQtRsINvb-hddUzF30UAG1n0svWQ&oe=6A6ABAD3"
   },
   "summary": {
     "followers_count": 0,
-    "views": 344,
+    "views": 386,
     "likes": 6,
     "replies": 1,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 270,
-    "engagement_rate": 78.49,
+    "engagement_rate": 69.95,
     "curiosity_score": null,
-    "post_count": 17
+    "post_count": 18
   },
   "top_posts": [
     {
@@ -97,12 +97,27 @@
   ],
   "recent_posts": [
     {
+      "id": "18137655148549074",
+      "text": "Dulu aku mikir sabar itu soal nahan diri — nahan nangis, nahan keluh, pura-pura kuat.\nTernyata bukan. Sabar yang beneran",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbOP8kwoBr2",
+      "timestamp": "2026-07-25T16:31:35+0000",
+      "metrics": {
+        "views": 36,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "18122542996695326",
       "text": "Ada kalimat yang aku ulang pelan-pelan tiap kali ngerasa semuanya terlalu berat — La Hawla Wala Quwwata Illa Billah.\nBuk",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbOCL-ymwdB",
       "timestamp": "2026-07-25T14:31:22+0000",
       "metrics": {
-        "views": 26,
+        "views": 27,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -117,7 +132,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbN35S1Fi30",
       "timestamp": "2026-07-25T13:01:26+0000",
       "metrics": {
-        "views": 41,
+        "views": 42,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -147,7 +162,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbNcbm_lHp_",
       "timestamp": "2026-07-25T09:01:26+0000",
       "metrics": {
-        "views": 154,
+        "views": 155,
         "likes": 3,
         "replies": 0,
         "reposts": 0,
@@ -162,7 +177,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbNEYtuG6z3",
       "timestamp": "2026-07-25T05:31:20+0000",
       "metrics": {
-        "views": 121,
+        "views": 122,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -177,7 +192,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbNDLDPkYgc",
       "timestamp": "2026-07-25T05:20:43+0000",
       "metrics": {
-        "views": 39,
+        "views": 40,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -230,21 +245,6 @@
         "shares": 1
       },
       "engagement": 11
-    },
-    {
-      "id": "17984382429033078",
-      "text": "Doa Ibu yang Secara Sains Terbukti Mengubah Nasib Keluarga — Ini Bukan Klenik \n\n1/ Suami tiba-tiba dapat proyek besar. A",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbImpF-Cb6v",
-      "timestamp": "2026-07-23T11:53:55+0000",
-      "metrics": {
-        "views": 494,
-        "likes": 5,
-        "replies": 6,
-        "reposts": 2,
-        "quotes": 0,
-        "shares": 6
-      },
-      "engagement": 13
     }
   ]
 }
