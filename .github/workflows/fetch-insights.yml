@@ -1,8 +1,10 @@
 name: Fetch Insights (both accounts)
 
-# Schedule di-disable sampai secrets di-set (setelah OAuth setup).
-# Nanti akan diaktifkan lagi via cron-job.org atau schedule dikembalikan.
+# Repo public → Actions unlimited gratis, jadi schedule aman diaktifkan.
+# Tiap jam fetch insights buat iams + rrpetch (followers/views/engagement).
 on:
+  schedule:
+    - cron: '20 * * * *'
   workflow_dispatch:
 
 permissions:
