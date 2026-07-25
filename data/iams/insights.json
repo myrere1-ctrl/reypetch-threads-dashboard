@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-07-25T21:12:01.938Z",
+  "updated_at": "2026-07-25T22:13:41.168Z",
   "profile": {
     "username": "iams_ichi",
     "name": "iams",
     "biography": "Solo Traveler Bunglon\nFine dining 👌 & Street food lokal 🫰\nHidden gems expert for 🇯🇵🇦🇺🇫🇷🇪🇸🇮🇹 + Umrah.\nBasic tourist traps could never fr",
-    "picture": "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/729823178_17902006359449426_143983074154164635_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=111&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=vjPthGADF1IQ7kNvwEJ7b0-&_nc_oc=AdqaCltocoGSHq7XgwvNnL3TogBOpzbVS9apiXmSj4oQVsD10fvx3k4QqyCW5m4jyvM&_nc_zt=24&_nc_ht=scontent-ord5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=_37mgTWRsz8UVhg0EFYOUg&_nc_tpa=Q5bMBQGU92iSkq1ufcxRTn-Ox4bn2Ay666MxB3fmxLLkACcMQhb6rjp1ZYJl7xK5_vqt5e7xNMp4O3-x4g&oh=00_AQCoQA4oChp3Z4DpQehYLZrBfGBFsF11-ZS9AnwJRrweWA&oe=6A6AE47F"
+    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/729823178_17902006359449426_143983074154164635_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=111&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=vjPthGADF1IQ7kNvwGv1AW_&_nc_oc=Adr9Av0waEE6xbZGrT-_eKQx-c8n1jdCuSmlJFSnTnxqpaVq6dsSoA3lUDeOeh1aq9E&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=ak8y2vFgynpTISezLDOiCw&_nc_tpa=Q5bMBQEsRhCm3kARDQ2JrmVDl1oxFKRiHXsT6-VC31nz7QSCTDyCDAV2lxMHgfs9lj6tlC8I-lOGvNNtJQ&oh=00_AQDFbBfGzqtD_9P_JGa-oBbucu9IShxN0NZV9C-DPYZ7uA&oe=6A6B1CBF"
   },
   "summary": {
     "followers_count": 1345,
-    "views": 815,
-    "likes": 6,
-    "replies": 4,
+    "views": 835,
+    "likes": 7,
+    "replies": 5,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 99,
-    "engagement_rate": 12.15,
+    "engagement_total": 101,
+    "engagement_rate": 12.1,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -67,6 +67,21 @@
       "engagement": 17
     },
     {
+      "id": "17905673046455743",
+      "text": "Jam 6 pagi di Fushimi Inari, gue baru sadar kenapa orang-orang selalu foto torii yang paling bawah — karena yang atas se",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DbOAbGAG41B",
+      "timestamp": "2026-07-25T14:15:56+0000",
+      "metrics": {
+        "views": 196,
+        "likes": 2,
+        "replies": 4,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 6
+    },
+    {
       "id": "18615820549004129",
       "text": "Terakhir ke Europe summer 2025(3 month muter2) pas my sis Ry married ama Ro, Finish guy temen kuliahnya di Strathclyde, ",
       "permalink": "https://www.threads.com/@iams_ichi/post/DbErG_lAetA",
@@ -80,21 +95,6 @@
         "shares": 0
       },
       "engagement": 5
-    },
-    {
-      "id": "17905673046455743",
-      "text": "Jam 6 pagi di Fushimi Inari, gue baru sadar kenapa orang-orang selalu foto torii yang paling bawah — karena yang atas se",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DbOAbGAG41B",
-      "timestamp": "2026-07-25T14:15:56+0000",
-      "metrics": {
-        "views": 185,
-        "likes": 1,
-        "replies": 3,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 4
     }
   ],
   "recent_posts": [
@@ -104,14 +104,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DbOAbGAG41B",
       "timestamp": "2026-07-25T14:15:56+0000",
       "metrics": {
-        "views": 185,
-        "likes": 1,
-        "replies": 3,
+        "views": 196,
+        "likes": 2,
+        "replies": 4,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 4
+      "engagement": 6
     },
     {
       "id": "18414335368149880",
