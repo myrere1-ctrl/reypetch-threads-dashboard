@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-07-25T06:32:45.251Z",
+  "updated_at": "2026-07-25T09:14:45.505Z",
   "profile": {
     "username": "iams_ichi",
     "name": "iams",
     "biography": "Solo Traveler Bunglon\nFine dining 👌 & Street food lokal 🫰\nHidden gems expert for 🇯🇵🇦🇺🇫🇷🇪🇸🇮🇹 + Umrah.\nBasic tourist traps could never fr",
-    "picture": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/729823178_17902006359449426_143983074154164635_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=111&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=vjPthGADF1IQ7kNvwEWS3xT&_nc_oc=AdpoVE_n77T0lAUzupqn79nExy6L_YaciqYjYQ1lrGSjC2o-DvuTbA8J60jWGCSaA3k&_nc_zt=24&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=7tiiKEu-r5M1xGznRU3EsQ&_nc_tpa=Q5bMBQFLAvND2yYZQgCFQMlmI48ns1QIdX5Wh1zegyT9KNs2cpXUKko4H_FUMHae2Zsh7XKt5BZixtsv2Q&oh=00_AQAarzMjWWaRpvl6QESITDrhB6idB4WhNVFAHcpBCtYb0g&oe=6A6A3BBF"
+    "picture": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/729823178_17902006359449426_143983074154164635_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=111&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=vjPthGADF1IQ7kNvwGA9zev&_nc_oc=AdoMLU2U39G-5b1sEHRJtla8PjIXOcxfS6IY6FQWthzzVX5FwRQPDLJS39uoX49e24M&_nc_zt=24&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=sCNNqJCMb49QuMIEh0Lqxw&_nc_tpa=Q5bMBQFYq48r2k9dzXtofZRMT98_dGesRAnq6DVP3EPtEVkC5c9vc9ZqWeNlRGP1-JR6BQz5rVrZS_3qQg&oh=00_AQA9-Ew1ShM8nsDhirfsFaO3vMn4xyOVKi1_SIWqFKAr-w&oe=6A6A3BBF"
   },
   "summary": {
     "followers_count": 1345,
-    "views": 292,
-    "likes": 0,
+    "views": 125,
+    "likes": 1,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 93,
-    "engagement_rate": 31.85,
+    "engagement_total": 94,
+    "engagement_rate": 75.2,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -99,12 +99,27 @@
   ],
   "recent_posts": [
     {
+      "id": "18128987179630112",
+      "text": "Di Kyoto waktu momiji musim gugur, makan kaiseki dinner yang literally bikin aku diem 10 menit sebelum nyentuh makananny",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DbNSFmaFcGH",
+      "timestamp": "2026-07-25T07:31:06+0000",
+      "metrics": {
+        "views": 119,
+        "likes": 2,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 2
+    },
+    {
       "id": "18091158110540840",
       "text": "Masuk onsen pertama kali itu aku literally duduk 5 menit, terus keluar — terlalu panas, terlalu diem, terlalu *bare*.\nTe",
       "permalink": "https://www.threads.com/@iams_ichi/post/DbM6ErnIAZz",
       "timestamp": "2026-07-25T04:01:13+0000",
       "metrics": {
-        "views": 23,
+        "views": 25,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -119,7 +134,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DbMiBdQCfsj",
       "timestamp": "2026-07-25T00:31:03+0000",
       "metrics": {
-        "views": 133,
+        "views": 136,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -232,21 +247,6 @@
         "shares": 0
       },
       "engagement": 1
-    },
-    {
-      "id": "18065204072721062",
-      "text": "5 Kesalahan Fatal Turis Indonesia yang Bikin Autumn Trip ke Jepang HANCUR TOTAL (dan nomor 3 bikin aku mau nangis lihatn",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DbEzTnYgUez",
-      "timestamp": "2026-07-22T00:27:37+0000",
-      "metrics": {
-        "views": 3171,
-        "likes": 19,
-        "replies": 13,
-        "reposts": 1,
-        "quotes": 0,
-        "shares": 21
-      },
-      "engagement": 33
     }
   ]
 }
