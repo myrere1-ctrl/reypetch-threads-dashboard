@@ -1,20 +1,252 @@
 {
   "account": "iams",
-  "updated_at": null,
-  "profile": null,
+  "updated_at": "2026-07-25T00:22:35.161Z",
+  "profile": {
+    "username": "iams_ichi",
+    "name": "iams",
+    "biography": "Solo Traveler Bunglon\nFine dining 👌 & Street food lokal 🫰\nHidden gems expert for 🇯🇵🇦🇺🇫🇷🇪🇸🇮🇹 + Umrah.\nBasic tourist traps could never fr",
+    "picture": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/729823178_17902006359449426_143983074154164635_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=111&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=vjPthGADF1IQ7kNvwG4Pq4J&_nc_oc=AdopW17L19BZHN6c2ybjTuOvLL2txKxHpq3Hp2DicXZ8BTP8gWscoD4LkYEknzAZ9x0&_nc_zt=24&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=Uzmo4T1mdGqV-s15d8RTKg&_nc_tpa=Q5bMBQEJhilohSx0Bcozvyifilaqtxzj_-D70FpR3bMCG8lmyKz8MpzBJR_UMTOMnr90fpVhniCcvfosxw&oh=00_AQBCKSIrY_t0TNRvAtkXe87gKTyDNr_moPmDsDtrIT2vxA&oe=6A69CB3F"
+  },
   "summary": {
-    "followers_count": null,
-    "views": 0,
+    "followers_count": 1345,
+    "views": 65,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 0,
-    "engagement_rate": 0,
+    "engagement_total": 95,
+    "engagement_rate": 146.15,
     "curiosity_score": null,
-    "post_count": 0
+    "post_count": 25
   },
-  "top_posts": [],
-  "recent_posts": []
+  "top_posts": [
+    {
+      "id": "18065204072721062",
+      "text": "5 Kesalahan Fatal Turis Indonesia yang Bikin Autumn Trip ke Jepang HANCUR TOTAL (dan nomor 3 bikin aku mau nangis lihatn",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DbEzTnYgUez",
+      "timestamp": "2026-07-22T00:27:37+0000",
+      "metrics": {
+        "views": 3170,
+        "likes": 19,
+        "replies": 13,
+        "reposts": 1,
+        "quotes": 0,
+        "shares": 21
+      },
+      "engagement": 33
+    },
+    {
+      "id": "18030689252832515",
+      "text": "Unpopular opinion: Barcelona itu bukan kota yang perlu lo *kejar* — lo yang terlalu banyak itinerary justru bakal capek ",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DbF7x8jIH3m",
+      "timestamp": "2026-07-22T11:01:27+0000",
+      "metrics": {
+        "views": 593,
+        "likes": 10,
+        "replies": 13,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 1
+      },
+      "engagement": 23
+    },
+    {
+      "id": "18001097768783126",
+      "text": "Tips Nyari nyari hotel untuk Asian Games dari Turunan Asli Nagoya(Aichi, Ichinomiya) -> Me 😊\n5 Area \"Rahasia\" Nagoya — ",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DbHXmoXgdMr",
+      "timestamp": "2026-07-23T00:23:16+0000",
+      "metrics": {
+        "views": 1477,
+        "likes": 10,
+        "replies": 7,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 2
+      },
+      "engagement": 17
+    },
+    {
+      "id": "18615820549004129",
+      "text": "Terakhir ke Europe summer 2025(3 month muter2) pas my sis Ry married ama Ro, Finish guy temen kuliahnya di Strathclyde, ",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DbErG_lAetA",
+      "timestamp": "2026-07-21T23:20:34+0000",
+      "metrics": {
+        "views": 84,
+        "likes": 3,
+        "replies": 1,
+        "reposts": 1,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 5
+    },
+    {
+      "id": "18139980874509138",
+      "text": "Di Paris, aku belajar satu survival skill yang ga ada di itinerary manapun:\nberhenti pura-pura nyaman di tengah keramaia",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DbDrln9lJaW",
+      "timestamp": "2026-07-21T14:01:27+0000",
+      "metrics": {
+        "views": 295,
+        "likes": 2,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 3
+    }
+  ],
+  "recent_posts": [
+    {
+      "id": "18108225977516017",
+      "text": "Core memory dengan my Sis Ry & Ro My Bro In Law 📍 Barcelona Beach.Tapi jujur, Spanyol emang selalu punya tempat tersend",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DbIKLtZgXNn",
+      "timestamp": "2026-07-23T07:45:14+0000",
+      "metrics": {
+        "views": 27,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "18001097768783126",
+      "text": "Tips Nyari nyari hotel untuk Asian Games dari Turunan Asli Nagoya(Aichi, Ichinomiya) -> Me 😊\n5 Area \"Rahasia\" Nagoya — ",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DbHXmoXgdMr",
+      "timestamp": "2026-07-23T00:23:16+0000",
+      "metrics": {
+        "views": 1477,
+        "likes": 10,
+        "replies": 7,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 2
+      },
+      "engagement": 17
+    },
+    {
+      "id": "18030689252832515",
+      "text": "Unpopular opinion: Barcelona itu bukan kota yang perlu lo *kejar* — lo yang terlalu banyak itinerary justru bakal capek ",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DbF7x8jIH3m",
+      "timestamp": "2026-07-22T11:01:27+0000",
+      "metrics": {
+        "views": 593,
+        "likes": 10,
+        "replies": 13,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 1
+      },
+      "engagement": 23
+    },
+    {
+      "id": "18121202344816518",
+      "text": "Tokyo hari ini beneran hot bgt asli 🥵. Kalo lebih dari sebulan di Jepang, 3 hari pertama book hotel sisanya Airbnb nyar",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DbFrcXhgRI4",
+      "timestamp": "2026-07-22T08:38:09+0000",
+      "metrics": {
+        "views": 338,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 3
+      },
+      "engagement": 0
+    },
+    {
+      "id": "18090750446322782",
+      "text": "Dulu mikir Paris bikin aku merasa kecil — kotanya terlalu cantik, terlalu confident, terlalu tau dirinya sendiri.\nTernya",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DbFjtJ_IAXz",
+      "timestamp": "2026-07-22T07:31:05+0000",
+      "metrics": {
+        "views": 87,
+        "likes": 2,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 2
+    },
+    {
+      "id": "18434033620132439",
+      "text": "Di El Born ada satu gelateria kecil di Carrer del Rec yang gue temuin gara-gara ngikutin suara sendok nyentuh cup plasti",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DbFLs9LG-xB",
+      "timestamp": "2026-07-22T04:01:20+0000",
+      "metrics": {
+        "views": 28,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
+      "id": "17959229405979822",
+      "text": "Unpopular opinion: Le Marais itu bukan distrik yang perlu lo explore — dia perlu lo *diamin* dulu.\nYang paling worth it ",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DbEzpHaiU9L",
+      "timestamp": "2026-07-22T00:31:05+0000",
+      "metrics": {
+        "views": 32,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
+      "id": "18065204072721062",
+      "text": "5 Kesalahan Fatal Turis Indonesia yang Bikin Autumn Trip ke Jepang HANCUR TOTAL (dan nomor 3 bikin aku mau nangis lihatn",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DbEzTnYgUez",
+      "timestamp": "2026-07-22T00:27:37+0000",
+      "metrics": {
+        "views": 3170,
+        "likes": 19,
+        "replies": 13,
+        "reposts": 1,
+        "quotes": 0,
+        "shares": 21
+      },
+      "engagement": 33
+    },
+    {
+      "id": "18615820549004129",
+      "text": "Terakhir ke Europe summer 2025(3 month muter2) pas my sis Ry married ama Ro, Finish guy temen kuliahnya di Strathclyde, ",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DbErG_lAetA",
+      "timestamp": "2026-07-21T23:20:34+0000",
+      "metrics": {
+        "views": 84,
+        "likes": 3,
+        "replies": 1,
+        "reposts": 1,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 5
+    },
+    {
+      "id": "18139980874509138",
+      "text": "Di Paris, aku belajar satu survival skill yang ga ada di itinerary manapun:\nberhenti pura-pura nyaman di tengah keramaia",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DbDrln9lJaW",
+      "timestamp": "2026-07-21T14:01:27+0000",
+      "metrics": {
+        "views": 295,
+        "likes": 2,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 3
+    }
+  ]
 }
