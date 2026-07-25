@@ -1,22 +1,22 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-07-25T21:12:54.423Z",
+  "updated_at": "2026-07-25T22:14:39.588Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=8w9qcfiQzAMQ7kNvwHxckhY&_nc_oc=AdrRKdsUyZMa29vI4x6n6-KJ-uTVbKZ5XACD-AknyjWy4SDYO1J3p9an7ZYh042Bo5Y&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=GpCpgTlcLjQOWtWsYXG-dQ&_nc_tpa=Q5bMBQEFBZZK3mnS_wmmcKYCwpUx8QxQCaSBssriAtLRPQ2bxguqFpQjcMDwNFZbLFNbfzkjtdyDb8pkvA&oh=00_AQCNEMIcjU2lBCj2hbEKhwpDlj4Nglmgs682BUFOASwvNA&oe=6A6AF313"
+    "picture": "https://scontent-lhr11-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=8w9qcfiQzAMQ7kNvwG5-7US&_nc_oc=Adq1MTZ6SEHvjBtlAnPDS3TE9kVNujqX3280XSHwqUBMJ4LwePbN9M5ejvRxzqulToc&_nc_zt=24&_nc_ht=scontent-lhr11-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=_PgF1_DYQFtKk1uhSi5DRQ&_nc_tpa=Q5bMBQFIyxuwnSIJfDAtiJNk3AQ1yK8o7sosk-dKbCs3NxcUvp_xDg2IbOlC1IzgXsXuUm_77SaeojxiCA&oh=00_AQCV289RgL1YNfXaamS8ErMy_NlwtsvbI3eptC7TS8jx1w&oe=6A6AF313"
   },
   "summary": {
     "followers_count": 0,
-    "views": 412,
+    "views": 414,
     "likes": 6,
     "replies": 1,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 270,
-    "engagement_rate": 65.53,
+    "engagement_total": 272,
+    "engagement_rate": 65.7,
     "curiosity_score": null,
-    "post_count": 18
+    "post_count": 19
   },
   "top_posts": [
     {
@@ -97,6 +97,21 @@
   ],
   "recent_posts": [
     {
+      "id": "18127153045655510",
+      "text": "Pagi ini bangun, langsung inget doa yang udah lama aku tunggu jawabannya.\nBelum ada tanda-tanda. Tapi masih dikasih pagi",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbO1sLUgWX6",
+      "timestamp": "2026-07-25T22:01:24+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 2,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 2
+    },
+    {
       "id": "18137655148549074",
       "text": "Dulu aku mikir sabar itu soal nahan diri — nahan nangis, nahan keluh, pura-pura kuat.\nTernyata bukan. Sabar yang beneran",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbOP8kwoBr2",
@@ -117,7 +132,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbOCL-ymwdB",
       "timestamp": "2026-07-25T14:31:22+0000",
       "metrics": {
-        "views": 27,
+        "views": 28,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -192,7 +207,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbNDLDPkYgc",
       "timestamp": "2026-07-25T05:20:43+0000",
       "metrics": {
-        "views": 40,
+        "views": 41,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -230,21 +245,6 @@
         "shares": 0
       },
       "engagement": 7
-    },
-    {
-      "id": "18140974942489281",
-      "text": "Istri yang Paling Kuat di Rumah, Justru yang Paling Sering Dilupakan Perasaannya\n\n1/ \"Dia baik-baik aja kok.\" Kalimat it",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbI1EPcicLW",
-      "timestamp": "2026-07-23T13:59:58+0000",
-      "metrics": {
-        "views": 197,
-        "likes": 4,
-        "replies": 6,
-        "reposts": 1,
-        "quotes": 0,
-        "shares": 1
-      },
-      "engagement": 11
     }
   ]
 }
