@@ -1,11 +1,11 @@
 {
   "account": "rrpetch",
-  "updated_at": "2026-07-25T22:14:09.078Z",
+  "updated_at": "2026-07-25T23:17:05.008Z",
   "profile": {
     "username": "rrpetch",
     "name": "rrp",
     "biography": "Travelers",
-    "picture": "https://scontent-dfw6-2.cdninstagram.com/v/t51.82787-19/725626839_18109259368780392_5435560104487373455_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=e7QlKLUZ29cQ7kNvwHuRtHL&_nc_oc=Adph7Kvzd_8cgDXX0KCoG_2dRTZ21T84TmF4Tgg6xzc8l5EUfga_HAMTN0H_s1h4ZHI&_nc_zt=24&_nc_ht=scontent-dfw6-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=YZK8XOirxyoIIfUKNQVkUg&_nc_tpa=Q5bMBQHpCBZjQHyTxbZKGRdFJQxP69NLCM1MTzrSYpKyojhmQAgVbqsXo8n6VtHjbG8wEar06UO6Fn5X9g&oh=00_AQAxTEhQYXFnIsrxkuBMjkGyDnrNU6z_Ah1iSyMew458_Q&oe=6A6AEE6D"
+    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/725626839_18109259368780392_5435560104487373455_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=e7QlKLUZ29cQ7kNvwERS6aX&_nc_oc=AdqSRJD01JLNtVcBYwS7GjLnLFucaIOx7MBPWGv7LE_d8b6h725YaB0eH7rc25B52oo&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=yDFial_eygCQ3t959hmiCA&_nc_tpa=Q5bMBQEV9ri5iXLg2m3Srcwj0-m2n5sK7JqeldHZqWrz-T7Tr5-84WsI0ewP2aHDqNrmuB8BWYkRdkUi0A&oh=00_AQCi67qPN0Fd4k5AIV7HEiF37LLA_FGQEb3Z0PHS2ZuOBQ&oe=6A6B26AD"
   },
   "summary": {
     "followers_count": 2,
@@ -15,27 +15,12 @@
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 3,
-    "engagement_rate": 20,
+    "engagement_total": 1,
+    "engagement_rate": 6.67,
     "curiosity_score": null,
     "post_count": 25
   },
   "top_posts": [
-    {
-      "id": "18109685311951783",
-      "text": "Staff agen Eropa Anda bukan tidak mau melayani — mereka kelelahan.\nDi musim peak, pertanyaan soal visa Schengen, koneksi",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbCtxPTlu5c",
-      "timestamp": "2026-07-21T05:01:18+0000",
-      "metrics": {
-        "views": 6,
-        "likes": 0,
-        "replies": 2,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 2
-    },
     {
       "id": "18089260760633877",
       "text": "Musim liburan ke Prancis tiba — dan tim agen travel mulai kewalahan.\nPertanyaan soal visa Schengen, hotel halal di Paris",
@@ -50,6 +35,21 @@
         "shares": 0
       },
       "engagement": 1
+    },
+    {
+      "id": "17954369102998635",
+      "text": "Satu hal yang jarang dipikirkan agen travel Italia: wisatawan sering tanya soal *dress code* masuk gereja di jam-jam tid",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbO8iFcmlwa",
+      "timestamp": "2026-07-25T23:01:11+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
     },
     {
       "id": "17943273192272798",
@@ -98,6 +98,21 @@
     }
   ],
   "recent_posts": [
+    {
+      "id": "17954369102998635",
+      "text": "Satu hal yang jarang dipikirkan agen travel Italia: wisatawan sering tanya soal *dress code* masuk gereja di jam-jam tid",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbO8iFcmlwa",
+      "timestamp": "2026-07-25T23:01:11+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
     {
       "id": "17943273192272798",
       "text": "Banyak yang tidak tahu — Italia punya aturan validasi tiket kereta yang berbeda di tiap stasiun.\nSalah validasi, bisa ke",
@@ -225,21 +240,6 @@
       "timestamp": "2026-07-25T00:31:07+0000",
       "metrics": {
         "views": 0,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "17983751675858170",
-      "text": "70% pertanyaan wisatawan Italia sebenarnya bisa dijawab tanpa perlu staff angkat telepon.\nSoal Trenitalia, antrean Colos",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbMgS3RgC6E",
-      "timestamp": "2026-07-25T00:15:57+0000",
-      "metrics": {
-        "views": 8,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
