@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-07-25T00:22:35.161Z",
+  "updated_at": "2026-07-25T03:45:04.065Z",
   "profile": {
     "username": "iams_ichi",
     "name": "iams",
     "biography": "Solo Traveler Bunglon\nFine dining 👌 & Street food lokal 🫰\nHidden gems expert for 🇯🇵🇦🇺🇫🇷🇪🇸🇮🇹 + Umrah.\nBasic tourist traps could never fr",
-    "picture": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/729823178_17902006359449426_143983074154164635_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=111&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=vjPthGADF1IQ7kNvwG4Pq4J&_nc_oc=AdopW17L19BZHN6c2ybjTuOvLL2txKxHpq3Hp2DicXZ8BTP8gWscoD4LkYEknzAZ9x0&_nc_zt=24&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=Uzmo4T1mdGqV-s15d8RTKg&_nc_tpa=Q5bMBQEJhilohSx0Bcozvyifilaqtxzj_-D70FpR3bMCG8lmyKz8MpzBJR_UMTOMnr90fpVhniCcvfosxw&oh=00_AQBCKSIrY_t0TNRvAtkXe87gKTyDNr_moPmDsDtrIT2vxA&oe=6A69CB3F"
+    "picture": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/729823178_17902006359449426_143983074154164635_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=111&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=vjPthGADF1IQ7kNvwGIYbTX&_nc_oc=AdrSwnKk0UfLTRpFH0-Vp1sWHNMkhRtIS48eC-U50tGhyHx6PPz85MZSQCvlKF09rtE&_nc_zt=24&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=gc5fHu-mkF9W3Ze6C-UGFQ&_nc_tpa=Q5bMBQFaLpVfjsyBFbdn6IYXtHf24vVH1bpKY_5xBlKB_5_3--2FTiSFonY3ixvdgEomTeN5De5_-UPF9A&oh=00_AQCLJees-3Zdb_Dw1PIqRNKD975h-21ngkZthkle-LjWhQ&oe=6A6A037F"
   },
   "summary": {
     "followers_count": 1345,
-    "views": 65,
+    "views": 253,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 95,
-    "engagement_rate": 146.15,
+    "engagement_rate": 37.55,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -27,7 +27,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DbEzTnYgUez",
       "timestamp": "2026-07-22T00:27:37+0000",
       "metrics": {
-        "views": 3170,
+        "views": 3171,
         "likes": 19,
         "replies": 13,
         "reposts": 1,
@@ -42,7 +42,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DbF7x8jIH3m",
       "timestamp": "2026-07-22T11:01:27+0000",
       "metrics": {
-        "views": 593,
+        "views": 594,
         "likes": 10,
         "replies": 13,
         "reposts": 0,
@@ -57,7 +57,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DbHXmoXgdMr",
       "timestamp": "2026-07-23T00:23:16+0000",
       "metrics": {
-        "views": 1477,
+        "views": 1478,
         "likes": 10,
         "replies": 7,
         "reposts": 0,
@@ -72,7 +72,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DbErG_lAetA",
       "timestamp": "2026-07-21T23:20:34+0000",
       "metrics": {
-        "views": 84,
+        "views": 85,
         "likes": 3,
         "replies": 1,
         "reposts": 1,
@@ -87,7 +87,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DbDrln9lJaW",
       "timestamp": "2026-07-21T14:01:27+0000",
       "metrics": {
-        "views": 295,
+        "views": 296,
         "likes": 2,
         "replies": 1,
         "reposts": 0,
@@ -99,12 +99,27 @@
   ],
   "recent_posts": [
     {
+      "id": "18129952690725650",
+      "text": "Dulu mikir Hokkaido itu destinasi buat yang mau \"escape\" — sepi, salju, healing.\nTernyata yang gue escape bukan kotanya.",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DbMiBdQCfsj",
+      "timestamp": "2026-07-25T00:31:03+0000",
+      "metrics": {
+        "views": 125,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "18108225977516017",
       "text": "Core memory dengan my Sis Ry & Ro My Bro In Law 📍 Barcelona Beach.Tapi jujur, Spanyol emang selalu punya tempat tersend",
       "permalink": "https://www.threads.com/@iams_ichi/post/DbIKLtZgXNn",
       "timestamp": "2026-07-23T07:45:14+0000",
       "metrics": {
-        "views": 27,
+        "views": 28,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -119,7 +134,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DbHXmoXgdMr",
       "timestamp": "2026-07-23T00:23:16+0000",
       "metrics": {
-        "views": 1477,
+        "views": 1478,
         "likes": 10,
         "replies": 7,
         "reposts": 0,
@@ -134,7 +149,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DbF7x8jIH3m",
       "timestamp": "2026-07-22T11:01:27+0000",
       "metrics": {
-        "views": 593,
+        "views": 594,
         "likes": 10,
         "replies": 13,
         "reposts": 0,
@@ -149,7 +164,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DbFrcXhgRI4",
       "timestamp": "2026-07-22T08:38:09+0000",
       "metrics": {
-        "views": 338,
+        "views": 339,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -164,7 +179,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DbFjtJ_IAXz",
       "timestamp": "2026-07-22T07:31:05+0000",
       "metrics": {
-        "views": 87,
+        "views": 88,
         "likes": 2,
         "replies": 0,
         "reposts": 0,
@@ -194,7 +209,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DbEzpHaiU9L",
       "timestamp": "2026-07-22T00:31:05+0000",
       "metrics": {
-        "views": 32,
+        "views": 33,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -209,7 +224,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DbEzTnYgUez",
       "timestamp": "2026-07-22T00:27:37+0000",
       "metrics": {
-        "views": 3170,
+        "views": 3171,
         "likes": 19,
         "replies": 13,
         "reposts": 1,
@@ -224,7 +239,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DbErG_lAetA",
       "timestamp": "2026-07-21T23:20:34+0000",
       "metrics": {
-        "views": 84,
+        "views": 85,
         "likes": 3,
         "replies": 1,
         "reposts": 1,
@@ -232,21 +247,6 @@
         "shares": 0
       },
       "engagement": 5
-    },
-    {
-      "id": "18139980874509138",
-      "text": "Di Paris, aku belajar satu survival skill yang ga ada di itinerary manapun:\nberhenti pura-pura nyaman di tengah keramaia",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DbDrln9lJaW",
-      "timestamp": "2026-07-21T14:01:27+0000",
-      "metrics": {
-        "views": 295,
-        "likes": 2,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 3
     }
   ]
 }
