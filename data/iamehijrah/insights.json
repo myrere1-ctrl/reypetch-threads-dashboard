@@ -1,22 +1,22 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-07-25T10:48:58.228Z",
+  "updated_at": "2026-07-25T12:43:32.850Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=8w9qcfiQzAMQ7kNvwGdhuFB&_nc_oc=AdoFag13Qs03ULfckUGuCN-BetW0vi120sYyDS5NDOkldJznQ4W5HUXOiOj483iq4nE&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=RVgEwp0Yf-CI9XuRjkYtcA&_nc_tpa=Q5bMBQGwzhrR3iZT-MHB8uIIXGKspG_TCdDmq6R_Ig1BS_Pktk9JznjS9ZCuOXv-wP0rks62VZ0Bz7nKdg&oh=00_AQBUzOmbghP-7nHmWjHth6yFBkhy7GUNUWISJTM7W0XyBw&oe=6A6A8293"
+    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=8w9qcfiQzAMQ7kNvwEx_a2L&_nc_oc=AdoY3yjeWBZgqBcwa-7VBWcc-2d5JG4McE2tAJHhWtlAUtWRVafFBOfvlIqwmfihmeA&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=N3a0_R4l52rIspPcecI5AQ&_nc_tpa=Q5bMBQGnEqsj2llOY1_PIJjyNaMsilO0YNd310NstKNB2FWU2kJYeofj9Rm9sWn1SP54pk8Um228QiAdPg&oh=00_AQD-Tq1PeIuQujCM0L95SDQNFa4RVEL_HiKetvK8ctg8-A&oe=6A6A8293"
   },
   "summary": {
     "followers_count": 0,
-    "views": 180,
+    "views": 242,
     "likes": 4,
     "replies": 1,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 268,
-    "engagement_rate": 148.89,
+    "engagement_rate": 110.74,
     "curiosity_score": null,
-    "post_count": 14
+    "post_count": 15
   },
   "top_posts": [
     {
@@ -25,7 +25,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbGGtSHCdfi",
       "timestamp": "2026-07-22T12:36:23+0000",
       "metrics": {
-        "views": 3396,
+        "views": 3397,
         "likes": 122,
         "replies": 6,
         "reposts": 17,
@@ -97,12 +97,27 @@
   ],
   "recent_posts": [
     {
+      "id": "17953229361207446",
+      "text": "Ada fase hidup yang rasanya gelap banget, sampe ga tau harus mulai doa dari mana.\nDi situ aku selalu balik ke Doa Nabi Y",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbNtlvuG88t",
+      "timestamp": "2026-07-25T11:31:22+0000",
+      "metrics": {
+        "views": 37,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "17944246332266540",
       "text": "Tiap malem sebelum tidur, aku coba rutin baca Surat Yasin pelan-pelan — bukan ngejar cepet selesai, tapi beneran ngerasa",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbNcbm_lHp_",
       "timestamp": "2026-07-25T09:01:26+0000",
       "metrics": {
-        "views": 137,
+        "views": 150,
         "likes": 3,
         "replies": 0,
         "reposts": 0,
@@ -117,7 +132,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbNEYtuG6z3",
       "timestamp": "2026-07-25T05:31:20+0000",
       "metrics": {
-        "views": 103,
+        "views": 108,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -222,7 +237,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbGGtSHCdfi",
       "timestamp": "2026-07-22T12:36:23+0000",
       "metrics": {
-        "views": 3396,
+        "views": 3397,
         "likes": 122,
         "replies": 6,
         "reposts": 17,
@@ -230,21 +245,6 @@
         "shares": 19
       },
       "engagement": 145
-    },
-    {
-      "id": "18109297030788331",
-      "text": "Surat Yasin Ayat 58: Salamun Qaulan Min Rabbir Rahim\n\nKalau kamu lagi dikejar-kejar masalah dari segala arah, hafalin da",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Da9IfQ_GTaN",
-      "timestamp": "2026-07-19T00:58:47+0000",
-      "metrics": {
-        "views": 190,
-        "likes": 1,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
     }
   ]
 }
