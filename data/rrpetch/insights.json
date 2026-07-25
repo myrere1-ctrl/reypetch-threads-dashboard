@@ -1,22 +1,22 @@
 {
   "account": "rrpetch",
-  "updated_at": "2026-07-25T12:41:49.684Z",
+  "updated_at": "2026-07-25T14:06:51.453Z",
   "profile": {
     "username": "rrpetch",
     "name": "rrp",
     "biography": "Travelers",
-    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/725626839_18109259368780392_5435560104487373455_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=e7QlKLUZ29cQ7kNvwGo3xnj&_nc_oc=Adr7JKM0M594NxAGF1wX0ruweKTHr4DoVf0xIlV8F6xkYwGUKDAEXvZYt1BJDmRpXyg&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=VyQaacMKsut3NiK_vQzLfQ&_nc_tpa=Q5bMBQEax1Xu8CnCUo5vThE06gHFXgprFWSUzlMoRrVpH5has14hpe9Dqjp6wqCXcvOI3Px1V-B-o8fCQw&oh=00_AQBOFpT9lkQHAu5oOmLQoR6uJYW-FE7O8qLBuCiCV4zPIA&oe=6A6A7DED"
+    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/725626839_18109259368780392_5435560104487373455_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=e7QlKLUZ29cQ7kNvwG2dFQp&_nc_oc=AdoWefuNWWeVizfc2mguxpVuwyBctQhVOmm0_88FpksYdI4kHfbkkSawwES6Pu6zOhg&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=f_vCCVDTEszmfoOz4oNLDg&_nc_tpa=Q5bMBQG2Ot5XtAdJo95yfmLjpxoBeHARD9zBP0mAnweReUzVXrNqWWZPFDnNv_1FsT1wBA_w2h5bw3Snpw&oh=00_AQAJmZV6WFBNIKR23-2U1dHiiryvD7ZSTkXdrk2t_v5dbQ&oe=6A6A7DED"
   },
   "summary": {
     "followers_count": 2,
-    "views": 9,
+    "views": 14,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 3,
-    "engagement_rate": 33.33,
+    "engagement_rate": 21.43,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -52,12 +52,27 @@
       "engagement": 1
     },
     {
+      "id": "17943273192272798",
+      "text": "Banyak yang tidak tahu — Italia punya aturan validasi tiket kereta yang berbeda di tiap stasiun.\nSalah validasi, bisa ke",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbN-vksGwkz",
+      "timestamp": "2026-07-25T14:01:16+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "18016400567718669",
       "text": "Wisatawan Jepang pertama kali sering tidak menyangka betapa padatnya jadwal yang mereka buat sendiri.\nTiga kota dalam li",
       "permalink": "https://www.threads.com/@rrpetch/post/DbNxAfKIO79",
       "timestamp": "2026-07-25T12:01:15+0000",
       "metrics": {
-        "views": 0,
+        "views": 6,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -80,14 +95,16 @@
         "shares": 0
       },
       "engagement": 0
-    },
+    }
+  ],
+  "recent_posts": [
     {
-      "id": "17957950847984189",
-      "text": "Mitos: wisatawan Jepang itu mandiri, jadi agen travel jarang dapat pertanyaan banyak.\nFaktanya? Justru sebaliknya — itin",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbNViOim6HR",
-      "timestamp": "2026-07-25T08:01:10+0000",
+      "id": "17943273192272798",
+      "text": "Banyak yang tidak tahu — Italia punya aturan validasi tiket kereta yang berbeda di tiap stasiun.\nSalah validasi, bisa ke",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbN-vksGwkz",
+      "timestamp": "2026-07-25T14:01:16+0000",
       "metrics": {
-        "views": 3,
+        "views": 0,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -95,16 +112,14 @@
         "shares": 0
       },
       "engagement": 0
-    }
-  ],
-  "recent_posts": [
+    },
     {
       "id": "18016400567718669",
       "text": "Wisatawan Jepang pertama kali sering tidak menyangka betapa padatnya jadwal yang mereka buat sendiri.\nTiga kota dalam li",
       "permalink": "https://www.threads.com/@rrpetch/post/DbNxAfKIO79",
       "timestamp": "2026-07-25T12:01:15+0000",
       "metrics": {
-        "views": 0,
+        "views": 6,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -225,21 +240,6 @@
       "timestamp": "2026-07-25T00:15:57+0000",
       "metrics": {
         "views": 8,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18131441794625678",
-      "text": "Wisatawan Eropa pertama kali sering tidak menyangka — navigasi antar kota itu kompleks.\nTiket kereta beda platform, atur",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbGCoqDG8T4",
-      "timestamp": "2026-07-22T12:01:21+0000",
-      "metrics": {
-        "views": 2,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
