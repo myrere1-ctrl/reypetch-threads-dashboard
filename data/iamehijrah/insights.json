@@ -1,22 +1,22 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-07-25T06:36:02.231Z",
+  "updated_at": "2026-07-25T09:15:29.181Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-dfw6-2.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=8w9qcfiQzAMQ7kNvwEjRPDP&_nc_oc=AdpOxeQVfVa0O-CrmKnyCujk-0haQl2LVxayD_zN38kwmvOcEJpXj9OUAiLrYA7MiLU&_nc_zt=24&_nc_ht=scontent-dfw6-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=HCyY_mURSWpngua1IDb8cw&_nc_tpa=Q5bMBQG1SrnwcarT2yz4gukuHIG1QvEAYd4oLXSdRmHIQf23_AQ8Xd9yCS3F5lz4kfqL1EjnV-IseFJD_Q&oh=00_AQCAdeYuwRHFuc96BDpTk5WPTfBZhOo7XcJObOXf9qcOYA&oe=6A6A1213"
+    "picture": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=8w9qcfiQzAMQ7kNvwFMRZ6v&_nc_oc=AdogpFb6PgscDu9qiKmB_MsDCvlNfCqlbaNXy-1859WHxsbg-zLOF8-fW3QTT1_pFnQ&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=-ewTQT4aAlsvpglxpqg0qQ&_nc_tpa=Q5bMBQFLisM1L9BeVsnhf5CyMU3op_kEQ37yfJnCQFemmROfyY6oJu0Y9RfD0u_ubsgfugrL23k_8TDtKg&oh=00_AQCTag1QbDpAh9DE8E_HzgwrazajbkZVclfFwpGdPx-qwg&oe=6A6A4A53"
   },
   "summary": {
     "followers_count": 0,
-    "views": 451,
-    "likes": 5,
+    "views": 39,
+    "likes": 0,
     "replies": 0,
-    "reposts": 1,
+    "reposts": 0,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 265,
-    "engagement_rate": 58.76,
+    "engagement_rate": 679.49,
     "curiosity_score": null,
-    "post_count": 13
+    "post_count": 14
   },
   "top_posts": [
     {
@@ -25,7 +25,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbGGtSHCdfi",
       "timestamp": "2026-07-22T12:36:23+0000",
       "metrics": {
-        "views": 3394,
+        "views": 3396,
         "likes": 122,
         "replies": 6,
         "reposts": 17,
@@ -55,7 +55,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbIBcs8CRuf",
       "timestamp": "2026-07-23T06:28:55+0000",
       "metrics": {
-        "views": 619,
+        "views": 620,
         "likes": 22,
         "replies": 6,
         "reposts": 1,
@@ -70,7 +70,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbImpF-Cb6v",
       "timestamp": "2026-07-23T11:53:55+0000",
       "metrics": {
-        "views": 490,
+        "views": 492,
         "likes": 5,
         "replies": 6,
         "reposts": 2,
@@ -97,12 +97,27 @@
   ],
   "recent_posts": [
     {
+      "id": "17944246332266540",
+      "text": "Tiap malem sebelum tidur, aku coba rutin baca Surat Yasin pelan-pelan — bukan ngejar cepet selesai, tapi beneran ngerasa",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbNcbm_lHp_",
+      "timestamp": "2026-07-25T09:01:26+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "18613959580025869",
       "text": "Ada satu hal yang aku lakuin tiap kali rindu Tanah Suci datang tiba-tiba — baca Surat Al-Ikhlas pelan-pelan, berulang.\nG",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbNEYtuG6z3",
       "timestamp": "2026-07-25T05:31:20+0000",
       "metrics": {
-        "views": 57,
+        "views": 102,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -117,7 +132,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbNDLDPkYgc",
       "timestamp": "2026-07-25T05:20:43+0000",
       "metrics": {
-        "views": 26,
+        "views": 39,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -132,7 +147,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbNAkWFlGcj",
       "timestamp": "2026-07-25T04:57:58+0000",
       "metrics": {
-        "views": 38,
+        "views": 39,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -147,7 +162,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbLIEASCeNO",
       "timestamp": "2026-07-24T11:24:26+0000",
       "metrics": {
-        "views": 57,
+        "views": 60,
         "likes": 1,
         "replies": 6,
         "reposts": 0,
@@ -177,7 +192,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbImpF-Cb6v",
       "timestamp": "2026-07-23T11:53:55+0000",
       "metrics": {
-        "views": 490,
+        "views": 492,
         "likes": 5,
         "replies": 6,
         "reposts": 2,
@@ -192,7 +207,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbIBcs8CRuf",
       "timestamp": "2026-07-23T06:28:55+0000",
       "metrics": {
-        "views": 619,
+        "views": 620,
         "likes": 22,
         "replies": 6,
         "reposts": 1,
@@ -207,7 +222,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbGGtSHCdfi",
       "timestamp": "2026-07-22T12:36:23+0000",
       "metrics": {
-        "views": 3394,
+        "views": 3396,
         "likes": 122,
         "replies": 6,
         "reposts": 17,
@@ -230,21 +245,6 @@
         "shares": 0
       },
       "engagement": 1
-    },
-    {
-      "id": "18348549349173857",
-      "text": "Wirid La Hawla Wala Quwwata Illa Billah 100x\n\nIni kalimat yang disebut Rasulullah sebagai 'harta terpendam surga'. Ampuh",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Da9IRi6D153",
-      "timestamp": "2026-07-19T00:56:55+0000",
-      "metrics": {
-        "views": 1120,
-        "likes": 5,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 5
     }
   ]
 }
