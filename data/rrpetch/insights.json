@@ -1,22 +1,22 @@
 {
   "account": "rrpetch",
-  "updated_at": "2026-07-25T09:15:09.747Z",
+  "updated_at": "2026-07-25T10:48:40.389Z",
   "profile": {
     "username": "rrpetch",
     "name": "rrp",
     "biography": "Travelers",
-    "picture": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/725626839_18109259368780392_5435560104487373455_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=e7QlKLUZ29cQ7kNvwHQyEu8&_nc_oc=AdreZhJZUMfWhPUgd2CBv2gBOki0V6iky6zVFkoOdRG1ulPSRrKa-87lk__ONYNFULg&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=pWeJ53V2xrN-o3QDK8oCcw&_nc_tpa=Q5bMBQFaXMwtvwbuCWm0gyuTjPZuvrAkdpxpyAbPSrsMfc5P1cn21CeSBGQiiSFWvVfLKG532KE49Gtoxw&oh=00_AQCLsqhmGu9nUg35AGSeBbbn82hV3wbr41GzgyVjnFmxiA&oe=6A6A45AD"
+    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/725626839_18109259368780392_5435560104487373455_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=e7QlKLUZ29cQ7kNvwHquGJk&_nc_oc=AdoJxAh1MXB77SGGSQopBZp32Y0Ns-VXhUfm6105j2t8_k-ZV2oRSJLX-lcxlDVinrI&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=zgD6ALX7cEWjy_VZ5UxgPg&_nc_tpa=Q5bMBQEDXNaKOAUqunWbiwayTDYzNgrVm8XyLVcpzUc4GMSnW3TZVSYTic1-a5u5llE8LwcDP-QmZwXuGA&oh=00_AQDCa1-e4IIsWQW7S1bB_ZKfUBPyKM04YacIk1xueo9PkA&oe=6A6A7DED"
   },
   "summary": {
     "followers_count": 2,
-    "views": 5,
+    "views": 7,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 3,
-    "engagement_rate": 60,
+    "engagement_rate": 42.86,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -52,6 +52,21 @@
       "engagement": 1
     },
     {
+      "id": "18167447875445805",
+      "text": "Ada satu fitur yang jarang disorot tapi dampaknya besar:\njawaban yang diberikan ke jamaah — terasa seperti datang langsu",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbNjRHnIIAU",
+      "timestamp": "2026-07-25T10:01:10+0000",
+      "metrics": {
+        "views": 1,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "17957950847984189",
       "text": "Mitos: wisatawan Jepang itu mandiri, jadi agen travel jarang dapat pertanyaan banyak.\nFaktanya? Justru sebaliknya — itin",
       "permalink": "https://www.threads.com/@rrpetch/post/DbNViOim6HR",
@@ -80,14 +95,16 @@
         "shares": 0
       },
       "engagement": 0
-    },
+    }
+  ],
+  "recent_posts": [
     {
-      "id": "18111357511939480",
-      "text": "Satu hal yang sering bikin wisatawan Prancis pertama kali kebingungan: bahasa.\nDi luar Paris, Inggris tidak selalu jadi ",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbNA8MZDgTP",
-      "timestamp": "2026-07-25T05:01:13+0000",
+      "id": "18167447875445805",
+      "text": "Ada satu fitur yang jarang disorot tapi dampaknya besar:\njawaban yang diberikan ke jamaah — terasa seperti datang langsu",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbNjRHnIIAU",
+      "timestamp": "2026-07-25T10:01:10+0000",
       "metrics": {
-        "views": 0,
+        "views": 1,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -95,9 +112,7 @@
         "shares": 0
       },
       "engagement": 0
-    }
-  ],
-  "recent_posts": [
+    },
     {
       "id": "17957950847984189",
       "text": "Mitos: wisatawan Jepang itu mandiri, jadi agen travel jarang dapat pertanyaan banyak.\nFaktanya? Justru sebaliknya — itin",
@@ -164,7 +179,7 @@
       "permalink": "https://www.threads.com/@rrpetch/post/DbMsVVyAOck",
       "timestamp": "2026-07-25T02:01:09+0000",
       "metrics": {
-        "views": 0,
+        "views": 1,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -225,21 +240,6 @@
       "timestamp": "2026-07-22T10:01:24+0000",
       "metrics": {
         "views": 15,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18001421906969930",
-      "text": "Agen travel Italia itu punya 4 staff — tapi di musim summer, pertanyaan masuk 200+ per hari.\nSoal kereta Trenitalia, hot",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbFnKommwRA",
-      "timestamp": "2026-07-22T08:01:19+0000",
-      "metrics": {
-        "views": 3,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
