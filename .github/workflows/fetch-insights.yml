@@ -27,10 +27,10 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git pull --rebase
           git add data/iams/insights.json
           if ! git diff --staged --quiet; then
             git commit -m "data(iams): update insights"
+            git pull --rebase
             git push
           fi
 
@@ -51,9 +51,9 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git pull --rebase
           git add data/rrpetch/insights.json
           if ! git diff --staged --quiet; then
             git commit -m "data(rrpetch): update insights"
+            git pull --rebase
             git push
           fi
