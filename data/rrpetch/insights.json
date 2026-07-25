@@ -1,41 +1,26 @@
 {
   "account": "rrpetch",
-  "updated_at": "2026-07-25T00:22:56.640Z",
+  "updated_at": "2026-07-25T03:45:27.053Z",
   "profile": {
     "username": "rrpetch",
     "name": "rrp",
     "biography": "Travelers",
-    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/725626839_18109259368780392_5435560104487373455_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=zqJ0921voWkQ7kNvwGJ5uGd&_nc_oc=Adol9hcwZgnrvQwgozJ3g0XyT_r_zmGS3UZ9ig8KcBUhdEzJGUIfdgSleCLog4H2la0&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=0cdJI0wpbaxwJAJYmIl-Kg&_nc_tpa=Q5bMBQF_42-ujfdApLiLy2u0T6GkyVaS0w6nsr_nBORdRfKS6YZfsgEN_r45EfcqMv_YKi59tyzpsBc3lQ&oh=00_AQAWps8UEaHkoDH_74lgz4Qwu9FSsT93s-MBdoWId5qLSQ&oe=6A69D52D"
+    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/725626839_18109259368780392_5435560104487373455_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=zqJ0921voWkQ7kNvwGv8I0w&_nc_oc=Ado3AbqM4RtOVSxbrWSjzCVAqbrrs9FYuJoDxJGI1AI51PmdGq9w38FTWT0OviO8Lc4&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=jzk7fQqXC-P8NM0X1hxJNA&_nc_tpa=Q5bMBQFPwq8vXln2LU0sd0rtdnRrgQlZHWpLuIpwtO4xIPMCpjKWTuwfaJ37R48_tIEF9CpJDTU2WvRorQ&oh=00_AQD6ftnp-0xqW_3bKYhqkyLKgzrROdSWzaojDreiqM9PgA&oe=6A6A0D6D"
   },
   "summary": {
     "followers_count": 2,
-    "views": 0,
+    "views": 8,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 7,
-    "engagement_rate": 0,
+    "engagement_total": 3,
+    "engagement_rate": 37.5,
     "curiosity_score": null,
     "post_count": 25
   },
   "top_posts": [
-    {
-      "id": "18158052796422806",
-      "text": "Agen Umroh klien kami dulu kewalahan — 3 staff melayani 150+ pertanyaan jamaah per hari hanya lewat WhatsApp.\nPertanyaan",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbATQ0Zkciy",
-      "timestamp": "2026-07-20T06:31:12+0000",
-      "metrics": {
-        "views": 3,
-        "likes": 0,
-        "replies": 4,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 4
-    },
     {
       "id": "18109685311951783",
       "text": "Staff agen Eropa Anda bukan tidak mau melayani — mereka kelelahan.\nDi musim peak, pertanyaan soal visa Schengen, koneksi",
@@ -67,10 +52,10 @@
       "engagement": 1
     },
     {
-      "id": "17983751675858170",
-      "text": "70% pertanyaan wisatawan Italia sebenarnya bisa dijawab tanpa perlu staff angkat telepon.\nSoal Trenitalia, antrean Colos",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbMgS3RgC6E",
-      "timestamp": "2026-07-25T00:15:57+0000",
+      "id": "18128432212725670",
+      "text": "Staff agen Haji kadang menghadapi pertanyaan di jam-jam yang tidak terduga.\nSoal jadwal Armuzna, aturan ihram, estimasi ",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbM2nu8jfaR",
+      "timestamp": "2026-07-25T03:31:02+0000",
       "metrics": {
         "views": 0,
         "likes": 0,
@@ -82,12 +67,27 @@
       "engagement": 0
     },
     {
-      "id": "18131441794625678",
-      "text": "Wisatawan Eropa pertama kali sering tidak menyangka — navigasi antar kota itu kompleks.\nTiket kereta beda platform, atur",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbGCoqDG8T4",
-      "timestamp": "2026-07-22T12:01:21+0000",
+      "id": "17961608199141158",
+      "text": "Satu fitur yang sering bikin agen travel Eropa surprised:\nklien bisa tanya soal koneksi kereta antar kota — dan dapat ja",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbMsVVyAOck",
+      "timestamp": "2026-07-25T02:01:09+0000",
       "metrics": {
-        "views": 2,
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "18002937479978219",
+      "text": "Satu agen Umroh — 2 staff CS, 150+ jamaah aktif menjelang musim keberangkatan.\nPertanyaan masuk dari subuh sampai malam:",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbMiBwtj0Lk",
+      "timestamp": "2026-07-25T00:31:07+0000",
+      "metrics": {
+        "views": 0,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -99,12 +99,57 @@
   ],
   "recent_posts": [
     {
+      "id": "18128432212725670",
+      "text": "Staff agen Haji kadang menghadapi pertanyaan di jam-jam yang tidak terduga.\nSoal jadwal Armuzna, aturan ihram, estimasi ",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbM2nu8jfaR",
+      "timestamp": "2026-07-25T03:31:02+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "17961608199141158",
+      "text": "Satu fitur yang sering bikin agen travel Eropa surprised:\nklien bisa tanya soal koneksi kereta antar kota — dan dapat ja",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbMsVVyAOck",
+      "timestamp": "2026-07-25T02:01:09+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "18002937479978219",
+      "text": "Satu agen Umroh — 2 staff CS, 150+ jamaah aktif menjelang musim keberangkatan.\nPertanyaan masuk dari subuh sampai malam:",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbMiBwtj0Lk",
+      "timestamp": "2026-07-25T00:31:07+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "17983751675858170",
       "text": "70% pertanyaan wisatawan Italia sebenarnya bisa dijawab tanpa perlu staff angkat telepon.\nSoal Trenitalia, antrean Colos",
       "permalink": "https://www.threads.com/@rrpetch/post/DbMgS3RgC6E",
       "timestamp": "2026-07-25T00:15:57+0000",
       "metrics": {
-        "views": 0,
+        "views": 8,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -193,51 +238,6 @@
       "text": "70% pertanyaan klien agen travel Jepang sebenarnya bisa dijawab tanpa campur tangan staff sama sekali.\nShinkansen pass, ",
       "permalink": "https://www.threads.com/@rrpetch/post/DbFIPTGEetc",
       "timestamp": "2026-07-22T03:31:04+0000",
-      "metrics": {
-        "views": 1,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "17987617229841410",
-      "text": "Pertama kali ke Spanyol, banyak wisatawan tidak menyangka betapa sibuknya jadwal harian mereka.\nAntara Alhambra, Sagrada",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbE99JXmst4",
-      "timestamp": "2026-07-22T02:01:13+0000",
-      "metrics": {
-        "views": 1,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "17881203075674230",
-      "text": "Pertama kali ke Prancis, banyak wisatawan underestimate soal transportasi lokal.\nTGV, Metro Paris, dan koneksi antar kot",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbEzqxEGe5U",
-      "timestamp": "2026-07-22T00:31:19+0000",
-      "metrics": {
-        "views": 5,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18093233321632189",
-      "text": "Banyak jamaah Umroh pertama kali merasa overwhelmed — bukan karena kurang persiapan, tapi karena tidak tahu harus tanya ",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbEpX7ngUp1",
-      "timestamp": "2026-07-21T23:01:22+0000",
       "metrics": {
         "views": 1,
         "likes": 0,
