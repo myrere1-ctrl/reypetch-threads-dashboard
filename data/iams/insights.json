@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-07-25T03:45:04.065Z",
+  "updated_at": "2026-07-25T06:32:45.251Z",
   "profile": {
     "username": "iams_ichi",
     "name": "iams",
     "biography": "Solo Traveler Bunglon\nFine dining 👌 & Street food lokal 🫰\nHidden gems expert for 🇯🇵🇦🇺🇫🇷🇪🇸🇮🇹 + Umrah.\nBasic tourist traps could never fr",
-    "picture": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/729823178_17902006359449426_143983074154164635_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=111&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=vjPthGADF1IQ7kNvwGIYbTX&_nc_oc=AdrSwnKk0UfLTRpFH0-Vp1sWHNMkhRtIS48eC-U50tGhyHx6PPz85MZSQCvlKF09rtE&_nc_zt=24&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=gc5fHu-mkF9W3Ze6C-UGFQ&_nc_tpa=Q5bMBQFaLpVfjsyBFbdn6IYXtHf24vVH1bpKY_5xBlKB_5_3--2FTiSFonY3ixvdgEomTeN5De5_-UPF9A&oh=00_AQCLJees-3Zdb_Dw1PIqRNKD975h-21ngkZthkle-LjWhQ&oe=6A6A037F"
+    "picture": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/729823178_17902006359449426_143983074154164635_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=111&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=vjPthGADF1IQ7kNvwEWS3xT&_nc_oc=AdpoVE_n77T0lAUzupqn79nExy6L_YaciqYjYQ1lrGSjC2o-DvuTbA8J60jWGCSaA3k&_nc_zt=24&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=7tiiKEu-r5M1xGznRU3EsQ&_nc_tpa=Q5bMBQFLAvND2yYZQgCFQMlmI48ns1QIdX5Wh1zegyT9KNs2cpXUKko4H_FUMHae2Zsh7XKt5BZixtsv2Q&oh=00_AQAarzMjWWaRpvl6QESITDrhB6idB4WhNVFAHcpBCtYb0g&oe=6A6A3BBF"
   },
   "summary": {
     "followers_count": 1345,
-    "views": 253,
+    "views": 292,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 95,
-    "engagement_rate": 37.55,
+    "engagement_total": 93,
+    "engagement_rate": 31.85,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -99,12 +99,27 @@
   ],
   "recent_posts": [
     {
+      "id": "18091158110540840",
+      "text": "Masuk onsen pertama kali itu aku literally duduk 5 menit, terus keluar — terlalu panas, terlalu diem, terlalu *bare*.\nTe",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DbM6ErnIAZz",
+      "timestamp": "2026-07-25T04:01:13+0000",
+      "metrics": {
+        "views": 23,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "18129952690725650",
       "text": "Dulu mikir Hokkaido itu destinasi buat yang mau \"escape\" — sepi, salju, healing.\nTernyata yang gue escape bukan kotanya.",
       "permalink": "https://www.threads.com/@iams_ichi/post/DbMiBdQCfsj",
       "timestamp": "2026-07-25T00:31:03+0000",
       "metrics": {
-        "views": 125,
+        "views": 133,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -119,7 +134,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DbIKLtZgXNn",
       "timestamp": "2026-07-23T07:45:14+0000",
       "metrics": {
-        "views": 28,
+        "views": 29,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -232,21 +247,6 @@
         "shares": 21
       },
       "engagement": 33
-    },
-    {
-      "id": "18615820549004129",
-      "text": "Terakhir ke Europe summer 2025(3 month muter2) pas my sis Ry married ama Ro, Finish guy temen kuliahnya di Strathclyde, ",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DbErG_lAetA",
-      "timestamp": "2026-07-21T23:20:34+0000",
-      "metrics": {
-        "views": 85,
-        "likes": 3,
-        "replies": 1,
-        "reposts": 1,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 5
     }
   ]
 }
