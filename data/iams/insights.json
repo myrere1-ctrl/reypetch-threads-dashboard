@@ -1,33 +1,48 @@
 {
   "account": "iams",
-  "updated_at": "2026-07-26T11:39:49.422Z",
+  "updated_at": "2026-07-26T14:03:15.607Z",
   "profile": {
     "username": "iams_ichi",
     "name": "iams",
     "biography": "Solo Traveler Bunglon\nFine dining 👌 & Street food lokal 🫰\nHidden gems expert for 🇯🇵🇦🇺🇫🇷🇪🇸🇮🇹 + Umrah.\nBasic tourist traps could never fr",
-    "picture": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/729823178_17902006359449426_143983074154164635_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=111&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=vjPthGADF1IQ7kNvwHweloI&_nc_oc=AdoUIO68vzYW5tR6-mPP88-qKHA7gxWSeplhq645peKoGg2Hn4FfWqtpdvhkSFitcEg&_nc_zt=24&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=FLCwp50HA4LEvxHsXubMAQ&_nc_tpa=Q5bMBQFbyYSmUEVl1_JnOQ5c1azdX7Fshk9M6paR1UjBDW9xu8v9HQjbZtze5PblgNBRdOzIR0f4XTFpqA&oh=00_AQBksJOKbtuhzEvpZiyMSmfyLeKRJnyDnA1ogScrivVIbA&oe=6A6BC57F"
+    "picture": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/729823178_17902006359449426_143983074154164635_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=111&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=vjPthGADF1IQ7kNvwF-QHCJ&_nc_oc=AdoObvgdUU9ox1Ldgbqidh9afcse4z1CqrtyTJSmgVTZAOkppcQvoMG0JjIHpcjacQ4&_nc_zt=24&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=Im9a1KiGm2dcucwZ-dAtvQ&_nc_tpa=Q5bMBQFz8Qd51irkvIuseLYFd0-ZrG19rvwvldnfQTlv96mE6gDrHESHwPkFMo1iqm7HDlWd5qt3VXZIBA&oh=00_AQDGZQqRWShXWB6IFVnNO62v_FBpFH_qSpILXlnc83y3rg&oe=6A6BFDBF"
   },
   "summary": {
     "followers_count": 1345,
-    "views": 2756,
-    "likes": 13,
-    "replies": 4,
+    "views": 4222,
+    "likes": 20,
+    "replies": 9,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 130,
-    "engagement_rate": 4.72,
+    "engagement_total": 144,
+    "engagement_rate": 3.41,
     "curiosity_score": null,
     "post_count": 25
   },
   "top_posts": [
+    {
+      "id": "17905673046455743",
+      "text": "Jam 6 pagi di Fushimi Inari, gue baru sadar kenapa orang-orang selalu foto torii yang paling bawah — karena yang atas se",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DbOAbGAG41B",
+      "timestamp": "2026-07-25T14:15:56+0000",
+      "metrics": {
+        "views": 5168,
+        "likes": 22,
+        "replies": 15,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 4
+      },
+      "engagement": 37
+    },
     {
       "id": "18065204072721062",
       "text": "5 Kesalahan Fatal Turis Indonesia yang Bikin Autumn Trip ke Jepang HANCUR TOTAL (dan nomor 3 bikin aku mau nangis lihatn",
       "permalink": "https://www.threads.com/@iams_ichi/post/DbEzTnYgUez",
       "timestamp": "2026-07-22T00:27:37+0000",
       "metrics": {
-        "views": 3174,
+        "views": 3175,
         "likes": 19,
         "replies": 13,
         "reposts": 1,
@@ -37,34 +52,19 @@
       "engagement": 33
     },
     {
-      "id": "17905673046455743",
-      "text": "Jam 6 pagi di Fushimi Inari, gue baru sadar kenapa orang-orang selalu foto torii yang paling bawah — karena yang atas se",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DbOAbGAG41B",
-      "timestamp": "2026-07-25T14:15:56+0000",
-      "metrics": {
-        "views": 3882,
-        "likes": 14,
-        "replies": 13,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 4
-      },
-      "engagement": 27
-    },
-    {
       "id": "18030689252832515",
       "text": "Unpopular opinion: Barcelona itu bukan kota yang perlu lo *kejar* — lo yang terlalu banyak itinerary justru bakal capek ",
       "permalink": "https://www.threads.com/@iams_ichi/post/DbF7x8jIH3m",
       "timestamp": "2026-07-22T11:01:27+0000",
       "metrics": {
-        "views": 596,
+        "views": 601,
         "likes": 10,
-        "replies": 13,
+        "replies": 14,
         "reposts": 0,
         "quotes": 0,
         "shares": 1
       },
-      "engagement": 23
+      "engagement": 24
     },
     {
       "id": "18001097768783126",
@@ -72,7 +72,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DbHXmoXgdMr",
       "timestamp": "2026-07-23T00:23:16+0000",
       "metrics": {
-        "views": 1490,
+        "views": 1493,
         "likes": 10,
         "replies": 7,
         "reposts": 0,
@@ -87,22 +87,22 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DbPrwcbAVBQ",
       "timestamp": "2026-07-26T05:53:18+0000",
       "metrics": {
-        "views": 433,
-        "likes": 7,
-        "replies": 0,
+        "views": 519,
+        "likes": 8,
+        "replies": 1,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 7
+      "engagement": 9
     }
   ],
   "recent_posts": [
     {
-      "id": "18023570111683968",
-      "text": "Unpopular opinion: Osaka itu bukan \"versi santai Tokyo\" — dia justru lebih demanding, cuma lo ga sadar karena sibuk maka",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DbQO77Lm1IU",
-      "timestamp": "2026-07-26T11:01:14+0000",
+      "id": "18480467905096757",
+      "text": "Aku baru sadar — Hokkaido itu bukan soal saljunya.\nYang bikin aku diam bukan pemandangannya. Tapi betapa kotanya ga pern",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DbQjjE7Fd31",
+      "timestamp": "2026-07-26T14:01:21+0000",
       "metrics": {
         "views": 0,
         "likes": 0,
@@ -114,12 +114,27 @@
       "engagement": 0
     },
     {
+      "id": "18023570111683968",
+      "text": "Unpopular opinion: Osaka itu bukan \"versi santai Tokyo\" — dia justru lebih demanding, cuma lo ga sadar karena sibuk maka",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DbQO77Lm1IU",
+      "timestamp": "2026-07-26T11:01:14+0000",
+      "metrics": {
+        "views": 12,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
       "id": "18045990275797741",
       "text": "Aku baru sadar — yang bikin aku takut solo trip ke Jepang bukan bahasanya, bukan sistemnya.\nYang aku takutin itu diam. D",
       "permalink": "https://www.threads.com/@iams_ichi/post/DbP24U_FcWB",
       "timestamp": "2026-07-26T07:31:02+0000",
       "metrics": {
-        "views": 186,
+        "views": 197,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -134,14 +149,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DbPrwcbAVBQ",
       "timestamp": "2026-07-26T05:53:18+0000",
       "metrics": {
-        "views": 433,
-        "likes": 7,
-        "replies": 0,
+        "views": 519,
+        "likes": 8,
+        "replies": 1,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 7
+      "engagement": 9
     },
     {
       "id": "18100042894955877",
@@ -149,7 +164,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DbPe3jskQrD",
       "timestamp": "2026-07-26T04:01:13+0000",
       "metrics": {
-        "views": 10,
+        "views": 15,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -164,7 +179,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DbPG0h6kW-4",
       "timestamp": "2026-07-26T00:31:05+0000",
       "metrics": {
-        "views": 99,
+        "views": 106,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -179,14 +194,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DbOAbGAG41B",
       "timestamp": "2026-07-25T14:15:56+0000",
       "metrics": {
-        "views": 3882,
-        "likes": 14,
-        "replies": 13,
+        "views": 5168,
+        "likes": 22,
+        "replies": 15,
         "reposts": 0,
         "quotes": 0,
         "shares": 4
       },
-      "engagement": 27
+      "engagement": 37
     },
     {
       "id": "18414335368149880",
@@ -194,7 +209,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DbNqI5QoJI6",
       "timestamp": "2026-07-25T11:01:13+0000",
       "metrics": {
-        "views": 378,
+        "views": 383,
         "likes": 2,
         "replies": 1,
         "reposts": 0,
@@ -209,7 +224,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DbNSFmaFcGH",
       "timestamp": "2026-07-25T07:31:06+0000",
       "metrics": {
-        "views": 223,
+        "views": 228,
         "likes": 3,
         "replies": 0,
         "reposts": 0,
@@ -224,22 +239,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DbM6ErnIAZz",
       "timestamp": "2026-07-25T04:01:13+0000",
       "metrics": {
-        "views": 33,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18129952690725650",
-      "text": "Dulu mikir Hokkaido itu destinasi buat yang mau \"escape\" — sepi, salju, healing.\nTernyata yang gue escape bukan kotanya.",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DbMiBdQCfsj",
-      "timestamp": "2026-07-25T00:31:03+0000",
-      "metrics": {
-        "views": 144,
+        "views": 36,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
