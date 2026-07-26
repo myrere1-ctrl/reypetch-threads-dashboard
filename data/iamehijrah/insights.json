@@ -1,22 +1,22 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-07-26T07:48:42.420Z",
+  "updated_at": "2026-07-26T10:16:33.054Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=8w9qcfiQzAMQ7kNvwGocM_r&_nc_oc=AdpqtATPVjX5BSZ_hgBjIQ6mv1fpu4SoofYQKOQ-XSFLFjFlHhj9eYHNJ1Rce59N4IA&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=XmDyQbB6XtWXVUKc8gR_Tg&_nc_tpa=Q5bMBQHSTqYXU2lHx5yPdu77BvQDdT8W6heUXsWgThqf7J-drPcBeRIQ7NEKoadfIEkAg8Vla_gLciIU_w&oh=00_AQCpkLmkvyRaoAY1Nj8ymAkMSmOPfPyxIT-6g8OisYnhrg&oe=6A6B9BD3"
+    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=8w9qcfiQzAMQ7kNvwHqyGx8&_nc_oc=Adouh97zxEJgLlT4haJiVasn41qQVzJHKs4oYjbmjrfKi5ntkTQGuUUfA5P9UFT708M&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=jg4Q77DZKe2A3XvFTmyr9Q&_nc_tpa=Q5bMBQE2MB2U_zQ_K873BFYHCG6eLFzk_DyIPh9RySae1hxZ8eqQMhSvG0DPaBVcMEhICcMaM1DMuy4_-Q&oh=00_AQA-eeBI0nkJGnzLiqH2Q7nwNqFpy67waNXPU71RRbs3Cw&oe=6A6B9BD3"
   },
   "summary": {
     "followers_count": 0,
-    "views": 3,
+    "views": 31,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 281,
-    "engagement_rate": 9366.67,
+    "engagement_rate": 906.45,
     "curiosity_score": null,
-    "post_count": 21
+    "post_count": 22
   },
   "top_posts": [
     {
@@ -25,7 +25,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbGGtSHCdfi",
       "timestamp": "2026-07-22T12:36:23+0000",
       "metrics": {
-        "views": 3399,
+        "views": 3400,
         "likes": 122,
         "replies": 6,
         "reposts": 17,
@@ -97,12 +97,27 @@
   ],
   "recent_posts": [
     {
+      "id": "17974442109093637",
+      "text": "Ayat Kursi itu aku baca tiap kali mau keluar rumah — bukan karena hafal maknanya dari dulu, tapi karena ada rasa \"disera",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbQBO_Umzm-",
+      "timestamp": "2026-07-26T09:01:30+0000",
+      "metrics": {
+        "views": 11,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "18024176183814739",
       "text": "Dulu aku mikir Al-Waqiah itu \"dibaca biar rezekinya lancar\" — dan aku bacanya pun buru-buru, kayak checklist.\nTernyata p",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbPpLYnEeVQ",
       "timestamp": "2026-07-26T05:31:18+0000",
       "metrics": {
-        "views": 197,
+        "views": 201,
         "likes": 3,
         "replies": 0,
         "reposts": 0,
@@ -117,7 +132,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbPRLZ3FNJ9",
       "timestamp": "2026-07-26T02:01:35+0000",
       "metrics": {
-        "views": 115,
+        "views": 124,
         "likes": 2,
         "replies": 0,
         "reposts": 0,
@@ -132,7 +147,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbO1sLUgWX6",
       "timestamp": "2026-07-25T22:01:24+0000",
       "metrics": {
-        "views": 243,
+        "views": 245,
         "likes": 6,
         "replies": 0,
         "reposts": 0,
@@ -147,7 +162,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbOP8kwoBr2",
       "timestamp": "2026-07-25T16:31:35+0000",
       "metrics": {
-        "views": 60,
+        "views": 62,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -230,21 +245,6 @@
         "shares": 0
       },
       "engagement": 1
-    },
-    {
-      "id": "18025550789814634",
-      "text": "Unpopular opinion: aku dulu pikir \"berserah sama takdir\" itu artinya pasif, nunggu aja.\nTapi ternyata yang bikin tenang ",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbNDLDPkYgc",
-      "timestamp": "2026-07-25T05:20:43+0000",
-      "metrics": {
-        "views": 41,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
     }
   ]
 }
