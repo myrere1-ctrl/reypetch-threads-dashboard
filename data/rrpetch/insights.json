@@ -1,15 +1,15 @@
 {
   "account": "rrpetch",
-  "updated_at": "2026-07-26T07:48:17.314Z",
+  "updated_at": "2026-07-26T10:15:57.786Z",
   "profile": {
     "username": "rrpetch",
     "name": "rrp",
     "biography": "Travelers",
-    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/725626839_18109259368780392_5435560104487373455_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=e7QlKLUZ29cQ7kNvwHbiukd&_nc_oc=AdqrRq3lROcgXaghInVclhcg0FuQsxiv7jAtn00iWNYV0vSENlM3uocQ9Or5f2QRd0E&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=mVQMabmNbFcTbahfm3dzKQ&_nc_tpa=Q5bMBQHXx36j4CM5RFjoXrKuuCZRX1AXCYYjoYC66Hi8MjuDX3xhhjITyF6ho79iq2nROnyMPtGGxHNUPg&oh=00_AQCLtreuR3r5AXpfSGn8lsdb3Ao4XoHV_d4q3BA5gp7m8w&oe=6A6B972D"
+    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/725626839_18109259368780392_5435560104487373455_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=e7QlKLUZ29cQ7kNvwHk_siD&_nc_oc=AdotN1oeiExEYj_BQY4QdBttnuROpI8ZcGHlHXD6KJLU62cNHrBVq-3Mge5IhFN4Fm4&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=sLuHRCi1GKqcwY038rD4EQ&_nc_tpa=Q5bMBQE4itnbZ_dJThV2r0iJDUTYv59E8jkXHbjTY7Wl5I-wTfusJpCPS7FgaVvhprlKwwYMjYcLCqCvCg&oh=00_AQBHTm_UHkzS_JCnpu-V1VeEL8WGKE20x2Xv7GQFzdoS_A&oe=6A6B972D"
   },
   "summary": {
     "followers_count": 2,
-    "views": 1,
+    "views": 2,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
@@ -21,6 +21,36 @@
     "post_count": 25
   },
   "top_posts": [
+    {
+      "id": "18131993047627957",
+      "text": "Dari total pertanyaan jamaah Haji yang masuk ke agen — lebih dari 60% sebenarnya berulang setiap musim.\nSoal Armuzna, ja",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbQIEyJH6iE",
+      "timestamp": "2026-07-26T10:01:18+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "18117147091909554",
+      "text": "Agen travel Eropa di Jakarta cerita: 70% pertanyaan masuk soal hal yang sama — koneksi kereta, validasi tiket, aturan ma",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbP6XOOIG0f",
+      "timestamp": "2026-07-26T08:01:28+0000",
+      "metrics": {
+        "views": 1,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
     {
       "id": "17889899847412803",
       "text": "Satu fitur yang sering bikin agen Umroh terkejut pertama kali pakai Tomodachi AI:\njawaban ke jamaah bisa dikustomisasi p",
@@ -65,12 +95,14 @@
         "shares": 0
       },
       "engagement": 0
-    },
+    }
+  ],
+  "recent_posts": [
     {
-      "id": "18150734017504049",
-      "text": "Agen Umroh Anda bisa punya AI companion ber-brand sendiri — tanpa harus bangun teknologi dari nol.\nJamaah tanya soal man",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbPRIMGDY35",
-      "timestamp": "2026-07-26T02:01:09+0000",
+      "id": "18131993047627957",
+      "text": "Dari total pertanyaan jamaah Haji yang masuk ke agen — lebih dari 60% sebenarnya berulang setiap musim.\nSoal Armuzna, ja",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbQIEyJH6iE",
+      "timestamp": "2026-07-26T10:01:18+0000",
       "metrics": {
         "views": 0,
         "likes": 0,
@@ -82,12 +114,12 @@
       "engagement": 0
     },
     {
-      "id": "17987996460008689",
-      "text": "80% pertanyaan wisatawan Jepang yang masuk ke agen travel — sebenarnya berulang.\nSoal JR Pass, jadwal shinkansen, akses ",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbPG7NvHbRN",
-      "timestamp": "2026-07-26T00:31:59+0000",
+      "id": "18117147091909554",
+      "text": "Agen travel Eropa di Jakarta cerita: 70% pertanyaan masuk soal hal yang sama — koneksi kereta, validasi tiket, aturan ma",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbP6XOOIG0f",
+      "timestamp": "2026-07-26T08:01:28+0000",
       "metrics": {
-        "views": 2,
+        "views": 1,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -95,9 +127,7 @@
         "shares": 0
       },
       "engagement": 0
-    }
-  ],
-  "recent_posts": [
+    },
     {
       "id": "17889899847412803",
       "text": "Satu fitur yang sering bikin agen Umroh terkejut pertama kali pakai Tomodachi AI:\njawaban ke jamaah bisa dikustomisasi p",
@@ -210,36 +240,6 @@
       "timestamp": "2026-07-25T12:01:15+0000",
       "metrics": {
         "views": 6,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18167447875445805",
-      "text": "Ada satu fitur yang jarang disorot tapi dampaknya besar:\njawaban yang diberikan ke jamaah — terasa seperti datang langsu",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbNjRHnIIAU",
-      "timestamp": "2026-07-25T10:01:10+0000",
-      "metrics": {
-        "views": 2,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "17957950847984189",
-      "text": "Mitos: wisatawan Jepang itu mandiri, jadi agen travel jarang dapat pertanyaan banyak.\nFaktanya? Justru sebaliknya — itin",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbNViOim6HR",
-      "timestamp": "2026-07-25T08:01:10+0000",
-      "metrics": {
-        "views": 4,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
