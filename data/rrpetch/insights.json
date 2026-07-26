@@ -1,40 +1,55 @@
 {
   "account": "rrpetch",
-  "updated_at": "2026-07-26T01:02:20.392Z",
+  "updated_at": "2026-07-26T04:47:50.462Z",
   "profile": {
     "username": "rrpetch",
     "name": "rrp",
     "biography": "Travelers",
-    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/725626839_18109259368780392_5435560104487373455_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=e7QlKLUZ29cQ7kNvwGcl8kv&_nc_oc=AdrYp4VwzqVpuN9C5TwsbfmqWpgw9uJUuqcxAxBTnbn_0DbW-Xj0MOJEtuNvYvg7UOg&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=3ww8pYiLfxx0apGSE0BHpA&_nc_tpa=Q5bMBQFbMbojf70hyEsRz7KQ6zHE76Rcp9rNE8hJdUVnNRu5pMsIN4Qp2uON0Nh1dHLK1MyMcCujmvdQBA&oh=00_AQC3tX5nH4WAC8f6QAMpUHSqxrIiFjkJsJYMuTW1L7lWhw&oe=6A6B26AD"
+    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/725626839_18109259368780392_5435560104487373455_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=e7QlKLUZ29cQ7kNvwGkrxbV&_nc_oc=Adq7JcJO_wt9e_gd6r5yWGu-rW9jZ0jMQOedyZ_HrnOjc95ysKdN6ADD3v2-ob8HuM4&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=TXTxr_6-REEgmI1ktt2gqg&_nc_tpa=Q5bMBQEMqqiQM9QTPBIh-1l9jwAMyfDktExHLsyBFNo4fRZJNef6gpioD_HxdP7lcfm2SDS40lpNHCtZ1A&oh=00_AQCwFGJtB6En-CN6tndLfzQAxBrGuvQL7iGw664TP6CPTA&oe=6A6B5EED"
   },
   "summary": {
     "followers_count": 2,
-    "views": 24,
+    "views": 29,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 1,
-    "engagement_rate": 4.17,
+    "engagement_total": 0,
+    "engagement_rate": 0,
     "curiosity_score": null,
     "post_count": 25
   },
   "top_posts": [
     {
-      "id": "18089260760633877",
-      "text": "Musim liburan ke Prancis tiba — dan tim agen travel mulai kewalahan.\nPertanyaan soal visa Schengen, hotel halal di Paris",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbDEDgHGzel",
-      "timestamp": "2026-07-21T08:16:02+0000",
+      "id": "17874396162687331",
+      "text": "Mitos: wisatawan ke Jepang sudah otomatis paham sistem transportasinya.\nFaktanya — IC card, JR Pass, limited express, da",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbPbbk9IIkr",
+      "timestamp": "2026-07-26T03:31:10+0000",
       "metrics": {
-        "views": 74,
-        "likes": 1,
+        "views": 2,
+        "likes": 0,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 1
+      "engagement": 0
+    },
+    {
+      "id": "18150734017504049",
+      "text": "Agen Umroh Anda bisa punya AI companion ber-brand sendiri — tanpa harus bangun teknologi dari nol.\nJamaah tanya soal man",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbPRIMGDY35",
+      "timestamp": "2026-07-26T02:01:09+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
     },
     {
       "id": "17987996460008689",
@@ -42,7 +57,7 @@
       "permalink": "https://www.threads.com/@rrpetch/post/DbPG7NvHbRN",
       "timestamp": "2026-07-26T00:31:59+0000",
       "metrics": {
-        "views": 0,
+        "views": 2,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -57,7 +72,7 @@
       "permalink": "https://www.threads.com/@rrpetch/post/DbO8iFcmlwa",
       "timestamp": "2026-07-25T23:01:11+0000",
       "metrics": {
-        "views": 7,
+        "views": 8,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -80,14 +95,16 @@
         "shares": 0
       },
       "engagement": 0
-    },
+    }
+  ],
+  "recent_posts": [
     {
-      "id": "18016400567718669",
-      "text": "Wisatawan Jepang pertama kali sering tidak menyangka betapa padatnya jadwal yang mereka buat sendiri.\nTiga kota dalam li",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbNxAfKIO79",
-      "timestamp": "2026-07-25T12:01:15+0000",
+      "id": "17874396162687331",
+      "text": "Mitos: wisatawan ke Jepang sudah otomatis paham sistem transportasinya.\nFaktanya — IC card, JR Pass, limited express, da",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbPbbk9IIkr",
+      "timestamp": "2026-07-26T03:31:10+0000",
       "metrics": {
-        "views": 6,
+        "views": 2,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -95,16 +112,29 @@
         "shares": 0
       },
       "engagement": 0
-    }
-  ],
-  "recent_posts": [
+    },
+    {
+      "id": "18150734017504049",
+      "text": "Agen Umroh Anda bisa punya AI companion ber-brand sendiri — tanpa harus bangun teknologi dari nol.\nJamaah tanya soal man",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbPRIMGDY35",
+      "timestamp": "2026-07-26T02:01:09+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
     {
       "id": "17987996460008689",
       "text": "80% pertanyaan wisatawan Jepang yang masuk ke agen travel — sebenarnya berulang.\nSoal JR Pass, jadwal shinkansen, akses ",
       "permalink": "https://www.threads.com/@rrpetch/post/DbPG7NvHbRN",
       "timestamp": "2026-07-26T00:31:59+0000",
       "metrics": {
-        "views": 0,
+        "views": 2,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -119,7 +149,7 @@
       "permalink": "https://www.threads.com/@rrpetch/post/DbO8iFcmlwa",
       "timestamp": "2026-07-25T23:01:11+0000",
       "metrics": {
-        "views": 7,
+        "views": 8,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -179,7 +209,7 @@
       "permalink": "https://www.threads.com/@rrpetch/post/DbNViOim6HR",
       "timestamp": "2026-07-25T08:01:10+0000",
       "metrics": {
-        "views": 3,
+        "views": 4,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -210,36 +240,6 @@
       "timestamp": "2026-07-25T05:01:13+0000",
       "metrics": {
         "views": 0,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18128432212725670",
-      "text": "Staff agen Haji kadang menghadapi pertanyaan di jam-jam yang tidak terduga.\nSoal jadwal Armuzna, aturan ihram, estimasi ",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbM2nu8jfaR",
-      "timestamp": "2026-07-25T03:31:02+0000",
-      "metrics": {
-        "views": 13,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "17961608199141158",
-      "text": "Satu fitur yang sering bikin agen travel Eropa surprised:\nklien bisa tanya soal koneksi kereta antar kota — dan dapat ja",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbMsVVyAOck",
-      "timestamp": "2026-07-25T02:01:09+0000",
-      "metrics": {
-        "views": 1,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
