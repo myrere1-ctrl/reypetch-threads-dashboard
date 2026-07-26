@@ -1,22 +1,22 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-07-26T14:04:08.552Z",
+  "updated_at": "2026-07-26T15:34:50.879Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=8w9qcfiQzAMQ7kNvwHBqEgJ&_nc_oc=AdqVlcRT0mL9v6dntce8yd59MQHPUuDrt-U7B8nSQahGtZXnJcm3crEz1ufMVR5mBaA&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=CXKrDeREzDWiwjJy_D4i-A&_nc_tpa=Q5bMBQGT9ndUje2xVdV5zD7mJcVe31GJy_AyIg9fiyqO7vLWOcXWLRnNzbk6HyU6PE8yID5gjHO3u4y1Ow&oh=00_AQDldYXaMTvEvOqUsvkwCk1_fU3PAAxgSMRRgdfnq0M8Aw&oe=6A6BD413"
+    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=edlsGk9RMZQQ7kNvwGnLkXq&_nc_oc=AdrW3nPUBdLRxOUdytj_xWN0Us2xBUxanMkdtwtL4S0UjpCY8iPCUAj94bGlwyh1AU0&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=2Xt7HrByAL54hhH8E1XSvw&_nc_tpa=Q5bMBQHjOlcpj2fjqnpXnTZn2yA7pwGy_lGX5ZchmwWT0694uY2XG1zH6_m1K5ySTIrfbEWbsGo0uMvS7w&oh=00_AQD4F8lIUY0WDAZ16MC6ojXoj0y_Xx4zHT5-D0gyUZqoBg&oe=6A6C0C53"
   },
   "summary": {
     "followers_count": 0,
-    "views": 157,
+    "views": 273,
     "likes": 1,
     "replies": 1,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 283,
-    "engagement_rate": 180.25,
+    "engagement_rate": 103.66,
     "curiosity_score": null,
-    "post_count": 24
+    "post_count": 25
   },
   "top_posts": [
     {
@@ -25,7 +25,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbGGtSHCdfi",
       "timestamp": "2026-07-22T12:36:23+0000",
       "metrics": {
-        "views": 3402,
+        "views": 3403,
         "likes": 122,
         "replies": 6,
         "reposts": 17,
@@ -97,12 +97,27 @@
   ],
   "recent_posts": [
     {
+      "id": "18124170694815371",
+      "text": "Ada satu amalan yang aku coba rutinin di sepertiga malam — baca Surat Al-Mulk pelan-pelan sebelum rebahan.\nBukan karena ",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbQm-lgGz46",
+      "timestamp": "2026-07-26T14:31:19+0000",
+      "metrics": {
+        "views": 72,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "17867788443651021",
       "text": "Jujur, dzikir pagi dan petang itu aku sering skip kalau lagi buru-buru.\nTapi pas aku mulai duduk sebentar habis Subuh — ",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbQcstJG1iz",
       "timestamp": "2026-07-26T13:01:30+0000",
       "metrics": {
-        "views": 66,
+        "views": 97,
         "likes": 1,
         "replies": 1,
         "reposts": 0,
@@ -147,7 +162,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbPpLYnEeVQ",
       "timestamp": "2026-07-26T05:31:18+0000",
       "metrics": {
-        "views": 205,
+        "views": 206,
         "likes": 3,
         "replies": 0,
         "reposts": 0,
@@ -230,21 +245,6 @@
         "shares": 0
       },
       "engagement": 1
-    },
-    {
-      "id": "17953229361207446",
-      "text": "Ada fase hidup yang rasanya gelap banget, sampe ga tau harus mulai doa dari mana.\nDi situ aku selalu balik ke Doa Nabi Y",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbNtlvuG88t",
-      "timestamp": "2026-07-25T11:31:22+0000",
-      "metrics": {
-        "views": 41,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
     }
   ]
 }
