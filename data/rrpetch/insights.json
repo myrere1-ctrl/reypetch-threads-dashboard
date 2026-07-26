@@ -1,15 +1,15 @@
 {
   "account": "rrpetch",
-  "updated_at": "2026-07-26T04:47:50.462Z",
+  "updated_at": "2026-07-26T07:48:17.314Z",
   "profile": {
     "username": "rrpetch",
     "name": "rrp",
     "biography": "Travelers",
-    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/725626839_18109259368780392_5435560104487373455_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=e7QlKLUZ29cQ7kNvwGkrxbV&_nc_oc=Adq7JcJO_wt9e_gd6r5yWGu-rW9jZ0jMQOedyZ_HrnOjc95ysKdN6ADD3v2-ob8HuM4&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=TXTxr_6-REEgmI1ktt2gqg&_nc_tpa=Q5bMBQEMqqiQM9QTPBIh-1l9jwAMyfDktExHLsyBFNo4fRZJNef6gpioD_HxdP7lcfm2SDS40lpNHCtZ1A&oh=00_AQCwFGJtB6En-CN6tndLfzQAxBrGuvQL7iGw664TP6CPTA&oe=6A6B5EED"
+    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/725626839_18109259368780392_5435560104487373455_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=e7QlKLUZ29cQ7kNvwHbiukd&_nc_oc=AdqrRq3lROcgXaghInVclhcg0FuQsxiv7jAtn00iWNYV0vSENlM3uocQ9Or5f2QRd0E&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=mVQMabmNbFcTbahfm3dzKQ&_nc_tpa=Q5bMBQHXx36j4CM5RFjoXrKuuCZRX1AXCYYjoYC66Hi8MjuDX3xhhjITyF6ho79iq2nROnyMPtGGxHNUPg&oh=00_AQCLtreuR3r5AXpfSGn8lsdb3Ao4XoHV_d4q3BA5gp7m8w&oe=6A6B972D"
   },
   "summary": {
     "followers_count": 2,
-    "views": 29,
+    "views": 1,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
@@ -22,6 +22,36 @@
   },
   "top_posts": [
     {
+      "id": "17889899847412803",
+      "text": "Satu fitur yang sering bikin agen Umroh terkejut pertama kali pakai Tomodachi AI:\njawaban ke jamaah bisa dikustomisasi p",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbPwBAGIPzf",
+      "timestamp": "2026-07-26T06:31:03+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "18096991610623533",
+      "text": "Staff agen Italia sering cerita hal yang sama: pertanyaan jamaah masuk malam, siang, bahkan dini hari.\nSoal validasi tik",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbPluwJGzkD",
+      "timestamp": "2026-07-26T05:01:11+0000",
+      "metrics": {
+        "views": 3,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "17874396162687331",
       "text": "Mitos: wisatawan ke Jepang sudah otomatis paham sistem transportasinya.\nFaktanya — IC card, JR Pass, limited express, da",
       "permalink": "https://www.threads.com/@rrpetch/post/DbPbbk9IIkr",
@@ -58,36 +88,6 @@
       "timestamp": "2026-07-26T00:31:59+0000",
       "metrics": {
         "views": 2,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "17954369102998635",
-      "text": "Satu hal yang jarang dipikirkan agen travel Italia: wisatawan sering tanya soal *dress code* masuk gereja di jam-jam tid",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbO8iFcmlwa",
-      "timestamp": "2026-07-25T23:01:11+0000",
-      "metrics": {
-        "views": 8,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "17943273192272798",
-      "text": "Banyak yang tidak tahu — Italia punya aturan validasi tiket kereta yang berbeda di tiap stasiun.\nSalah validasi, bisa ke",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbN-vksGwkz",
-      "timestamp": "2026-07-25T14:01:16+0000",
-      "metrics": {
-        "views": 1,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -99,6 +99,36 @@
   ],
   "recent_posts": [
     {
+      "id": "17889899847412803",
+      "text": "Satu fitur yang sering bikin agen Umroh terkejut pertama kali pakai Tomodachi AI:\njawaban ke jamaah bisa dikustomisasi p",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbPwBAGIPzf",
+      "timestamp": "2026-07-26T06:31:03+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "18096991610623533",
+      "text": "Staff agen Italia sering cerita hal yang sama: pertanyaan jamaah masuk malam, siang, bahkan dini hari.\nSoal validasi tik",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbPluwJGzkD",
+      "timestamp": "2026-07-26T05:01:11+0000",
+      "metrics": {
+        "views": 3,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "17874396162687331",
       "text": "Mitos: wisatawan ke Jepang sudah otomatis paham sistem transportasinya.\nFaktanya — IC card, JR Pass, limited express, da",
       "permalink": "https://www.threads.com/@rrpetch/post/DbPbbk9IIkr",
@@ -149,7 +179,7 @@
       "permalink": "https://www.threads.com/@rrpetch/post/DbO8iFcmlwa",
       "timestamp": "2026-07-25T23:01:11+0000",
       "metrics": {
-        "views": 8,
+        "views": 9,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -210,36 +240,6 @@
       "timestamp": "2026-07-25T08:01:10+0000",
       "metrics": {
         "views": 4,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18138942181566476",
-      "text": "Mitos yang sering beredar: wisatawan ke Spanyol itu pasti sudah persiapan matang.\nFaktanya? Banyak yang baru panik H-3 —",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbNLODKlgJf",
-      "timestamp": "2026-07-25T06:31:01+0000",
-      "metrics": {
-        "views": 3,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18111357511939480",
-      "text": "Satu hal yang sering bikin wisatawan Prancis pertama kali kebingungan: bahasa.\nDi luar Paris, Inggris tidak selalu jadi ",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbNA8MZDgTP",
-      "timestamp": "2026-07-25T05:01:13+0000",
-      "metrics": {
-        "views": 0,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
