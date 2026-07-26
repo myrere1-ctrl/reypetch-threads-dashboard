@@ -1,22 +1,22 @@
 {
   "account": "rrpetch",
-  "updated_at": "2026-07-25T23:17:05.008Z",
+  "updated_at": "2026-07-26T01:02:20.392Z",
   "profile": {
     "username": "rrpetch",
     "name": "rrp",
     "biography": "Travelers",
-    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/725626839_18109259368780392_5435560104487373455_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=e7QlKLUZ29cQ7kNvwERS6aX&_nc_oc=AdqSRJD01JLNtVcBYwS7GjLnLFucaIOx7MBPWGv7LE_d8b6h725YaB0eH7rc25B52oo&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=yDFial_eygCQ3t959hmiCA&_nc_tpa=Q5bMBQEV9ri5iXLg2m3Srcwj0-m2n5sK7JqeldHZqWrz-T7Tr5-84WsI0ewP2aHDqNrmuB8BWYkRdkUi0A&oh=00_AQCi67qPN0Fd4k5AIV7HEiF37LLA_FGQEb3Z0PHS2ZuOBQ&oe=6A6B26AD"
+    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/725626839_18109259368780392_5435560104487373455_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=e7QlKLUZ29cQ7kNvwGcl8kv&_nc_oc=AdrYp4VwzqVpuN9C5TwsbfmqWpgw9uJUuqcxAxBTnbn_0DbW-Xj0MOJEtuNvYvg7UOg&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=3ww8pYiLfxx0apGSE0BHpA&_nc_tpa=Q5bMBQFbMbojf70hyEsRz7KQ6zHE76Rcp9rNE8hJdUVnNRu5pMsIN4Qp2uON0Nh1dHLK1MyMcCujmvdQBA&oh=00_AQC3tX5nH4WAC8f6QAMpUHSqxrIiFjkJsJYMuTW1L7lWhw&oe=6A6B26AD"
   },
   "summary": {
     "followers_count": 2,
-    "views": 15,
+    "views": 24,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 1,
-    "engagement_rate": 6.67,
+    "engagement_rate": 4.17,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -37,12 +37,27 @@
       "engagement": 1
     },
     {
+      "id": "17987996460008689",
+      "text": "80% pertanyaan wisatawan Jepang yang masuk ke agen travel — sebenarnya berulang.\nSoal JR Pass, jadwal shinkansen, akses ",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbPG7NvHbRN",
+      "timestamp": "2026-07-26T00:31:59+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "17954369102998635",
       "text": "Satu hal yang jarang dipikirkan agen travel Italia: wisatawan sering tanya soal *dress code* masuk gereja di jam-jam tid",
       "permalink": "https://www.threads.com/@rrpetch/post/DbO8iFcmlwa",
       "timestamp": "2026-07-25T23:01:11+0000",
       "metrics": {
-        "views": 0,
+        "views": 7,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -80,14 +95,16 @@
         "shares": 0
       },
       "engagement": 0
-    },
+    }
+  ],
+  "recent_posts": [
     {
-      "id": "18167447875445805",
-      "text": "Ada satu fitur yang jarang disorot tapi dampaknya besar:\njawaban yang diberikan ke jamaah — terasa seperti datang langsu",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbNjRHnIIAU",
-      "timestamp": "2026-07-25T10:01:10+0000",
+      "id": "17987996460008689",
+      "text": "80% pertanyaan wisatawan Jepang yang masuk ke agen travel — sebenarnya berulang.\nSoal JR Pass, jadwal shinkansen, akses ",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbPG7NvHbRN",
+      "timestamp": "2026-07-26T00:31:59+0000",
       "metrics": {
-        "views": 2,
+        "views": 0,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -95,16 +112,14 @@
         "shares": 0
       },
       "engagement": 0
-    }
-  ],
-  "recent_posts": [
+    },
     {
       "id": "17954369102998635",
       "text": "Satu hal yang jarang dipikirkan agen travel Italia: wisatawan sering tanya soal *dress code* masuk gereja di jam-jam tid",
       "permalink": "https://www.threads.com/@rrpetch/post/DbO8iFcmlwa",
       "timestamp": "2026-07-25T23:01:11+0000",
       "metrics": {
-        "views": 0,
+        "views": 7,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -225,21 +240,6 @@
       "timestamp": "2026-07-25T02:01:09+0000",
       "metrics": {
         "views": 1,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18002937479978219",
-      "text": "Satu agen Umroh — 2 staff CS, 150+ jamaah aktif menjelang musim keberangkatan.\nPertanyaan masuk dari subuh sampai malam:",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbMiBwtj0Lk",
-      "timestamp": "2026-07-25T00:31:07+0000",
-      "metrics": {
-        "views": 0,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
