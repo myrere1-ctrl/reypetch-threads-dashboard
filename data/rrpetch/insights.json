@@ -1,15 +1,15 @@
 {
   "account": "rrpetch",
-  "updated_at": "2026-07-27T21:33:10.970Z",
+  "updated_at": "2026-07-27T23:31:11.654Z",
   "profile": {
     "username": "rrpetch",
     "name": "rrp",
     "biography": "Travelers",
-    "picture": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/725626839_18109259368780392_5435560104487373455_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=e7QlKLUZ29cQ7kNvwHKlnzN&_nc_oc=Adr1qxPaCe6z-ob8OQBT5PdaFH_wnLvKN9o9Fh26Qn362sa-iCqk6QI7u11phey5R4I&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=UCFBD4ZaxJ0NXIQXOVwx0g&_nc_tpa=Q5bMBQFHBGpQehs5hQfJl0teGtdEYj3NMdFYaWU2BWvb2vzaDeyoQFikKyAfyOrk0-HntOY3uzFKI7wNlQ&oh=00_AQDHEZREnABDXjbk8pMcePYPr8OCB443XFNts9OA_DMHFA&oe=6A6D916D"
+    "picture": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/725626839_18109259368780392_5435560104487373455_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=e7QlKLUZ29cQ7kNvwGZ9JKY&_nc_oc=Adrku6BDX2hyXNCWLQDxMMYtP2c2bBSJxk5UqkUe69Nl0zBw4RU_V6ICH9x36QyOL4g&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=g4pUffuC2Mu2ZH8j2HP7Fg&_nc_tpa=Q5bMBQFqqkABqN58kV_ulPqmj3E_4flf1wVod9V_jQhbGdAorm5dPUUnJsR2axuzk7O6FillxBE55n82gg&oh=00_AQBzpGJBVMVEe4dh1QY8RNHCWVTkn7Fn3R0cSUg47NxgwQ&oe=6A6DC9AD"
   },
   "summary": {
     "followers_count": 2,
-    "views": 13,
+    "views": 27,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
@@ -21,6 +21,21 @@
     "post_count": 25
   },
   "top_posts": [
+    {
+      "id": "18100837859188344",
+      "text": "80% pertanyaan jamaah Umroh sebenarnya berulang — soal ihram, Miqat, larangan di Masjidil Haram, hingga jadwal ziarah.\nT",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbUGIEDmkEY",
+      "timestamp": "2026-07-27T23:01:13+0000",
+      "metrics": {
+        "views": 1,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
     {
       "id": "18084148598418267",
       "text": "Satu hal yang jarang dibahas soal perjalanan Umroh:\npertanyaan jamaah paling kritis justru muncul di luar jam kerja.\nMal",
@@ -80,14 +95,16 @@
         "shares": 0
       },
       "engagement": 0
-    },
+    }
+  ],
+  "recent_posts": [
     {
-      "id": "18610218094004010",
-      "text": "Agen Umroh di Surabaya punya masalah klasik: 3 staff harus jawab ratusan pertanyaan jamaah setiap hari — soal ihram, Miq",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbSfKJlFS1c",
-      "timestamp": "2026-07-27T08:01:28+0000",
+      "id": "18100837859188344",
+      "text": "80% pertanyaan jamaah Umroh sebenarnya berulang — soal ihram, Miqat, larangan di Masjidil Haram, hingga jadwal ziarah.\nT",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbUGIEDmkEY",
+      "timestamp": "2026-07-27T23:01:13+0000",
       "metrics": {
-        "views": 0,
+        "views": 1,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -95,9 +112,7 @@
         "shares": 0
       },
       "engagement": 0
-    }
-  ],
-  "recent_posts": [
+    },
     {
       "id": "18084148598418267",
       "text": "Satu hal yang jarang dibahas soal perjalanan Umroh:\npertanyaan jamaah paling kritis justru muncul di luar jam kerja.\nMal",
@@ -223,21 +238,6 @@
       "text": "Mitos: jamaah Haji sudah cukup dibekali buku panduan cetak.\nFaktanya — pertanyaan paling kritis justru muncul saat di la",
       "permalink": "https://www.threads.com/@rrpetch/post/DbR179empTi",
       "timestamp": "2026-07-27T02:01:16+0000",
-      "metrics": {
-        "views": 0,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "17892337866665422",
-      "text": "Mitos: agen travel Eropa butuh tim besar untuk bisa layani klien 24 jam.\nFaktanya — sebagian besar pertanyaan masuk itu ",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbRrofgmQSv",
-      "timestamp": "2026-07-27T00:31:14+0000",
       "metrics": {
         "views": 0,
         "likes": 0,
