@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-07-27T21:33:41.767Z",
+  "updated_at": "2026-07-27T23:31:50.806Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=edlsGk9RMZQQ7kNvwHAbc4J&_nc_oc=AdpJyu_r69hHLhLQO5jgs4ewKNiiLa0_Bm4L8KQ9_gXFbswhB3k_WxJEyC-_2tAy4jk&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=9RuNPTZM3NtiWLSaW3VFgA&_nc_tpa=Q5bMBQHvtiZP2Gpd_UjLsysHQLKPm2quuwlEh0D09sBfMrO26jtXMSgaEB4PvyLt4hreoMVqGmrGWtn3CQ&oh=00_AQCBQmaw9dnqUczVpYGi6eXrhfn3LWngf_dLVHpmbOQ3mA&oe=6A6D9613"
+    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=edlsGk9RMZQQ7kNvwHNzuuG&_nc_oc=AdpxylnGHvyDSHwzY6G7HDxf2zpaNrC-Lishn2ut9ubdRfWI_J4NpLm3_d--dsN8eU8&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=dWmXliITDLoOyJuKTjDW7A&_nc_tpa=Q5bMBQHAOYTLq57W8yn9Qk3Bl3KuNoUrW8iOLW-HFiHu5zMRg0gNPPduwuXNJP4zRe4z_0dJKBzrIzRqUA&oh=00_AQAY3FID1unmtOuVBh7AHKqqDLKamLoky9yUG18yT8ta_Q&oe=6A6DCE53"
   },
   "summary": {
     "followers_count": 0,
-    "views": 269,
-    "likes": 5,
+    "views": 427,
+    "likes": 8,
     "replies": 0,
     "reposts": 1,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 32,
-    "engagement_rate": 11.9,
+    "engagement_total": 35,
+    "engagement_rate": 8.2,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -65,6 +65,21 @@
       "engagement": 5
     },
     {
+      "id": "17961443973141101",
+      "text": "Kadang habis Subuh aku duduk dan mikir — kenapa hidup ga sesuai yang aku mau.\nTapi pelan-pelan aku belajar: mungkin Alla",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbT_TRZII2W",
+      "timestamp": "2026-07-27T22:01:35+0000",
+      "metrics": {
+        "views": 154,
+        "likes": 3,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 3
+    },
+    {
       "id": "18024176183814739",
       "text": "Dulu aku mikir Al-Waqiah itu \"dibaca biar rezekinya lancar\" — dan aku bacanya pun buru-buru, kayak checklist.\nTernyata p",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbPpLYnEeVQ",
@@ -78,14 +93,16 @@
         "shares": 0
       },
       "engagement": 3
-    },
+    }
+  ],
+  "recent_posts": [
     {
-      "id": "17944246332266540",
-      "text": "Tiap malem sebelum tidur, aku coba rutin baca Surat Yasin pelan-pelan — bukan ngejar cepet selesai, tapi beneran ngerasa",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbNcbm_lHp_",
-      "timestamp": "2026-07-25T09:01:26+0000",
+      "id": "17961443973141101",
+      "text": "Kadang habis Subuh aku duduk dan mikir — kenapa hidup ga sesuai yang aku mau.\nTapi pelan-pelan aku belajar: mungkin Alla",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbT_TRZII2W",
+      "timestamp": "2026-07-27T22:01:35+0000",
       "metrics": {
-        "views": 158,
+        "views": 154,
         "likes": 3,
         "replies": 0,
         "reposts": 0,
@@ -93,9 +110,7 @@
         "shares": 0
       },
       "engagement": 3
-    }
-  ],
-  "recent_posts": [
+    },
     {
       "id": "17899188147519524",
       "text": "Dulu aku mikir doa untuk orang tua itu cukup kalau lagi inget aja — sehabis sholat, sesekali.\nTernyata yang bikin nangis",
@@ -117,7 +132,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbTLyfOG8B5",
       "timestamp": "2026-07-27T14:31:29+0000",
       "metrics": {
-        "views": 40,
+        "views": 42,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -223,21 +238,6 @@
       "timestamp": "2026-07-27T02:01:31+0000",
       "metrics": {
         "views": 1,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "17980398645051892",
-      "text": "Habis Subuh tadi aku duduk sebentar — ga ngapa-ngapain, cuma diam.\nTerus sadar, betapa seringnya aku skip momen ini kare",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbRaf7DH9OW",
-      "timestamp": "2026-07-26T22:01:31+0000",
-      "metrics": {
-        "views": 31,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
