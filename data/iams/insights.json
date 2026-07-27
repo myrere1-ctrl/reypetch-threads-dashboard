@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-07-27T04:56:35.923Z",
+  "updated_at": "2026-07-27T08:50:00.580Z",
   "profile": {
     "username": "iams_ichi",
     "name": "iams",
     "biography": "Solo Traveler Bunglon\nFine dining 👌 & Street food lokal 🫰\nHidden gems expert for 🇯🇵🇦🇺🇫🇷🇪🇸🇮🇹 + Umrah.\nBasic tourist traps could never fr",
-    "picture": "https://scontent-lga3-1.cdninstagram.com/v/t51.82787-19/729823178_17902006359449426_143983074154164635_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=111&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=o7V6r_a3bQ0Q7kNvwEL4uiO&_nc_oc=Adp1egbF4RHbgzQNvRqOcDJbRfMYExC_N4HlzZBCyHT0TksEKXEce7hvRPqr3vde3Ag&_nc_zt=24&_nc_ht=scontent-lga3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=y06gZifEgIcXCyLUBTzDLg&_nc_tpa=Q5bMBQH72HaNr3COKoxKeoClENp-awJAFbNAZbeAaagntJXJVLSTXlyy3xlTwha6SoBkw_QK0349IRF63Q&oh=00_AQAYMds1B9KL-UcQZsJCQCvDcLMlnG0d1KXHJtV4v3Jljg&oe=6A6CA67F"
+    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/729823178_17902006359449426_143983074154164635_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=111&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=o7V6r_a3bQ0Q7kNvwHC_R5f&_nc_oc=AdqSRcCPoEuxXiqsHf3E_uekPN0rh-yy374mlW6VKSifYZBlKyFff11-UeKHK1fkhJw&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=we_SRnYRBfef-Hoq63E6bw&_nc_tpa=Q5bMBQHLoWMgwxGyQ-m8YDvUW8HBz8wnTrAqfV0On713XnOxXxjDXd_B8zLcdilJ6D4yeXWfQzT3Z_THLw&oh=00_AQBMqCDApXVwB3sD0H9A63oNOsTTMwME3Ghl1vR2vzrzZQ&oe=6A6CDEBF"
   },
   "summary": {
     "followers_count": 1346,
-    "views": 5503,
-    "likes": 35,
-    "replies": 13,
+    "views": 26,
+    "likes": 0,
+    "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 160,
-    "engagement_rate": 2.91,
+    "engagement_total": 158,
+    "engagement_rate": 607.69,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -27,7 +27,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DbOAbGAG41B",
       "timestamp": "2026-07-25T14:15:56+0000",
       "metrics": {
-        "views": 5602,
+        "views": 5613,
         "likes": 24,
         "replies": 15,
         "reposts": 0,
@@ -72,7 +72,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DbPrwcbAVBQ",
       "timestamp": "2026-07-26T05:53:18+0000",
       "metrics": {
-        "views": 917,
+        "views": 949,
         "likes": 15,
         "replies": 4,
         "reposts": 0,
@@ -99,12 +99,12 @@
   ],
   "recent_posts": [
     {
-      "id": "18121183496509088",
-      "text": "Jam 5 sore di Arashiyama, daun-daun momiji lagi paling merah — dan gue malah duduk diem di pinggir sungai sendirian.\nYan",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DbSDqw8nEY9",
-      "timestamp": "2026-07-27T04:01:16+0000",
+      "id": "18087654023447028",
+      "text": "Di Tokyo, kalau lo nyasar dan nanya ke orang — mereka ga cuma jawab, mereka kadang jalan bareng sampai lo nemu tempatnya",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DbSbsZLG___",
+      "timestamp": "2026-07-27T07:31:11+0000",
       "metrics": {
-        "views": 4,
+        "views": 16,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -114,12 +114,27 @@
       "engagement": 0
     },
     {
+      "id": "18121183496509088",
+      "text": "Jam 5 sore di Arashiyama, daun-daun momiji lagi paling merah — dan gue malah duduk diem di pinggir sungai sendirian.\nYan",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DbSDqw8nEY9",
+      "timestamp": "2026-07-27T04:01:16+0000",
+      "metrics": {
+        "views": 18,
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
       "id": "17896384482560307",
       "text": "Onsen itu bukan soal panasnya — aku baru nyadar itu pas akhirnya bisa duduk lebih dari 5 menit tanpa kabur.\nYang bikin b",
       "permalink": "https://www.threads.com/@iams_ichi/post/DbRrvjqHH19",
       "timestamp": "2026-07-27T00:32:11+0000",
       "metrics": {
-        "views": 29,
+        "views": 31,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -134,7 +149,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DbRcztSE1ml",
       "timestamp": "2026-07-26T22:21:09+0000",
       "metrics": {
-        "views": 35,
+        "views": 36,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -149,7 +164,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DbQjjE7Fd31",
       "timestamp": "2026-07-26T14:01:21+0000",
       "metrics": {
-        "views": 28,
+        "views": 30,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -164,7 +179,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DbQO77Lm1IU",
       "timestamp": "2026-07-26T11:01:14+0000",
       "metrics": {
-        "views": 30,
+        "views": 31,
         "likes": 1,
         "replies": 2,
         "reposts": 0,
@@ -179,7 +194,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DbP24U_FcWB",
       "timestamp": "2026-07-26T07:31:02+0000",
       "metrics": {
-        "views": 217,
+        "views": 218,
         "likes": 2,
         "replies": 0,
         "reposts": 0,
@@ -194,7 +209,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DbPrwcbAVBQ",
       "timestamp": "2026-07-26T05:53:18+0000",
       "metrics": {
-        "views": 917,
+        "views": 949,
         "likes": 15,
         "replies": 4,
         "reposts": 0,
@@ -232,21 +247,6 @@
         "shares": 0
       },
       "engagement": 1
-    },
-    {
-      "id": "17905673046455743",
-      "text": "Jam 6 pagi di Fushimi Inari, gue baru sadar kenapa orang-orang selalu foto torii yang paling bawah — karena yang atas se",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DbOAbGAG41B",
-      "timestamp": "2026-07-25T14:15:56+0000",
-      "metrics": {
-        "views": 5602,
-        "likes": 24,
-        "replies": 15,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 4
-      },
-      "engagement": 39
     }
   ]
 }
