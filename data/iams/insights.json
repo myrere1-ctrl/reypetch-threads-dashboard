@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-07-27T08:50:00.580Z",
+  "updated_at": "2026-07-27T12:39:18.020Z",
   "profile": {
     "username": "iams_ichi",
     "name": "iams",
     "biography": "Solo Traveler Bunglon\nFine dining 👌 & Street food lokal 🫰\nHidden gems expert for 🇯🇵🇦🇺🇫🇷🇪🇸🇮🇹 + Umrah.\nBasic tourist traps could never fr",
-    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/729823178_17902006359449426_143983074154164635_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=111&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=o7V6r_a3bQ0Q7kNvwHC_R5f&_nc_oc=AdqSRcCPoEuxXiqsHf3E_uekPN0rh-yy374mlW6VKSifYZBlKyFff11-UeKHK1fkhJw&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=we_SRnYRBfef-Hoq63E6bw&_nc_tpa=Q5bMBQHLoWMgwxGyQ-m8YDvUW8HBz8wnTrAqfV0On713XnOxXxjDXd_B8zLcdilJ6D4yeXWfQzT3Z_THLw&oh=00_AQBMqCDApXVwB3sD0H9A63oNOsTTMwME3Ghl1vR2vzrzZQ&oe=6A6CDEBF"
+    "picture": "https://scontent-dfw5-1.cdninstagram.com/v/t51.82787-19/729823178_17902006359449426_143983074154164635_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=111&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=o7V6r_a3bQ0Q7kNvwGYUPPz&_nc_oc=AdqgIb6KpeTB0T4W21QmW7_t_h5thEeqHBFAu98NwxOmdWGjqZoZj495wwrX4F4KxmQ&_nc_zt=24&_nc_ht=scontent-dfw5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=Pe-Vip2je7wwF4Sq6-dxUQ&_nc_tpa=Q5bMBQEpD2-CB9gxkNhwbrPjgBTd8OAfADdwdFCQQt3Y2Hb67hUdLypGifS26LWFwGlEC5kxlBtRvoL4lg&oh=00_AQByoH6IdQZYGLUfYuFc8R19dIaiZVtr1XW41Khm5i_SOg&oe=6A6D16FF"
   },
   "summary": {
     "followers_count": 1346,
-    "views": 26,
+    "views": 135,
     "likes": 0,
-    "replies": 0,
+    "replies": 1,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 158,
-    "engagement_rate": 607.69,
+    "engagement_total": 156,
+    "engagement_rate": 115.56,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -27,7 +27,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DbOAbGAG41B",
       "timestamp": "2026-07-25T14:15:56+0000",
       "metrics": {
-        "views": 5613,
+        "views": 5619,
         "likes": 24,
         "replies": 15,
         "reposts": 0,
@@ -72,7 +72,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DbPrwcbAVBQ",
       "timestamp": "2026-07-26T05:53:18+0000",
       "metrics": {
-        "views": 949,
+        "views": 951,
         "likes": 15,
         "replies": 4,
         "reposts": 0,
@@ -99,12 +99,27 @@
   ],
   "recent_posts": [
     {
+      "id": "18092138480632085",
+      "text": "Di Kyoto, orang lokal jalan kaki di gang-gang sempit itu tanpa lirik kanan-kiri — kayak udah hapal setiap batu bata-nya.",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DbSzvR1oGJQ",
+      "timestamp": "2026-07-27T11:01:19+0000",
+      "metrics": {
+        "views": 91,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
       "id": "18087654023447028",
       "text": "Di Tokyo, kalau lo nyasar dan nanya ke orang — mereka ga cuma jawab, mereka kadang jalan bareng sampai lo nemu tempatnya",
       "permalink": "https://www.threads.com/@iams_ichi/post/DbSbsZLG___",
       "timestamp": "2026-07-27T07:31:11+0000",
       "metrics": {
-        "views": 16,
+        "views": 18,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -134,7 +149,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DbRrvjqHH19",
       "timestamp": "2026-07-27T00:32:11+0000",
       "metrics": {
-        "views": 31,
+        "views": 32,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -179,7 +194,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DbQO77Lm1IU",
       "timestamp": "2026-07-26T11:01:14+0000",
       "metrics": {
-        "views": 31,
+        "views": 32,
         "likes": 1,
         "replies": 2,
         "reposts": 0,
@@ -209,7 +224,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DbPrwcbAVBQ",
       "timestamp": "2026-07-26T05:53:18+0000",
       "metrics": {
-        "views": 949,
+        "views": 951,
         "likes": 15,
         "replies": 4,
         "reposts": 0,
@@ -232,21 +247,6 @@
         "shares": 0
       },
       "engagement": 0
-    },
-    {
-      "id": "18124116922752617",
-      "text": "Katanya street food Jepang itu murah meriah — ternyata tergantung banget di mana dan kapan lo makannya.\nYang bikin beda ",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DbPG0h6kW-4",
-      "timestamp": "2026-07-26T00:31:05+0000",
-      "metrics": {
-        "views": 118,
-        "likes": 1,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
     }
   ]
 }
