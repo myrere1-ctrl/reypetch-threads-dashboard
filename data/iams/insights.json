@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-07-27T12:39:18.020Z",
+  "updated_at": "2026-07-27T15:56:13.160Z",
   "profile": {
     "username": "iams_ichi",
     "name": "iams",
     "biography": "Solo Traveler Bunglon\nFine dining 👌 & Street food lokal 🫰\nHidden gems expert for 🇯🇵🇦🇺🇫🇷🇪🇸🇮🇹 + Umrah.\nBasic tourist traps could never fr",
-    "picture": "https://scontent-dfw5-1.cdninstagram.com/v/t51.82787-19/729823178_17902006359449426_143983074154164635_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=111&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=o7V6r_a3bQ0Q7kNvwGYUPPz&_nc_oc=AdqgIb6KpeTB0T4W21QmW7_t_h5thEeqHBFAu98NwxOmdWGjqZoZj495wwrX4F4KxmQ&_nc_zt=24&_nc_ht=scontent-dfw5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=Pe-Vip2je7wwF4Sq6-dxUQ&_nc_tpa=Q5bMBQEpD2-CB9gxkNhwbrPjgBTd8OAfADdwdFCQQt3Y2Hb67hUdLypGifS26LWFwGlEC5kxlBtRvoL4lg&oh=00_AQByoH6IdQZYGLUfYuFc8R19dIaiZVtr1XW41Khm5i_SOg&oe=6A6D16FF"
+    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/729823178_17902006359449426_143983074154164635_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=111&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=o7V6r_a3bQ0Q7kNvwHr59wo&_nc_oc=AdoxDh26gyzF3gvJf-LtmiN33oKp-M2bHGGKTyHIoamH-yNCzFerTgMJrtHSQ-IGniE&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=GhfjMfpJgrrd3Ehtj8jM8Q&_nc_tpa=Q5bMBQGYmD3FQmlB-AsQEm8liyPU9jEqnI2A8Bton5pJs665OoQrtfppZeRohK7HLapYWzu1g153CW3egw&oh=00_AQCepn6JvRccK62Sxj4UXCZnwi80b6DH1Bv4Yt0NC_2_yQ&oe=6A6D4F3F"
   },
   "summary": {
     "followers_count": 1346,
-    "views": 135,
+    "views": 195,
     "likes": 0,
-    "replies": 1,
+    "replies": 2,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 156,
-    "engagement_rate": 115.56,
+    "engagement_total": 152,
+    "engagement_rate": 77.95,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -27,7 +27,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DbOAbGAG41B",
       "timestamp": "2026-07-25T14:15:56+0000",
       "metrics": {
-        "views": 5619,
+        "views": 5621,
         "likes": 24,
         "replies": 15,
         "reposts": 0,
@@ -72,7 +72,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DbPrwcbAVBQ",
       "timestamp": "2026-07-26T05:53:18+0000",
       "metrics": {
-        "views": 951,
+        "views": 954,
         "likes": 15,
         "replies": 4,
         "reposts": 0,
@@ -99,19 +99,34 @@
   ],
   "recent_posts": [
     {
+      "id": "18101467547236438",
+      "text": "Dulu mikir takoyaki enak di mana aja sama — ternyata yang paling berkesan bukan yang paling viral.\nYang bikin beda itu b",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DbTIWAPoHGP",
+      "timestamp": "2026-07-27T14:01:22+0000",
+      "metrics": {
+        "views": 5,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "18092138480632085",
       "text": "Di Kyoto, orang lokal jalan kaki di gang-gang sempit itu tanpa lirik kanan-kiri — kayak udah hapal setiap batu bata-nya.",
       "permalink": "https://www.threads.com/@iams_ichi/post/DbSzvR1oGJQ",
       "timestamp": "2026-07-27T11:01:19+0000",
       "metrics": {
-        "views": 91,
+        "views": 130,
         "likes": 0,
-        "replies": 1,
+        "replies": 2,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 1
+      "engagement": 2
     },
     {
       "id": "18087654023447028",
@@ -119,7 +134,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DbSbsZLG___",
       "timestamp": "2026-07-27T07:31:11+0000",
       "metrics": {
-        "views": 18,
+        "views": 19,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -134,7 +149,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DbSDqw8nEY9",
       "timestamp": "2026-07-27T04:01:16+0000",
       "metrics": {
-        "views": 18,
+        "views": 21,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -224,7 +239,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DbPrwcbAVBQ",
       "timestamp": "2026-07-26T05:53:18+0000",
       "metrics": {
-        "views": 951,
+        "views": 954,
         "likes": 15,
         "replies": 4,
         "reposts": 0,
@@ -232,21 +247,6 @@
         "shares": 0
       },
       "engagement": 19
-    },
-    {
-      "id": "18100042894955877",
-      "text": "Sakura season itu bukan soal bunga — aku baru nyadar itu pas literally semua orang di sekitarku nangkep momen yang sama ",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DbPe3jskQrD",
-      "timestamp": "2026-07-26T04:01:13+0000",
-      "metrics": {
-        "views": 25,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
     }
   ]
 }
