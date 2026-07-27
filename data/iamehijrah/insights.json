@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-07-27T04:57:25.964Z",
+  "updated_at": "2026-07-27T08:50:47.832Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=edlsGk9RMZQQ7kNvwF1-t3-&_nc_oc=AdoiTEpLimE4k8lFuk_dKP5FV7i5F16EWNV4uhaHnfa-siDdYvbIk3I02xUy5vYTYV8&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=LkOqLzm5FnId_AHXb8klcg&_nc_tpa=Q5bMBQFMCAa1ols6T6xLWsakQI4Gmm6WSK0rmAryt0nYEpAeti8G_F0oBgcN4Lp0uctyvsU7yV6j0WYiWw&oh=00_AQBFJoy_KkvdJpLr3FovIEAxevGxi8dWX_RNRgbbhYdHBQ&oe=6A6CB513"
+    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=edlsGk9RMZQQ7kNvwHfB0wz&_nc_oc=AdrXU6fO9JdA697aN2rIq2tyzzu8HP8Kzy0rUTJjyMM5s2hoFJvU8VeTibUrjBEF6Eg&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=5IMvG1ZxIW57Cn_I4kHLhg&_nc_tpa=Q5bMBQF_gsw0dARLr5JNmdfHy3wHxgb056Ia94UNrJREx5av--5nhiwQOXyJsOdv5oqY03DycluM5_BHGg&oh=00_AQAh36UKNu-MxHDj0E4CwxGtTOvijs2glwHG3G2SHtFRFg&oe=6A6CED53"
   },
   "summary": {
     "followers_count": 0,
-    "views": 385,
-    "likes": 2,
-    "replies": 1,
-    "reposts": 0,
+    "views": 19,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 1,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 230,
-    "engagement_rate": 59.74,
+    "engagement_total": 225,
+    "engagement_rate": 1184.21,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -25,7 +25,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbGGtSHCdfi",
       "timestamp": "2026-07-22T12:36:23+0000",
       "metrics": {
-        "views": 3408,
+        "views": 3409,
         "likes": 122,
         "replies": 6,
         "reposts": 17,
@@ -40,7 +40,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbIBcs8CRuf",
       "timestamp": "2026-07-23T06:28:55+0000",
       "metrics": {
-        "views": 625,
+        "views": 626,
         "likes": 22,
         "replies": 6,
         "reposts": 1,
@@ -97,6 +97,36 @@
   ],
   "recent_posts": [
     {
+      "id": "18119925841872506",
+      "text": "Step by Step Sholat Anti Blank Pikiran\n\n1. Wudhu dengan sadar (rasakan air) \n2. Berdiri di sajadah, tarik nafas dalam \n3",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbSRv1Ek-wf",
+      "timestamp": "2026-07-27T06:03:51+0000",
+      "metrics": {
+        "views": 130,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "17900464221503252",
+      "text": "Satu hal yang aku coba rutinin sekarang — baca Surat Yasin pelan-pelan, ga buru-buru.\nBukan karena ada aturan kapan atau",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbSN_buG1OF",
+      "timestamp": "2026-07-27T05:31:28+0000",
+      "metrics": {
+        "views": 89,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 1,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
       "id": "18107347699925981",
       "text": "Rindu Tanah Suci itu aneh — belum pernah ke sana pun bisa ngerasa kehilangan.\nSekarang lagi niat-niatin persiapan, pelan",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbR19wRGlib",
@@ -117,7 +147,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbRaf7DH9OW",
       "timestamp": "2026-07-26T22:01:31+0000",
       "metrics": {
-        "views": 30,
+        "views": 31,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -147,7 +177,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbQm-lgGz46",
       "timestamp": "2026-07-26T14:31:19+0000",
       "metrics": {
-        "views": 94,
+        "views": 95,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -162,7 +192,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbQcstJG1iz",
       "timestamp": "2026-07-26T13:01:30+0000",
       "metrics": {
-        "views": 110,
+        "views": 111,
         "likes": 1,
         "replies": 1,
         "reposts": 0,
@@ -207,7 +237,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbPpLYnEeVQ",
       "timestamp": "2026-07-26T05:31:18+0000",
       "metrics": {
-        "views": 208,
+        "views": 210,
         "likes": 3,
         "replies": 0,
         "reposts": 0,
@@ -215,36 +245,6 @@
         "shares": 0
       },
       "engagement": 3
-    },
-    {
-      "id": "18067810250713281",
-      "text": "Ibu aku selalu bilang, sebelum niat umroh diucap keras-keras — lurusin dulu sama diri sendiri, perginya buat siapa.\nDulu",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbPRLZ3FNJ9",
-      "timestamp": "2026-07-26T02:01:35+0000",
-      "metrics": {
-        "views": 133,
-        "likes": 2,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 2
-    },
-    {
-      "id": "18127153045655510",
-      "text": "Pagi ini bangun, langsung inget doa yang udah lama aku tunggu jawabannya.\nBelum ada tanda-tanda. Tapi masih dikasih pagi",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbO1sLUgWX6",
-      "timestamp": "2026-07-25T22:01:24+0000",
-      "metrics": {
-        "views": 247,
-        "likes": 6,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 6
     }
   ]
 }
