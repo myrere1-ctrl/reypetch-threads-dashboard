@@ -1,15 +1,15 @@
 {
   "account": "rrpetch",
-  "updated_at": "2026-07-27T12:39:44.015Z",
+  "updated_at": "2026-07-27T15:56:41.721Z",
   "profile": {
     "username": "rrpetch",
     "name": "rrp",
     "biography": "Travelers",
-    "picture": "https://scontent-dfw6-2.cdninstagram.com/v/t51.82787-19/725626839_18109259368780392_5435560104487373455_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=e7QlKLUZ29cQ7kNvwFivjMh&_nc_oc=AdpCEIaOweIhhjF7dp9Y1dXfm8jkwgpfTiM8p_WNeo-mnQ4V6WUYibZRqN11pVH1IvI&_nc_zt=24&_nc_ht=scontent-dfw6-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=Cp_mgs9D8sIN3MyqAkkmCQ&_nc_tpa=Q5bMBQGNY_E_izkws7n9j1NAv1Me3Ll2VuCGWjjDA_V4fUWVqVa4KKpGd3SYgMrALE70GkPCaMv3B4CHzw&oh=00_AQBHwezMTdVosTRgE6a9mmhQWOODBW1THsrrEWWRLizO3w&oe=6A6D20ED"
+    "picture": "https://scontent-dfw6-2.cdninstagram.com/v/t51.82787-19/725626839_18109259368780392_5435560104487373455_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=e7QlKLUZ29cQ7kNvwHJ_uWh&_nc_oc=AdpUe--Ypu--uyy01_20STgrsQetczMDOUa27CHE0AxlIRFMhEo8JrOLy07fF_nI-pU&_nc_zt=24&_nc_ht=scontent-dfw6-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=MNaa-jmk79RCzIjnpp0OGw&_nc_tpa=Q5bMBQGLWCPG6VCh-s2Nc3I7yNdvtqN0HUZai-EXO7XfPOeCxNnD2lcnPt_sWfHooh9P4DRxFunBEZvrrg&oh=00_AQCaobdgFIcbSsfzmtKfKmXjPFsusWPNjqfwRs2XXuzogA&oe=6A6D592D"
   },
   "summary": {
     "followers_count": 2,
-    "views": 9,
+    "views": 13,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
@@ -22,12 +22,42 @@
   },
   "top_posts": [
     {
+      "id": "18084148598418267",
+      "text": "Satu hal yang jarang dibahas soal perjalanan Umroh:\npertanyaan jamaah paling kritis justru muncul di luar jam kerja.\nMal",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbTKBS4oL5B",
+      "timestamp": "2026-07-27T14:16:00+0000",
+      "metrics": {
+        "views": 1,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "18167580034453309",
+      "text": "Jamaah Umroh sering bilang hal yang sama setelah pulang:\n\"Seandainya tahu ini sebelum berangkat…\"\nSoal niat ihram di Miq",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbTIWN1G_cd",
+      "timestamp": "2026-07-27T14:01:23+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "17928057297361298",
       "text": "Italia punya detail yang sering bikin panik klien mendadak — dress code Vatikan, aturan reservasi Colosseum, jam terakhi",
       "permalink": "https://www.threads.com/@rrpetch/post/DbS6m8BoAA5",
       "timestamp": "2026-07-27T12:01:20+0000",
       "metrics": {
-        "views": 0,
+        "views": 1,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -65,46 +95,46 @@
         "shares": 0
       },
       "engagement": 0
-    },
-    {
-      "id": "17963322452962377",
-      "text": "Agen travel Jepang bisa punya AI companion ber-brand sendiri — tanpa perlu bangun teknologi dari nol.\nViaAI hadir dengan",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbSU1YaG-6e",
-      "timestamp": "2026-07-27T06:31:15+0000",
-      "metrics": {
-        "views": 4,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18343827154247959",
-      "text": "Staff agen Spanyol sering cerita hal yang sama.\nJam 9 malam, klien tanya soal dress code Sagrada Família, aturan masuk A",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbSKiakDpkU",
-      "timestamp": "2026-07-27T05:01:17+0000",
-      "metrics": {
-        "views": 4,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
     }
   ],
   "recent_posts": [
+    {
+      "id": "18084148598418267",
+      "text": "Satu hal yang jarang dibahas soal perjalanan Umroh:\npertanyaan jamaah paling kritis justru muncul di luar jam kerja.\nMal",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbTKBS4oL5B",
+      "timestamp": "2026-07-27T14:16:00+0000",
+      "metrics": {
+        "views": 1,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "18167580034453309",
+      "text": "Jamaah Umroh sering bilang hal yang sama setelah pulang:\n\"Seandainya tahu ini sebelum berangkat…\"\nSoal niat ihram di Miq",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbTIWN1G_cd",
+      "timestamp": "2026-07-27T14:01:23+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
     {
       "id": "17928057297361298",
       "text": "Italia punya detail yang sering bikin panik klien mendadak — dress code Vatikan, aturan reservasi Colosseum, jam terakhi",
       "permalink": "https://www.threads.com/@rrpetch/post/DbS6m8BoAA5",
       "timestamp": "2026-07-27T12:01:20+0000",
       "metrics": {
-        "views": 0,
+        "views": 1,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -210,36 +240,6 @@
       "timestamp": "2026-07-27T00:31:14+0000",
       "metrics": {
         "views": 0,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18009776996943553",
-      "text": "Agen travel Spanyol yang serius tahu: brand itu bukan cuma logo — tapi seberapa cepat dan konsisten Anda menjawab klien.",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbRhVblAew8",
-      "timestamp": "2026-07-26T23:01:16+0000",
-      "metrics": {
-        "views": 1,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18068834090495847",
-      "text": "Spanyol punya aturan tak tertulis yang sering luput dari perhatian: banyak gereja di Sevilla dan Granada menolak pengunj",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbQjifboNaB",
-      "timestamp": "2026-07-26T14:01:17+0000",
-      "metrics": {
-        "views": 12,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
