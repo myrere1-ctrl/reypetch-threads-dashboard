@@ -212,7 +212,7 @@
     <div class="stats-grid" style="margin-bottom:1rem">
       <div class="stat-card">
         <div class="stat-top"><div class="stat-icon si-blue"><i class="ti ti-file-text"></i></div><span class="trend trend-up" id="statTodayTrend">—</span></div>
-        <div class="stat-value" id="statToday">—</div><div class="stat-label">Post hari ini · target 10</div>
+        <div class="stat-value" id="statToday">—</div><div class="stat-label" id="statTodayLabel">Post hari ini · target 10</div>
       </div>
       <div class="stat-card">
         <div class="stat-top"><div class="stat-icon si-blue"><i class="ti ti-calendar-week"></i></div><span class="trend trend-neutral" id="statWeekTrend">—</span></div>
@@ -391,7 +391,7 @@ insight yang bikin mikir.</div>
             Status: <span style="color:var(--green);font-weight:600">Aktif</span><br>
             Model AI: claude-sonnet-4-6<br>
             Akun aktif: <span id="settingAccount">iams_ichi</span><br>
-            Produk: Safar AI · Tomodachi AI · ViaAI
+            Produk: <span id="settingProducts">Safar AI · Tomodachi AI · ViaAI</span>
           </div>
         </div>
         <div>
@@ -465,48 +465,35 @@ insight yang bikin mikir.</div>
       return;
     }
 
-    const angleMap = {
-      unpopular_opinion: { instr: 'Mulai dengan "Unpopular opinion:" + statement kontrarian. Punchy, TIDAK sebut produk sama sekali.', mention: 'none' },
-      myth_busting: { instr: 'Mulai "Yang bilang X itu bohong. Justru..." atau "Katanya X, ternyata Y". Debunk. TIDAK sebut produk.', mention: 'none' },
-      personal_reveal: { instr: 'Mulai "Dulu mikir X, ternyata Y" atau "Aku baru sadar...". Personal vulnerability. TIDAK sebut produk.', mention: 'none' },
-      hidden_gem_tip: { instr: 'Bagi info hidden gem / detail spesifik ga ke-Google-able. TIDAK sebut produk.', mention: 'none' },
-      food_dichotomy: { instr: 'Kontras "fine dining vs street food" di destinasi tertentu. TIDAK sebut produk.', mention: 'none' },
-      introvert_survival: { instr: 'Sudut pandang introvert traveling: tips coping, small win. TIDAK sebut produk.', mention: 'none' },
-      real_time_reactive: { instr: 'Post reaktif ke situasi (jam, di mana). Contoh: "Jam X di Y, gue baru sadar...". TIDAK sebut produk.', mention: 'none' },
-      subtle_mention_tips: { instr: 'Cerita personal + di ujung sebut app SATU baris: "aku pakai [App], link di bio". JANGAN list fitur.', mention: 'subtle' },
-    };
-
+    const theme = ACCOUNT_THEME[currentAccount] || ACCOUNT_THEME.iams;
     const type = document.getElementById('contentType').value;
-    const angle = angleMap[type];
+    const angle = theme.angles.find(a => a.value === type) || theme.angles[0];
     const negara = document.getElementById('negara').value || 'umum';
     const catatan = document.getElementById('catatan').value;
     const tone = document.querySelector('.tone-btn.active').textContent;
+    const count = (SLOTS_PER_ACCOUNT[currentAccount] || SLOTS_PER_ACCOUNT.iams).length;
+    const mentionLine = angle.mention === 'subtle' ? theme.subtleMode : theme.pureMode;
 
-    const prompt = `Kamu content creator Threads untuk @iams_ichi — persona travel + food + psikologi. Solo traveler bunglon (kadang bareng bestie). Isi kepala: teori psikologi. Isi koper: baju liburan. Vibe: 20-an, cerdas-casual, introvert-aware.
+    const prompt = `${theme.persona}
 
-Buat 10 post Threads Bahasa Indonesia:
+Buat ${count} post Threads Bahasa Indonesia:
 - Angle: ${angle.instr}
-- Destinasi/topik: ${negara}
+- Topik: ${negara}
 - Tone: ${tone}
 - Catatan: ${catatan || '-'}
 
-MODE: ${angle.mention === 'subtle' ? 'SUBTLE MENTION — 1 baris ujung sebut app natural style "aku pakai [X], link di bio". JANGAN listing fitur.' : 'PURE STORY — JANGAN sebut app apapun (Safar AI / Tomodachi AI / ViaAI). Zero pitching.'}
+MODE: ${mentionLine}
 
 Format tiap post WAJIB:
-- 2-4 baris pendek, punchy (bukan 3-5)
-- Mix "lo"/"aku"/"gue" — natural
-- Emoji SPARING di ujung (max 2 per post), bukan di tengah
-- Panggilan "bestie" boleh kalau natural
-- Total karakter (teks + CTA) MAX 450 (Threads limit 500)
+${theme.formatRules}
 
-HINDARI KETAT: format "Banyak yang...", "Tau gak..." (klise), BROCHURE STYLE (list fitur produk), hard-sell, CTA yes/no tertutup.
-
+HINDARI KETAT: ${theme.avoid}
+${theme.safety ? '\nATURAN KEAMANAN (WAJIB, JANGAN DILANGGAR):\n' + theme.safety + '\n' : ''}
 Contoh voice yang WORK:
-"Unpopular opinion: mending ke 3 negara tapi santai daripada ke 10 negara tapi cuma foto-foto doang terus pulang capek. Quality over quantity, bestie"
-"Dulu mikir solo traveling ke Eropa tuh cuma buat orang kaya. Ternyata setelah nyoba sendiri, lebih ke soal planning yang bener sih. Dan yes, introvert kayak aku ternyata bisa survive juga 😅"
+${theme.examples}
 
 BALAS HANYA JSON VALID. Gunakan pipe | untuk jeda baris dalam teks, BUKAN newline asli:
-[{"jam":"08.00","teks":"baris1|baris2","cta":"ada yang relate?"},{"jam":"13.00","teks":"...","cta":"..."}]`;
+[{"jam":"08.00","teks":"baris1|baris2","cta":"..."},{"jam":"13.00","teks":"...","cta":"..."}]`;
 
     document.getElementById('overlay').classList.add('show');
 
@@ -993,6 +980,113 @@ BALAS HANYA JSON VALID. Gunakan pipe | untuk jeda baris dalam teks, BUKAN newlin
     iamehijrah: { username: '_iame.hijrah', threadsUrl: 'https://www.threads.net/@_iame.hijrah', label: 'Hijrah (iame.hijrah)' },
   };
 
+  // ============ PER-ACCOUNT GENERATE THEME (biar generator ikut persona akun) ============
+  const ACCOUNT_THEME = {
+    iams: {
+      persona: 'Kamu content creator Threads untuk @iams_ichi — persona travel + food + psikologi. Solo traveler bunglon (kadang bareng bestie). Isi kepala: teori psikologi. Isi koper: baju liburan. Vibe: 20-an, cerdas-casual, introvert-aware.',
+      products: 'Safar AI · Tomodachi AI · ViaAI',
+      placeholder: 'cth: Jepang, Umroh, Paris, Roma, Barcelona, Tokyo...',
+      placeholderHint: 'Free-form — bisa negara, kota, atau tema traveling',
+      formatPreview: 'kalimat pembuka relatable.\n\nsatu fakta / twist kecil.\n\ninsight yang bikin mikir.',
+      ctaPreview: 'mau cerita?',
+      angles: [
+        { value:'unpopular_opinion', label:'Unpopular opinion', mention:'none', instr:'Mulai "Unpopular opinion:" + statement kontrarian (OPINI/pengalaman, bukan klaim harga absolut). Punchy, TIDAK sebut produk.' },
+        { value:'myth_busting', label:'Myth-busting', mention:'none', instr:'Mulai "Yang bilang X itu bohong. Justru..." atau "Katanya X, ternyata Y". Debunk pengalaman. TIDAK sebut produk.' },
+        { value:'personal_reveal', label:'Personal reveal (Dulu mikir X, ternyata Y)', mention:'none', instr:'Mulai "Dulu mikir X, ternyata Y". Personal vulnerability. TIDAK sebut produk.' },
+        { value:'hidden_gem_tip', label:'Hidden gem / tip lokal', mention:'none', instr:'Bagi hidden gem / detail spesifik ga ke-Google-able. TIDAK sebut produk.' },
+        { value:'food_dichotomy', label:'Food dichotomy (fine dining vs street)', mention:'none', instr:'Kontras "fine dining vs street food" di destinasi tertentu. TIDAK sebut produk.' },
+        { value:'introvert_survival', label:'Introvert survival', mention:'none', instr:'Sudut pandang introvert traveling: tips coping, small win. TIDAK sebut produk.' },
+        { value:'real_time_reactive', label:'Real-time reactive (jam X di Y...)', mention:'none', instr:'Post reaktif ke situasi: "Jam X di Y, gue baru sadar...". TIDAK sebut produk.' },
+        { value:'subtle_mention_tips', label:'+ Subtle mention (sebut app di ujung)', mention:'subtle', instr:'Cerita personal + di ujung sebut app SATU baris natural. JANGAN list fitur.' },
+      ],
+      formatRules: '- 2-4 baris pendek, punchy\n- Mix "lo"/"aku"/"gue" natural\n- Emoji SPARING di ujung (max 2), bukan di tengah\n- Panggilan "bestie" boleh kalau natural\n- Total karakter MAX 450',
+      avoid: 'format "Banyak yang...", "Tau gak..." (klise), BROCHURE STYLE (list fitur), hard-sell, CTA yes/no tertutup, klaim harga absolut tanpa konteks.',
+      examples: '"Unpopular opinion: mending ke 3 negara tapi santai daripada 10 negara cuma foto-foto terus pulang capek. Quality over quantity, bestie"\n"Dulu mikir solo traveling ke Eropa cuma buat orang kaya. Ternyata lebih ke soal planning yang bener. Dan introvert kayak aku ternyata bisa survive juga 😅"',
+      subtleMode: 'SUBTLE MENTION — 1 baris ujung sebut app natural: "aku pakai [App], link di bio". JANGAN listing fitur.',
+      pureMode: 'PURE STORY — JANGAN sebut app apapun (Safar AI / Tomodachi AI / ViaAI). Zero pitching.',
+      safety: '',
+    },
+    rrpetch: {
+      persona: 'Kamu content creator Threads untuk @rrpetch — akun OFFICIAL reypetch-ai.com. Fokus B2B (agen travel/Umroh) + awareness produk. Tone professional-friendly (bukan corporate kaku), kredibel, product-forward.',
+      products: 'Safar AI · Tomodachi AI · ViaAI',
+      placeholder: 'cth: Umroh, Agen Umroh, Agen travel Jepang, Eropa...',
+      placeholderHint: 'Free-form — destinasi / segmen agen / produk',
+      formatPreview: 'pain point / insight industri.\n\nsolusi singkat + outcome.\n\ncek link di bio.',
+      ctaPreview: 'cek link di bio ya',
+      angles: [
+        { value:'agency_pain_b2b', label:'Agency pain (B2B)', mention:'subtle', instr:'Pain point agen travel/Umroh: CS overwhelmed, pertanyaan jamaah 24/7, staff burnout. Angle decision-maker.' },
+        { value:'case_study_short', label:'Case study singkat', mention:'subtle', instr:'Cerita use case singkat (pain + solution + outcome). Angka konkret bagus.' },
+        { value:'feature_reveal', label:'Feature reveal', mention:'subtle', instr:'Highlight 1 fitur spesifik produk. Fokus manfaat, bukan spec.' },
+        { value:'traveler_tip', label:'Traveler tip', mention:'subtle', instr:'Tips untuk traveler/jamaah. Value dulu, produk mention di ujung.' },
+        { value:'white_label_pitch', label:'White-label pitch', mention:'subtle', instr:'"Agen Anda bisa punya AI companion ber-brand sendiri tanpa build teknologi". B2B.' },
+        { value:'myth_travel', label:'Myth travel/Umroh', mention:'subtle', instr:'Debunk myth traveling/Umroh + reframe.' },
+        { value:'stat_awareness', label:'Stat / awareness', mention:'subtle', instr:'Angka mengejutkan / industry insight.' },
+      ],
+      formatRules: '- 3-5 baris pendek\n- Bahasa formal-friendly, ga terlalu casual\n- Sebut produk (Safar AI/Tomodachi AI/ViaAI) di tempat natural\n- Emoji SPARING (max 1-2)\n- CTA "cek link di bio" — JANGAN tulis URL (reach turun)\n- Total karakter MAX 450',
+      avoid: 'terlalu casual kayak akun personal, emoji spam, hard-sell agresif ("beli sekarang!"), klaim berlebihan tanpa proof, NEMPELIN URL/link di post (cukup "cek link di bio").',
+      examples: '"70% pertanyaan jamaah Umroh sebenarnya bisa dijawab tanpa staff angkat telepon. Soal niat ihram, jadwal, manasik — bisa auto lewat AI companion. cek link di bio ya"',
+      subtleMode: 'Sebut produk (Safar/Tomodachi/ViaAI) natural + tutup "cek link di bio". JANGAN tulis URL.',
+      pureMode: 'Boleh tanpa sebut produk, tapi tetap arahkan awareness. JANGAN tulis URL.',
+      safety: '',
+    },
+    iamehijrah: {
+      persona: 'Kamu content creator Threads untuk @_iame.hijrah — muslimah 20-an dalam perjalanan hijrah. Sharing doa/dzikir/refleksi spiritual dengan cara PERSONAL & relatable, kayak curhat ke temen — BUKAN ceramah. Hangat, jujur, ngajak bukan ngatur.',
+      products: 'Safar AI (companion Umroh)',
+      placeholder: 'cth: Surat Al-Waqiah, Doa Nabi Yunus, istighfar, sabar, syukur, rindu Tanah Suci...',
+      placeholderHint: 'Free-form — nama surah/doa/dzikir atau tema refleksi',
+      formatPreview: 'hook relatable (struggle sehari-hari).\n\nrefleksi personal + sebut nama amalan.\n\nharapan + insyaAllah.',
+      ctaPreview: 'semoga bermanfaat 🤍',
+      angles: [
+        { value:'nenek_wisdom', label:'Wisdom orang tua/nenek', mention:'none', instr:'Cerita dari orang tua/nenek soal amalan ("Nenek/Ibu aku selalu bilang..."). Hangat, ada pelajaran. TANPA produk, TANPA kutipan ayat/hadits.' },
+        { value:'personal_reveal', label:'Personal reveal (Dulu mikir X, ternyata Y)', mention:'none', instr:'Mulai "Dulu aku mikir X soal ibadah/doa... ternyata Y". Vulnerable. TANPA produk.' },
+        { value:'struggle_to_hope', label:'Struggle → harapan', mention:'none', instr:'Relate ke titik buntu/overthinking, arahkan ke amalan/doa (sebut namanya) sebagai penenang. Hook boleh bold. TAPI framing KETENANGAN + insyaAllah — JANGAN janji hasil pasti.' },
+        { value:'unpopular_opinion_spiritual', label:'Unpopular opinion (spiritual)', mention:'none', instr:'"Unpopular opinion:" + opini/pengalaman spiritual (BUKAN hukum agama/fatwa). JANGAN vonis halal/haram.' },
+        { value:'waktu_reflection', label:'Refleksi waktu/istiqomah', mention:'none', instr:'Refleksi konsistensi/waktu ibadah. Tenang. JANGAN klaim "waktu ini pasti mustajab".' },
+        { value:'hook_curiosity_doa', label:'Hook rekomendasi amalan', mention:'none', instr:'Hook penasaran + rekomen 1 amalan/surah/dzikir dengan NAMA-nya + alasan personal. WAJIB: tanpa teks Arab, tanpa nomor ayat, tanpa "HR.", tanpa janji materi.' },
+        { value:'syukur_daily', label:'Syukur harian', mention:'none', instr:'Observasi kecil bahan syukur (masih bisa bangun/sujud). Relatable, ga lebay. TANPA produk.' },
+        { value:'muhasabah_night', label:'Muhasabah malam', mention:'none', instr:'Refleksi malam yang lembut & jujur (bukan menghakimi). TANPA produk.' },
+        { value:'subtle_safar_umroh', label:'+ Subtle Safar AI (Umroh only)', mention:'subtle', instr:'Cerita persiapan Umroh / rindu Tanah Suci (2-3 baris) — ABAIKAN topik lain kalau bukan Umroh. Lalu 1 baris sebut Safar AI sebagai app yang nemenin ibadah DI TANAH SUCI (panduan ritual/kiblat/jadwal shalat). "ada di bio" boleh.' },
+      ],
+      formatRules: '- 2-4 baris pendek, personal (curhat ke temen, BUKAN ceramah)\n- "insyaAllah/alhamdulillah/aamiin" natural, jangan tiap kalimat\n- Emoji SPARING di ujung (🤍✨🙏) max 1-2\n- Sebut surah/doa CUKUP NAMA POPULERNYA + framing pengalaman\n- Total karakter MAX 450',
+      avoid: 'CERAMAH/menggurui, MENGHAKIMI orang, klaim fakta absolut, corporate/hard-sell.',
+      safety: '- JANGAN nulis teks ayat/doa huruf Arab. JANGAN kutip terjemahan ayat kata-per-kata.\n- JANGAN kutip hadits dengan atribusi (HR. Bukhari/Muslim/dst) — cukup pesan umumnya.\n- JANGAN kasih nomor ayat/surat spesifik (rawan salah).\n- JANGAN janji hasil pasti/materi ("dijamin kaya","pasti terkabul","anti miskin"). Framing ketenangan/harapan + insyaAllah.\n- SAFAR AI itu companion IBADAH DI TANAH SUCI (Umroh/Hajj) — BUKAN app baca Quran/murottal/baca surat harian di rumah. Cuma sebut pas konteks Umroh/Tanah Suci.',
+      examples: '"Nenek aku selalu bilang, jangan tinggalin Al-Waqiah tiap malam. Dulu aku iya-iya aja. Sekarang tiap habis Maghrib aku baca — bukan karena takut kekurangan, tapi hati jadi lebih tenang. InsyaAllah cukup itu 🤍"\n"Unpopular opinion: makin sibuk ngejar dunia, aku malah makin gampang cemas. Baru berasa penuh lagi pas mulai jaga sholat 5 waktu beneran."',
+      subtleMode: 'SUBTLE (Umroh only) — sebut Safar AI 1 baris sebagai app yang nemenin ibadah DI TANAH SUCI (ritual/kiblat/jadwal shalat), "ada di bio" boleh. JANGAN gambarkan sebagai app baca Quran harian.',
+      pureMode: 'PURE STORY — murni refleksi/doa personal. JANGAN sebut produk apapun.',
+    },
+  };
+
+  function applyAccountTheme(acc) {
+    const theme = ACCOUNT_THEME[acc] || ACCOUNT_THEME.iams;
+    const count = (SLOTS_PER_ACCOUNT[acc] || SLOTS_PER_ACCOUNT.iams).length;
+    const meta = ACCOUNT_META[acc] || ACCOUNT_META.iams;
+
+    // Angle dropdown → sesuai akun
+    const sel = document.getElementById('contentType');
+    if (sel) sel.innerHTML = theme.angles.map(a => `<option value="${a.value}">${a.label}</option>`).join('');
+
+    // Placeholder + hint topik
+    const negaraEl = document.getElementById('negara');
+    if (negaraEl) negaraEl.placeholder = theme.placeholder;
+    const hintEl = document.querySelector('#negara + .fhint');
+    if (hintEl) hintEl.textContent = theme.placeholderHint;
+
+    // Preview format
+    const tb = document.querySelector('.tpl-body'); if (tb) tb.textContent = theme.formatPreview;
+    const tc = document.querySelector('.tpl-cta'); if (tc) tc.textContent = theme.ctaPreview;
+
+    // Label tombol + target harian
+    const btn = document.querySelector('.btn-generate');
+    if (btn) btn.innerHTML = `<i class="ti ti-bolt"></i>Generate ${count} post`;
+    const tgt = document.getElementById('statTodayLabel');
+    if (tgt) tgt.textContent = `Post hari ini · target ${count}`;
+
+    // Pengaturan info
+    const prodEl = document.getElementById('settingProducts'); if (prodEl) prodEl.textContent = theme.products;
+    const accEl = document.getElementById('settingAccount'); if (accEl) accEl.textContent = meta.username;
+    const stl = document.getElementById('settingThreadsLink'); if (stl) stl.href = meta.threadsUrl;
+  }
+
   function switchAccount(acc) {
     if (!ACCOUNT_META[acc]) return;
     currentAccount = acc;
@@ -1017,6 +1111,9 @@ BALAS HANYA JSON VALID. Gunakan pipe | untuk jeda baris dalam teks, BUKAN newlin
     const meta = ACCOUNT_META[acc];
     document.getElementById('topSub').textContent = `Reypetch AI · ${meta.label}`;
     document.getElementById('topThreadsLink').href = meta.threadsUrl;
+
+    // Update generator theme (persona/angle/format/safety) sesuai akun
+    applyAccountTheme(acc);
 
     // Update slot times array based on account
     times.length = 0;

@@ -15,9 +15,9 @@ export const config = {
     {
       slug: 'safar-ai',
       name: 'Safar AI',
-      desc: 'Teman ibadah di Tanah Suci — panduan ritual step-by-step (Thawaf/Sai), arah kiblat, jadwal shalat otomatis, doa+audio, jurnal spiritual. Bikin jamaah lebih tenang & ga panik.',
-      oneLiner: 'Companion Umroh yang nemenin ibadah biar tenang & ga panik',
-      audience: 'Muslimah/jamaah yang lagi hijrah atau persiapan Umroh',
+      desc: 'Companion IBADAH DI TANAH SUCI (Umroh/Hajj): panduan ritual step-by-step (Thawaf/Sai/niat ihram), arah kiblat, jadwal shalat, doa-doa manasik (talbiyah/thawaf), Vision AI scan tempat bersejarah. BUKAN aplikasi baca Quran / murottal / baca surat harian di rumah — khusus nemenin ibadah di Tanah Suci.',
+      oneLiner: 'Companion Umroh yang nemenin ritual di Tanah Suci biar tenang & ga panik',
+      audience: 'Muslimah/jamaah yang lagi persiapan atau rindu Umroh',
       // Sengaja tanpa destinations → fallback ke config.destinations (topic pool doa)
     },
   ],
@@ -46,8 +46,8 @@ export const config = {
     { name: 'hook_curiosity_doa', mention: 'none', instruction: 'Hook penasaran yang ngerekomen 1 amalan/surah/dzikir dengan NAMA-nya + alasan personal kenapa kamu rutinin. Boleh punchy. WAJIB: tanpa teks Arab, tanpa nomor ayat, tanpa "HR. ...", tanpa janji materi/hasil pasti. Framing: bikin hati lebih tenang, insyaAllah.' },
     { name: 'syukur_daily', mention: 'none', instruction: 'Observasi kecil sehari-hari yang jadi bahan syukur (masih bisa bangun, masih bisa sujud). Relatable, ga lebay. Ujung: rasa syukur tulus. TANPA sebut produk.' },
     { name: 'muhasabah_night', mention: 'none', instruction: 'Refleksi malam / self-check yang lembut & jujur (bukan menghakimi). Ngajak berhenti sejenak. Cocok untuk slot malam. TANPA sebut produk.' },
-    { name: 'subtle_safar_umroh', mention: 'subtle', instruction: 'Cerita personal soal persiapan Umroh / rindu Tanah Suci (2-3 baris), lalu 1 baris natural sebut Safar AI sebagai app yang kamu pakai buat nemenin ibadah (panduan ritual/arah kiblat/jadwal shalat). "ada di bio" boleh. JANGAN list fitur, JANGAN hard-sell.' },
-    { name: 'subtle_safar_doa', mention: 'subtle', instruction: 'Cerita soal rutinin doa/dzikir harian (2-3 baris), lalu 1 baris natural: kamu kebantu app Safar AI (doa+audio, jadwal shalat). SATU baris doang, personal, bukan iklan.' },
+    { name: 'subtle_safar_umroh', mention: 'subtle', instruction: 'Cerita personal soal persiapan Umroh / rindu Tanah Suci (2-3 baris) — ABAIKAN topik rotasi kalau bukan soal Umroh, fokus ke Umroh. Lalu 1 baris natural sebut Safar AI sebagai app yang kamu pakai buat nemenin ibadah DI TANAH SUCI (panduan ritual/arah kiblat/jadwal shalat). "ada di bio" boleh. JANGAN list fitur, JANGAN hard-sell. JANGAN gambarkan Safar AI sebagai app baca Quran/murottal harian.' },
+    { name: 'subtle_safar_tanahsuci', mention: 'subtle', instruction: 'Cerita/bayangan personal soal momen ibadah di Tanah Suci (Masjidil Haram/Nabawi, thawaf, rindu ke sana) 2-3 baris — WAJIB konteks Umroh/Tanah Suci, ABAIKAN topik rotasi kalau bukan itu. Lalu 1 baris natural sebut Safar AI sebagai app yang nemenin di sana (panduan ritual/kiblat/jadwal shalat). JANGAN kaitkan Safar AI dengan baca Quran/surat harian di rumah.' },
   ],
 
   // Few-shot dari gaya @_iame.hijrah + voice iams_ichi — SEMUA aman (tanpa kutipan/sumber spesifik)
@@ -92,11 +92,12 @@ export const config = {
     'Bahasa Arab berlebihan sampai ga natural.',
     'Klaim fakta absolut tanpa konteks.',
     'BERTOLAK BELAKANG dengan post sebelumnya (lihat RIWAYAT POST di prompt).',
+    'SALAH GAMBARKAN SAFAR AI: itu companion IBADAH DI TANAH SUCI (Umroh/Hajj: ritual, kiblat, jadwal shalat) — BUKAN app baca Quran/murottal/baca surat harian di rumah. JANGAN kaitkan Safar AI dengan amalan harian di rumah; cuma sebut pas konteks Umroh/persiapan/rindu Tanah Suci.',
     'CORPORATE / HARD-SELL Safar AI (list fitur, "beli sekarang!"). Kalau nyebut, natural 1 baris aja.',
   ],
 
   brandInfo:
-    'Safar AI = companion Umroh/Hajj (bagian dari reypetch-ai.com): panduan ritual step-by-step, arah kiblat, jadwal shalat, doa+audio, jurnal spiritual. Untuk akun @_iame.hijrah, Safar AI disebut sebagai "app yang aku pakai" — personal, kayak temen yang share tools favorit, BUKAN pitching. Jualan PERSONAL bukan company: ga usah gaya korporat, cukup natural "ada di bio". Mayoritas post murni doa/refleksi (pure story lebih valuable) — Safar AI sesekali aja.',
+    'Safar AI = companion IBADAH DI TANAH SUCI (Umroh/Hajj, bagian dari reypetch-ai.com): panduan ritual step-by-step, arah kiblat, jadwal shalat, doa manasik, Vision AI. BUKAN app baca Quran/murottal/baca surat harian — cuma relevan pas konteks Umroh/Tanah Suci. Untuk @_iame.hijrah, Safar AI disebut natural sebagai "app yang aku pakai pas ke Tanah Suci" — personal, BUKAN pitching. Jualan PERSONAL bukan company: cukup "ada di bio". Mayoritas post murni doa/refleksi (pure story lebih valuable) — Safar AI sesekali aja, HANYA di konteks Umroh.',
 
   voiceSignature: `- Muslimah 20-an dalam perjalanan hijrah, jujur & vulnerable
 - Sering pakai reversal/refleksi ("dulu X, sekarang Y")
