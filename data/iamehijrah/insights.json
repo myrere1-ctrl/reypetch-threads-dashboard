@@ -1,63 +1,33 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-07-27T12:40:23.137Z",
+  "updated_at": "2026-07-27T15:57:15.835Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=edlsGk9RMZQQ7kNvwEcDtwC&_nc_oc=Ado-T_K0j8p1qjhm-9LTQbHfeIoW89Oh7mwR1YfFhVa2q9E6OxgbfHFVeZCjTlnrBWs&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=SdLqM_Br5WP5dTCIYnnZ4A&_nc_tpa=Q5bMBQHKabb11CebI5_9AT9aWZc7PODMpVOQ9_sdYMJxc8hrephzOCT5Bz17oRHfoHOZFrQz50PteU9lqA&oh=00_AQD0-EdWFUPjI6bo5op_F3gHUPRooPf00PjdxXguc5uFfQ&oe=6A6D2593"
+    "picture": "https://scontent-atl3-3.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=edlsGk9RMZQQ7kNvwHGBGuh&_nc_oc=Adpnvq4zLm2Tvhhlzps9UMEwGRpc-SNhCMu8N5b0tvPbeYbGkMFNf_MNWQ0aFmQ5GdY&_nc_zt=24&_nc_ht=scontent-atl3-3.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=-rbcWnUI4VeJyCszcanj5A&_nc_tpa=Q5bMBQE9WxMv0Vo2sZS-nafACYiIwy2Vr-6j8za3oU5l0QscMUjp7NA6pG4vJEO2SFXhGy5bdPrZ3Keayw&oh=00_AQBsXeUM0qrGDX4RkFUJPgRVjgEJoAGWBoxfpLSglhTHxw&oe=6A6D5DD3"
   },
   "summary": {
     "followers_count": 0,
-    "views": 106,
+    "views": 211,
     "likes": 0,
     "replies": 0,
     "reposts": 1,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 45,
-    "engagement_rate": 42.45,
+    "engagement_total": 27,
+    "engagement_rate": 12.8,
     "curiosity_score": null,
     "post_count": 25
   },
   "top_posts": [
-    {
-      "id": "18140974942489281",
-      "text": "Istri yang Paling Kuat di Rumah, Justru yang Paling Sering Dilupakan Perasaannya\n\n1/ \"Dia baik-baik aja kok.\" Kalimat it",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbI1EPcicLW",
-      "timestamp": "2026-07-23T13:59:58+0000",
-      "metrics": {
-        "views": 197,
-        "likes": 4,
-        "replies": 6,
-        "reposts": 1,
-        "quotes": 0,
-        "shares": 1
-      },
-      "engagement": 11
-    },
     {
       "id": "18115386257295830",
       "text": "5 Dzikir Singkat yang Dibaca Para Ulama Sebelum Tidur — Terbukti Bikin Impian Lebih \"Terarah\"\n\n1/  Kamu tidur 7-8 jam se",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbSu3r3iRL9",
       "timestamp": "2026-07-27T10:18:13+0000",
       "metrics": {
-        "views": 13,
+        "views": 15,
         "likes": 0,
         "replies": 7,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 7
-    },
-    {
-      "id": "18414381661148024",
-      "text": "7 Rumus \"Jalur Langit\"\nKenapa Doa Kamu Belum Dijawab Bukan Karena Kamu Kurang Layak \n\n1/ Pernah berdoa sampai nangis, ta",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbLIEASCeNO",
-      "timestamp": "2026-07-24T11:24:26+0000",
-      "metrics": {
-        "views": 60,
-        "likes": 1,
-        "replies": 6,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
@@ -93,16 +63,76 @@
         "shares": 0
       },
       "engagement": 3
+    },
+    {
+      "id": "17944246332266540",
+      "text": "Tiap malem sebelum tidur, aku coba rutin baca Surat Yasin pelan-pelan — bukan ngejar cepet selesai, tapi beneran ngerasa",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbNcbm_lHp_",
+      "timestamp": "2026-07-25T09:01:26+0000",
+      "metrics": {
+        "views": 158,
+        "likes": 3,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 3
+    },
+    {
+      "id": "17867788443651021",
+      "text": "Jujur, dzikir pagi dan petang itu aku sering skip kalau lagi buru-buru.\nTapi pas aku mulai duduk sebentar habis Subuh — ",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbQcstJG1iz",
+      "timestamp": "2026-07-26T13:01:30+0000",
+      "metrics": {
+        "views": 112,
+        "likes": 1,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 2
     }
   ],
   "recent_posts": [
+    {
+      "id": "18024069932853656",
+      "text": "Hari ini aku ngerasa capek banget — tapi pas sujud, ada sesuatu yang pelan-pelan longgar.\nSabar itu bukan soal kuat naha",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbTLyfOG8B5",
+      "timestamp": "2026-07-27T14:31:29+0000",
+      "metrics": {
+        "views": 38,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "17900628582521994",
+      "text": "Lagi di titik semua kerasa buntu, overthinking ga ada habisnya?\nAku pernah sampai di titik itu — dan yang pelan-pelan no",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbTBfj5FNC2",
+      "timestamp": "2026-07-27T13:01:29+0000",
+      "metrics": {
+        "views": 49,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
     {
       "id": "17890092840605081",
       "text": "Tadi pagi aku baca sholawat pelan-pelan — bukan karena lagi khusyuk banget, justru karena lagi capek dan hati agak keman",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbS3LLRllAx",
       "timestamp": "2026-07-27T11:31:21+0000",
       "metrics": {
-        "views": 36,
+        "views": 39,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -117,7 +147,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbSu3r3iRL9",
       "timestamp": "2026-07-27T10:18:13+0000",
       "metrics": {
-        "views": 13,
+        "views": 15,
         "likes": 0,
         "replies": 7,
         "reposts": 0,
@@ -147,7 +177,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbSRv1Ek-wf",
       "timestamp": "2026-07-27T06:03:51+0000",
       "metrics": {
-        "views": 132,
+        "views": 135,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -215,36 +245,6 @@
         "shares": 0
       },
       "engagement": 0
-    },
-    {
-      "id": "18124170694815371",
-      "text": "Ada satu amalan yang aku coba rutinin di sepertiga malam — baca Surat Al-Mulk pelan-pelan sebelum rebahan.\nBukan karena ",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbQm-lgGz46",
-      "timestamp": "2026-07-26T14:31:19+0000",
-      "metrics": {
-        "views": 95,
-        "likes": 1,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "17867788443651021",
-      "text": "Jujur, dzikir pagi dan petang itu aku sering skip kalau lagi buru-buru.\nTapi pas aku mulai duduk sebentar habis Subuh — ",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbQcstJG1iz",
-      "timestamp": "2026-07-26T13:01:30+0000",
-      "metrics": {
-        "views": 112,
-        "likes": 1,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 2
     }
   ]
 }
