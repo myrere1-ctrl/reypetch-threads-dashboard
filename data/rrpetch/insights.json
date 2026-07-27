@@ -1,15 +1,15 @@
 {
   "account": "rrpetch",
-  "updated_at": "2026-07-27T08:50:23.765Z",
+  "updated_at": "2026-07-27T12:39:44.015Z",
   "profile": {
     "username": "rrpetch",
     "name": "rrp",
     "biography": "Travelers",
-    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/725626839_18109259368780392_5435560104487373455_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=e7QlKLUZ29cQ7kNvwHeFlos&_nc_oc=AdoJlOrulIztWSpX_8rbHvDFDI--4V5qHST3KXJrvrpgbHkCMuReiD7cUrJeUMjL4kw&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=KBfAEK8htTd3viIh3cGy-w&_nc_tpa=Q5bMBQHircMM7BB6bIAsErRH8QVN85kAFn0miabaSFWCfW0AG8xFwZgHAPIxWl2HkLMt4Aek-Rnwma5mUw&oh=00_AQA-s5ohFVmIQ7cWzxgIAAGQRMcdAUgLfAITlccYuEbuDQ&oe=6A6CE8AD"
+    "picture": "https://scontent-dfw6-2.cdninstagram.com/v/t51.82787-19/725626839_18109259368780392_5435560104487373455_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=e7QlKLUZ29cQ7kNvwFivjMh&_nc_oc=AdpCEIaOweIhhjF7dp9Y1dXfm8jkwgpfTiM8p_WNeo-mnQ4V6WUYibZRqN11pVH1IvI&_nc_zt=24&_nc_ht=scontent-dfw6-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=Cp_mgs9D8sIN3MyqAkkmCQ&_nc_tpa=Q5bMBQGNY_E_izkws7n9j1NAv1Me3Ll2VuCGWjjDA_V4fUWVqVa4KKpGd3SYgMrALE70GkPCaMv3B4CHzw&oh=00_AQBHwezMTdVosTRgE6a9mmhQWOODBW1THsrrEWWRLizO3w&oe=6A6D20ED"
   },
   "summary": {
     "followers_count": 2,
-    "views": 5,
+    "views": 9,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
@@ -21,6 +21,36 @@
     "post_count": 25
   },
   "top_posts": [
+    {
+      "id": "17928057297361298",
+      "text": "Italia punya detail yang sering bikin panik klien mendadak — dress code Vatikan, aturan reservasi Colosseum, jam terakhi",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbS6m8BoAA5",
+      "timestamp": "2026-07-27T12:01:20+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "18208744273355706",
+      "text": "Agen travel Jepang di Bandung cerita — peak season April (sakura), pertanyaan masuk melonjak 3x lipat.\nSoal IC Card, atu",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbSs3wLG7xI",
+      "timestamp": "2026-07-27T10:01:18+0000",
+      "metrics": {
+        "views": 4,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
     {
       "id": "18610218094004010",
       "text": "Agen Umroh di Surabaya punya masalah klasik: 3 staff harus jawab ratusan pertanyaan jamaah setiap hari — soal ihram, Miq",
@@ -65,27 +95,14 @@
         "shares": 0
       },
       "engagement": 0
-    },
+    }
+  ],
+  "recent_posts": [
     {
-      "id": "18192553918376099",
-      "text": "Mitos: wisatawan ke Prancis pasti sudah paham cara bayar dan validasi tiket metro Paris.\nFaktanya — banyak yang baru sad",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbSB7GNHNI-",
-      "timestamp": "2026-07-27T03:46:00+0000",
-      "metrics": {
-        "views": 1,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18048388085581985",
-      "text": "Mitos: jamaah Haji sudah cukup dibekali buku panduan cetak.\nFaktanya — pertanyaan paling kritis justru muncul saat di la",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbR179empTi",
-      "timestamp": "2026-07-27T02:01:16+0000",
+      "id": "17928057297361298",
+      "text": "Italia punya detail yang sering bikin panik klien mendadak — dress code Vatikan, aturan reservasi Colosseum, jam terakhi",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbS6m8BoAA5",
+      "timestamp": "2026-07-27T12:01:20+0000",
       "metrics": {
         "views": 0,
         "likes": 0,
@@ -95,9 +112,22 @@
         "shares": 0
       },
       "engagement": 0
-    }
-  ],
-  "recent_posts": [
+    },
+    {
+      "id": "18208744273355706",
+      "text": "Agen travel Jepang di Bandung cerita — peak season April (sakura), pertanyaan masuk melonjak 3x lipat.\nSoal IC Card, atu",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbSs3wLG7xI",
+      "timestamp": "2026-07-27T10:01:18+0000",
+      "metrics": {
+        "views": 4,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
     {
       "id": "18610218094004010",
       "text": "Agen Umroh di Surabaya punya masalah klasik: 3 staff harus jawab ratusan pertanyaan jamaah setiap hari — soal ihram, Miq",
@@ -210,36 +240,6 @@
       "timestamp": "2026-07-26T14:01:17+0000",
       "metrics": {
         "views": 12,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18109677163790800",
-      "text": "Agen travel Prancis punya masalah yang sama di mana-mana:\npertanyaan masuk malam — soal validasi Navigo, aturan museum, ",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbQV0ZFGyBa",
-      "timestamp": "2026-07-26T12:01:22+0000",
-      "metrics": {
-        "views": 29,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18131993047627957",
-      "text": "Dari total pertanyaan jamaah Haji yang masuk ke agen — lebih dari 60% sebenarnya berulang setiap musim.\nSoal Armuzna, ja",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbQIEyJH6iE",
-      "timestamp": "2026-07-26T10:01:18+0000",
-      "metrics": {
-        "views": 1,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
