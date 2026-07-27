@@ -1,15 +1,15 @@
 {
   "account": "rrpetch",
-  "updated_at": "2026-07-27T04:57:00.020Z",
+  "updated_at": "2026-07-27T08:50:23.765Z",
   "profile": {
     "username": "rrpetch",
     "name": "rrp",
     "biography": "Travelers",
-    "picture": "https://scontent-lhr11-1.cdninstagram.com/v/t51.82787-19/725626839_18109259368780392_5435560104487373455_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=e7QlKLUZ29cQ7kNvwGtA05Y&_nc_oc=AdqzXa3lQJn2ikumsQLdYdFVBT6gRr0UPU8e3p9L8_EQngqul3T-ETiduPBvZlgJBHo&_nc_zt=24&_nc_ht=scontent-lhr11-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=XJuvF3iOFGoLhnsP3pZUDw&_nc_tpa=Q5bMBQEgKH5OP9ulh_E-q4eeDc64173DYUU3Jnmv6DP3acKnjyDqan9gJOLHje0AaStAZh0qdlByG0x4fg&oh=00_AQArgdGyFPvg0ZAd40t0Ab6il9YwwVgrsj_23sjcEOfBqQ&oe=6A6CB06D"
+    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/725626839_18109259368780392_5435560104487373455_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=e7QlKLUZ29cQ7kNvwHeFlos&_nc_oc=AdoJlOrulIztWSpX_8rbHvDFDI--4V5qHST3KXJrvrpgbHkCMuReiD7cUrJeUMjL4kw&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=KBfAEK8htTd3viIh3cGy-w&_nc_tpa=Q5bMBQHircMM7BB6bIAsErRH8QVN85kAFn0miabaSFWCfW0AG8xFwZgHAPIxWl2HkLMt4Aek-Rnwma5mUw&oh=00_AQA-s5ohFVmIQ7cWzxgIAAGQRMcdAUgLfAITlccYuEbuDQ&oe=6A6CE8AD"
   },
   "summary": {
     "followers_count": 2,
-    "views": 53,
+    "views": 5,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
@@ -22,12 +22,57 @@
   },
   "top_posts": [
     {
+      "id": "18610218094004010",
+      "text": "Agen Umroh di Surabaya punya masalah klasik: 3 staff harus jawab ratusan pertanyaan jamaah setiap hari — soal ihram, Miq",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbSfKJlFS1c",
+      "timestamp": "2026-07-27T08:01:28+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "17963322452962377",
+      "text": "Agen travel Jepang bisa punya AI companion ber-brand sendiri — tanpa perlu bangun teknologi dari nol.\nViaAI hadir dengan",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbSU1YaG-6e",
+      "timestamp": "2026-07-27T06:31:15+0000",
+      "metrics": {
+        "views": 4,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "18343827154247959",
+      "text": "Staff agen Spanyol sering cerita hal yang sama.\nJam 9 malam, klien tanya soal dress code Sagrada Família, aturan masuk A",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbSKiakDpkU",
+      "timestamp": "2026-07-27T05:01:17+0000",
+      "metrics": {
+        "views": 4,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "18192553918376099",
       "text": "Mitos: wisatawan ke Prancis pasti sudah paham cara bayar dan validasi tiket metro Paris.\nFaktanya — banyak yang baru sad",
       "permalink": "https://www.threads.com/@rrpetch/post/DbSB7GNHNI-",
       "timestamp": "2026-07-27T03:46:00+0000",
       "metrics": {
-        "views": 0,
+        "views": 1,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -43,51 +88,6 @@
       "timestamp": "2026-07-27T02:01:16+0000",
       "metrics": {
         "views": 0,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "17892337866665422",
-      "text": "Mitos: agen travel Eropa butuh tim besar untuk bisa layani klien 24 jam.\nFaktanya — sebagian besar pertanyaan masuk itu ",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbRrofgmQSv",
-      "timestamp": "2026-07-27T00:31:14+0000",
-      "metrics": {
-        "views": 0,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18009776996943553",
-      "text": "Agen travel Spanyol yang serius tahu: brand itu bukan cuma logo — tapi seberapa cepat dan konsisten Anda menjawab klien.",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbRhVblAew8",
-      "timestamp": "2026-07-26T23:01:16+0000",
-      "metrics": {
-        "views": 1,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18068834090495847",
-      "text": "Spanyol punya aturan tak tertulis yang sering luput dari perhatian: banyak gereja di Sevilla dan Granada menolak pengunj",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbQjifboNaB",
-      "timestamp": "2026-07-26T14:01:17+0000",
-      "metrics": {
-        "views": 11,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -99,12 +99,57 @@
   ],
   "recent_posts": [
     {
+      "id": "18610218094004010",
+      "text": "Agen Umroh di Surabaya punya masalah klasik: 3 staff harus jawab ratusan pertanyaan jamaah setiap hari — soal ihram, Miq",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbSfKJlFS1c",
+      "timestamp": "2026-07-27T08:01:28+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "17963322452962377",
+      "text": "Agen travel Jepang bisa punya AI companion ber-brand sendiri — tanpa perlu bangun teknologi dari nol.\nViaAI hadir dengan",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbSU1YaG-6e",
+      "timestamp": "2026-07-27T06:31:15+0000",
+      "metrics": {
+        "views": 4,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "18343827154247959",
+      "text": "Staff agen Spanyol sering cerita hal yang sama.\nJam 9 malam, klien tanya soal dress code Sagrada Família, aturan masuk A",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbSKiakDpkU",
+      "timestamp": "2026-07-27T05:01:17+0000",
+      "metrics": {
+        "views": 4,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "18192553918376099",
       "text": "Mitos: wisatawan ke Prancis pasti sudah paham cara bayar dan validasi tiket metro Paris.\nFaktanya — banyak yang baru sad",
       "permalink": "https://www.threads.com/@rrpetch/post/DbSB7GNHNI-",
       "timestamp": "2026-07-27T03:46:00+0000",
       "metrics": {
-        "views": 0,
+        "views": 1,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -164,7 +209,7 @@
       "permalink": "https://www.threads.com/@rrpetch/post/DbQjifboNaB",
       "timestamp": "2026-07-26T14:01:17+0000",
       "metrics": {
-        "views": 11,
+        "views": 12,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -195,51 +240,6 @@
       "timestamp": "2026-07-26T10:01:18+0000",
       "metrics": {
         "views": 1,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18117147091909554",
-      "text": "Agen travel Eropa di Jakarta cerita: 70% pertanyaan masuk soal hal yang sama — koneksi kereta, validasi tiket, aturan ma",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbP6XOOIG0f",
-      "timestamp": "2026-07-26T08:01:28+0000",
-      "metrics": {
-        "views": 2,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "17889899847412803",
-      "text": "Satu fitur yang sering bikin agen Umroh terkejut pertama kali pakai Tomodachi AI:\njawaban ke jamaah bisa dikustomisasi p",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbPwBAGIPzf",
-      "timestamp": "2026-07-26T06:31:03+0000",
-      "metrics": {
-        "views": 0,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18096991610623533",
-      "text": "Staff agen Italia sering cerita hal yang sama: pertanyaan jamaah masuk malam, siang, bahkan dini hari.\nSoal validasi tik",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbPluwJGzkD",
-      "timestamp": "2026-07-26T05:01:11+0000",
-      "metrics": {
-        "views": 5,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
