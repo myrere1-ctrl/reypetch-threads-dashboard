@@ -1,15 +1,15 @@
 {
   "account": "rrpetch",
-  "updated_at": "2026-07-26T23:17:13.705Z",
+  "updated_at": "2026-07-27T01:02:42.138Z",
   "profile": {
     "username": "rrpetch",
     "name": "rrp",
     "biography": "Travelers",
-    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/725626839_18109259368780392_5435560104487373455_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=e7QlKLUZ29cQ7kNvwHioYtZ&_nc_oc=AdpxFpLEzmEAwBGOERj-JmgGNjffg9MMRSAUX3gqwS9KfMl--OPto7Qa1hlFlUZ58PI&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=ZoIMC7AGIOH3S5h2nJnoXA&_nc_tpa=Q5bMBQHI4DEpfT_RZzOpljEmEs7c6_LaMmoyryBkzMGVQC1ktvnatnMdf0bbOxnkMm1LiJPEbReXrUnmrg&oh=00_AQDiKroLUNIUgWGDxTi9q-ypfwbutxZbS05OmZ-hUgfb8A&oe=6A6C782D"
+    "picture": "https://scontent-dfw6-2.cdninstagram.com/v/t51.82787-19/725626839_18109259368780392_5435560104487373455_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=e7QlKLUZ29cQ7kNvwHuzRJH&_nc_oc=AdqD0JJDE1TeoiYuGltwJm2PrRht0BoyM-Ph3CcmMG4KKxsReH-0P7rZSeg3kMj_e8A&_nc_zt=24&_nc_ht=scontent-dfw6-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=pvjxyCmFzcl0_Ed2vOYzkg&_nc_tpa=Q5bMBQGEWxZpaN8FYLVo8p3pbUfW0L1A6Frmu2ioqCyQ19y3tJvXJAm35XE2sjtVnKwyi2wC0smLaTiCDQ&oh=00_AQDlm13YXeUha5bCf_F1MN03zdYe_ROi0DzkMbyd18X13g&oe=6A6C782D"
   },
   "summary": {
     "followers_count": 2,
-    "views": 51,
+    "views": 52,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
@@ -22,12 +22,27 @@
   },
   "top_posts": [
     {
+      "id": "17892337866665422",
+      "text": "Mitos: agen travel Eropa butuh tim besar untuk bisa layani klien 24 jam.\nFaktanya — sebagian besar pertanyaan masuk itu ",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbRrofgmQSv",
+      "timestamp": "2026-07-27T00:31:14+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "18009776996943553",
       "text": "Agen travel Spanyol yang serius tahu: brand itu bukan cuma logo — tapi seberapa cepat dan konsisten Anda menjawab klien.",
       "permalink": "https://www.threads.com/@rrpetch/post/DbRhVblAew8",
       "timestamp": "2026-07-26T23:01:16+0000",
       "metrics": {
-        "views": 0,
+        "views": 1,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -80,14 +95,16 @@
         "shares": 0
       },
       "engagement": 0
-    },
+    }
+  ],
+  "recent_posts": [
     {
-      "id": "18117147091909554",
-      "text": "Agen travel Eropa di Jakarta cerita: 70% pertanyaan masuk soal hal yang sama — koneksi kereta, validasi tiket, aturan ma",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbP6XOOIG0f",
-      "timestamp": "2026-07-26T08:01:28+0000",
+      "id": "17892337866665422",
+      "text": "Mitos: agen travel Eropa butuh tim besar untuk bisa layani klien 24 jam.\nFaktanya — sebagian besar pertanyaan masuk itu ",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbRrofgmQSv",
+      "timestamp": "2026-07-27T00:31:14+0000",
       "metrics": {
-        "views": 2,
+        "views": 0,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -95,16 +112,14 @@
         "shares": 0
       },
       "engagement": 0
-    }
-  ],
-  "recent_posts": [
+    },
     {
       "id": "18009776996943553",
       "text": "Agen travel Spanyol yang serius tahu: brand itu bukan cuma logo — tapi seberapa cepat dan konsisten Anda menjawab klien.",
       "permalink": "https://www.threads.com/@rrpetch/post/DbRhVblAew8",
       "timestamp": "2026-07-26T23:01:16+0000",
       "metrics": {
-        "views": 0,
+        "views": 1,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -225,21 +240,6 @@
       "timestamp": "2026-07-26T02:01:09+0000",
       "metrics": {
         "views": 3,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "17987996460008689",
-      "text": "80% pertanyaan wisatawan Jepang yang masuk ke agen travel — sebenarnya berulang.\nSoal JR Pass, jadwal shinkansen, akses ",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbPG7NvHbRN",
-      "timestamp": "2026-07-26T00:31:59+0000",
-      "metrics": {
-        "views": 2,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
