@@ -1,15 +1,15 @@
 {
   "account": "rrpetch",
-  "updated_at": "2026-07-27T23:31:11.654Z",
+  "updated_at": "2026-07-28T03:43:11.183Z",
   "profile": {
     "username": "rrpetch",
     "name": "rrp",
     "biography": "Travelers",
-    "picture": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/725626839_18109259368780392_5435560104487373455_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=e7QlKLUZ29cQ7kNvwGZ9JKY&_nc_oc=Adrku6BDX2hyXNCWLQDxMMYtP2c2bBSJxk5UqkUe69Nl0zBw4RU_V6ICH9x36QyOL4g&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=g4pUffuC2Mu2ZH8j2HP7Fg&_nc_tpa=Q5bMBQFqqkABqN58kV_ulPqmj3E_4flf1wVod9V_jQhbGdAorm5dPUUnJsR2axuzk7O6FillxBE55n82gg&oh=00_AQBzpGJBVMVEe4dh1QY8RNHCWVTkn7Fn3R0cSUg47NxgwQ&oe=6A6DC9AD"
+    "picture": "https://scontent-lhr11-1.cdninstagram.com/v/t51.82787-19/725626839_18109259368780392_5435560104487373455_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=e7QlKLUZ29cQ7kNvwGPsHPJ&_nc_oc=AdrltaNPpA1eKc75IdIWMTXf5_Nusg-167mq5KADn84peeHWJuTZ5MQCXbU9Ccc4HDE&_nc_zt=24&_nc_ht=scontent-lhr11-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=CnQkllv9p8iU8R_qhPyfqA&_nc_tpa=Q5bMBQGy6KZz2c_uaFb3OwkR_WyY2QBycyP97oZGqVEra1x_iSqp4hGTvbBnS2WTcGXaLDwzHiCtXv-UDQ&oh=00_AQBq5NWh1WOfObpJA1vmxfx1wxiPDj5OYzq8_H50ThRZiQ&oe=6A6E01ED"
   },
   "summary": {
     "followers_count": 2,
-    "views": 27,
+    "views": 63,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
@@ -22,12 +22,57 @@
   },
   "top_posts": [
     {
+      "id": "18000986675970777",
+      "text": "70% pertanyaan klien soal Italia masuk di luar jam kerja.\nDress code Vatikan, slot Colosseum, kereta malam ke Cinque Ter",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbUlA-0kWtk",
+      "timestamp": "2026-07-28T03:31:07+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "18125311774669704",
+      "text": "Staff agen Jepang bukan mesin — tapi pertanyaan klien masuk seperti mesin, 24 jam.\nIC Card, aturan kuil, koneksi shinkan",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbUatykDQah",
+      "timestamp": "2026-07-28T02:01:08+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "18035059334824272",
+      "text": "Banyak jamaah baru sadar: pertanyaan paling penting justru muncul tengah malam — bukan saat briefing.\nNiat ihram yang be",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbUQadjlmg_",
+      "timestamp": "2026-07-28T00:31:06+0000",
+      "metrics": {
+        "views": 6,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "18100837859188344",
       "text": "80% pertanyaan jamaah Umroh sebenarnya berulang — soal ihram, Miqat, larangan di Masjidil Haram, hingga jadwal ziarah.\nT",
       "permalink": "https://www.threads.com/@rrpetch/post/DbUGIEDmkEY",
       "timestamp": "2026-07-27T23:01:13+0000",
       "metrics": {
-        "views": 1,
+        "views": 41,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -50,12 +95,14 @@
         "shares": 0
       },
       "engagement": 0
-    },
+    }
+  ],
+  "recent_posts": [
     {
-      "id": "18167580034453309",
-      "text": "Jamaah Umroh sering bilang hal yang sama setelah pulang:\n\"Seandainya tahu ini sebelum berangkat…\"\nSoal niat ihram di Miq",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbTIWN1G_cd",
-      "timestamp": "2026-07-27T14:01:23+0000",
+      "id": "18000986675970777",
+      "text": "70% pertanyaan klien soal Italia masuk di luar jam kerja.\nDress code Vatikan, slot Colosseum, kereta malam ke Cinque Ter",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbUlA-0kWtk",
+      "timestamp": "2026-07-28T03:31:07+0000",
       "metrics": {
         "views": 0,
         "likes": 0,
@@ -67,12 +114,12 @@
       "engagement": 0
     },
     {
-      "id": "17928057297361298",
-      "text": "Italia punya detail yang sering bikin panik klien mendadak — dress code Vatikan, aturan reservasi Colosseum, jam terakhi",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbS6m8BoAA5",
-      "timestamp": "2026-07-27T12:01:20+0000",
+      "id": "18125311774669704",
+      "text": "Staff agen Jepang bukan mesin — tapi pertanyaan klien masuk seperti mesin, 24 jam.\nIC Card, aturan kuil, koneksi shinkan",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbUatykDQah",
+      "timestamp": "2026-07-28T02:01:08+0000",
       "metrics": {
-        "views": 1,
+        "views": 0,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -82,12 +129,12 @@
       "engagement": 0
     },
     {
-      "id": "18208744273355706",
-      "text": "Agen travel Jepang di Bandung cerita — peak season April (sakura), pertanyaan masuk melonjak 3x lipat.\nSoal IC Card, atu",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbSs3wLG7xI",
-      "timestamp": "2026-07-27T10:01:18+0000",
+      "id": "18035059334824272",
+      "text": "Banyak jamaah baru sadar: pertanyaan paling penting justru muncul tengah malam — bukan saat briefing.\nNiat ihram yang be",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbUQadjlmg_",
+      "timestamp": "2026-07-28T00:31:06+0000",
       "metrics": {
-        "views": 4,
+        "views": 6,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -95,16 +142,14 @@
         "shares": 0
       },
       "engagement": 0
-    }
-  ],
-  "recent_posts": [
+    },
     {
       "id": "18100837859188344",
       "text": "80% pertanyaan jamaah Umroh sebenarnya berulang — soal ihram, Miqat, larangan di Masjidil Haram, hingga jadwal ziarah.\nT",
       "permalink": "https://www.threads.com/@rrpetch/post/DbUGIEDmkEY",
       "timestamp": "2026-07-27T23:01:13+0000",
       "metrics": {
-        "views": 1,
+        "views": 41,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -195,51 +240,6 @@
       "timestamp": "2026-07-27T06:31:15+0000",
       "metrics": {
         "views": 4,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18343827154247959",
-      "text": "Staff agen Spanyol sering cerita hal yang sama.\nJam 9 malam, klien tanya soal dress code Sagrada Família, aturan masuk A",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbSKiakDpkU",
-      "timestamp": "2026-07-27T05:01:17+0000",
-      "metrics": {
-        "views": 4,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18192553918376099",
-      "text": "Mitos: wisatawan ke Prancis pasti sudah paham cara bayar dan validasi tiket metro Paris.\nFaktanya — banyak yang baru sad",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbSB7GNHNI-",
-      "timestamp": "2026-07-27T03:46:00+0000",
-      "metrics": {
-        "views": 1,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18048388085581985",
-      "text": "Mitos: jamaah Haji sudah cukup dibekali buku panduan cetak.\nFaktanya — pertanyaan paling kritis justru muncul saat di la",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbR179empTi",
-      "timestamp": "2026-07-27T02:01:16+0000",
-      "metrics": {
-        "views": 0,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
