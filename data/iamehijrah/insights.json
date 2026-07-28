@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-07-28T20:37:55.461Z",
+  "updated_at": "2026-07-28T22:29:28.932Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMiJ9&_nc_ohc=edlsGk9RMZQQ7kNvwEoz5wG&_nc_oc=Adqev7chF5ZJSJeV4qV2t3GHUG-vyq-OitZml_nmwzbH4nREHvHGpxL1RSDra_t3-x8&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=K8C7Ze0dqC3q5MxY_KgwDw&_nc_tpa=Q5bMBQGpz_WCqvDZG67ZZv3zwUtKX3Zolov469SDZid_M3eZ4RvX4Wjl2SwjGSktxIzx8hToXkHs5kB2fw&oh=00_AQC7IFSJ-vgCnk_vAJNah9bdeK5K7b0_AwrTCygzokFvQg&oe=6A6EE793"
+    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=edlsGk9RMZQQ7kNvwEg22Bv&_nc_oc=AdpKsZoAuohUbOeVTVsRsVQJ462yUnPOMU0DJ9Emz2RHG3nkE5feTShbozbz20PRg0M&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=LcPm4pTk_JddJpjlAu-71w&_nc_tpa=Q5bMBQGGQUSUQyfN3brHfSsQkh-Hw5Ntqc3zYPoOPJubIYmXWAf5BR660jXdkpVkNZu_rB9ZNYyqpUADYw&oh=00_AQDILni3XVRsWxPrUriTaaR9punEoLp0LrprP90-urfP_w&oe=6A6EE793"
   },
   "summary": {
     "followers_count": 0,
-    "views": 227,
+    "views": 241,
     "likes": 2,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 29,
-    "engagement_rate": 12.78,
+    "engagement_total": 27,
+    "engagement_rate": 11.2,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -55,7 +55,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbT_TRZII2W",
       "timestamp": "2026-07-27T22:01:35+0000",
       "metrics": {
-        "views": 194,
+        "views": 196,
         "likes": 3,
         "replies": 0,
         "reposts": 0,
@@ -96,6 +96,21 @@
     }
   ],
   "recent_posts": [
+    {
+      "id": "18129900850651015",
+      "text": "Tadi aku sadar — masih bisa wudhu, masih ada air, masih ada waktu sujud sebelum hari makin sibuk.\nPadahal lagi mikirin p",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbWkFDHIEUV",
+      "timestamp": "2026-07-28T22:01:26+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
     {
       "id": "18124420702674484",
       "text": "Lagi di titik yang rasanya Allah jauh banget — semua yang kamu usahain kayak mentok, dan pikiran udah kemana-mana.\nYang ",
@@ -207,7 +222,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbT_TRZII2W",
       "timestamp": "2026-07-27T22:01:35+0000",
       "metrics": {
-        "views": 194,
+        "views": 196,
         "likes": 3,
         "replies": 0,
         "reposts": 0,
@@ -230,21 +245,6 @@
         "shares": 0
       },
       "engagement": 5
-    },
-    {
-      "id": "18024069932853656",
-      "text": "Hari ini aku ngerasa capek banget — tapi pas sujud, ada sesuatu yang pelan-pelan longgar.\nSabar itu bukan soal kuat naha",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbTLyfOG8B5",
-      "timestamp": "2026-07-27T14:31:29+0000",
-      "metrics": {
-        "views": 44,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
     }
   ]
 }
