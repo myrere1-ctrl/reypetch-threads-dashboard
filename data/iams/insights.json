@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-07-28T12:16:59.671Z",
+  "updated_at": "2026-07-28T14:45:56.215Z",
   "profile": {
     "username": "iams_ichi",
     "name": "iams",
     "biography": "Solo Traveler Bunglon\nFine dining 👌 & Street food lokal 🫰\nHidden gems expert for 🇯🇵🇦🇺🇫🇷🇪🇸🇮🇹 + Umrah.\nBasic tourist traps could never fr",
-    "picture": "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/729823178_17902006359449426_143983074154164635_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=111&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=o7V6r_a3bQ0Q7kNvwF-opmS&_nc_oc=AdqJkZ5mr6_j6VO6k92HoAUsZ01kVlNqUIn9zl0P1djuaWAgFjj44FVAIVJOUrlJCjo&_nc_zt=24&_nc_ht=scontent-ord5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=ilHlcacbmRoSHZGUEA4Jhw&_nc_tpa=Q5bMBQG2_0H91oSRIVMNOKTQARrokoF0PpEyb_rwk06xedvu53SWqGwrhexqNinwgMlqr6ceCjVjJ0k26w&oh=00_AQAccKpoawkbiHFpyQymf2cW38t2VIp_r_TuWLVKiyt3lQ&oe=6A6E687F"
+    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/729823178_17902006359449426_143983074154164635_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=111&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=o7V6r_a3bQ0Q7kNvwHVh5MV&_nc_oc=AdqbYqNhDSoRdZUsF7Su61KyHuB_koXbkRvwsfzdzYNps2h49nGQnbyLOKUmQnRkJN8&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=NFLDWQ2wFjV8_s9f4ED5fA&_nc_tpa=Q5bMBQENx0_sJiZKNhitVqLHW5hXdrkoG1QpKIGJpCO3klfvQQbzRn_1X0QJL_3IBHlvPD4jxKDQ4WXnog&oh=00_AQB5Daz4EwqEzr2OuBhUokIO-vQPpJvwCLHLokrHvGsC9w&oe=6A6EA0BF"
   },
   "summary": {
     "followers_count": 1346,
-    "views": 143,
-    "likes": 1,
+    "views": 230,
+    "likes": 3,
     "replies": 1,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 120,
-    "engagement_rate": 83.92,
+    "engagement_total": 97,
+    "engagement_rate": 42.17,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -35,21 +35,6 @@
         "shares": 4
       },
       "engagement": 39
-    },
-    {
-      "id": "18030689252832515",
-      "text": "Unpopular opinion: Barcelona itu bukan kota yang perlu lo *kejar* — lo yang terlalu banyak itinerary justru bakal capek ",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DbF7x8jIH3m",
-      "timestamp": "2026-07-22T11:01:27+0000",
-      "metrics": {
-        "views": 605,
-        "likes": 10,
-        "replies": 14,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 1
-      },
-      "engagement": 24
     },
     {
       "id": "17986865574009433",
@@ -95,23 +80,53 @@
         "shares": 0
       },
       "engagement": 4
-    }
-  ],
-  "recent_posts": [
+    },
     {
       "id": "18110325403799090",
       "text": "Hokkaido itu destinasi pertama yang bikin aku sadar — introvert bukan berarti ga bisa enjoy ramai.\nYang capek bukan oran",
       "permalink": "https://www.threads.com/@iams_ichi/post/DbVYh4nIBR4",
       "timestamp": "2026-07-28T11:01:16+0000",
       "metrics": {
-        "views": 74,
-        "likes": 2,
+        "views": 111,
+        "likes": 3,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 2
+      "engagement": 3
+    }
+  ],
+  "recent_posts": [
+    {
+      "id": "18096527945203931",
+      "text": "Jam 11 malem di onsen luar ruang, langit gelap, air panas, ga ada suara selain angin.\nGue nunggu ngerasa \"healing\" — tap",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DbVtIvglJ9d",
+      "timestamp": "2026-07-28T14:01:20+0000",
+      "metrics": {
+        "views": 17,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "18110325403799090",
+      "text": "Hokkaido itu destinasi pertama yang bikin aku sadar — introvert bukan berarti ga bisa enjoy ramai.\nYang capek bukan oran",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DbVYh4nIBR4",
+      "timestamp": "2026-07-28T11:01:16+0000",
+      "metrics": {
+        "views": 111,
+        "likes": 3,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 3
     },
     {
       "id": "18087928058662182",
@@ -119,7 +134,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DbVAe4JFXJI",
       "timestamp": "2026-07-28T07:31:09+0000",
       "metrics": {
-        "views": 29,
+        "views": 40,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -134,7 +149,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DbUod6LgLc3",
       "timestamp": "2026-07-28T04:01:17+0000",
       "metrics": {
-        "views": 57,
+        "views": 58,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -179,7 +194,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DbTIWAPoHGP",
       "timestamp": "2026-07-27T14:01:22+0000",
       "metrics": {
-        "views": 8,
+        "views": 9,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -224,7 +239,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DbSDqw8nEY9",
       "timestamp": "2026-07-27T04:01:16+0000",
       "metrics": {
-        "views": 23,
+        "views": 24,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -232,21 +247,6 @@
         "shares": 0
       },
       "engagement": 1
-    },
-    {
-      "id": "17896384482560307",
-      "text": "Onsen itu bukan soal panasnya — aku baru nyadar itu pas akhirnya bisa duduk lebih dari 5 menit tanpa kabur.\nYang bikin b",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DbRrvjqHH19",
-      "timestamp": "2026-07-27T00:32:11+0000",
-      "metrics": {
-        "views": 33,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
     }
   ]
 }
