@@ -1,15 +1,15 @@
 {
   "account": "rrpetch",
-  "updated_at": "2026-07-28T06:45:38.112Z",
+  "updated_at": "2026-07-28T10:00:39.575Z",
   "profile": {
     "username": "rrpetch",
     "name": "rrp",
     "biography": "Travelers",
-    "picture": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-19/725626839_18109259368780392_5435560104487373455_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=e7QlKLUZ29cQ7kNvwGCaQA0&_nc_oc=AdpyKK3fgJ0jxjT1W4VLvxGichgLIJ_Tg1Wqi55akIoQhnnQm7W0ffct9xqtsG3dEqg&_nc_zt=24&_nc_ht=scontent-ams2-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=KcdPlLWdFOzRCSxRY1tHkw&_nc_tpa=Q5bMBQEHGpYOuIPE2JPH97qUGDg-jehQ0_A1ANmWwZyjxxYwecIMTGO2l6j4ar6SLXnXkyoo-4BnTa7r2Q&oh=00_AQCrazEZXKinK7PRkmIy1SYid9GNiqWIqc8lZeHYt0P4gQ&oe=6A6E3A2D"
+    "picture": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/725626839_18109259368780392_5435560104487373455_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=zGDse_gGASUQ7kNvwEpxGn7&_nc_oc=AdqnTpBM4_NSnvOvcwiridkRS4smR9rrDHwb0ijpsIvNXVQUVkb86AhXXdftm06jCI4&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=eomgY9j1iTY-JoQbSb9VPw&_nc_tpa=Q5bMBQEstvTQgoI63bsnePcU80Bh5ZSm5BkOZ4Z6IBHwWOo_BLqf3HsHkOGdYS2Vr_ZQu5NWPh5xfWIT2Q&oh=00_AQAMNVZQP7-ELg_8t0YI9wRJD2MXf8KcNDJhVvDRintnoA&oe=6A6E3A2D"
   },
   "summary": {
     "followers_count": 2,
-    "views": 64,
+    "views": 5,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
@@ -22,12 +22,27 @@
   },
   "top_posts": [
     {
+      "id": "18127927996659488",
+      "text": "Mitos yang masih beredar: \"AI tidak cocok untuk perjalanan Haji — terlalu sakral, terlalu personal.\"\nPadahal justru di s",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbVD7j4IM7I",
+      "timestamp": "2026-07-28T08:01:16+0000",
+      "metrics": {
+        "views": 1,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "18100484900237194",
       "text": "Agen travel Eropa Anda bisa punya AI companion dengan nama dan identitas brand sendiri — tanpa bangun teknologi dari nol",
       "permalink": "https://www.threads.com/@rrpetch/post/DbU5nmhG2or",
       "timestamp": "2026-07-28T06:31:10+0000",
       "metrics": {
-        "views": 0,
+        "views": 4,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -80,14 +95,16 @@
         "shares": 0
       },
       "engagement": 0
-    },
+    }
+  ],
+  "recent_posts": [
     {
-      "id": "18035059334824272",
-      "text": "Banyak jamaah baru sadar: pertanyaan paling penting justru muncul tengah malam — bukan saat briefing.\nNiat ihram yang be",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbUQadjlmg_",
-      "timestamp": "2026-07-28T00:31:06+0000",
+      "id": "18127927996659488",
+      "text": "Mitos yang masih beredar: \"AI tidak cocok untuk perjalanan Haji — terlalu sakral, terlalu personal.\"\nPadahal justru di s",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbVD7j4IM7I",
+      "timestamp": "2026-07-28T08:01:16+0000",
       "metrics": {
-        "views": 6,
+        "views": 1,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -95,16 +112,14 @@
         "shares": 0
       },
       "engagement": 0
-    }
-  ],
-  "recent_posts": [
+    },
     {
       "id": "18100484900237194",
       "text": "Agen travel Eropa Anda bisa punya AI companion dengan nama dan identitas brand sendiri — tanpa bangun teknologi dari nol",
       "permalink": "https://www.threads.com/@rrpetch/post/DbU5nmhG2or",
       "timestamp": "2026-07-28T06:31:10+0000",
       "metrics": {
-        "views": 0,
+        "views": 4,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -225,21 +240,6 @@
       "timestamp": "2026-07-27T12:01:20+0000",
       "metrics": {
         "views": 1,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18208744273355706",
-      "text": "Agen travel Jepang di Bandung cerita — peak season April (sakura), pertanyaan masuk melonjak 3x lipat.\nSoal IC Card, atu",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbSs3wLG7xI",
-      "timestamp": "2026-07-27T10:01:18+0000",
-      "metrics": {
-        "views": 4,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
