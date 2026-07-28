@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-07-28T10:01:05.034Z",
+  "updated_at": "2026-07-28T12:17:55.180Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=edlsGk9RMZQQ7kNvwEaWMhd&_nc_oc=AdpSYx6XCtKrtJrh_wdsWMRjXUJHSkQ7EHjoAnDa5DL9KICXsEbFaD30ZMcqDonVsSs&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=Kocwu106Fjb_Xt14koccZQ&_nc_tpa=Q5bMBQHrO3Q3sVp-I75A8tO0Ppk2ltSziV9sMOTdJrZRQZX0YrYS5mJ3PycGXbyisagN3xqIVU1MGqErYw&oh=00_AQADqrgT_RjBRxBxaZzkkjd-QeBsdeSHM7ins6jrK-mVUw&oe=6A6E3ED3"
+    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=edlsGk9RMZQQ7kNvwECVRzs&_nc_oc=AdqcunDGoRgMeoe5R0M6sDNJrCfWbHOkSunX1CJznWeHqluXGZaVs32A9w1YYNGMqSk&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=Sn4EwwBXSjQHExZ-aYk28Q&_nc_tpa=Q5bMBQEoi7piC_9MPU_UYF3rzo4lPjAQ-4HwYYzaFQEg0NvJRNxygNYakyBlKnG83oUgOPDhDc0ihCp29Q&oh=00_AQAQ71104eSZNnAbuhf134_i6c4OEpvQ13w2c_HmAdudUA&oe=6A6E7713"
   },
   "summary": {
     "followers_count": 0,
-    "views": 25,
+    "views": 63,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 34,
-    "engagement_rate": 136,
+    "engagement_total": 33,
+    "engagement_rate": 52.38,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -97,12 +97,27 @@
   ],
   "recent_posts": [
     {
+      "id": "17878883487503568",
+      "text": "Dzikir pagi itu kadang aku lakuin sambil masih setengah ngantuk — tapi tetep aku coba.\nKarena sadar, masih dikasih pagi,",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbVb-T5jVIk",
+      "timestamp": "2026-07-28T11:31:22+0000",
+      "metrics": {
+        "views": 28,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "17955111603199627",
       "text": "Malam ini aku iseng nanya ke diri sendiri — hari ini aku lebih banyak minta atau lebih banyak lupa?\nTerus sadar, betapa ",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbVK07TINlG",
       "timestamp": "2026-07-28T09:01:32+0000",
       "metrics": {
-        "views": 15,
+        "views": 20,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -230,21 +245,6 @@
         "shares": 0
       },
       "engagement": 7
-    },
-    {
-      "id": "18121066249862159",
-      "text": "Doa Nabi Yunus itu aku ulang-ulang pas lagi di titik paling gelap — ngerasa sendirian, salah langkah, ga tau harus mulai",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbSmCPbIB93",
-      "timestamp": "2026-07-27T09:01:33+0000",
-      "metrics": {
-        "views": 27,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
     }
   ]
 }
