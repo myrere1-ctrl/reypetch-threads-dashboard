@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-07-28T03:43:42.372Z",
+  "updated_at": "2026-07-28T06:46:08.789Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=edlsGk9RMZQQ7kNvwHZwzv-&_nc_oc=Ado_jKQJkSiF0py7Zz1uKFW9AWd75qI9FlRa6dXyP_Iz_R886NL72JhipeBtnKD0lZE&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=g34DyEgZyc6cE3zcgkP5NA&_nc_tpa=Q5bMBQEBJGBmqsEAfexfEy_e_sTzm72rknM3sFrR1S5JucQt7nxReLjHvzlHwGhU-aZpz8BzBauHclJ5fw&oh=00_AQAPx9sDH6qUHaKTf0c0ucGSGfcWGVoTbEDWhlQVyRG6EQ&oe=6A6E0693"
+    "picture": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=edlsGk9RMZQQ7kNvwFBP3ld&_nc_oc=AdpXdHzldbOdPIp6sHP7IAnFJLTrPpwlai9fXZf41HaLx1IFIxz00SxGdt9FQSysrcs&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=4TaDDf5BJpEqRbEUEA-oxA&_nc_tpa=Q5bMBQGcuDw1SM3ovzMZxC7ChFzvZWsZL1_vTNq-B73628fF1JFe4NNGBWizPOycEkjC487rKZM2UtFmsA&oh=00_AQANRjl6lJwkWNPYwLh7rfwQBbpN2j7wp77ARks_eEIyFA&oe=6A6E3ED3"
   },
   "summary": {
     "followers_count": 0,
-    "views": 542,
+    "views": 632,
     "likes": 8,
     "replies": 0,
-    "reposts": 2,
+    "reposts": 4,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 35,
-    "engagement_rate": 6.46,
+    "engagement_total": 34,
+    "engagement_rate": 5.38,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -97,12 +97,27 @@
   ],
   "recent_posts": [
     {
+      "id": "18364751206214069",
+      "text": "Ayat Kursi itu aku baca tiap mau tidur — bukan karena rajin, tapi karena gelisah dan butuh ngerasa aman.\nPelan-pelan sad",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbUyxX7G0Po",
+      "timestamp": "2026-07-28T05:31:20+0000",
+      "metrics": {
+        "views": 74,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 2,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 2
+    },
+    {
       "id": "17950698471018119",
       "text": "Entah kenapa Al-Waqiah itu efeknya beda — bukan soal langsung ngerasa \"aman\" secara materi, tapi hati jadi lebih... cuku",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbUawSCFvHP",
       "timestamp": "2026-07-28T02:01:27+0000",
       "metrics": {
-        "views": 67,
+        "views": 72,
         "likes": 0,
         "replies": 0,
         "reposts": 1,
@@ -147,7 +162,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbTLyfOG8B5",
       "timestamp": "2026-07-27T14:31:29+0000",
       "metrics": {
-        "views": 43,
+        "views": 44,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -222,7 +237,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbSRv1Ek-wf",
       "timestamp": "2026-07-27T06:03:51+0000",
       "metrics": {
-        "views": 137,
+        "views": 140,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -230,21 +245,6 @@
         "shares": 0
       },
       "engagement": 0
-    },
-    {
-      "id": "17900464221503252",
-      "text": "Satu hal yang aku coba rutinin sekarang — baca Surat Yasin pelan-pelan, ga buru-buru.\nBukan karena ada aturan kapan atau",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbSN_buG1OF",
-      "timestamp": "2026-07-27T05:31:28+0000",
-      "metrics": {
-        "views": 90,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 1,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
     }
   ]
 }
