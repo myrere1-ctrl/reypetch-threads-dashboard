@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-07-28T06:45:13.666Z",
+  "updated_at": "2026-07-28T10:00:07.122Z",
   "profile": {
     "username": "iams_ichi",
     "name": "iams",
     "biography": "Solo Traveler Bunglon\nFine dining 👌 & Street food lokal 🫰\nHidden gems expert for 🇯🇵🇦🇺🇫🇷🇪🇸🇮🇹 + Umrah.\nBasic tourist traps could never fr",
-    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/729823178_17902006359449426_143983074154164635_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=111&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=o7V6r_a3bQ0Q7kNvwFfCFmi&_nc_oc=AdrND009si-YJ61kovXOK4Guslgj9zaiDIVN8HflemWIfntozjlF3SxJ91RE50nRmes&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=yVEA_MAjEEgJxEW89Owq0w&_nc_tpa=Q5bMBQHv1Lmv8a2A6L1sDeqO5fhB3Mw47cBUKP69IUkHg6PrCPpGsDmf2zv-8q5cgRv6JNavivgIX-5etg&oh=00_AQCTply4bzymwL_X-vyOVzdT_SHIHqrrgAUWegQXjhw-9A&oe=6A6E303F"
+    "picture": "https://scontent-dfw5-1.cdninstagram.com/v/t51.82787-19/729823178_17902006359449426_143983074154164635_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=111&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=o7V6r_a3bQ0Q7kNvwH0Xm6q&_nc_oc=AdoIqo5pD_NJOYQirONTz0C6pICY4Z1KzoVJqU0ebTkyDNyHq5pU6AGF2ltGnFNYplw&_nc_zt=24&_nc_ht=scontent-dfw5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=JvG5QhVGKRup2iLTNyNpXA&_nc_tpa=Q5bMBQFM9Sp_EL7hBJeBXkPddjKCgEfma2E2bDm223tf53HkubR9ztJJEDilkomUgj3d1ubpTDBqHBP0sw&oh=00_AQCG9p1yXtvx1zeWB6Xj_YzlZqpz6B-kW-zhdxYaLaYstw&oe=6A6E687F"
   },
   "summary": {
     "followers_count": 1346,
-    "views": 450,
+    "views": 24,
     "likes": 0,
-    "replies": 5,
+    "replies": 1,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 119,
-    "engagement_rate": 26.44,
+    "engagement_total": 118,
+    "engagement_rate": 491.67,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -99,12 +99,27 @@
   ],
   "recent_posts": [
     {
+      "id": "18087928058662182",
+      "text": "Hidden gem Osaka yang gak bakal lo temuin di Google: gang kecil di balik Kuromon Market namanya Tanimachi — bukan jalan ",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DbVAe4JFXJI",
+      "timestamp": "2026-07-28T07:31:09+0000",
+      "metrics": {
+        "views": 15,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
       "id": "18113421784941306",
       "text": "Banyak yang nanya gimana aku bisa navigasi Jepang solo tanpa bisa baca kanji — jujur yang paling ngebantu bukan Google T",
       "permalink": "https://www.threads.com/@iams_ichi/post/DbUod6LgLc3",
       "timestamp": "2026-07-28T04:01:17+0000",
       "metrics": {
-        "views": 55,
+        "views": 57,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -119,7 +134,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DbUVa2lgfrK",
       "timestamp": "2026-07-28T01:14:19+0000",
       "metrics": {
-        "views": 34,
+        "views": 37,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -149,7 +164,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DbTIWAPoHGP",
       "timestamp": "2026-07-27T14:01:22+0000",
       "metrics": {
-        "views": 7,
+        "views": 8,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -225,21 +240,6 @@
       "timestamp": "2026-07-26T22:21:09+0000",
       "metrics": {
         "views": 37,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18480467905096757",
-      "text": "Aku baru sadar — Hokkaido itu bukan soal saljunya.\nYang bikin aku diam bukan pemandangannya. Tapi betapa kotanya ga pern",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DbQjjE7Fd31",
-      "timestamp": "2026-07-26T14:01:21+0000",
-      "metrics": {
-        "views": 30,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
