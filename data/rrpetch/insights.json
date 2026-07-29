@@ -1,15 +1,15 @@
 {
   "account": "rrpetch",
-  "updated_at": "2026-07-28T22:29:05.962Z",
+  "updated_at": "2026-07-29T00:14:06.540Z",
   "profile": {
     "username": "rrpetch",
     "name": "rrp",
     "biography": "Travelers",
-    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/725626839_18109259368780392_5435560104487373455_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=zGDse_gGASUQ7kNvwEgMhxT&_nc_oc=AdosCnp90Bh1ykYXt_at5foPSeYcamOR3rNoxUy8cZHl1K6C3RoTwsT3P2bPB2X08KM&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=AWCoQLC805jn252NjhCAxA&_nc_tpa=Q5bMBQGucHSgWFEGFxaRfMochVR6g6pvH2_5D8hGYUqDYn7MuGyo5OKw8yFg4n3CczAML2PAs8RQA1TmWA&oh=00_AQDmmcIUk6wVDRkYwTFLxugcGa7I-uDvPWsu7-FJe3xxmQ&oe=6A6F1B2D"
+    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/725626839_18109259368780392_5435560104487373455_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=zGDse_gGASUQ7kNvwGPrQcO&_nc_oc=AdoYAK7PpQdZvierUPFNLKWGufMukb3r8KVFTTU-bg4T86MBcCjtxpOw17lomsdGlPI&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=CsGsIzS777vwiIy3-Xas8A&_nc_tpa=Q5bMBQFTVV5s-OCfvXQmFKcE9JK6fM9JP-zeFrVnWXC0mtaAT6296Htx3xVgaYGjj3RxRMQQA0yOK7xYXA&oh=00_AQB9pbmZ5t7xk-1x8aZnSVRPm4OYyofCzq59YI76Ldn-XQ&oe=6A6F1B2D"
   },
   "summary": {
     "followers_count": 2,
-    "views": 25,
+    "views": 32,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
@@ -21,6 +21,21 @@
     "post_count": 25
   },
   "top_posts": [
+    {
+      "id": "18117577135810161",
+      "text": "Agen Jepang di Surabaya — 2 staff, 150+ klien aktif per musim.\nPertanyaan masuk tiap hari: JR Pass vs IC Card, kuil mana",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbWq6irnzOm",
+      "timestamp": "2026-07-28T23:01:10+0000",
+      "metrics": {
+        "views": 5,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
     {
       "id": "18092709164530144",
       "text": "Jepang pertama kali sering bikin traveler overthinking — JR Pass atau IC Card? Kuil mana yang perlu reservasi? Shinkanse",
@@ -80,14 +95,16 @@
         "shares": 0
       },
       "engagement": 0
-    },
+    }
+  ],
+  "recent_posts": [
     {
-      "id": "18100484900237194",
-      "text": "Agen travel Eropa Anda bisa punya AI companion dengan nama dan identitas brand sendiri — tanpa bangun teknologi dari nol",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbU5nmhG2or",
-      "timestamp": "2026-07-28T06:31:10+0000",
+      "id": "18117577135810161",
+      "text": "Agen Jepang di Surabaya — 2 staff, 150+ klien aktif per musim.\nPertanyaan masuk tiap hari: JR Pass vs IC Card, kuil mana",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbWq6irnzOm",
+      "timestamp": "2026-07-28T23:01:10+0000",
       "metrics": {
-        "views": 4,
+        "views": 5,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -95,9 +112,7 @@
         "shares": 0
       },
       "engagement": 0
-    }
-  ],
-  "recent_posts": [
+    },
     {
       "id": "18092709164530144",
       "text": "Jepang pertama kali sering bikin traveler overthinking — JR Pass atau IC Card? Kuil mana yang perlu reservasi? Shinkanse",
@@ -225,21 +240,6 @@
       "timestamp": "2026-07-28T00:31:06+0000",
       "metrics": {
         "views": 6,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18100837859188344",
-      "text": "80% pertanyaan jamaah Umroh sebenarnya berulang — soal ihram, Miqat, larangan di Masjidil Haram, hingga jadwal ziarah.\nT",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbUGIEDmkEY",
-      "timestamp": "2026-07-27T23:01:13+0000",
-      "metrics": {
-        "views": 48,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
