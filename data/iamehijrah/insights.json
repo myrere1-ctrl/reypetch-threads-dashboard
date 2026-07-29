@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-07-29T12:26:20.349Z",
+  "updated_at": "2026-07-29T15:24:19.214Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=edlsGk9RMZQQ7kNvwGi2bw_&_nc_oc=AdpcZI-tHjohMNlEeg5PDTd7-gQbyAb3LobGP88URPWQ9Lk9Fxae1R2qvHoJRFq5lws&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=hAVF50WBZ575KUlC9knG1g&_nc_tpa=Q5bMBQEZxVW30PIdxyr7sVbQOhhJuNZaNtrvRdB2_e-dsPvVZEbXWsJsq7Sf0SgLRc06bc3_rJQD-R3K1A&oh=00_AQB5a0-P8iK4CTvKe_XPJ5tLmXKtT8GdXNMuvDT0bD1rzQ&oe=6A6FC893"
+    "picture": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=K-GGhCFRfXMQ7kNvwHYPAjG&_nc_oc=Adpg7KYz3GQOoEJr__k5UNGi0pVapyXiFcGgxxyEIWMiP8h8_XryGsLNepZU2qjfazI&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=XWvbleGaE2jOY3YTcltzGw&_nc_tpa=Q5bMBQEtIuut_sTaN3crvXWVjrJi9cxvxuJabVUKe_lVIDaifnfSI6K8fabAOyBix6_GkhMGQ2hb4cJReg&oh=00_AQDrUHQql5UT_UMTliVuhHvBzHo_7Okq0Z1ZcWqgJ-GKtw&oe=6A7000D3"
   },
   "summary": {
     "followers_count": 0,
-    "views": 76,
-    "likes": 1,
+    "views": 166,
+    "likes": 2,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 25,
-    "engagement_rate": 32.89,
+    "engagement_rate": 15.06,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -70,7 +70,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbXXj4CEX14",
       "timestamp": "2026-07-29T05:31:17+0000",
       "metrics": {
-        "views": 155,
+        "views": 157,
         "likes": 1,
         "replies": 0,
         "reposts": 1,
@@ -97,12 +97,42 @@
   ],
   "recent_posts": [
     {
+      "id": "18099296891201266",
+      "text": "Ibu aku selalu bilang, tiap habis sholat jangan buru-buru pergi — duduk sebentar, doain orang tua dulu.\nDulu aku anggap ",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbYVYB3FUBk",
+      "timestamp": "2026-07-29T14:31:25+0000",
+      "metrics": {
+        "views": 55,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "17892478152581472",
+      "text": "Sabar itu aku rasain paling berat justru habis Subuh — pas doa udah panjang, tapi kondisi masih sama aja.\nDi situ aku be",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbYLE_njFm_",
+      "timestamp": "2026-07-29T13:01:27+0000",
+      "metrics": {
+        "views": 30,
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
       "id": "18209242372344088",
       "text": "Kalau lagi ngerasa semua berat banget — usaha udah, doa udah, tapi tetep aja kayak ga kuat.\nAku ulang-ulang La Hawla Wal",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbYAxyFG83y",
       "timestamp": "2026-07-29T11:31:27+0000",
       "metrics": {
-        "views": 11,
+        "views": 14,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -132,7 +162,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbXXj4CEX14",
       "timestamp": "2026-07-29T05:31:17+0000",
       "metrics": {
-        "views": 155,
+        "views": 157,
         "likes": 1,
         "replies": 0,
         "reposts": 1,
@@ -147,7 +177,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbW_imXkWIb",
       "timestamp": "2026-07-29T02:01:23+0000",
       "metrics": {
-        "views": 44,
+        "views": 45,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -215,36 +245,6 @@
         "shares": 0
       },
       "engagement": 2
-    },
-    {
-      "id": "17878883487503568",
-      "text": "Dzikir pagi itu kadang aku lakuin sambil masih setengah ngantuk — tapi tetep aku coba.\nKarena sadar, masih dikasih pagi,",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbVb-T5jVIk",
-      "timestamp": "2026-07-28T11:31:22+0000",
-      "metrics": {
-        "views": 45,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "17955111603199627",
-      "text": "Malam ini aku iseng nanya ke diri sendiri — hari ini aku lebih banyak minta atau lebih banyak lupa?\nTerus sadar, betapa ",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbVK07TINlG",
-      "timestamp": "2026-07-28T09:01:32+0000",
-      "metrics": {
-        "views": 20,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
     }
   ]
 }
