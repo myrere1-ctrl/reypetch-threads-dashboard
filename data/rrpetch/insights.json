@@ -1,11 +1,11 @@
 {
   "account": "rrpetch",
-  "updated_at": "2026-07-29T22:17:24.503Z",
+  "updated_at": "2026-07-29T23:27:33.688Z",
   "profile": {
     "username": "rrpetch",
     "name": "rrp",
     "biography": "Travelers",
-    "picture": "https://scontent-dfw6-2.cdninstagram.com/v/t51.82787-19/725626839_18109259368780392_5435560104487373455_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=zGDse_gGASUQ7kNvwE_DmOh&_nc_oc=Adqb7BEvRdyT2nBIYHXSkw3WbL5GMWnwB_2a5W55k_DJq-JPailAPEgBWL9sh83dJsw&_nc_zt=24&_nc_ht=scontent-dfw6-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=noYRxlX1eTAgk6mueJJbKg&_nc_tpa=Q5bMBQHk2pAqOdUbgyMFBznaDjVA80oQ2lLxIXW3KGZdw8YJlmqy5KzU8eqNfUGYbz-IshywLDxMKcGGfg&oh=00_AQFUwv1j57n9Y68uE6sABDN6KPEJkNTSCdUGpWadDo_Meg&oe=6A70346D"
+    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/725626839_18109259368780392_5435560104487373455_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=zGDse_gGASUQ7kNvwEvggNT&_nc_oc=Adr4i1c1yAbxUtAVVNfAEPIVdbbPObta4v1E-EAUSrPSelrcHDhHxm-_dgjxYv0qk1o&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=OSluwrLF_2nlZEqUb2U8UQ&_nc_tpa=Q5bMBQFsW3goO3t3EmgFyewX9EoXxXPlXRMOa9dhkfZCLPu8_5O-nG7F6HI6pv8-YkeqDuCpTqW3xOjbrA&oh=00_AQFSNEayyoH192qUWVkpWHMj59mUtl5LxczM8H_f4qLSpg&oe=6A706CAD"
   },
   "summary": {
     "followers_count": 2,
@@ -21,6 +21,21 @@
     "post_count": 25
   },
   "top_posts": [
+    {
+      "id": "17941430721318214",
+      "text": "Agen Eropa di Medan — 2 staff, 120+ klien aktif per musim.\nPertanyaan soal visa Schengen, koneksi kereta antarkota, dan ",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbZPuGwFDJk",
+      "timestamp": "2026-07-29T23:01:15+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
     {
       "id": "18552480064075824",
       "text": "Agen travel Eropa Anda bisa punya AI companion ber-brand sendiri — nama brand Anda, bukan nama vendor.\nViaAI hadir sebag",
@@ -80,14 +95,16 @@
         "shares": 0
       },
       "engagement": 0
-    },
+    }
+  ],
+  "recent_posts": [
     {
-      "id": "18149738755512712",
-      "text": "Agen Umroh di Bandung — 2 staff, 180+ jamaah aktif, musim padat.\nPertanyaan yang sama masuk tiap hari: jadwal Armuzna, l",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbXeampGz1x",
-      "timestamp": "2026-07-29T06:31:11+0000",
+      "id": "17941430721318214",
+      "text": "Agen Eropa di Medan — 2 staff, 120+ klien aktif per musim.\nPertanyaan soal visa Schengen, koneksi kereta antarkota, dan ",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbZPuGwFDJk",
+      "timestamp": "2026-07-29T23:01:15+0000",
       "metrics": {
-        "views": 1,
+        "views": 0,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -95,9 +112,7 @@
         "shares": 0
       },
       "engagement": 0
-    }
-  ],
-  "recent_posts": [
+    },
     {
       "id": "18552480064075824",
       "text": "Agen travel Eropa Anda bisa punya AI companion ber-brand sendiri — nama brand Anda, bukan nama vendor.\nViaAI hadir sebag",
@@ -225,21 +240,6 @@
       "timestamp": "2026-07-29T00:31:07+0000",
       "metrics": {
         "views": 1,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18117577135810161",
-      "text": "Agen Jepang di Surabaya — 2 staff, 150+ klien aktif per musim.\nPertanyaan masuk tiap hari: JR Pass vs IC Card, kuil mana",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbWq6irnzOm",
-      "timestamp": "2026-07-28T23:01:10+0000",
-      "metrics": {
-        "views": 20,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
