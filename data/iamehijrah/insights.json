@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-07-29T00:14:30.591Z",
+  "updated_at": "2026-07-29T03:47:01.836Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-ord5-3.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=edlsGk9RMZQQ7kNvwEnL0Dr&_nc_oc=Adqc8dUptex3MkilDpubNHuRFbkXVxgdZYGWEJ6JPs6rcOXL2m8o3K5l8TTdZXx3NkY&_nc_zt=24&_nc_ht=scontent-ord5-3.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=DTkq6QWh5luXTgczYlcOFw&_nc_tpa=Q5bMBQG_2mlrc7RS6s53PDTpYYr0ZmumjdmsNADi3srfWdKp7oCpICBcaYGFCkP3WocTjuHT_-RrsWhPPw&oh=00_AQDOQ32ShNjdfm02_5GGeDPmUrTidUKi9ii6n78OrkExnQ&oe=6A6F1FD3"
+    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=edlsGk9RMZQQ7kNvwER7Y1C&_nc_oc=AdqzH58-W3l-eo_i7SSQzwsFP-xUrxZUw8ADKD0vuNJsx4HjHxWzqO_Ea61JQruo6os&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=U7_i_neB9oiGMky1haEqpg&_nc_tpa=Q5bMBQFPObIklDcHFsWr93C9Z4yRTrg_ec3R83j9zUfVCHdf3JuGOP3FBpYLSKVCNpCQ3gTSfslGonu5wA&oh=00_AQDfCvBV8dpLbRhDb8tsIM3vMSKClda6DO4GZnKevZkNyw&oe=6A6F5813"
   },
   "summary": {
     "followers_count": 0,
-    "views": 253,
+    "views": 301,
     "likes": 2,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 27,
-    "engagement_rate": 10.67,
+    "engagement_total": 24,
+    "engagement_rate": 7.97,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -65,21 +65,6 @@
       "engagement": 3
     },
     {
-      "id": "18024176183814739",
-      "text": "Dulu aku mikir Al-Waqiah itu \"dibaca biar rezekinya lancar\" — dan aku bacanya pun buru-buru, kayak checklist.\nTernyata p",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbPpLYnEeVQ",
-      "timestamp": "2026-07-26T05:31:18+0000",
-      "metrics": {
-        "views": 210,
-        "likes": 3,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 3
-    },
-    {
       "id": "18023926712685865",
       "text": "Semalam aku bangun jam 3 pagi — bukan karena niat, tapi emang ga bisa tidur.\nTadinya mau scroll hp. Tapi entah kenapa, a",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbVmTIzoJ1V",
@@ -93,16 +78,46 @@
         "shares": 0
       },
       "engagement": 2
+    },
+    {
+      "id": "18364751206214069",
+      "text": "Ayat Kursi itu aku baca tiap mau tidur — bukan karena rajin, tapi karena gelisah dan butuh ngerasa aman.\nPelan-pelan sad",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbUyxX7G0Po",
+      "timestamp": "2026-07-28T05:31:20+0000",
+      "metrics": {
+        "views": 80,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 2,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 2
     }
   ],
   "recent_posts": [
+    {
+      "id": "17900321043491781",
+      "text": "Malam ini aku nanya ke diri sendiri — sudah berapa lama aku ga beneran duduk dan baca Surat Yasin dengan hati yang hadir",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbW_imXkWIb",
+      "timestamp": "2026-07-29T02:01:23+0000",
+      "metrics": {
+        "views": 36,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
     {
       "id": "18129900850651015",
       "text": "Tadi aku sadar — masih bisa wudhu, masih ada air, masih ada waktu sujud sebelum hari makin sibuk.\nPadahal lagi mikirin p",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbWkFDHIEUV",
       "timestamp": "2026-07-28T22:01:26+0000",
       "metrics": {
-        "views": 22,
+        "views": 23,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -230,21 +245,6 @@
         "shares": 0
       },
       "engagement": 3
-    },
-    {
-      "id": "17899188147519524",
-      "text": "Dulu aku mikir doa untuk orang tua itu cukup kalau lagi inget aja — sehabis sholat, sesekali.\nTernyata yang bikin nangis",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbTZg51mho0",
-      "timestamp": "2026-07-27T16:31:23+0000",
-      "metrics": {
-        "views": 56,
-        "likes": 5,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 5
     }
   ]
 }
