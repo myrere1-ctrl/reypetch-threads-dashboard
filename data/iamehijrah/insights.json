@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-07-29T15:24:19.214Z",
+  "updated_at": "2026-07-29T17:43:39.566Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=K-GGhCFRfXMQ7kNvwHYPAjG&_nc_oc=Adpg7KYz3GQOoEJr__k5UNGi0pVapyXiFcGgxxyEIWMiP8h8_XryGsLNepZU2qjfazI&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=XWvbleGaE2jOY3YTcltzGw&_nc_tpa=Q5bMBQEtIuut_sTaN3crvXWVjrJi9cxvxuJabVUKe_lVIDaifnfSI6K8fabAOyBix6_GkhMGQ2hb4cJReg&oh=00_AQDrUHQql5UT_UMTliVuhHvBzHo_7Okq0Z1ZcWqgJ-GKtw&oe=6A7000D3"
+    "picture": "https://scontent-ord5-3.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=K-GGhCFRfXMQ7kNvwF6eF-8&_nc_oc=AdrX4JcWlaZ78ttfnYKs1ytT9Mr9gL2cq1kIviwO3iBC0y6DLdnQoXZCl5vU3WgDpyg&_nc_zt=24&_nc_ht=scontent-ord5-3.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=GXI99M6_rRADllfujiNUIw&_nc_tpa=Q5bMBQGDNFvfltSxqzug23gznUF_jm6iCmPOKKeqKefmCxydCZKBw2t85dm5-NzY-zYkAXDUoq4sTTql7w&oh=00_AQBAGD98dySopJ2ajzh2M8schNwqlSAMYFNjXVA1ATuVMg&oe=6A7000D3"
   },
   "summary": {
     "followers_count": 0,
-    "views": 166,
+    "views": 224,
     "likes": 2,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 25,
-    "engagement_rate": 15.06,
+    "engagement_rate": 11.16,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -97,12 +97,27 @@
   ],
   "recent_posts": [
     {
+      "id": "17891447565395578",
+      "text": "Habis Subuh tadi aku duduk sebentar — niat mau sedekah, tapi tangan udah mau tutup dompet duluan.\nTerus aku inget, ada y",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbYjHEEGhPJ",
+      "timestamp": "2026-07-29T16:31:27+0000",
+      "metrics": {
+        "views": 33,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "18099296891201266",
       "text": "Ibu aku selalu bilang, tiap habis sholat jangan buru-buru pergi — duduk sebentar, doain orang tua dulu.\nDulu aku anggap ",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbYVYB3FUBk",
       "timestamp": "2026-07-29T14:31:25+0000",
       "metrics": {
-        "views": 55,
+        "views": 72,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -230,21 +245,6 @@
         "shares": 0
       },
       "engagement": 0
-    },
-    {
-      "id": "18023926712685865",
-      "text": "Semalam aku bangun jam 3 pagi — bukan karena niat, tapi emang ga bisa tidur.\nTadinya mau scroll hp. Tapi entah kenapa, a",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbVmTIzoJ1V",
-      "timestamp": "2026-07-28T13:01:36+0000",
-      "metrics": {
-        "views": 51,
-        "likes": 2,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 2
     }
   ]
 }
