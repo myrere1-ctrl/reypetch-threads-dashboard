@@ -1,15 +1,15 @@
 {
   "account": "rrpetch",
-  "updated_at": "2026-07-29T10:01:41.967Z",
+  "updated_at": "2026-07-29T12:25:48.375Z",
   "profile": {
     "username": "rrpetch",
     "name": "rrp",
     "biography": "Travelers",
-    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/725626839_18109259368780392_5435560104487373455_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=zGDse_gGASUQ7kNvwHVzB47&_nc_oc=AdoCoJgOG0HBxiAFiXcBEYUqf462oE3mxGbl-bOlKi1Ks_UZZVciCjimAspFxqLW-zY&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=uF1cvRrfyk1WvURQQT1s1w&_nc_tpa=Q5bMBQEpQtOcZwnULbhM4yI0LwNMh9t3PJaEjy79MNe8m_n57_txiK8mk1ueQpW97cMd8wtio70nrVTbSQ&oh=00_AQBqqvuwqGWXr_sd_7a5-StoJQ4qDEc6Lkk087Tb7XbF9w&oe=6A6F8BAD"
+    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/725626839_18109259368780392_5435560104487373455_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=zGDse_gGASUQ7kNvwEvJYXM&_nc_oc=AdoKZqraJW2BOYg3xvK5cmZ9tPfZleYlwoJhR9jvhflkhtjMTCAPhI_5Fr7G57u6d_o&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=Szpl0PZs19FrZRKpFgXwUg&_nc_tpa=Q5bMBQFCzUTBYqA-fYKvPeNcoMskD0839TpAp8SzYQ4hE94MK4tCcWgXYddd-PKf0YVeGiIGxE6uHoAgBg&oh=00_AQCzIFylxOdn38vLqD15PkF1VTJQdkba86GCIf2DHJ4bFQ&oe=6A6FC3ED"
   },
   "summary": {
     "followers_count": 2,
-    "views": 3,
+    "views": 4,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
@@ -21,6 +21,21 @@
     "post_count": 25
   },
   "top_posts": [
+    {
+      "id": "17941500438298178",
+      "text": "Satu hal yang jarang diakui agen Umroh secara terbuka:\ndi puncak musim, staff bukan kelelahan karena kerja keras — tapi ",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbYELoUoDIU",
+      "timestamp": "2026-07-29T12:01:11+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
     {
       "id": "17940960078084773",
       "text": "Italia punya detail yang sering lolos dari persiapan:\ndress code ketat di Vatikan, slot Colosseum yang habis jauh hari s",
@@ -42,7 +57,7 @@
       "permalink": "https://www.threads.com/@rrpetch/post/DbXouqmICED",
       "timestamp": "2026-07-29T08:01:17+0000",
       "metrics": {
-        "views": 2,
+        "views": 3,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -80,14 +95,16 @@
         "shares": 0
       },
       "engagement": 0
-    },
+    }
+  ],
+  "recent_posts": [
     {
-      "id": "18129438442734279",
-      "text": "Spanyol punya satu detail yang sering lolos dari briefing:\nslot Alhambra bisa habis 3 minggu sebelum keberangkatan — buk",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbXJ0N-m__F",
-      "timestamp": "2026-07-29T03:31:11+0000",
+      "id": "17941500438298178",
+      "text": "Satu hal yang jarang diakui agen Umroh secara terbuka:\ndi puncak musim, staff bukan kelelahan karena kerja keras — tapi ",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbYELoUoDIU",
+      "timestamp": "2026-07-29T12:01:11+0000",
       "metrics": {
-        "views": 5,
+        "views": 0,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -95,9 +112,7 @@
         "shares": 0
       },
       "engagement": 0
-    }
-  ],
-  "recent_posts": [
+    },
     {
       "id": "17940960078084773",
       "text": "Italia punya detail yang sering lolos dari persiapan:\ndress code ketat di Vatikan, slot Colosseum yang habis jauh hari s",
@@ -119,7 +134,7 @@
       "permalink": "https://www.threads.com/@rrpetch/post/DbXouqmICED",
       "timestamp": "2026-07-29T08:01:17+0000",
       "metrics": {
-        "views": 2,
+        "views": 3,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -225,21 +240,6 @@
       "timestamp": "2026-07-28T14:01:40+0000",
       "metrics": {
         "views": 9,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18373594720226291",
-      "text": "Spanyol punya detail yang diam-diam bikin klien panik — aturan dress code di Sagrada Família, slot reservasi Alhambra ya",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbVfZ0KGtWp",
-      "timestamp": "2026-07-28T12:01:20+0000",
-      "metrics": {
-        "views": 1,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
