@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-07-29T21:15:20.227Z",
+  "updated_at": "2026-07-29T22:16:52.791Z",
   "profile": {
     "username": "iams_ichi",
     "name": "iams",
     "biography": "Solo Traveler Bunglon\nFine dining 👌 & Street food lokal 🫰\nHidden gems expert for 🇯🇵🇦🇺🇫🇷🇪🇸🇮🇹 + Umrah.\nBasic tourist traps could never fr",
-    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/729823178_17902006359449426_143983074154164635_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=111&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=o7V6r_a3bQ0Q7kNvwHDEaM-&_nc_oc=Adr6CZxZ1W9C4siIeSYtc0V2jofWxo_sW3mYL2o5mb0sGx2zGvWkR7iqW7mUojAt3GY&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=tWKM4lDv20hkiB6eAcZetg&_nc_tpa=Q5bMBQF9ADOuJHng0hjOni5TCdIPPvkpfic9N8ftTX7viMARuAWD6E_lMxLPZG23X7dTLQZEmojIgmbrKA&oh=00_AQDVuWRsbUOXo2wPpLFZQ0W7VR2_5nnkdjpJr6bYCOvZTQ&oe=6A702A7F"
+    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/729823178_17902006359449426_143983074154164635_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=111&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=o7V6r_a3bQ0Q7kNvwHyCPRu&_nc_oc=Adp4ANJRwN02XDp9qv-HzRHPb0V8LLXCWCdZ9d4VZ7JdA3qnrviKmvFzuQu6IZUapzg&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=-FiwkdpjjUUpkX-8wnx2_Q&_nc_tpa=Q5bMBQECGjIzDHD4ig99NrtYcYvZ1xEXfznXio3nYJdF6ka0KVWrxZJ2bL1oKGzfJuJMuD4iRLkAwSkK7A&oh=00_AQHgXJVYAu4GiIi_l4wWj--_KUrCJSbB0YyFStidCW8w3A&oe=6A7062BF"
   },
   "summary": {
     "followers_count": 1347,
-    "views": 1458,
-    "likes": 28,
+    "views": 1500,
+    "likes": 32,
     "replies": 15,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 78,
-    "engagement_rate": 5.35,
+    "engagement_total": 82,
+    "engagement_rate": 5.47,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -27,14 +27,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DbXlRjhjtO5",
       "timestamp": "2026-07-29T07:31:07+0000",
       "metrics": {
-        "views": 1268,
-        "likes": 28,
+        "views": 1297,
+        "likes": 32,
         "replies": 14,
         "reposts": 0,
         "quotes": 0,
         "shares": 1
       },
-      "engagement": 42
+      "engagement": 46
     },
     {
       "id": "17986865574009433",
@@ -99,12 +99,42 @@
   ],
   "recent_posts": [
     {
+      "id": "18139075945525016",
+      "text": "🇯🇵 VS 🇦🇺 \n1/ Tipe traveler Jepang: foto aesthetic di kuil, makan ramen pinggir jalan, pulang bawa skincare 10 kilo. ",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DbZKdhXE9Bm",
+      "timestamp": "2026-07-29T22:14:46+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "18066327938715645",
+      "text": "My Friend said planning liburan ke Jepang lebih ribet karena kebanyakan tempat yang pengen dikunjungin. Australia lebih ",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DbZKDawk4tK",
+      "timestamp": "2026-07-29T22:11:12+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
       "id": "17973418470108532",
       "text": "Sakura season di Kyoto — paginya aku makan onigiri 700 yen berdiri di tepi sungai Kamo, sorenya entah kenapa duduk di ka",
       "permalink": "https://www.threads.com/@iams_ichi/post/DbYR7A9m2Ut",
       "timestamp": "2026-07-29T14:01:16+0000",
       "metrics": {
-        "views": 40,
+        "views": 41,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -119,7 +149,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DbX9VxwGzi9",
       "timestamp": "2026-07-29T11:01:26+0000",
       "metrics": {
-        "views": 25,
+        "views": 26,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -149,14 +179,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DbXlRjhjtO5",
       "timestamp": "2026-07-29T07:31:07+0000",
       "metrics": {
-        "views": 1268,
-        "likes": 28,
+        "views": 1297,
+        "likes": 32,
         "replies": 14,
         "reposts": 0,
         "quotes": 0,
         "shares": 1
       },
-      "engagement": 42
+      "engagement": 46
     },
     {
       "id": "18188772322391918",
@@ -164,7 +194,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DbXNQ_UoIb8",
       "timestamp": "2026-07-29T04:01:20+0000",
       "metrics": {
-        "views": 119,
+        "views": 121,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -217,36 +247,6 @@
         "shares": 0
       },
       "engagement": 0
-    },
-    {
-      "id": "18110325403799090",
-      "text": "Hokkaido itu destinasi pertama yang bikin aku sadar — introvert bukan berarti ga bisa enjoy ramai.\nYang capek bukan oran",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DbVYh4nIBR4",
-      "timestamp": "2026-07-28T11:01:16+0000",
-      "metrics": {
-        "views": 125,
-        "likes": 3,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 3
-    },
-    {
-      "id": "18087928058662182",
-      "text": "Hidden gem Osaka yang gak bakal lo temuin di Google: gang kecil di balik Kuromon Market namanya Tanimachi — bukan jalan ",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DbVAe4JFXJI",
-      "timestamp": "2026-07-28T07:31:09+0000",
-      "metrics": {
-        "views": 60,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
     }
   ]
 }
