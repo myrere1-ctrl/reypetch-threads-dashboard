@@ -1,15 +1,15 @@
 {
   "account": "rrpetch",
-  "updated_at": "2026-07-29T12:25:48.375Z",
+  "updated_at": "2026-07-29T15:23:55.483Z",
   "profile": {
     "username": "rrpetch",
     "name": "rrp",
     "biography": "Travelers",
-    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/725626839_18109259368780392_5435560104487373455_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=zGDse_gGASUQ7kNvwEvJYXM&_nc_oc=AdoKZqraJW2BOYg3xvK5cmZ9tPfZleYlwoJhR9jvhflkhtjMTCAPhI_5Fr7G57u6d_o&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=Szpl0PZs19FrZRKpFgXwUg&_nc_tpa=Q5bMBQFCzUTBYqA-fYKvPeNcoMskD0839TpAp8SzYQ4hE94MK4tCcWgXYddd-PKf0YVeGiIGxE6uHoAgBg&oh=00_AQCzIFylxOdn38vLqD15PkF1VTJQdkba86GCIf2DHJ4bFQ&oe=6A6FC3ED"
+    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/725626839_18109259368780392_5435560104487373455_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=zGDse_gGASUQ7kNvwEkRl_Q&_nc_oc=AdqiTDIrm8XGeFY1IzaWA9oHHQ-DV5fc8w8hCutjr6Xf2k2ROeqouVKTa34SD8Fs9oQ&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=tZ5oT7rAnmbJYrM9LQAhGw&_nc_tpa=Q5bMBQGOVJoHoJlbOoaVC4olMGjqRhHSFubrW-sX-OBQthoXRh6-EdeQJKs-f-U8fYvd95-YrrpJH1MvlQ&oh=00_AQDrsv_7xJA9ADVwI6ekH70sVDeCDlkVRyJhq3T25S6ryw&oe=6A6FFC2D"
   },
   "summary": {
     "followers_count": 2,
-    "views": 4,
+    "views": 7,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
@@ -21,6 +21,21 @@
     "post_count": 25
   },
   "top_posts": [
+    {
+      "id": "18552480064075824",
+      "text": "Agen travel Eropa Anda bisa punya AI companion ber-brand sendiri — nama brand Anda, bukan nama vendor.\nViaAI hadir sebag",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbYR7itGzuw",
+      "timestamp": "2026-07-29T14:01:20+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
     {
       "id": "17941500438298178",
       "text": "Satu hal yang jarang diakui agen Umroh secara terbuka:\ndi puncak musim, staff bukan kelelahan karena kerja keras — tapi ",
@@ -57,7 +72,7 @@
       "permalink": "https://www.threads.com/@rrpetch/post/DbXouqmICED",
       "timestamp": "2026-07-29T08:01:17+0000",
       "metrics": {
-        "views": 3,
+        "views": 4,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -80,14 +95,16 @@
         "shares": 0
       },
       "engagement": 0
-    },
+    }
+  ],
+  "recent_posts": [
     {
-      "id": "18088152227147882",
-      "text": "Agen Jepang di Jakarta — 3 staff, 180+ klien aktif per musim.\nPertanyaan masuk tiap hari: JR Pass vs IC Card, jalur shin",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbXUHCQkS-p",
-      "timestamp": "2026-07-29T05:01:08+0000",
+      "id": "18552480064075824",
+      "text": "Agen travel Eropa Anda bisa punya AI companion ber-brand sendiri — nama brand Anda, bukan nama vendor.\nViaAI hadir sebag",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbYR7itGzuw",
+      "timestamp": "2026-07-29T14:01:20+0000",
       "metrics": {
-        "views": 5,
+        "views": 0,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -95,9 +112,7 @@
         "shares": 0
       },
       "engagement": 0
-    }
-  ],
-  "recent_posts": [
+    },
     {
       "id": "17941500438298178",
       "text": "Satu hal yang jarang diakui agen Umroh secara terbuka:\ndi puncak musim, staff bukan kelelahan karena kerja keras — tapi ",
@@ -134,7 +149,7 @@
       "permalink": "https://www.threads.com/@rrpetch/post/DbXouqmICED",
       "timestamp": "2026-07-29T08:01:17+0000",
       "metrics": {
-        "views": 3,
+        "views": 4,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -225,21 +240,6 @@
       "timestamp": "2026-07-28T23:01:10+0000",
       "metrics": {
         "views": 20,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18092709164530144",
-      "text": "Jepang pertama kali sering bikin traveler overthinking — JR Pass atau IC Card? Kuil mana yang perlu reservasi? Shinkanse",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbVtLNfG2AJ",
-      "timestamp": "2026-07-28T14:01:40+0000",
-      "metrics": {
-        "views": 9,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
