@@ -1,15 +1,15 @@
 {
   "account": "rrpetch",
-  "updated_at": "2026-07-30T06:46:08.883Z",
+  "updated_at": "2026-07-30T09:47:19.680Z",
   "profile": {
     "username": "rrpetch",
     "name": "rrp",
     "biography": "Travelers",
-    "picture": "https://scontent-ord5-3.cdninstagram.com/v/t51.82787-19/725626839_18109259368780392_5435560104487373455_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=zGDse_gGASUQ7kNvwEH1mXp&_nc_oc=AdoUug8CqG-02trczhfM7a0vyQRn458JChpr8teIDL42q2B-6tHbDMSXBn_LOUyA2EI&_nc_zt=24&_nc_ht=scontent-ord5-3.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=O3ODV7Z8Lswv1KTu9AV6mQ&_nc_tpa=Q5bMBQGYCaZZfPS-XXZxNHy51kSbzqN-9bs_S46mylfqFGTOaQ1VOP2lIachW777P0GbOimyPncQ1yWVfA&oh=00_AQGG4GPp5wHzOjhylCA9DCJ8RykYVTpf8BX4mHDLeT9uZg&oe=6A70DD2D"
+    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/725626839_18109259368780392_5435560104487373455_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=zGDse_gGASUQ7kNvwG40Wf2&_nc_oc=Adpierd4fTH3hPYB16nQo3lXl5wMZ1pnmEBSXGd1eETl2nnfCe0UGmgUcpSVpD6KeW4&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=8W7JKw6a3Wx7LieiiYr_ZQ&_nc_tpa=Q5bMBQFpIsuDjPfALV9RGWRU2e9cgfNLnCg4iTILjT078oiI-mzLjOeikiGMLcTGd9t0ZpjofjLrQVSvIQ&oh=00_AQHDVQPlQUHVgyKAEwl_HmLJdSTmBOLGWZiDStNyW0QD1Q&oe=6A70DD2D"
   },
   "summary": {
     "followers_count": 2,
-    "views": 39,
+    "views": 42,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
@@ -22,12 +22,27 @@
   },
   "top_posts": [
     {
+      "id": "18128103466572576",
+      "text": "Prancis terasa dekat — sampai klien Anda tiba di Paris dan bingung soal museum mana yang wajib booking jauh hari, mana y",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbaNgu7G_11",
+      "timestamp": "2026-07-30T08:01:12+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "17987748149841483",
       "text": "Satu hal yang sering dilupakan jamaah haji: kondisi fisik di Mina bukan soal stamina saja.\nSuhu bisa menembus 45°C, jara",
       "permalink": "https://www.threads.com/@rrpetch/post/DbaDNqkoLS_",
       "timestamp": "2026-07-30T06:31:12+0000",
       "metrics": {
-        "views": 0,
+        "views": 59,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -80,14 +95,16 @@
         "shares": 0
       },
       "engagement": 0
-    },
+    }
+  ],
+  "recent_posts": [
     {
-      "id": "18081985391678707",
-      "text": "Mitos yang masih beredar: \"Jepang itu ribet, jadi klien pasti minta bantuan terus sebelum berangkat.\"\nFaktanya — klien m",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbZaAG5DlFL",
-      "timestamp": "2026-07-30T00:31:06+0000",
+      "id": "18128103466572576",
+      "text": "Prancis terasa dekat — sampai klien Anda tiba di Paris dan bingung soal museum mana yang wajib booking jauh hari, mana y",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbaNgu7G_11",
+      "timestamp": "2026-07-30T08:01:12+0000",
       "metrics": {
-        "views": 12,
+        "views": 0,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -95,16 +112,14 @@
         "shares": 0
       },
       "engagement": 0
-    }
-  ],
-  "recent_posts": [
+    },
     {
       "id": "17987748149841483",
       "text": "Satu hal yang sering dilupakan jamaah haji: kondisi fisik di Mina bukan soal stamina saja.\nSuhu bisa menembus 45°C, jara",
       "permalink": "https://www.threads.com/@rrpetch/post/DbaDNqkoLS_",
       "timestamp": "2026-07-30T06:31:12+0000",
       "metrics": {
-        "views": 0,
+        "views": 59,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -209,7 +224,7 @@
       "permalink": "https://www.threads.com/@rrpetch/post/DbYELoUoDIU",
       "timestamp": "2026-07-29T12:01:11+0000",
       "metrics": {
-        "views": 1,
+        "views": 2,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -225,21 +240,6 @@
       "timestamp": "2026-07-29T10:01:14+0000",
       "metrics": {
         "views": 1,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18024101660896557",
-      "text": "Staff Anda bukan mesin — tapi pertanyaan klien soal Jepang datang seperti mesin.\nJR Pass atau IC Card, jalur shinkansen,",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbXouqmICED",
-      "timestamp": "2026-07-29T08:01:17+0000",
-      "metrics": {
-        "views": 4,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
