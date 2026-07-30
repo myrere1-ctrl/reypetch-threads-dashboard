@@ -1,39 +1,24 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-07-30T09:47:47.899Z",
+  "updated_at": "2026-07-30T12:09:11.427Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=K-GGhCFRfXMQ7kNvwHC8OAc&_nc_oc=Ado8ANgo_hRhJz1qJ0K4AOy-tHCtm74mx8cjPqF59NIhHzGs0IDotdl5tWAXJtokUBg&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=FCQQNviSh2qFJUg5NRNNBg&_nc_tpa=Q5bMBQGbMAssDMqPjohOTXlbWnu66_s0AmGg95BoeyBwJG3EZNs73srfC_tLatQYYrkp_FM5D6zVZLsU7Q&oh=00_AQERvh53ocrWc1aV814aNtyKhIz7n3XOyZbK9E41D5fq-Q&oe=6A70E1D3"
+    "picture": "https://scontent-lhr11-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=K-GGhCFRfXMQ7kNvwE0_d66&_nc_oc=AdoBCHlr19IrEz2991kW-xe1V0Y2H_CU6CV4HQPJRrmCgYL7ah8dn_jPCFZhhpx6dvY&_nc_zt=24&_nc_ht=scontent-lhr11-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=nmlbM8kFBfmOSA6_tdyLrQ&_nc_tpa=Q5bMBQGLP7TjkF_-gg5rDS45YyZAGR-1-I8WCr1gvh5vmP4WAboyANElsw6eRsS2hLUA9OI8M-yIjm9_8g&oh=00_AQGCPjViJDvIKvk5aQClb7qDTdP8WDGgJZtXWgnB2nvt9w&oe=6A711A13"
   },
   "summary": {
     "followers_count": 0,
-    "views": 3,
+    "views": 34,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 24,
-    "engagement_rate": 800,
+    "engagement_total": 17,
+    "engagement_rate": 50,
     "curiosity_score": null,
     "post_count": 25
   },
   "top_posts": [
-    {
-      "id": "18115386257295830",
-      "text": "5 Dzikir Singkat yang Dibaca Para Ulama Sebelum Tidur — Terbukti Bikin Impian Lebih \"Terarah\"\n\n1/  Kamu tidur 7-8 jam se",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbSu3r3iRL9",
-      "timestamp": "2026-07-27T10:18:13+0000",
-      "metrics": {
-        "views": 15,
-        "likes": 0,
-        "replies": 7,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 7
-    },
     {
       "id": "17899188147519524",
       "text": "Dulu aku mikir doa untuk orang tua itu cukup kalau lagi inget aja — sehabis sholat, sesekali.\nTernyata yang bikin nangis",
@@ -93,16 +78,46 @@
         "shares": 0
       },
       "engagement": 2
+    },
+    {
+      "id": "18364751206214069",
+      "text": "Ayat Kursi itu aku baca tiap mau tidur — bukan karena rajin, tapi karena gelisah dan butuh ngerasa aman.\nPelan-pelan sad",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbUyxX7G0Po",
+      "timestamp": "2026-07-28T05:31:20+0000",
+      "metrics": {
+        "views": 80,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 2,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 2
     }
   ],
   "recent_posts": [
+    {
+      "id": "18083080640679208",
+      "text": "Sepertiga malam itu, aku akui, lebih sering aku lewatin sambil tidur.\nPadahal katanya itu waktunya langit paling dekat —",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dbalk0_FtLI",
+      "timestamp": "2026-07-30T11:31:28+0000",
+      "metrics": {
+        "views": 25,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
     {
       "id": "18420244618180988",
       "text": "Dzikir pagi itu aku anggap sepele dulu — kayak checklist, baca terus lanjut aktivitas.\nTapi belakangan aku mulai ngerasa",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbaUa9wILZC",
       "timestamp": "2026-07-30T09:01:35+0000",
       "metrics": {
-        "views": 2,
+        "views": 3,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -230,21 +245,6 @@
         "shares": 0
       },
       "engagement": 1
-    },
-    {
-      "id": "18090290093545255",
-      "text": "Lagi di titik semua kerasa buntu — usaha udah, doa udah, tapi kok kayak ga kemana-mana?\nAku pernah di situ. Yang pelan-p",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbXXj4CEX14",
-      "timestamp": "2026-07-29T05:31:17+0000",
-      "metrics": {
-        "views": 157,
-        "likes": 1,
-        "replies": 0,
-        "reposts": 1,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 2
     }
   ]
 }
