@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-07-30T14:37:29.041Z",
+  "updated_at": "2026-07-30T16:53:26.368Z",
   "profile": {
     "username": "iams_ichi",
     "name": "iams",
     "biography": "Solo Traveler Bunglon\nFine dining 👌 & Street food lokal 🫰\nHidden gems expert for 🇯🇵🇦🇺🇫🇷🇪🇸🇮🇹 + Umrah.\n✉️ cmo@coa.au",
-    "picture": "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/729823178_17902006359449426_143983074154164635_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=111&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=1ZGIEIgGKMgQ7kNvwFss6m2&_nc_oc=Adr6iCO6RoibxkIUdOgayhh_1jQQzVO6_RKkPWY1Qnqs-2Qiq_rJ57e3b-d6WviSziI&_nc_zt=24&_nc_ht=scontent-ord5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=8jSw2G8tTGgDjsk_JRYtzQ&_nc_tpa=Q5bMBQFDbzhQ0T73FnAceG9_DGuq4bAFpkDBgRhBihIcL2ZF0iUtnbTJPhWS155ABjkT1jOS3yVcGeV2Fw&oh=00_AQGN9QbPmB_E0X-U1Jr_NAAsyqZHqO0aQCsdYIcqocLIzw&oe=6A7143BF"
+    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/729823178_17902006359449426_143983074154164635_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=111&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=1ZGIEIgGKMgQ7kNvwH9U_YI&_nc_oc=AdrdhHYU4pmyujKiPMDddhYr20sKS9egSB0O84mVdhbISDjQDLOGJ6wszOMl-viIGkA&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=pdhJjlNuMrWSuRkW6HWQ4g&_nc_tpa=Q5bMBQGQQID7hPtM7dSvZaxlieF0-jOoVzsypyyZQVWJj2kwqEHOV58e0TZ0DydUWRkVZXYGjcGC7Hjbig&oh=00_AQEC9ZqoQ8AdlQIhGIU0UQYCWmmYd1Va94fXOU0W_x2jSg&oe=6A7143BF"
   },
   "summary": {
     "followers_count": 1348,
-    "views": 582,
-    "likes": 8,
-    "replies": 1,
+    "views": 821,
+    "likes": 12,
+    "replies": 2,
     "reposts": 1,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 125,
-    "engagement_rate": 21.48,
+    "engagement_total": 129,
+    "engagement_rate": 15.71,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -27,7 +27,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DbXlRjhjtO5",
       "timestamp": "2026-07-29T07:31:07+0000",
       "metrics": {
-        "views": 2715,
+        "views": 2721,
         "likes": 72,
         "replies": 18,
         "reposts": 0,
@@ -42,7 +42,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DbZyDk3kTAk",
       "timestamp": "2026-07-30T04:01:17+0000",
       "metrics": {
-        "views": 368,
+        "views": 376,
         "likes": 16,
         "replies": 2,
         "reposts": 0,
@@ -57,10 +57,25 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DbZ6T2UAem8",
       "timestamp": "2026-07-30T05:12:52+0000",
       "metrics": {
-        "views": 365,
+        "views": 379,
         "likes": 1,
-        "replies": 2,
+        "replies": 3,
         "reposts": 1,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 5
+    },
+    {
+      "id": "18076978514337003",
+      "text": "Jam 2 pagi di Masjidil Haram, kaki udah minta ampun.\nTapi aku malah duduk lama banget — ngeliatin orang-orang yang daten",
+      "permalink": "https://www.threads.com/@iams_ichi/post/Dba2vPwoBWc",
+      "timestamp": "2026-07-30T14:01:26+0000",
+      "metrics": {
+        "views": 224,
+        "likes": 4,
+        "replies": 0,
+        "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
@@ -80,21 +95,6 @@
         "shares": 0
       },
       "engagement": 3
-    },
-    {
-      "id": "18092138480632085",
-      "text": "Di Kyoto, orang lokal jalan kaki di gang-gang sempit itu tanpa lirik kanan-kiri — kayak udah hapal setiap batu bata-nya.",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DbSzvR1oGJQ",
-      "timestamp": "2026-07-27T11:01:19+0000",
-      "metrics": {
-        "views": 160,
-        "likes": 0,
-        "replies": 2,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 2
     }
   ],
   "recent_posts": [
@@ -104,14 +104,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dba2vPwoBWc",
       "timestamp": "2026-07-30T14:01:26+0000",
       "metrics": {
-        "views": 31,
-        "likes": 1,
+        "views": 224,
+        "likes": 4,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 1
+      "engagement": 4
     },
     {
       "id": "17898246951515531",
@@ -119,7 +119,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DbaiIZpII4D",
       "timestamp": "2026-07-30T11:01:22+0000",
       "metrics": {
-        "views": 17,
+        "views": 19,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -134,7 +134,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DbaKEGNIKFw",
       "timestamp": "2026-07-30T07:31:04+0000",
       "metrics": {
-        "views": 52,
+        "views": 54,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -149,14 +149,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DbZ6T2UAem8",
       "timestamp": "2026-07-30T05:12:52+0000",
       "metrics": {
-        "views": 365,
+        "views": 379,
         "likes": 1,
-        "replies": 2,
+        "replies": 3,
         "reposts": 1,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 4
+      "engagement": 5
     },
     {
       "id": "18090012482637812",
@@ -164,7 +164,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DbZyDk3kTAk",
       "timestamp": "2026-07-30T04:01:17+0000",
       "metrics": {
-        "views": 368,
+        "views": 376,
         "likes": 16,
         "replies": 2,
         "reposts": 0,
@@ -179,7 +179,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DbZaAHyHeYi",
       "timestamp": "2026-07-30T00:31:06+0000",
       "metrics": {
-        "views": 113,
+        "views": 115,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -194,7 +194,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DbZKdhXE9Bm",
       "timestamp": "2026-07-29T22:14:46+0000",
       "metrics": {
-        "views": 27,
+        "views": 28,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -209,7 +209,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DbZKDawk4tK",
       "timestamp": "2026-07-29T22:11:12+0000",
       "metrics": {
-        "views": 303,
+        "views": 304,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
