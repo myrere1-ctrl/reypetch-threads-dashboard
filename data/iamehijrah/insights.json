@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-07-29T23:28:01.489Z",
+  "updated_at": "2026-07-30T03:37:53.526Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=K-GGhCFRfXMQ7kNvwFbrn7a&_nc_oc=AdpRurq1uvZvFBbHOI19aI_F-HohaNODPvc_YP0ufGN3U3_j1QhtAhqT8ma43FZ9jLM&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=zuthNJYotMEEC2ruWIZJSA&_nc_tpa=Q5bMBQFPTEJIHvTY_s6NrFS89IA-rVruFLJ3aWSEadTEm9cqUWXloIk6GBkNEHAHYoePnb4-WZu1_mM1pg&oh=00_AQGURFkpU9NFKn-zsiZlXjDxf9eaTccMz9BrUhdIjT_X8w&oe=6A707153"
+    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=K-GGhCFRfXMQ7kNvwFpjkWq&_nc_oc=AdoUKiTmLToxvzds0cDsH3w9epWLU-yIQT_lAZWn5qWHi_wbMqvC4Vm99YmGzjOY52Y&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=8N7YBWLvhHNvuFP1uhA88w&_nc_tpa=Q5bMBQFWmIyqGcnRJrHv5uV1uW4gVO3Bve7Jhe2f2xDKrgLt3De0DHYmhofhmal-VKz7b8dtjnHIuA_y6Q&oh=00_AQHW9DICN_WNY8XbJyoVFScY5SDaOs-iB0oP5wrvxXgbUw&oe=6A70A993"
   },
   "summary": {
     "followers_count": 0,
-    "views": 236,
+    "views": 247,
     "likes": 2,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 25,
-    "engagement_rate": 10.59,
+    "engagement_total": 24,
+    "engagement_rate": 9.72,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -97,6 +97,21 @@
   ],
   "recent_posts": [
     {
+      "id": "17944358358256533",
+      "text": "Tadi pagi aku baca Ayat Kursi habis sholat — pelan, ga buru-buru.\nDan entah kenapa, sesuatu yang dari kemarin bikin cema",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbZkV3Ejclv",
+      "timestamp": "2026-07-30T02:01:26+0000",
+      "metrics": {
+        "views": 9,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "18402471613093064",
       "text": "Rindu Tanah Suci itu aneh — belum pernah ke sana, tapi rasanya kangen.\nMakanya aku mulai serius nyiapin diri, lahir bati",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbZI4SzIEKy",
@@ -117,7 +132,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbYjHEEGhPJ",
       "timestamp": "2026-07-29T16:31:27+0000",
       "metrics": {
-        "views": 39,
+        "views": 40,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -147,7 +162,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbYLE_njFm_",
       "timestamp": "2026-07-29T13:01:27+0000",
       "metrics": {
-        "views": 32,
+        "views": 33,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -223,21 +238,6 @@
       "timestamp": "2026-07-28T22:01:26+0000",
       "metrics": {
         "views": 24,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18124420702674484",
-      "text": "Lagi di titik yang rasanya Allah jauh banget — semua yang kamu usahain kayak mentok, dan pikiran udah kemana-mana.\nYang ",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbV-UHKmkpP",
-      "timestamp": "2026-07-28T16:31:26+0000",
-      "metrics": {
-        "views": 45,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
