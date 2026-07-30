@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-07-30T06:46:39.507Z",
+  "updated_at": "2026-07-30T09:47:47.899Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=K-GGhCFRfXMQ7kNvwGQsSUT&_nc_oc=Adp8beahxHD5Y6CZJgWEu_vzAPsFAn44WDTVPxPle7w_6psGfjnYdemVSM2_h3DH5Ng&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=jpmpweAI8UCpqaMDWMFKmA&_nc_tpa=Q5bMBQGY1hfIn3PdZpMGuasB-er5-kRtTn0ZWnfruX9tGfFVEPI078LZV0SC2D0-9L1NhKoN_COFmALvrg&oh=00_AQHz9SO93GssVA5wIAVUT4iUwavJk2XlcEyhGnyyo9yfNA&oe=6A70E1D3"
+    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=K-GGhCFRfXMQ7kNvwHC8OAc&_nc_oc=Ado8ANgo_hRhJz1qJ0K4AOy-tHCtm74mx8cjPqF59NIhHzGs0IDotdl5tWAXJtokUBg&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=FCQQNviSh2qFJUg5NRNNBg&_nc_tpa=Q5bMBQGbMAssDMqPjohOTXlbWnu66_s0AmGg95BoeyBwJG3EZNs73srfC_tLatQYYrkp_FM5D6zVZLsU7Q&oh=00_AQERvh53ocrWc1aV814aNtyKhIz7n3XOyZbK9E41D5fq-Q&oe=6A70E1D3"
   },
   "summary": {
     "followers_count": 0,
-    "views": 270,
-    "likes": 2,
+    "views": 3,
+    "likes": 0,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 24,
-    "engagement_rate": 8.89,
+    "engagement_rate": 800,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -97,12 +97,27 @@
   ],
   "recent_posts": [
     {
+      "id": "18420244618180988",
+      "text": "Dzikir pagi itu aku anggap sepele dulu — kayak checklist, baca terus lanjut aktivitas.\nTapi belakangan aku mulai ngerasa",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbaUa9wILZC",
+      "timestamp": "2026-07-30T09:01:35+0000",
+      "metrics": {
+        "views": 2,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "18112025689961631",
       "text": "Malam ini aku duduk sebentar, tanya ke diri sendiri — hari ini mulutku lebih banyak ngeluh atau beristighfar?\nJujur, jaw",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbZ8XFSlS5X",
       "timestamp": "2026-07-30T05:31:19+0000",
       "metrics": {
-        "views": 17,
+        "views": 23,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -230,21 +245,6 @@
         "shares": 0
       },
       "engagement": 2
-    },
-    {
-      "id": "17900321043491781",
-      "text": "Malam ini aku nanya ke diri sendiri — sudah berapa lama aku ga beneran duduk dan baca Surat Yasin dengan hati yang hadir",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbW_imXkWIb",
-      "timestamp": "2026-07-29T02:01:23+0000",
-      "metrics": {
-        "views": 45,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
     }
   ]
 }
