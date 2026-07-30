@@ -1,15 +1,15 @@
 {
   "account": "rrpetch",
-  "updated_at": "2026-07-30T09:47:19.680Z",
+  "updated_at": "2026-07-30T12:08:42.066Z",
   "profile": {
     "username": "rrpetch",
     "name": "rrp",
     "biography": "Travelers",
-    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/725626839_18109259368780392_5435560104487373455_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=zGDse_gGASUQ7kNvwG40Wf2&_nc_oc=Adpierd4fTH3hPYB16nQo3lXl5wMZ1pnmEBSXGd1eETl2nnfCe0UGmgUcpSVpD6KeW4&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=8W7JKw6a3Wx7LieiiYr_ZQ&_nc_tpa=Q5bMBQFpIsuDjPfALV9RGWRU2e9cgfNLnCg4iTILjT078oiI-mzLjOeikiGMLcTGd9t0ZpjofjLrQVSvIQ&oh=00_AQHDVQPlQUHVgyKAEwl_HmLJdSTmBOLGWZiDStNyW0QD1Q&oe=6A70DD2D"
+    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/725626839_18109259368780392_5435560104487373455_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=zGDse_gGASUQ7kNvwFDEySD&_nc_oc=AdpCu2M1QHbXm_CwpVB5_tWTatGZrEHXcJ7e-zQ4IYQAsIJiPMVeYdxhag6WHKWX8h0&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=c6ltXrX2GcdSaQnV-Ij_dQ&_nc_tpa=Q5bMBQF3QwaCLOvbNjgS5pGgB24QdV0QwAZdAcgkb9JVMKiiWzcpa8J34nSaZY4D3nFFyYfvtAV4yF3MSg&oh=00_AQEpY7TPkCYD4iAJUi_d1BCoslfLogihJ7OfqZ69TVaK7Q&oe=6A71156D"
   },
   "summary": {
     "followers_count": 2,
-    "views": 42,
+    "views": 46,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
@@ -21,6 +21,36 @@
     "post_count": 25
   },
   "top_posts": [
+    {
+      "id": "17980053777027295",
+      "text": "Fitur yang jarang disorot tapi sering jadi penyelamat:\nklien bisa tanya soal itinerary Jepang — shinkansen, JR Pass, slo",
+      "permalink": "https://www.threads.com/@rrpetch/post/Dbao_dtIByX",
+      "timestamp": "2026-07-30T12:01:19+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "17890948584665172",
+      "text": "Agen Spanyol di Surabaya — 2 staff, 90+ klien aktif per musim.\nPertanyaan soal Alhambra masuk tiap hari: harus booking b",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbabP4LIK94",
+      "timestamp": "2026-07-30T10:01:13+0000",
+      "metrics": {
+        "views": 1,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
     {
       "id": "18128103466572576",
       "text": "Prancis terasa dekat — sampai klien Anda tiba di Paris dan bingung soal museum mana yang wajib booking jauh hari, mana y",
@@ -65,12 +95,29 @@
         "shares": 0
       },
       "engagement": 0
+    }
+  ],
+  "recent_posts": [
+    {
+      "id": "17980053777027295",
+      "text": "Fitur yang jarang disorot tapi sering jadi penyelamat:\nklien bisa tanya soal itinerary Jepang — shinkansen, JR Pass, slo",
+      "permalink": "https://www.threads.com/@rrpetch/post/Dbao_dtIByX",
+      "timestamp": "2026-07-30T12:01:19+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
     },
     {
-      "id": "18046799573795823",
-      "text": "Mitos yang masih beredar: \"AI tidak cocok untuk Umroh — terlalu sakral, terlalu personal.\"\nFaktanya — yang dibutuhkan ja",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbZumV5kXGh",
-      "timestamp": "2026-07-30T03:31:04+0000",
+      "id": "17890948584665172",
+      "text": "Agen Spanyol di Surabaya — 2 staff, 90+ klien aktif per musim.\nPertanyaan soal Alhambra masuk tiap hari: harus booking b",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbabP4LIK94",
+      "timestamp": "2026-07-30T10:01:13+0000",
       "metrics": {
         "views": 1,
         "likes": 0,
@@ -81,23 +128,6 @@
       },
       "engagement": 0
     },
-    {
-      "id": "17974534452095015",
-      "text": "Italia terasa mudah dari luar — sampai klien tiba di depan Vatikan dengan bahu terbuka dan ditolak masuk.\nDress code di ",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbZkU7nFHgD",
-      "timestamp": "2026-07-30T02:01:18+0000",
-      "metrics": {
-        "views": 5,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    }
-  ],
-  "recent_posts": [
     {
       "id": "18128103466572576",
       "text": "Prancis terasa dekat — sampai klien Anda tiba di Paris dan bingung soal museum mana yang wajib booking jauh hari, mana y",
@@ -210,36 +240,6 @@
       "timestamp": "2026-07-29T14:01:20+0000",
       "metrics": {
         "views": 2,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "17941500438298178",
-      "text": "Satu hal yang jarang diakui agen Umroh secara terbuka:\ndi puncak musim, staff bukan kelelahan karena kerja keras — tapi ",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbYELoUoDIU",
-      "timestamp": "2026-07-29T12:01:11+0000",
-      "metrics": {
-        "views": 2,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "17940960078084773",
-      "text": "Italia punya detail yang sering lolos dari persiapan:\ndress code ketat di Vatikan, slot Colosseum yang habis jauh hari s",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbX2c7BGzvs",
-      "timestamp": "2026-07-29T10:01:14+0000",
-      "metrics": {
-        "views": 1,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
