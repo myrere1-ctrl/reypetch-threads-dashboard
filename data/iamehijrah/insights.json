@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-07-30T12:09:11.427Z",
+  "updated_at": "2026-07-30T14:38:47.740Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-lhr11-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=K-GGhCFRfXMQ7kNvwE0_d66&_nc_oc=AdoBCHlr19IrEz2991kW-xe1V0Y2H_CU6CV4HQPJRrmCgYL7ah8dn_jPCFZhhpx6dvY&_nc_zt=24&_nc_ht=scontent-lhr11-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=nmlbM8kFBfmOSA6_tdyLrQ&_nc_tpa=Q5bMBQGLP7TjkF_-gg5rDS45YyZAGR-1-I8WCr1gvh5vmP4WAboyANElsw6eRsS2hLUA9OI8M-yIjm9_8g&oh=00_AQGCPjViJDvIKvk5aQClb7qDTdP8WDGgJZtXWgnB2nvt9w&oe=6A711A13"
+    "picture": "https://scontent-ord5-3.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=K-GGhCFRfXMQ7kNvwHXuW91&_nc_oc=AdoimlTNgC-oRhstNSmdcCjWq42JBjDmLRZycXj-bP44xUnjNXV89wRDnDyVBH4XqG4&_nc_zt=24&_nc_ht=scontent-ord5-3.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=sP3H9tvX0lHaJhvxI1-rag&_nc_tpa=Q5bMBQGcj6e_xiZ7qowJozsCaoGpPKLhDFrjv2fZhiJo09kDQrU8cHC9VoY1tQfqimloujmLPlRu_5Xq3w&oh=00_AQEJPQcSfZtWPUUzcS262NCQFCp_FIdVXHqV82sgasWDjw&oe=6A711A13"
   },
   "summary": {
     "followers_count": 0,
-    "views": 34,
-    "likes": 0,
+    "views": 149,
+    "likes": 3,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 17,
-    "engagement_rate": 50,
+    "engagement_total": 21,
+    "engagement_rate": 14.09,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -33,6 +33,21 @@
         "shares": 0
       },
       "engagement": 5
+    },
+    {
+      "id": "17983363515020815",
+      "text": "Unpopular opinion: syukur itu bukan nunggu kondisi enak dulu baru bisa dilakuin.\nAku lama banget salah paham — nunggu hi",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dbav4-_lvXU",
+      "timestamp": "2026-07-30T13:01:36+0000",
+      "metrics": {
+        "views": 103,
+        "likes": 3,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 3
     },
     {
       "id": "17961443973141101",
@@ -78,31 +93,46 @@
         "shares": 0
       },
       "engagement": 2
-    },
-    {
-      "id": "18364751206214069",
-      "text": "Ayat Kursi itu aku baca tiap mau tidur — bukan karena rajin, tapi karena gelisah dan butuh ngerasa aman.\nPelan-pelan sad",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbUyxX7G0Po",
-      "timestamp": "2026-07-28T05:31:20+0000",
-      "metrics": {
-        "views": 80,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 2,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 2
     }
   ],
   "recent_posts": [
+    {
+      "id": "18070715219651238",
+      "text": "Lagi di titik overthinking parah — nanya terus \"kenapa ini terjadi\", \"kenapa belum berubah\", tapi jawabannya ga dateng-d",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dba6KZfIBC8",
+      "timestamp": "2026-07-30T14:31:22+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 1,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
+      "id": "17983363515020815",
+      "text": "Unpopular opinion: syukur itu bukan nunggu kondisi enak dulu baru bisa dilakuin.\nAku lama banget salah paham — nunggu hi",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dbav4-_lvXU",
+      "timestamp": "2026-07-30T13:01:36+0000",
+      "metrics": {
+        "views": 103,
+        "likes": 3,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 3
+    },
     {
       "id": "18083080640679208",
       "text": "Sepertiga malam itu, aku akui, lebih sering aku lewatin sambil tidur.\nPadahal katanya itu waktunya langit paling dekat —",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dbalk0_FtLI",
       "timestamp": "2026-07-30T11:31:28+0000",
       "metrics": {
-        "views": 25,
+        "views": 26,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -132,7 +162,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbZ8XFSlS5X",
       "timestamp": "2026-07-30T05:31:19+0000",
       "metrics": {
-        "views": 23,
+        "views": 0,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -162,7 +192,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbZI4SzIEKy",
       "timestamp": "2026-07-29T22:01:28+0000",
       "metrics": {
-        "views": 5,
+        "views": 0,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -177,7 +207,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbYjHEEGhPJ",
       "timestamp": "2026-07-29T16:31:27+0000",
       "metrics": {
-        "views": 40,
+        "views": 42,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -208,36 +238,6 @@
       "timestamp": "2026-07-29T13:01:27+0000",
       "metrics": {
         "views": 33,
-        "likes": 1,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "18209242372344088",
-      "text": "Kalau lagi ngerasa semua berat banget — usaha udah, doa udah, tapi tetep aja kayak ga kuat.\nAku ulang-ulang La Hawla Wal",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbYAxyFG83y",
-      "timestamp": "2026-07-29T11:31:27+0000",
-      "metrics": {
-        "views": 14,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18079753625690602",
-      "text": "Sholawat itu pelan-pelan jadi obat yang aku ga nyangka efeknya sedalam itu.\nMakin sering dilafazkan, makin ringan yang d",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbXvn3ZIN0Y",
-      "timestamp": "2026-07-29T09:01:33+0000",
-      "metrics": {
-        "views": 50,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
