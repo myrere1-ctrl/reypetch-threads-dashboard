@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-07-31T04:49:04.975Z",
+  "updated_at": "2026-07-31T08:12:37.233Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=K-GGhCFRfXMQ7kNvwGhQIMQ&_nc_oc=AdqeERjwgL2MbOnkoDXvFlZ5-QCCHu1YZapXjlJiLrtw1w9Vpca1JM5ATZek9TLQnzo&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=UQP804R4iRaWPnvNREV8Nw&_nc_tpa=Q5bMBQF6NC977aNd6lU6EdiC9g_CagTx1vGU-i9FKUnOBjgs9ozcdmORuKJc6kILE4BXXNo6ruvgasSjkQ&oh=00_AQF_b9uzzM6-KJxA0UYsfWrQnEKyvukftJmReVTRz0P2YQ&oe=6A71FB13"
+    "picture": "https://scontent-dfw6-2.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=K-GGhCFRfXMQ7kNvwGUHL6s&_nc_oc=AdrnzxfeeTu019KK0sAwxQdnw1L9ytKfhAZ7_arIeiEVMhnymhX8IPeEcEbWq33SV5Q&_nc_zt=24&_nc_ht=scontent-dfw6-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=hXRcGzyS-PmAyCKKrKHsZQ&_nc_tpa=Q5bMBQGSti8yKfO9a6aPQODzn4hjHLqO5f8tOBAWCueHUKykEuVaEpV-H19_xoH8OGijyCatQjvbeaQJ5g&oh=00_AQH0eDNbTGapCq120htKNlHyfFAgxiKS3HwLaicN2crI2g&oe=6A723353"
   },
   "summary": {
     "followers_count": 0,
-    "views": 574,
-    "likes": 6,
-    "replies": 1,
-    "reposts": 1,
+    "views": 11,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 18,
-    "engagement_rate": 3.14,
+    "engagement_rate": 163.64,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -25,7 +25,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbbuNj5Fvjn",
       "timestamp": "2026-07-30T22:06:10+0000",
       "metrics": {
-        "views": 244,
+        "views": 247,
         "likes": 2,
         "replies": 2,
         "reposts": 0,
@@ -40,7 +40,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dbav4-_lvXU",
       "timestamp": "2026-07-30T13:01:36+0000",
       "metrics": {
-        "views": 165,
+        "views": 168,
         "likes": 4,
         "replies": 0,
         "reposts": 0,
@@ -85,7 +85,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbUyxX7G0Po",
       "timestamp": "2026-07-28T05:31:20+0000",
       "metrics": {
-        "views": 80,
+        "views": 81,
         "likes": 0,
         "replies": 0,
         "reposts": 2,
@@ -96,6 +96,21 @@
     }
   ],
   "recent_posts": [
+    {
+      "id": "18110690575795236",
+      "text": "Unpopular opinion: sholawat itu bukan cuma buat momen tertentu — aku malah paling ngerasa tenang justru pas lagi overthi",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbchJ_rkZZg",
+      "timestamp": "2026-07-31T05:31:20+0000",
+      "metrics": {
+        "views": 40,
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
     {
       "id": "18237498745312575",
       "text": "Malam ini aku tanya ke diri sendiri — udah seberapa dalam aku ngerasa \"terpuruk\" tapi belum sampai beneran pasrah?\nDoa N",
@@ -117,7 +132,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbbuNj5Fvjn",
       "timestamp": "2026-07-30T22:06:10+0000",
       "metrics": {
-        "views": 244,
+        "views": 247,
         "likes": 2,
         "replies": 2,
         "reposts": 0,
@@ -162,7 +177,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dbav4-_lvXU",
       "timestamp": "2026-07-30T13:01:36+0000",
       "metrics": {
-        "views": 165,
+        "views": 168,
         "likes": 4,
         "replies": 0,
         "reposts": 0,
@@ -223,21 +238,6 @@
       "timestamp": "2026-07-30T02:01:26+0000",
       "metrics": {
         "views": 12,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18402471613093064",
-      "text": "Rindu Tanah Suci itu aneh — belum pernah ke sana, tapi rasanya kangen.\nMakanya aku mulai serius nyiapin diri, lahir bati",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbZI4SzIEKy",
-      "timestamp": "2026-07-29T22:01:28+0000",
-      "metrics": {
-        "views": 5,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
