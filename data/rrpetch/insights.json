@@ -1,15 +1,15 @@
 {
   "account": "rrpetch",
-  "updated_at": "2026-07-31T13:10:19.528Z",
+  "updated_at": "2026-07-31T15:33:33.295Z",
   "profile": {
     "username": "rrpetch",
     "name": "rrp",
     "biography": "Travelers",
-    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/725626839_18109259368780392_5435560104487373455_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=7A0kVnzMuLAQ7kNvwH6de6w&_nc_oc=AdqRARNkLrfas775fTiwOTe_ucloBeuo2W8gbaYqmBdT32s2P8U-JG-5uESdboCvo2A&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=2wiV8giFAUfaxDAgENtrxg&_nc_tpa=Q5bMBQGMDSWuUfLwUzdkfs21SnDfkUFxBsMkhvq0Wrk-mZQyodFoASfVK6gjDb_WBOM2EBtmNLk7C7cV6g&oh=00_AQFPIKKp3G6v9Rs82kJDTzdq8J_rugqqIwv5gciOgYfDeA&oe=6A7266ED"
+    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/725626839_18109259368780392_5435560104487373455_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=7A0kVnzMuLAQ7kNvwG8EVN2&_nc_oc=Adryz5-ihuLV7RlHfS5T9egaLl9HfvbeHAkyUZ4VrIvlSMKIrduF14xQO1L_dV62SEI&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=XQ10i9x_l-DcTbxh7VzeGg&_nc_tpa=Q5bMBQE-uVSR3duvs8K7mcIaTTFR31HaMD2j-ri4VtzOPwgKBvZOYlbBtTdT6uX45aQgfq95fjwvYKhewA&oh=00_AQEI6rbWVuP6l8OX-2bbHLfIKoJNhNLbet6n4XxPpH8TyA&oe=6A729F2D"
   },
   "summary": {
     "followers_count": 2,
-    "views": 52,
+    "views": 57,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
@@ -22,12 +22,27 @@
   },
   "top_posts": [
     {
+      "id": "17953314225211003",
+      "text": "Satu fitur Tomodachi AI yang sering bikin agen Haji kagum:\njamaah bisa tanya soal kondisi fisik di Arafah, jadwal lempar",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbdbgsPFKEE",
+      "timestamp": "2026-07-31T14:01:14+0000",
+      "metrics": {
+        "views": 2,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "18111422218976733",
       "text": "Agen Eropa di Jakarta — 2 staff, musim panas, pertanyaan masuk tiap hari.\nSoal validasi tiket kereta Italia, jam buka mu",
       "permalink": "https://www.threads.com/@rrpetch/post/DbdNyXpG8kz",
       "timestamp": "2026-07-31T12:01:20+0000",
       "metrics": {
-        "views": 0,
+        "views": 1,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -72,22 +87,7 @@
       "permalink": "https://www.threads.com/@rrpetch/post/DbcoAjmGzcQ",
       "timestamp": "2026-07-31T06:31:12+0000",
       "metrics": {
-        "views": 75,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18121995070872489",
-      "text": "Mitos yang masih beredar: paket Umroh murah berarti pengalaman jamaah yang buruk.\nFaktanya, kualitas bukan selalu soal h",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbcdtH3lbwc",
-      "timestamp": "2026-07-31T05:01:10+0000",
-      "metrics": {
-        "views": 1,
+        "views": 76,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -99,12 +99,27 @@
   ],
   "recent_posts": [
     {
+      "id": "17953314225211003",
+      "text": "Satu fitur Tomodachi AI yang sering bikin agen Haji kagum:\njamaah bisa tanya soal kondisi fisik di Arafah, jadwal lempar",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbdbgsPFKEE",
+      "timestamp": "2026-07-31T14:01:14+0000",
+      "metrics": {
+        "views": 2,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "18111422218976733",
       "text": "Agen Eropa di Jakarta — 2 staff, musim panas, pertanyaan masuk tiap hari.\nSoal validasi tiket kereta Italia, jam buka mu",
       "permalink": "https://www.threads.com/@rrpetch/post/DbdNyXpG8kz",
       "timestamp": "2026-07-31T12:01:20+0000",
       "metrics": {
-        "views": 0,
+        "views": 1,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -149,7 +164,7 @@
       "permalink": "https://www.threads.com/@rrpetch/post/DbcoAjmGzcQ",
       "timestamp": "2026-07-31T06:31:12+0000",
       "metrics": {
-        "views": 75,
+        "views": 76,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -179,7 +194,7 @@
       "permalink": "https://www.threads.com/@rrpetch/post/DbcTal7Gzg1",
       "timestamp": "2026-07-31T03:31:16+0000",
       "metrics": {
-        "views": 5,
+        "views": 0,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -225,21 +240,6 @@
       "timestamp": "2026-07-30T23:01:18+0000",
       "metrics": {
         "views": 2,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18369886009301113",
-      "text": "Jam 2 pagi, ada yang ketik: \"Ustadz, kalau jamaah saya sakit di Madinah, prosedurnya gimana?\"\nBukan jamaah yang tanya — ",
-      "permalink": "https://www.threads.com/@rrpetch/post/Dba2tu8HIGN",
-      "timestamp": "2026-07-30T14:01:14+0000",
-      "metrics": {
-        "views": 37,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
