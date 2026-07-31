@@ -1,11 +1,11 @@
 {
   "account": "rrpetch",
-  "updated_at": "2026-07-31T00:59:42.753Z",
+  "updated_at": "2026-07-31T04:48:28.808Z",
   "profile": {
     "username": "rrpetch",
     "name": "rrp",
     "biography": "Travelers",
-    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/725626839_18109259368780392_5435560104487373455_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=zGDse_gGASUQ7kNvwFbn8ly&_nc_oc=AdqboHOF2GEX5Rt-sNwxefeKjW4Nu1cMX_dkiDiMKURtIS5v7FHitZgmXZH0yEaS82Q&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=JMjOcXgP5WF7RiVaW3AWLw&_nc_tpa=Q5bMBQG4qVlAZ77H4TGHHzkQsLrt_nGCMj5PhLA9RENrYv-3oY67nxUuRD4AXU-zRPXV8PuWwtmELInp-A&oh=00_AQG0L1SnSFgDdwp64OtgUsBfcaG57o6mbuAPjcg-vETuZg&oe=6A71BE2D"
+    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/725626839_18109259368780392_5435560104487373455_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=zGDse_gGASUQ7kNvwFnRjdE&_nc_oc=AdogxK2EyzS1yA4o3lzgnUQVSMT16-fDRzShoKpGGnyAX0qxqd20k76H2ysEF5MdVfM&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=9VWyW19kQbvnbbWLnIyD2Q&_nc_tpa=Q5bMBQFKcZrTankg18eLJRrpw8l9iZdb4zd-iJ7_qQUwCi8Y-jk9svFl_LT-1Rs421wOhICmOTJfPWn82g&oh=00_AQGAvzyC4w6adXwV-HwBIOzzLWxFVwAkUa8SxeSf5YCeYA&oe=6A71F66D"
   },
   "summary": {
     "followers_count": 2,
@@ -21,6 +21,36 @@
     "post_count": 25
   },
   "top_posts": [
+    {
+      "id": "17898764109348890",
+      "text": "Agen Jepang di Bandung, 3 staff, volume tinggi musim semi.\nPertanyaan shinkansen dan JR Pass masuk tiap hari — jam kerja",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbcTal7Gzg1",
+      "timestamp": "2026-07-31T03:31:16+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "18437300995135469",
+      "text": "Staff Anda tidak perlu tahu semua jawaban soal Spanyol — tapi klien tetap butuh jawaban malam ini.\nPertanyaan soal Alham",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbcJG2xFZ3J",
+      "timestamp": "2026-07-31T02:01:11+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
     {
       "id": "17934940401344411",
       "text": "Agen Prancis Anda bisa punya AI companion ber-brand sendiri — nama brand Anda yang muncul, bukan nama vendor.\nKlien tany",
@@ -65,12 +95,14 @@
         "shares": 0
       },
       "engagement": 0
-    },
+    }
+  ],
+  "recent_posts": [
     {
-      "id": "17980053777027295",
-      "text": "Fitur yang jarang disorot tapi sering jadi penyelamat:\nklien bisa tanya soal itinerary Jepang — shinkansen, JR Pass, slo",
-      "permalink": "https://www.threads.com/@rrpetch/post/Dbao_dtIByX",
-      "timestamp": "2026-07-30T12:01:19+0000",
+      "id": "17898764109348890",
+      "text": "Agen Jepang di Bandung, 3 staff, volume tinggi musim semi.\nPertanyaan shinkansen dan JR Pass masuk tiap hari — jam kerja",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbcTal7Gzg1",
+      "timestamp": "2026-07-31T03:31:16+0000",
       "metrics": {
         "views": 0,
         "likes": 0,
@@ -82,12 +114,12 @@
       "engagement": 0
     },
     {
-      "id": "17890948584665172",
-      "text": "Agen Spanyol di Surabaya — 2 staff, 90+ klien aktif per musim.\nPertanyaan soal Alhambra masuk tiap hari: harus booking b",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbabP4LIK94",
-      "timestamp": "2026-07-30T10:01:13+0000",
+      "id": "18437300995135469",
+      "text": "Staff Anda tidak perlu tahu semua jawaban soal Spanyol — tapi klien tetap butuh jawaban malam ini.\nPertanyaan soal Alham",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbcJG2xFZ3J",
+      "timestamp": "2026-07-31T02:01:11+0000",
       "metrics": {
-        "views": 3,
+        "views": 0,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -95,9 +127,7 @@
         "shares": 0
       },
       "engagement": 0
-    }
-  ],
-  "recent_posts": [
+    },
     {
       "id": "17934940401344411",
       "text": "Agen Prancis Anda bisa punya AI companion ber-brand sendiri — nama brand Anda yang muncul, bukan nama vendor.\nKlien tany",
@@ -210,36 +240,6 @@
       "timestamp": "2026-07-30T05:01:08+0000",
       "metrics": {
         "views": 0,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18046799573795823",
-      "text": "Mitos yang masih beredar: \"AI tidak cocok untuk Umroh — terlalu sakral, terlalu personal.\"\nFaktanya — yang dibutuhkan ja",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbZumV5kXGh",
-      "timestamp": "2026-07-30T03:31:04+0000",
-      "metrics": {
-        "views": 1,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "17974534452095015",
-      "text": "Italia terasa mudah dari luar — sampai klien tiba di depan Vatikan dengan bahu terbuka dan ditolak masuk.\nDress code di ",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbZkU7nFHgD",
-      "timestamp": "2026-07-30T02:01:18+0000",
-      "metrics": {
-        "views": 5,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
