@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-07-31T21:33:22.567Z",
+  "updated_at": "2026-07-31T23:27:40.943Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-ord5-3.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=K-GGhCFRfXMQ7kNvwGoI8Y5&_nc_oc=AdoE4FT2m4k9q7Oby3xQngMaRY7DN5_m3xU3Omv-Zsaz7KRdKrn7Zc0DZDWTr1cVp_8&_nc_zt=24&_nc_ht=scontent-ord5-3.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=Xq0Ml5A7NRgowW3QI7t7SQ&_nc_tpa=Q5bMBQF_tgwQBRfJqlmhWzLqPC4Ge3QAuLkdDdOzpSUFGL9EgbGf-H6YJPrlh3lKratNkqlDsehwLmfYbw&oh=00_AQGH2NpJubhVL3gTKZBrjgxaeBrD3Ujx0xxSB0rYvarXtw&oe=6A72DC13"
+    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=K-GGhCFRfXMQ7kNvwE_Lwj2&_nc_oc=AdqkgEnYQmeI98eM2hwkGe3ViPVMuaEm5DaCkWyIRAIBW7R_pjaSp4OVnC1LI21lCW0&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=BIO9saVN2vtPouJ39KAc8A&_nc_tpa=Q5bMBQGnfayCUwNPNEpdDOkDt2ACN2i6AkG7C9gxUyuPQuHsH-2UAxdZKmfJLCVYKBc21qM_grOWwMIdXg&oh=00_AQEUSw3-4ClVD00VAM_EH8ZxaPKGgisN7Yw444tuIRZy2w&oe=6A731453"
   },
   "summary": {
     "followers_count": 0,
-    "views": 260,
+    "views": 393,
     "likes": 2,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 16,
-    "engagement_rate": 6.15,
+    "engagement_rate": 4.07,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -97,12 +97,27 @@
   ],
   "recent_posts": [
     {
+      "id": "17873946951687300",
+      "text": "Yasin itu aku bacanya sering — tapi lama banget baru ngerasa \"hadir\" beneran pas baca.\nBayangan aku: kalau nanti bisa ke",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbeSfy8j3zP",
+      "timestamp": "2026-07-31T22:01:43+0000",
+      "metrics": {
+        "views": 127,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "18169594879446934",
       "text": "Sholat 5 waktu itu aku akui — pernah ada fase aku kerjain cuma biar \"aman\", bukan beneran hadir.\nSampai aku bayangin: ka",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dbdsr66G5pm",
       "timestamp": "2026-07-31T16:31:20+0000",
       "metrics": {
-        "views": 32,
+        "views": 33,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -117,7 +132,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dbde9LVm7kd",
       "timestamp": "2026-07-31T14:31:21+0000",
       "metrics": {
-        "views": 13,
+        "views": 14,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -132,7 +147,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbdUrOMFBHx",
       "timestamp": "2026-07-31T13:01:31+0000",
       "metrics": {
-        "views": 18,
+        "views": 19,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -230,21 +245,6 @@
         "shares": 0
       },
       "engagement": 0
-    },
-    {
-      "id": "18070715219651238",
-      "text": "Lagi di titik overthinking parah — nanya terus \"kenapa ini terjadi\", \"kenapa belum berubah\", tapi jawabannya ga dateng-d",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dba6KZfIBC8",
-      "timestamp": "2026-07-30T14:31:22+0000",
-      "metrics": {
-        "views": 62,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 1,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
     }
   ]
 }
