@@ -1,15 +1,15 @@
 {
   "account": "rrpetch",
-  "updated_at": "2026-07-31T04:48:28.808Z",
+  "updated_at": "2026-07-31T08:12:13.347Z",
   "profile": {
     "username": "rrpetch",
     "name": "rrp",
     "biography": "Travelers",
-    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/725626839_18109259368780392_5435560104487373455_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=zGDse_gGASUQ7kNvwFnRjdE&_nc_oc=AdogxK2EyzS1yA4o3lzgnUQVSMT16-fDRzShoKpGGnyAX0qxqd20k76H2ysEF5MdVfM&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=9VWyW19kQbvnbbWLnIyD2Q&_nc_tpa=Q5bMBQFKcZrTankg18eLJRrpw8l9iZdb4zd-iJ7_qQUwCi8Y-jk9svFl_LT-1Rs421wOhICmOTJfPWn82g&oh=00_AQGAvzyC4w6adXwV-HwBIOzzLWxFVwAkUa8SxeSf5YCeYA&oe=6A71F66D"
+    "picture": "https://scontent-dfw6-2.cdninstagram.com/v/t51.82787-19/725626839_18109259368780392_5435560104487373455_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=7A0kVnzMuLAQ7kNvwGY_5pb&_nc_oc=Adr3Wh99YEOY5Ux1FGfkTgW9h59Gq_fIxzZY-OYf5Zogez4H70gCQwgMoicrjvkmhQQ&_nc_zt=24&_nc_ht=scontent-dfw6-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=2urFlEp3q5cbJ5ZKRkq0FA&_nc_tpa=Q5bMBQHIwVaRXOiHgHER8stEBs9rN0Pau7zivZFbkNZA7eoTGNhUc9nkAsttl0GL8KdZHf_-VrtZcTomnQ&oh=00_AQEHnb8DOqlVZBhfglt62jffbPn7W5Zw34vKDO68T6Qspg&oe=6A722EAD"
   },
   "summary": {
     "followers_count": 2,
-    "views": 85,
+    "views": 22,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
@@ -22,12 +22,57 @@
   },
   "top_posts": [
     {
+      "id": "17898871251520305",
+      "text": "Bayangkan klien Anda baru landing di Roma — bingung soal validasi tiket Metro, jam buka Vatikan, atau restoran halal dek",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbcyTb4oLsy",
+      "timestamp": "2026-07-31T08:01:10+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "18048161888798730",
+      "text": "Sakura musim semi di Jepang — indah, tapi macet.\nBanyak traveler tidak tahu: spot terbaik bukan selalu yang paling viral",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbcoAjmGzcQ",
+      "timestamp": "2026-07-31T06:31:12+0000",
+      "metrics": {
+        "views": 58,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "18121995070872489",
+      "text": "Mitos yang masih beredar: paket Umroh murah berarti pengalaman jamaah yang buruk.\nFaktanya, kualitas bukan selalu soal h",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbcdtH3lbwc",
+      "timestamp": "2026-07-31T05:01:10+0000",
+      "metrics": {
+        "views": 1,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "17898764109348890",
       "text": "Agen Jepang di Bandung, 3 staff, volume tinggi musim semi.\nPertanyaan shinkansen dan JR Pass masuk tiap hari — jam kerja",
       "permalink": "https://www.threads.com/@rrpetch/post/DbcTal7Gzg1",
       "timestamp": "2026-07-31T03:31:16+0000",
       "metrics": {
-        "views": 0,
+        "views": 1,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -42,52 +87,7 @@
       "permalink": "https://www.threads.com/@rrpetch/post/DbcJG2xFZ3J",
       "timestamp": "2026-07-31T02:01:11+0000",
       "metrics": {
-        "views": 0,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "17934940401344411",
-      "text": "Agen Prancis Anda bisa punya AI companion ber-brand sendiri — nama brand Anda yang muncul, bukan nama vendor.\nKlien tany",
-      "permalink": "https://www.threads.com/@rrpetch/post/Dbb-zH6Egje",
-      "timestamp": "2026-07-31T00:31:08+0000",
-      "metrics": {
-        "views": 0,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18372603466234472",
-      "text": "Satu hal yang sering bikin jamaah panik sebelum berangkat: mereka tidak tahu kapan waktu terbaik untuk tawaf agar tidak ",
-      "permalink": "https://www.threads.com/@rrpetch/post/Dbb0hPvCVGK",
-      "timestamp": "2026-07-30T23:01:18+0000",
-      "metrics": {
-        "views": 2,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18369886009301113",
-      "text": "Jam 2 pagi, ada yang ketik: \"Ustadz, kalau jamaah saya sakit di Madinah, prosedurnya gimana?\"\nBukan jamaah yang tanya — ",
-      "permalink": "https://www.threads.com/@rrpetch/post/Dba2tu8HIGN",
-      "timestamp": "2026-07-30T14:01:14+0000",
-      "metrics": {
-        "views": 34,
+        "views": 1,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -99,12 +99,57 @@
   ],
   "recent_posts": [
     {
+      "id": "17898871251520305",
+      "text": "Bayangkan klien Anda baru landing di Roma — bingung soal validasi tiket Metro, jam buka Vatikan, atau restoran halal dek",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbcyTb4oLsy",
+      "timestamp": "2026-07-31T08:01:10+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "18048161888798730",
+      "text": "Sakura musim semi di Jepang — indah, tapi macet.\nBanyak traveler tidak tahu: spot terbaik bukan selalu yang paling viral",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbcoAjmGzcQ",
+      "timestamp": "2026-07-31T06:31:12+0000",
+      "metrics": {
+        "views": 58,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "18121995070872489",
+      "text": "Mitos yang masih beredar: paket Umroh murah berarti pengalaman jamaah yang buruk.\nFaktanya, kualitas bukan selalu soal h",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbcdtH3lbwc",
+      "timestamp": "2026-07-31T05:01:10+0000",
+      "metrics": {
+        "views": 1,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "17898764109348890",
       "text": "Agen Jepang di Bandung, 3 staff, volume tinggi musim semi.\nPertanyaan shinkansen dan JR Pass masuk tiap hari — jam kerja",
       "permalink": "https://www.threads.com/@rrpetch/post/DbcTal7Gzg1",
       "timestamp": "2026-07-31T03:31:16+0000",
       "metrics": {
-        "views": 0,
+        "views": 1,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -119,7 +164,7 @@
       "permalink": "https://www.threads.com/@rrpetch/post/DbcJG2xFZ3J",
       "timestamp": "2026-07-31T02:01:11+0000",
       "metrics": {
-        "views": 0,
+        "views": 1,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -164,7 +209,7 @@
       "permalink": "https://www.threads.com/@rrpetch/post/Dba2tu8HIGN",
       "timestamp": "2026-07-30T14:01:14+0000",
       "metrics": {
-        "views": 34,
+        "views": 37,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -179,7 +224,7 @@
       "permalink": "https://www.threads.com/@rrpetch/post/Dbao_dtIByX",
       "timestamp": "2026-07-30T12:01:19+0000",
       "metrics": {
-        "views": 0,
+        "views": 1,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -195,51 +240,6 @@
       "timestamp": "2026-07-30T10:01:13+0000",
       "metrics": {
         "views": 3,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18128103466572576",
-      "text": "Prancis terasa dekat — sampai klien Anda tiba di Paris dan bingung soal museum mana yang wajib booking jauh hari, mana y",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbaNgu7G_11",
-      "timestamp": "2026-07-30T08:01:12+0000",
-      "metrics": {
-        "views": 0,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "17987748149841483",
-      "text": "Satu hal yang sering dilupakan jamaah haji: kondisi fisik di Mina bukan soal stamina saja.\nSuhu bisa menembus 45°C, jara",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbaDNqkoLS_",
-      "timestamp": "2026-07-30T06:31:12+0000",
-      "metrics": {
-        "views": 60,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18327438637273639",
-      "text": "Bayangkan klien Anda tanya soal visa Schengen pukul 11 malam — dan yang menjawab bukan staff Anda, tapi AI dengan nama b",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbZ459FoOnm",
-      "timestamp": "2026-07-30T05:01:08+0000",
-      "metrics": {
-        "views": 0,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
