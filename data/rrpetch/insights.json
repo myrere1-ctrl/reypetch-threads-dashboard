@@ -1,15 +1,15 @@
 {
   "account": "rrpetch",
-  "updated_at": "2026-07-31T08:12:13.347Z",
+  "updated_at": "2026-07-31T11:02:52.839Z",
   "profile": {
     "username": "rrpetch",
     "name": "rrp",
     "biography": "Travelers",
-    "picture": "https://scontent-dfw6-2.cdninstagram.com/v/t51.82787-19/725626839_18109259368780392_5435560104487373455_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=7A0kVnzMuLAQ7kNvwGY_5pb&_nc_oc=Adr3Wh99YEOY5Ux1FGfkTgW9h59Gq_fIxzZY-OYf5Zogez4H70gCQwgMoicrjvkmhQQ&_nc_zt=24&_nc_ht=scontent-dfw6-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=2urFlEp3q5cbJ5ZKRkq0FA&_nc_tpa=Q5bMBQHIwVaRXOiHgHER8stEBs9rN0Pau7zivZFbkNZA7eoTGNhUc9nkAsttl0GL8KdZHf_-VrtZcTomnQ&oh=00_AQEHnb8DOqlVZBhfglt62jffbPn7W5Zw34vKDO68T6Qspg&oe=6A722EAD"
+    "picture": "https://scontent-syd2-1.cdninstagram.com/v/t51.82787-19/725626839_18109259368780392_5435560104487373455_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=7A0kVnzMuLAQ7kNvwFv-7wG&_nc_oc=AdqYTE-GkltmerrUx1tdqYnyJ35K19yZvzpNCf1EHzyuAX3u6zmOq20ZDuAQP48HkZc&_nc_zt=24&_nc_ht=scontent-syd2-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=7Jbiqh2_JsAQDd2tZbxerQ&_nc_tpa=Q5bMBQFNf1alKCM3BMz-QwsG-b3GF29jtZVtMop3Uf9NEkUZCm9X1_Fj-_FF0GeNQNJIwJm3qUZ4Ri6KYw&oh=00_AQG3g6DM8Ys2NdTBQtXwrbcy0Q5xu2ZeYQHVN59PwS6pEw&oe=6A7266ED"
   },
   "summary": {
     "followers_count": 2,
-    "views": 22,
+    "views": 47,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
@@ -22,12 +22,27 @@
   },
   "top_posts": [
     {
+      "id": "18138446827575943",
+      "text": "Staff Anda bukan mesin — tapi pertanyaan jamaah tidak mengenal jam kerja.\nSoal jadwal miqat, kondisi fisik di Armuzna, s",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbdAC9Wligi",
+      "timestamp": "2026-07-31T10:01:15+0000",
+      "metrics": {
+        "views": 2,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "17898871251520305",
       "text": "Bayangkan klien Anda baru landing di Roma — bingung soal validasi tiket Metro, jam buka Vatikan, atau restoran halal dek",
       "permalink": "https://www.threads.com/@rrpetch/post/DbcyTb4oLsy",
       "timestamp": "2026-07-31T08:01:10+0000",
       "metrics": {
-        "views": 0,
+        "views": 4,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -42,7 +57,7 @@
       "permalink": "https://www.threads.com/@rrpetch/post/DbcoAjmGzcQ",
       "timestamp": "2026-07-31T06:31:12+0000",
       "metrics": {
-        "views": 58,
+        "views": 73,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -72,22 +87,7 @@
       "permalink": "https://www.threads.com/@rrpetch/post/DbcTal7Gzg1",
       "timestamp": "2026-07-31T03:31:16+0000",
       "metrics": {
-        "views": 1,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18437300995135469",
-      "text": "Staff Anda tidak perlu tahu semua jawaban soal Spanyol — tapi klien tetap butuh jawaban malam ini.\nPertanyaan soal Alham",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbcJG2xFZ3J",
-      "timestamp": "2026-07-31T02:01:11+0000",
-      "metrics": {
-        "views": 1,
+        "views": 3,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -99,12 +99,27 @@
   ],
   "recent_posts": [
     {
+      "id": "18138446827575943",
+      "text": "Staff Anda bukan mesin — tapi pertanyaan jamaah tidak mengenal jam kerja.\nSoal jadwal miqat, kondisi fisik di Armuzna, s",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbdAC9Wligi",
+      "timestamp": "2026-07-31T10:01:15+0000",
+      "metrics": {
+        "views": 2,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "17898871251520305",
       "text": "Bayangkan klien Anda baru landing di Roma — bingung soal validasi tiket Metro, jam buka Vatikan, atau restoran halal dek",
       "permalink": "https://www.threads.com/@rrpetch/post/DbcyTb4oLsy",
       "timestamp": "2026-07-31T08:01:10+0000",
       "metrics": {
-        "views": 0,
+        "views": 4,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -119,7 +134,7 @@
       "permalink": "https://www.threads.com/@rrpetch/post/DbcoAjmGzcQ",
       "timestamp": "2026-07-31T06:31:12+0000",
       "metrics": {
-        "views": 58,
+        "views": 73,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -149,7 +164,7 @@
       "permalink": "https://www.threads.com/@rrpetch/post/DbcTal7Gzg1",
       "timestamp": "2026-07-31T03:31:16+0000",
       "metrics": {
-        "views": 1,
+        "views": 3,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -179,7 +194,7 @@
       "permalink": "https://www.threads.com/@rrpetch/post/Dbb-zH6Egje",
       "timestamp": "2026-07-31T00:31:08+0000",
       "metrics": {
-        "views": 0,
+        "views": 2,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -225,21 +240,6 @@
       "timestamp": "2026-07-30T12:01:19+0000",
       "metrics": {
         "views": 1,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "17890948584665172",
-      "text": "Agen Spanyol di Surabaya — 2 staff, 90+ klien aktif per musim.\nPertanyaan soal Alhambra masuk tiap hari: harus booking b",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbabP4LIK94",
-      "timestamp": "2026-07-30T10:01:13+0000",
-      "metrics": {
-        "views": 3,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
