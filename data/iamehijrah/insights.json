@@ -1,31 +1,46 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-07-30T22:31:28.419Z",
+  "updated_at": "2026-07-31T01:00:10.477Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=K-GGhCFRfXMQ7kNvwEy7dGa&_nc_oc=AdquvYjEgviHIo-WI6rrUlroGi9r43IpPa2A_s1w2bv2y1AT1i9EpQl8UknVvDd-vG8&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=ezLG0OiuXBXZPg_RR5hSCQ&_nc_tpa=Q5bMBQHleFkcOraUAbNfUwxw_gH6HyjzKmOUJ3qqYwCjWzkD9kEoKJKyg14lMleN--6gyDf3Y4DfLCmuxw&oh=00_AQFr6eo25GEFj_hZb1ZJMPlK60ej99ZZQx0XDARv4NAuuA&oe=6A718A93"
+    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=K-GGhCFRfXMQ7kNvwFiKPCK&_nc_oc=Adq0XKlzrii4OYidwus-2fCNEzeRzAf2hTvOVpweyGThKZLdCAiQWvRn6O1a-OPutZk&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=4oOl6BWViV-tOpX9RiqwCg&_nc_tpa=Q5bMBQFvNskxLLphhmhLIIiuhEcmqRrpbHQBizYcu486jojpb2skCy7bMOoQk3JzaH4ULEB5tIv0bifG8Q&oh=00_AQHV17elDIbIWK1BkxkSTlFAzAcLSsXCERH9OPL-5EXu8A&oe=6A71C2D3"
   },
   "summary": {
     "followers_count": 0,
-    "views": 338,
-    "likes": 4,
-    "replies": 0,
+    "views": 522,
+    "likes": 6,
+    "replies": 1,
     "reposts": 1,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 17,
-    "engagement_rate": 5.03,
+    "engagement_total": 21,
+    "engagement_rate": 4.02,
     "curiosity_score": null,
     "post_count": 25
   },
   "top_posts": [
+    {
+      "id": "18035058794825349",
+      "text": "Al-Waqiah itu aku mulai baca rutin menjelang tidur — bukan karena ngerti semua maknanya, tapi karena rasanya kayak \"pami",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbbuNj5Fvjn",
+      "timestamp": "2026-07-30T22:06:10+0000",
+      "metrics": {
+        "views": 232,
+        "likes": 2,
+        "replies": 2,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 4
+    },
     {
       "id": "17983363515020815",
       "text": "Unpopular opinion: syukur itu bukan nunggu kondisi enak dulu baru bisa dilakuin.\nAku lama banget salah paham — nunggu hi",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dbav4-_lvXU",
       "timestamp": "2026-07-30T13:01:36+0000",
       "metrics": {
-        "views": 157,
+        "views": 159,
         "likes": 4,
         "replies": 0,
         "reposts": 0,
@@ -78,21 +93,6 @@
         "shares": 0
       },
       "engagement": 2
-    },
-    {
-      "id": "18364751206214069",
-      "text": "Ayat Kursi itu aku baca tiap mau tidur — bukan karena rajin, tapi karena gelisah dan butuh ngerasa aman.\nPelan-pelan sad",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbUyxX7G0Po",
-      "timestamp": "2026-07-28T05:31:20+0000",
-      "metrics": {
-        "views": 80,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 2,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 2
     }
   ],
   "recent_posts": [
@@ -102,14 +102,14 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbbuNj5Fvjn",
       "timestamp": "2026-07-30T22:06:10+0000",
       "metrics": {
-        "views": 52,
-        "likes": 0,
-        "replies": 0,
+        "views": 232,
+        "likes": 2,
+        "replies": 2,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 0
+      "engagement": 4
     },
     {
       "id": "18605735932024532",
@@ -147,7 +147,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dbav4-_lvXU",
       "timestamp": "2026-07-30T13:01:36+0000",
       "metrics": {
-        "views": 157,
+        "views": 159,
         "likes": 4,
         "replies": 0,
         "reposts": 0,
