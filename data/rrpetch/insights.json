@@ -1,15 +1,15 @@
 {
   "account": "rrpetch",
-  "updated_at": "2026-07-30T22:30:58.301Z",
+  "updated_at": "2026-07-31T00:59:42.753Z",
   "profile": {
     "username": "rrpetch",
     "name": "rrp",
     "biography": "Travelers",
-    "picture": "https://scontent-dfw6-2.cdninstagram.com/v/t51.82787-19/725626839_18109259368780392_5435560104487373455_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=zGDse_gGASUQ7kNvwEg3rPU&_nc_oc=AdqNuD9hAQyLctEoIBeQr3A5ObTgAwjVKIGrro7SxL1OQvb-JyQv6LtUTF24-4IrLPk&_nc_zt=24&_nc_ht=scontent-dfw6-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=SsPoYDrLj2DtxfZol-yHTQ&_nc_tpa=Q5bMBQH6wu4Aingw6SeQ-Xmk_dfJ8QBY7PmQa2Sr5NiGMyDUzlZ7wMZK2EzqV0ax0PiDoz1ubY-lUcQMag&oh=00_AQHMjlMyvvh4p7hAN9LXoREaBNdHG7Uj25yslfNY73rwRA&oe=6A71BE2D"
+    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/725626839_18109259368780392_5435560104487373455_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=zGDse_gGASUQ7kNvwFbn8ly&_nc_oc=AdqboHOF2GEX5Rt-sNwxefeKjW4Nu1cMX_dkiDiMKURtIS5v7FHitZgmXZH0yEaS82Q&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=JMjOcXgP5WF7RiVaW3AWLw&_nc_tpa=Q5bMBQG4qVlAZ77H4TGHHzkQsLrt_nGCMj5PhLA9RENrYv-3oY67nxUuRD4AXU-zRPXV8PuWwtmELInp-A&oh=00_AQG0L1SnSFgDdwp64OtgUsBfcaG57o6mbuAPjcg-vETuZg&oe=6A71BE2D"
   },
   "summary": {
     "followers_count": 2,
-    "views": 83,
+    "views": 85,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
@@ -21,6 +21,36 @@
     "post_count": 25
   },
   "top_posts": [
+    {
+      "id": "17934940401344411",
+      "text": "Agen Prancis Anda bisa punya AI companion ber-brand sendiri — nama brand Anda yang muncul, bukan nama vendor.\nKlien tany",
+      "permalink": "https://www.threads.com/@rrpetch/post/Dbb-zH6Egje",
+      "timestamp": "2026-07-31T00:31:08+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "18372603466234472",
+      "text": "Satu hal yang sering bikin jamaah panik sebelum berangkat: mereka tidak tahu kapan waktu terbaik untuk tawaf agar tidak ",
+      "permalink": "https://www.threads.com/@rrpetch/post/Dbb0hPvCVGK",
+      "timestamp": "2026-07-30T23:01:18+0000",
+      "metrics": {
+        "views": 2,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
     {
       "id": "18369886009301113",
       "text": "Jam 2 pagi, ada yang ketik: \"Ustadz, kalau jamaah saya sakit di Madinah, prosedurnya gimana?\"\nBukan jamaah yang tanya — ",
@@ -65,12 +95,14 @@
         "shares": 0
       },
       "engagement": 0
-    },
+    }
+  ],
+  "recent_posts": [
     {
-      "id": "18128103466572576",
-      "text": "Prancis terasa dekat — sampai klien Anda tiba di Paris dan bingung soal museum mana yang wajib booking jauh hari, mana y",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbaNgu7G_11",
-      "timestamp": "2026-07-30T08:01:12+0000",
+      "id": "17934940401344411",
+      "text": "Agen Prancis Anda bisa punya AI companion ber-brand sendiri — nama brand Anda yang muncul, bukan nama vendor.\nKlien tany",
+      "permalink": "https://www.threads.com/@rrpetch/post/Dbb-zH6Egje",
+      "timestamp": "2026-07-31T00:31:08+0000",
       "metrics": {
         "views": 0,
         "likes": 0,
@@ -82,12 +114,12 @@
       "engagement": 0
     },
     {
-      "id": "17987748149841483",
-      "text": "Satu hal yang sering dilupakan jamaah haji: kondisi fisik di Mina bukan soal stamina saja.\nSuhu bisa menembus 45°C, jara",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbaDNqkoLS_",
-      "timestamp": "2026-07-30T06:31:12+0000",
+      "id": "18372603466234472",
+      "text": "Satu hal yang sering bikin jamaah panik sebelum berangkat: mereka tidak tahu kapan waktu terbaik untuk tawaf agar tidak ",
+      "permalink": "https://www.threads.com/@rrpetch/post/Dbb0hPvCVGK",
+      "timestamp": "2026-07-30T23:01:18+0000",
       "metrics": {
-        "views": 60,
+        "views": 2,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -95,9 +127,7 @@
         "shares": 0
       },
       "engagement": 0
-    }
-  ],
-  "recent_posts": [
+    },
     {
       "id": "18369886009301113",
       "text": "Jam 2 pagi, ada yang ketik: \"Ustadz, kalau jamaah saya sakit di Madinah, prosedurnya gimana?\"\nBukan jamaah yang tanya — ",
@@ -210,36 +240,6 @@
       "timestamp": "2026-07-30T02:01:18+0000",
       "metrics": {
         "views": 5,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18081985391678707",
-      "text": "Mitos yang masih beredar: \"Jepang itu ribet, jadi klien pasti minta bantuan terus sebelum berangkat.\"\nFaktanya — klien m",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbZaAG5DlFL",
-      "timestamp": "2026-07-30T00:31:06+0000",
-      "metrics": {
-        "views": 12,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "17941430721318214",
-      "text": "Agen Eropa di Medan — 2 staff, 120+ klien aktif per musim.\nPertanyaan soal visa Schengen, koneksi kereta antarkota, dan ",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbZPuGwFDJk",
-      "timestamp": "2026-07-29T23:01:15+0000",
-      "metrics": {
-        "views": 3,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
