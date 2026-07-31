@@ -1,11 +1,11 @@
 {
   "account": "rrpetch",
-  "updated_at": "2026-07-31T21:32:46.994Z",
+  "updated_at": "2026-07-31T23:27:08.131Z",
   "profile": {
     "username": "rrpetch",
     "name": "rrp",
     "biography": "Travelers",
-    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/725626839_18109259368780392_5435560104487373455_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=7A0kVnzMuLAQ7kNvwFio3Lk&_nc_oc=Adq3N_RVor50_K9X4MT5hNwZ1kIv67MtHfvfxJTpKOS8mVwMu3xgdzhiSSlA6svnWEQ&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=SgGWmZEu5c35-mH99KUJ4g&_nc_tpa=Q5bMBQGpNPC5uymzNQybLatNWbwQ3bstBByNdUldMboHpT7nki9Z4tcKb5FSiA3EF0-NiRkZttLVhUVMNA&oh=00_AQE9Q6gWRH3iYjtnWmm2wq94A2ZVqEsw9awUv-MoGZb4Dg&oe=6A72D76D"
+    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/725626839_18109259368780392_5435560104487373455_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=7A0kVnzMuLAQ7kNvwEZLrzT&_nc_oc=AdrJXCAD8PioSoJJw5dSLM9KnooOBhDLmVWDepcseZLIob7CbtGvHPz94gyVgEYrjpA&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=LKT1sF8H-eUsVzWjCNK4dg&_nc_tpa=Q5bMBQEGpbPvrP5PQRQZ3dxq0TPqTlaU64mBpNpwHMbiMaAFosrwT9rGbVZd3sFXgPNrmIfabADP3OfiIQ&oh=00_AQFig3dej64lfMLHJ09ramJELGfaXhKsFK6Z9TOYMNwiQA&oe=6A730FAD"
   },
   "summary": {
     "followers_count": 2,
@@ -21,6 +21,21 @@
     "post_count": 25
   },
   "top_posts": [
+    {
+      "id": "18083596859682851",
+      "text": "Masih banyak yang percaya: Haji itu urusan ibadah, bukan urusan informasi.\nPadahal jamaah yang panik soal jadwal Armuzna",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbeZTPbk1vx",
+      "timestamp": "2026-07-31T23:01:12+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
     {
       "id": "17953314225211003",
       "text": "Satu fitur Tomodachi AI yang sering bikin agen Haji kagum:\njamaah bisa tanya soal kondisi fisik di Arafah, jadwal lempar",
@@ -80,14 +95,16 @@
         "shares": 0
       },
       "engagement": 0
-    },
+    }
+  ],
+  "recent_posts": [
     {
-      "id": "18048161888798730",
-      "text": "Sakura musim semi di Jepang — indah, tapi macet.\nBanyak traveler tidak tahu: spot terbaik bukan selalu yang paling viral",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbcoAjmGzcQ",
-      "timestamp": "2026-07-31T06:31:12+0000",
+      "id": "18083596859682851",
+      "text": "Masih banyak yang percaya: Haji itu urusan ibadah, bukan urusan informasi.\nPadahal jamaah yang panik soal jadwal Armuzna",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbeZTPbk1vx",
+      "timestamp": "2026-07-31T23:01:12+0000",
       "metrics": {
-        "views": 77,
+        "views": 0,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -95,9 +112,7 @@
         "shares": 0
       },
       "engagement": 0
-    }
-  ],
-  "recent_posts": [
+    },
     {
       "id": "17953314225211003",
       "text": "Satu fitur Tomodachi AI yang sering bikin agen Haji kagum:\njamaah bisa tanya soal kondisi fisik di Arafah, jadwal lempar",
@@ -223,21 +238,6 @@
       "text": "Agen Prancis Anda bisa punya AI companion ber-brand sendiri — nama brand Anda yang muncul, bukan nama vendor.\nKlien tany",
       "permalink": "https://www.threads.com/@rrpetch/post/Dbb-zH6Egje",
       "timestamp": "2026-07-31T00:31:08+0000",
-      "metrics": {
-        "views": 2,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18372603466234472",
-      "text": "Satu hal yang sering bikin jamaah panik sebelum berangkat: mereka tidak tahu kapan waktu terbaik untuk tawaf agar tidak ",
-      "permalink": "https://www.threads.com/@rrpetch/post/Dbb0hPvCVGK",
-      "timestamp": "2026-07-30T23:01:18+0000",
       "metrics": {
         "views": 2,
         "likes": 0,
