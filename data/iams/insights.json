@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-08-01T03:56:18.339Z",
+  "updated_at": "2026-08-01T06:43:40.605Z",
   "profile": {
     "username": "iams_ichi",
     "name": "iams",
     "biography": "🧠 Psikologi+Traveling\nSolo Traveler Bunglon\nFine dining 👌 & Street food lokal 🫰\nHidden gems Insider for 🇯🇵🇦🇺🇫🇷🇪🇸🇮🇹 + Umrah.\n✉️ cmo@coa.au",
-    "picture": "https://scontent-dfw6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=EpDSy18QD3MQ7kNvwGtkqug&_nc_oc=AdrjCItnizvxhGVlRjRLb91zt_wly0Q-oUrcRo6xYQSMVkM6lcIkbZGStLOMenmdFzg&_nc_zt=24&_nc_ht=scontent-dfw6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=zjcYGHFGKC79spHEi8-tEA&_nc_tpa=Q5bMBQGoQdbZS2HKCHaTmbOiFgBZrfPSppZWJu7lzS8hqsj8sA_BSOJaxDOsnI_Gs3WIwHQ4WB9TeBfoSA&oh=00_AQFBSQ0A2FtWuKliOvWmN1OCL7ICxmTJUEHBCZhAlajOcw&oe=6A735B1E"
+    "picture": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=EpDSy18QD3MQ7kNvwF1npPu&_nc_oc=Ado2nYPIa4zBCG0axu-Indtvtl3eROkLD72EyknYEpBsFJZ1WmYDYugpdS9kragiO9s&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=f3SPQTECIVzS-AsELVqAxA&_nc_tpa=Q5bMBQEzzqILqbikyDIIOc50B3bxT8PAQG_gTJqFUIRzWBuRJFb_nMHeuPYqK11dn7NQnFWipShpxG96Bw&oh=00_AQERTxm7z4x5hBEsFs8ntfcudPku_vKamf6PNAUo4fc5mw&oe=6A735B1E"
   },
   "summary": {
     "followers_count": 1347,
-    "views": 684,
+    "views": 732,
     "likes": 12,
     "replies": 0,
     "reposts": 1,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 145,
-    "engagement_rate": 21.2,
+    "engagement_total": 144,
+    "engagement_rate": 19.67,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -72,7 +72,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DbdbhWaoAcV",
       "timestamp": "2026-07-31T14:01:19+0000",
       "metrics": {
-        "views": 178,
+        "views": 181,
         "likes": 6,
         "replies": 0,
         "reposts": 0,
@@ -99,12 +99,42 @@
   ],
   "recent_posts": [
     {
+      "id": "18002691827961192",
+      "text": "https://iamsichi.substack.com/p/persiapan-liburan-musim-gugur-ke?triedRedirect=true",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DbfM3fsgQlk",
+      "timestamp": "2026-08-01T06:31:14+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "18116688116304021",
+      "text": "Jabal Rahmah itu bukan spot foto — tapi aku tetap planning waktu terbaik buat ke sana (hindari tengah hari, percaya deh)",
+      "permalink": "https://www.threads.com/@iams_ichi/post/Dbe7o5klNgi",
+      "timestamp": "2026-08-01T04:01:13+0000",
+      "metrics": {
+        "views": 36,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "17895322977377965",
       "text": "Jam 4 subuh di Makkah, aku baru sadar — aku ga punya rencana apa-apa untuk hari ini.\nDan untuk pertama kalinya dalam hid",
       "permalink": "https://www.threads.com/@iams_ichi/post/DbejmQ8lJVV",
       "timestamp": "2026-08-01T00:31:08+0000",
       "metrics": {
-        "views": 42,
+        "views": 43,
         "likes": 0,
         "replies": 0,
         "reposts": 1,
@@ -134,7 +164,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dbecn7jATOm",
       "timestamp": "2026-07-31T23:29:40+0000",
       "metrics": {
-        "views": 164,
+        "views": 169,
         "likes": 2,
         "replies": 0,
         "reposts": 0,
@@ -149,7 +179,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DbdbhWaoAcV",
       "timestamp": "2026-07-31T14:01:19+0000",
       "metrics": {
-        "views": 178,
+        "views": 181,
         "likes": 6,
         "replies": 0,
         "reposts": 0,
@@ -217,36 +247,6 @@
         "shares": 0
       },
       "engagement": 0
-    },
-    {
-      "id": "18403258294080668",
-      "text": "Unpopular opinion: Madinah itu justru paling berasa bukan di Masjid Nabawi.\nYang paling membekas malah di jalan kecil se",
-      "permalink": "https://www.threads.com/@iams_ichi/post/Dbb-zIzoNRl",
-      "timestamp": "2026-07-31T00:31:07+0000",
-      "metrics": {
-        "views": 285,
-        "likes": 5,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 6
-    },
-    {
-      "id": "17969507369937101",
-      "text": "Unpopular opinion: Aku akhirnya 99% yakin bakal skip beli rumah dan milih buat sewa aja.Story time dikit, waktu kecil Mo",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DbbwJrJk2xL",
-      "timestamp": "2026-07-30T22:22:35+0000",
-      "metrics": {
-        "views": 62,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
     }
   ]
 }
