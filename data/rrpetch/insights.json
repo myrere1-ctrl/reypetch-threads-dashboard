@@ -1,15 +1,15 @@
 {
   "account": "rrpetch",
-  "updated_at": "2026-08-01T09:27:19.756Z",
+  "updated_at": "2026-08-01T11:37:44.032Z",
   "profile": {
     "username": "rrpetch",
     "name": "rrp",
     "biography": "Travelers",
-    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/725626839_18109259368780392_5435560104487373455_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=7A0kVnzMuLAQ7kNvwEaSMjQ&_nc_oc=AdrouLRY_rmqcjPqo_6rmm4hJq4oIBoRwE_oDHOujvWQ7Wv3dLiEjQT6ZRPEh-NBd9w&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=SDEah6pvjb0dAI8CGrrzfA&_nc_tpa=Q5bMBQEqYg26vQq_azQUrwm1S-_TOCtJg9DLWNPaby03vdODlOYRwpmpR_w-LDnhd6LQtJUqCkY033cYVg&oh=00_AQHAJPikiTgdFcxZNiWpsqTlBqmopO8RTXD-kO6Oevvd6g&oe=6A73802D"
+    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/725626839_18109259368780392_5435560104487373455_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=7A0kVnzMuLAQ7kNvwGOAkm8&_nc_oc=AdplfaaESCgxX8a_t6wxtothXXSwBiVujIm7xi0Vt1jN0175ZB6Wu7fCPM9vH5PQ50E&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=bE_EmNp48Txb1WpWvGUTjg&_nc_tpa=Q5bMBQGejw7S61GqVELkFEZEZlpfmJ-mfClahfpefOobHU0_lq4zp0PLZGwXCv2GFkzGCmj_UpGSQEbRCw&oh=00_AQFHYUcRckjgYFM1AqXFDlgZRxWyTLp5Tz0U9z1iTUvYrg&oe=6A73B86D"
   },
   "summary": {
     "followers_count": 2,
-    "views": 2,
+    "views": 24,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
@@ -21,6 +21,21 @@
     "post_count": 25
   },
   "top_posts": [
+    {
+      "id": "18101477807220223",
+      "text": "Jepang di musim gugur — daun momiji, pasar pagi, kuil yang sepi sebelum jam 8.\nTapi banyak traveler baru sadar: tanpa pe",
+      "permalink": "https://www.threads.com/@rrpetch/post/Dbfk2ULoJZl",
+      "timestamp": "2026-08-01T10:01:19+0000",
+      "metrics": {
+        "views": 20,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
     {
       "id": "18079923026693972",
       "text": "Spanyol itu indah — tapi banyak traveler pulang dengan satu penyesalan: tidak tahu kapan Alhambra tutup, atau jalur trem",
@@ -80,14 +95,16 @@
         "shares": 0
       },
       "engagement": 0
-    },
+    }
+  ],
+  "recent_posts": [
     {
-      "id": "18133939627721654",
-      "text": "Satu fitur yang jarang disorot, tapi langsung terasa dampaknya:\njamaah bisa bertanya dalam bahasa mereka sendiri — dan A",
-      "permalink": "https://www.threads.com/@rrpetch/post/Dbet6eJDl86",
-      "timestamp": "2026-08-01T02:01:17+0000",
+      "id": "18101477807220223",
+      "text": "Jepang di musim gugur — daun momiji, pasar pagi, kuil yang sepi sebelum jam 8.\nTapi banyak traveler baru sadar: tanpa pe",
+      "permalink": "https://www.threads.com/@rrpetch/post/Dbfk2ULoJZl",
+      "timestamp": "2026-08-01T10:01:19+0000",
       "metrics": {
-        "views": 1,
+        "views": 20,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -95,9 +112,7 @@
         "shares": 0
       },
       "engagement": 0
-    }
-  ],
-  "recent_posts": [
+    },
     {
       "id": "18079923026693972",
       "text": "Spanyol itu indah — tapi banyak traveler pulang dengan satu penyesalan: tidak tahu kapan Alhambra tutup, atau jalur trem",
@@ -224,22 +239,7 @@
       "permalink": "https://www.threads.com/@rrpetch/post/DbdNyXpG8kz",
       "timestamp": "2026-07-31T12:01:20+0000",
       "metrics": {
-        "views": 2,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18138446827575943",
-      "text": "Staff Anda bukan mesin — tapi pertanyaan jamaah tidak mengenal jam kerja.\nSoal jadwal miqat, kondisi fisik di Armuzna, s",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbdAC9Wligi",
-      "timestamp": "2026-07-31T10:01:15+0000",
-      "metrics": {
-        "views": 2,
+        "views": 4,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
