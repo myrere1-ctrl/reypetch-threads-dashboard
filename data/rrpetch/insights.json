@@ -1,11 +1,11 @@
 {
   "account": "rrpetch",
-  "updated_at": "2026-08-01T22:15:06.099Z",
+  "updated_at": "2026-08-01T23:17:05.268Z",
   "profile": {
     "username": "rrpetch",
     "name": "rrp",
     "biography": "Travelers",
-    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/725626839_18109259368780392_5435560104487373455_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=7A0kVnzMuLAQ7kNvwEUNnSP&_nc_oc=AdqQCsKVFLM-buY5Wa1cm9uaF6fmpd9J8zFmctlWZP-G3-bSUGitmXQUAtcpezDHa_w&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=o9TMmJWYzWGInbK_8yPDsQ&_nc_tpa=Q5bMBQFoMCVyojUbxWXlttr1fe4SRvx8mAY3TlR7w4GOBoKGKxaZPYaZ86QyhSNJE83OB4tsrn_oNZbY6Q&oh=00_AQGKoCldB26ElwU9dJ5Sxh7AWwrrNOWfzlFeaTmvHGd94Q&oe=6A7428ED"
+    "picture": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/725626839_18109259368780392_5435560104487373455_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=7A0kVnzMuLAQ7kNvwHKdmUN&_nc_oc=AdoFFO5TqTk0GGQ1ujgHXIdpeAypA46ZlxNkFoW4psd7GVoMrL0Qgqn2BQwyCYmf2JU&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=iSfri4RDk9mgYFvV_rPaFA&_nc_tpa=Q5bMBQEUvjJ3_-dEDpNdC-yo_7cAr9tUwLM4xycYCB1DJY3JGfPpX6ICAiQdq8004I3sOyN40iZDbrcJpQ&oh=00_AQGctbXtzz5k-71WaLmueyJPb7IStILx_6xgP_rMhalCqQ&oe=6A74612D"
   },
   "summary": {
     "followers_count": 2,
@@ -21,6 +21,21 @@
     "post_count": 25
   },
   "top_posts": [
+    {
+      "id": "18184338835405214",
+      "text": "Klien tanya: \"Shinkansen dari Tokyo ke Kyoto — beli tiket di mana, perlu reservasi kursi?\" Jam 9 malam.\nPertanyaan seder",
+      "permalink": "https://www.threads.com/@rrpetch/post/Dbg-GwvFG0X",
+      "timestamp": "2026-08-01T23:01:15+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
     {
       "id": "18108766804935792",
       "text": "Bayangkan klien Anda punya AI travel companion ber-nama brand agen Anda sendiri — siap jawab soal rute kereta Jepang, ja",
@@ -80,14 +95,16 @@
         "shares": 0
       },
       "engagement": 0
-    },
+    }
+  ],
+  "recent_posts": [
     {
-      "id": "18096580541524776",
-      "text": "Klien tanya jam buka Louvre, area halal di Paris, sampai rute RER dari CDG — jam 10 malam.\nBukan staff yang jawab. Tapi ",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbfMyqZlgR5",
-      "timestamp": "2026-08-01T06:31:06+0000",
+      "id": "18184338835405214",
+      "text": "Klien tanya: \"Shinkansen dari Tokyo ke Kyoto — beli tiket di mana, perlu reservasi kursi?\" Jam 9 malam.\nPertanyaan seder",
+      "permalink": "https://www.threads.com/@rrpetch/post/Dbg-GwvFG0X",
+      "timestamp": "2026-08-01T23:01:15+0000",
       "metrics": {
-        "views": 2,
+        "views": 0,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -95,9 +112,7 @@
         "shares": 0
       },
       "engagement": 0
-    }
-  ],
-  "recent_posts": [
+    },
     {
       "id": "18108766804935792",
       "text": "Bayangkan klien Anda punya AI travel companion ber-nama brand agen Anda sendiri — siap jawab soal rute kereta Jepang, ja",
@@ -225,21 +240,6 @@
       "timestamp": "2026-08-01T00:31:09+0000",
       "metrics": {
         "views": 1,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18083596859682851",
-      "text": "Masih banyak yang percaya: Haji itu urusan ibadah, bukan urusan informasi.\nPadahal jamaah yang panik soal jadwal Armuzna",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbeZTPbk1vx",
-      "timestamp": "2026-07-31T23:01:12+0000",
-      "metrics": {
-        "views": 2,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
