@@ -1,24 +1,39 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-08-01T14:02:35.143Z",
+  "updated_at": "2026-08-01T15:32:41.965Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-ord5-3.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=K-GGhCFRfXMQ7kNvwGW15TL&_nc_oc=Adp_gQZsRuZWsmVvt2-JLvr1H7FVm5BdTQxxsCj6V-31DOooqCHq35E_c0UMzThqR4A&_nc_zt=24&_nc_ht=scontent-ord5-3.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=j5HnGEOjek8mx8L99_THng&_nc_tpa=Q5bMBQFP3g-6uVD3EmD_nx9eVupLCDATqxkqBWp9eSViPcAshNOLsvMrO2XlIkB2716m34-YQy7Bngbt7Q&oh=00_AQGvNO87vBFJJQBYfpp1d3kl0onENM_4MuMb0mVuwCa24A&oe=6A73BD13"
+    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=KZbTTrpR23MQ7kNvwFOYfnU&_nc_oc=AdrO6GzVHvo3_2c4OufrL3mvYEsSPQDBOiomMs9n_dZ_YPgTEm25R8BnMNncRm3ppVY&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=REIbl8cOI2AG2XNPFVruXA&_nc_tpa=Q5bMBQEfmm7nnITFKkr-TemYkQ8Mu3e25hW09NBa5aLKa2C4KINm7tLPHFJvRmTRk6lHauc_KIimL2Pybg&oh=00_AQGs3S8m6byeh1Be_b7IAH84L_iekanLbtbZuZt0ynAcYg&oe=6A73F553"
   },
   "summary": {
     "followers_count": 0,
-    "views": 175,
-    "likes": 1,
+    "views": 340,
+    "likes": 5,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 14,
-    "engagement_rate": 8,
+    "engagement_total": 17,
+    "engagement_rate": 5,
     "curiosity_score": null,
     "post_count": 25
   },
   "top_posts": [
+    {
+      "id": "18067443839548947",
+      "text": "Unpopular opinion: sholat Dhuha itu bukan soal \"nambah rezeki\" — tapi tiap kali aku ngelakuinnya, yang pertama kerasa it",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbgDv-VFPBz",
+      "timestamp": "2026-08-01T14:31:20+0000",
+      "metrics": {
+        "views": 152,
+        "likes": 4,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 4
+    },
     {
       "id": "18035058794825349",
       "text": "Al-Waqiah itu aku mulai baca rutin menjelang tidur — bukan karena ngerti semua maknanya, tapi karena rasanya kayak \"pami",
@@ -55,7 +70,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dbf5dNkHIcI",
       "timestamp": "2026-08-01T13:01:23+0000",
       "metrics": {
-        "views": 96,
+        "views": 118,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -78,31 +93,31 @@
         "shares": 0
       },
       "engagement": 1
-    },
+    }
+  ],
+  "recent_posts": [
     {
-      "id": "18181484815406467",
-      "text": "La hawla wala quwwata illa billah — aku baru beneran \"ngerti\" kalimat ini pas lagi capek banget, ngerasa ga ada yang bis",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dbc5NwgG4PO",
-      "timestamp": "2026-07-31T09:01:34+0000",
+      "id": "18067443839548947",
+      "text": "Unpopular opinion: sholat Dhuha itu bukan soal \"nambah rezeki\" — tapi tiap kali aku ngelakuinnya, yang pertama kerasa it",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbgDv-VFPBz",
+      "timestamp": "2026-08-01T14:31:20+0000",
       "metrics": {
-        "views": 102,
-        "likes": 1,
+        "views": 152,
+        "likes": 4,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 1
-    }
-  ],
-  "recent_posts": [
+      "engagement": 4
+    },
     {
       "id": "18143659339550336",
       "text": "Dulu aku mikir husnudzon sama Allah itu gampang — tinggal bilang \"yakin Allah kasih yang terbaik\", selesai.\nTernyata sus",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dbf5dNkHIcI",
       "timestamp": "2026-08-01T13:01:23+0000",
       "metrics": {
-        "views": 96,
+        "views": 118,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -230,21 +245,6 @@
         "shares": 0
       },
       "engagement": 0
-    },
-    {
-      "id": "17903716476307658",
-      "text": "Dulu aku mikir sabar itu soal nahan diri — nahan nangis, nahan ngeluh, nahan emosi.\nTernyata sabar yang beneran itu buka",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbdKW3ym49i",
-      "timestamp": "2026-07-31T11:31:21+0000",
-      "metrics": {
-        "views": 70,
-        "likes": 1,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
     }
   ]
 }
