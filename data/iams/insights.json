@@ -1,41 +1,26 @@
 {
   "account": "iams",
-  "updated_at": "2026-08-01T06:43:40.605Z",
+  "updated_at": "2026-08-01T09:26:51.652Z",
   "profile": {
     "username": "iams_ichi",
     "name": "iams",
-    "biography": "🧠 Psikologi+Traveling\nSolo Traveler Bunglon\nFine dining 👌 & Street food lokal 🫰\nHidden gems Insider for 🇯🇵🇦🇺🇫🇷🇪🇸🇮🇹 + Umrah.\n✉️ cmo@coa.au",
-    "picture": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=EpDSy18QD3MQ7kNvwF1npPu&_nc_oc=Ado2nYPIa4zBCG0axu-Indtvtl3eROkLD72EyknYEpBsFJZ1WmYDYugpdS9kragiO9s&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=f3SPQTECIVzS-AsELVqAxA&_nc_tpa=Q5bMBQEzzqILqbikyDIIOc50B3bxT8PAQG_gTJqFUIRzWBuRJFb_nMHeuPYqK11dn7NQnFWipShpxG96Bw&oh=00_AQERTxm7z4x5hBEsFs8ntfcudPku_vKamf6PNAUo4fc5mw&oe=6A735B1E"
+    "biography": "🧠Psi + Traveling \nSolo Traveler Bunglon\nFine dining 👌 & Street food lokal 🫰\nHidden gems Insider for 🇯🇵🇦🇺🇫🇷🇪🇸🇮🇹 + Umrah.\n✉️ cmo@coa.au",
+    "picture": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=EpDSy18QD3MQ7kNvwGFKBzw&_nc_oc=Adp2fpPmPxMvso9ZPitjcU4BC0pTom-gc_i-hxFKcWLUB_WWMp6-GiWsDXwTBeNqu64&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=82Sr2kPZjltUE47f5WIr3Q&_nc_tpa=Q5bMBQGl3tJ3cxxZfu-KRkl_kIjcTP65Z1U-wIh8hvJ_7OxGSK-YoYk3VnSIKea53bMPdTdNs-Af2Y93oQ&oh=00_AQEZ455rxYFGYnmXXEqJEXN762KdTAWcqXvH-vaIjiZt0Q&oe=6A73935E"
   },
   "summary": {
     "followers_count": 1347,
-    "views": 732,
-    "likes": 12,
+    "views": 909,
+    "likes": 6,
     "replies": 0,
-    "reposts": 1,
+    "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 144,
-    "engagement_rate": 19.67,
+    "engagement_total": 65,
+    "engagement_rate": 7.15,
     "curiosity_score": null,
     "post_count": 25
   },
   "top_posts": [
-    {
-      "id": "17995002578798076",
-      "text": "Unpopular opinion: Kyoto justru paling enak dinikmati tanpa itinerary.\nBegitu aku berhenti nyari \"spot wajib\", gang-gang",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DbXlRjhjtO5",
-      "timestamp": "2026-07-29T07:31:07+0000",
-      "metrics": {
-        "views": 2740,
-        "likes": 73,
-        "replies": 18,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 9
-      },
-      "engagement": 91
-    },
     {
       "id": "18090012482637812",
       "text": "Unpopular opinion: umroh justru paling berasa bukan di momen yang lo planning-in.\nYang paling nyentuh malah di sela-sela",
@@ -50,6 +35,21 @@
         "shares": 0
       },
       "engagement": 18
+    },
+    {
+      "id": "18132265291619907",
+      "text": "Terimakasih yg udah inbox tanya ttg Kamikochi.. ini utasnya ...\nKamikochi Bukan Sekadar Tempat Foto \n\n7 Hal yang Bikin T",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DbfOYx1AQwp",
+      "timestamp": "2026-08-01T06:44:31+0000",
+      "metrics": {
+        "views": 432,
+        "likes": 5,
+        "replies": 7,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 3
+      },
+      "engagement": 12
     },
     {
       "id": "18113003951284226",
@@ -72,14 +72,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DbdbhWaoAcV",
       "timestamp": "2026-07-31T14:01:19+0000",
       "metrics": {
-        "views": 181,
-        "likes": 6,
+        "views": 182,
+        "likes": 7,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 6
+      "engagement": 7
     },
     {
       "id": "18403258294080668",
@@ -99,12 +99,42 @@
   ],
   "recent_posts": [
     {
+      "id": "18209775586355740",
+      "text": "Hal yang paling underrated dari persiapan umroh: nyiapin mental buat ga punya kontrol.\nDi sana, jadwal bisa berubah tiba",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DbfTql7nDsp",
+      "timestamp": "2026-08-01T07:31:11+0000",
+      "metrics": {
+        "views": 13,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "18132265291619907",
+      "text": "Terimakasih yg udah inbox tanya ttg Kamikochi.. ini utasnya ...\nKamikochi Bukan Sekadar Tempat Foto \n\n7 Hal yang Bikin T",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DbfOYx1AQwp",
+      "timestamp": "2026-08-01T06:44:31+0000",
+      "metrics": {
+        "views": 432,
+        "likes": 5,
+        "replies": 7,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 3
+      },
+      "engagement": 12
+    },
+    {
       "id": "18002691827961192",
       "text": "https://iamsichi.substack.com/p/persiapan-liburan-musim-gugur-ke?triedRedirect=true",
       "permalink": "https://www.threads.com/@iams_ichi/post/DbfM3fsgQlk",
       "timestamp": "2026-08-01T06:31:14+0000",
       "metrics": {
-        "views": 0,
+        "views": 9,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -119,7 +149,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dbe7o5klNgi",
       "timestamp": "2026-08-01T04:01:13+0000",
       "metrics": {
-        "views": 36,
+        "views": 41,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -149,7 +179,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DbehpjIgZ9N",
       "timestamp": "2026-08-01T00:13:35+0000",
       "metrics": {
-        "views": 1,
+        "views": 2,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -164,7 +194,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dbecn7jATOm",
       "timestamp": "2026-07-31T23:29:40+0000",
       "metrics": {
-        "views": 169,
+        "views": 170,
         "likes": 2,
         "replies": 0,
         "reposts": 0,
@@ -179,14 +209,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DbdbhWaoAcV",
       "timestamp": "2026-07-31T14:01:19+0000",
       "metrics": {
-        "views": 181,
-        "likes": 6,
+        "views": 182,
+        "likes": 7,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 6
+      "engagement": 7
     },
     {
       "id": "18332055169284395",
@@ -210,36 +240,6 @@
       "timestamp": "2026-07-31T08:50:22+0000",
       "metrics": {
         "views": 111,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18613421203046584",
-      "text": "Raudhah itu antriannya bisa berjam-jam — dan waktu akhirnya masuk, aku nangis tanpa tau kenapa.\nPsikologi nyebutnya peak",
-      "permalink": "https://www.threads.com/@iams_ichi/post/Dbcu3-xCM89",
-      "timestamp": "2026-07-31T07:31:15+0000",
-      "metrics": {
-        "views": 9,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18089174216644632",
-      "text": "Sahur di Masjidil Haram: kurma + air zamzam gratis dari ember plastik.\nMalamnya entah kenapa malah makan di restoran hot",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DbcW10AFuLs",
-      "timestamp": "2026-07-31T04:01:11+0000",
-      "metrics": {
-        "views": 39,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
