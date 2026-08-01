@@ -1,15 +1,15 @@
 {
   "account": "rrpetch",
-  "updated_at": "2026-08-01T11:37:44.032Z",
+  "updated_at": "2026-08-01T14:02:04.308Z",
   "profile": {
     "username": "rrpetch",
     "name": "rrp",
     "biography": "Travelers",
-    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/725626839_18109259368780392_5435560104487373455_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=7A0kVnzMuLAQ7kNvwGOAkm8&_nc_oc=AdplfaaESCgxX8a_t6wxtothXXSwBiVujIm7xi0Vt1jN0175ZB6Wu7fCPM9vH5PQ50E&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=bE_EmNp48Txb1WpWvGUTjg&_nc_tpa=Q5bMBQGejw7S61GqVELkFEZEZlpfmJ-mfClahfpefOobHU0_lq4zp0PLZGwXCv2GFkzGCmj_UpGSQEbRCw&oh=00_AQFHYUcRckjgYFM1AqXFDlgZRxWyTLp5Tz0U9z1iTUvYrg&oe=6A73B86D"
+    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/725626839_18109259368780392_5435560104487373455_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=7A0kVnzMuLAQ7kNvwH3VnFr&_nc_oc=Adqy8Nr1XOWbI-RLwbB5tcpiHt2j905H6o2Pl9xYbSd9T9-0YlYofy_rxWiBTqdRTaE&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=6cCc2Bnt7OD3qR5GPhHLLA&_nc_tpa=Q5bMBQENTlNA3LLXd-yonYewt2gjLr4idDuL9dsBG-PtztT6g6GROrSz83aEROOb2GUzVE8S4oNiGGG43Q&oh=00_AQFSHxKXKwqjGJBu5mBfTMQ2PqzxxswUq7qM5UH-o5EG4Q&oe=6A73B86D"
   },
   "summary": {
     "followers_count": 2,
-    "views": 24,
+    "views": 31,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
@@ -22,12 +22,42 @@
   },
   "top_posts": [
     {
+      "id": "18108766804935792",
+      "text": "Bayangkan klien Anda punya AI travel companion ber-nama brand agen Anda sendiri — siap jawab soal rute kereta Jepang, ja",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbgAT5_G6Vn",
+      "timestamp": "2026-08-01T14:01:17+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "18110593997076108",
+      "text": "Agen Umroh di Bandung, 3 staff — satu musim keberangkatan, ratusan jamaah aktif.\nPertanyaan soal jadwal tawaf sunnah, ko",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbfylGsoF_5",
+      "timestamp": "2026-08-01T12:01:18+0000",
+      "metrics": {
+        "views": 3,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "18101477807220223",
       "text": "Jepang di musim gugur — daun momiji, pasar pagi, kuil yang sepi sebelum jam 8.\nTapi banyak traveler baru sadar: tanpa pe",
       "permalink": "https://www.threads.com/@rrpetch/post/Dbfk2ULoJZl",
       "timestamp": "2026-08-01T10:01:19+0000",
       "metrics": {
-        "views": 20,
+        "views": 23,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -65,46 +95,46 @@
         "shares": 0
       },
       "engagement": 0
-    },
-    {
-      "id": "18132124051625580",
-      "text": "Jamaah Haji sering tidak sadar: kelelahan di Arafah bukan hanya soal fisik — tapi soal tidak tahu apa yang akan terjadi ",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbfCfp4HIwr",
-      "timestamp": "2026-08-01T05:01:07+0000",
-      "metrics": {
-        "views": 2,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18190336186385017",
-      "text": "CS Anda tidak sedang sakit — tapi pertanyaan soal visa Schengen, jadwal kereta antarkota, sampai dress code katedral mas",
-      "permalink": "https://www.threads.com/@rrpetch/post/Dbe4L8XgPzf",
-      "timestamp": "2026-08-01T03:31:03+0000",
-      "metrics": {
-        "views": 5,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
     }
   ],
   "recent_posts": [
+    {
+      "id": "18108766804935792",
+      "text": "Bayangkan klien Anda punya AI travel companion ber-nama brand agen Anda sendiri — siap jawab soal rute kereta Jepang, ja",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbgAT5_G6Vn",
+      "timestamp": "2026-08-01T14:01:17+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "18110593997076108",
+      "text": "Agen Umroh di Bandung, 3 staff — satu musim keberangkatan, ratusan jamaah aktif.\nPertanyaan soal jadwal tawaf sunnah, ko",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbfylGsoF_5",
+      "timestamp": "2026-08-01T12:01:18+0000",
+      "metrics": {
+        "views": 3,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
     {
       "id": "18101477807220223",
       "text": "Jepang di musim gugur — daun momiji, pasar pagi, kuil yang sepi sebelum jam 8.\nTapi banyak traveler baru sadar: tanpa pe",
       "permalink": "https://www.threads.com/@rrpetch/post/Dbfk2ULoJZl",
       "timestamp": "2026-08-01T10:01:19+0000",
       "metrics": {
-        "views": 20,
+        "views": 23,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -209,37 +239,7 @@
       "permalink": "https://www.threads.com/@rrpetch/post/DbeZTPbk1vx",
       "timestamp": "2026-07-31T23:01:12+0000",
       "metrics": {
-        "views": 1,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "17953314225211003",
-      "text": "Satu fitur Tomodachi AI yang sering bikin agen Haji kagum:\njamaah bisa tanya soal kondisi fisik di Arafah, jadwal lempar",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbdbgsPFKEE",
-      "timestamp": "2026-07-31T14:01:14+0000",
-      "metrics": {
-        "views": 4,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 1
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18111422218976733",
-      "text": "Agen Eropa di Jakarta — 2 staff, musim panas, pertanyaan masuk tiap hari.\nSoal validasi tiket kereta Italia, jam buka mu",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbdNyXpG8kz",
-      "timestamp": "2026-07-31T12:01:20+0000",
-      "metrics": {
-        "views": 4,
+        "views": 2,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
