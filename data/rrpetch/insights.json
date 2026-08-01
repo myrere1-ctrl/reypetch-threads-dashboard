@@ -1,15 +1,15 @@
 {
   "account": "rrpetch",
-  "updated_at": "2026-08-01T03:56:48.360Z",
+  "updated_at": "2026-08-01T06:44:04.532Z",
   "profile": {
     "username": "rrpetch",
     "name": "rrp",
     "biography": "Travelers",
-    "picture": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/725626839_18109259368780392_5435560104487373455_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=7A0kVnzMuLAQ7kNvwFiV2C8&_nc_oc=AdqX9VwWwM83NKKhLlNcaqrpVtQ2YeOE3Yh5XZDGAWyDEaU02tjz8Jr1B4GFN-zOCvw&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=uBxxDBm312D8tbG2PfdGMA&_nc_tpa=Q5bMBQGqqI5L3Aw89vdr6lW1Ts71HBR9-7dnQ3hTOEgKWV2l6CIA37rqbM29HOI1xa6EO3Bb-cz6ybKy6g&oh=00_AQG_DTtfPVP_eeOhPUmE8rBYHeyjZvWCTbKEJgsgCi-Uyg&oe=6A7347ED"
+    "picture": "https://scontent-ord5-3.cdninstagram.com/v/t51.82787-19/725626839_18109259368780392_5435560104487373455_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMiJ9&_nc_ohc=7A0kVnzMuLAQ7kNvwFPLipt&_nc_oc=AdrL3aT39mKRcRtYUJM01COe0UjysIamFcS6XK5rruRbu7z3ESUkzSfMiWvIt5A_dm8&_nc_zt=24&_nc_ht=scontent-ord5-3.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=yv44W5UhVRtGhNn4c2vZbA&_nc_tpa=Q5bMBQFD9H4w0bSdrIF5EkRNeumlOZR9rkmWt0UHgXeG_avVVSch_4zqOezCTK4teMaG_ron0ryrpHvauQ&oh=00_AQFyrNcrBDtCvmAeQDLXNTL83q3Imlz3ssuw4EaAOXF-_Q&oe=6A73802D"
   },
   "summary": {
     "followers_count": 2,
-    "views": 67,
+    "views": 73,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
@@ -22,12 +22,42 @@
   },
   "top_posts": [
     {
+      "id": "18096580541524776",
+      "text": "Klien tanya jam buka Louvre, area halal di Paris, sampai rute RER dari CDG — jam 10 malam.\nBukan staff yang jawab. Tapi ",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbfMyqZlgR5",
+      "timestamp": "2026-08-01T06:31:06+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "18132124051625580",
+      "text": "Jamaah Haji sering tidak sadar: kelelahan di Arafah bukan hanya soal fisik — tapi soal tidak tahu apa yang akan terjadi ",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbfCfp4HIwr",
+      "timestamp": "2026-08-01T05:01:07+0000",
+      "metrics": {
+        "views": 2,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "18190336186385017",
       "text": "CS Anda tidak sedang sakit — tapi pertanyaan soal visa Schengen, jadwal kereta antarkota, sampai dress code katedral mas",
       "permalink": "https://www.threads.com/@rrpetch/post/Dbe4L8XgPzf",
       "timestamp": "2026-08-01T03:31:03+0000",
       "metrics": {
-        "views": 1,
+        "views": 4,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -65,14 +95,16 @@
         "shares": 0
       },
       "engagement": 0
-    },
+    }
+  ],
+  "recent_posts": [
     {
-      "id": "18083596859682851",
-      "text": "Masih banyak yang percaya: Haji itu urusan ibadah, bukan urusan informasi.\nPadahal jamaah yang panik soal jadwal Armuzna",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbeZTPbk1vx",
-      "timestamp": "2026-07-31T23:01:12+0000",
+      "id": "18096580541524776",
+      "text": "Klien tanya jam buka Louvre, area halal di Paris, sampai rute RER dari CDG — jam 10 malam.\nBukan staff yang jawab. Tapi ",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbfMyqZlgR5",
+      "timestamp": "2026-08-01T06:31:06+0000",
       "metrics": {
-        "views": 1,
+        "views": 0,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -82,29 +114,27 @@
       "engagement": 0
     },
     {
-      "id": "17953314225211003",
-      "text": "Satu fitur Tomodachi AI yang sering bikin agen Haji kagum:\njamaah bisa tanya soal kondisi fisik di Arafah, jadwal lempar",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbdbgsPFKEE",
-      "timestamp": "2026-07-31T14:01:14+0000",
+      "id": "18132124051625580",
+      "text": "Jamaah Haji sering tidak sadar: kelelahan di Arafah bukan hanya soal fisik — tapi soal tidak tahu apa yang akan terjadi ",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbfCfp4HIwr",
+      "timestamp": "2026-08-01T05:01:07+0000",
       "metrics": {
-        "views": 4,
+        "views": 2,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
-        "shares": 1
+        "shares": 0
       },
       "engagement": 0
-    }
-  ],
-  "recent_posts": [
+    },
     {
       "id": "18190336186385017",
       "text": "CS Anda tidak sedang sakit — tapi pertanyaan soal visa Schengen, jadwal kereta antarkota, sampai dress code katedral mas",
       "permalink": "https://www.threads.com/@rrpetch/post/Dbe4L8XgPzf",
       "timestamp": "2026-08-01T03:31:03+0000",
       "metrics": {
-        "views": 1,
+        "views": 4,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -210,36 +240,6 @@
       "timestamp": "2026-07-31T08:01:10+0000",
       "metrics": {
         "views": 4,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18048161888798730",
-      "text": "Sakura musim semi di Jepang — indah, tapi macet.\nBanyak traveler tidak tahu: spot terbaik bukan selalu yang paling viral",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbcoAjmGzcQ",
-      "timestamp": "2026-07-31T06:31:12+0000",
-      "metrics": {
-        "views": 78,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18121995070872489",
-      "text": "Mitos yang masih beredar: paket Umroh murah berarti pengalaman jamaah yang buruk.\nFaktanya, kualitas bukan selalu soal h",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbcdtH3lbwc",
-      "timestamp": "2026-07-31T05:01:10+0000",
-      "metrics": {
-        "views": 1,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
