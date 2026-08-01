@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-08-01T03:57:22.719Z",
+  "updated_at": "2026-08-01T06:44:30.328Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=K-GGhCFRfXMQ7kNvwHfS7Mn&_nc_oc=Adr3iHf0UZh6cf6951E41E-87JiYFte2WrXMuZOP-nGuXTrPkUbpxTBc97S_iv08dC4&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=TMDE3p3XIisLPDC3XYmC5A&_nc_tpa=Q5bMBQEBYTYU_nTY7R1quMvVY1eEOJl13diZpw6Gb4xOFiv7ZiGITXR5dlMFbTy_w1lkAWUhLEPbF8pfoA&oh=00_AQHRJAVwqH0GoeAEr5cknO08RYcc_2F1DuZ_ZBsiAZe-zQ&oe=6A734C93"
+    "picture": "https://scontent-lhr11-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=K-GGhCFRfXMQ7kNvwFhDDZC&_nc_oc=AdqcUwkEJ8-FiQ8UebZkOoNBjVppknGsoHkxF3Kw9t2p4uw_pZx_xH8xIc8QzdjgAEk&_nc_zt=24&_nc_ht=scontent-lhr11-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=xx2qOcmFLHmpDyN2Wurwsg&_nc_tpa=Q5bMBQGFWrtmRJaIbQfloVPjxzyyj7ZOMlUNnKFvsvM3pEie7giNF9c81ZLWtiPO_SCj6lt4CjVl8VgWIg&oh=00_AQF2zz978AJFOf0VUOjih0OeCHgGB_VOk_-J9vtIUGlHTQ&oe=6A734C93"
   },
   "summary": {
     "followers_count": 0,
-    "views": 414,
+    "views": 436,
     "likes": 2,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 16,
-    "engagement_rate": 3.86,
+    "engagement_rate": 3.67,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -97,12 +97,27 @@
   ],
   "recent_posts": [
     {
+      "id": "17997168063003968",
+      "text": "Dzikir pagi itu aku mulai rutin bukan karena langsung rajin — tapi karena capek banget mulai hari tanpa \"ngobrol\" dulu s",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbfF9VdoBm-",
+      "timestamp": "2026-08-01T05:31:25+0000",
+      "metrics": {
+        "views": 20,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "18127240444661049",
       "text": "Lagi di titik ngerasa banyak banget salah — tapi malah beku, ga tau harus ngapain?\nAku pernah di sana. Yang akhirnya aku",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dbet7PNjtXI",
       "timestamp": "2026-08-01T02:01:23+0000",
       "metrics": {
-        "views": 14,
+        "views": 16,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -230,21 +245,6 @@
         "shares": 0
       },
       "engagement": 0
-    },
-    {
-      "id": "18035058794825349",
-      "text": "Al-Waqiah itu aku mulai baca rutin menjelang tidur — bukan karena ngerti semua maknanya, tapi karena rasanya kayak \"pami",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbbuNj5Fvjn",
-      "timestamp": "2026-07-30T22:06:10+0000",
-      "metrics": {
-        "views": 250,
-        "likes": 2,
-        "replies": 2,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 4
     }
   ]
 }
