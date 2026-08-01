@@ -1,15 +1,15 @@
 {
   "account": "rrpetch",
-  "updated_at": "2026-08-01T06:44:04.532Z",
+  "updated_at": "2026-08-01T09:27:19.756Z",
   "profile": {
     "username": "rrpetch",
     "name": "rrp",
     "biography": "Travelers",
-    "picture": "https://scontent-ord5-3.cdninstagram.com/v/t51.82787-19/725626839_18109259368780392_5435560104487373455_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMiJ9&_nc_ohc=7A0kVnzMuLAQ7kNvwFPLipt&_nc_oc=AdrL3aT39mKRcRtYUJM01COe0UjysIamFcS6XK5rruRbu7z3ESUkzSfMiWvIt5A_dm8&_nc_zt=24&_nc_ht=scontent-ord5-3.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=yv44W5UhVRtGhNn4c2vZbA&_nc_tpa=Q5bMBQFD9H4w0bSdrIF5EkRNeumlOZR9rkmWt0UHgXeG_avVVSch_4zqOezCTK4teMaG_ron0ryrpHvauQ&oh=00_AQFyrNcrBDtCvmAeQDLXNTL83q3Imlz3ssuw4EaAOXF-_Q&oe=6A73802D"
+    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/725626839_18109259368780392_5435560104487373455_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=7A0kVnzMuLAQ7kNvwEaSMjQ&_nc_oc=AdrouLRY_rmqcjPqo_6rmm4hJq4oIBoRwE_oDHOujvWQ7Wv3dLiEjQT6ZRPEh-NBd9w&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=SDEah6pvjb0dAI8CGrrzfA&_nc_tpa=Q5bMBQEqYg26vQq_azQUrwm1S-_TOCtJg9DLWNPaby03vdODlOYRwpmpR_w-LDnhd6LQtJUqCkY033cYVg&oh=00_AQHAJPikiTgdFcxZNiWpsqTlBqmopO8RTXD-kO6Oevvd6g&oe=6A73802D"
   },
   "summary": {
     "followers_count": 2,
-    "views": 73,
+    "views": 2,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
@@ -22,12 +22,27 @@
   },
   "top_posts": [
     {
+      "id": "18079923026693972",
+      "text": "Spanyol itu indah — tapi banyak traveler pulang dengan satu penyesalan: tidak tahu kapan Alhambra tutup, atau jalur trem",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbfXG7Gm4nq",
+      "timestamp": "2026-08-01T08:01:15+0000",
+      "metrics": {
+        "views": 1,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "18096580541524776",
       "text": "Klien tanya jam buka Louvre, area halal di Paris, sampai rute RER dari CDG — jam 10 malam.\nBukan staff yang jawab. Tapi ",
       "permalink": "https://www.threads.com/@rrpetch/post/DbfMyqZlgR5",
       "timestamp": "2026-08-01T06:31:06+0000",
       "metrics": {
-        "views": 0,
+        "views": 2,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -57,7 +72,7 @@
       "permalink": "https://www.threads.com/@rrpetch/post/Dbe4L8XgPzf",
       "timestamp": "2026-08-01T03:31:03+0000",
       "metrics": {
-        "views": 4,
+        "views": 5,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -80,12 +95,14 @@
         "shares": 0
       },
       "engagement": 0
-    },
+    }
+  ],
+  "recent_posts": [
     {
-      "id": "18017752019910558",
-      "text": "Agen Italia di Surabaya, 2 staff, musim panas — pertanyaan soal validasi tiket Trenitalia, jam buka Uffizi, sampai dress",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbejmNwmOQZ",
-      "timestamp": "2026-08-01T00:31:09+0000",
+      "id": "18079923026693972",
+      "text": "Spanyol itu indah — tapi banyak traveler pulang dengan satu penyesalan: tidak tahu kapan Alhambra tutup, atau jalur trem",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbfXG7Gm4nq",
+      "timestamp": "2026-08-01T08:01:15+0000",
       "metrics": {
         "views": 1,
         "likes": 0,
@@ -95,16 +112,14 @@
         "shares": 0
       },
       "engagement": 0
-    }
-  ],
-  "recent_posts": [
+    },
     {
       "id": "18096580541524776",
       "text": "Klien tanya jam buka Louvre, area halal di Paris, sampai rute RER dari CDG — jam 10 malam.\nBukan staff yang jawab. Tapi ",
       "permalink": "https://www.threads.com/@rrpetch/post/DbfMyqZlgR5",
       "timestamp": "2026-08-01T06:31:06+0000",
       "metrics": {
-        "views": 0,
+        "views": 2,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -134,7 +149,7 @@
       "permalink": "https://www.threads.com/@rrpetch/post/Dbe4L8XgPzf",
       "timestamp": "2026-08-01T03:31:03+0000",
       "metrics": {
-        "views": 4,
+        "views": 5,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -209,7 +224,7 @@
       "permalink": "https://www.threads.com/@rrpetch/post/DbdNyXpG8kz",
       "timestamp": "2026-07-31T12:01:20+0000",
       "metrics": {
-        "views": 1,
+        "views": 2,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -225,21 +240,6 @@
       "timestamp": "2026-07-31T10:01:15+0000",
       "metrics": {
         "views": 2,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "17898871251520305",
-      "text": "Bayangkan klien Anda baru landing di Roma — bingung soal validasi tiket Metro, jam buka Vatikan, atau restoran halal dek",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbcyTb4oLsy",
-      "timestamp": "2026-07-31T08:01:10+0000",
-      "metrics": {
-        "views": 4,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
