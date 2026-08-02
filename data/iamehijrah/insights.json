@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-08-02T07:04:43.496Z",
+  "updated_at": "2026-08-02T09:26:28.030Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=KZbTTrpR23MQ7kNvwFgmX75&_nc_oc=Adr7rszHBcPr-k-GyawBYDA0mW6ci8gGH3DRrLjKTBrHdqj_t8eA2tIWQgYovML_tTk&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=-cETJlZgCdZq3T8xj2ndkA&_nc_tpa=Q5bMBQG-14DEhsyLViPWOtDJ03z9MHgZpEpgE2bZ2GWHDmnZWW-tiP5H8rAGR_c6yuOELovJgIhZbrIF0Q&oh=00_AQEvIIlf4FirAvFqDx3CT6scgQYbj6RdbSN4kDz8WfJRzQ&oe=6A74D653"
+    "picture": "https://scontent-lhr11-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=KZbTTrpR23MQ7kNvwGkNj2d&_nc_oc=AdoCPYbdkThlnwSmTcm_8cGIuJlGRNb2wU7W9n9W9BawRSToPSbdpuBNc1UVCnYPA5E&_nc_zt=24&_nc_ht=scontent-lhr11-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=WQXKBNrnjxpkLUgef86uhg&_nc_tpa=Q5bMBQGTU_uTXbfOfdlJSOgUCdy2dRx4NAJIJfznOvKQMljlqgRk44ebHt_YG8WEGolWPhDJl7RtovbX6Q&oh=00_AQHrD4yaHvsl-6o1r0mRZsZR1nyUOjPQ4G6R2RZnGt1iAA&oe=6A74D653"
   },
   "summary": {
     "followers_count": 0,
-    "views": 0,
+    "views": 60,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 21,
-    "engagement_rate": 0,
+    "engagement_rate": 35,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -25,7 +25,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbgDv-VFPBz",
       "timestamp": "2026-08-01T14:31:20+0000",
       "metrics": {
-        "views": 166,
+        "views": 167,
         "likes": 4,
         "replies": 0,
         "reposts": 0,
@@ -70,7 +70,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbhSuImDaCY",
       "timestamp": "2026-08-02T02:01:24+0000",
       "metrics": {
-        "views": 169,
+        "views": 171,
         "likes": 3,
         "replies": 0,
         "reposts": 0,
@@ -85,7 +85,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbgRgd0mi_u",
       "timestamp": "2026-08-01T16:31:34+0000",
       "metrics": {
-        "views": 104,
+        "views": 106,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -97,12 +97,27 @@
   ],
   "recent_posts": [
     {
+      "id": "17903092854496862",
+      "text": "Malam ini aku tanya ke diri sendiri — udah sabar beneran, apa cuma nahan sambil dalam hati ngomel?\nSoalnya aku baru sada",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbiCykglo2K",
+      "timestamp": "2026-08-02T09:01:27+0000",
+      "metrics": {
+        "views": 6,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "17977748919076428",
       "text": "La hawla wala quwwata illa billah — aku baru beneran ngerasain beratnya kalimat itu waktu lagi di titik paling ngerasa g",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dbhqv-2G-CX",
       "timestamp": "2026-08-02T05:31:22+0000",
       "metrics": {
-        "views": 66,
+        "views": 147,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -117,7 +132,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbhSuImDaCY",
       "timestamp": "2026-08-02T02:01:24+0000",
       "metrics": {
-        "views": 169,
+        "views": 171,
         "likes": 3,
         "replies": 0,
         "reposts": 0,
@@ -147,7 +162,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbgRgd0mi_u",
       "timestamp": "2026-08-01T16:31:34+0000",
       "metrics": {
-        "views": 104,
+        "views": 106,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -162,7 +177,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbgDv-VFPBz",
       "timestamp": "2026-08-01T14:31:20+0000",
       "metrics": {
-        "views": 166,
+        "views": 167,
         "likes": 4,
         "replies": 0,
         "reposts": 0,
@@ -223,21 +238,6 @@
       "timestamp": "2026-08-01T05:31:25+0000",
       "metrics": {
         "views": 24,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18127240444661049",
-      "text": "Lagi di titik ngerasa banyak banget salah — tapi malah beku, ga tau harus ngapain?\nAku pernah di sana. Yang akhirnya aku",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dbet7PNjtXI",
-      "timestamp": "2026-08-01T02:01:23+0000",
-      "metrics": {
-        "views": 17,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
