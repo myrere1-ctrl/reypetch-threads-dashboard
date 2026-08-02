@@ -1,13 +1,13 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-08-02T21:14:09.150Z",
+  "updated_at": "2026-08-02T22:14:40.419Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=KZbTTrpR23MQ7kNvwEiDVtN&_nc_oc=AdqjNgYIO1u0Dcdpu7ZCwHEK3bFO879-m4q_6kpXaqZDUcbH3zDViA-G1X-C_lQMw1g&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=JMb9R50YUNmRXdUq78GWpQ&_nc_tpa=Q5bMBQFL2AMA9MK77CprV7pLIvFpf2YR_GOJ3yHfoevtauhIqoG7Jp-9CSNZ1iwk4b56IebHbuzlkfQNIg&oh=00_AQGLCMbl0KSxfE-mGJxyt0xBnb3NuqMkjqUDBK4qZ7ItYg&oe=6A757F13"
+    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=KZbTTrpR23MQ7kNvwH5f_9k&_nc_oc=AdoASf08fxrlU0wRAnXH7Wvab9rJtlgEtCEypGo7TjBMO3Rl6wiOyN1qL2YlQmP1Qio&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=FDzv6J9orMs8ttnXi2cEwA&_nc_tpa=Q5bMBQF69bCCdKpu3wqmMIpRmg22epbT85jxyKOel24bq7pUzT8p97DmQi8P06W0keo5Je20dFWkzK-JJw&oh=00_AQHwXPsVvzk8O3yJB2ZQm9NdpJhyfDgVpr239lgnGek12g&oe=6A757F13"
   },
   "summary": {
     "followers_count": 0,
-    "views": 584,
+    "views": 585,
     "likes": 10,
     "replies": 0,
     "reposts": 1,
@@ -97,6 +97,21 @@
   ],
   "recent_posts": [
     {
+      "id": "17972638880917581",
+      "text": "Hari ini ga ada yang dramatis. Tapi bangun pagi, masih dikasih napas, masih bisa sujud — itu udah sesuatu banget.\nTerus ",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbjcDeoIOCT",
+      "timestamp": "2026-08-02T22:01:26+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "17921991159181574",
       "text": "Lagi overthinking parah, aku inget — masih bisa napas, masih bisa sujud, masih ada yang dengerin doaku.\nTerus aku baca d",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dbi2R0_m_N7",
@@ -177,7 +192,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dbhqv-2G-CX",
       "timestamp": "2026-08-02T05:31:22+0000",
       "metrics": {
-        "views": 185,
+        "views": 186,
         "likes": 2,
         "replies": 0,
         "reposts": 0,
@@ -230,21 +245,6 @@
         "shares": 0
       },
       "engagement": 1
-    },
-    {
-      "id": "18067443839548947",
-      "text": "Unpopular opinion: sholat Dhuha itu bukan soal \"nambah rezeki\" — tapi tiap kali aku ngelakuinnya, yang pertama kerasa it",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbgDv-VFPBz",
-      "timestamp": "2026-08-01T14:31:20+0000",
-      "metrics": {
-        "views": 168,
-        "likes": 4,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 4
     }
   ]
 }
