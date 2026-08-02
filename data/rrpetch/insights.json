@@ -1,11 +1,11 @@
 {
   "account": "rrpetch",
-  "updated_at": "2026-08-02T22:14:08.872Z",
+  "updated_at": "2026-08-02T23:17:15.855Z",
   "profile": {
     "username": "rrpetch",
     "name": "rrp",
     "biography": "Travelers",
-    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/725626839_18109259368780392_5435560104487373455_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=7A0kVnzMuLAQ7kNvwFg0y1m&_nc_oc=AdrwMMjCY3noYt0zCT25AO8nHVGivdEkIxlVK6PNsoxfm9Cdv0SYJ3GNy4_rW4gS5wE&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=LPxie_ge_3ZPrbiT3QqEtA&_nc_tpa=Q5bMBQFmMeK0ZN-HOEW_Mq3ubesl5pOF3ipHc724-q1Zk5zGAxqdNIIGfDQcY6hnxDP21Ah1eB1PY7aWrQ&oh=00_AQHq05bIin6-l29A2bbpbTAIkDVchRqMGHddMhWmA4FJ7Q&oe=6A757A6D"
+    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/725626839_18109259368780392_5435560104487373455_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=7A0kVnzMuLAQ7kNvwEPUgDC&_nc_oc=Adrgzs_12LnH4Ep3_elW-wmz6iThoezfKBmezWYx7A24Z3xqOv_nASeKxv8tSrjjhn0&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=fpilkM6x8wqfSyzLZ6N7YA&_nc_tpa=Q5bMBQGDMob3Xo31TvRq0AABtFVZxaslaXZTw5eh4ahadhUh_K3c5nKJm-X3IdFk7IViu3h3wi6AJoIaSg&oh=00_AQF2jTeJUn5IIk4iHHx0Ecdqj0LUr9KlntrbqbJCVZDCqQ&oe=6A75B2AD"
   },
   "summary": {
     "followers_count": 2,
@@ -21,6 +21,21 @@
     "post_count": 25
   },
   "top_posts": [
+    {
+      "id": "18102781535598825",
+      "text": "Agen travel Prancis — klien tanya soal antrian Eiffel, jadwal RER, dress code museum, sampai tips arrondissement mana ya",
+      "permalink": "https://www.threads.com/@rrpetch/post/Dbji5CIAYNO",
+      "timestamp": "2026-08-02T23:01:10+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
     {
       "id": "17857041873696250",
       "text": "Paris itu indah — tapi juga salah satu kota yang paling mudah bikin traveler kewalahan.\nAntrian Louvre yang tidak terdug",
@@ -80,14 +95,16 @@
         "shares": 0
       },
       "engagement": 0
-    },
+    }
+  ],
+  "recent_posts": [
     {
-      "id": "18112620331751535",
-      "text": "80% pertanyaan traveler Italia sebenarnya bisa dijawab sebelum mereka berangkat.\nSoal dress code basilika, jam buka muse",
-      "permalink": "https://www.threads.com/@rrpetch/post/Dbhxl8oFfme",
-      "timestamp": "2026-08-02T06:31:10+0000",
+      "id": "18102781535598825",
+      "text": "Agen travel Prancis — klien tanya soal antrian Eiffel, jadwal RER, dress code museum, sampai tips arrondissement mana ya",
+      "permalink": "https://www.threads.com/@rrpetch/post/Dbji5CIAYNO",
+      "timestamp": "2026-08-02T23:01:10+0000",
       "metrics": {
-        "views": 1,
+        "views": 0,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -95,9 +112,7 @@
         "shares": 0
       },
       "engagement": 0
-    }
-  ],
-  "recent_posts": [
+    },
     {
       "id": "17857041873696250",
       "text": "Paris itu indah — tapi juga salah satu kota yang paling mudah bikin traveler kewalahan.\nAntrian Louvre yang tidak terdug",
@@ -225,21 +240,6 @@
       "timestamp": "2026-08-02T00:31:04+0000",
       "metrics": {
         "views": 4,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18184338835405214",
-      "text": "Klien tanya: \"Shinkansen dari Tokyo ke Kyoto — beli tiket di mana, perlu reservasi kursi?\" Jam 9 malam.\nPertanyaan seder",
-      "permalink": "https://www.threads.com/@rrpetch/post/Dbg-GwvFG0X",
-      "timestamp": "2026-08-01T23:01:15+0000",
-      "metrics": {
-        "views": 2,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
