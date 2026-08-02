@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-08-02T00:17:39.004Z",
+  "updated_at": "2026-08-02T04:04:35.000Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=KZbTTrpR23MQ7kNvwGUv9BF&_nc_oc=AdrNxWS_ouZVoQuA5zUnZXH8yHdYTHE3pdpiYLpZCuP1BLziWusdX8Otxpql5fI2xSA&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=SHrzmAX0x-uU4Ff1gwCJGg&_nc_tpa=Q5bMBQEBaIPhV5fcCVfOUDW0Ac_cFvgiNrbK51QEsXa-beGpSHEQksYYvrpofDK25G0nA1O2uPHbRBKhdQ&oh=00_AQFWI3ouymG_yY68qAaMg_cBhW-5kotx7vlqxDS07pAJZQ&oe=6A7465D3"
+    "picture": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=KZbTTrpR23MQ7kNvwEfPXy8&_nc_oc=AdqCRrDGXMondtUrwBe_-69lIosLUOCax38Fmofh2L3oEQ1_lkygshZLH72gZoBnd5Y&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=E7gE2OOWf1pHiY_Ea0R_TA&_nc_tpa=Q5bMBQHXKSromJW_-ChQvlRlDcFMFpL6nqUJCCQi7oTVNtxCveBNMX7feystJUqzhmde1klm1JP3mhhtPg&oh=00_AQGksTlYxIEED5wyJR1GEHCprH9Eyo1daCfb2t6fwtfSGQ&oe=6A749E13"
   },
   "summary": {
     "followers_count": 0,
-    "views": 500,
-    "likes": 6,
+    "views": 655,
+    "likes": 9,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 18,
-    "engagement_rate": 3.6,
+    "engagement_total": 21,
+    "engagement_rate": 3.21,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -65,6 +65,21 @@
       "engagement": 4
     },
     {
+      "id": "18137168296529419",
+      "text": "Unpopular opinion: sholawat itu bukan cuma \"biar tenang\" — tapi aku ngerasa, makin sering aku baca, makin aku ngerasa *d",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbhSuImDaCY",
+      "timestamp": "2026-08-02T02:01:24+0000",
+      "metrics": {
+        "views": 153,
+        "likes": 3,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 3
+    },
+    {
       "id": "18100039097235143",
       "text": "Hari ini ngerasa jauh banget dari Allah — sholat ada, tapi hati kosong.\nTapi terus bangun, terus sujud, terus dikasih ha",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbgRgd0mi_u",
@@ -78,31 +93,31 @@
         "shares": 0
       },
       "engagement": 1
-    },
+    }
+  ],
+  "recent_posts": [
     {
-      "id": "18143659339550336",
-      "text": "Dulu aku mikir husnudzon sama Allah itu gampang — tinggal bilang \"yakin Allah kasih yang terbaik\", selesai.\nTernyata sus",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dbf5dNkHIcI",
-      "timestamp": "2026-08-01T13:01:23+0000",
+      "id": "18137168296529419",
+      "text": "Unpopular opinion: sholawat itu bukan cuma \"biar tenang\" — tapi aku ngerasa, makin sering aku baca, makin aku ngerasa *d",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbhSuImDaCY",
+      "timestamp": "2026-08-02T02:01:24+0000",
       "metrics": {
-        "views": 121,
-        "likes": 1,
+        "views": 153,
+        "likes": 3,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 1
-    }
-  ],
-  "recent_posts": [
+      "engagement": 3
+    },
     {
       "id": "18101146198946554",
       "text": "Malam ini aku nanya ke diri sendiri — udah berapa kali baca Ayat Kursi hari ini, tapi beneran *hadir* pas bacanya?\nSerin",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dbg3VglCc1L",
       "timestamp": "2026-08-01T22:02:06+0000",
       "metrics": {
-        "views": 39,
+        "views": 40,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -147,7 +162,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dbf5dNkHIcI",
       "timestamp": "2026-08-01T13:01:23+0000",
       "metrics": {
-        "views": 121,
+        "views": 122,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -223,21 +238,6 @@
       "timestamp": "2026-07-31T22:01:43+0000",
       "metrics": {
         "views": 135,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18169594879446934",
-      "text": "Sholat 5 waktu itu aku akui — pernah ada fase aku kerjain cuma biar \"aman\", bukan beneran hadir.\nSampai aku bayangin: ka",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dbdsr66G5pm",
-      "timestamp": "2026-07-31T16:31:20+0000",
-      "metrics": {
-        "views": 33,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
