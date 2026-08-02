@@ -1,15 +1,15 @@
 {
   "account": "rrpetch",
-  "updated_at": "2026-08-02T07:04:16.444Z",
+  "updated_at": "2026-08-02T09:26:03.230Z",
   "profile": {
     "username": "rrpetch",
     "name": "rrp",
     "biography": "Travelers",
-    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/725626839_18109259368780392_5435560104487373455_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=7A0kVnzMuLAQ7kNvwEZYX-i&_nc_oc=Adq65cD_k5q34fF8HTphZSM2GsuKZJvpyFGfTnF-B9EKG11I4-b8NtNSv0qQ2Jqezro&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=bqRQ7cZa5jbwR7fmPzYqkg&_nc_tpa=Q5bMBQFxcnVtbj9nBjzX4-A1J1ueGHaB1OVDcqMD9ctcPWZkHTAHIYe_4x5NEGsTM00QSlq-Zk0JNjY1pA&oh=00_AQG85RCt7vh7aZzLmGrGGk0St_yGV52NvOjm8qv8eAUnjw&oe=6A74D1AD"
+    "picture": "https://scontent-lhr11-1.cdninstagram.com/v/t51.82787-19/725626839_18109259368780392_5435560104487373455_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=7A0kVnzMuLAQ7kNvwEEjDNZ&_nc_oc=AdpU65J-QIMGVA8ooeiTckCGentfIpXJNVj4oJZs2WjFvnFXe-xU_yr0tSpwi7nC-qg&_nc_zt=24&_nc_ht=scontent-lhr11-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=NJhoKoa61NTxRZ_DMo9JLw&_nc_tpa=Q5bMBQGfOBq-Rvc-d2eD_YeJHfAeo8rcW6lV0snkZC6BvMzAYVvsITUkLleEKHRRPtiuA4n5mzuZzvntVg&oh=00_AQH57MYNn51tP4pBpxpK6en1TABsDDRV_goo0wlINQscpg&oe=6A74D1AD"
   },
   "summary": {
     "followers_count": 2,
-    "views": 0,
+    "views": 3,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
@@ -21,6 +21,21 @@
     "post_count": 25
   },
   "top_posts": [
+    {
+      "id": "18119876311851694",
+      "text": "Banyak jamaah Umroh baru sadar satu hal setelah pulang:\nmereka habiskan terlalu banyak waktu di Mekkah untuk bertanya — ",
+      "permalink": "https://www.threads.com/@rrpetch/post/Dbh76jGmy9m",
+      "timestamp": "2026-08-02T08:01:22+0000",
+      "metrics": {
+        "views": 1,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
     {
       "id": "18112620331751535",
       "text": "80% pertanyaan traveler Italia sebenarnya bisa dijawab sebelum mereka berangkat.\nSoal dress code basilika, jam buka muse",
@@ -80,14 +95,16 @@
         "shares": 0
       },
       "engagement": 0
-    },
+    }
+  ],
+  "recent_posts": [
     {
-      "id": "18139300798577459",
-      "text": "Mitos yang masih beredar: traveler ke Spanyol harus hafal semua jadwal sendiri, atau bergantung penuh ke agen.\nPadahal b",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbhIYldoOSL",
-      "timestamp": "2026-08-02T00:31:04+0000",
+      "id": "18119876311851694",
+      "text": "Banyak jamaah Umroh baru sadar satu hal setelah pulang:\nmereka habiskan terlalu banyak waktu di Mekkah untuk bertanya — ",
+      "permalink": "https://www.threads.com/@rrpetch/post/Dbh76jGmy9m",
+      "timestamp": "2026-08-02T08:01:22+0000",
       "metrics": {
-        "views": 3,
+        "views": 1,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -95,9 +112,7 @@
         "shares": 0
       },
       "engagement": 0
-    }
-  ],
-  "recent_posts": [
+    },
     {
       "id": "18112620331751535",
       "text": "80% pertanyaan traveler Italia sebenarnya bisa dijawab sebelum mereka berangkat.\nSoal dress code basilika, jam buka muse",
@@ -224,22 +239,7 @@
       "permalink": "https://www.threads.com/@rrpetch/post/Dbfk2ULoJZl",
       "timestamp": "2026-08-01T10:01:19+0000",
       "metrics": {
-        "views": 24,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18079923026693972",
-      "text": "Spanyol itu indah — tapi banyak traveler pulang dengan satu penyesalan: tidak tahu kapan Alhambra tutup, atau jalur trem",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbfXG7Gm4nq",
-      "timestamp": "2026-08-01T08:01:15+0000",
-      "metrics": {
-        "views": 1,
+        "views": 25,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
