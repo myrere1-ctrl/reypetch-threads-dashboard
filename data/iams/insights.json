@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-08-02T11:37:57.139Z",
+  "updated_at": "2026-08-02T14:02:38.768Z",
   "profile": {
     "username": "iams_ichi",
     "name": "iams",
     "biography": "🧠Psi + Traveling \nSolo Traveler Bunglon\nFine dining 👌 & Street food lokal 🫰\nHidden gems Insider for 🇯🇵🇦🇺🇫🇷🇪🇸🇮🇹 + Umrah.\n✉️ cmo@coa.au",
-    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzIifQ%3D%3D&_nc_ohc=vdEXqu9CONkQ7kNvwGfno0O&_nc_oc=AdrfLiE5JNpz5zf00KhXLstv1sxr68MHsDLTtylLjEpxwCUzNK47Yx0Zv2TqkNOT1bI&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=DCdZbRRE3cicuz_SiIUw2Q&_nc_tpa=Q5bMBQFYpqCiOWeDdtEHP9-XkrBAW3PNlAWtzfmwYsnc-2Mi3lqh_ODsUCsMH1OFd5wxolC8xtbsLxG4Kg&oh=00_AQFkebcSwr6Hlz3TTFIIJXfmP7ZXijDEQyxfqbbA07hHaA&oe=6A74E4DE"
+    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=vdEXqu9CONkQ7kNvwEovSuJ&_nc_oc=Adq7iWddd-M2ejrr0xrQfVUFG18T_wWMQM49X32X_ZtsgsPppWhRuCiQEOi1GUiwyBE&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=vE31bQrgvpQOd-ws9clXtQ&_nc_tpa=Q5bMBQHIQBKImp71JeO0BqBoxD0joO3SMqojInfY1ueuJrcdU_TRaVUlC3F75HkyvJw_hQcQfP4CMUhkdQ&oh=00_AQGkJb6Nxnj6sdBKmfu7MFkoI43eqtVTpoR8OCHCJAg3IA&oe=6A751D1E"
   },
   "summary": {
     "followers_count": 1355,
-    "views": 304,
+    "views": 440,
     "likes": 5,
     "replies": 1,
-    "reposts": 0,
+    "reposts": 1,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 106,
-    "engagement_rate": 34.87,
+    "engagement_rate": 24.09,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -27,7 +27,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DbfOYx1AQwp",
       "timestamp": "2026-08-01T06:44:31+0000",
       "metrics": {
-        "views": 3724,
+        "views": 3728,
         "likes": 45,
         "replies": 9,
         "reposts": 2,
@@ -42,7 +42,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DbgATBukfzs",
       "timestamp": "2026-08-01T14:01:10+0000",
       "metrics": {
-        "views": 207,
+        "views": 208,
         "likes": 10,
         "replies": 0,
         "reposts": 2,
@@ -57,7 +57,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DbdbhWaoAcV",
       "timestamp": "2026-07-31T14:01:19+0000",
       "metrics": {
-        "views": 190,
+        "views": 191,
         "likes": 7,
         "replies": 0,
         "reposts": 0,
@@ -65,6 +65,21 @@
         "shares": 0
       },
       "engagement": 7
+    },
+    {
+      "id": "18118441222917842",
+      "text": "Unpopular opinion: Madinah itu bukan soal seberapa banyak tempat yang lo datengin — tapi seberapa lama lo betah diam di ",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DbiQgNmlWbX",
+      "timestamp": "2026-08-02T11:01:15+0000",
+      "metrics": {
+        "views": 229,
+        "likes": 4,
+        "replies": 1,
+        "reposts": 1,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 6
     },
     {
       "id": "18403258294080668",
@@ -80,6 +95,23 @@
         "shares": 0
       },
       "engagement": 6
+    }
+  ],
+  "recent_posts": [
+    {
+      "id": "18059351561782828",
+      "text": "Katanya tawaf itu chaos — jutaan orang, dorong-dorongan, pasti panik.\nTernyata justru di tengah kerumunan itu aku nemu r",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DbilGbClT5Q",
+      "timestamp": "2026-08-02T14:01:14+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
     },
     {
       "id": "18118441222917842",
@@ -87,31 +119,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DbiQgNmlWbX",
       "timestamp": "2026-08-02T11:01:15+0000",
       "metrics": {
-        "views": 119,
+        "views": 229,
         "likes": 4,
         "replies": 1,
-        "reposts": 0,
+        "reposts": 1,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 5
-    }
-  ],
-  "recent_posts": [
-    {
-      "id": "18118441222917842",
-      "text": "Unpopular opinion: Madinah itu bukan soal seberapa banyak tempat yang lo datengin — tapi seberapa lama lo betah diam di ",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DbiQgNmlWbX",
-      "timestamp": "2026-08-02T11:01:15+0000",
-      "metrics": {
-        "views": 119,
-        "likes": 4,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 5
+      "engagement": 6
     },
     {
       "id": "18124893397775805",
@@ -119,7 +134,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dbh4diOm23b",
       "timestamp": "2026-08-02T07:31:10+0000",
       "metrics": {
-        "views": 109,
+        "views": 112,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -134,7 +149,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DbhgbzEDg0W",
       "timestamp": "2026-08-02T04:01:13+0000",
       "metrics": {
-        "views": 145,
+        "views": 146,
         "likes": 5,
         "replies": 0,
         "reposts": 0,
@@ -164,7 +179,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DbhGppagYKf",
       "timestamp": "2026-08-02T00:15:23+0000",
       "metrics": {
-        "views": 6,
+        "views": 7,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -179,7 +194,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dbg7Nawk4be",
       "timestamp": "2026-08-01T22:35:25+0000",
       "metrics": {
-        "views": 9,
+        "views": 10,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -194,7 +209,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DbgATBukfzs",
       "timestamp": "2026-08-01T14:01:10+0000",
       "metrics": {
-        "views": 207,
+        "views": 208,
         "likes": 10,
         "replies": 0,
         "reposts": 2,
@@ -232,21 +247,6 @@
         "shares": 0
       },
       "engagement": 0
-    },
-    {
-      "id": "18132265291619907",
-      "text": "Terimakasih yg udah inbox tanya ttg Kamikochi.. ini utasnya ...\nKamikochi Bukan Sekadar Tempat Foto \n\n7 Hal yang Bikin T",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DbfOYx1AQwp",
-      "timestamp": "2026-08-01T06:44:31+0000",
-      "metrics": {
-        "views": 3724,
-        "likes": 45,
-        "replies": 9,
-        "reposts": 2,
-        "quotes": 0,
-        "shares": 29
-      },
-      "engagement": 56
     }
   ]
 }
