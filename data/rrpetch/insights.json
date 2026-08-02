@@ -1,15 +1,15 @@
 {
   "account": "rrpetch",
-  "updated_at": "2026-08-02T09:26:03.230Z",
+  "updated_at": "2026-08-02T11:38:26.632Z",
   "profile": {
     "username": "rrpetch",
     "name": "rrp",
     "biography": "Travelers",
-    "picture": "https://scontent-lhr11-1.cdninstagram.com/v/t51.82787-19/725626839_18109259368780392_5435560104487373455_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=7A0kVnzMuLAQ7kNvwEEjDNZ&_nc_oc=AdpU65J-QIMGVA8ooeiTckCGentfIpXJNVj4oJZs2WjFvnFXe-xU_yr0tSpwi7nC-qg&_nc_zt=24&_nc_ht=scontent-lhr11-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=NJhoKoa61NTxRZ_DMo9JLw&_nc_tpa=Q5bMBQGfOBq-Rvc-d2eD_YeJHfAeo8rcW6lV0snkZC6BvMzAYVvsITUkLleEKHRRPtiuA4n5mzuZzvntVg&oh=00_AQH57MYNn51tP4pBpxpK6en1TABsDDRV_goo0wlINQscpg&oe=6A74D1AD"
+    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/725626839_18109259368780392_5435560104487373455_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=7A0kVnzMuLAQ7kNvwE0chC8&_nc_oc=AdqhcVgGlD28BUyT_t4lfl4SeD9CGFKlyo1m5ZMWGlIdWF7dqRRs77gi_YPCaS_FXZc&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=Oi-VUfYsR71R1Rq0GTtwCw&_nc_tpa=Q5bMBQEHOja9FkRVun6lY7qnAyv6KuHcFi5fJwGndOaA4rR7WlKfnOmXPtTwdsMocDUehWhgUKKDXGZ7ag&oh=00_AQEo3bOsOvewACG4-hFPF9WK2u5Zmq0ead9w1iCjhDGOcA&oe=6A7509ED"
   },
   "summary": {
     "followers_count": 2,
-    "views": 3,
+    "views": 7,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
@@ -22,12 +22,27 @@
   },
   "top_posts": [
     {
+      "id": "18093296045310475",
+      "text": "70% pertanyaan klien agen Eropa sebenarnya bisa dijawab sebelum mereka chat. 🌍\nSoal visa Schengen, jadwal kereta antar ",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbiJp2Bmw1A",
+      "timestamp": "2026-08-02T10:01:24+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "18119876311851694",
       "text": "Banyak jamaah Umroh baru sadar satu hal setelah pulang:\nmereka habiskan terlalu banyak waktu di Mekkah untuk bertanya — ",
       "permalink": "https://www.threads.com/@rrpetch/post/Dbh76jGmy9m",
       "timestamp": "2026-08-02T08:01:22+0000",
       "metrics": {
-        "views": 1,
+        "views": 3,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -80,14 +95,16 @@
         "shares": 0
       },
       "engagement": 0
-    },
+    }
+  ],
+  "recent_posts": [
     {
-      "id": "18063265910505771",
-      "text": "Jepang itu padat info — rute kereta, IC Card, jadwal kuil, etika lokal.\nTraveler yang riset duluan biasanya pulang denga",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbhSsi-EVuV",
-      "timestamp": "2026-08-02T02:01:11+0000",
+      "id": "18093296045310475",
+      "text": "70% pertanyaan klien agen Eropa sebenarnya bisa dijawab sebelum mereka chat. 🌍\nSoal visa Schengen, jadwal kereta antar ",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbiJp2Bmw1A",
+      "timestamp": "2026-08-02T10:01:24+0000",
       "metrics": {
-        "views": 2,
+        "views": 0,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -95,16 +112,14 @@
         "shares": 0
       },
       "engagement": 0
-    }
-  ],
-  "recent_posts": [
+    },
     {
       "id": "18119876311851694",
       "text": "Banyak jamaah Umroh baru sadar satu hal setelah pulang:\nmereka habiskan terlalu banyak waktu di Mekkah untuk bertanya — ",
       "permalink": "https://www.threads.com/@rrpetch/post/Dbh76jGmy9m",
       "timestamp": "2026-08-02T08:01:22+0000",
       "metrics": {
-        "views": 1,
+        "views": 3,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -179,7 +194,7 @@
       "permalink": "https://www.threads.com/@rrpetch/post/DbhIYldoOSL",
       "timestamp": "2026-08-02T00:31:04+0000",
       "metrics": {
-        "views": 3,
+        "views": 4,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -225,21 +240,6 @@
       "timestamp": "2026-08-01T12:01:18+0000",
       "metrics": {
         "views": 3,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18101477807220223",
-      "text": "Jepang di musim gugur — daun momiji, pasar pagi, kuil yang sepi sebelum jam 8.\nTapi banyak traveler baru sadar: tanpa pe",
-      "permalink": "https://www.threads.com/@rrpetch/post/Dbfk2ULoJZl",
-      "timestamp": "2026-08-01T10:01:19+0000",
-      "metrics": {
-        "views": 25,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
