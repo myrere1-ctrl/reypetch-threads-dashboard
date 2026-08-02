@@ -1,15 +1,15 @@
 {
   "account": "rrpetch",
-  "updated_at": "2026-08-02T00:17:10.861Z",
+  "updated_at": "2026-08-02T04:04:08.967Z",
   "profile": {
     "username": "rrpetch",
     "name": "rrp",
     "biography": "Travelers",
-    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/725626839_18109259368780392_5435560104487373455_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=7A0kVnzMuLAQ7kNvwHMjVoN&_nc_oc=AdrAoKy8vR8hk-jFvGETB9XqDn6uiTj6o0o0-E3CUI7Sj7xwnaj9-4EbldGgPBSSfQg&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=HTf7w-gT9NtwFKZw0KQP7g&_nc_tpa=Q5bMBQGaMa_PKV67zGCC9IEyXR4c3lNlseb-OPfci5uwD5BnshWV7qxUr5p5eT4OEo-nma3o-npH826U6A&oh=00_AQH2o1t4CDcr3WLua1TPHa3yAB5Xpu3b18pDf1SlZ6ntFQ&oe=6A74612D"
+    "picture": "https://scontent-ord5-3.cdninstagram.com/v/t51.82787-19/725626839_18109259368780392_5435560104487373455_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=7A0kVnzMuLAQ7kNvwF5AXaT&_nc_oc=Ado-U7vrHkM2bi9a24Og6Uo37ofyMkKNEv6xw05h5TdBqcGAT-wgwLaddG0Ska1yqGE&_nc_zt=24&_nc_ht=scontent-ord5-3.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=0mVjQFe765ZPrq5Vk2Qn3Q&_nc_tpa=Q5bMBQFdqGGKF8GX5qWlS0mmT22-zwD9RXw3PGB8NdqQgM1Uj3SX6Xy-Aig0g954WgBfii5F6PCJupcK5Q&oh=00_AQE7yri9Ju0ssgtlkmlJTYKzrfGY-_W5jp-6OfRe5ZX6oA&oe=6A74996D"
   },
   "summary": {
     "followers_count": 2,
-    "views": 34,
+    "views": 43,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
@@ -22,12 +22,57 @@
   },
   "top_posts": [
     {
+      "id": "18064832651726842",
+      "text": "Mitos yang masih beredar: Umroh itu ribet karena jamaah harus tanya terus ke agen untuk hal-hal kecil.\nPadahal mayoritas",
+      "permalink": "https://www.threads.com/@rrpetch/post/Dbhc_kcDY9z",
+      "timestamp": "2026-08-02T03:31:09+0000",
+      "metrics": {
+        "views": 3,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "18063265910505771",
+      "text": "Jepang itu padat info — rute kereta, IC Card, jadwal kuil, etika lokal.\nTraveler yang riset duluan biasanya pulang denga",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbhSsi-EVuV",
+      "timestamp": "2026-08-02T02:01:11+0000",
+      "metrics": {
+        "views": 2,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "18139300798577459",
+      "text": "Mitos yang masih beredar: traveler ke Spanyol harus hafal semua jadwal sendiri, atau bergantung penuh ke agen.\nPadahal b",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbhIYldoOSL",
+      "timestamp": "2026-08-02T00:31:04+0000",
+      "metrics": {
+        "views": 3,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "18184338835405214",
       "text": "Klien tanya: \"Shinkansen dari Tokyo ke Kyoto — beli tiket di mana, perlu reservasi kursi?\" Jam 9 malam.\nPertanyaan seder",
       "permalink": "https://www.threads.com/@rrpetch/post/Dbg-GwvFG0X",
       "timestamp": "2026-08-01T23:01:15+0000",
       "metrics": {
-        "views": 1,
+        "views": 2,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -50,12 +95,14 @@
         "shares": 0
       },
       "engagement": 0
-    },
+    }
+  ],
+  "recent_posts": [
     {
-      "id": "18110593997076108",
-      "text": "Agen Umroh di Bandung, 3 staff — satu musim keberangkatan, ratusan jamaah aktif.\nPertanyaan soal jadwal tawaf sunnah, ko",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbfylGsoF_5",
-      "timestamp": "2026-08-01T12:01:18+0000",
+      "id": "18064832651726842",
+      "text": "Mitos yang masih beredar: Umroh itu ribet karena jamaah harus tanya terus ke agen untuk hal-hal kecil.\nPadahal mayoritas",
+      "permalink": "https://www.threads.com/@rrpetch/post/Dbhc_kcDY9z",
+      "timestamp": "2026-08-02T03:31:09+0000",
       "metrics": {
         "views": 3,
         "likes": 0,
@@ -67,12 +114,12 @@
       "engagement": 0
     },
     {
-      "id": "18101477807220223",
-      "text": "Jepang di musim gugur — daun momiji, pasar pagi, kuil yang sepi sebelum jam 8.\nTapi banyak traveler baru sadar: tanpa pe",
-      "permalink": "https://www.threads.com/@rrpetch/post/Dbfk2ULoJZl",
-      "timestamp": "2026-08-01T10:01:19+0000",
+      "id": "18063265910505771",
+      "text": "Jepang itu padat info — rute kereta, IC Card, jadwal kuil, etika lokal.\nTraveler yang riset duluan biasanya pulang denga",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbhSsi-EVuV",
+      "timestamp": "2026-08-02T02:01:11+0000",
       "metrics": {
-        "views": 24,
+        "views": 2,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -82,12 +129,12 @@
       "engagement": 0
     },
     {
-      "id": "18079923026693972",
-      "text": "Spanyol itu indah — tapi banyak traveler pulang dengan satu penyesalan: tidak tahu kapan Alhambra tutup, atau jalur trem",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbfXG7Gm4nq",
-      "timestamp": "2026-08-01T08:01:15+0000",
+      "id": "18139300798577459",
+      "text": "Mitos yang masih beredar: traveler ke Spanyol harus hafal semua jadwal sendiri, atau bergantung penuh ke agen.\nPadahal b",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbhIYldoOSL",
+      "timestamp": "2026-08-02T00:31:04+0000",
       "metrics": {
-        "views": 1,
+        "views": 3,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -95,16 +142,14 @@
         "shares": 0
       },
       "engagement": 0
-    }
-  ],
-  "recent_posts": [
+    },
     {
       "id": "18184338835405214",
       "text": "Klien tanya: \"Shinkansen dari Tokyo ke Kyoto — beli tiket di mana, perlu reservasi kursi?\" Jam 9 malam.\nPertanyaan seder",
       "permalink": "https://www.threads.com/@rrpetch/post/Dbg-GwvFG0X",
       "timestamp": "2026-08-01T23:01:15+0000",
       "metrics": {
-        "views": 1,
+        "views": 2,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -195,51 +240,6 @@
       "timestamp": "2026-08-01T05:01:07+0000",
       "metrics": {
         "views": 2,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18190336186385017",
-      "text": "CS Anda tidak sedang sakit — tapi pertanyaan soal visa Schengen, jadwal kereta antarkota, sampai dress code katedral mas",
-      "permalink": "https://www.threads.com/@rrpetch/post/Dbe4L8XgPzf",
-      "timestamp": "2026-08-01T03:31:03+0000",
-      "metrics": {
-        "views": 5,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18133939627721654",
-      "text": "Satu fitur yang jarang disorot, tapi langsung terasa dampaknya:\njamaah bisa bertanya dalam bahasa mereka sendiri — dan A",
-      "permalink": "https://www.threads.com/@rrpetch/post/Dbet6eJDl86",
-      "timestamp": "2026-08-01T02:01:17+0000",
-      "metrics": {
-        "views": 1,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18017752019910558",
-      "text": "Agen Italia di Surabaya, 2 staff, musim panas — pertanyaan soal validasi tiket Trenitalia, jam buka Uffizi, sampai dress",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbejmNwmOQZ",
-      "timestamp": "2026-08-01T00:31:09+0000",
-      "metrics": {
-        "views": 1,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
