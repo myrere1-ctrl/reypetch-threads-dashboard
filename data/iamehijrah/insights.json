@@ -1,24 +1,39 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-08-02T15:32:49.181Z",
+  "updated_at": "2026-08-02T17:28:40.297Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=KZbTTrpR23MQ7kNvwEY1q_N&_nc_oc=AdpWZB0pn6MIOndHO8R8QydzmUchVL9bADi9BOWRqrzDcnm4SxSJZY8vOMz2DeQkDic&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=I8fVWXhIAs3VGLuD50Y5IQ&_nc_tpa=Q5bMBQHqPeB8_ntBaQNWfwqor42gqg5qKSAfJdwWELwxf1yv7X-VASDyM6sO7d7uSOO6bhsViYidRPBxcw&oh=00_AQHuxrlVzj_nsIFCW5DoWnQUbYHdBb2nq6qWmOzwENd7Mg&oe=6A7546D3"
+    "picture": "https://scontent-ord5-3.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=KZbTTrpR23MQ7kNvwEyI7qA&_nc_oc=AdoLkHsMY2-Q4JMo-rRErG_ck3WmrdhIOZWHmuPfACS97DSWUWkucdr0XUKMsNTZxYk&_nc_zt=24&_nc_ht=scontent-ord5-3.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=LeLE0-OgIS1WXTHeJp_JVA&_nc_tpa=Q5bMBQFSxaCyd4TJXkGj9IDWYzFM_jmJt8DKdAmPeer7AlQkVTe8e0Wryrjs-YYMysgbOJaLrTadGkLfzw&oh=00_AQH6Jy2i4q25pJPpfxaobZ2roKVU5SH1lDIF3ioNXlOeBg&oe=6A7546D3"
   },
   "summary": {
     "followers_count": 0,
-    "views": 411,
-    "likes": 7,
+    "views": 576,
+    "likes": 9,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 24,
-    "engagement_rate": 5.84,
+    "engagement_total": 27,
+    "engagement_rate": 4.69,
     "curiosity_score": null,
     "post_count": 25
   },
   "top_posts": [
+    {
+      "id": "18008602331955327",
+      "text": "Nenek aku selalu bilang, kalau lagi sempit — sedekah dulu, jangan tunggu lapang.\nDulu aku anggap itu nasihat orang tua y",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbieQVCGyWN",
+      "timestamp": "2026-08-02T13:01:26+0000",
+      "metrics": {
+        "views": 109,
+        "likes": 4,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 4
+    },
     {
       "id": "18137168296529419",
       "text": "Unpopular opinion: sholawat itu bukan cuma \"biar tenang\" — tapi aku ngerasa, makin sering aku baca, makin aku ngerasa *d",
@@ -65,44 +80,29 @@
       "engagement": 4
     },
     {
-      "id": "18008602331955327",
-      "text": "Nenek aku selalu bilang, kalau lagi sempit — sedekah dulu, jangan tunggu lapang.\nDulu aku anggap itu nasihat orang tua y",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbieQVCGyWN",
-      "timestamp": "2026-08-02T13:01:26+0000",
-      "metrics": {
-        "views": 101,
-        "likes": 3,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 3
-    },
-    {
-      "id": "17977748919076428",
-      "text": "La hawla wala quwwata illa billah — aku baru beneran ngerasain beratnya kalimat itu waktu lagi di titik paling ngerasa g",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dbhqv-2G-CX",
-      "timestamp": "2026-08-02T05:31:22+0000",
-      "metrics": {
-        "views": 185,
-        "likes": 2,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 2
-    }
-  ],
-  "recent_posts": [
-    {
       "id": "17986049658044215",
       "text": "Pernah ngerasa sholat 5 waktu itu berat banget dijaga — bukan karena ga mau, tapi karena capek, terlalu sibuk, atau juju",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbiojEIElMk",
       "timestamp": "2026-08-02T14:31:23+0000",
       "metrics": {
-        "views": 138,
+        "views": 154,
+        "likes": 2,
+        "replies": 0,
+        "reposts": 1,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 3
+    }
+  ],
+  "recent_posts": [
+    {
+      "id": "17921991159181574",
+      "text": "Lagi overthinking parah, aku inget — masih bisa napas, masih bisa sujud, masih ada yang dengerin doaku.\nTerus aku baca d",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dbi2R0_m_N7",
+      "timestamp": "2026-08-02T16:31:21+0000",
+      "metrics": {
+        "views": 143,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -112,19 +112,34 @@
       "engagement": 1
     },
     {
+      "id": "17986049658044215",
+      "text": "Pernah ngerasa sholat 5 waktu itu berat banget dijaga — bukan karena ga mau, tapi karena capek, terlalu sibuk, atau juju",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbiojEIElMk",
+      "timestamp": "2026-08-02T14:31:23+0000",
+      "metrics": {
+        "views": 154,
+        "likes": 2,
+        "replies": 0,
+        "reposts": 1,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 3
+    },
+    {
       "id": "18008602331955327",
       "text": "Nenek aku selalu bilang, kalau lagi sempit — sedekah dulu, jangan tunggu lapang.\nDulu aku anggap itu nasihat orang tua y",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbieQVCGyWN",
       "timestamp": "2026-08-02T13:01:26+0000",
       "metrics": {
-        "views": 101,
-        "likes": 3,
+        "views": 109,
+        "likes": 4,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 3
+      "engagement": 4
     },
     {
       "id": "18051500558792464",
@@ -230,21 +245,6 @@
         "shares": 0
       },
       "engagement": 4
-    },
-    {
-      "id": "18143659339550336",
-      "text": "Dulu aku mikir husnudzon sama Allah itu gampang — tinggal bilang \"yakin Allah kasih yang terbaik\", selesai.\nTernyata sus",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dbf5dNkHIcI",
-      "timestamp": "2026-08-01T13:01:23+0000",
-      "metrics": {
-        "views": 123,
-        "likes": 1,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
     }
   ]
 }
