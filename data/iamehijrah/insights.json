@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-08-02T04:04:35.000Z",
+  "updated_at": "2026-08-02T07:04:43.496Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=KZbTTrpR23MQ7kNvwEfPXy8&_nc_oc=AdqCRrDGXMondtUrwBe_-69lIosLUOCax38Fmofh2L3oEQ1_lkygshZLH72gZoBnd5Y&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=E7gE2OOWf1pHiY_Ea0R_TA&_nc_tpa=Q5bMBQHXKSromJW_-ChQvlRlDcFMFpL6nqUJCCQi7oTVNtxCveBNMX7feystJUqzhmde1klm1JP3mhhtPg&oh=00_AQGksTlYxIEED5wyJR1GEHCprH9Eyo1daCfb2t6fwtfSGQ&oe=6A749E13"
+    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=KZbTTrpR23MQ7kNvwFgmX75&_nc_oc=Adr7rszHBcPr-k-GyawBYDA0mW6ci8gGH3DRrLjKTBrHdqj_t8eA2tIWQgYovML_tTk&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=-cETJlZgCdZq3T8xj2ndkA&_nc_tpa=Q5bMBQG-14DEhsyLViPWOtDJ03z9MHgZpEpgE2bZ2GWHDmnZWW-tiP5H8rAGR_c6yuOELovJgIhZbrIF0Q&oh=00_AQEvIIlf4FirAvFqDx3CT6scgQYbj6RdbSN4kDz8WfJRzQ&oe=6A74D653"
   },
   "summary": {
     "followers_count": 0,
-    "views": 655,
-    "likes": 9,
+    "views": 0,
+    "likes": 0,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 21,
-    "engagement_rate": 3.21,
+    "engagement_rate": 0,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -70,7 +70,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbhSuImDaCY",
       "timestamp": "2026-08-02T02:01:24+0000",
       "metrics": {
-        "views": 153,
+        "views": 169,
         "likes": 3,
         "replies": 0,
         "reposts": 0,
@@ -97,12 +97,27 @@
   ],
   "recent_posts": [
     {
+      "id": "17977748919076428",
+      "text": "La hawla wala quwwata illa billah — aku baru beneran ngerasain beratnya kalimat itu waktu lagi di titik paling ngerasa g",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dbhqv-2G-CX",
+      "timestamp": "2026-08-02T05:31:22+0000",
+      "metrics": {
+        "views": 66,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "18137168296529419",
       "text": "Unpopular opinion: sholawat itu bukan cuma \"biar tenang\" — tapi aku ngerasa, makin sering aku baca, makin aku ngerasa *d",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbhSuImDaCY",
       "timestamp": "2026-08-02T02:01:24+0000",
       "metrics": {
-        "views": 153,
+        "views": 169,
         "likes": 3,
         "replies": 0,
         "reposts": 0,
@@ -223,21 +238,6 @@
       "timestamp": "2026-08-01T02:01:23+0000",
       "metrics": {
         "views": 17,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "17873946951687300",
-      "text": "Yasin itu aku bacanya sering — tapi lama banget baru ngerasa \"hadir\" beneran pas baca.\nBayangan aku: kalau nanti bisa ke",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbeSfy8j3zP",
-      "timestamp": "2026-07-31T22:01:43+0000",
-      "metrics": {
-        "views": 135,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
