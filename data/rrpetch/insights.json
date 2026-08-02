@@ -1,15 +1,15 @@
 {
   "account": "rrpetch",
-  "updated_at": "2026-08-02T04:04:08.967Z",
+  "updated_at": "2026-08-02T07:04:16.444Z",
   "profile": {
     "username": "rrpetch",
     "name": "rrp",
     "biography": "Travelers",
-    "picture": "https://scontent-ord5-3.cdninstagram.com/v/t51.82787-19/725626839_18109259368780392_5435560104487373455_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=7A0kVnzMuLAQ7kNvwF5AXaT&_nc_oc=Ado-U7vrHkM2bi9a24Og6Uo37ofyMkKNEv6xw05h5TdBqcGAT-wgwLaddG0Ska1yqGE&_nc_zt=24&_nc_ht=scontent-ord5-3.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=0mVjQFe765ZPrq5Vk2Qn3Q&_nc_tpa=Q5bMBQFdqGGKF8GX5qWlS0mmT22-zwD9RXw3PGB8NdqQgM1Uj3SX6Xy-Aig0g954WgBfii5F6PCJupcK5Q&oh=00_AQE7yri9Ju0ssgtlkmlJTYKzrfGY-_W5jp-6OfRe5ZX6oA&oe=6A74996D"
+    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/725626839_18109259368780392_5435560104487373455_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=7A0kVnzMuLAQ7kNvwEZYX-i&_nc_oc=Adq65cD_k5q34fF8HTphZSM2GsuKZJvpyFGfTnF-B9EKG11I4-b8NtNSv0qQ2Jqezro&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=bqRQ7cZa5jbwR7fmPzYqkg&_nc_tpa=Q5bMBQFxcnVtbj9nBjzX4-A1J1ueGHaB1OVDcqMD9ctcPWZkHTAHIYe_4x5NEGsTM00QSlq-Zk0JNjY1pA&oh=00_AQG85RCt7vh7aZzLmGrGGk0St_yGV52NvOjm8qv8eAUnjw&oe=6A74D1AD"
   },
   "summary": {
     "followers_count": 2,
-    "views": 43,
+    "views": 0,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
@@ -22,12 +22,42 @@
   },
   "top_posts": [
     {
+      "id": "18112620331751535",
+      "text": "80% pertanyaan traveler Italia sebenarnya bisa dijawab sebelum mereka berangkat.\nSoal dress code basilika, jam buka muse",
+      "permalink": "https://www.threads.com/@rrpetch/post/Dbhxl8oFfme",
+      "timestamp": "2026-08-02T06:31:10+0000",
+      "metrics": {
+        "views": 1,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "18020383307699829",
+      "text": "Agen travel Jepang di Surabaya — 2 staff, 40 klien aktif per bulan.\nPertanyaan soal IC Card, jadwal kuil, dan rute keret",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbhnS_zFfNg",
+      "timestamp": "2026-08-02T05:01:12+0000",
+      "metrics": {
+        "views": 6,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "18064832651726842",
       "text": "Mitos yang masih beredar: Umroh itu ribet karena jamaah harus tanya terus ke agen untuk hal-hal kecil.\nPadahal mayoritas",
       "permalink": "https://www.threads.com/@rrpetch/post/Dbhc_kcDY9z",
       "timestamp": "2026-08-02T03:31:09+0000",
       "metrics": {
-        "views": 3,
+        "views": 6,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -65,46 +95,46 @@
         "shares": 0
       },
       "engagement": 0
-    },
-    {
-      "id": "18184338835405214",
-      "text": "Klien tanya: \"Shinkansen dari Tokyo ke Kyoto — beli tiket di mana, perlu reservasi kursi?\" Jam 9 malam.\nPertanyaan seder",
-      "permalink": "https://www.threads.com/@rrpetch/post/Dbg-GwvFG0X",
-      "timestamp": "2026-08-01T23:01:15+0000",
-      "metrics": {
-        "views": 2,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18108766804935792",
-      "text": "Bayangkan klien Anda punya AI travel companion ber-nama brand agen Anda sendiri — siap jawab soal rute kereta Jepang, ja",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbgAT5_G6Vn",
-      "timestamp": "2026-08-01T14:01:17+0000",
-      "metrics": {
-        "views": 0,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
     }
   ],
   "recent_posts": [
+    {
+      "id": "18112620331751535",
+      "text": "80% pertanyaan traveler Italia sebenarnya bisa dijawab sebelum mereka berangkat.\nSoal dress code basilika, jam buka muse",
+      "permalink": "https://www.threads.com/@rrpetch/post/Dbhxl8oFfme",
+      "timestamp": "2026-08-02T06:31:10+0000",
+      "metrics": {
+        "views": 1,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "18020383307699829",
+      "text": "Agen travel Jepang di Surabaya — 2 staff, 40 klien aktif per bulan.\nPertanyaan soal IC Card, jadwal kuil, dan rute keret",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbhnS_zFfNg",
+      "timestamp": "2026-08-02T05:01:12+0000",
+      "metrics": {
+        "views": 6,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
     {
       "id": "18064832651726842",
       "text": "Mitos yang masih beredar: Umroh itu ribet karena jamaah harus tanya terus ke agen untuk hal-hal kecil.\nPadahal mayoritas",
       "permalink": "https://www.threads.com/@rrpetch/post/Dbhc_kcDY9z",
       "timestamp": "2026-08-02T03:31:09+0000",
       "metrics": {
-        "views": 3,
+        "views": 6,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -210,36 +240,6 @@
       "timestamp": "2026-08-01T08:01:15+0000",
       "metrics": {
         "views": 1,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18096580541524776",
-      "text": "Klien tanya jam buka Louvre, area halal di Paris, sampai rute RER dari CDG — jam 10 malam.\nBukan staff yang jawab. Tapi ",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbfMyqZlgR5",
-      "timestamp": "2026-08-01T06:31:06+0000",
-      "metrics": {
-        "views": 2,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18132124051625580",
-      "text": "Jamaah Haji sering tidak sadar: kelelahan di Arafah bukan hanya soal fisik — tapi soal tidak tahu apa yang akan terjadi ",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbfCfp4HIwr",
-      "timestamp": "2026-08-01T05:01:07+0000",
-      "metrics": {
-        "views": 2,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
