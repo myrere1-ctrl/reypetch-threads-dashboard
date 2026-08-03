@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-08-03T07:53:22.092Z",
+  "updated_at": "2026-08-03T11:50:33.132Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-atl3-3.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=KZbTTrpR23MQ7kNvwFWk9zZ&_nc_oc=AdpJ4UDLx1J-t_okdODjMN7FadMpd2H75Se0aBmwLo5IV7hbzM9YYuz1WXFEIyqto-g&_nc_zt=24&_nc_ht=scontent-atl3-3.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=jEp2wXww0G1pUFr3YxCZ8w&_nc_tpa=Q5bMBQEoQoufHkWiWnMz98-9Kmrcoe-__RV7zUigqGJRSvs-BMUT6JQxkV_0g74J5RmTIjWtVjFtjt05vg&oh=00_AQHeJxAkXtJslmUIHq4msLY4kZiukSFbWIUILTOqyyVOeA&oe=6A7627D3"
+    "picture": "https://scontent-ord5-3.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=KZbTTrpR23MQ7kNvwHrlYTI&_nc_oc=AdrTo-AJ-SqjyTr0HDSATK0_m0oSt7CpoiIPsteNT0gsLAnGLemkz7UgcuzFGvNko_s&_nc_zt=24&_nc_ht=scontent-ord5-3.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=eqX8zolBzW773NUHkW2Vyg&_nc_tpa=Q5bMBQGDypZuGOIxnc91fGE9_xmG2PIEiZwcKNq-JuJen0MrFrC-oIgiQVMmT5pljsuTdufnRJYLvEFbvw&oh=00_AQED5y41aKWOlOTwQ7BmMLY-pvZ-De2kF6if_9wJRtZu6A&oe=6A766013"
   },
   "summary": {
     "followers_count": 0,
-    "views": 6,
-    "likes": 0,
+    "views": 134,
+    "likes": 2,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 27,
-    "engagement_rate": 450,
+    "engagement_total": 32,
+    "engagement_rate": 23.88,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -65,12 +65,12 @@
       "engagement": 4
     },
     {
-      "id": "17972638880917581",
-      "text": "Hari ini ga ada yang dramatis. Tapi bangun pagi, masih dikasih napas, masih bisa sujud — itu udah sesuatu banget.\nTerus ",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbjcDeoIOCT",
-      "timestamp": "2026-08-02T22:01:26+0000",
+      "id": "17883499884613623",
+      "text": "Lagi di titik paling buntu, aku baru nyadar — selama ini aku overthinking karena deep down ga beneran husnudzon sama All",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dbk4wq-mxWv",
+      "timestamp": "2026-08-03T11:31:31+0000",
       "metrics": {
-        "views": 109,
+        "views": 0,
         "likes": 3,
         "replies": 0,
         "reposts": 0,
@@ -80,15 +80,15 @@
       "engagement": 3
     },
     {
-      "id": "17986049658044215",
-      "text": "Pernah ngerasa sholat 5 waktu itu berat banget dijaga — bukan karena ga mau, tapi karena capek, terlalu sibuk, atau juju",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbiojEIElMk",
-      "timestamp": "2026-08-02T14:31:23+0000",
+      "id": "18102976988179493",
+      "text": "Dulu aku mikir syukur itu soal ngucap alhamdulillah pas dapat hal besar — keterima kerja, sehat, rezeki nambah.\nTernyata",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dbknn2dFrcv",
+      "timestamp": "2026-08-03T09:01:45+0000",
       "metrics": {
-        "views": 156,
-        "likes": 2,
+        "views": 117,
+        "likes": 3,
         "replies": 0,
-        "reposts": 1,
+        "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
@@ -97,19 +97,49 @@
   ],
   "recent_posts": [
     {
+      "id": "17883499884613623",
+      "text": "Lagi di titik paling buntu, aku baru nyadar — selama ini aku overthinking karena deep down ga beneran husnudzon sama All",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dbk4wq-mxWv",
+      "timestamp": "2026-08-03T11:31:31+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 3,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 3
+    },
+    {
+      "id": "18102976988179493",
+      "text": "Dulu aku mikir syukur itu soal ngucap alhamdulillah pas dapat hal besar — keterima kerja, sehat, rezeki nambah.\nTernyata",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dbknn2dFrcv",
+      "timestamp": "2026-08-03T09:01:45+0000",
+      "metrics": {
+        "views": 117,
+        "likes": 3,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 3
+    },
+    {
       "id": "17924267439393093",
       "text": "Jam 3 pagi, aku kadang masih terjaga — tapi bukan buat tahajjud, tapi scroll atau overthinking.\nTerus nyadar: ada waktu ",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbkPjMCm2bt",
       "timestamp": "2026-08-03T05:31:24+0000",
       "metrics": {
-        "views": 105,
-        "likes": 0,
+        "views": 106,
+        "likes": 1,
         "replies": 1,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 1
+      "engagement": 2
     },
     {
       "id": "17937390144323446",
@@ -215,36 +245,6 @@
         "shares": 0
       },
       "engagement": 0
-    },
-    {
-      "id": "17977748919076428",
-      "text": "La hawla wala quwwata illa billah — aku baru beneran ngerasain beratnya kalimat itu waktu lagi di titik paling ngerasa g",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dbhqv-2G-CX",
-      "timestamp": "2026-08-02T05:31:22+0000",
-      "metrics": {
-        "views": 186,
-        "likes": 2,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 2
-    },
-    {
-      "id": "18137168296529419",
-      "text": "Unpopular opinion: sholawat itu bukan cuma \"biar tenang\" — tapi aku ngerasa, makin sering aku baca, makin aku ngerasa *d",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbhSuImDaCY",
-      "timestamp": "2026-08-02T02:01:24+0000",
-      "metrics": {
-        "views": 192,
-        "likes": 4,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 4
     }
   ]
 }
