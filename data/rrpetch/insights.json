@@ -1,11 +1,11 @@
 {
   "account": "rrpetch",
-  "updated_at": "2026-08-03T21:34:24.637Z",
+  "updated_at": "2026-08-03T23:31:49.334Z",
   "profile": {
     "username": "rrpetch",
     "name": "rrp",
     "biography": "Travelers",
-    "picture": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/725626839_18109259368780392_5435560104487373455_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=5hE8pL-55zsQ7kNvwGvN6oo&_nc_oc=AdpgLeRuR10G0QszW2xA4ly506nomgLYqCMSlsrYy7ufhJufSlUZtAf-rMqpGaEhPjw&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=v8t-0oBSwaieMa0zGnqDug&_nc_tpa=Q5bMBQFwnSpDRmRVxa146zG-_wGHVvCFe3-EVEkfD-jndjLhE3qOrdY5MdQp5CUaUSZVOMm9Xk5cpS4kGg&oh=00_AQENZUGTjxohox9jpoCzhtjMNJKNdB_U7GkyFRYNKp3e_w&oe=6A76CBED"
+    "picture": "https://scontent-ord5-3.cdninstagram.com/v/t51.82787-19/725626839_18109259368780392_5435560104487373455_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMiJ9&_nc_ohc=5hE8pL-55zsQ7kNvwGzd1nb&_nc_oc=AdrHJIz4o_x292gw7tGJ4MAXRKpoXdv98ILcOGw-Oe_5RX_L2wLuc6YFw78WAwbdkaU&_nc_zt=24&_nc_ht=scontent-ord5-3.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=h94DhNpl7P7y6nFlJfihSQ&_nc_tpa=Q5bMBQHdSxBDky9uExvHpgMB_WCluTr3bhiLK5MwDJ_ZC6a0znG9iCNHFZh3FEzXk74CO48rFHJ0NluVow&oh=00_AQEfQi4y2RoYgMVj7M29x3qTyS_ZaWbQiQrt0pZWcsWPwQ&oe=6A77042D"
   },
   "summary": {
     "followers_count": 0,
@@ -21,6 +21,21 @@
     "post_count": 25
   },
   "top_posts": [
+    {
+      "id": "18139660270585655",
+      "text": "Italia punya aturan yang sering luput dari perhatian traveler:\ndress code ketat di basilika, jam tutup museum yang berbe",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbmHtBnjyYB7Q6lfdpNpuNW1CvxdYHSAJAJfsc0",
+      "timestamp": "2026-08-03T23:01:20+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
     {
       "id": "18110121775817381",
       "text": "Wisatawan Italia sering kaget dengan satu hal:\nsekitar 60–70% pertanyaan mereka sebelum berangkat — soal dress code basi",
@@ -80,14 +95,16 @@
         "shares": 0
       },
       "engagement": 0
-    },
+    }
+  ],
+  "recent_posts": [
     {
-      "id": "18369037183232964",
-      "text": "Agen travel Spanyol — 3 staff, klien yang hampir semuanya tanya hal serupa sebelum berangkat.\nJam buka Sagrada Família, ",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbkWYrwlbTWH6D_XNYuoKtB3bTs_GVy7XePGos0",
-      "timestamp": "2026-08-03T06:31:08+0000",
+      "id": "18139660270585655",
+      "text": "Italia punya aturan yang sering luput dari perhatian traveler:\ndress code ketat di basilika, jam tutup museum yang berbe",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbmHtBnjyYB7Q6lfdpNpuNW1CvxdYHSAJAJfsc0",
+      "timestamp": "2026-08-03T23:01:20+0000",
       "metrics": {
-        "views": 1,
+        "views": 0,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -95,9 +112,7 @@
         "shares": 0
       },
       "engagement": 0
-    }
-  ],
-  "recent_posts": [
+    },
     {
       "id": "18110121775817381",
       "text": "Wisatawan Italia sering kaget dengan satu hal:\nsekitar 60–70% pertanyaan mereka sebelum berangkat — soal dress code basi",
@@ -225,21 +240,6 @@
       "timestamp": "2026-08-02T23:01:10+0000",
       "metrics": {
         "views": 35,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "17857041873696250",
-      "text": "Paris itu indah — tapi juga salah satu kota yang paling mudah bikin traveler kewalahan.\nAntrian Louvre yang tidak terdug",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbilFquoD-zFhU3SJVKWHowwOE0kRgyc2_UZk80",
-      "timestamp": "2026-08-02T14:01:08+0000",
-      "metrics": {
-        "views": 3,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
