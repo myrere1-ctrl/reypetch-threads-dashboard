@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-08-03T00:17:26.872Z",
+  "updated_at": "2026-08-03T04:02:55.575Z",
   "profile": {
     "username": "iams_ichi",
     "name": "iams",
     "biography": "🧠Psi + Traveling \nSolo Traveler Bunglon\nFine dining 👌 & Street food lokal 🫰\nHidden gems Insider for 🇯🇵🇦🇺🇫🇷🇪🇸🇮🇹 + Umrah.\n✉️ cmo@coa.au",
-    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=vdEXqu9CONkQ7kNvwEtz5hl&_nc_oc=AdqNbObguPU5d549fGoBgVhk4yMPISIMpMwcaUj_eyEHSzJLKkECoN-lJblYsoYc8GM&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=e9bZop4-nxCQhr9CqpPM1A&_nc_tpa=Q5bMBQEDk5d3C6eDJUZHl4LRDXRsd1WOsgEJoMDLtZ-_SIm_iPMQ5qSXINJXPi3R4Uun1oLFw8Dzsw-KBw&oh=00_AQHWTpJVEH67YPgDJAcc-EYseEuOM3nbNULelv_PI4Vqtw&oe=6A75C5DE"
+    "picture": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=vdEXqu9CONkQ7kNvwEDRg97&_nc_oc=AdojcNl4ojjcO5fTW7op1-PWbXevlHt6ns86IuemtHnK2DwnJ4_rYU10e_tcqQHBUxs&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=B_P4ZSf2uunHLEb2vRo9jQ&_nc_tpa=Q5bMBQGWK_kIbg1nS-p20MlusKl0VsBqA0CNvMGnsNFZIMdrI4D4kQFnvLdkK09lRMJtsFyUu4xrE2JjdA&oh=00_AQFDVLKa-nQ_HjLDO2qP3Fbm2RZNiomqE-lGGgO_h1jxIg&oe=6A75FE1E"
   },
   "summary": {
     "followers_count": 1355,
-    "views": 604,
+    "views": 770,
     "likes": 6,
     "replies": 1,
     "reposts": 1,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 107,
-    "engagement_rate": 17.72,
+    "engagement_total": 102,
+    "engagement_rate": 13.25,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -27,7 +27,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DbfOYx1AQwp",
       "timestamp": "2026-08-01T06:44:31+0000",
       "metrics": {
-        "views": 3736,
+        "views": 3740,
         "likes": 45,
         "replies": 9,
         "reposts": 2,
@@ -42,7 +42,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DbgATBukfzs",
       "timestamp": "2026-08-01T14:01:10+0000",
       "metrics": {
-        "views": 208,
+        "views": 209,
         "likes": 10,
         "replies": 0,
         "reposts": 2,
@@ -72,7 +72,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DbiQgNmlWbX",
       "timestamp": "2026-08-02T11:01:15+0000",
       "metrics": {
-        "views": 240,
+        "views": 244,
         "likes": 4,
         "replies": 1,
         "reposts": 1,
@@ -99,12 +99,42 @@
   ],
   "recent_posts": [
     {
+      "id": "18177700564423335",
+      "text": "Dulu mikir persiapan umroh itu soal ngapalin doa + beli perlengkapan.\nTernyata yang paling butuh waktu justru nyiapin di",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DbkFOsIG_PE",
+      "timestamp": "2026-08-03T04:01:14+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "18087519275156138",
+      "text": "Jam 2 siang di Jabal Rahmah — dan aku baru nyadar kenapa semua orang nyaranin jangan kesini tengah hari.\nBukan soal pana",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DbjtLQIGErJ",
+      "timestamp": "2026-08-03T00:31:03+0000",
+      "metrics": {
+        "views": 128,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "18059351561782828",
       "text": "Katanya tawaf itu chaos — jutaan orang, dorong-dorongan, pasti panik.\nTernyata justru di tengah kerumunan itu aku nemu r",
       "permalink": "https://www.threads.com/@iams_ichi/post/DbilGbClT5Q",
       "timestamp": "2026-08-02T14:01:14+0000",
       "metrics": {
-        "views": 113,
+        "views": 118,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -119,7 +149,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DbiQgNmlWbX",
       "timestamp": "2026-08-02T11:01:15+0000",
       "metrics": {
-        "views": 240,
+        "views": 244,
         "likes": 4,
         "replies": 1,
         "reposts": 1,
@@ -134,7 +164,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dbh4diOm23b",
       "timestamp": "2026-08-02T07:31:10+0000",
       "metrics": {
-        "views": 116,
+        "views": 117,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -149,7 +179,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DbhgbzEDg0W",
       "timestamp": "2026-08-02T04:01:13+0000",
       "metrics": {
-        "views": 146,
+        "views": 149,
         "likes": 5,
         "replies": 0,
         "reposts": 0,
@@ -164,7 +194,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DbhIYnDj3hy",
       "timestamp": "2026-08-02T00:31:05+0000",
       "metrics": {
-        "views": 18,
+        "views": 19,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -179,7 +209,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DbhGppagYKf",
       "timestamp": "2026-08-02T00:15:23+0000",
       "metrics": {
-        "views": 7,
+        "views": 8,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -194,7 +224,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dbg7Nawk4be",
       "timestamp": "2026-08-01T22:35:25+0000",
       "metrics": {
-        "views": 10,
+        "views": 12,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -209,7 +239,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DbgATBukfzs",
       "timestamp": "2026-08-01T14:01:10+0000",
       "metrics": {
-        "views": 208,
+        "views": 209,
         "likes": 10,
         "replies": 0,
         "reposts": 2,
@@ -217,36 +247,6 @@
         "shares": 0
       },
       "engagement": 12
-    },
-    {
-      "id": "17914516437426182",
-      "text": "Di Makkah aku pernah sarapan nasi kebuli dari warung pinggir jalan — plastik, murah, berdiri.\nMalamnya entah kenapa mese",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DbfrttHIO0U",
-      "timestamp": "2026-08-01T11:01:19+0000",
-      "metrics": {
-        "views": 126,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "18209775586355740",
-      "text": "Hal yang paling underrated dari persiapan umroh: nyiapin mental buat ga punya kontrol.\nDi sana, jadwal bisa berubah tiba",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DbfTql7nDsp",
-      "timestamp": "2026-08-01T07:31:11+0000",
-      "metrics": {
-        "views": 36,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
     }
   ]
 }
