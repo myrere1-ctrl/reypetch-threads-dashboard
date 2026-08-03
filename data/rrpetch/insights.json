@@ -1,15 +1,15 @@
 {
   "account": "rrpetch",
-  "updated_at": "2026-08-03T00:17:53.923Z",
+  "updated_at": "2026-08-03T04:03:25.483Z",
   "profile": {
     "username": "rrpetch",
     "name": "rrp",
     "biography": "Travelers",
-    "picture": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/725626839_18109259368780392_5435560104487373455_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=7A0kVnzMuLAQ7kNvwFeqH-w&_nc_oc=Adqdkef79ITofs5pXtX9pBu3j3mf4TFDdLxS7CkLY_HgvwdfykRmwr2CMi4XE5KqCGo&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=F3XhUv-R8nYNU4oS_Cia5w&_nc_tpa=Q5bMBQHrPTupYAyzBKjjtmyx2VDrx_IgAo3r_Dd5ferenAZHHnb2cqI-L0-HuwASejd_IHykE9AqasMEIg&oh=00_AQECX1hrN3LaOUpWgkoFbydHCxjipWTgJbg7O9dGS8lUAA&oe=6A75B2AD"
+    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/725626839_18109259368780392_5435560104487373455_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=7A0kVnzMuLAQ7kNvwEtIGY3&_nc_oc=Adqvlz3flumNvWKenTuN9zMTCh7uI55VUZVGiME7Vk_9fNXaDhFeu_jGuSg39gC0OdY&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=RQHQGsSm7eGeTPozQN1Row&_nc_tpa=Q5bMBQFz0KbxbUZBlid_2T04qeekiyl0QGD8mEEJSDGaJBIlLcv0AG0OYtAmrDBUsW_9tvdc_2K_6HUd2Q&oh=00_AQGwyAmf88jbWmW8SQH3RgM0pB-r4wGuyRWlB5PVRK2vGQ&oe=6A75EAED"
   },
   "summary": {
     "followers_count": 2,
-    "views": 34,
+    "views": 75,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
@@ -22,12 +22,57 @@
   },
   "top_posts": [
     {
+      "id": "17976614655073831",
+      "text": "Ada satu fitur Tomodachi AI yang sering bikin agen Haji kaget pertama kali pakai:\nJamaah bisa tanya soal manasik — kapan",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbkBx9hEVZy",
+      "timestamp": "2026-08-03T03:31:06+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "18071996879416338",
+      "text": "Satu insight yang jarang dibicarakan di industri travel Eropa:\n70–80% pertanyaan klien sebelum keberangkatan — soal jadw",
+      "permalink": "https://www.threads.com/@rrpetch/post/Dbj3f1jCD5J",
+      "timestamp": "2026-08-03T02:01:16+0000",
+      "metrics": {
+        "views": 4,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "17981581338109310",
+      "text": "Agen Umroh di Bandung — 3 staff, 120 jamaah aktif per musim.\nPertanyaan soal jadwal tawaf, larangan di Masjidil Haram, s",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbjtLw-E5oR",
+      "timestamp": "2026-08-03T00:31:08+0000",
+      "metrics": {
+        "views": 14,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "18102781535598825",
       "text": "Agen travel Prancis — klien tanya soal antrian Eiffel, jadwal RER, dress code museum, sampai tips arrondissement mana ya",
       "permalink": "https://www.threads.com/@rrpetch/post/Dbji5CIAYNO",
       "timestamp": "2026-08-02T23:01:10+0000",
       "metrics": {
-        "views": 13,
+        "views": 30,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -50,61 +95,61 @@
         "shares": 0
       },
       "engagement": 0
-    },
-    {
-      "id": "18111170191784705",
-      "text": "Satu agen Haji di Jakarta — 4 staff, ratusan calon jamaah yang antrean keberangkatannya bisa 10–20 tahun.\nBelum berangka",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbiXXJVnNcr",
-      "timestamp": "2026-08-02T12:01:12+0000",
-      "metrics": {
-        "views": 2,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18093296045310475",
-      "text": "70% pertanyaan klien agen Eropa sebenarnya bisa dijawab sebelum mereka chat. 🌍\nSoal visa Schengen, jadwal kereta antar ",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbiJp2Bmw1A",
-      "timestamp": "2026-08-02T10:01:24+0000",
-      "metrics": {
-        "views": 2,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18119876311851694",
-      "text": "Banyak jamaah Umroh baru sadar satu hal setelah pulang:\nmereka habiskan terlalu banyak waktu di Mekkah untuk bertanya — ",
-      "permalink": "https://www.threads.com/@rrpetch/post/Dbh76jGmy9m",
-      "timestamp": "2026-08-02T08:01:22+0000",
-      "metrics": {
-        "views": 3,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
     }
   ],
   "recent_posts": [
+    {
+      "id": "17976614655073831",
+      "text": "Ada satu fitur Tomodachi AI yang sering bikin agen Haji kaget pertama kali pakai:\nJamaah bisa tanya soal manasik — kapan",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbkBx9hEVZy",
+      "timestamp": "2026-08-03T03:31:06+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "18071996879416338",
+      "text": "Satu insight yang jarang dibicarakan di industri travel Eropa:\n70–80% pertanyaan klien sebelum keberangkatan — soal jadw",
+      "permalink": "https://www.threads.com/@rrpetch/post/Dbj3f1jCD5J",
+      "timestamp": "2026-08-03T02:01:16+0000",
+      "metrics": {
+        "views": 4,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "17981581338109310",
+      "text": "Agen Umroh di Bandung — 3 staff, 120 jamaah aktif per musim.\nPertanyaan soal jadwal tawaf, larangan di Masjidil Haram, s",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbjtLw-E5oR",
+      "timestamp": "2026-08-03T00:31:08+0000",
+      "metrics": {
+        "views": 14,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
     {
       "id": "18102781535598825",
       "text": "Agen travel Prancis — klien tanya soal antrian Eiffel, jadwal RER, dress code museum, sampai tips arrondissement mana ya",
       "permalink": "https://www.threads.com/@rrpetch/post/Dbji5CIAYNO",
       "timestamp": "2026-08-02T23:01:10+0000",
       "metrics": {
-        "views": 13,
+        "views": 30,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -194,52 +239,7 @@
       "permalink": "https://www.threads.com/@rrpetch/post/DbhnS_zFfNg",
       "timestamp": "2026-08-02T05:01:12+0000",
       "metrics": {
-        "views": 8,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18064832651726842",
-      "text": "Mitos yang masih beredar: Umroh itu ribet karena jamaah harus tanya terus ke agen untuk hal-hal kecil.\nPadahal mayoritas",
-      "permalink": "https://www.threads.com/@rrpetch/post/Dbhc_kcDY9z",
-      "timestamp": "2026-08-02T03:31:09+0000",
-      "metrics": {
-        "views": 6,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18063265910505771",
-      "text": "Jepang itu padat info — rute kereta, IC Card, jadwal kuil, etika lokal.\nTraveler yang riset duluan biasanya pulang denga",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbhSsi-EVuV",
-      "timestamp": "2026-08-02T02:01:11+0000",
-      "metrics": {
-        "views": 2,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18139300798577459",
-      "text": "Mitos yang masih beredar: traveler ke Spanyol harus hafal semua jadwal sendiri, atau bergantung penuh ke agen.\nPadahal b",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbhIYldoOSL",
-      "timestamp": "2026-08-02T00:31:04+0000",
-      "metrics": {
-        "views": 4,
+        "views": 10,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
