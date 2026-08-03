@@ -1,31 +1,61 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-08-03T11:50:33.132Z",
+  "updated_at": "2026-08-03T15:22:30.890Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-ord5-3.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=KZbTTrpR23MQ7kNvwHrlYTI&_nc_oc=AdrTo-AJ-SqjyTr0HDSATK0_m0oSt7CpoiIPsteNT0gsLAnGLemkz7UgcuzFGvNko_s&_nc_zt=24&_nc_ht=scontent-ord5-3.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=eqX8zolBzW773NUHkW2Vyg&_nc_tpa=Q5bMBQGDypZuGOIxnc91fGE9_xmG2PIEiZwcKNq-JuJen0MrFrC-oIgiQVMmT5pljsuTdufnRJYLvEFbvw&oh=00_AQED5y41aKWOlOTwQ7BmMLY-pvZ-De2kF6if_9wJRtZu6A&oe=6A766013"
+    "picture": "https://scontent-ord5-3.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=KZbTTrpR23MQ7kNvwFwbWOf&_nc_oc=Adp4wFDuJrT7ImG-JzjGi7DRvqNIRwFWbfDUEmUDdxNP8lQ9bP-crUqjr9G1HWuDA3w&_nc_zt=24&_nc_ht=scontent-ord5-3.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=sYBkvzw7BBOxgdalvPNPhw&_nc_tpa=Q5bMBQFKdaHkui3SQ_Acrawi1wCrOPY-RG1lLBBTRhEhc13BBPbtMaSfc2V5bpBqvZjC2qEghYB7awWLfg&oh=00_AQHbBgcZ-8K6Im1IB_rXyX2AR-huA4gHL7BVXzKfCCp_eQ&oe=6A769853"
   },
   "summary": {
     "followers_count": 0,
-    "views": 134,
-    "likes": 2,
+    "views": 594,
+    "likes": 17,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 32,
-    "engagement_rate": 23.88,
+    "engagement_total": 41,
+    "engagement_rate": 6.9,
     "curiosity_score": null,
     "post_count": 25
   },
   "top_posts": [
+    {
+      "id": "17883499884613623",
+      "text": "Lagi di titik paling buntu, aku baru nyadar — selama ini aku overthinking karena deep down ga beneran husnudzon sama All",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dbk4wq-mxWv",
+      "timestamp": "2026-08-03T11:31:31+0000",
+      "metrics": {
+        "views": 164,
+        "likes": 7,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 7
+    },
+    {
+      "id": "17877343710527557",
+      "text": "Unpopular opinion: sholat Dhuha itu bukan soal \"biar rezeki lancar\" — tapi aku ngerasa, yang paling kerasa tuh ketenanga",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DblDEaQGyIw",
+      "timestamp": "2026-08-03T13:01:39+0000",
+      "metrics": {
+        "views": 210,
+        "likes": 6,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 6
+    },
     {
       "id": "18008602331955327",
       "text": "Nenek aku selalu bilang, kalau lagi sempit — sedekah dulu, jangan tunggu lapang.\nDulu aku anggap itu nasihat orang tua y",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbieQVCGyWN",
       "timestamp": "2026-08-02T13:01:26+0000",
       "metrics": {
-        "views": 111,
+        "views": 113,
         "likes": 4,
         "replies": 0,
         "reposts": 0,
@@ -40,7 +70,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbhSuImDaCY",
       "timestamp": "2026-08-02T02:01:24+0000",
       "metrics": {
-        "views": 192,
+        "views": 193,
         "likes": 4,
         "replies": 0,
         "reposts": 0,
@@ -55,7 +85,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbgDv-VFPBz",
       "timestamp": "2026-08-01T14:31:20+0000",
       "metrics": {
-        "views": 168,
+        "views": 169,
         "likes": 4,
         "replies": 0,
         "reposts": 0,
@@ -63,53 +93,53 @@
         "shares": 0
       },
       "engagement": 4
-    },
-    {
-      "id": "17883499884613623",
-      "text": "Lagi di titik paling buntu, aku baru nyadar — selama ini aku overthinking karena deep down ga beneran husnudzon sama All",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dbk4wq-mxWv",
-      "timestamp": "2026-08-03T11:31:31+0000",
-      "metrics": {
-        "views": 0,
-        "likes": 3,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 3
-    },
-    {
-      "id": "18102976988179493",
-      "text": "Dulu aku mikir syukur itu soal ngucap alhamdulillah pas dapat hal besar — keterima kerja, sehat, rezeki nambah.\nTernyata",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dbknn2dFrcv",
-      "timestamp": "2026-08-03T09:01:45+0000",
-      "metrics": {
-        "views": 117,
-        "likes": 3,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 3
     }
   ],
   "recent_posts": [
     {
-      "id": "17883499884613623",
-      "text": "Lagi di titik paling buntu, aku baru nyadar — selama ini aku overthinking karena deep down ga beneran husnudzon sama All",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dbk4wq-mxWv",
-      "timestamp": "2026-08-03T11:31:31+0000",
+      "id": "18274063699295951",
+      "text": "Ngerasa jauh dari Allah itu aneh — ga ada satu momen jelas kapan mulainya, tiba-tiba aja hati udah hampa.\nAku lagi prose",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DblNX0Jm3nd",
+      "timestamp": "2026-08-03T14:31:37+0000",
       "metrics": {
-        "views": 0,
-        "likes": 3,
+        "views": 31,
+        "likes": 0,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 3
+      "engagement": 0
+    },
+    {
+      "id": "17877343710527557",
+      "text": "Unpopular opinion: sholat Dhuha itu bukan soal \"biar rezeki lancar\" — tapi aku ngerasa, yang paling kerasa tuh ketenanga",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DblDEaQGyIw",
+      "timestamp": "2026-08-03T13:01:39+0000",
+      "metrics": {
+        "views": 210,
+        "likes": 6,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 6
+    },
+    {
+      "id": "17883499884613623",
+      "text": "Lagi di titik paling buntu, aku baru nyadar — selama ini aku overthinking karena deep down ga beneran husnudzon sama All",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dbk4wq-mxWv",
+      "timestamp": "2026-08-03T11:31:31+0000",
+      "metrics": {
+        "views": 164,
+        "likes": 7,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 7
     },
     {
       "id": "18102976988179493",
@@ -117,7 +147,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dbknn2dFrcv",
       "timestamp": "2026-08-03T09:01:45+0000",
       "metrics": {
-        "views": 117,
+        "views": 128,
         "likes": 3,
         "replies": 0,
         "reposts": 0,
@@ -132,7 +162,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbkPjMCm2bt",
       "timestamp": "2026-08-03T05:31:24+0000",
       "metrics": {
-        "views": 106,
+        "views": 108,
         "likes": 1,
         "replies": 1,
         "reposts": 0,
@@ -147,7 +177,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dbj3iSFjdbn",
       "timestamp": "2026-08-03T02:01:35+0000",
       "metrics": {
-        "views": 76,
+        "views": 77,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -162,7 +192,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbjcDeoIOCT",
       "timestamp": "2026-08-02T22:01:26+0000",
       "metrics": {
-        "views": 109,
+        "views": 110,
         "likes": 3,
         "replies": 0,
         "reposts": 0,
@@ -177,7 +207,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dbi2R0_m_N7",
       "timestamp": "2026-08-02T16:31:21+0000",
       "metrics": {
-        "views": 149,
+        "views": 153,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -192,7 +222,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbiojEIElMk",
       "timestamp": "2026-08-02T14:31:23+0000",
       "metrics": {
-        "views": 156,
+        "views": 157,
         "likes": 2,
         "replies": 0,
         "reposts": 1,
@@ -207,7 +237,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbieQVCGyWN",
       "timestamp": "2026-08-02T13:01:26+0000",
       "metrics": {
-        "views": 111,
+        "views": 113,
         "likes": 4,
         "replies": 0,
         "reposts": 0,
@@ -215,36 +245,6 @@
         "shares": 0
       },
       "engagement": 4
-    },
-    {
-      "id": "18051500558792464",
-      "text": "Habis Subuh, aku coba duduk sebentar — bukan langsung buka hp, tapi doa dulu buat Mama sama Bapak.\nGa panjang-panjang. C",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbiT8_akXrd",
-      "timestamp": "2026-08-02T11:31:24+0000",
-      "metrics": {
-        "views": 30,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "17903092854496862",
-      "text": "Malam ini aku tanya ke diri sendiri — udah sabar beneran, apa cuma nahan sambil dalam hati ngomel?\nSoalnya aku baru sada",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbiCykglo2K",
-      "timestamp": "2026-08-02T09:01:27+0000",
-      "metrics": {
-        "views": 24,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
     }
   ]
 }
