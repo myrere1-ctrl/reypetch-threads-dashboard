@@ -1,11 +1,11 @@
 {
   "account": "rrpetch",
-  "updated_at": "2026-08-04T12:22:33.925Z",
+  "updated_at": "2026-08-04T15:40:33.815Z",
   "profile": {
     "username": "rrpetch",
     "name": "rrp",
     "biography": "Travelers",
-    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/725626839_18109259368780392_5435560104487373455_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=5hE8pL-55zsQ7kNvwEfMuwV&_nc_oc=AdoavesCPbVBJfyiWSq7hqn196eXWLerMVVnk0-43sk3SghUCOf06g4try7-2zmC3t8&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=3aBHWGIOL-IEIcXm65_n7w&_nc_tpa=Q5bMBQFEaf5jkuhzsej3Byz9rVAYD5DMFGFV2nhD3QdbsznDdeCDxPsvw2mgUp46dIlWObCxFf2IgrW0rA&oh=00_AQHmYpY-SUki3kRdwiaZqds2FmKNpzaiBMywKzNJ5RyRag&oe=6A77ACED"
+    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/725626839_18109259368780392_5435560104487373455_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=5hE8pL-55zsQ7kNvwEkO4q2&_nc_oc=Adr_XkQG7sJnQnC6i7czdX_k8e92mkO_eoV4yl3dD6bFwAjHud1qUoCTlDmL1ZynGwA&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=DDOPDQFyAEDN7BJOr2Hh3w&_nc_tpa=Q5bMBQEkI9v15uKgzZZSBU34xjHqCboEAvuqh9qB78U6t9kgkd-6AG92OS2jwhkWacJZztmkHqp-CMPwQQ&oh=00_AQENKidHwNAS8go_ixulJoaaQMSaUN3QSrZf3csgNSw-ZA&oe=6A77E52D"
   },
   "summary": {
     "followers_count": 0,
@@ -21,6 +21,21 @@
     "post_count": 25
   },
   "top_posts": [
+    {
+      "id": "18019978925908807",
+      "text": "Wisatawan Spanyol punya pola yang menarik:\nsekitar 65% pertanyaan mereka sebelum berangkat\n— soal jam buka Sagrada Famíl",
+      "permalink": "https://www.threads.com/@rrpetch/post/Dbnusz1oIh_oGdME9AMIMblLursOIMs16YZgj40",
+      "timestamp": "2026-08-04T14:01:20+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
     {
       "id": "18124121113765125",
       "text": "Agen travel Prancis itu tidak kalah menantang dari Umroh.\nKlien tanya soal antrean Louvre, aturan foto di Versailles, sa",
@@ -80,12 +95,14 @@
         "shares": 0
       },
       "engagement": 0
-    },
+    }
+  ],
+  "recent_posts": [
     {
-      "id": "18096176594370297",
-      "text": "Agen travel Italia — 2 staff CS, klien yang terus bertanya dari pagi sampai malam.\nDress code basilika mana yang ketat, ",
-      "permalink": "https://www.threads.com/@rrpetch/post/Dbmw5cFICoE9xTVNeRrKb2Sf_HLDrTThVEH2HM0",
-      "timestamp": "2026-08-04T05:01:17+0000",
+      "id": "18019978925908807",
+      "text": "Wisatawan Spanyol punya pola yang menarik:\nsekitar 65% pertanyaan mereka sebelum berangkat\n— soal jam buka Sagrada Famíl",
+      "permalink": "https://www.threads.com/@rrpetch/post/Dbnusz1oIh_oGdME9AMIMblLursOIMs16YZgj40",
+      "timestamp": "2026-08-04T14:01:20+0000",
       "metrics": {
         "views": 0,
         "likes": 0,
@@ -95,9 +112,7 @@
         "shares": 0
       },
       "engagement": 0
-    }
-  ],
-  "recent_posts": [
+    },
     {
       "id": "18124121113765125",
       "text": "Agen travel Prancis itu tidak kalah menantang dari Umroh.\nKlien tanya soal antrean Louvre, aturan foto di Versailles, sa",
@@ -223,21 +238,6 @@
       "text": "Italia punya aturan yang sering luput dari perhatian traveler:\ndress code ketat di basilika, jam tutup museum yang berbe",
       "permalink": "https://www.threads.com/@rrpetch/post/DbmHtBnjyYB7Q6lfdpNpuNW1CvxdYHSAJAJfsc0",
       "timestamp": "2026-08-03T23:01:20+0000",
-      "metrics": {
-        "views": 0,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18110121775817381",
-      "text": "Wisatawan Italia sering kaget dengan satu hal:\nsekitar 60–70% pertanyaan mereka sebelum berangkat — soal dress code basi",
-      "permalink": "https://www.threads.com/@rrpetch/post/DblJ58_lM0s5_Oj8zzra57WgCdlnd8_jEDwzNw0",
-      "timestamp": "2026-08-03T14:01:19+0000",
       "metrics": {
         "views": 0,
         "likes": 0,
