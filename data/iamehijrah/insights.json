@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-08-04T06:45:58.531Z",
+  "updated_at": "2026-08-04T10:04:04.242Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-sin6-3.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=KZbTTrpR23MQ7kNvwHRC5DY&_nc_oc=Adozl7BxK0ju5LoHOSGA4v6ok_zzMBDgYF-ye8Sf2bb1DKHq87ukBLfADVE1AFdTBh8&_nc_zt=24&_nc_ht=scontent-sin6-3.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=qXYFArBTT2aD0c55yXUdSA&_nc_tpa=Q5bMBQHI8bQmThCf_HnPpkpkKM2HOQIsc7JlTB67Jk-dvMA2ZaanLpfkEpPNwdiicj2spWiQdRy4EhBt6Q&oh=00_AQHAEK_IvoZ86Tcz3uXZOjHJmiqOXldVAMozz0JeMePFBw&oe=6A777953"
+    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=KZbTTrpR23MQ7kNvwGDls5n&_nc_oc=AdokZ_U1aKGkcQnpvsuObQkMAvWsaFO_h6pcOJ-HQbtZFbfdSVgsFu76SYQTvtjMzHQ&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=DQj4UQzP5TKKNJSUqkJ6fA&_nc_tpa=Q5bMBQFBIyzvg2lmBE_NdlNWI6Z1naX2gUEWmGT1qP8k_zi7l6VISlvoKzc4is37ihhTG_GpABAxYF1v0A&oh=00_AQGhHrT5FPWSCw89HEC5T-Pwg4NvLd6cfiKJu4GW5YAHyQ&oe=6A777953"
   },
   "summary": {
     "followers_count": 0,
-    "views": 1072,
-    "likes": 23,
+    "views": 40,
+    "likes": 0,
     "replies": 0,
-    "reposts": 0,
+    "reposts": 1,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 47,
-    "engagement_rate": 4.38,
+    "engagement_total": 48,
+    "engagement_rate": 120,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -25,7 +25,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DblDEaQGyIw",
       "timestamp": "2026-08-03T13:01:39+0000",
       "metrics": {
-        "views": 226,
+        "views": 227,
         "likes": 7,
         "replies": 0,
         "reposts": 0,
@@ -97,12 +97,27 @@
   ],
   "recent_posts": [
     {
+      "id": "17923746336408099",
+      "text": "Unpopular opinion: ngedoain orang tua itu bukan soal \"nunggu ada waktu\" — justru aku ngerasa, doa buat mereka yang palin",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbnMaRym6qy",
+      "timestamp": "2026-08-04T09:01:42+0000",
+      "metrics": {
+        "views": 30,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 1,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
       "id": "18083268929264142",
       "text": "Sabar itu bukan nunggu tanpa rasa — aku lagi belajar ini keras banget belakangan ini.\nYang aku coba latih: tetap gerak, ",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dbm0WzZkVjl",
       "timestamp": "2026-08-04T05:31:30+0000",
       "metrics": {
-        "views": 17,
+        "views": 28,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -162,7 +177,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DblNX0Jm3nd",
       "timestamp": "2026-08-03T14:31:37+0000",
       "metrics": {
-        "views": 36,
+        "views": 37,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -177,7 +192,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DblDEaQGyIw",
       "timestamp": "2026-08-03T13:01:39+0000",
       "metrics": {
-        "views": 226,
+        "views": 227,
         "likes": 7,
         "replies": 0,
         "reposts": 0,
@@ -230,21 +245,6 @@
         "shares": 0
       },
       "engagement": 2
-    },
-    {
-      "id": "17937390144323446",
-      "text": "Aku nyadar, dzikir pagi dan petang itu sering aku anggap \"checklist\" — dibaca cepet, terus lanjut aktivitas.\nTapi ada pa",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dbj3iSFjdbn",
-      "timestamp": "2026-08-03T02:01:35+0000",
-      "metrics": {
-        "views": 78,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
     }
   ]
 }
