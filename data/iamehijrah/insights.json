@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-08-04T03:44:33.756Z",
+  "updated_at": "2026-08-04T06:45:58.531Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=KZbTTrpR23MQ7kNvwFfdPO2&_nc_oc=AdpQE9u7i6l9pYvwvurNkrrZ3bzOlgMXrVC4YKq677HYz3r4WPbZvD9YzB1HLjBzP6w&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=TqTZroRE0m9gb6QBQ2eUTQ&_nc_tpa=Q5bMBQGkJlvLZEVURnW5G1xklf9ucl-mK716yH5PoxWLBjgWsb5Y0XOOnp_-Qugh1RO2a_dp5EumXSrulQ&oh=00_AQFmvlJub298tfWG0JlB2anPgw1iLb5_zbIa_Ld8Bjyktw&oe=6A774113"
+    "picture": "https://scontent-sin6-3.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=KZbTTrpR23MQ7kNvwHRC5DY&_nc_oc=Adozl7BxK0ju5LoHOSGA4v6ok_zzMBDgYF-ye8Sf2bb1DKHq87ukBLfADVE1AFdTBh8&_nc_zt=24&_nc_ht=scontent-sin6-3.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=qXYFArBTT2aD0c55yXUdSA&_nc_tpa=Q5bMBQHI8bQmThCf_HnPpkpkKM2HOQIsc7JlTB67Jk-dvMA2ZaanLpfkEpPNwdiicj2spWiQdRy4EhBt6Q&oh=00_AQHAEK_IvoZ86Tcz3uXZOjHJmiqOXldVAMozz0JeMePFBw&oe=6A777953"
   },
   "summary": {
     "followers_count": 0,
-    "views": 1044,
+    "views": 1072,
     "likes": 23,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 47,
-    "engagement_rate": 4.5,
+    "engagement_rate": 4.38,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -25,7 +25,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DblDEaQGyIw",
       "timestamp": "2026-08-03T13:01:39+0000",
       "metrics": {
-        "views": 225,
+        "views": 226,
         "likes": 7,
         "replies": 0,
         "reposts": 0,
@@ -55,7 +55,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbmA2hYmwCu",
       "timestamp": "2026-08-03T22:01:27+0000",
       "metrics": {
-        "views": 279,
+        "views": 285,
         "likes": 5,
         "replies": 0,
         "reposts": 0,
@@ -97,12 +97,27 @@
   ],
   "recent_posts": [
     {
+      "id": "18083268929264142",
+      "text": "Sabar itu bukan nunggu tanpa rasa — aku lagi belajar ini keras banget belakangan ini.\nYang aku coba latih: tetap gerak, ",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dbm0WzZkVjl",
+      "timestamp": "2026-08-04T05:31:30+0000",
+      "metrics": {
+        "views": 17,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "18097258541621051",
       "text": "Ada satu kalimat yang sekarang aku ulang-ulang tiap ngerasa di luar kendali — La Hawla Wala Quwwata Illa Billah.\nBukan k",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbmcUTdjTMX",
       "timestamp": "2026-08-04T02:01:27+0000",
       "metrics": {
-        "views": 64,
+        "views": 78,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -117,7 +132,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbmA2hYmwCu",
       "timestamp": "2026-08-03T22:01:27+0000",
       "metrics": {
-        "views": 279,
+        "views": 285,
         "likes": 5,
         "replies": 0,
         "reposts": 0,
@@ -162,7 +177,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DblDEaQGyIw",
       "timestamp": "2026-08-03T13:01:39+0000",
       "metrics": {
-        "views": 225,
+        "views": 226,
         "likes": 7,
         "replies": 0,
         "reposts": 0,
@@ -230,21 +245,6 @@
         "shares": 0
       },
       "engagement": 0
-    },
-    {
-      "id": "17972638880917581",
-      "text": "Hari ini ga ada yang dramatis. Tapi bangun pagi, masih dikasih napas, masih bisa sujud — itu udah sesuatu banget.\nTerus ",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbjcDeoIOCT",
-      "timestamp": "2026-08-02T22:01:26+0000",
-      "metrics": {
-        "views": 110,
-        "likes": 3,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 3
     }
   ]
 }
