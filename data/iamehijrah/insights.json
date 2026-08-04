@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-08-04T21:42:57.862Z",
+  "updated_at": "2026-08-04T23:29:54.675Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=w0WESY0dsOAQ7kNvwGHTOoX&_nc_oc=AdqIdYH_WeE6f93S2Z8JlZEIPL7gxuSdol9YQoX0XEN05_Sx46u45TqM1s6eHayitLU&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=RNKfrO8aGz-ol2Y81ml1aw&_nc_tpa=Q5bMBQGLmbD9cP8mITjdZuiDHVl63ARDInOg9pEzmyHTS6RmGAZlVThE217J-wBqGvSNeqys_ECwRRgvzg&oh=00_AQEDWA1ZjjF04hSDfMEtBxMDRpDpReHcYekqnmdLknalRA&oe=6A782213"
+    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=w0WESY0dsOAQ7kNvwH0336S&_nc_oc=AdpU_BXo6RymuIWhrmVsCexPVdgPgn_aqym0cdWZujLtC9pfquK2wyCpzJebzuuGRig&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=aTe59ZAc7ogr1uL1zgc8Ug&_nc_tpa=Q5bMBQGyxg7HwUuJAUBlYSXE1UQN-PgmN8dM9Z4KQ6izN0t7nefL73fTHXMo4YgVlnm4lLlrLksb3jgsFw&oh=00_AQHw2o6qqJ9crLmvfWmaoWpn2lWYhu2hcyE7PPjlSyBgXQ&oe=6A785A53"
   },
   "summary": {
     "followers_count": 0,
-    "views": 384,
-    "likes": 0,
+    "views": 556,
+    "likes": 1,
     "replies": 0,
     "reposts": 1,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 43,
-    "engagement_rate": 11.2,
+    "engagement_rate": 7.73,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -97,12 +97,27 @@
   ],
   "recent_posts": [
     {
+      "id": "17928513021380635",
+      "text": "Belakangan ini aku mulai rutin baca Sholawat Nariyah tiap habis sholat — pelan, ga buru-buru.\nBukan karena ngejar hitung",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbolqFGAURl",
+      "timestamp": "2026-08-04T22:01:33+0000",
+      "metrics": {
+        "views": 169,
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
       "id": "18079288805335518",
       "text": "Dulu aku mikir doa yang belum dijawab itu tanda Allah diem — kayak sinyal ga ada respon.\nTernyata, justru di masa nunggu",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dbn_4rdkW5A",
       "timestamp": "2026-08-04T16:31:30+0000",
       "metrics": {
-        "views": 68,
+        "views": 69,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -223,21 +238,6 @@
       "timestamp": "2026-08-03T16:31:35+0000",
       "metrics": {
         "views": 51,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18274063699295951",
-      "text": "Ngerasa jauh dari Allah itu aneh — ga ada satu momen jelas kapan mulainya, tiba-tiba aja hati udah hampa.\nAku lagi prose",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DblNX0Jm3nd",
-      "timestamp": "2026-08-03T14:31:37+0000",
-      "metrics": {
-        "views": 37,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
