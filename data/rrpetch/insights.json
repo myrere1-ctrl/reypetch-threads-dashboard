@@ -1,11 +1,11 @@
 {
   "account": "rrpetch",
-  "updated_at": "2026-08-04T10:03:38.098Z",
+  "updated_at": "2026-08-04T12:22:33.925Z",
   "profile": {
     "username": "rrpetch",
     "name": "rrp",
     "biography": "Travelers",
-    "picture": "https://scontent-dfw6-2.cdninstagram.com/v/t51.82787-19/725626839_18109259368780392_5435560104487373455_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=5hE8pL-55zsQ7kNvwEfDGZD&_nc_oc=AdppdQJJYR9MIUMXYgwmugYL9Z-tH8B7xC48DjGObHfd42qKXU0KrzybiODUEJiBAwM&_nc_zt=24&_nc_ht=scontent-dfw6-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=CLpJeLfpIvpWCP71vQrS-Q&_nc_tpa=Q5bMBQGMHPiWVQYoePs5AwvoMSnTMHCaeuj3-v_UyrSPOdv-i6ZGgXuCsOW5iw9ZjMdeImj3S8TVgY7Ebw&oh=00_AQFIF5XyhgBTAGqGw5NjAwB-gSo3xl_ldzH11dfBLvw9mg&oe=6A7774AD"
+    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/725626839_18109259368780392_5435560104487373455_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=5hE8pL-55zsQ7kNvwEfMuwV&_nc_oc=AdoavesCPbVBJfyiWSq7hqn196eXWLerMVVnk0-43sk3SghUCOf06g4try7-2zmC3t8&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=3aBHWGIOL-IEIcXm65_n7w&_nc_tpa=Q5bMBQFEaf5jkuhzsej3Byz9rVAYD5DMFGFV2nhD3QdbsznDdeCDxPsvw2mgUp46dIlWObCxFf2IgrW0rA&oh=00_AQHmYpY-SUki3kRdwiaZqds2FmKNpzaiBMywKzNJ5RyRag&oe=6A77ACED"
   },
   "summary": {
     "followers_count": 0,
@@ -21,6 +21,21 @@
     "post_count": 25
   },
   "top_posts": [
+    {
+      "id": "18124121113765125",
+      "text": "Agen travel Prancis itu tidak kalah menantang dari Umroh.\nKlien tanya soal antrean Louvre, aturan foto di Versailles, sa",
+      "permalink": "https://www.threads.com/@rrpetch/post/Dbng83mIEWoeHkUNqcpcMC8DQQYEcY6-_nRfsg0",
+      "timestamp": "2026-08-04T12:01:11+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
     {
       "id": "17874828012652656",
       "text": "Satu hal yang jarang dipersiapkan jamaah Haji: pertanyaan paling menyita waktu justru muncul setelah tiba di Makkah.\nBuk",
@@ -80,12 +95,14 @@
         "shares": 0
       },
       "engagement": 0
-    },
+    }
+  ],
+  "recent_posts": [
     {
-      "id": "18129147379679254",
-      "text": "Satu hal yang sering bikin traveler Jepang overwhelmed: bukan tiketnya — tapi pertanyaan kecil yang muncul mendadak di t",
-      "permalink": "https://www.threads.com/@rrpetch/post/Dbmmk3Em7uPp_eXXI_pLiuiASTIbnymjLsRRuA0",
-      "timestamp": "2026-08-04T03:31:05+0000",
+      "id": "18124121113765125",
+      "text": "Agen travel Prancis itu tidak kalah menantang dari Umroh.\nKlien tanya soal antrean Louvre, aturan foto di Versailles, sa",
+      "permalink": "https://www.threads.com/@rrpetch/post/Dbng83mIEWoeHkUNqcpcMC8DQQYEcY6-_nRfsg0",
+      "timestamp": "2026-08-04T12:01:11+0000",
       "metrics": {
         "views": 0,
         "likes": 0,
@@ -95,9 +112,7 @@
         "shares": 0
       },
       "engagement": 0
-    }
-  ],
-  "recent_posts": [
+    },
     {
       "id": "17874828012652656",
       "text": "Satu hal yang jarang dipersiapkan jamaah Haji: pertanyaan paling menyita waktu justru muncul setelah tiba di Makkah.\nBuk",
@@ -223,21 +238,6 @@
       "text": "Wisatawan Italia sering kaget dengan satu hal:\nsekitar 60–70% pertanyaan mereka sebelum berangkat — soal dress code basi",
       "permalink": "https://www.threads.com/@rrpetch/post/DblJ58_lM0s5_Oj8zzra57WgCdlnd8_jEDwzNw0",
       "timestamp": "2026-08-03T14:01:19+0000",
-      "metrics": {
-        "views": 0,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "17910663732443907",
-      "text": "Mitos yang sering beredar: traveler Jepang itu mandiri, jadi tidak butuh banyak bantuan dari agen.\nKenyataannya? Justru ",
-      "permalink": "https://www.threads.com/@rrpetch/post/Dbk8L8Elbc5BfOTgg_IMfS6s1qaVIHRHHVr1jI0",
-      "timestamp": "2026-08-03T12:01:27+0000",
       "metrics": {
         "views": 0,
         "likes": 0,
