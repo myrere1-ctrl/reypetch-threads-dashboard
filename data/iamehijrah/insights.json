@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-08-04T10:04:04.242Z",
+  "updated_at": "2026-08-04T12:23:06.864Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=KZbTTrpR23MQ7kNvwGDls5n&_nc_oc=AdokZ_U1aKGkcQnpvsuObQkMAvWsaFO_h6pcOJ-HQbtZFbfdSVgsFu76SYQTvtjMzHQ&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=DQj4UQzP5TKKNJSUqkJ6fA&_nc_tpa=Q5bMBQFBIyzvg2lmBE_NdlNWI6Z1naX2gUEWmGT1qP8k_zi7l6VISlvoKzc4is37ihhTG_GpABAxYF1v0A&oh=00_AQGhHrT5FPWSCw89HEC5T-Pwg4NvLd6cfiKJu4GW5YAHyQ&oe=6A777953"
+    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=KZbTTrpR23MQ7kNvwEiq9gC&_nc_oc=Adq67CVv28at11b91DNNIvdyuJst4Yr7StvsOIqhBG_nLmAlyYU-4R4_w0R98yCXq8E&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=zxSurGSajMQAnH1Q5XDV5A&_nc_tpa=Q5bMBQEkBpff30LkaAewdZmqbinPh9UVK7NXQ2OxdEavEQxevGknOMsQCqDck912uz45PNX1WqqG9yYjfA&oh=00_AQFVDfcaEbkvzfh481qddfWUpBKyKYimbW3kmDqaTdwl1w&oe=6A77B193"
   },
   "summary": {
     "followers_count": 0,
-    "views": 40,
+    "views": 108,
     "likes": 0,
     "replies": 0,
     "reposts": 1,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 48,
-    "engagement_rate": 120,
+    "engagement_rate": 44.44,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -25,7 +25,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DblDEaQGyIw",
       "timestamp": "2026-08-03T13:01:39+0000",
       "metrics": {
-        "views": 227,
+        "views": 229,
         "likes": 7,
         "replies": 0,
         "reposts": 0,
@@ -97,12 +97,27 @@
   ],
   "recent_posts": [
     {
+      "id": "18026668139894795",
+      "text": "Ada satu hal yang aku coba konsistenin belakangan ini — sedekah kecil tiap hari, seberapapun bisa.\nBukan karena mau namb",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbndjGdm2-G",
+      "timestamp": "2026-08-04T11:31:27+0000",
+      "metrics": {
+        "views": 62,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "17923746336408099",
       "text": "Unpopular opinion: ngedoain orang tua itu bukan soal \"nunggu ada waktu\" — justru aku ngerasa, doa buat mereka yang palin",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbnMaRym6qy",
       "timestamp": "2026-08-04T09:01:42+0000",
       "metrics": {
-        "views": 30,
+        "views": 34,
         "likes": 0,
         "replies": 0,
         "reposts": 1,
@@ -192,7 +207,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DblDEaQGyIw",
       "timestamp": "2026-08-03T13:01:39+0000",
       "metrics": {
-        "views": 227,
+        "views": 229,
         "likes": 7,
         "replies": 0,
         "reposts": 0,
@@ -230,21 +245,6 @@
         "shares": 0
       },
       "engagement": 3
-    },
-    {
-      "id": "17924267439393093",
-      "text": "Jam 3 pagi, aku kadang masih terjaga — tapi bukan buat tahajjud, tapi scroll atau overthinking.\nTerus nyadar: ada waktu ",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbkPjMCm2bt",
-      "timestamp": "2026-08-03T05:31:24+0000",
-      "metrics": {
-        "views": 108,
-        "likes": 1,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 2
     }
   ]
 }
