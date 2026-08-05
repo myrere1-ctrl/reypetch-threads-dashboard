@@ -1,11 +1,11 @@
 {
   "account": "rrpetch",
-  "updated_at": "2026-08-05T12:20:35.702Z",
+  "updated_at": "2026-08-05T14:43:16.978Z",
   "profile": {
     "username": "rrpetch",
     "name": "rrp",
     "biography": "Travelers",
-    "picture": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/725626839_18109259368780392_5435560104487373455_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=5hE8pL-55zsQ7kNvwHE9m9v&_nc_oc=AdpvnJZsBCFlv22j8wmr_0Y6BBAXPgZD8lqyj6x3CIBMrT3nclgMaDx8b52mcG4KWhY&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=FCayZA5tvCEp29xIXkylRA&_nc_tpa=Q5bMBQE-VRHJ6KT-x3smJOWRGlzFmGLmnBZeRrfk4N258jkwRUfP-OSlGuAmLw3l90juW0gMwpGAPffJyA&oh=00_AQFVblSl6SNmo0vSd3PVzZAVEbX6SF800mYcwH0rNojgHA&oe=6A78FE6D"
+    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/725626839_18109259368780392_5435560104487373455_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=5hE8pL-55zsQ7kNvwGmfX4-&_nc_oc=AdrzH9M-nfXk9zKzp10d_9aYeA0_T7g8G9BlNVJexELSSsZ_pzxhDUhhE8DMHhcyDPQ&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=n9OY8LgSeHzKH_6xdZr1-w&_nc_tpa=Q5bMBQE4FAe9u1AR7GGbn8ImLo_Sn7MQOn0IVP0YZbBkbyfhVu2uHvyq_eLRarvHgzf2wIo-coMUDzl-Xg&oh=00_AQECZlirnf1qXvOHbucT_n1ybngkSq7Z_bExoKwsHNVaDQ&oe=6A7936AD"
   },
   "summary": {
     "followers_count": 0,
@@ -21,6 +21,21 @@
     "post_count": 25
   },
   "top_posts": [
+    {
+      "id": "18106073471146019",
+      "text": "Agen Umroh Anda bisa punya AI companion ber-brand sendiri — nama brand Anda, bukan nama vendor.\nSafar AI bisa di-white l",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbqTf-tFd8lGyvfNXf1uQ_vZeFODs5Cd1tFGlo0",
+      "timestamp": "2026-08-05T14:01:22+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
     {
       "id": "18086272616193509",
       "text": "Satu fitur ViaAI yang menarik untuk destinasi Italia:\nAI-nya bisa menyimpan preferensi klien sepanjang percakapan.\nKlien",
@@ -80,12 +95,14 @@
         "shares": 0
       },
       "engagement": 0
-    },
+    }
+  ],
+  "recent_posts": [
     {
-      "id": "18123964246806453",
-      "text": "Satu hal yang jarang disadari traveler Spanyol:\nAI companion bisa simpan konteks percakapan — bukan hanya jawab, tapi *i",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbpVrlznNIVobcjHCMXWBygIUqkQ3pHln6qilo0",
-      "timestamp": "2026-08-05T05:01:11+0000",
+      "id": "18106073471146019",
+      "text": "Agen Umroh Anda bisa punya AI companion ber-brand sendiri — nama brand Anda, bukan nama vendor.\nSafar AI bisa di-white l",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbqTf-tFd8lGyvfNXf1uQ_vZeFODs5Cd1tFGlo0",
+      "timestamp": "2026-08-05T14:01:22+0000",
       "metrics": {
         "views": 0,
         "likes": 0,
@@ -95,9 +112,7 @@
         "shares": 0
       },
       "engagement": 0
-    }
-  ],
-  "recent_posts": [
+    },
     {
       "id": "18086272616193509",
       "text": "Satu fitur ViaAI yang menarik untuk destinasi Italia:\nAI-nya bisa menyimpan preferensi klien sepanjang percakapan.\nKlien",
@@ -223,21 +238,6 @@
       "text": "Agen travel Spanyol bisa punya AI companion ber-brand sendiri — nama brand Anda, bukan nama vendor.\nKlien tanya jam buka",
       "permalink": "https://www.threads.com/@rrpetch/post/Dbose6IgReTHbeo7mW6-PhW2uDw5j-j991ggP80",
       "timestamp": "2026-08-04T23:01:12+0000",
-      "metrics": {
-        "views": 0,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18019978925908807",
-      "text": "Wisatawan Spanyol punya pola yang menarik:\nsekitar 65% pertanyaan mereka sebelum berangkat\n— soal jam buka Sagrada Famíl",
-      "permalink": "https://www.threads.com/@rrpetch/post/Dbnusz1oIh_oGdME9AMIMblLursOIMs16YZgj40",
-      "timestamp": "2026-08-04T14:01:20+0000",
       "metrics": {
         "views": 0,
         "likes": 0,
