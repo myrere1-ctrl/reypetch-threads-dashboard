@@ -1,11 +1,11 @@
 {
   "account": "rrpetch",
-  "updated_at": "2026-08-05T03:40:49.903Z",
+  "updated_at": "2026-08-05T06:47:37.838Z",
   "profile": {
     "username": "rrpetch",
     "name": "rrp",
     "biography": "Travelers",
-    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/725626839_18109259368780392_5435560104487373455_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=5hE8pL-55zsQ7kNvwFSavjQ&_nc_oc=AdoW4B6qg4in74v-KZLAN_hPwSlQ9c5U6PuP-YHZkrBCqzt5rrDiIuJaNUg_ZFVKJxA&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=diCEJp5T8t2CIJTYTb6T2Q&_nc_tpa=Q5bMBQF9IQvW44-NuiGD6lENQ0LV2u5w2ezsL_O9wVvGuf05Q6fklDEIa_IwxAkel9CcTU1I_j84nu_8wQ&oh=00_AQEN96b6SKn2akXcAssCkRr9YL-D1cu3Ug_ou1jUmGSkiw&oe=6A788DED"
+    "picture": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/725626839_18109259368780392_5435560104487373455_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=5hE8pL-55zsQ7kNvwGloPiz&_nc_oc=AdqjiRRWXXKHQaqsIdVsjbNFPJtkQF_8r96oU5NA_h68x7XRdIYFi7t8_AKJS_hGh0A&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=XAtFkp-WTOzrY2L-wnHdjQ&_nc_tpa=Q5bMBQHGnm42TG0TCqJH__wu3LWbnImdvyYdrxmCRqJTNWIT-AnLGCbT7kf8QlosFaydOClhY4D8XSaSCg&oh=00_AQFaBJzF31lZHsOn2oNIbB1Bjz7onlU-MNljHkRH__0Aog&oe=6A78C62D"
   },
   "summary": {
     "followers_count": 0,
@@ -21,6 +21,36 @@
     "post_count": 25
   },
   "top_posts": [
+    {
+      "id": "18137202316608005",
+      "text": "Satu fitur ViaAI yang sering bikin agen travel Jepang terkejut: AI-nya bisa jawab dalam Bahasa Indonesia — tapi sumber d",
+      "permalink": "https://www.threads.com/@rrpetch/post/Dbpf-ZJliujgSsQSPruoPUXhl-MlImNnGSN2G40",
+      "timestamp": "2026-08-05T06:31:08+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "18123964246806453",
+      "text": "Satu hal yang jarang disadari traveler Spanyol:\nAI companion bisa simpan konteks percakapan — bukan hanya jawab, tapi *i",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbpVrlznNIVobcjHCMXWBygIUqkQ3pHln6qilo0",
+      "timestamp": "2026-08-05T05:01:11+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
     {
       "id": "18492055651101640",
       "text": "Traveler Prancis punya satu kebiasaan unik: mereka riset jauh sebelum berangkat — tapi tetap panik saat tiba.\nAntrian Lo",
@@ -65,39 +95,39 @@
         "shares": 0
       },
       "engagement": 0
-    },
-    {
-      "id": "18125414758723175",
-      "text": "Agen travel Spanyol bisa punya AI companion ber-brand sendiri — nama brand Anda, bukan nama vendor.\nKlien tanya jam buka",
-      "permalink": "https://www.threads.com/@rrpetch/post/Dbose6IgReTHbeo7mW6-PhW2uDw5j-j991ggP80",
-      "timestamp": "2026-08-04T23:01:12+0000",
-      "metrics": {
-        "views": 0,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18019978925908807",
-      "text": "Wisatawan Spanyol punya pola yang menarik:\nsekitar 65% pertanyaan mereka sebelum berangkat\n— soal jam buka Sagrada Famíl",
-      "permalink": "https://www.threads.com/@rrpetch/post/Dbnusz1oIh_oGdME9AMIMblLursOIMs16YZgj40",
-      "timestamp": "2026-08-04T14:01:20+0000",
-      "metrics": {
-        "views": 0,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
     }
   ],
   "recent_posts": [
+    {
+      "id": "18137202316608005",
+      "text": "Satu fitur ViaAI yang sering bikin agen travel Jepang terkejut: AI-nya bisa jawab dalam Bahasa Indonesia — tapi sumber d",
+      "permalink": "https://www.threads.com/@rrpetch/post/Dbpf-ZJliujgSsQSPruoPUXhl-MlImNnGSN2G40",
+      "timestamp": "2026-08-05T06:31:08+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "18123964246806453",
+      "text": "Satu hal yang jarang disadari traveler Spanyol:\nAI companion bisa simpan konteks percakapan — bukan hanya jawab, tapi *i",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbpVrlznNIVobcjHCMXWBygIUqkQ3pHln6qilo0",
+      "timestamp": "2026-08-05T05:01:11+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
     {
       "id": "18492055651101640",
       "text": "Traveler Prancis punya satu kebiasaan unik: mereka riset jauh sebelum berangkat — tapi tetap panik saat tiba.\nAntrian Lo",
@@ -208,36 +238,6 @@
       "text": "70% pertanyaan klien agen travel Eropa sebenarnya berulang — jam buka museum, aturan visa transit, dress code gereja.\nSt",
       "permalink": "https://www.threads.com/@rrpetch/post/DbnFf9Qm4l-AJKzcyCLaxJ5Uf84rYgQqcB4crc0",
       "timestamp": "2026-08-04T08:01:23+0000",
-      "metrics": {
-        "views": 0,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18211950538347639",
-      "text": "Agen Umroh Anda bisa punya AI companion ber-brand sendiri — tanpa bangun teknologi dari nol.\nTomodachi AI tersedia dalam",
-      "permalink": "https://www.threads.com/@rrpetch/post/Dbm7LeDkRtfmTHg9cEuurEsnXsur9OUk576AGE0",
-      "timestamp": "2026-08-04T06:31:08+0000",
-      "metrics": {
-        "views": 0,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18096176594370297",
-      "text": "Agen travel Italia — 2 staff CS, klien yang terus bertanya dari pagi sampai malam.\nDress code basilika mana yang ketat, ",
-      "permalink": "https://www.threads.com/@rrpetch/post/Dbmw5cFICoE9xTVNeRrKb2Sf_HLDrTThVEH2HM0",
-      "timestamp": "2026-08-04T05:01:17+0000",
       "metrics": {
         "views": 0,
         "likes": 0,
