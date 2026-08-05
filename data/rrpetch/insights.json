@@ -1,11 +1,11 @@
 {
   "account": "rrpetch",
-  "updated_at": "2026-08-05T06:47:37.838Z",
+  "updated_at": "2026-08-05T10:01:15.834Z",
   "profile": {
     "username": "rrpetch",
     "name": "rrp",
     "biography": "Travelers",
-    "picture": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/725626839_18109259368780392_5435560104487373455_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=5hE8pL-55zsQ7kNvwGloPiz&_nc_oc=AdqjiRRWXXKHQaqsIdVsjbNFPJtkQF_8r96oU5NA_h68x7XRdIYFi7t8_AKJS_hGh0A&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=XAtFkp-WTOzrY2L-wnHdjQ&_nc_tpa=Q5bMBQHGnm42TG0TCqJH__wu3LWbnImdvyYdrxmCRqJTNWIT-AnLGCbT7kf8QlosFaydOClhY4D8XSaSCg&oh=00_AQFaBJzF31lZHsOn2oNIbB1Bjz7onlU-MNljHkRH__0Aog&oe=6A78C62D"
+    "picture": "https://scontent-fra5-1.cdninstagram.com/v/t51.82787-19/725626839_18109259368780392_5435560104487373455_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=5hE8pL-55zsQ7kNvwGB1fh_&_nc_oc=AdrBF4A6HFTuZYqcoPcDz2_E6qj9mu9sEB0quuy2IXj8-02FZT--ZP57-RpmfyrSwf8&_nc_zt=24&_nc_ht=scontent-fra5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=om_yFQxaLrgdbz43pDeeDQ&_nc_tpa=Q5bMBQFCkUsDCZNM3Bq6Jf1i3FcqwElyWw8lBjlxjhbnunbVNd1iywevXqEOQI8KuRUk27o8iv6iIcUDNw&oh=00_AQE2rjUxNxoZdSxgvM5RWtaV6Yu61CdtWnfy0kenmUlaTA&oe=6A78C62D"
   },
   "summary": {
     "followers_count": 0,
@@ -21,6 +21,21 @@
     "post_count": 25
   },
   "top_posts": [
+    {
+      "id": "17976729161899960",
+      "text": "Sekitar 80% pertanyaan jamaah Umroh sebenarnya berulang setiap musim — jadwal bus shalawat, aturan masuk Raudhah, batas ",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbpqS44m9ghrUFjKH2B9TNVjVjvn7QnbGMoUtY0",
+      "timestamp": "2026-08-05T08:01:19+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
     {
       "id": "18137202316608005",
       "text": "Satu fitur ViaAI yang sering bikin agen travel Jepang terkejut: AI-nya bisa jawab dalam Bahasa Indonesia — tapi sumber d",
@@ -80,12 +95,14 @@
         "shares": 0
       },
       "engagement": 0
-    },
+    }
+  ],
+  "recent_posts": [
     {
-      "id": "18069712676719671",
-      "text": "Agen travel Eropa di Jakarta itu punya 3 staff CS — dan semua kewalahan di peak season.\nKlien tanya soal validasi tiket ",
-      "permalink": "https://www.threads.com/@rrpetch/post/Dbo2x1Nmfme1Cb2bL0UJ-9cY49Hxkg6dkP7XCU0",
-      "timestamp": "2026-08-05T00:31:10+0000",
+      "id": "17976729161899960",
+      "text": "Sekitar 80% pertanyaan jamaah Umroh sebenarnya berulang setiap musim — jadwal bus shalawat, aturan masuk Raudhah, batas ",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbpqS44m9ghrUFjKH2B9TNVjVjvn7QnbGMoUtY0",
+      "timestamp": "2026-08-05T08:01:19+0000",
       "metrics": {
         "views": 0,
         "likes": 0,
@@ -95,9 +112,7 @@
         "shares": 0
       },
       "engagement": 0
-    }
-  ],
-  "recent_posts": [
+    },
     {
       "id": "18137202316608005",
       "text": "Satu fitur ViaAI yang sering bikin agen travel Jepang terkejut: AI-nya bisa jawab dalam Bahasa Indonesia — tapi sumber d",
@@ -223,21 +238,6 @@
       "text": "Satu hal yang jarang dipersiapkan jamaah Haji: pertanyaan paling menyita waktu justru muncul setelah tiba di Makkah.\nBuk",
       "permalink": "https://www.threads.com/@rrpetch/post/DbnTN7JleAq2uQjla9GOdgTXyOyo4e7MRWvPi40",
       "timestamp": "2026-08-04T10:01:12+0000",
-      "metrics": {
-        "views": 0,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18363254836212376",
-      "text": "70% pertanyaan klien agen travel Eropa sebenarnya berulang — jam buka museum, aturan visa transit, dress code gereja.\nSt",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbnFf9Qm4l-AJKzcyCLaxJ5Uf84rYgQqcB4crc0",
-      "timestamp": "2026-08-04T08:01:23+0000",
       "metrics": {
         "views": 0,
         "likes": 0,
