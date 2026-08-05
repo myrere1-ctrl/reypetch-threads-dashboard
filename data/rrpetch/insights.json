@@ -1,11 +1,11 @@
 {
   "account": "rrpetch",
-  "updated_at": "2026-08-05T10:01:15.834Z",
+  "updated_at": "2026-08-05T12:20:35.702Z",
   "profile": {
     "username": "rrpetch",
     "name": "rrp",
     "biography": "Travelers",
-    "picture": "https://scontent-fra5-1.cdninstagram.com/v/t51.82787-19/725626839_18109259368780392_5435560104487373455_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=5hE8pL-55zsQ7kNvwGB1fh_&_nc_oc=AdrBF4A6HFTuZYqcoPcDz2_E6qj9mu9sEB0quuy2IXj8-02FZT--ZP57-RpmfyrSwf8&_nc_zt=24&_nc_ht=scontent-fra5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=om_yFQxaLrgdbz43pDeeDQ&_nc_tpa=Q5bMBQFCkUsDCZNM3Bq6Jf1i3FcqwElyWw8lBjlxjhbnunbVNd1iywevXqEOQI8KuRUk27o8iv6iIcUDNw&oh=00_AQE2rjUxNxoZdSxgvM5RWtaV6Yu61CdtWnfy0kenmUlaTA&oe=6A78C62D"
+    "picture": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/725626839_18109259368780392_5435560104487373455_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=5hE8pL-55zsQ7kNvwHE9m9v&_nc_oc=AdpvnJZsBCFlv22j8wmr_0Y6BBAXPgZD8lqyj6x3CIBMrT3nclgMaDx8b52mcG4KWhY&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=FCayZA5tvCEp29xIXkylRA&_nc_tpa=Q5bMBQE-VRHJ6KT-x3smJOWRGlzFmGLmnBZeRrfk4N258jkwRUfP-OSlGuAmLw3l90juW0gMwpGAPffJyA&oh=00_AQFVblSl6SNmo0vSd3PVzZAVEbX6SF800mYcwH0rNojgHA&oe=6A78FE6D"
   },
   "summary": {
     "followers_count": 0,
@@ -21,6 +21,36 @@
     "post_count": 25
   },
   "top_posts": [
+    {
+      "id": "18086272616193509",
+      "text": "Satu fitur ViaAI yang menarik untuk destinasi Italia:\nAI-nya bisa menyimpan preferensi klien sepanjang percakapan.\nKlien",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbqFw2ZlrYskXKjj9vw8zxfLFZefMBXAxzwrhA0",
+      "timestamp": "2026-08-05T12:01:20+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "17878094502684396",
+      "text": "Traveler Jepang punya pola yang cukup konsisten: sekitar 72% pertanyaan mereka ke agen sebenarnya berulang setiap musim.",
+      "permalink": "https://www.threads.com/@rrpetch/post/Dbp4A1pGwVW7kM51XVNGF_sXO8xIjwXehL9PHE0",
+      "timestamp": "2026-08-05T10:01:12+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
     {
       "id": "17976729161899960",
       "text": "Sekitar 80% pertanyaan jamaah Umroh sebenarnya berulang setiap musim — jadwal bus shalawat, aturan masuk Raudhah, batas ",
@@ -65,39 +95,39 @@
         "shares": 0
       },
       "engagement": 0
-    },
-    {
-      "id": "18492055651101640",
-      "text": "Traveler Prancis punya satu kebiasaan unik: mereka riset jauh sebelum berangkat — tapi tetap panik saat tiba.\nAntrian Lo",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbpLYP8DnHcY1apEMrCkRfdWgjgrubHIIQJsU40",
-      "timestamp": "2026-08-05T03:31:10+0000",
-      "metrics": {
-        "views": 0,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18114543203491908",
-      "text": "Satu hal yang sering luput dari persiapan jamaah Haji: tubuh lelah, sinyal susah, tapi pertanyaan tetap datang.\nWaktu ta",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbpBE7uFnwp7cfjERMkNPqY9aynhK9cbhZuCzQ0",
-      "timestamp": "2026-08-05T02:01:08+0000",
-      "metrics": {
-        "views": 0,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
     }
   ],
   "recent_posts": [
+    {
+      "id": "18086272616193509",
+      "text": "Satu fitur ViaAI yang menarik untuk destinasi Italia:\nAI-nya bisa menyimpan preferensi klien sepanjang percakapan.\nKlien",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbqFw2ZlrYskXKjj9vw8zxfLFZefMBXAxzwrhA0",
+      "timestamp": "2026-08-05T12:01:20+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "17878094502684396",
+      "text": "Traveler Jepang punya pola yang cukup konsisten: sekitar 72% pertanyaan mereka ke agen sebenarnya berulang setiap musim.",
+      "permalink": "https://www.threads.com/@rrpetch/post/Dbp4A1pGwVW7kM51XVNGF_sXO8xIjwXehL9PHE0",
+      "timestamp": "2026-08-05T10:01:12+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
     {
       "id": "17976729161899960",
       "text": "Sekitar 80% pertanyaan jamaah Umroh sebenarnya berulang setiap musim — jadwal bus shalawat, aturan masuk Raudhah, batas ",
@@ -208,36 +238,6 @@
       "text": "Wisatawan Spanyol punya pola yang menarik:\nsekitar 65% pertanyaan mereka sebelum berangkat\n— soal jam buka Sagrada Famíl",
       "permalink": "https://www.threads.com/@rrpetch/post/Dbnusz1oIh_oGdME9AMIMblLursOIMs16YZgj40",
       "timestamp": "2026-08-04T14:01:20+0000",
-      "metrics": {
-        "views": 0,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18124121113765125",
-      "text": "Agen travel Prancis itu tidak kalah menantang dari Umroh.\nKlien tanya soal antrean Louvre, aturan foto di Versailles, sa",
-      "permalink": "https://www.threads.com/@rrpetch/post/Dbng83mIEWoeHkUNqcpcMC8DQQYEcY6-_nRfsg0",
-      "timestamp": "2026-08-04T12:01:11+0000",
-      "metrics": {
-        "views": 0,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "17874828012652656",
-      "text": "Satu hal yang jarang dipersiapkan jamaah Haji: pertanyaan paling menyita waktu justru muncul setelah tiba di Makkah.\nBuk",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbnTN7JleAq2uQjla9GOdgTXyOyo4e7MRWvPi40",
-      "timestamp": "2026-08-04T10:01:12+0000",
       "metrics": {
         "views": 0,
         "likes": 0,
