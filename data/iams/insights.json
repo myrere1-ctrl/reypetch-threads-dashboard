@@ -1,41 +1,26 @@
 {
   "account": "iams",
-  "updated_at": "2026-08-05T12:20:12.057Z",
+  "updated_at": "2026-08-05T14:42:51.841Z",
   "profile": {
     "username": "iams_ichi",
     "name": "iams",
     "biography": "🧠Psi + Traveling \nSolo Traveler Bunglon\nFine dining 👌 & Street food lokal 🫰\nHidden gems Insider for 🇯🇵🇦🇺🇫🇷🇪🇸🇮🇹 + Umrah.\n✉️ cmo@coa.au",
-    "picture": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=EfBHsumogB4Q7kNvwGTVfTq&_nc_oc=AdojEQZvMtqJdzJfrRbVwc8umY_1TMpdygb98VZZBGdrA5TIcyDh0IqS-sH-L0jjF4M&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=WXjKFakkPXCYTjwp60mK4Q&_nc_tpa=Q5bMBQFQ2Q6jAZvpThAjypgYl3cvE1M-qt883LiAWiXjui-yz8-o-HcQAyKhSHY5vi_NX9uQ9BuHr8uvYw&oh=00_AQEzseyUO_JnyGpoywUWRKWcN1yTf8EO-C1RqWT0cYVzKg&oe=6A79119E"
+    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=EfBHsumogB4Q7kNvwH8aN_Z&_nc_oc=AdopNEbENuohCymIa2SqkohmHKsY2eDQLC5d8ar4qNoznR0wp0DbBPr8-N6tKiEA5dE&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=-5nbptBW8A0x674qw5ScUQ&_nc_tpa=Q5bMBQFbHXv1xIWbM3e3109MgFuVcoEbD3K9bknKkHVxtVMl5GY72pmcbujKdgpHnauc9KjP1LMX6musqg&oh=00_AQGTWJteNYTGyzUpJO9Jbxz2tYmMf8_zBNQU1i09ZWJRQg&oe=6A79119E"
   },
   "summary": {
     "followers_count": 1356,
-    "views": 408,
+    "views": 549,
     "likes": 1,
     "replies": 2,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 52,
-    "engagement_rate": 12.75,
+    "engagement_total": 40,
+    "engagement_rate": 7.29,
     "curiosity_score": null,
     "post_count": 25
   },
   "top_posts": [
-    {
-      "id": "18182786089407558",
-      "text": "Hal paling aneh dari umroh sebagai introvert: lo dikelilingi jutaan orang, tapi ga pernah sekalipun ngerasa harus perfor",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DbgATBukfzs",
-      "timestamp": "2026-08-01T14:01:10+0000",
-      "metrics": {
-        "views": 211,
-        "likes": 10,
-        "replies": 0,
-        "reposts": 2,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 12
-    },
     {
       "id": "17963234214170221",
       "text": "Jam 3 subuh di Madinah — dan aku masih duduk di luar Masjid Nabawi, nggak kemana-mana.\nBukan karena capek. Tapi karena d",
@@ -57,7 +42,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DbpO1MGADvV",
       "timestamp": "2026-08-05T04:01:19+0000",
       "metrics": {
-        "views": 410,
+        "views": 515,
         "likes": 0,
         "replies": 5,
         "reposts": 1,
@@ -95,16 +80,46 @@
         "shares": 0
       },
       "engagement": 6
+    },
+    {
+      "id": "18072717035428943",
+      "text": "Katanya Raudhah itu \"asal masuk, langsung ngerasa sesuatu\" — ternyata yang bikin berasa justru prosesnya.\nAntriannya, de",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DbhgbzEDg0W",
+      "timestamp": "2026-08-02T04:01:13+0000",
+      "metrics": {
+        "views": 152,
+        "likes": 5,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 5
     }
   ],
   "recent_posts": [
+    {
+      "id": "18449025205141714",
+      "text": "Yang sering dilupain pas planning umroh: waktu kosong di sana itu bukan jeda — dia datang tiba-tiba, dan lo harus tau ma",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DbqTgAFoLH5",
+      "timestamp": "2026-08-05T14:01:23+0000",
+      "metrics": {
+        "views": 4,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
     {
       "id": "18345341890223792",
       "text": "Naik Jabal Rahmah, yang bikin capek bukan tanjakannya — tapi tiap dua langkah ada yang minta fotoin.\nAku sempet berhenti",
       "permalink": "https://www.threads.com/@iams_ichi/post/Dbp-5zhjD6g",
       "timestamp": "2026-08-05T11:01:23+0000",
       "metrics": {
-        "views": 17,
+        "views": 21,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -149,7 +164,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DbpO1MGADvV",
       "timestamp": "2026-08-05T04:01:19+0000",
       "metrics": {
-        "views": 410,
+        "views": 515,
         "likes": 0,
         "replies": 5,
         "reposts": 1,
@@ -179,7 +194,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DboqpkVE1mi",
       "timestamp": "2026-08-04T22:44:38+0000",
       "metrics": {
-        "views": 57,
+        "views": 59,
         "likes": 0,
         "replies": 3,
         "reposts": 0,
@@ -232,21 +247,6 @@
         "shares": 0
       },
       "engagement": 7
-    },
-    {
-      "id": "18095457317301716",
-      "text": "Yang paling underrated dari planning ke Tanah Suci: nyiapin diri buat *tidak* punya jadwal.\nBukan itinerary yang bikin p",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DbmqB1QlyiM",
-      "timestamp": "2026-08-04T04:01:17+0000",
-      "metrics": {
-        "views": 22,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
     }
   ]
 }
