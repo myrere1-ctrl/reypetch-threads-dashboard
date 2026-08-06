@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-08-06T03:46:44.259Z",
+  "updated_at": "2026-08-06T07:08:38.232Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=w0WESY0dsOAQ7kNvwEocF5D&_nc_oc=Ado9dsPqvVY-RiDoG-FUQ1mxkuSDgDFzKRg5Yzhmg3BH-ZbUILsRyS91Lf3CnkeVuAU&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=xQJencwtnWIGtCIAjiS_eQ&_nc_tpa=Q5bMBQFLPpghYBOprJ-944BCE10K0U_HgttBQ15CV5gO-VhR6gmjMP0CH8lwKeypczD5rLHj9stZcChZ7g&oh=00_AQEySTH9GHbwd1e-KWEij_hVPro9iGFuZkUU0mj5xLZcAw&oe=6A79E413"
+    "picture": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=w0WESY0dsOAQ7kNvwF3hS4o&_nc_oc=AdorzaGZTxyMqwI8G3-x3EKr45PmZClxMAtSjVP9ztRWkjIs3DUTfWEf5iBkC72bF20&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=j1ki69xY-sFXRSxFjJW5VQ&_nc_tpa=Q5bMBQGzuETPe3zZGz1dlnKrL_tK9whc4TYYQ0JfNdD4lKh2k1_D_gVYk4cnQVnNUOHGtZJHICTbx44sAg&oh=00_AQEyhuj52ImrRvbZQ62M1fhLdxjcv6ffbdX9_-BUmNStsQ&oe=6A7A1C53"
   },
   "summary": {
     "followers_count": 0,
-    "views": 741,
-    "likes": 5,
+    "views": 0,
+    "likes": 0,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 35,
-    "engagement_rate": 4.72,
+    "engagement_rate": 0,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -97,12 +97,27 @@
   ],
   "recent_posts": [
     {
+      "id": "18142572442506412",
+      "text": "Malam ini tiba-tiba nanya ke diri sendiri — kapan terakhir kali aku beneran mendoakan orang tua, bukan sekadar hafalan d",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dbr97TXkc3B",
+      "timestamp": "2026-08-06T05:31:20+0000",
+      "metrics": {
+        "views": 40,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "18139981648604511",
       "text": "Unpopular opinion: sabar itu bukan soal nunggu diem-diem tanpa ngerasa apa-apa.\nAku kira orang yang sabar itu \"ga kerasa",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dbrl6Bljjww",
       "timestamp": "2026-08-06T02:01:28+0000",
       "metrics": {
-        "views": 117,
+        "views": 119,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -230,21 +245,6 @@
         "shares": 0
       },
       "engagement": 0
-    },
-    {
-      "id": "17928513021380635",
-      "text": "Belakangan ini aku mulai rutin baca Sholawat Nariyah tiap habis sholat — pelan, ga buru-buru.\nBukan karena ngejar hitung",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbolqFGAURl",
-      "timestamp": "2026-08-04T22:01:33+0000",
-      "metrics": {
-        "views": 435,
-        "likes": 4,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 4
     }
   ]
 }
