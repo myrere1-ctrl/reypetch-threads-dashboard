@@ -1,11 +1,11 @@
 {
   "account": "rrpetch",
-  "updated_at": "2026-08-06T07:08:03.041Z",
+  "updated_at": "2026-08-06T10:03:45.106Z",
   "profile": {
     "username": "rrpetch",
     "name": "rrp",
     "biography": "Travelers",
-    "picture": "https://scontent-dfw6-2.cdninstagram.com/v/t51.82787-19/725626839_18109259368780392_5435560104487373455_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=5hE8pL-55zsQ7kNvwFqHMMb&_nc_oc=Adrfnj3xW3g_ht69S1s0O7dUWZUCPrPIXbU9oPItSlmXHGXtO1-1nXFL2oUAUnwTPt8&_nc_zt=24&_nc_ht=scontent-dfw6-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=oXWTtEZJwYAhxR_vXl0nqw&_nc_tpa=Q5bMBQHOnlRFZ9btZNqzbvTJh0olX07T-BX5bUd45OESWotNPTBZNMUhTc60il-YaLjsFktj7g8ERvv_Yw&oh=00_AQEKUNd74hj-gwnzuU9VqJVArTpFQOCcgIFr2BywANJSuw&oe=6A7A17AD"
+    "picture": "https://scontent-dfw6-2.cdninstagram.com/v/t51.82787-19/725626839_18109259368780392_5435560104487373455_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=wrso0eOfXZwQ7kNvwGHB3e9&_nc_oc=Adq9XGXBCmxiMihl4tGwxLA5IezArZLfmUkl-Mp-eYTrEJssnOuVu8doirbUDrZj9qI&_nc_zt=24&_nc_ht=scontent-dfw6-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=7miqO9i5iq6tWfkoWl3kpQ&_nc_tpa=Q5bMBQFRmvKAAlsve1-DIQHRAPAUCclbtaJ10hzEOFfZBLuv9Blp0tzkPIVUQM37ugZDAx2EA7lOVWHgcQ&oh=00_AQGOKz5oh_0SLquypVWS_awN1hxsOB_EB2__629BiR7ezw&oe=6A7A17AD"
   },
   "summary": {
     "followers_count": 0,
@@ -21,6 +21,21 @@
     "post_count": 25
   },
   "top_posts": [
+    {
+      "id": "18108144257057222",
+      "text": "Mitos: \"Haji itu terlalu sakral untuk pakai teknologi AI.\"\nFaktanya? Justru di momen sepenting Haji, jamaah butuh inform",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbsPFkom-zupJSeP39TS1kpMxeUXrOsaRCRFDI0",
+      "timestamp": "2026-08-06T08:01:17+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
     {
       "id": "17979628004891829",
       "text": "Mitos: \"Agen travel Eropa ga perlu AI — kliennya sudah melek teknologi dan bisa riset sendiri.\"\nFaktanya? Justru klien y",
@@ -80,12 +95,14 @@
         "shares": 0
       },
       "engagement": 0
-    },
+    }
+  ],
+  "recent_posts": [
     {
-      "id": "18617843716049138",
-      "text": "Satu hal yang sering terlewat saat persiapan Umroh:\njamaah sudah hapal rukun ibadah — tapi belum siap dengan pertanyaan ",
-      "permalink": "https://www.threads.com/@rrpetch/post/Dbrbk2_AA8Ud5iHcHK-L9m9A1QLHjDi4CFJtsA0",
-      "timestamp": "2026-08-06T00:31:10+0000",
+      "id": "18108144257057222",
+      "text": "Mitos: \"Haji itu terlalu sakral untuk pakai teknologi AI.\"\nFaktanya? Justru di momen sepenting Haji, jamaah butuh inform",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbsPFkom-zupJSeP39TS1kpMxeUXrOsaRCRFDI0",
+      "timestamp": "2026-08-06T08:01:17+0000",
       "metrics": {
         "views": 0,
         "likes": 0,
@@ -95,9 +112,7 @@
         "shares": 0
       },
       "engagement": 0
-    }
-  ],
-  "recent_posts": [
+    },
     {
       "id": "17979628004891829",
       "text": "Mitos: \"Agen travel Eropa ga perlu AI — kliennya sudah melek teknologi dan bisa riset sendiri.\"\nFaktanya? Justru klien y",
@@ -223,21 +238,6 @@
       "text": "Traveler Jepang punya pola yang cukup konsisten: sekitar 72% pertanyaan mereka ke agen sebenarnya berulang setiap musim.",
       "permalink": "https://www.threads.com/@rrpetch/post/Dbp4A1pGwVW7kM51XVNGF_sXO8xIjwXehL9PHE0",
       "timestamp": "2026-08-05T10:01:12+0000",
-      "metrics": {
-        "views": 0,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "17976729161899960",
-      "text": "Sekitar 80% pertanyaan jamaah Umroh sebenarnya berulang setiap musim — jadwal bus shalawat, aturan masuk Raudhah, batas ",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbpqS44m9ghrUFjKH2B9TNVjVjvn7QnbGMoUtY0",
-      "timestamp": "2026-08-05T08:01:19+0000",
       "metrics": {
         "views": 0,
         "likes": 0,
