@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-08-06T10:04:16.625Z",
+  "updated_at": "2026-08-06T12:23:25.573Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-dfw6-2.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=w0WESY0dsOAQ7kNvwHRzj33&_nc_oc=AdqyH-fzsSM-yhRCtWpaVDNr_64sEjjh-RGVfgKzRiQkAxo7y8txBJE0d_b405Q82sU&_nc_zt=24&_nc_ht=scontent-dfw6-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=q-Ho6HFQX8Gaj6Q0kd8j-g&_nc_tpa=Q5bMBQFcfg-swuPX9wlc1AkMU6wSu_VZ7P208tHzSDhKG-24r55xeqqjm2sMc7hekkdoNfR-8ic-dT988Q&oh=00_AQF9mKb30nsRiaoP86vgZT80FRgxfA6uLYqMvkZgcK6Pwg&oe=6A7A1C53"
+    "picture": "https://scontent-hkg4-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=w0WESY0dsOAQ7kNvwEMU0rc&_nc_oc=Adq7bNOVvOlQ0D57Yp8BAcej4jH3GMdQwZgsMNLDwQ9VOMLAU-2-zDE7zD_cnYjTR4Q&_nc_zt=24&_nc_ht=scontent-hkg4-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=k2OHp53Za81C_qTMhV_Muw&_nc_tpa=Q5bMBQFRtYTsIaMiqXQw38RKz0dr92SNeB7YIVJARSBoam3knmhvmsF1e8S6c242Q1kgw6LKNa05GlJdwg&oh=00_AQFhmnS42ueq7Vj2njo1D6vk8yzXkEl8HRQVMEQwPjbemQ&oe=6A7A5493"
   },
   "summary": {
     "followers_count": 0,
-    "views": 15,
+    "views": 37,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 33,
-    "engagement_rate": 220,
+    "engagement_total": 30,
+    "engagement_rate": 81.08,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -80,22 +80,37 @@
       "engagement": 4
     },
     {
-      "id": "18102976988179493",
-      "text": "Dulu aku mikir syukur itu soal ngucap alhamdulillah pas dapat hal besar — keterima kerja, sehat, rezeki nambah.\nTernyata",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dbknn2dFrcv",
-      "timestamp": "2026-08-03T09:01:45+0000",
+      "id": "17898540015542916",
+      "text": "Unpopular opinion: ikhlas itu bukan kondisi yang bisa \"dicapai\" sekali terus selesai.\nAku kira kalau udah ikhlas, ya uda",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbqW8hYlefq",
+      "timestamp": "2026-08-05T14:31:28+0000",
       "metrics": {
-        "views": 139,
-        "likes": 3,
+        "views": 129,
+        "likes": 2,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 1
+      },
+      "engagement": 2
+    }
+  ],
+  "recent_posts": [
+    {
+      "id": "18086432288654870",
+      "text": "Jujur, sholat 5 waktu itu perjuangan tiap hari — bukan cuma soal sempat atau nggak, tapi soal hati yang mau hadir.\nAku l",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbsnJXPm0aw",
+      "timestamp": "2026-08-06T11:31:32+0000",
+      "metrics": {
+        "views": 14,
+        "likes": 0,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 3
-    }
-  ],
-  "recent_posts": [
+      "engagement": 0
+    },
     {
       "id": "17939396100316372",
       "text": "Sedekah itu dulu aku pikir harus nunggu \"lebih\" dulu — nunggu cukup, nunggu stabil, nunggu siap.\nTapi justru di momen pa",
@@ -207,7 +222,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbqCWPonGFC",
       "timestamp": "2026-08-05T11:31:29+0000",
       "metrics": {
-        "views": 70,
+        "views": 73,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -230,21 +245,6 @@
         "shares": 0
       },
       "engagement": 2
-    },
-    {
-      "id": "17883643374655126",
-      "text": "Lagi di titik semua ketutup — usaha udah, doa udah, tapi kok rasanya ga bergerak-gerak?\nAku pernah di sana. Dan yang akh",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbpZI5ZEQE-",
-      "timestamp": "2026-08-05T05:31:25+0000",
-      "metrics": {
-        "views": 44,
-        "likes": 1,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
     }
   ]
 }
