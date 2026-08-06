@@ -1,11 +1,11 @@
 {
   "account": "rrpetch",
-  "updated_at": "2026-08-05T22:31:15.354Z",
+  "updated_at": "2026-08-06T00:14:27.386Z",
   "profile": {
     "username": "rrpetch",
     "name": "rrp",
     "biography": "Travelers",
-    "picture": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/725626839_18109259368780392_5435560104487373455_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=5hE8pL-55zsQ7kNvwGMKZTq&_nc_oc=AdqWwEzg3Zp2yuAl5bSsEI_bDZlNf0tw785RrOvxB-XROlMgh1DfzBLtMT6zTZANfoU&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=uocLnTMUlsyLPqAyR5p2Dw&_nc_tpa=Q5bMBQG1x32WOIlh-hex0KEyjXDUbRxxCTSOIW5EKMXzqqtQzOf4o95bPXLTM4PMb9rZtib9dMKE_ogRGw&oh=00_AQENnr8subO79KMIt0RmTNvEKGTy_Pr-AYvUVPTRbPyATg&oe=6A79A72D"
+    "picture": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/725626839_18109259368780392_5435560104487373455_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=5hE8pL-55zsQ7kNvwGGRoib&_nc_oc=AdqMCp2G_COLr1BpZOXAsNGEbUrGhouyCF-jQeJRysjCso6ddjA-AdEr1XkHr0Fzvww&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=TZX1Ch61QDU06mbsIRMwiA&_nc_tpa=Q5bMBQFUAFNoNe3tFRkuKnC3JF8-lCdERvgj-lLWuyop6IPVG3N9bJl9HpJt8GVDGEk8jl8VXiWANpV1wg&oh=00_AQFM674XPdD7oIRFq8sK6GRgCAuHLORcr9GMAeITBVoJGQ&oe=6A79A72D"
   },
   "summary": {
     "followers_count": 0,
@@ -21,6 +21,21 @@
     "post_count": 25
   },
   "top_posts": [
+    {
+      "id": "18111846472781946",
+      "text": "Dari ratusan percakapan agen Umroh, ada pola yang cukup konsisten:\nsekitar 70% pertanyaan jamaah datang di luar jam kerj",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbrRSEEEWdVMNNfjwRX-7rC47j4HJLs28gTJ380",
+      "timestamp": "2026-08-05T23:01:14+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
     {
       "id": "18106073471146019",
       "text": "Agen Umroh Anda bisa punya AI companion ber-brand sendiri — nama brand Anda, bukan nama vendor.\nSafar AI bisa di-white l",
@@ -80,12 +95,14 @@
         "shares": 0
       },
       "engagement": 0
-    },
+    }
+  ],
+  "recent_posts": [
     {
-      "id": "18137202316608005",
-      "text": "Satu fitur ViaAI yang sering bikin agen travel Jepang terkejut: AI-nya bisa jawab dalam Bahasa Indonesia — tapi sumber d",
-      "permalink": "https://www.threads.com/@rrpetch/post/Dbpf-ZJliujgSsQSPruoPUXhl-MlImNnGSN2G40",
-      "timestamp": "2026-08-05T06:31:08+0000",
+      "id": "18111846472781946",
+      "text": "Dari ratusan percakapan agen Umroh, ada pola yang cukup konsisten:\nsekitar 70% pertanyaan jamaah datang di luar jam kerj",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbrRSEEEWdVMNNfjwRX-7rC47j4HJLs28gTJ380",
+      "timestamp": "2026-08-05T23:01:14+0000",
       "metrics": {
         "views": 0,
         "likes": 0,
@@ -95,9 +112,7 @@
         "shares": 0
       },
       "engagement": 0
-    }
-  ],
-  "recent_posts": [
+    },
     {
       "id": "18106073471146019",
       "text": "Agen Umroh Anda bisa punya AI companion ber-brand sendiri — nama brand Anda, bukan nama vendor.\nSafar AI bisa di-white l",
@@ -223,21 +238,6 @@
       "text": "Agen travel Eropa di Jakarta itu punya 3 staff CS — dan semua kewalahan di peak season.\nKlien tanya soal validasi tiket ",
       "permalink": "https://www.threads.com/@rrpetch/post/Dbo2x1Nmfme1Cb2bL0UJ-9cY49Hxkg6dkP7XCU0",
       "timestamp": "2026-08-05T00:31:10+0000",
-      "metrics": {
-        "views": 0,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18125414758723175",
-      "text": "Agen travel Spanyol bisa punya AI companion ber-brand sendiri — nama brand Anda, bukan nama vendor.\nKlien tanya jam buka",
-      "permalink": "https://www.threads.com/@rrpetch/post/Dbose6IgReTHbeo7mW6-PhW2uDw5j-j991ggP80",
-      "timestamp": "2026-08-04T23:01:12+0000",
       "metrics": {
         "views": 0,
         "likes": 0,
