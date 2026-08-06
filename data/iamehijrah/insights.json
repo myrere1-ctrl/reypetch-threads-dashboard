@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-08-06T00:14:53.165Z",
+  "updated_at": "2026-08-06T03:46:44.259Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=w0WESY0dsOAQ7kNvwFbt87D&_nc_oc=AdpDfIauhadHOn_8hKriLw6v_1SrjlyS7YMUn4zf0fd3VhSFeR3frhXwYeeqDYOk8k4&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=jRj51KVaogEMy-84CljJug&_nc_tpa=Q5bMBQEv8Vv122IqifptLILetJffvnOoM30mzdNSkvSjLxvwBB7a0Ro5BGE5DICM25gt7kowq9IbDJ25DA&oh=00_AQG3sXlww_eOhrRIT_IjGQXrj_zPwdckgkXNEjIHPhr3WQ&oe=6A79ABD3"
+    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=w0WESY0dsOAQ7kNvwEocF5D&_nc_oc=Ado9dsPqvVY-RiDoG-FUQ1mxkuSDgDFzKRg5Yzhmg3BH-ZbUILsRyS91Lf3CnkeVuAU&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=xQJencwtnWIGtCIAjiS_eQ&_nc_tpa=Q5bMBQFLPpghYBOprJ-944BCE10K0U_HgttBQ15CV5gO-VhR6gmjMP0CH8lwKeypczD5rLHj9stZcChZ7g&oh=00_AQEySTH9GHbwd1e-KWEij_hVPro9iGFuZkUU0mj5xLZcAw&oe=6A79E413"
   },
   "summary": {
     "followers_count": 0,
-    "views": 614,
-    "likes": 4,
+    "views": 741,
+    "likes": 5,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 38,
-    "engagement_rate": 6.19,
+    "engagement_total": 35,
+    "engagement_rate": 4.72,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -97,12 +97,27 @@
   ],
   "recent_posts": [
     {
+      "id": "18139981648604511",
+      "text": "Unpopular opinion: sabar itu bukan soal nunggu diem-diem tanpa ngerasa apa-apa.\nAku kira orang yang sabar itu \"ga kerasa",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dbrl6Bljjww",
+      "timestamp": "2026-08-06T02:01:28+0000",
+      "metrics": {
+        "views": 117,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "18121816883509033",
       "text": "Nenek aku selalu bilang, jangan sampai pagi dan sore lewat tanpa dzikir — sekecil apapun.\nDulu aku anggap itu kebiasaan ",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbrKdBNmiCY",
       "timestamp": "2026-08-05T22:01:34+0000",
       "metrics": {
-        "views": 182,
+        "views": 187,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -132,7 +147,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbqW8hYlefq",
       "timestamp": "2026-08-05T14:31:28+0000",
       "metrics": {
-        "views": 127,
+        "views": 129,
         "likes": 2,
         "replies": 0,
         "reposts": 0,
@@ -162,7 +177,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbqCWPonGFC",
       "timestamp": "2026-08-05T11:31:29+0000",
       "metrics": {
-        "views": 68,
+        "views": 69,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -207,7 +222,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbpBG4ZoPE9",
       "timestamp": "2026-08-05T02:01:25+0000",
       "metrics": {
-        "views": 60,
+        "views": 62,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -230,21 +245,6 @@
         "shares": 0
       },
       "engagement": 4
-    },
-    {
-      "id": "18079288805335518",
-      "text": "Dulu aku mikir doa yang belum dijawab itu tanda Allah diem — kayak sinyal ga ada respon.\nTernyata, justru di masa nunggu",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dbn_4rdkW5A",
-      "timestamp": "2026-08-04T16:31:30+0000",
-      "metrics": {
-        "views": 72,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
     }
   ]
 }
