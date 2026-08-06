@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-08-06T03:45:38.542Z",
+  "updated_at": "2026-08-06T07:07:35.405Z",
   "profile": {
     "username": "iams_ichi",
     "name": "iams",
     "biography": "🧠Psi + Traveling \nSolo Traveler Bunglon\nFine dining 👌 & Street food lokal 🫰\nHidden gems Insider for 🇯🇵🇦🇺🇫🇷🇪🇸🇮🇹 + Umrah.\n✉️ cmo@coa.au",
-    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=EfBHsumogB4Q7kNvwFAcscT&_nc_oc=AdoKtFzHcV0ymkzrAnMA_hS25Z0NTbPv0xddoZQnWI0xPbC7bZp7geTFwdhFoNNcWTc&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=2VRSu1hVSo7Gs9q6MOoX3A&_nc_tpa=Q5bMBQErza7PHzFa_a5hvW3zvANHG5Rm7F8EqVeOAQqkuX0iP8vp6kO_EzA-WZ8_En7OY5VDp4t75h6itA&oh=00_AQGmEupaXLi3glesvXRtDjXwqaWPYPDEZLrDJ_IBGXCFyg&oe=6A79BA5E"
+    "picture": "https://scontent-sin2-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=EfBHsumogB4Q7kNvwF9Y89s&_nc_oc=Adp_bGfKIq7VPo688PqAnbABBtL-2esB36IuezLKmZtDlmfZ0ZW4YtQIIgKRLA-YFE8&_nc_zt=24&_nc_ht=scontent-sin2-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=mel_q9NXfA9HTvu43Wfd-A&_nc_tpa=Q5bMBQEmLq-YkYMtjr_6JF1hdM4waziPoru01KKX3BUTTlSRc0ImLlztuC-fDxKE9ULY9TSeZ7UlD6_fpQ&oh=00_AQHZDIpPas47NHAaEjXPUiV-jbZ7SGh9Ek_g-76dvrnxGw&oe=6A79F29E"
   },
   "summary": {
     "followers_count": 1356,
-    "views": 721,
-    "likes": 1,
-    "replies": 2,
+    "views": 0,
+    "likes": 0,
+    "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 39,
-    "engagement_rate": 5.41,
+    "engagement_total": 40,
+    "engagement_rate": 0,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -42,7 +42,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DbpO1MGADvV",
       "timestamp": "2026-08-05T04:01:19+0000",
       "metrics": {
-        "views": 589,
+        "views": 592,
         "likes": 0,
         "replies": 5,
         "reposts": 1,
@@ -99,12 +99,27 @@
   ],
   "recent_posts": [
     {
+      "id": "18124797205885681",
+      "text": "Orang Paris kalau ditanya arah, jawabannya selalu panjang — tapi tetep jalan sambil ngomong, ga berhenti.\nMereka nggak p",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DbrznBBAHQB",
+      "timestamp": "2026-08-06T04:01:12+0000",
+      "metrics": {
+        "views": 73,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "18346947514222595",
       "text": "Dulu mikir Roma itu bakal bikin aku ngerasa hidup — semua itu keindahan, sejarah, pasta.\nTernyata yang paling bikin over",
       "permalink": "https://www.threads.com/@iams_ichi/post/DbrblZfoBuH",
       "timestamp": "2026-08-06T00:31:15+0000",
       "metrics": {
-        "views": 34,
+        "views": 39,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -120,13 +135,13 @@
       "timestamp": "2026-08-05T23:53:14+0000",
       "metrics": {
         "views": 4,
-        "likes": 0,
+        "likes": 1,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 0
+      "engagement": 1
     },
     {
       "id": "18449025205141714",
@@ -194,7 +209,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DbpO1MGADvV",
       "timestamp": "2026-08-05T04:01:19+0000",
       "metrics": {
-        "views": 589,
+        "views": 592,
         "likes": 0,
         "replies": 5,
         "reposts": 1,
@@ -209,7 +224,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dbo2xeekeT5",
       "timestamp": "2026-08-05T00:31:06+0000",
       "metrics": {
-        "views": 20,
+        "views": 21,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -232,21 +247,6 @@
         "shares": 0
       },
       "engagement": 3
-    },
-    {
-      "id": "17964714315150775",
-      "text": "Di Raudhah, aku notice satu hal yang aneh — orang-orang yang tadi terlihat paling tergesa di luar, begitu masuk, gerakan",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DbnussbluYv",
-      "timestamp": "2026-08-04T14:01:18+0000",
-      "metrics": {
-        "views": 39,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
     }
   ]
 }
