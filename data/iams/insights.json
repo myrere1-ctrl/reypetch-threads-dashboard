@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-08-07T09:27:23.239Z",
+  "updated_at": "2026-08-07T11:11:38.497Z",
   "profile": {
     "username": "iams_ichi",
     "name": "iams",
     "biography": "🧠Psi + Traveling \nSolo Traveler Bunglon\nFine dining 👌 & Street food lokal 🫰\nHidden gems Insider for 🇯🇵🇦🇺🇫🇷🇪🇸🇮🇹 + Umrah.\n✉️ cmo@coa.au",
-    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=EfBHsumogB4Q7kNvwHCYVDJ&_nc_oc=AdoR9Mut8jxM27fFuwZfy61BE_g1Efm3XOk8JJZQD5DzJJmOpOiXU_Rby97k8I89w3U&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=2TSyBfvv__3UT35mdEiI6w&_nc_tpa=Q5bMBQHx5dF4VaWxdoz3eu1if68QHQO6MkP7wb0XU_tQrLTZpgzOTeZ5LXwZHEG7rxVknFSRyK7u1Xf_jg&oh=00_AQENHe9ub-wt9n3_1po6irb6t4FlHu9pEOd9c19vAwWWzA&oe=6A7B7C5E"
+    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=EfBHsumogB4Q7kNvwEycrtA&_nc_oc=AdobtWrEtGuw5QHXKRfhiTGDev9twO6rTbJ6Qil3s1HywpSWksz6eFHt-QTmVcY5gkU&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=q4PLD2__cW5jD2xoutDOrQ&_nc_tpa=Q5bMBQFwx2Ia8bDdzPToT2BdzVCKChy3WfRBn9WNwCSd-lkGlwDURdb5s5lOjoKQZg30tAsTr5Abf-2MWg&oh=00_AQGyGTEp1_bdNF2lXnLv-AxGTjCc5jI4TLijzwcCn1TUig&oe=6A7B7C5E"
   },
   "summary": {
-    "followers_count": 1356,
-    "views": 21,
+    "followers_count": 1357,
+    "views": 44,
     "likes": 0,
-    "replies": 0,
+    "replies": 1,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 29,
-    "engagement_rate": 138.1,
+    "engagement_total": 30,
+    "engagement_rate": 68.18,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -99,12 +99,12 @@
   ],
   "recent_posts": [
     {
-      "id": "17982781050104532",
-      "text": "Jam 11 malem di Le Marais, gue baru sadar — neighborhood ini beda banget sama Paris yang lo bayangin.\nDi sini orang masi",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DbuwbhIFXJR",
-      "timestamp": "2026-08-07T07:31:07+0000",
+      "id": "18167283997409480",
+      "text": "El Born itu neighborhood yang aneh — semua tokonya vintage, tapi orang-orangnya pakainya fresh-clean kayak baru dari lau",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DbvIfX4ILVK",
+      "timestamp": "2026-08-07T11:01:22+0000",
       "metrics": {
-        "views": 5,
+        "views": 0,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -112,6 +112,21 @@
         "shares": 0
       },
       "engagement": 0
+    },
+    {
+      "id": "17982781050104532",
+      "text": "Jam 11 malem di Le Marais, gue baru sadar — neighborhood ini beda banget sama Paris yang lo bayangin.\nDi sini orang masi",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DbuwbhIFXJR",
+      "timestamp": "2026-08-07T07:31:07+0000",
+      "metrics": {
+        "views": 23,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
     },
     {
       "id": "17900368827540013",
@@ -149,7 +164,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DbuAYEQHDmS",
       "timestamp": "2026-08-07T00:31:15+0000",
       "metrics": {
-        "views": 60,
+        "views": 61,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -194,7 +209,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DbsjtDvm-7f",
       "timestamp": "2026-08-06T11:01:26+0000",
       "metrics": {
-        "views": 41,
+        "views": 43,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -225,21 +240,6 @@
       "timestamp": "2026-08-06T04:01:12+0000",
       "metrics": {
         "views": 80,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18346947514222595",
-      "text": "Dulu mikir Roma itu bakal bikin aku ngerasa hidup — semua itu keindahan, sejarah, pasta.\nTernyata yang paling bikin over",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DbrblZfoBuH",
-      "timestamp": "2026-08-06T00:31:15+0000",
-      "metrics": {
-        "views": 46,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
