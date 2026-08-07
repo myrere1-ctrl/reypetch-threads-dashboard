@@ -1,11 +1,11 @@
 {
   "account": "rrpetch",
-  "updated_at": "2026-08-07T00:20:11.412Z",
+  "updated_at": "2026-08-07T03:23:36.933Z",
   "profile": {
     "username": "rrpetch",
     "name": "rrp",
     "biography": "Travelers",
-    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/725626839_18109259368780392_5435560104487373455_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=wrso0eOfXZwQ7kNvwEpO3U2&_nc_oc=Adooi06vcIxrktFXTxNR_DxgXFrFK4jLC5Ic8HRXec3VlDMXsqQXB52HjH3s99XNEi0&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=btcdTvmRTAaUfBCrMeXrIg&_nc_tpa=Q5bMBQFU5LNeXfAMkl8320_fn40nJKJwwMORJNBOkdFlSr--GLnXiYOqfDtjatsC3Twl7Jqj25-y44C4wg&oh=00_AQHab_EHMr3ESnIBkwwd7FLWtysu-izdcxDlsStuvPwBwA&oe=6A7AF8AD"
+    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/725626839_18109259368780392_5435560104487373455_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=wrso0eOfXZwQ7kNvwHWuVOR&_nc_oc=AdoK7OMMDbHPWBYVbWCCHpiIfiWj4n9l0AOaobBsjxsatIPm40oP-pfCR_e_L-uSHaY&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=w242GS_Demry4dQKaIgjQQ&_nc_tpa=Q5bMBQFDwBYSsD232PFkvCejxXFsh_NkOYIGuQs6UcI4_QNdPUGqoUzHOgRzU3JcGH7HtljeuKDkQyxKHQ&oh=00_AQF1T4odhPAp2FwLStGDhojzc2iqLQsMOHGzlvJfWN9GSA&oe=6A7B30ED"
   },
   "summary": {
     "followers_count": 0,
@@ -21,6 +21,36 @@
     "post_count": 25
   },
   "top_posts": [
+    {
+      "id": "18122576884877322",
+      "text": "CS agen travel Prancis Anda bukan mesin — mereka butuh tidur, butuh istirahat.\nTapi pertanyaan klien soal jam buka Louvr",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbuKrXfGrmQ_PxDpYrpl-1_ghJwFWajNJdh6IM0",
+      "timestamp": "2026-08-07T02:01:14+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "18476132590107153",
+      "text": "Agen Haji Anda bisa punya AI companion ber-brand sendiri — nama bisnis Anda di depan, bukan nama vendor.\nSafar AI bisa d",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbuAY0vEr8GRNww6k31bS9LdUfipQhoihmDP9I0",
+      "timestamp": "2026-08-07T00:31:20+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
     {
       "id": "17878661346512256",
       "text": "Agen travel Jepang Anda bisa punya AI companion ber-brand sendiri — nama bisnis Anda di depan, bukan nama vendor.\nTomoda",
@@ -65,39 +95,39 @@
         "shares": 0
       },
       "engagement": 0
-    },
-    {
-      "id": "18229108927319892",
-      "text": "Bayangkan agen travel Prancis Anda punya AI companion — namanya brand Anda sendiri, bukan nama vendor.\nKlien tanya soal ",
-      "permalink": "https://www.threads.com/@rrpetch/post/Dbsegqom7u0B8yl_Wf_Q7jR3-AXjr3ym2ZlzKQ0",
-      "timestamp": "2026-08-06T10:16:04+0000",
-      "metrics": {
-        "views": 0,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18108144257057222",
-      "text": "Mitos: \"Haji itu terlalu sakral untuk pakai teknologi AI.\"\nFaktanya? Justru di momen sepenting Haji, jamaah butuh inform",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbsPFkom-zupJSeP39TS1kpMxeUXrOsaRCRFDI0",
-      "timestamp": "2026-08-06T08:01:17+0000",
-      "metrics": {
-        "views": 0,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
     }
   ],
   "recent_posts": [
+    {
+      "id": "18122576884877322",
+      "text": "CS agen travel Prancis Anda bukan mesin — mereka butuh tidur, butuh istirahat.\nTapi pertanyaan klien soal jam buka Louvr",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbuKrXfGrmQ_PxDpYrpl-1_ghJwFWajNJdh6IM0",
+      "timestamp": "2026-08-07T02:01:14+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "18476132590107153",
+      "text": "Agen Haji Anda bisa punya AI companion ber-brand sendiri — nama bisnis Anda di depan, bukan nama vendor.\nSafar AI bisa d",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbuAY0vEr8GRNww6k31bS9LdUfipQhoihmDP9I0",
+      "timestamp": "2026-08-07T00:31:20+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
     {
       "id": "17878661346512256",
       "text": "Agen travel Jepang Anda bisa punya AI companion ber-brand sendiri — nama bisnis Anda di depan, bukan nama vendor.\nTomoda",
@@ -208,36 +238,6 @@
       "text": "Agen travel Italia di Surabaya — 2 staff CS, peak season Juni.\nPertanyaan masuk 80+ per hari: dress code Vatikan, valida",
       "permalink": "https://www.threads.com/@rrpetch/post/DbrwLuZFlfqWJAU6C-XkGauy3OrP3Um7_Bw6Xo0",
       "timestamp": "2026-08-06T03:31:15+0000",
-      "metrics": {
-        "views": 0,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18116710393938597",
-      "text": "Mitos yang masih sering beredar: \"Traveler Jepang sudah mandiri, ga butuh bantuan agen.\"\nRealitanya? Mereka tetap panik ",
-      "permalink": "https://www.threads.com/@rrpetch/post/Dbrl3_cDX8XoyYAbNwKW2QKjtvkuKGVz1au-v80",
-      "timestamp": "2026-08-06T02:01:10+0000",
-      "metrics": {
-        "views": 0,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18617843716049138",
-      "text": "Satu hal yang sering terlewat saat persiapan Umroh:\njamaah sudah hapal rukun ibadah — tapi belum siap dengan pertanyaan ",
-      "permalink": "https://www.threads.com/@rrpetch/post/Dbrbk2_AA8Ud5iHcHK-L9m9A1QLHjDi4CFJtsA0",
-      "timestamp": "2026-08-06T00:31:10+0000",
       "metrics": {
         "views": 0,
         "likes": 0,
