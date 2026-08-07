@@ -1,11 +1,11 @@
 {
   "account": "rrpetch",
-  "updated_at": "2026-08-07T05:54:35.627Z",
+  "updated_at": "2026-08-07T07:48:13.663Z",
   "profile": {
     "username": "rrpetch",
     "name": "rrp",
     "biography": "Travelers",
-    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/725626839_18109259368780392_5435560104487373455_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=wrso0eOfXZwQ7kNvwG-UZlU&_nc_oc=AdqIJHaRhk5cQKyYtZrAHV6rfW8vIlPXk_AAMM0xDDDs7YsR6v4cmvkZoJF43pZhJBw&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=c33W-32fjeowlnfBzzJ4dg&_nc_tpa=Q5bMBQFGtWPqBjJRJktbeaGSepx2YGd1uBBZX6rVyEXzLrI0VNKTsY5urCSVxCH9-X5_nAlJ2ExUS9n_gg&oh=00_AQFfHRo_SJ_v9Dgi3ZuT1W-_5JLb1CRMxeMqLGz7oAsGXA&oe=6A7B30ED"
+    "picture": "https://scontent-atl3-3.cdninstagram.com/v/t51.82787-19/725626839_18109259368780392_5435560104487373455_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=wrso0eOfXZwQ7kNvwG9wW69&_nc_oc=AdoBhh9O7NadWxpQBLgoaYZzO8I77wNujd79OXPAMC5uwj-tWCAsmJx4fC6cTPYCIiA&_nc_zt=24&_nc_ht=scontent-atl3-3.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=9Em9e25tNw737dOYgO88iA&_nc_tpa=Q5bMBQGruUYY2KBaJvvU_aRl1_YRh7OdM7wgj4w5CKvzBkSKCerEKricFcDB3vNJIon7_EoZBVYqvGNLtQ&oh=00_AQFkZOe2aVtKEhM1L3lYiui6Ql6rPZkjjvS08TUTkmwVuA&oe=6A7B692D"
   },
   "summary": {
     "followers_count": 0,
@@ -21,6 +21,21 @@
     "post_count": 25
   },
   "top_posts": [
+    {
+      "id": "17901280431480641",
+      "text": "Agen Umroh Anda bisa punya AI companion ber-brand sendiri — nama bisnis Anda di depan, bukan nama vendor.\nTomodachi AI b",
+      "permalink": "https://www.threads.com/@rrpetch/post/Dbupj5LllPaE6AOY-OieFXKYmc8Y-EL-TP0Ts80",
+      "timestamp": "2026-08-07T06:31:06+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
     {
       "id": "18098848376343406",
       "text": "Satu fitur yang sering terlewat: AI companion untuk agen travel Jepang bisa \"ingat\" konteks percakapan klien — bukan cum",
@@ -80,12 +95,14 @@
         "shares": 0
       },
       "engagement": 0
-    },
+    }
+  ],
+  "recent_posts": [
     {
-      "id": "17878661346512256",
-      "text": "Agen travel Jepang Anda bisa punya AI companion ber-brand sendiri — nama bisnis Anda di depan, bukan nama vendor.\nTomoda",
-      "permalink": "https://www.threads.com/@rrpetch/post/Dbt2EJdFkuyf3Oxr1sDiRM92LE2NABpIo9HS3s0",
-      "timestamp": "2026-08-06T23:01:07+0000",
+      "id": "17901280431480641",
+      "text": "Agen Umroh Anda bisa punya AI companion ber-brand sendiri — nama bisnis Anda di depan, bukan nama vendor.\nTomodachi AI b",
+      "permalink": "https://www.threads.com/@rrpetch/post/Dbupj5LllPaE6AOY-OieFXKYmc8Y-EL-TP0Ts80",
+      "timestamp": "2026-08-07T06:31:06+0000",
       "metrics": {
         "views": 0,
         "likes": 0,
@@ -95,9 +112,7 @@
         "shares": 0
       },
       "engagement": 0
-    }
-  ],
-  "recent_posts": [
+    },
     {
       "id": "18098848376343406",
       "text": "Satu fitur yang sering terlewat: AI companion untuk agen travel Jepang bisa \"ingat\" konteks percakapan klien — bukan cum",
@@ -223,21 +238,6 @@
       "text": "Mitos: \"Haji itu terlalu sakral untuk pakai teknologi AI.\"\nFaktanya? Justru di momen sepenting Haji, jamaah butuh inform",
       "permalink": "https://www.threads.com/@rrpetch/post/DbsPFkom-zupJSeP39TS1kpMxeUXrOsaRCRFDI0",
       "timestamp": "2026-08-06T08:01:17+0000",
-      "metrics": {
-        "views": 0,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "17979628004891829",
-      "text": "Mitos: \"Agen travel Eropa ga perlu AI — kliennya sudah melek teknologi dan bisa riset sendiri.\"\nFaktanya? Justru klien y",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbsExYNoL9FdjbDp7KPoFvvejaEd4AJrjmfCDo0",
-      "timestamp": "2026-08-06T06:31:09+0000",
       "metrics": {
         "views": 0,
         "likes": 0,
