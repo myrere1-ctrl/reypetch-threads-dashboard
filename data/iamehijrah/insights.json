@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-08-07T16:13:16.498Z",
+  "updated_at": "2026-08-07T17:13:32.841Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=pi1LhdP4dHcQ7kNvwFEeM1-&_nc_oc=Adp2M6kLIrz2gsWryW5PW9Ypm2V20vvRs3fdbOAINbluITHFZNZsG1P0SPtuyWyzyu0&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=VO-wzL3afRHcDcv4yI_42g&_nc_tpa=Q5bMBQGh7a8aWM231TnCYv_7Ent69hm09nJjaxPAkWnwqQFucPiI-kZ8MVkOsRZqWOAWwhBImGTM7lsE4A&oh=00_AQGF2uWaIrYNfEk1d9aBXP7f6jiVjTaYApYZh_g6ws2aqw&oe=6A7BDE53"
+    "picture": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=pi1LhdP4dHcQ7kNvwFaQ1OE&_nc_oc=Adre_n2CJ8OEpvZjn3ICuBl6_h3Ms1SNTQUnIbQB_iEkadXFROq_yjxDV40SQkRYrCo&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=Pvxltu1kj7mEC8Aq0kCe-Q&_nc_tpa=Q5bMBQEjFeKdgGjUUL2-4k5fsqzIoO3PWPogKkH3OwB2V3M4mycHF3vAiA_Trjzzm2e-sIEZD7AyxN-Rzw&oh=00_AQE3vHMqjEVtZb_EE9QUx_TjsJ_xtRAbgfU60PzYO4fqQg&oe=6A7BDE53"
   },
   "summary": {
     "followers_count": 0,
-    "views": 209,
+    "views": 220,
     "likes": 3,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 17,
-    "engagement_rate": 8.13,
+    "engagement_rate": 7.73,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -40,7 +40,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dbu6xRWCPxh",
       "timestamp": "2026-08-07T09:01:32+0000",
       "metrics": {
-        "views": 31,
+        "views": 32,
         "likes": 2,
         "replies": 0,
         "reposts": 0,
@@ -55,7 +55,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbuixQOFl0R",
       "timestamp": "2026-08-07T05:31:45+0000",
       "metrics": {
-        "views": 127,
+        "views": 128,
         "likes": 2,
         "replies": 0,
         "reposts": 0,
@@ -96,6 +96,21 @@
     }
   ],
   "recent_posts": [
+    {
+      "id": "18128986723710713",
+      "text": "Lagi di titik paling bingung soal niat umroh — bukan soal teknis, tapi \"hati aku udah bener belum?\".\nTerus aku inget, pe",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbvuQ-alCs1",
+      "timestamp": "2026-08-07T16:31:28+0000",
+      "metrics": {
+        "views": 6,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
     {
       "id": "18109876951822692",
       "text": "Habis Subuh tadi aku coba duduk sebentar — bukan ngapa-ngapain, cuma muhasabah.\nNanya ke diri sendiri: versi aku yang se",
@@ -147,7 +162,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dbu6xRWCPxh",
       "timestamp": "2026-08-07T09:01:32+0000",
       "metrics": {
-        "views": 31,
+        "views": 32,
         "likes": 2,
         "replies": 0,
         "reposts": 0,
@@ -162,7 +177,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbuixQOFl0R",
       "timestamp": "2026-08-07T05:31:45+0000",
       "metrics": {
-        "views": 127,
+        "views": 128,
         "likes": 2,
         "replies": 0,
         "reposts": 0,
@@ -230,21 +245,6 @@
         "shares": 0
       },
       "engagement": 0
-    },
-    {
-      "id": "17984714592047890",
-      "text": "Ada satu doa yang aku balik terus tiap kali cemas mulai nyerang — Doa Nabi Yunus.\nBukan karena aku udah hopeless, tapi j",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbsxcDtlZ6F",
-      "timestamp": "2026-08-06T13:01:28+0000",
-      "metrics": {
-        "views": 138,
-        "likes": 2,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 2
     }
   ]
 }
