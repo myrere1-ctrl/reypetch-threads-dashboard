@@ -1,11 +1,11 @@
 {
   "account": "rrpetch",
-  "updated_at": "2026-08-07T13:44:02.904Z",
+  "updated_at": "2026-08-07T15:13:21.641Z",
   "profile": {
     "username": "rrpetch",
     "name": "rrp",
     "biography": "Travelers",
-    "picture": "https://scontent-fra5-1.cdninstagram.com/v/t51.82787-19/725626839_18109259368780392_5435560104487373455_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=wrso0eOfXZwQ7kNvwFf1MSL&_nc_oc=Adps4bvyqoGBTyZ9KdqowMiXrN5U2JNn7zSNoRG7KeE7j3hYtikX1mBZLqylhdZw5Gg&_nc_zt=24&_nc_ht=scontent-fra5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=DwK77ExJSvfoMqwaBkyGeQ&_nc_tpa=Q5bMBQFK9i6n7rjLLnwW2uiUqata6eqkCrQvXK9cU9ejtFbF7hDcbB2N51gkmPnuS0EeIyQWoi72GikFRg&oh=00_AQECUs65sJyr9fHhCmteau__GMgLG_AV_KXC4Dz9AQ0_AA&oe=6A7BA16D"
+    "picture": "https://scontent-dfw6-2.cdninstagram.com/v/t51.82787-19/725626839_18109259368780392_5435560104487373455_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=wrso0eOfXZwQ7kNvwE99HHp&_nc_oc=AdpUY0BGpH6opDUuPs0EDWwMkHVm3M2iarWtx0BQGNvtDgiDBhmy-9ybf7kyQR2gCis&_nc_zt=24&_nc_ht=scontent-dfw6-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=O_j71513lbovTRmsxbOxVg&_nc_tpa=Q5bMBQHzbCXmpQz8O_iiKerldLc0P2Uj9az1hDARssNVbinI_oiK-kMQ-d85vpzSyKR9pja6iINs9HsaAA&oh=00_AQEBhWY6XNWXRf2HCMCbx-709MjDK3sZnyD9OXZI-I2YUw&oe=6A7BD9AD"
   },
   "summary": {
     "followers_count": 0,
@@ -21,6 +21,21 @@
     "post_count": 25
   },
   "top_posts": [
+    {
+      "id": "18335677762283721",
+      "text": "Mitos yang sering beredar: \"Klien agen Eropa terlalu demanding, mustahil di-handle tanpa tim besar.\"\nPadahal, sebagian b",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbvdErcESltbV4CJX89OvwUECU3Upf7YxKAVOA0",
+      "timestamp": "2026-08-07T14:01:13+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
     {
       "id": "17865244566643643",
       "text": "Agen Umroh klien kami punya 4 staff CS untuk handle 200+ jamaah per musim.\nHampir 70% pertanyaan masuk itu sama: jadwal ",
@@ -80,12 +95,14 @@
         "shares": 0
       },
       "engagement": 0
-    },
+    }
+  ],
+  "recent_posts": [
     {
-      "id": "18098848376343406",
-      "text": "Satu fitur yang sering terlewat: AI companion untuk agen travel Jepang bisa \"ingat\" konteks percakapan klien — bukan cum",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbufRnvFrKlRQiY0y1TaGZaqQyb-7wX-7Kq78g0",
-      "timestamp": "2026-08-07T05:01:14+0000",
+      "id": "18335677762283721",
+      "text": "Mitos yang sering beredar: \"Klien agen Eropa terlalu demanding, mustahil di-handle tanpa tim besar.\"\nPadahal, sebagian b",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbvdErcESltbV4CJX89OvwUECU3Upf7YxKAVOA0",
+      "timestamp": "2026-08-07T14:01:13+0000",
       "metrics": {
         "views": 0,
         "likes": 0,
@@ -95,9 +112,7 @@
         "shares": 0
       },
       "engagement": 0
-    }
-  ],
-  "recent_posts": [
+    },
     {
       "id": "17865244566643643",
       "text": "Agen Umroh klien kami punya 4 staff CS untuk handle 200+ jamaah per musim.\nHampir 70% pertanyaan masuk itu sama: jadwal ",
@@ -223,21 +238,6 @@
       "text": "Agen travel Jepang Anda bisa punya AI companion ber-brand sendiri — nama bisnis Anda di depan, bukan nama vendor.\nTomoda",
       "permalink": "https://www.threads.com/@rrpetch/post/Dbt2EJdFkuyf3Oxr1sDiRM92LE2NABpIo9HS3s0",
       "timestamp": "2026-08-06T23:01:07+0000",
-      "metrics": {
-        "views": 0,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "17960197818175127",
-      "text": "Staff CS agen Jepang Anda mungkin hafal semua pertanyaan itu — jam operasional JR Pass, aturan bagasi shinkansen, kuil m",
-      "permalink": "https://www.threads.com/@rrpetch/post/Dbs4SgzoKP76AFmuIncRQJ8JsXC-cU5W8JkKCU0",
-      "timestamp": "2026-08-06T14:01:20+0000",
       "metrics": {
         "views": 0,
         "likes": 0,
