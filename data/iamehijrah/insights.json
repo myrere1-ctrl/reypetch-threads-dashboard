@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-08-07T05:55:04.036Z",
+  "updated_at": "2026-08-07T07:48:40.190Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-lhr11-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=w0WESY0dsOAQ7kNvwFanChV&_nc_oc=AdqfcNX31Hknhr0p0sJ6wRurUWiXlQGUv4pMlXx95iJ797LGUBP--ivgODx1i7aNTR4&_nc_zt=24&_nc_ht=scontent-lhr11-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=eHFg5Q82PdtyFbbzs6lWeA&_nc_tpa=Q5bMBQH3KvqMUjSmnqak8sxiH_xP1uf0GAR-v_8H-nICMTSIOQ-PAqEnmWz-2M2ziyb7QKZUlvVrJVMmnw&oh=00_AQFSsjJUJxMMV-E-LauVgvtXmcGRF9HZm0f-0FmXQSMAEw&oe=6A7B3593"
+    "picture": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=w0WESY0dsOAQ7kNvwGGx6oJ&_nc_oc=AdrzX3BiewXs11-LmgJPuqRqFtrxN_Z2f68MZ5ZI7A3OxqcrEhHlnuWrPNEFU6PVb1E&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=jMWwKWCgrJ09ZQ5PNrYRZg&_nc_tpa=Q5bMBQEZhYmomTXoUm0mI5EZ0NHvvgj6NUHV455R3nfqMopuCZNuzAN7sDqThDHZdIW835vzXL0MBkmBEA&oh=00_AQE0ydY8ZSQCYBjB5JExmWYR9Q3ZALIAyQG8FA7Qmmc2yQ&oe=6A7B6DD3"
   },
   "summary": {
     "followers_count": 0,
-    "views": 254,
-    "likes": 2,
+    "views": 9,
+    "likes": 0,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 13,
-    "engagement_rate": 5.12,
+    "engagement_total": 15,
+    "engagement_rate": 166.67,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -33,6 +33,21 @@
         "shares": 0
       },
       "engagement": 4
+    },
+    {
+      "id": "18012148547929688",
+      "text": "Ada satu dzikir yang aku rutinin sekarang tiap kali pikiran mulai spiral — Hasbunallah wa ni'mal wakil.\nBukan karena lan",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbuixQOFl0R",
+      "timestamp": "2026-08-07T05:31:45+0000",
+      "metrics": {
+        "views": 117,
+        "likes": 2,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 2
     },
     {
       "id": "17984714592047890",
@@ -78,21 +93,6 @@
         "shares": 0
       },
       "engagement": 2
-    },
-    {
-      "id": "18335434699253800",
-      "text": "Ada satu surah yang aku balik lagi setiap kali ngerasa jauh banget dari Allah — Surah Al-Hadid.\nBukan karena aku hafal s",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbqMpbboAg6",
-      "timestamp": "2026-08-05T13:01:31+0000",
-      "metrics": {
-        "views": 86,
-        "likes": 1,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
     }
   ],
   "recent_posts": [
@@ -102,14 +102,14 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbuixQOFl0R",
       "timestamp": "2026-08-07T05:31:45+0000",
       "metrics": {
-        "views": 7,
-        "likes": 0,
+        "views": 117,
+        "likes": 2,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 0
+      "engagement": 2
     },
     {
       "id": "18115272449292387",
