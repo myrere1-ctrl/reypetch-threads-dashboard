@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-08-07T05:54:03.602Z",
+  "updated_at": "2026-08-07T07:47:50.873Z",
   "profile": {
     "username": "iams_ichi",
     "name": "iams",
     "biography": "🧠Psi + Traveling \nSolo Traveler Bunglon\nFine dining 👌 & Street food lokal 🫰\nHidden gems Insider for 🇯🇵🇦🇺🇫🇷🇪🇸🇮🇹 + Umrah.\n✉️ cmo@coa.au",
-    "picture": "https://scontent-dfw6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=EfBHsumogB4Q7kNvwGk6d_s&_nc_oc=AdoLGsMlqhrVvuFG3Ye_TPg15lg9HHOTCOnN3ey-H-ZDVwdwLa7vgNBY3U2mopbrwVI&_nc_zt=24&_nc_ht=scontent-dfw6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=CqXzT5iiL9G4Q2sVCubzcg&_nc_tpa=Q5bMBQGNFy014_R57Ywf4ZGNGUn_gEedk9Y_j2AfiywK1C2PVys1IDrDOlY_mJzUrH5FY57okeBUWXZMrA&oh=00_AQHvvqbondDQP4ZC98Jbk-jxGLy2LWtdxjsCsA_MYFI3Bw&oe=6A7B441E"
+    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=EfBHsumogB4Q7kNvwF6k0_B&_nc_oc=AdrrCucls0f3J2xycpPmWaPxW38AtvW7dHc9V5tKthrX-DhvVyBYthnWvayGhA3uNfw&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=71xXN4VzEt85ebC1PmnQ7A&_nc_tpa=Q5bMBQG8VqU8BR7rwHRoAC92Sjmh-2eDMHgWFgaNSs0VuOPOpdVDntAUMf7E_5cMXnGwyvrWKHYHciygBw&oh=00_AQFbPhTHoffB7qwOIWvsXTPAN0T6evNaWluurAzZ5R7OfA&oe=6A7B441E"
   },
   "summary": {
     "followers_count": 1356,
-    "views": 579,
-    "likes": 5,
-    "replies": 1,
+    "views": 3,
+    "likes": 0,
+    "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 29,
-    "engagement_rate": 5.01,
+    "engagement_rate": 966.67,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -99,12 +99,27 @@
   ],
   "recent_posts": [
     {
+      "id": "17982781050104532",
+      "text": "Jam 11 malem di Le Marais, gue baru sadar — neighborhood ini beda banget sama Paris yang lo bayangin.\nDi sini orang masi",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DbuwbhIFXJR",
+      "timestamp": "2026-08-07T07:31:07+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "17900368827540013",
       "text": "This happened to me 10 minutes ago..Hidung aku sensitif .. selama ga bau pesing it's OK",
       "permalink": "https://www.threads.com/@iams_ichi/post/DbuXuu2gcif",
       "timestamp": "2026-08-07T04:21:45+0000",
       "metrics": {
-        "views": 1,
+        "views": 4,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -119,7 +134,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DbuYaXAGwak",
       "timestamp": "2026-08-07T04:01:15+0000",
       "metrics": {
-        "views": 18,
+        "views": 21,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -134,7 +149,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DbuAYEQHDmS",
       "timestamp": "2026-08-07T00:31:15+0000",
       "metrics": {
-        "views": 56,
+        "views": 59,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -164,7 +179,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dbs4SpDoIOK",
       "timestamp": "2026-08-06T14:01:21+0000",
       "metrics": {
-        "views": 90,
+        "views": 91,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -179,7 +194,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DbsjtDvm-7f",
       "timestamp": "2026-08-06T11:01:26+0000",
       "metrics": {
-        "views": 40,
+        "views": 41,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -194,7 +209,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DbsLpBtinLD",
       "timestamp": "2026-08-06T07:31:13+0000",
       "metrics": {
-        "views": 73,
+        "views": 75,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -232,21 +247,6 @@
         "shares": 0
       },
       "engagement": 0
-    },
-    {
-      "id": "17956154817193177",
-      "text": "Pernah nggak sih ngerasa hari ini bakal berat, tapi abis satu gelas kopi tiba-tiba jadi 'oke gue bisa'. Kopi itu therapi",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DbrXS60AS-W",
-      "timestamp": "2026-08-05T23:53:14+0000",
-      "metrics": {
-        "views": 6,
-        "likes": 1,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
     }
   ]
 }
