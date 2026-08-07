@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-08-07T11:12:41.962Z",
+  "updated_at": "2026-08-07T12:02:32.473Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-atl3-3.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=w0WESY0dsOAQ7kNvwH83cbl&_nc_oc=AdrPayMV_utvb1g0XTDe7eujbuYjfS3XALzfreVgfzL_nBkK2gsaufr9bn0w5j-K4KU&_nc_zt=24&_nc_ht=scontent-atl3-3.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=GD2xMCmhT_cT6I4uwTanlA&_nc_tpa=Q5bMBQEdXOJ9C5S81xnCA9bxHEcbQdiJJx9rB0dOH9SWZC7z9gu__AMcNn1QIA8VGeKebGVAGPNI0zb89w&oh=00_AQHYLTtaJn2GwL2ivWlcyiKYz2OqVL_uWKrXZB-eUKcZbg&oe=6A7BA613"
+    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=w0WESY0dsOAQ7kNvwF1az03&_nc_oc=AdoVZMD114wRrutV7HFhQjIgmTnCC5o2jVjTuFu66Ybut_HGy72L-Fqhsd8fpDMgWMo&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=HoXnTsVbaIrcXLWIa2gv2Q&_nc_tpa=Q5bMBQEyw2K4nGzSOskvS9u0v768Cqf3b5Vv3R4Wzuw2WHuTdHROmtl7CzA4t16aC3h2tfiRRqTQrZ2O7g&oh=00_AQEF2zSjnH-wup7EBkPNR3lK-nmYi1zFo6YBMpU-gM_ePw&oe=6A7BA613"
   },
   "summary": {
     "followers_count": 0,
-    "views": 37,
+    "views": 64,
     "likes": 1,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 16,
-    "engagement_rate": 43.24,
+    "engagement_rate": 25,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -33,6 +33,21 @@
         "shares": 0
       },
       "engagement": 4
+    },
+    {
+      "id": "18339551311284921",
+      "text": "Dulu aku mikir Sholat Dhuha itu ibadah \"ekstra\" — kayak bonus kalau sempat, skip juga ga masalah.\nTernyata yang aku rasa",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dbu6xRWCPxh",
+      "timestamp": "2026-08-07T09:01:32+0000",
+      "metrics": {
+        "views": 23,
+        "likes": 2,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 2
     },
     {
       "id": "18012148547929688",
@@ -78,14 +93,31 @@
         "shares": 1
       },
       "engagement": 2
+    }
+  ],
+  "recent_posts": [
+    {
+      "id": "18162164641474377",
+      "text": "Ibu aku dulu kalau lagi ngerasa jauh dari Allah, dia cuma bilang satu hal — \"balik aja dulu, jangan tunggu siap.\"\nAku la",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbvL7VmHA9_",
+      "timestamp": "2026-08-07T11:31:24+0000",
+      "metrics": {
+        "views": 2,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
     },
     {
-      "id": "17960742444172653",
-      "text": "Habis Subuh tadi, duduk sebentar — dan tiba-tiba nyadar betapa seringnya aku ngerasa Allah \"salah timing\" ngasih sesuatu",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbpxLJdFhpK",
-      "timestamp": "2026-08-05T09:01:25+0000",
+      "id": "18339551311284921",
+      "text": "Dulu aku mikir Sholat Dhuha itu ibadah \"ekstra\" — kayak bonus kalau sempat, skip juga ga masalah.\nTernyata yang aku rasa",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dbu6xRWCPxh",
+      "timestamp": "2026-08-07T09:01:32+0000",
       "metrics": {
-        "views": 69,
+        "views": 23,
         "likes": 2,
         "replies": 0,
         "reposts": 0,
@@ -93,23 +125,6 @@
         "shares": 0
       },
       "engagement": 2
-    }
-  ],
-  "recent_posts": [
-    {
-      "id": "18339551311284921",
-      "text": "Dulu aku mikir Sholat Dhuha itu ibadah \"ekstra\" — kayak bonus kalau sempat, skip juga ga masalah.\nTernyata yang aku rasa",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dbu6xRWCPxh",
-      "timestamp": "2026-08-07T09:01:32+0000",
-      "metrics": {
-        "views": 19,
-        "likes": 1,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
     },
     {
       "id": "18012148547929688",
@@ -223,21 +238,6 @@
       "timestamp": "2026-08-06T09:01:31+0000",
       "metrics": {
         "views": 6,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18142572442506412",
-      "text": "Malam ini tiba-tiba nanya ke diri sendiri — kapan terakhir kali aku beneran mendoakan orang tua, bukan sekadar hafalan d",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dbr97TXkc3B",
-      "timestamp": "2026-08-06T05:31:20+0000",
-      "metrics": {
-        "views": 41,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
