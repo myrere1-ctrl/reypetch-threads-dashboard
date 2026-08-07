@@ -1,11 +1,11 @@
 {
   "account": "rrpetch",
-  "updated_at": "2026-08-06T15:34:21.463Z",
+  "updated_at": "2026-08-07T00:20:11.412Z",
   "profile": {
     "username": "rrpetch",
     "name": "rrp",
     "biography": "Travelers",
-    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/725626839_18109259368780392_5435560104487373455_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=wrso0eOfXZwQ7kNvwF70Xqa&_nc_oc=AdrqXcRp07SmYKwrXROVICkfLUPd1qKTzIE-tCDENKLgvx5aMJDOiH41Vxgz8Tee6F4&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=p67sdFe-DGNPNqX7mv5QLw&_nc_tpa=Q5bMBQHZrlev8usu0Cyq-6H8NW8_Sn7tNuBzxSKkmdnggHBFpRbj8fFBX7AX9svEM6tWMqo4dnKm8c58xQ&oh=00_AQHuxIXVRXjk8tbEGFZjiC62Nrr0Z1SZi5sUS3rFUGzGqQ&oe=6A7A882D"
+    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/725626839_18109259368780392_5435560104487373455_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=wrso0eOfXZwQ7kNvwEpO3U2&_nc_oc=Adooi06vcIxrktFXTxNR_DxgXFrFK4jLC5Ic8HRXec3VlDMXsqQXB52HjH3s99XNEi0&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=btcdTvmRTAaUfBCrMeXrIg&_nc_tpa=Q5bMBQFU5LNeXfAMkl8320_fn40nJKJwwMORJNBOkdFlSr--GLnXiYOqfDtjatsC3Twl7Jqj25-y44C4wg&oh=00_AQHab_EHMr3ESnIBkwwd7FLWtysu-izdcxDlsStuvPwBwA&oe=6A7AF8AD"
   },
   "summary": {
     "followers_count": 0,
@@ -21,6 +21,21 @@
     "post_count": 25
   },
   "top_posts": [
+    {
+      "id": "17878661346512256",
+      "text": "Agen travel Jepang Anda bisa punya AI companion ber-brand sendiri — nama bisnis Anda di depan, bukan nama vendor.\nTomoda",
+      "permalink": "https://www.threads.com/@rrpetch/post/Dbt2EJdFkuyf3Oxr1sDiRM92LE2NABpIo9HS3s0",
+      "timestamp": "2026-08-06T23:01:07+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
     {
       "id": "17960197818175127",
       "text": "Staff CS agen Jepang Anda mungkin hafal semua pertanyaan itu — jam operasional JR Pass, aturan bagasi shinkansen, kuil m",
@@ -80,12 +95,14 @@
         "shares": 0
       },
       "engagement": 0
-    },
+    }
+  ],
+  "recent_posts": [
     {
-      "id": "17979628004891829",
-      "text": "Mitos: \"Agen travel Eropa ga perlu AI — kliennya sudah melek teknologi dan bisa riset sendiri.\"\nFaktanya? Justru klien y",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbsExYNoL9FdjbDp7KPoFvvejaEd4AJrjmfCDo0",
-      "timestamp": "2026-08-06T06:31:09+0000",
+      "id": "17878661346512256",
+      "text": "Agen travel Jepang Anda bisa punya AI companion ber-brand sendiri — nama bisnis Anda di depan, bukan nama vendor.\nTomoda",
+      "permalink": "https://www.threads.com/@rrpetch/post/Dbt2EJdFkuyf3Oxr1sDiRM92LE2NABpIo9HS3s0",
+      "timestamp": "2026-08-06T23:01:07+0000",
       "metrics": {
         "views": 0,
         "likes": 0,
@@ -95,9 +112,7 @@
         "shares": 0
       },
       "engagement": 0
-    }
-  ],
-  "recent_posts": [
+    },
     {
       "id": "17960197818175127",
       "text": "Staff CS agen Jepang Anda mungkin hafal semua pertanyaan itu — jam operasional JR Pass, aturan bagasi shinkansen, kuil m",
@@ -223,21 +238,6 @@
       "text": "Satu hal yang sering terlewat saat persiapan Umroh:\njamaah sudah hapal rukun ibadah — tapi belum siap dengan pertanyaan ",
       "permalink": "https://www.threads.com/@rrpetch/post/Dbrbk2_AA8Ud5iHcHK-L9m9A1QLHjDi4CFJtsA0",
       "timestamp": "2026-08-06T00:31:10+0000",
-      "metrics": {
-        "views": 0,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18111846472781946",
-      "text": "Dari ratusan percakapan agen Umroh, ada pola yang cukup konsisten:\nsekitar 70% pertanyaan jamaah datang di luar jam kerj",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbrRSEEEWdVMNNfjwRX-7rC47j4HJLs28gTJ380",
-      "timestamp": "2026-08-05T23:01:14+0000",
       "metrics": {
         "views": 0,
         "likes": 0,
