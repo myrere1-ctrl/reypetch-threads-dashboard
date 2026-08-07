@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-08-07T22:00:29.100Z",
+  "updated_at": "2026-08-07T22:59:45.462Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-dfw6-2.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=pi1LhdP4dHcQ7kNvwGwCDKk&_nc_oc=Adqhe_r6X8t8uC7buPSlIq_D_aXl52w2PS2UhQ7Ggdxy6d4SNBpL3un5sVZAhkwW9qU&_nc_zt=24&_nc_ht=scontent-dfw6-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=gUMo59BtaE8kDkO9z_ta8g&_nc_tpa=Q5bMBQFN6A3c5dn5mLSNSFFhqCmPdQWJHuQMwMV6YuAKo7bZ7j20gp6nYAFhpCU60u8SF6BTK1C09_UTCQ&oh=00_AQH6c61As7Y9gwXkCz6T8UX8uKtT8KJqZh-__54AFgJ3LQ&oe=6A7C1693"
+    "picture": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=pi1LhdP4dHcQ7kNvwFwsd1B&_nc_oc=AdoLtRQ2wJcaEBfbpZXJVR_vmGDLsq2gGTTNd1LrCPdQrFpTuz3d5Z_pHtRd7ts1Vmw&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=xaP2Q7WInOECxqOoK6USuA&_nc_tpa=Q5bMBQG8FPZPIgoDfa-g9EJWWAnDRkoUrxlCxnSjm-5fe0dcnm_UVzYJXSuSPj8qqX9SW2KzTVhzxLiotw&oh=00_AQEucpX1xOcXgWey_0MFal_gBWHXXg3b4wbB3YWN1EErDQ&oe=6A7C4ED3"
   },
   "summary": {
     "followers_count": 0,
-    "views": 232,
-    "likes": 3,
+    "views": 302,
+    "likes": 4,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 17,
-    "engagement_rate": 7.33,
+    "engagement_total": 18,
+    "engagement_rate": 5.96,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -97,6 +97,21 @@
   ],
   "recent_posts": [
     {
+      "id": "18126896518735718",
+      "text": "Tengah malam ini aku nanya ke diri sendiri — apa yang bikin aku belum juga bangun tahajjud, padahal tau betapa berhargan",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbwUCORCaj0",
+      "timestamp": "2026-08-07T22:01:29+0000",
+      "metrics": {
+        "views": 63,
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
       "id": "18128986723710713",
       "text": "Lagi di titik paling bingung soal niat umroh — bukan soal teknis, tapi \"hati aku udah bener belum?\".\nTerus aku inget, pe",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbvuQ-alCs1",
@@ -132,7 +147,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbvWPenG5k_",
       "timestamp": "2026-08-07T13:01:33+0000",
       "metrics": {
-        "views": 102,
+        "views": 105,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -223,21 +238,6 @@
       "timestamp": "2026-08-06T16:52:03+0000",
       "metrics": {
         "views": 10,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18606719683055542",
-      "text": "Malam ini aku nanya ke diri sendiri — udah berapa lama aku nunggu jawaban doa ini, dan apakah cara aku nunggu-nya udah b",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dbs7uJDja-A",
-      "timestamp": "2026-08-06T14:31:19+0000",
-      "metrics": {
-        "views": 42,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
