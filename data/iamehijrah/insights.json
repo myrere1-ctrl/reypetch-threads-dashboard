@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-08-06T15:36:21.073Z",
+  "updated_at": "2026-08-07T00:20:42.563Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=w0WESY0dsOAQ7kNvwFqhx--&_nc_oc=AdoD1ojRsV0uKn73FAlfE8KJhbztaUByU2Ud4vt1N1ClhiBbiwx8yHD3oebdfo7aLAQ&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=hQOPAPdQx5SEF7meIIlwNg&_nc_tpa=Q5bMBQHoa4EZNCet24GqjJ43luHs_YAif8ZC4vxuZU6jXdxGqQ4lK6dLUUs3XUCGsEfsdHPwjEcUPy3TQw&oh=00_AQHT6CZTQkO1sBMej3nggwW2chfeaauIkorlUttxGbzr2Q&oe=6A7A8CD3"
+    "picture": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=w0WESY0dsOAQ7kNvwE7n7cg&_nc_oc=Ado5dTwMHhDGMRzAnvALaQR7ICweqyYCBZJi2rKJqEpVakPP5LIQ26kPUPNJbm6frPA&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=XVkedtUd3HnAwSka4BdQIQ&_nc_tpa=Q5bMBQFuRZObc4J3vKAIkLrUqOJK3QDjxeFDy8fDOvQB3h4JnpnW5lxlw_oIpWX-RWz2-NexI9CcBCY2gA&oh=00_AQGiseoRVHV1c78Rx5QSg65aZDXlmkEjJxw7WR_QcSvtXg&oe=6A7AFD53"
   },
   "summary": {
     "followers_count": 0,
-    "views": 210,
+    "views": 239,
     "likes": 2,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 18,
-    "engagement_rate": 8.57,
+    "engagement_rate": 7.53,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -55,7 +55,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbsxcDtlZ6F",
       "timestamp": "2026-08-06T13:01:28+0000",
       "metrics": {
-        "views": 135,
+        "views": 137,
         "likes": 2,
         "replies": 0,
         "reposts": 0,
@@ -70,7 +70,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbqW8hYlefq",
       "timestamp": "2026-08-05T14:31:28+0000",
       "metrics": {
-        "views": 129,
+        "views": 131,
         "likes": 2,
         "replies": 0,
         "reposts": 0,
@@ -97,12 +97,42 @@
   ],
   "recent_posts": [
     {
+      "id": "17910616026261864",
+      "text": "La hawla wala quwwata illa billah — aku inget pertama kali ngerasain beneran baca ini waktu thawaf, kaki udah mau nyerah",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbtvQ8YAWPf",
+      "timestamp": "2026-08-06T22:01:44+0000",
+      "metrics": {
+        "views": 7,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "18610333903041066",
+      "text": "Sepertiga malam tadi aku kebangun, dan entah kenapa pikiran langsung ke satu hal yang lama aku pertanyain — kenapa doa i",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbtL0-4id8u",
+      "timestamp": "2026-08-06T16:52:03+0000",
+      "metrics": {
+        "views": 10,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "18606719683055542",
       "text": "Malam ini aku nanya ke diri sendiri — udah berapa lama aku nunggu jawaban doa ini, dan apakah cara aku nunggu-nya udah b",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dbs7uJDja-A",
       "timestamp": "2026-08-06T14:31:19+0000",
       "metrics": {
-        "views": 31,
+        "views": 41,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -117,7 +147,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbsxcDtlZ6F",
       "timestamp": "2026-08-06T13:01:28+0000",
       "metrics": {
-        "views": 135,
+        "views": 137,
         "likes": 2,
         "replies": 0,
         "reposts": 0,
@@ -215,36 +245,6 @@
         "shares": 0
       },
       "engagement": 0
-    },
-    {
-      "id": "17898540015542916",
-      "text": "Unpopular opinion: ikhlas itu bukan kondisi yang bisa \"dicapai\" sekali terus selesai.\nAku kira kalau udah ikhlas, ya uda",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbqW8hYlefq",
-      "timestamp": "2026-08-05T14:31:28+0000",
-      "metrics": {
-        "views": 129,
-        "likes": 2,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 1
-      },
-      "engagement": 2
-    },
-    {
-      "id": "18335434699253800",
-      "text": "Ada satu surah yang aku balik lagi setiap kali ngerasa jauh banget dari Allah — Surah Al-Hadid.\nBukan karena aku hafal s",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbqMpbboAg6",
-      "timestamp": "2026-08-05T13:01:31+0000",
-      "metrics": {
-        "views": 86,
-        "likes": 1,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
     }
   ]
 }
