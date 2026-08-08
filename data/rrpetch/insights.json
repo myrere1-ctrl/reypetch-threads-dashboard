@@ -1,11 +1,11 @@
 {
   "account": "rrpetch",
-  "updated_at": "2026-08-08T09:58:17.260Z",
+  "updated_at": "2026-08-08T10:55:48.988Z",
   "profile": {
     "username": "rrpetch",
     "name": "rrp",
     "biography": "Travelers",
-    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/725626839_18109259368780392_5435560104487373455_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=wrso0eOfXZwQ7kNvwEJW1vD&_nc_oc=AdoZ2ysdOytv06igjGLPUSxnqex_k3asTQgH8UTzgMP1l5dApjDV8qAwoQu_CWrsNMw&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=y1WB2_CRuf8y2s5Td7uMmg&_nc_tpa=Q5bMBQGGJLe8yh5zJg8MFvmgn25e1_8B5GwNMRHKyUZQqXl3voN6R7fVcVzwUrcFfSzpClEOBsjl2Ujg_w&oh=00_AQHAVvJb2hvB7cGMkr-bccVKyaXENP-rAUD6Y6rgUV38tQ&oe=6A7CBAAD"
+    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/725626839_18109259368780392_5435560104487373455_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=wrso0eOfXZwQ7kNvwGSmlLQ&_nc_oc=AdpCokhEpTymkRt_72npElOq1a75nXgEvC7M8LnG2TDj3xu8hXW2kWqgT64UDtX2A8s&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=Q3G9m0y9cxH9UbldGdSErQ&_nc_tpa=Q5bMBQGCzcU_6LpnYzo7TfsphzM1u623tD0rff5_dHReqe3PJPz6oMXfjWVZow-lMN4vPKFq9ImioqaViQ&oh=00_AQEZJPr2ySimnR7k8GRyti-pfQw0Q0qdvBfZQlCSQ8hlEA&oe=6A7CF2ED"
   },
   "summary": {
     "followers_count": 0,
@@ -21,6 +21,21 @@
     "post_count": 25
   },
   "top_posts": [
+    {
+      "id": "18332781262286337",
+      "text": "Klien tanya soal Spanyol — dan pertanyaan pertama yang keluar bukan soal harga.\nTapi: \"Apa yang wajib tahu sebelum masuk",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbxmZJoG9ckPHqthFfKQZOi27YlJtyn6F1VAsE0",
+      "timestamp": "2026-08-08T10:01:08+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
     {
       "id": "18128307127709783",
       "text": "Agen travel Prancis itu unik — pertanyaan jamaah/kliennya lapis-lapis.\nVisa Schengen, aturan museum, koneksi TGV Paris-L",
@@ -80,12 +95,14 @@
         "shares": 0
       },
       "engagement": 0
-    },
+    }
+  ],
+  "recent_posts": [
     {
-      "id": "17901746592479279",
-      "text": "Klien tanya soal Italia — dress code Vatikan, koneksi kereta Roma-Florence, estimasi waktu di Colosseum.\nPertanyaan sepe",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbwvdbNERaINaHvj7Ie3f8bofVY44dU9kl-zyQ0",
-      "timestamp": "2026-08-08T02:01:08+0000",
+      "id": "18332781262286337",
+      "text": "Klien tanya soal Spanyol — dan pertanyaan pertama yang keluar bukan soal harga.\nTapi: \"Apa yang wajib tahu sebelum masuk",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbxmZJoG9ckPHqthFfKQZOi27YlJtyn6F1VAsE0",
+      "timestamp": "2026-08-08T10:01:08+0000",
       "metrics": {
         "views": 0,
         "likes": 0,
@@ -95,9 +112,7 @@
         "shares": 0
       },
       "engagement": 0
-    }
-  ],
-  "recent_posts": [
+    },
     {
       "id": "18128307127709783",
       "text": "Agen travel Prancis itu unik — pertanyaan jamaah/kliennya lapis-lapis.\nVisa Schengen, aturan museum, koneksi TGV Paris-L",
@@ -223,21 +238,6 @@
       "text": "Agen Umroh klien kami punya 4 staff CS untuk handle 200+ jamaah per musim.\nHampir 70% pertanyaan masuk itu sama: jadwal ",
       "permalink": "https://www.threads.com/@rrpetch/post/DbvPVdolMZ5csP8s3ZuwAkiNEGpGP19No8MyiU0",
       "timestamp": "2026-08-07T12:01:11+0000",
-      "metrics": {
-        "views": 0,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "17902537269496994",
-      "text": "Staff CS Anda bukan robot — mereka bisa burnout.\nTapi pertanyaan soal visa Italia, dress code Vatikan, atau koneksi kere",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbvBm5GFhgGxrDnZN688E70L_H-FeZVckwa_To0",
-      "timestamp": "2026-08-07T10:01:14+0000",
       "metrics": {
         "views": 0,
         "likes": 0,
