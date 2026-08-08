@@ -492,8 +492,9 @@ ${theme.safety ? '\nATURAN KEAMANAN (WAJIB, JANGAN DILANGGAR):\n' + theme.safety
 Contoh voice yang WORK:
 ${theme.examples}
 
-BALAS HANYA JSON VALID. Gunakan pipe | untuk jeda baris dalam teks, BUKAN newline asli:
-[{"jam":"08.00","teks":"baris1|baris2","cta":"..."},{"jam":"13.00","teks":"...","cta":"..."}]`;
+PENTING — OUTPUT WAJIB: balas HANYA array JSON mentah berisi TEPAT ${count} objek. JANGAN nulis kalimat pembuka/penutup, JANGAN nanya balik, JANGAN pakai blok kode markdown. Jawaban HARUS mulai dari karakter [ dan berakhir di ]. Gunakan pipe | untuk jeda baris di dalam "teks" (BUKAN newline asli).
+Contoh format (tiru STRUKTURNYA, ganti isi teks & cta sesuai angle di atas):
+[{"jam":"08.00","teks":"kalimat pembuka|twist kecil|insight","cta":"ada yang relate?"},{"jam":"13.00","teks":"hook|reveal","cta":"gimana menurut lo?"}]`;
 
     document.getElementById('overlay').classList.add('show');
 
@@ -509,6 +510,7 @@ BALAS HANYA JSON VALID. Gunakan pipe | untuk jeda baris dalam teks, BUKAN newlin
         body: JSON.stringify({
           model: 'claude-sonnet-4-6',
           max_tokens: 2000,
+          system: 'Kamu mesin generator konten Threads. SELALU balas HANYA array JSON mentah (mulai dari [ dan akhiri dengan ]), tanpa kalimat pembuka/penutup, tanpa pertanyaan balik, tanpa blok kode markdown.',
           messages: [{ role: 'user', content: prompt }]
         })
       });
@@ -525,13 +527,13 @@ BALAS HANYA JSON VALID. Gunakan pipe | untuk jeda baris dalam teks, BUKAN newlin
       // Extract JSON array safely
       const start = rawText.indexOf('[');
       const end = rawText.lastIndexOf(']');
-      if (start === -1 || end === -1) throw new Error('Tidak ada JSON array di response');
+      if (start === -1 || end === -1) throw new Error('AI balas non-JSON — klik Generate sekali lagi ya');
 
       const jsonStr = rawText.slice(start, end + 1);
       const posts = JSON.parse(jsonStr);
 
       renderPosts(posts);
-      showToast('✅ 10 post berhasil digenerate!');
+      showToast(`✅ ${posts.length} post berhasil digenerate!`);
     } catch(err) {
       console.error('Generate error:', err);
       showToast('❌ ' + err.message.slice(0, 80));
