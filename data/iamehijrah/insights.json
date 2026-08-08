@@ -1,24 +1,39 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-08-08T09:58:46.328Z",
+  "updated_at": "2026-08-08T10:56:42.015Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-fra5-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=pi1LhdP4dHcQ7kNvwFHdzuc&_nc_oc=AdqY1obXk42mpognyATGmdyVdxSVjNMQT3IeHI2kIpNR1mF6Iiiqmo6swziF84m4FdU&_nc_zt=24&_nc_ht=scontent-fra5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=qfyl8JSOIosrLuQN8XWrAQ&_nc_tpa=Q5bMBQE1YhdUW-2NhUZkJ09wDVXbq5IWc7MoTyN94vmN3bTpN_U0VhL6DUYrHRRTN2sLYGpu0LDkekJwsQ&oh=00_AQFX5gUtULSDs7wE0WeKRAxd5W82DjqkzjqffSNSkgYHJA&oe=6A7CBF53"
+    "picture": "https://scontent-lhr11-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMiJ9&_nc_ohc=pi1LhdP4dHcQ7kNvwFFfYp9&_nc_oc=AdqBEGt55r650oEWSEY9CcXSAoDV0heseBttN_AFxe6FjTGL-_w-gAzJcOCAk8SS0NE&_nc_zt=24&_nc_ht=scontent-lhr11-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=xqFxL7gvRReH3nrj3xBhCg&_nc_tpa=Q5bMBQHYQfzo5OX4F_uNKoxxuMuzujCTn4-Gl3jmYfcmTWsA65ZRVyh2wGTbx-cP7ae-3SwXQs97iNkWHQ&oh=00_AQGN-FCwpQH95CQdIphCmrawSrkc2WjcSyxC7W-EaUcTpg&oe=6A7CF793"
   },
   "summary": {
     "followers_count": 0,
-    "views": 20,
-    "likes": 0,
+    "views": 51,
+    "likes": 1,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 13,
-    "engagement_rate": 65,
+    "engagement_total": 15,
+    "engagement_rate": 29.41,
     "curiosity_score": null,
     "post_count": 25
   },
   "top_posts": [
+    {
+      "id": "17877117075529603",
+      "text": "Nenek aku dulu bilang, sholat 5 waktu itu bukan soal rajin atau nggak — tapi soal kamu masih mau pulang ke Allah, hari i",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbxfkERIBI0",
+      "timestamp": "2026-08-08T09:01:29+0000",
+      "metrics": {
+        "views": 43,
+        "likes": 2,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 2
+    },
     {
       "id": "18339551311284921",
       "text": "Dulu aku mikir Sholat Dhuha itu ibadah \"ekstra\" — kayak bonus kalau sempat, skip juga ga masalah.\nTernyata yang aku rasa",
@@ -78,21 +93,6 @@
         "shares": 1
       },
       "engagement": 2
-    },
-    {
-      "id": "17960742444172653",
-      "text": "Habis Subuh tadi, duduk sebentar — dan tiba-tiba nyadar betapa seringnya aku ngerasa Allah \"salah timing\" ngasih sesuatu",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbpxLJdFhpK",
-      "timestamp": "2026-08-05T09:01:25+0000",
-      "metrics": {
-        "views": 69,
-        "likes": 2,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 2
     }
   ],
   "recent_posts": [
@@ -102,14 +102,14 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbxfkERIBI0",
       "timestamp": "2026-08-08T09:01:29+0000",
       "metrics": {
-        "views": 17,
-        "likes": 0,
+        "views": 43,
+        "likes": 2,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 0
+      "engagement": 2
     },
     {
       "id": "18090095726532158",
