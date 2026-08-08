@@ -1,26 +1,41 @@
 {
   "account": "iams",
-  "updated_at": "2026-08-08T07:25:11.670Z",
+  "updated_at": "2026-08-08T09:04:46.955Z",
   "profile": {
     "username": "iams_ichi",
     "name": "iams",
     "biography": "🧠Psi + Traveling \nSolo Traveler Bunglon\nFine dining 👌 & Street food lokal 🫰\nHidden gems Insider for 🇯🇵🇦🇺🇫🇷🇪🇸🇮🇹 + Umrah.\n✉️ cmo@coa.au",
-    "picture": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=EfBHsumogB4Q7kNvwE_EISD&_nc_oc=Adrngol6tGCoJAa1wTT6lxtayyeajg-sTnC7xuOMPYbs_o523vX4vh-VLiJ8C6E8iUk&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=hk-Zdx-Zxi9Va5OmMQzqBA&_nc_tpa=Q5bMBQFsPZszUrJjyL4sjB_v7v58kE02RkpJhOByzuCkQTR66vLwNEDAgjMnq6tbMEC8Gv0cEcaBo88z6g&oh=00_AQFWihnVnYkCmWOGIxNCEImYiMerZvOoKbfGR7fxbpm5bw&oe=6A7C959E"
+    "picture": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=EfBHsumogB4Q7kNvwE5Gysn&_nc_oc=AdrCPXvkdiQ15S8yr85f0tpiu9RPp-laoUA2gGvDaYKSK5ngxnPgiBgeI-XqpuTLifc&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=KEt9a_rH2y53jrCy26RCEA&_nc_tpa=Q5bMBQFzS5_UUIBVUpDTGqS5OKraDisJLkY8yO2JikX-DoYJUnRElVvHix-LvH7jFfqKSGXS8tz5tSeu8Q&oh=00_AQFMEfjTMLzMS2Dqbj1jlhEjwLPLNbbQyTukm8_y8gfnHw&oe=6A7CCDDE"
   },
   "summary": {
     "followers_count": 1357,
-    "views": 7,
-    "likes": 0,
-    "replies": 0,
+    "views": 239,
+    "likes": 1,
+    "replies": 5,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 24,
-    "engagement_rate": 342.86,
+    "engagement_total": 34,
+    "engagement_rate": 14.23,
     "curiosity_score": null,
     "post_count": 25
   },
   "top_posts": [
+    {
+      "id": "18123317023695996",
+      "text": "Di Prancis, orang beli baguette terus dibawa pulang pegang-pegang aja — nggak dibungkus, nggak dimasukkin tas.\nRoti itu ",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DbwlJ6oHz1J",
+      "timestamp": "2026-08-08T00:31:06+0000",
+      "metrics": {
+        "views": 437,
+        "likes": 3,
+        "replies": 10,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 13
+    },
     {
       "id": "18083081348282849",
       "text": "Hidden gem Makkah yang jarang dibahas: warung kecil di gang belakang hotel zona 2 yang jual kabsa nasi ayam rempah jam 1",
@@ -35,21 +50,6 @@
         "shares": 0
       },
       "engagement": 6
-    },
-    {
-      "id": "18123317023695996",
-      "text": "Di Prancis, orang beli baguette terus dibawa pulang pegang-pegang aja — nggak dibungkus, nggak dimasukkin tas.\nRoti itu ",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DbwlJ6oHz1J",
-      "timestamp": "2026-08-08T00:31:06+0000",
-      "metrics": {
-        "views": 270,
-        "likes": 2,
-        "replies": 2,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 4
     },
     {
       "id": "17982781050104532",
@@ -99,12 +99,27 @@
   ],
   "recent_posts": [
     {
+      "id": "18061486022782139",
+      "text": "Dulu mikir aku suka Trastevere karena \"vibes\"-nya.\nBaru sadar — aku suka karena di sana nggak ada yang ngajak ngobrol ka",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DbxVNw-lSiL",
+      "timestamp": "2026-08-08T07:31:02+0000",
+      "metrics": {
+        "views": 41,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "17898271197560854",
       "text": "Dulu mikir aku ke Spanyol buat \"menemukan diri sendiri\" — ternyata yang aku temuin justru betapa capeknya jadi orang yan",
       "permalink": "https://www.threads.com/@iams_ichi/post/Dbw9NjjkdKM",
       "timestamp": "2026-08-08T04:01:18+0000",
       "metrics": {
-        "views": 35,
+        "views": 36,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -121,12 +136,12 @@
       "metrics": {
         "views": 8,
         "likes": 0,
-        "replies": 0,
+        "replies": 1,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 0
+      "engagement": 1
     },
     {
       "id": "18123317023695996",
@@ -134,14 +149,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DbwlJ6oHz1J",
       "timestamp": "2026-08-08T00:31:06+0000",
       "metrics": {
-        "views": 270,
-        "likes": 2,
-        "replies": 2,
+        "views": 437,
+        "likes": 3,
+        "replies": 10,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 4
+      "engagement": 13
     },
     {
       "id": "17897483460366671",
@@ -232,21 +247,6 @@
         "shares": 0
       },
       "engagement": 0
-    },
-    {
-      "id": "18619200025042487",
-      "text": "Solo Eropa itu bukan soal pemberani atau nggak — tapi soal tau kapan harus recharge.\nGue biasanya cari satu café sepi, d",
-      "permalink": "https://www.threads.com/@iams_ichi/post/Dbs5-EioMeb",
-      "timestamp": "2026-08-06T14:16:00+0000",
-      "metrics": {
-        "views": 203,
-        "likes": 3,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 3
     }
   ]
 }
