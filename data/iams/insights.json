@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-08-07T23:51:12.232Z",
+  "updated_at": "2026-08-08T02:25:23.420Z",
   "profile": {
     "username": "iams_ichi",
     "name": "iams",
     "biography": "🧠Psi + Traveling \nSolo Traveler Bunglon\nFine dining 👌 & Street food lokal 🫰\nHidden gems Insider for 🇯🇵🇦🇺🇫🇷🇪🇸🇮🇹 + Umrah.\n✉️ cmo@coa.au",
-    "picture": "https://scontent-lga3-3.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=EfBHsumogB4Q7kNvwFxsW9B&_nc_oc=AdpIZ_vycJjRyNVVrtcVBL0wSgmgWtRjDhCT1wm9aNF-2pv4zKj1MjIGP2fKOlvB4BI&_nc_zt=24&_nc_ht=scontent-lga3-3.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=_4D2cdJcbrtJTWu8h1-W4g&_nc_tpa=Q5bMBQElPZDL6BvRYSDjTkU_Pew3xBiLwGXfXDQGARhc3tHcN5bXpAaMXfxADJpNZ6NZ5QSbGyKFdlnzTw&oh=00_AQGxARh68PeyMpZSYiOQaTF7sqxr4qqX8bVCViR1POyoDg&oe=6A7C5D5E"
+    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=EfBHsumogB4Q7kNvwHAmqBF&_nc_oc=AdrDT4_MWp6EWKeq41SPM4KdntNiG9ux_Ev0NH_chVASyu23Qnjcmf1eSBtsFfV3FA0&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=ml8twUvCiU1Vf_MAFy4pWw&_nc_tpa=Q5bMBQHvpK_VxBv8VBWjrP4ZUsxqUYhgFxRUp7KRtgUxoPVuguvCmz3PgXnDvM1who6SUDEm275D2PFqgQ&oh=00_AQEXCnY7tbRlQQEw3ETSu31eqaicYMJzeGlBVJYFXGtkZg&oe=6A7C5D5E"
   },
   "summary": {
     "followers_count": 1356,
-    "views": 184,
-    "likes": 3,
+    "views": 291,
+    "likes": 5,
     "replies": 1,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 33,
-    "engagement_rate": 17.93,
+    "engagement_total": 29,
+    "engagement_rate": 9.97,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -52,27 +52,12 @@
       "engagement": 6
     },
     {
-      "id": "18108269104832636",
-      "text": "Aku anak library banget. Aku bisa seharian di perpus for remote work. Jujur ya, coffee shop di Aussie itu emang banyak, ",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DbmZz93gdbU",
-      "timestamp": "2026-08-04T01:39:02+0000",
-      "metrics": {
-        "views": 249,
-        "likes": 5,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 6
-    },
-    {
       "id": "17982781050104532",
       "text": "Jam 11 malem di Le Marais, gue baru sadar — neighborhood ini beda banget sama Paris yang lo bayangin.\nDi sini orang masi",
       "permalink": "https://www.threads.com/@iams_ichi/post/DbuwbhIFXJR",
       "timestamp": "2026-08-07T07:31:07+0000",
       "metrics": {
-        "views": 69,
+        "views": 71,
         "likes": 3,
         "replies": 1,
         "reposts": 0,
@@ -95,16 +80,61 @@
         "shares": 0
       },
       "engagement": 3
+    },
+    {
+      "id": "18130592566636709",
+      "text": "Unpopular opinion: \nUS is lowkey not my family’s ultimate travel destination. Terakhir ke sana pas 2017,  tapi jujur ban",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DboqpkVE1mi",
+      "timestamp": "2026-08-04T22:44:38+0000",
+      "metrics": {
+        "views": 61,
+        "likes": 0,
+        "replies": 3,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 3
     }
   ],
   "recent_posts": [
+    {
+      "id": "18621913471018634",
+      "text": "Ketika udah masuk work era(No Traveling), Sabtu pun tetep hustle selama perpustakaan buka 😁. Happy Weekend",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DbwrEoTARJn",
+      "timestamp": "2026-08-08T01:22:15+0000",
+      "metrics": {
+        "views": 5,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "18123317023695996",
+      "text": "Di Prancis, orang beli baguette terus dibawa pulang pegang-pegang aja — nggak dibungkus, nggak dimasukkin tas.\nRoti itu ",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DbwlJ6oHz1J",
+      "timestamp": "2026-08-08T00:31:06+0000",
+      "metrics": {
+        "views": 85,
+        "likes": 2,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 2
+    },
     {
       "id": "17897483460366671",
       "text": "Katanya orang Paris itu sombong dan nggak mau bantu turis.\nTernyata mereka bukan sombong — mereka cuma nggak mau buang w",
       "permalink": "https://www.threads.com/@iams_ichi/post/DbvdFlEHN_f",
       "timestamp": "2026-08-07T14:01:21+0000",
       "metrics": {
-        "views": 14,
+        "views": 15,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -134,7 +164,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DbuwbhIFXJR",
       "timestamp": "2026-08-07T07:31:07+0000",
       "metrics": {
-        "views": 69,
+        "views": 71,
         "likes": 3,
         "replies": 1,
         "reposts": 0,
@@ -149,7 +179,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DbuXuu2gcif",
       "timestamp": "2026-08-07T04:21:45+0000",
       "metrics": {
-        "views": 7,
+        "views": 8,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -212,36 +242,6 @@
         "views": 94,
         "likes": 1,
         "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "18114853438899797",
-      "text": "Trastevere itu neighborhood-nya Roma yang paling bikin introvert lega — karena gangnya sempit, orang-orangnya sibuk send",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DbsjtDvm-7f",
-      "timestamp": "2026-08-06T11:01:26+0000",
-      "metrics": {
-        "views": 43,
-        "likes": 1,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "18159449494468208",
-      "text": "Unpopular opinion: Spanyol itu lebih enak dinikmatin lambat — bukan karena romantis, tapi karena otakmu butuh waktu buat",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DbsLpBtinLD",
-      "timestamp": "2026-08-06T07:31:13+0000",
-      "metrics": {
-        "views": 75,
-        "likes": 0,
-        "replies": 1,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
