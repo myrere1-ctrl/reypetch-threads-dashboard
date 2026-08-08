@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-08-08T15:51:27.189Z",
+  "updated_at": "2026-08-08T16:57:46.587Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-lga3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=pi1LhdP4dHcQ7kNvwEX43WF&_nc_oc=Adqrkdhp-RO8jcycMPByKPXz0MHZ2z6tifnG3P0W3jizswZzNjkDqo1fthxaQn4LfY4&_nc_zt=24&_nc_ht=scontent-lga3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=N4uONLjMqGHk6xGES5OxQw&_nc_tpa=Q5bMBQGoOn8Pxnz0URczjLRJ_NSarF-idic9k7sRdp2gCMjQXsttZLukMTVUKTdbtWxYsFeYm4wfhyn1lQ&oh=00_AQEIOpqZTJ9HEfFD1W5C7V9bxv2rNJymz7r62dKUiSDBLQ&oe=6A7D2FD3"
+    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=pi1LhdP4dHcQ7kNvwHT6NMy&_nc_oc=AdoPgQY1gQGVBSPtIOHoIICK252FAzB1SBr9a1ilbcyge4ZbEp4-zUioOHQCklj5rdQ&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=MNB6K4WJaUyGZdd5DLIBRg&_nc_tpa=Q5bMBQF5Vaq7hZ-kwjInLlAGiOTwswd5Gt4FNg81jJqJH_e6R_Cw5Z78Na2796LOJKOJnqtGCu7oGp5LwA&oh=00_AQG76bHt4WJ-V_EU1-kFSSmHI8YDxORiLgcn-dTDyazniQ&oe=6A7D2FD3"
   },
   "summary": {
     "followers_count": 0,
-    "views": 219,
-    "likes": 3,
+    "views": 251,
+    "likes": 4,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 13,
-    "engagement_rate": 5.94,
+    "engagement_total": 12,
+    "engagement_rate": 4.78,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -25,7 +25,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbxfkERIBI0",
       "timestamp": "2026-08-08T09:01:29+0000",
       "metrics": {
-        "views": 50,
+        "views": 51,
         "likes": 2,
         "replies": 0,
         "reposts": 0,
@@ -80,29 +80,29 @@
       "engagement": 2
     },
     {
-      "id": "17898540015542916",
-      "text": "Unpopular opinion: ikhlas itu bukan kondisi yang bisa \"dicapai\" sekali terus selesai.\nAku kira kalau udah ikhlas, ya uda",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbqW8hYlefq",
-      "timestamp": "2026-08-05T14:31:28+0000",
-      "metrics": {
-        "views": 131,
-        "likes": 2,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 1
-      },
-      "engagement": 2
-    }
-  ],
-  "recent_posts": [
-    {
       "id": "18112614313753821",
       "text": "Lagi nabung sambil belajar manasik, dan satu hal yang aku pegang: takdir terbaik itu bukan yang kita rancang, tapi yang ",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbyFUcvldw3",
       "timestamp": "2026-08-08T14:31:23+0000",
       "metrics": {
-        "views": 21,
+        "views": 33,
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    }
+  ],
+  "recent_posts": [
+    {
+      "id": "17940876195301125",
+      "text": "Malam ini aku nanya ke diri sendiri — sudah berapa lama aku bilang \"pengen ke Tanah Suci\" tapi cuma berhenti di keingina",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbyTD3loOog",
+      "timestamp": "2026-08-08T16:31:27+0000",
+      "metrics": {
+        "views": 0,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -110,6 +110,21 @@
         "shares": 0
       },
       "engagement": 0
+    },
+    {
+      "id": "18112614313753821",
+      "text": "Lagi nabung sambil belajar manasik, dan satu hal yang aku pegang: takdir terbaik itu bukan yang kita rancang, tapi yang ",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbyFUcvldw3",
+      "timestamp": "2026-08-08T14:31:23+0000",
+      "metrics": {
+        "views": 33,
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
     },
     {
       "id": "18021808229908918",
@@ -132,7 +147,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbxwuALG3uq",
       "timestamp": "2026-08-08T11:31:23+0000",
       "metrics": {
-        "views": 125,
+        "views": 133,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -147,7 +162,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbxfkERIBI0",
       "timestamp": "2026-08-08T09:01:29+0000",
       "metrics": {
-        "views": 50,
+        "views": 51,
         "likes": 2,
         "replies": 0,
         "reposts": 0,
@@ -230,21 +245,6 @@
         "shares": 0
       },
       "engagement": 0
-    },
-    {
-      "id": "18125894650707042",
-      "text": "Dulu aku mikir ikhlas itu soal ga ngerasa apa-apa — ga pengen dipuji, ga ngarep hasil, datar aja.\nTernyata ikhlas bukan ",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbvWPenG5k_",
-      "timestamp": "2026-08-07T13:01:33+0000",
-      "metrics": {
-        "views": 107,
-        "likes": 1,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
     }
   ]
 }
