@@ -1,11 +1,11 @@
 {
   "account": "rrpetch",
-  "updated_at": "2026-08-07T23:51:38.287Z",
+  "updated_at": "2026-08-08T02:25:51.929Z",
   "profile": {
     "username": "rrpetch",
     "name": "rrp",
     "biography": "Travelers",
-    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/725626839_18109259368780392_5435560104487373455_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=wrso0eOfXZwQ7kNvwHQShWr&_nc_oc=AdrzLf9liolM9UugDQ-AnEwAE3orlKHgncFEH5KRf7Uz_A0ruhDrFgMQH03ekOsQZe4&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=e7er7lIgeVlf41g1mg-OxA&_nc_tpa=Q5bMBQEQc8AuznwJMP0JxwOm80-GMIFZzGAFxvFJI1SiNodXKNDvOgxECHov1YlH_Fr3PXvH5NlY4UFE3w&oh=00_AQH76pWhnj8ca5Km12YD7xOGdUcbewXFr3-20u1bDzeFZg&oe=6A7C4A2D"
+    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/725626839_18109259368780392_5435560104487373455_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=wrso0eOfXZwQ7kNvwHhCsSo&_nc_oc=AdrAe6f5AdvkfL2AccM5n3JU8Z7OW3fiwOEJb7-0MQnT9lN-8B1nCL7fMGet3bWpNXQ&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=Clp8C0BybOPoxIhN3wDAVw&_nc_tpa=Q5bMBQHVQWvh-aj8K-dODu-VnoxR9SncZncJnGqBePPTWYxcXxWkKE2zioMxPFPAmVqiDeufHiB4Bp8P2Q&oh=00_AQFcZJgseDZ36gqXcz3Y34pmK6vyVkXjxgTqtF9eX3Z4zQ&oe=6A7C4A2D"
   },
   "summary": {
     "followers_count": 0,
@@ -21,6 +21,36 @@
     "post_count": 25
   },
   "top_posts": [
+    {
+      "id": "17901746592479279",
+      "text": "Klien tanya soal Italia — dress code Vatikan, koneksi kereta Roma-Florence, estimasi waktu di Colosseum.\nPertanyaan sepe",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbwvdbNERaINaHvj7Ie3f8bofVY44dU9kl-zyQ0",
+      "timestamp": "2026-08-08T02:01:08+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "18150969688509526",
+      "text": "Satu hal yang sering bikin traveler Jepang frustrasi:\npertanyaan sederhana — tapi dijawab besok.\nJam operasional, aturan",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbwlLgjCb1A-28y3Ws6nOzzEbiFFKltaItMNSk0",
+      "timestamp": "2026-08-08T00:31:18+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
     {
       "id": "18154051732498001",
       "text": "Mitos yang masih beredar: \"Klien agen Eropa terlalu kompleks, harus dijawab manual satu per satu.\"\nPadahal, mayoritas pe",
@@ -65,39 +95,39 @@
         "shares": 0
       },
       "engagement": 0
-    },
-    {
-      "id": "17902537269496994",
-      "text": "Staff CS Anda bukan robot — mereka bisa burnout.\nTapi pertanyaan soal visa Italia, dress code Vatikan, atau koneksi kere",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbvBm5GFhgGxrDnZN688E70L_H-FeZVckwa_To0",
-      "timestamp": "2026-08-07T10:01:14+0000",
-      "metrics": {
-        "views": 0,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18221509780334978",
-      "text": "Agen travel Jepang kami tangani rata-rata 80+ pertanyaan repetitif per hari — JR Pass, aturan bagasi shinkansen, kuil ya",
-      "permalink": "https://www.threads.com/@rrpetch/post/Dbuz4gxFoE0do7JI2aNjleYDGHkryxnP_zIUQo0",
-      "timestamp": "2026-08-07T08:01:18+0000",
-      "metrics": {
-        "views": 0,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
     }
   ],
   "recent_posts": [
+    {
+      "id": "17901746592479279",
+      "text": "Klien tanya soal Italia — dress code Vatikan, koneksi kereta Roma-Florence, estimasi waktu di Colosseum.\nPertanyaan sepe",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbwvdbNERaINaHvj7Ie3f8bofVY44dU9kl-zyQ0",
+      "timestamp": "2026-08-08T02:01:08+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "18150969688509526",
+      "text": "Satu hal yang sering bikin traveler Jepang frustrasi:\npertanyaan sederhana — tapi dijawab besok.\nJam operasional, aturan",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbwlLgjCb1A-28y3Ws6nOzzEbiFFKltaItMNSk0",
+      "timestamp": "2026-08-08T00:31:18+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
     {
       "id": "18154051732498001",
       "text": "Mitos yang masih beredar: \"Klien agen Eropa terlalu kompleks, harus dijawab manual satu per satu.\"\nPadahal, mayoritas pe",
@@ -208,36 +238,6 @@
       "text": "Satu fitur yang jarang disorot dari ViaAI:\nklien bisa tanya soal Spanyol — Alhambra, flamenco schedule, koneksi kereta a",
       "permalink": "https://www.threads.com/@rrpetch/post/DbuU9RNGwsFWTu6nrn69VXf4J-lkyHF8VuzD240",
       "timestamp": "2026-08-07T03:31:04+0000",
-      "metrics": {
-        "views": 0,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18122576884877322",
-      "text": "CS agen travel Prancis Anda bukan mesin — mereka butuh tidur, butuh istirahat.\nTapi pertanyaan klien soal jam buka Louvr",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbuKrXfGrmQ_PxDpYrpl-1_ghJwFWajNJdh6IM0",
-      "timestamp": "2026-08-07T02:01:14+0000",
-      "metrics": {
-        "views": 0,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18476132590107153",
-      "text": "Agen Haji Anda bisa punya AI companion ber-brand sendiri — nama bisnis Anda di depan, bukan nama vendor.\nSafar AI bisa d",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbuAY0vEr8GRNww6k31bS9LdUfipQhoihmDP9I0",
-      "timestamp": "2026-08-07T00:31:20+0000",
       "metrics": {
         "views": 0,
         "likes": 0,
