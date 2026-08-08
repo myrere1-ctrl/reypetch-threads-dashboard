@@ -1,9 +1,9 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-08-08T07:26:07.627Z",
+  "updated_at": "2026-08-08T09:05:40.517Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=pi1LhdP4dHcQ7kNvwE_Za-T&_nc_oc=AdrYRkLExoI5O6LBltKXPb78B1QxJ3_5SmyjJG5Xbbbl4xaMgCBYWKMymwZo71zVzAU&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=Di2TdA9G8bhk9mUXRKLm3g&_nc_tpa=Q5bMBQEZoxtMCsd_AJ5zyW6gRGUAK2xuSuT3HCMchJnFibVE5aFkIc_54HOLWEkAacLoAGsorIVZA2ePcA&oh=00_AQHbE_KhfuaZVGoOKy9Y-bFNc6ZhQRbPvByduWb0wdHKxQ&oe=6A7CBF53"
+    "picture": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=pi1LhdP4dHcQ7kNvwHatj8j&_nc_oc=AdqNXAOBz5_7Yanz77mdl6KwOWq63ihWQqIIdKeUD2QJrzvIEibh3mFF-z_gNc85Bfo&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=poCbyJTw0i9LQ4ynJ5wu_Q&_nc_tpa=Q5bMBQFhAp56Yra4tI7vGHOn6PjLJWfb4mU6L48Bfag_zsxliS3ejdO7u-TkTCzLaZJHm-vbTFDh-3yJLg&oh=00_AQHV9jBaqjT7WSI2VY6audBoaGhgLx3xDu2gXF4ayJlZZQ&oe=6A7CBF53"
   },
   "summary": {
     "followers_count": 0,
@@ -13,7 +13,7 @@
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 14,
+    "engagement_total": 13,
     "engagement_rate": 0,
     "curiosity_score": null,
     "post_count": 25
@@ -96,6 +96,21 @@
     }
   ],
   "recent_posts": [
+    {
+      "id": "17877117075529603",
+      "text": "Nenek aku dulu bilang, sholat 5 waktu itu bukan soal rajin atau nggak — tapi soal kamu masih mau pulang ke Allah, hari i",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbxfkERIBI0",
+      "timestamp": "2026-08-08T09:01:29+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
     {
       "id": "18090095726532158",
       "text": "Aku baru sadar — aku jarang banget sedekah dengan niat yang beneran tulus, bukan sekadar kebiasaan.\nSejak aku coba sadar",
@@ -230,21 +245,6 @@
         "shares": 0
       },
       "engagement": 2
-    },
-    {
-      "id": "18115272449292387",
-      "text": "Unpopular opinion: syukur itu bukan soal nunggu keadaan jadi bagus dulu baru berterima kasih.\nAku justru ngerasa paling ",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbuKuFuFiQk",
-      "timestamp": "2026-08-07T02:01:37+0000",
-      "metrics": {
-        "views": 6,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
     }
   ]
 }
