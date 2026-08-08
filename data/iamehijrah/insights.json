@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-08-08T11:49:08.776Z",
+  "updated_at": "2026-08-08T13:17:47.895Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=pi1LhdP4dHcQ7kNvwGqcUNK&_nc_oc=AdrnZjuZMnIT8bBu8siRaZ6Vj8NS6kkIpYJ542nnyVQRM5PXvYwwnJBRrX2QkY8sqg8&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=9NG6BxZhMGFZJ6uUHyCs5Q&_nc_tpa=Q5bMBQEK1h1IMb8zI5FoCOKu9L53HeSH6kx_GcNESJGmOGgtFoYx02zwhuvHHi1h2YUZ0sHQxkUFfLttwQ&oh=00_AQE5SFJUKOli2JHzF_Tww66ub0PEXbiu4pPs-wXp3_Ip0Q&oe=6A7CF793"
+    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=pi1LhdP4dHcQ7kNvwHW8Lyu&_nc_oc=AdrnjzXTvS8QZtzUtI3OS3F36TzgigaRE2SLdl36lmqd0kA78ihC0DgJntoGedPY3eY&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=rqcO1xJxnLx4nTRsGGE1wA&_nc_tpa=Q5bMBQHScyG18zridVrNSOugeXzEgCr4k73ugiNMJC5kSaf9Wa7ELyz9e6A5KzN-a95t69cU5iyE6TRXvQ&oh=00_AQEelil2y4aJeDXhTD2dbwFZtuGQJRFFrNPmNLxCzmyDeQ&oe=6A7CF793"
   },
   "summary": {
     "followers_count": 0,
-    "views": 54,
-    "likes": 2,
+    "views": 140,
+    "likes": 3,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 13,
-    "engagement_rate": 24.07,
+    "engagement_total": 14,
+    "engagement_rate": 10,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -55,7 +55,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbuixQOFl0R",
       "timestamp": "2026-08-07T05:31:45+0000",
       "metrics": {
-        "views": 129,
+        "views": 130,
         "likes": 2,
         "replies": 0,
         "reposts": 0,
@@ -97,10 +97,10 @@
   ],
   "recent_posts": [
     {
-      "id": "17951696238017163",
-      "text": "Nenek aku dulu kalau lagi cemas, beliau cuma bilang — \"baca Doa Nabi Yunus pelan-pelan, sampe hati kamu nurut.\"\nAku ga n",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbxwuALG3uq",
-      "timestamp": "2026-08-08T11:31:23+0000",
+      "id": "18021808229908918",
+      "text": "Aku pernah capek nunggu doa yang belum kelihatan jawabnya.\nTapi hari ini masih bisa bangun, masih bisa sujud, masih bisa",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dbx7BmYm8-C",
+      "timestamp": "2026-08-08T13:01:26+0000",
       "metrics": {
         "views": 0,
         "likes": 0,
@@ -110,6 +110,21 @@
         "shares": 0
       },
       "engagement": 0
+    },
+    {
+      "id": "17951696238017163",
+      "text": "Nenek aku dulu kalau lagi cemas, beliau cuma bilang — \"baca Doa Nabi Yunus pelan-pelan, sampe hati kamu nurut.\"\nAku ga n",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbxwuALG3uq",
+      "timestamp": "2026-08-08T11:31:23+0000",
+      "metrics": {
+        "views": 84,
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
     },
     {
       "id": "17877117075529603",
@@ -230,21 +245,6 @@
         "shares": 0
       },
       "engagement": 0
-    },
-    {
-      "id": "18339551311284921",
-      "text": "Dulu aku mikir Sholat Dhuha itu ibadah \"ekstra\" — kayak bonus kalau sempat, skip juga ga masalah.\nTernyata yang aku rasa",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dbu6xRWCPxh",
-      "timestamp": "2026-08-07T09:01:32+0000",
-      "metrics": {
-        "views": 33,
-        "likes": 2,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 2
     }
   ]
 }
