@@ -1,41 +1,26 @@
 {
   "account": "iams",
-  "updated_at": "2026-08-08T02:25:23.420Z",
+  "updated_at": "2026-08-08T04:31:57.082Z",
   "profile": {
     "username": "iams_ichi",
     "name": "iams",
     "biography": "🧠Psi + Traveling \nSolo Traveler Bunglon\nFine dining 👌 & Street food lokal 🫰\nHidden gems Insider for 🇯🇵🇦🇺🇫🇷🇪🇸🇮🇹 + Umrah.\n✉️ cmo@coa.au",
-    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=EfBHsumogB4Q7kNvwHAmqBF&_nc_oc=AdrDT4_MWp6EWKeq41SPM4KdntNiG9ux_Ev0NH_chVASyu23Qnjcmf1eSBtsFfV3FA0&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=ml8twUvCiU1Vf_MAFy4pWw&_nc_tpa=Q5bMBQHvpK_VxBv8VBWjrP4ZUsxqUYhgFxRUp7KRtgUxoPVuguvCmz3PgXnDvM1who6SUDEm275D2PFqgQ&oh=00_AQEXCnY7tbRlQQEw3ETSu31eqaicYMJzeGlBVJYFXGtkZg&oe=6A7C5D5E"
+    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=EfBHsumogB4Q7kNvwEx0_JY&_nc_oc=AdqKEyMXKGRNN3gOa2TzsPNixIxyarwlc2-vvy4guLSdNYTAxqHZV_Mg3ZsljRPD0fI&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=84H2t-fTyobXNhRawuKy7Q&_nc_tpa=Q5bMBQFhSu9dp_ezZXOhDVEQQ2g34iVbuNF5451h7VLLLUtqwJQXzUA8nJXjfzCy_P9OwbXGNpuWZnurMw&oh=00_AQHeW9WoCRWUHMYwFJHxftm6jR0wNI2JBYsHfPUbCA2asw&oe=6A7C959E"
   },
   "summary": {
     "followers_count": 1356,
-    "views": 291,
-    "likes": 5,
+    "views": 400,
+    "likes": 6,
     "replies": 1,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 29,
-    "engagement_rate": 9.97,
+    "engagement_total": 22,
+    "engagement_rate": 5.5,
     "curiosity_score": null,
     "post_count": 25
   },
   "top_posts": [
-    {
-      "id": "17963234214170221",
-      "text": "Jam 3 subuh di Madinah — dan aku masih duduk di luar Masjid Nabawi, nggak kemana-mana.\nBukan karena capek. Tapi karena d",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DbnCDV4FrmQ",
-      "timestamp": "2026-08-04T07:31:11+0000",
-      "metrics": {
-        "views": 218,
-        "likes": 6,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 7
-    },
     {
       "id": "18083081348282849",
       "text": "Hidden gem Makkah yang jarang dibahas: warung kecil di gang belakang hotel zona 2 yang jual kabsa nasi ayam rempah jam 1",
@@ -57,7 +42,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DbuwbhIFXJR",
       "timestamp": "2026-08-07T07:31:07+0000",
       "metrics": {
-        "views": 71,
+        "views": 74,
         "likes": 3,
         "replies": 1,
         "reposts": 0,
@@ -95,9 +80,39 @@
         "shares": 0
       },
       "engagement": 3
+    },
+    {
+      "id": "18123317023695996",
+      "text": "Di Prancis, orang beli baguette terus dibawa pulang pegang-pegang aja — nggak dibungkus, nggak dimasukkin tas.\nRoti itu ",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DbwlJ6oHz1J",
+      "timestamp": "2026-08-08T00:31:06+0000",
+      "metrics": {
+        "views": 168,
+        "likes": 2,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 2
     }
   ],
   "recent_posts": [
+    {
+      "id": "17898271197560854",
+      "text": "Dulu mikir aku ke Spanyol buat \"menemukan diri sendiri\" — ternyata yang aku temuin justru betapa capeknya jadi orang yan",
+      "permalink": "https://www.threads.com/@iams_ichi/post/Dbw9NjjkdKM",
+      "timestamp": "2026-08-08T04:01:18+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
     {
       "id": "18621913471018634",
       "text": "Ketika udah masuk work era(No Traveling), Sabtu pun tetep hustle selama perpustakaan buka 😁. Happy Weekend",
@@ -119,7 +134,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DbwlJ6oHz1J",
       "timestamp": "2026-08-08T00:31:06+0000",
       "metrics": {
-        "views": 85,
+        "views": 168,
         "likes": 2,
         "replies": 0,
         "reposts": 0,
@@ -164,7 +179,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DbuwbhIFXJR",
       "timestamp": "2026-08-07T07:31:07+0000",
       "metrics": {
-        "views": 71,
+        "views": 74,
         "likes": 3,
         "replies": 1,
         "reposts": 0,
@@ -232,21 +247,6 @@
         "shares": 0
       },
       "engagement": 3
-    },
-    {
-      "id": "18113441458939940",
-      "text": "Di Praha aku bisa makan svíčková di restoran tua yang mejanya pakai taplak linen — pelan, tenang, serius.\nDua jam kemudi",
-      "permalink": "https://www.threads.com/@iams_ichi/post/Dbs4SpDoIOK",
-      "timestamp": "2026-08-06T14:01:21+0000",
-      "metrics": {
-        "views": 94,
-        "likes": 1,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
     }
   ]
 }
