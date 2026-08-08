@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-08-08T21:51:11.537Z",
+  "updated_at": "2026-08-08T22:52:10.479Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-lga3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=pi1LhdP4dHcQ7kNvwHWX1hQ&_nc_oc=AdrwJqOIxqO7oVruUbkhfSyExRhLFwzHi0LbLumYlMBVS3u5gF6ZTnQV8HWIbLfD4y0&_nc_zt=24&_nc_ht=scontent-lga3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=8Tl1MvQc6IubG-PWA7TiVQ&_nc_tpa=Q5bMBQG77hS7T9ju9WaDnbmgIoVjH3ywdSwf1YtRwuwzhQ8KAuFgyypslPIK2MVmw4RPIftQLo_OnV6XmA&oh=00_AQH7jisjgBKAVwKGBSQsuUkpMoyCDuAiduk3oOX68WfrXA&oe=6A7D6813"
+    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=pi1LhdP4dHcQ7kNvwEJI7Km&_nc_oc=AdquOulQGRgeo_xMbI9RRSoWXkjzKGFoqAu2IMzVgGEMYXmYjhOKWxKWLPzcu9BSuvc&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=OsXa7eXnyOQK0mnJl85U8Q&_nc_tpa=Q5bMBQFZEii35jUykWmfuox-1eeVVMqKC_9x_LleExShNCaV250YInv8-cU4sAe2ZNwN9aiVorzkhYlemw&oh=00_AQHr3mmejFwztTclRMcnIyyQqZPVdqfQmCqbzHe2oScTqw&oe=6A7DA053"
   },
   "summary": {
     "followers_count": 0,
-    "views": 267,
+    "views": 282,
     "likes": 4,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 12,
-    "engagement_rate": 4.49,
+    "engagement_rate": 4.26,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -85,7 +85,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbyFUcvldw3",
       "timestamp": "2026-08-08T14:31:23+0000",
       "metrics": {
-        "views": 33,
+        "views": 34,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -97,12 +97,27 @@
   ],
   "recent_posts": [
     {
+      "id": "18088177571537582",
+      "text": "Lagi di titik yang rasanya udah usaha keras tapi hasilnya ga keliatan juga?\nAku pernah di situ — dan yang bikin aku ngga",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dby40xEGqP_",
+      "timestamp": "2026-08-08T22:01:27+0000",
+      "metrics": {
+        "views": 13,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "17940876195301125",
       "text": "Malam ini aku nanya ke diri sendiri — sudah berapa lama aku bilang \"pengen ke Tanah Suci\" tapi cuma berhenti di keingina",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbyTD3loOog",
       "timestamp": "2026-08-08T16:31:27+0000",
       "metrics": {
-        "views": 22,
+        "views": 23,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -117,7 +132,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbyFUcvldw3",
       "timestamp": "2026-08-08T14:31:23+0000",
       "metrics": {
-        "views": 33,
+        "views": 34,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -223,21 +238,6 @@
       "timestamp": "2026-08-07T16:31:28+0000",
       "metrics": {
         "views": 15,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18109876951822692",
-      "text": "Habis Subuh tadi aku coba duduk sebentar — bukan ngapa-ngapain, cuma muhasabah.\nNanya ke diri sendiri: versi aku yang se",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dbvgh6qFlOG",
-      "timestamp": "2026-08-07T14:31:26+0000",
-      "metrics": {
-        "views": 22,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
