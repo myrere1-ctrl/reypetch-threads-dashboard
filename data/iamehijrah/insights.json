@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-08-08T14:02:41.596Z",
+  "updated_at": "2026-08-08T14:54:38.777Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=pi1LhdP4dHcQ7kNvwEthVsA&_nc_oc=AdrziOMsCMH_iHV4EnekrFDprpQ9D3u7ljJU7zDRO9kRrCHX6fp5JdYmgJ3IaWz9jSw&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=R4H9V5HC3tP-_Sy0kV3PSw&_nc_tpa=Q5bMBQEamk-Ur2kFL_oApBce1hqn6rTR0UeA5UmnN13y3WwNrbgZMyq-CAvvV6iinYprRCOC_HnrA11leg&oh=00_AQHw0BzkPblEDQP725ZUBq58jNWqP633MiyQAPj5oW6DwQ&oe=6A7CF793"
+    "picture": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=pi1LhdP4dHcQ7kNvwFNv-_6&_nc_oc=AdqtoqQWoI5EhEnB0LHsA5TrmdpuggUwrHCkFHxK9H4vcwAxkqHIWQbezo5oXwoE_HA&_nc_zt=24&_nc_ht=scontent-ams2-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=yRtV-fqrjlHrKvLqinfgog&_nc_tpa=Q5bMBQEa4GbNKE24fVJbKgD-6tb4m8UkKQbCMfTeBOlByAv50Xn7qpUTxv77vpUsl5FGLqGjZn8ptNirvA&oh=00_AQHfowoDL6i2eZD4i_2Abw_4Fim8Bl3smeY6Q5jyIJAPpQ&oe=6A7D2FD3"
   },
   "summary": {
     "followers_count": 0,
-    "views": 154,
+    "views": 188,
     "likes": 3,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 14,
-    "engagement_rate": 9.09,
+    "engagement_total": 13,
+    "engagement_rate": 6.91,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -97,12 +97,27 @@
   ],
   "recent_posts": [
     {
+      "id": "18112614313753821",
+      "text": "Lagi nabung sambil belajar manasik, dan satu hal yang aku pegang: takdir terbaik itu bukan yang kita rancang, tapi yang ",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbyFUcvldw3",
+      "timestamp": "2026-08-08T14:31:23+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "18021808229908918",
       "text": "Aku pernah capek nunggu doa yang belum kelihatan jawabnya.\nTapi hari ini masih bisa bangun, masih bisa sujud, masih bisa",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dbx7BmYm8-C",
       "timestamp": "2026-08-08T13:01:26+0000",
       "metrics": {
-        "views": 5,
+        "views": 10,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -117,7 +132,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbxwuALG3uq",
       "timestamp": "2026-08-08T11:31:23+0000",
       "metrics": {
-        "views": 88,
+        "views": 112,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -230,21 +245,6 @@
         "shares": 0
       },
       "engagement": 1
-    },
-    {
-      "id": "18162164641474377",
-      "text": "Ibu aku dulu kalau lagi ngerasa jauh dari Allah, dia cuma bilang satu hal — \"balik aja dulu, jangan tunggu siap.\"\nAku la",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbvL7VmHA9_",
-      "timestamp": "2026-08-07T11:31:24+0000",
-      "metrics": {
-        "views": 39,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
     }
   ]
 }
