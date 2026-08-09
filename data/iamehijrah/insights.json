@@ -1,24 +1,39 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-08-09T06:04:11.274Z",
+  "updated_at": "2026-08-09T07:28:02.995Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=pi1LhdP4dHcQ7kNvwFEN8KO&_nc_oc=Adqr-mClj6MHto28TSprcx6AdaGALpSYhg3ieHL2eZlY06DYJI1KpBey0zKq4YaJ-HQ&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=C7bDERjzZuT_JW9ImBsYMA&_nc_tpa=Q5bMBQLT2VX1FN0vHghdXtSoIc54QdbAKPF9Hemqiv3b0OP2dyC6nz2Iy6-65XN6h-9xXqDuYpi3Lm7mVA&oh=00_AQHM1f73dsP3nWkpioZrsRg1kmM_gRJ5TlI9Ycguo646bw&oe=6A7DD893"
+    "picture": "https://scontent-sin6-3.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=pi1LhdP4dHcQ7kNvwHC9yXd&_nc_oc=AdoEnFL0-bmMNN5L7TdHOGeW9sJYsAtBCYYhi4HFZNyYyRXHTsrTtdNC6QvPNhWg_WQ&_nc_zt=24&_nc_ht=scontent-sin6-3.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=Ztkkg0Q7N58mVMEteF2LAQ&_nc_tpa=Q5bMBQIDfh0BBG_vt0zyFS4XR2bbZFGSJZYkZvl_ZXx1hJz2Mp47r-vDTbHx9-qprCOJeHqcvK5vrweNHA&oh=00_AQER62u99RKB_l8Z_mGWp7pWyD9o2-GencVJHph80jxf6g&oe=6A7E10D3"
   },
   "summary": {
     "followers_count": 0,
-    "views": 373,
-    "likes": 4,
+    "views": 7,
+    "likes": 0,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 12,
-    "engagement_rate": 3.22,
+    "engagement_total": 14,
+    "engagement_rate": 200,
     "curiosity_score": null,
     "post_count": 25
   },
   "top_posts": [
+    {
+      "id": "17997312119996405",
+      "text": "Nenek aku selalu bilang, kalau mau harimu enteng — jangan langsung tancap gas setelah Subuh. Sholat Dhuha dulu, minta di",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbzsUZFEfej",
+      "timestamp": "2026-08-09T05:31:25+0000",
+      "metrics": {
+        "views": 85,
+        "likes": 2,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 2
+    },
     {
       "id": "17877117075529603",
       "text": "Nenek aku dulu bilang, sholat 5 waktu itu bukan soal rajin atau nggak — tapi soal kamu masih mau pulang ke Allah, hari i",
@@ -78,21 +93,6 @@
         "shares": 0
       },
       "engagement": 2
-    },
-    {
-      "id": "18112614313753821",
-      "text": "Lagi nabung sambil belajar manasik, dan satu hal yang aku pegang: takdir terbaik itu bukan yang kita rancang, tapi yang ",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbyFUcvldw3",
-      "timestamp": "2026-08-08T14:31:23+0000",
-      "metrics": {
-        "views": 34,
-        "likes": 1,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
     }
   ],
   "recent_posts": [
@@ -102,14 +102,14 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbzsUZFEfej",
       "timestamp": "2026-08-09T05:31:25+0000",
       "metrics": {
-        "views": 35,
-        "likes": 0,
+        "views": 85,
+        "likes": 2,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 0
+      "engagement": 2
     },
     {
       "id": "18136089985717177",
@@ -117,7 +117,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbzUTG_ji6_",
       "timestamp": "2026-08-09T02:01:36+0000",
       "metrics": {
-        "views": 21,
+        "views": 22,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
