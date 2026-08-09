@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-08-09T15:53:07.600Z",
+  "updated_at": "2026-08-09T17:00:11.861Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=pi1LhdP4dHcQ7kNvwEdRAYR&_nc_oc=AdpYAWGA1mW6bAVzjAYhMCit0BPVONPNRMMQSs9oTef4omFtSBzw_i0HK3bDA5_a-zg&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=oAobND0BrP89kXnOiwF-VA&_nc_tpa=Q5bMBQJ5PKNeHbNAKP5wj02XFdjNkbNhUmKyzrCqtkA3FypS-PAqGJA9U1jT56rdAVqtyRyqVO8vAyt0FA&oh=00_AQELquiBecj3e5mmCdPu4bV4-M-76u_W_yYMVFA5HNNzYQ&oe=6A7E8153"
+    "picture": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=pi1LhdP4dHcQ7kNvwGnowuA&_nc_oc=Adqh8STntdDA0AzcL84OH99FBskiiM0H6dhI1Wy7ZjikK8eJ9nk8ZRqc139lPPrvtEY&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=bcFPrIexG9xAYiovJ1NGyw&_nc_tpa=Q5bMBQL4uECfh6tR_kBShI5C8AwOZXufVxY5VeXlayfi13CRuQOcvzNEfoH_BQL-AdzvLHZwwbGyoxc-fg&oh=00_AQGWuELLdUTs0MrL2WHTOVtamJPbJvqhCY0U8eC4zqdS4A&oe=6A7E8153"
   },
   "summary": {
     "followers_count": 0,
-    "views": 158,
+    "views": 205,
     "likes": 1,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 13,
-    "engagement_rate": 8.23,
+    "engagement_total": 14,
+    "engagement_rate": 6.83,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -80,12 +80,12 @@
       "engagement": 2
     },
     {
-      "id": "18070560464440911",
-      "text": "Malam ini aku nanya ke diri sendiri — niatku pergi Umroh itu beneran buat apa?\nBuat bilang \"udah pernah\"? Buat foto? Ata",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Db0qI90oLv-",
-      "timestamp": "2026-08-09T14:31:37+0000",
+      "id": "17906007756467306",
+      "text": "Unpopular opinion: Al-Waqiah itu bukan \"surat rezeki\" yang dibaca pas lagi kepepet doang.\nAku dulu juga gitu — baru inge",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Db0316BGVXC",
+      "timestamp": "2026-08-09T16:31:21+0000",
       "metrics": {
-        "views": 24,
+        "views": 0,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -97,12 +97,27 @@
   ],
   "recent_posts": [
     {
+      "id": "17906007756467306",
+      "text": "Unpopular opinion: Al-Waqiah itu bukan \"surat rezeki\" yang dibaca pas lagi kepepet doang.\nAku dulu juga gitu — baru inge",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Db0316BGVXC",
+      "timestamp": "2026-08-09T16:31:21+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
       "id": "18070560464440911",
       "text": "Malam ini aku nanya ke diri sendiri — niatku pergi Umroh itu beneran buat apa?\nBuat bilang \"udah pernah\"? Buat foto? Ata",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Db0qI90oLv-",
       "timestamp": "2026-08-09T14:31:37+0000",
       "metrics": {
-        "views": 24,
+        "views": 31,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -230,21 +245,6 @@
         "shares": 0
       },
       "engagement": 1
-    },
-    {
-      "id": "18021808229908918",
-      "text": "Aku pernah capek nunggu doa yang belum kelihatan jawabnya.\nTapi hari ini masih bisa bangun, masih bisa sujud, masih bisa",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dbx7BmYm8-C",
-      "timestamp": "2026-08-08T13:01:26+0000",
-      "metrics": {
-        "views": 10,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
     }
   ]
 }
