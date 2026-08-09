@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-08-08T23:49:54.193Z",
+  "updated_at": "2026-08-09T02:33:29.399Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=pi1LhdP4dHcQ7kNvwHtxudG&_nc_oc=AdpImyp-XflCtb4Y3XgqPs1UnQceYMA1nMQFMsE7oLUaegwU94LAshtz0X0NgW0--Bs&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=msf-fz9iy9Mpr-IJPFu0Vg&_nc_tpa=Q5bMBQJo2m4Kp6gwSCPx73FPW7U8x03xD734VGAdDxtEFXtKm7Yimt7avBrgBE5BLzzB9vrFHn7x6xhatw&oh=00_AQGfZSAVQ85coxaVprdbDan6AbdK4m_-BgCOG3QXaNFOAQ&oe=6A7DA053"
+    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=pi1LhdP4dHcQ7kNvwG_odwJ&_nc_oc=Adp6zBOWQ4szk7HTDkS_-2SxYN7I5rdPJl8RBYLUAndfmd5V9gzzWQn9LKOnOthbmP4&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=4rK-hxNux8PN2yZeH886UA&_nc_tpa=Q5bMBQK3GMiRjfUJYv1dr17g9GUqL8P_RpVjWtwNt45GDF-2gz9YilouSbtGqMkmFkqCOZsV4DQcYwdSdw&oh=00_AQGr6BUK7x976otor3Yc0zRFFY0FlQbhMHpGV7U2a2MSWg&oe=6A7DA053"
   },
   "summary": {
     "followers_count": 0,
-    "views": 297,
+    "views": 329,
     "likes": 4,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 12,
-    "engagement_rate": 4.04,
+    "engagement_rate": 3.65,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -97,12 +97,27 @@
   ],
   "recent_posts": [
     {
+      "id": "18136089985717177",
+      "text": "Aku lagi belajar satu hal yang susah banget: husnudzon sama Allah waktu sesuatu ga berjalan sesuai rencana.\nBukan berart",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbzUTG_ji6_",
+      "timestamp": "2026-08-09T02:01:36+0000",
+      "metrics": {
+        "views": 16,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "18088177571537582",
       "text": "Lagi di titik yang rasanya udah usaha keras tapi hasilnya ga keliatan juga?\nAku pernah di situ — dan yang bikin aku ngga",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dby40xEGqP_",
       "timestamp": "2026-08-08T22:01:27+0000",
       "metrics": {
-        "views": 27,
+        "views": 38,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -162,7 +177,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbxwuALG3uq",
       "timestamp": "2026-08-08T11:31:23+0000",
       "metrics": {
-        "views": 141,
+        "views": 145,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -230,21 +245,6 @@
         "shares": 0
       },
       "engagement": 1
-    },
-    {
-      "id": "18128986723710713",
-      "text": "Lagi di titik paling bingung soal niat umroh — bukan soal teknis, tapi \"hati aku udah bener belum?\".\nTerus aku inget, pe",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbvuQ-alCs1",
-      "timestamp": "2026-08-07T16:31:28+0000",
-      "metrics": {
-        "views": 15,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
     }
   ]
 }
