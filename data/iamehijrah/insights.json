@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-08-09T14:57:25.856Z",
+  "updated_at": "2026-08-09T15:53:07.600Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-dfw6-2.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=pi1LhdP4dHcQ7kNvwFgJCVo&_nc_oc=AdqRsdtzmOLoM_BmoH46S5TkgCCnzOdYN8ZpWg7L_xAaVCQmmoyZ0CfaYV5bnY3jiXM&_nc_zt=24&_nc_ht=scontent-dfw6-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=vXTC7T7Ph0XlKpUTvQO93w&_nc_tpa=Q5bMBQI6KLL47h01-zu767ZwlUFuE5xfTk73UPXtooo_nxEvMNGG0deWS6N8x-UtejNbIgKw_BtLvkywVw&oh=00_AQEOopM_631DT8EpiUVYHGTZNhSM8hbMzlwtW1zk56snqQ&oe=6A7E8153"
+    "picture": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=pi1LhdP4dHcQ7kNvwEdRAYR&_nc_oc=AdpYAWGA1mW6bAVzjAYhMCit0BPVONPNRMMQSs9oTef4omFtSBzw_i0HK3bDA5_a-zg&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=oAobND0BrP89kXnOiwF-VA&_nc_tpa=Q5bMBQJ5PKNeHbNAKP5wj02XFdjNkbNhUmKyzrCqtkA3FypS-PAqGJA9U1jT56rdAVqtyRyqVO8vAyt0FA&oh=00_AQELquiBecj3e5mmCdPu4bV4-M-76u_W_yYMVFA5HNNzYQ&oe=6A7E8153"
   },
   "summary": {
     "followers_count": 0,
-    "views": 132,
-    "likes": 0,
+    "views": 158,
+    "likes": 1,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 12,
-    "engagement_rate": 9.09,
+    "engagement_total": 13,
+    "engagement_rate": 8.23,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -25,7 +25,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbzsUZFEfej",
       "timestamp": "2026-08-09T05:31:25+0000",
       "metrics": {
-        "views": 107,
+        "views": 108,
         "likes": 2,
         "replies": 0,
         "reposts": 0,
@@ -80,12 +80,12 @@
       "engagement": 2
     },
     {
-      "id": "18112614313753821",
-      "text": "Lagi nabung sambil belajar manasik, dan satu hal yang aku pegang: takdir terbaik itu bukan yang kita rancang, tapi yang ",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbyFUcvldw3",
-      "timestamp": "2026-08-08T14:31:23+0000",
+      "id": "18070560464440911",
+      "text": "Malam ini aku nanya ke diri sendiri — niatku pergi Umroh itu beneran buat apa?\nBuat bilang \"udah pernah\"? Buat foto? Ata",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Db0qI90oLv-",
+      "timestamp": "2026-08-09T14:31:37+0000",
       "metrics": {
-        "views": 34,
+        "views": 24,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -102,14 +102,14 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Db0qI90oLv-",
       "timestamp": "2026-08-09T14:31:37+0000",
       "metrics": {
-        "views": 0,
-        "likes": 0,
+        "views": 24,
+        "likes": 1,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 0
+      "engagement": 1
     },
     {
       "id": "17975325752912215",
@@ -117,7 +117,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Db0f00gFiFN",
       "timestamp": "2026-08-09T13:01:28+0000",
       "metrics": {
-        "views": 29,
+        "views": 34,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -162,7 +162,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbzsUZFEfej",
       "timestamp": "2026-08-09T05:31:25+0000",
       "metrics": {
-        "views": 107,
+        "views": 108,
         "likes": 2,
         "replies": 0,
         "reposts": 0,
