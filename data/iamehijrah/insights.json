@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-08-09T21:53:47.676Z",
+  "updated_at": "2026-08-09T22:54:45.208Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=pi1LhdP4dHcQ7kNvwHqGoGE&_nc_oc=Adrg8dNlebQuD9DNwDY4swjRGR98K2sDUwvC--zQK-jiyaIOF_B_VcqE08aqJk96ndY&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=bym-WhoLsMCHLATJrjoq-w&_nc_tpa=Q5bMBQIZArTBtL8oAlDUoA2JhlTkw9huZyzi9uO2hG0tuOJnyVh6U5togruiAYoRerNUTv_75_3p4WDzYw&oh=00_AQFW6Kx_S_TVVsp2A1OkadDJOhvxMfXJS6jINAEa1BQ5dw&oe=6A7EB993"
+    "picture": "https://scontent-dfw6-2.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=pi1LhdP4dHcQ7kNvwEWySub&_nc_oc=AdoyvbLeNImu7GKni4SjwdE-lrQvD4tNbaq7lT_W3bOB9DB9C6JfhpljM67YhywhY5U&_nc_zt=24&_nc_ht=scontent-dfw6-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=zlJUHagds7jhZLGWUIgu_g&_nc_tpa=Q5bMBQK4wvrIm4R7k0l8AzjfiIPscXtaUaeEHJJF8H2h4xxTt-mI5bE-vXUncrtUSsTSDnqc36p8PtDGIA&oh=00_AQF0I2rLeJqgSHnZfD5OMDj3fQSd-kmPibjFa-DlIikq_w&oe=6A7EF1D3"
   },
   "summary": {
     "followers_count": 0,
-    "views": 255,
-    "likes": 3,
+    "views": 284,
+    "likes": 4,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 15,
-    "engagement_rate": 5.88,
+    "engagement_total": 16,
+    "engagement_rate": 5.63,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -25,7 +25,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Db0316BGVXC",
       "timestamp": "2026-08-09T16:31:21+0000",
       "metrics": {
-        "views": 77,
+        "views": 78,
         "likes": 2,
         "replies": 0,
         "reposts": 0,
@@ -97,12 +97,27 @@
   ],
   "recent_posts": [
     {
+      "id": "18464450359114226",
+      "text": "Tadi pagi bangun kesiangan, langsung panik.\nTapi di tengah panik itu — masih bisa wudhu, masih bisa gerak, masih ada har",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Db1dnqBGV6S",
+      "timestamp": "2026-08-09T22:01:27+0000",
+      "metrics": {
+        "views": 24,
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
       "id": "17906007756467306",
       "text": "Unpopular opinion: Al-Waqiah itu bukan \"surat rezeki\" yang dibaca pas lagi kepepet doang.\nAku dulu juga gitu — baru inge",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Db0316BGVXC",
       "timestamp": "2026-08-09T16:31:21+0000",
       "metrics": {
-        "views": 77,
+        "views": 78,
         "likes": 2,
         "replies": 0,
         "reposts": 0,
@@ -230,21 +245,6 @@
         "shares": 0
       },
       "engagement": 0
-    },
-    {
-      "id": "18112614313753821",
-      "text": "Lagi nabung sambil belajar manasik, dan satu hal yang aku pegang: takdir terbaik itu bukan yang kita rancang, tapi yang ",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbyFUcvldw3",
-      "timestamp": "2026-08-08T14:31:23+0000",
-      "metrics": {
-        "views": 34,
-        "likes": 1,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
     }
   ]
 }
