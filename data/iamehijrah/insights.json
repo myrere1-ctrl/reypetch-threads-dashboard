@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-08-09T04:42:31.847Z",
+  "updated_at": "2026-08-09T06:04:11.274Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=pi1LhdP4dHcQ7kNvwFLzjyz&_nc_oc=Adry4CtMdfC71aMmJdPfGMUeKAzlA79_ZOU3DJydogMi2QcCo0NYXH_YIlR_Apha9bI&_nc_zt=24&_nc_ht=scontent-ams2-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=yuskgMpVYhLEPeBtswP9eg&_nc_tpa=Q5bMBQIKuKanXTTZFVBcIvL089I_tCWywVKsub_aUuw0rcRVc990HDO7b7r-BN2LcA0Z3FM2TWkztNQGFg&oh=00_AQGJJIQbMgDmlztUgJ3WX10dgeTRj6phZABNYVuTaqzBUw&oe=6A7DD893"
+    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=pi1LhdP4dHcQ7kNvwFEN8KO&_nc_oc=Adqr-mClj6MHto28TSprcx6AdaGALpSYhg3ieHL2eZlY06DYJI1KpBey0zKq4YaJ-HQ&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=C7bDERjzZuT_JW9ImBsYMA&_nc_tpa=Q5bMBQLT2VX1FN0vHghdXtSoIc54QdbAKPF9Hemqiv3b0OP2dyC6nz2Iy6-65XN6h-9xXqDuYpi3Lm7mVA&oh=00_AQHM1f73dsP3nWkpioZrsRg1kmM_gRJ5TlI9Ycguo646bw&oe=6A7DD893"
   },
   "summary": {
     "followers_count": 0,
-    "views": 335,
+    "views": 373,
     "likes": 4,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 12,
-    "engagement_rate": 3.58,
+    "engagement_rate": 3.22,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -97,12 +97,27 @@
   ],
   "recent_posts": [
     {
+      "id": "17997312119996405",
+      "text": "Nenek aku selalu bilang, kalau mau harimu enteng — jangan langsung tancap gas setelah Subuh. Sholat Dhuha dulu, minta di",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbzsUZFEfej",
+      "timestamp": "2026-08-09T05:31:25+0000",
+      "metrics": {
+        "views": 35,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "18136089985717177",
       "text": "Aku lagi belajar satu hal yang susah banget: husnudzon sama Allah waktu sesuatu ga berjalan sesuai rencana.\nBukan berart",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbzUTG_ji6_",
       "timestamp": "2026-08-09T02:01:36+0000",
       "metrics": {
-        "views": 20,
+        "views": 21,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -177,7 +192,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbxwuALG3uq",
       "timestamp": "2026-08-08T11:31:23+0000",
       "metrics": {
-        "views": 147,
+        "views": 148,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -230,21 +245,6 @@
         "shares": 0
       },
       "engagement": 0
-    },
-    {
-      "id": "18126896518735718",
-      "text": "Tengah malam ini aku nanya ke diri sendiri — apa yang bikin aku belum juga bangun tahajjud, padahal tau betapa berhargan",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbwUCORCaj0",
-      "timestamp": "2026-08-07T22:01:29+0000",
-      "metrics": {
-        "views": 157,
-        "likes": 1,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
     }
   ]
 }
