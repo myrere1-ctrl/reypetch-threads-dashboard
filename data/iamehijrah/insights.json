@@ -1,24 +1,39 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-08-09T17:52:39.735Z",
+  "updated_at": "2026-08-09T19:08:05.728Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-lhr11-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=pi1LhdP4dHcQ7kNvwEdvjua&_nc_oc=AdqFjTLNtyHrUrVUrHMbeOOjkxwKEfDOYBqVOqfPoJxaexXG1fNGKN4a2-9T1_-H4ls&_nc_zt=24&_nc_ht=scontent-lhr11-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=852rUAoLd8z-Yz7wogaEvQ&_nc_tpa=Q5bMBQJQWkPDN74aP9kgmTcBlXZkewtRWzkwkjuogcFCn-Hm1FLTd_9cQwkAXtqt8hAzcFsB-NM5XdZABw&oh=00_AQH2MQ4Dm0o5YxCI7DYhZU19oZAnVX0fdRqsdJ-2Wkl3AA&oe=6A7E8153"
+    "picture": "https://scontent-atl3-3.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=pi1LhdP4dHcQ7kNvwGkzIs3&_nc_oc=Adrkq-TSsvxKXr0BiuvRytTWSBAeal1j_mCQpnPz0U9GXCIG6kBskvA1Gq2e5tJIwbM&_nc_zt=24&_nc_ht=scontent-atl3-3.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=xeixnXK5RzNfCo4Yp4GM9A&_nc_tpa=Q5bMBQJSA1FYPgzFTQlFcmt0jfyHSffto7mUlkOZazXK7P0pMKJ4WEud22QGhE7OnEfORG8HPAbhgNiDbQ&oh=00_AQFRfmd2Aht1ylntdAxZSMsyFS4ciomUjbPI-JR7OaqZdA&oe=6A7EB993"
   },
   "summary": {
     "followers_count": 0,
-    "views": 237,
+    "views": 249,
     "likes": 2,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 14,
-    "engagement_rate": 5.91,
+    "engagement_total": 15,
+    "engagement_rate": 6.02,
     "curiosity_score": null,
     "post_count": 25
   },
   "top_posts": [
+    {
+      "id": "17906007756467306",
+      "text": "Unpopular opinion: Al-Waqiah itu bukan \"surat rezeki\" yang dibaca pas lagi kepepet doang.\nAku dulu juga gitu — baru inge",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Db0316BGVXC",
+      "timestamp": "2026-08-09T16:31:21+0000",
+      "metrics": {
+        "views": 69,
+        "likes": 2,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 2
+    },
     {
       "id": "17997312119996405",
       "text": "Nenek aku selalu bilang, kalau mau harimu enteng — jangan langsung tancap gas setelah Subuh. Sholat Dhuha dulu, minta di",
@@ -78,21 +93,6 @@
         "shares": 0
       },
       "engagement": 2
-    },
-    {
-      "id": "17906007756467306",
-      "text": "Unpopular opinion: Al-Waqiah itu bukan \"surat rezeki\" yang dibaca pas lagi kepepet doang.\nAku dulu juga gitu — baru inge",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Db0316BGVXC",
-      "timestamp": "2026-08-09T16:31:21+0000",
-      "metrics": {
-        "views": 59,
-        "likes": 1,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
     }
   ],
   "recent_posts": [
@@ -102,14 +102,14 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Db0316BGVXC",
       "timestamp": "2026-08-09T16:31:21+0000",
       "metrics": {
-        "views": 59,
-        "likes": 1,
+        "views": 69,
+        "likes": 2,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 1
+      "engagement": 2
     },
     {
       "id": "18070560464440911",
@@ -117,7 +117,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Db0qI90oLv-",
       "timestamp": "2026-08-09T14:31:37+0000",
       "metrics": {
-        "views": 43,
+        "views": 44,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
