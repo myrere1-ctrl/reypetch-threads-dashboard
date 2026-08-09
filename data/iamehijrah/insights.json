@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-08-09T07:28:02.995Z",
+  "updated_at": "2026-08-09T09:07:32.037Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-sin6-3.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=pi1LhdP4dHcQ7kNvwHC9yXd&_nc_oc=AdoEnFL0-bmMNN5L7TdHOGeW9sJYsAtBCYYhi4HFZNyYyRXHTsrTtdNC6QvPNhWg_WQ&_nc_zt=24&_nc_ht=scontent-sin6-3.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=Ztkkg0Q7N58mVMEteF2LAQ&_nc_tpa=Q5bMBQIDfh0BBG_vt0zyFS4XR2bbZFGSJZYkZvl_ZXx1hJz2Mp47r-vDTbHx9-qprCOJeHqcvK5vrweNHA&oh=00_AQER62u99RKB_l8Z_mGWp7pWyD9o2-GencVJHph80jxf6g&oe=6A7E10D3"
+    "picture": "https://instagram.fsgn2-6.fna.fbcdn.net/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=pi1LhdP4dHcQ7kNvwHK-Q36&_nc_oc=AdqVSgcHPqCYXCyRTmVm7iN1R11m-EeGiFoFRKiulvI4UjF8xBpPrptkk8v_H0WDNLA&_nc_zt=24&_nc_ht=instagram.fsgn2-6.fna&edm=AP4hL3IEAAAA&_nc_gid=cOqdXTJbNbryD-UkkYquEA&_nc_tpa=Q5bMBQIP1LUGj0oEyT5fht3Lw-X-Spgaoq8QYGfI08p7I3yIu6H0-Ji_VFMq6r-Ki3hFdobJD50-K_VPtw&oh=00_AQF1VCkZ898bhV6SmOz629Emlp75j-st4qvETHW-PEXoYw&oe=6A7E10D3"
   },
   "summary": {
     "followers_count": 0,
-    "views": 7,
+    "views": 16,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 14,
-    "engagement_rate": 200,
+    "engagement_rate": 87.5,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -25,7 +25,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbzsUZFEfej",
       "timestamp": "2026-08-09T05:31:25+0000",
       "metrics": {
-        "views": 85,
+        "views": 100,
         "likes": 2,
         "replies": 0,
         "reposts": 0,
@@ -97,12 +97,27 @@
   ],
   "recent_posts": [
     {
+      "id": "18371044255239785",
+      "text": "Ibu aku pernah bilang, kalau ngerasa jauh dari Allah — jangan tunggu siap dulu buat balik.\nLangsung aja. Wudhu, duduk, i",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Db0EWgfmwKg",
+      "timestamp": "2026-08-09T09:01:24+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "17997312119996405",
       "text": "Nenek aku selalu bilang, kalau mau harimu enteng — jangan langsung tancap gas setelah Subuh. Sholat Dhuha dulu, minta di",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DbzsUZFEfej",
       "timestamp": "2026-08-09T05:31:25+0000",
       "metrics": {
-        "views": 85,
+        "views": 100,
         "likes": 2,
         "replies": 0,
         "reposts": 0,
@@ -223,21 +238,6 @@
       "timestamp": "2026-08-08T05:31:22+0000",
       "metrics": {
         "views": 12,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "17902278252516255",
-      "text": "Nenek aku selalu bilang, sebelum tidur jangan lupa baca doa untuk kedua orang tua — walau cuma sebentar, walau kamu cape",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbwvfyoDgdc",
-      "timestamp": "2026-08-08T02:01:27+0000",
-      "metrics": {
-        "views": 0,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
