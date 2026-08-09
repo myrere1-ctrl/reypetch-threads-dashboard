@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-08-09T07:27:11.978Z",
+  "updated_at": "2026-08-09T09:06:26.966Z",
   "profile": {
     "username": "iams_ichi",
     "name": "iams",
     "biography": "🧠Psi + Traveling \nSolo Traveler Bunglon\nFine dining 👌 & Street food lokal 🫰\nHidden gems Insider for 🇯🇵🇦🇺🇫🇷🇪🇸🇮🇹 + Umrah.\n✉️ cmo@coa.au",
-    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=dHv2OSWKgIAQ7kNvwEzkISN&_nc_oc=Ado-7iVFc-sF-wP2UojdlduGkLQWdqKspc1qY12WTDBytQSPnSFun57hTnJBj183XH4&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=W533bpr2UB1UwkKD7k0gMQ&_nc_tpa=Q5bMBQIsARzdpjXkQeyjSgIQA3Bx2073X4l2dJp-wFrEg5RAJoukXu4whJcWmj3kPWVM_OIM4CL0Wy6Qiw&oh=00_AQEvSSujRF-Z9OCDPlx16tRrSju1kSaT102dfAIiNhtxeA&oe=6A7DE71E"
+    "picture": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=dHv2OSWKgIAQ7kNvwG9hEPz&_nc_oc=AdpZz-H7iohdAfv6wg7xV1cH6B_7O6dfqLsQv0V8pJ5JDI40PCQsw085Y4uHT6ldOto&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=fO70hmDFKwhE4bofUjZz4A&_nc_tpa=Q5bMBQK0UMVPb97MeoXmBJ3WGbxPB7FxSqkNDukaOeqqWp8Cltk-pZfR2mKIjt8Lg_-8xF3OkxV28nlL2w&oh=00_AQF6G_6um8hi08golaztCFU90IqeuNnz9oTUutjflfFxzg&oe=6A7E1F5E"
   },
   "summary": {
     "followers_count": 1357,
-    "views": 5,
-    "likes": 0,
+    "views": 102,
+    "likes": 1,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 52,
-    "engagement_rate": 1040,
+    "engagement_total": 54,
+    "engagement_rate": 52.94,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -27,14 +27,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DbwlJ6oHz1J",
       "timestamp": "2026-08-08T00:31:06+0000",
       "metrics": {
-        "views": 3732,
-        "likes": 24,
+        "views": 3778,
+        "likes": 26,
         "replies": 14,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 38
+      "engagement": 40
     },
     {
       "id": "17982781050104532",
@@ -72,7 +72,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dbzh_w7m0FW",
       "timestamp": "2026-08-09T04:01:12+0000",
       "metrics": {
-        "views": 111,
+        "views": 124,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -87,7 +87,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DbyB3iFGLUq",
       "timestamp": "2026-08-08T14:01:14+0000",
       "metrics": {
-        "views": 59,
+        "views": 61,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -99,12 +99,27 @@
   ],
   "recent_posts": [
     {
+      "id": "18124560046840918",
+      "text": "Di El Born, hampir semua orang duduk di kafe sambil buka laptop — tapi nggak ada yang kelihatan kerja.\nMereka cuma duduk",
+      "permalink": "https://www.threads.com/@iams_ichi/post/Dbz6BwcGwaP",
+      "timestamp": "2026-08-09T07:31:11+0000",
+      "metrics": {
+        "views": 26,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "18110249588009986",
       "text": "Di Le Marais, orang jalan sambil pegang kopi — tapi nggak ada yang kelihatan buru-buru.\nKayak mereka udah tau: ngebut bu",
       "permalink": "https://www.threads.com/@iams_ichi/post/Dbzh_w7m0FW",
       "timestamp": "2026-08-09T04:01:12+0000",
       "metrics": {
-        "views": 111,
+        "views": 124,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -134,7 +149,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DbyB3iFGLUq",
       "timestamp": "2026-08-08T14:01:14+0000",
       "metrics": {
-        "views": 59,
+        "views": 61,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -209,14 +224,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DbwlJ6oHz1J",
       "timestamp": "2026-08-08T00:31:06+0000",
       "metrics": {
-        "views": 3732,
-        "likes": 24,
+        "views": 3778,
+        "likes": 26,
         "replies": 14,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 38
+      "engagement": 40
     },
     {
       "id": "17897483460366671",
@@ -225,21 +240,6 @@
       "timestamp": "2026-08-07T14:01:21+0000",
       "metrics": {
         "views": 18,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18167283997409480",
-      "text": "El Born itu neighborhood yang aneh — semua tokonya vintage, tapi orang-orangnya pakainya fresh-clean kayak baru dari lau",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DbvIfX4ILVK",
-      "timestamp": "2026-08-07T11:01:22+0000",
-      "metrics": {
-        "views": 31,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
