@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-08-10T15:28:14.558Z",
+  "updated_at": "2026-08-10T17:14:33.092Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=x8JMHfGpy-cQ7kNvwHn4cb1&_nc_oc=AdrhA13tRON1Gx_oi4SqVABG_vg_KPJiI6KPE4VBvNeR-vG5kN56t-e0gekK-P4CnuI&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=2eLJhI3DUWClkPzx6MLWsg&_nc_tpa=Q5bMBQJ7lATbuYjy6Sv0TKdGImlCWUYESytqqWhU9EHAxg7MKtmJG7rUEYMvmjo8xjBf0Qb5j0gdtfsUhQ&oh=00_AQG_SFfPFKEzRDOe-fnv52UzllDFo7-1QrX76aJcFYW_Ig&oe=6A7FD2D3"
+    "picture": "https://scontent-hkg4-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=x8JMHfGpy-cQ7kNvwHi_tGS&_nc_oc=Adr2fv7TBrvQdLr1tACQUowahDpjO-B_eL4jWZOg_R9t5l8KiVGS1ApCjqtvs3Kb2Ig&_nc_zt=24&_nc_ht=scontent-hkg4-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=L3sfL_ImaUkCM1zTP7Vp7Q&_nc_tpa=Q5bMBQJCmFaF_rKVMPeo6q9lHmVQ65zo5A1eoYx861kzKDACMmYXGmRVHQgpJ8y_A1OJI1WAs3zbwWBVhA&oh=00_AQGZHrd4zv6OpOy67gy6zMazmxMu4r3LGCKrK_2S2eNKbg&oe=6A7FD2D3"
   },
   "summary": {
     "followers_count": 0,
-    "views": 436,
-    "likes": 8,
+    "views": 503,
+    "likes": 12,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 21,
-    "engagement_rate": 4.82,
+    "engagement_total": 26,
+    "engagement_rate": 5.17,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -25,14 +25,14 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Db3O7wkoFmh",
       "timestamp": "2026-08-10T14:31:36+0000",
       "metrics": {
-        "views": 60,
-        "likes": 4,
+        "views": 148,
+        "likes": 8,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 4
+      "engagement": 8
     },
     {
       "id": "18084418064300829",
@@ -55,7 +55,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Db2pJheoNhi",
       "timestamp": "2026-08-10T09:01:26+0000",
       "metrics": {
-        "views": 258,
+        "views": 260,
         "likes": 2,
         "replies": 0,
         "reposts": 0,
@@ -97,19 +97,34 @@
   ],
   "recent_posts": [
     {
-      "id": "18089704526428867",
-      "text": "Nenek aku pernah bilang, kalau kamu rindu tempat yang belum pernah kamu datangi — itu bukan kebetulan. Mungkin hatimu ud",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Db3O7wkoFmh",
-      "timestamp": "2026-08-10T14:31:36+0000",
+      "id": "18214244995342227",
+      "text": "Nenek aku selalu baca Surat Yasin tiap Jumat pagi — bahkan waktu udah sepuh banget, matanya udah ga kuat, beliau tetap u",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Db3cpOcIMOZ",
+      "timestamp": "2026-08-10T16:31:25+0000",
       "metrics": {
-        "views": 60,
-        "likes": 4,
+        "views": 4,
+        "likes": 1,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 4
+      "engagement": 1
+    },
+    {
+      "id": "18089704526428867",
+      "text": "Nenek aku pernah bilang, kalau kamu rindu tempat yang belum pernah kamu datangi — itu bukan kebetulan. Mungkin hatimu ud",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Db3O7wkoFmh",
+      "timestamp": "2026-08-10T14:31:36+0000",
+      "metrics": {
+        "views": 148,
+        "likes": 8,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 8
     },
     {
       "id": "17987157951044626",
@@ -117,7 +132,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Db3EqKAEahv",
       "timestamp": "2026-08-10T13:01:49+0000",
       "metrics": {
-        "views": 16,
+        "views": 17,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -147,7 +162,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Db2pJheoNhi",
       "timestamp": "2026-08-10T09:01:26+0000",
       "metrics": {
-        "views": 258,
+        "views": 260,
         "likes": 2,
         "replies": 0,
         "reposts": 0,
@@ -230,21 +245,6 @@
         "shares": 0
       },
       "engagement": 1
-    },
-    {
-      "id": "17975325752912215",
-      "text": "Aku lagi rutinin Surat Al-Mulk tiap malam sebelum tidur — bukan karena ngerti semua maknanya, tapi karena rasanya ada ya",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Db0f00gFiFN",
-      "timestamp": "2026-08-09T13:01:28+0000",
-      "metrics": {
-        "views": 34,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
     }
   ]
 }
