@@ -1,24 +1,39 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-08-10T08:54:56.127Z",
+  "updated_at": "2026-08-10T10:40:32.328Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=pi1LhdP4dHcQ7kNvwEYGRWH&_nc_oc=AdoyYq6mVbkRPJy7rXMeiQVc7zKZbeTZf2vEZSn_K2wSweTQx89CrwOWFI55WgedGDA&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=IqorI9Zs825C72hnCE-Ijw&_nc_tpa=Q5bMBQKBZJ0UTHWZmmFsZzc7FGsd0KKrYVtySkMvCZaaVsJLzirs54aB89jCfcKOxej1hYOAl_2-ge-28g&oh=00_AQFPWeowkjNpPBn7Ybi2QkZ91AhvMCh-ZOM6q80LvYd1xQ&oe=6A7F6253"
+    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=pi1LhdP4dHcQ7kNvwFksdGg&_nc_oc=AdoIQKl7blCUlWuO82xN47Wfl3i6QCqjGsuwCEdP3LJfbJkX6mQibeIq_IggSJDUu4I&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=e-zvr2tk4PoU0j-UP5uN2A&_nc_tpa=Q5bMBQJ57ouC-4BLF5JbBuxo2XkOvbaPs9oSQQRpz4HENoBaFH41NY2Qy9rg26lbC-Ji9DS7kwLOnvtHzw&oh=00_AQH5SLiI_M-OeM7fkryL3Xmmf1Dheikjz1WCTvHGj9u07Q&oe=6A7F6253"
   },
   "summary": {
     "followers_count": 0,
-    "views": 8,
-    "likes": 0,
+    "views": 256,
+    "likes": 2,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 18,
-    "engagement_rate": 225,
+    "engagement_rate": 7.03,
     "curiosity_score": null,
     "post_count": 25
   },
   "top_posts": [
+    {
+      "id": "18093048485631742",
+      "text": "Dulu aku mikir doa saat cemas itu harus panjang dan khusyuk — kalau nggak, rasanya kurang sah.\nTernyata yang Allah mau c",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Db2pJheoNhi",
+      "timestamp": "2026-08-10T09:01:26+0000",
+      "metrics": {
+        "views": 245,
+        "likes": 2,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 2
+    },
     {
       "id": "18017178104706503",
       "text": "Jujur, yang paling susah buat aku itu bukan ibadah yang berat-berat.\nTapi menjaga sholat 5 waktu supaya ga geser-geser j",
@@ -78,14 +93,16 @@
         "shares": 0
       },
       "engagement": 2
-    },
+    }
+  ],
+  "recent_posts": [
     {
-      "id": "18339551311284921",
-      "text": "Dulu aku mikir Sholat Dhuha itu ibadah \"ekstra\" — kayak bonus kalau sempat, skip juga ga masalah.\nTernyata yang aku rasa",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dbu6xRWCPxh",
-      "timestamp": "2026-08-07T09:01:32+0000",
+      "id": "18093048485631742",
+      "text": "Dulu aku mikir doa saat cemas itu harus panjang dan khusyuk — kalau nggak, rasanya kurang sah.\nTernyata yang Allah mau c",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Db2pJheoNhi",
+      "timestamp": "2026-08-10T09:01:26+0000",
       "metrics": {
-        "views": 33,
+        "views": 245,
         "likes": 2,
         "replies": 0,
         "reposts": 0,
@@ -93,9 +110,7 @@
         "shares": 0
       },
       "engagement": 2
-    }
-  ],
-  "recent_posts": [
+    },
     {
       "id": "18017178104706503",
       "text": "Jujur, yang paling susah buat aku itu bukan ibadah yang berat-berat.\nTapi menjaga sholat 5 waktu supaya ga geser-geser j",
@@ -230,21 +245,6 @@
         "shares": 0
       },
       "engagement": 2
-    },
-    {
-      "id": "18136089985717177",
-      "text": "Aku lagi belajar satu hal yang susah banget: husnudzon sama Allah waktu sesuatu ga berjalan sesuai rencana.\nBukan berart",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbzUTG_ji6_",
-      "timestamp": "2026-08-09T02:01:36+0000",
-      "metrics": {
-        "views": 22,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
     }
   ]
 }
