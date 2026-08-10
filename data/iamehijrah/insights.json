@@ -1,31 +1,46 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-08-10T12:04:38.940Z",
+  "updated_at": "2026-08-10T13:50:35.455Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=pi1LhdP4dHcQ7kNvwGcAJJq&_nc_oc=Adrc93_nPs4td9RGjf5lbljd5UtwssWrct9mlC4fg6_lw7eIPoOc_RYqFFMgquGlQ-4&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=pj98sDriqrKNlID5zggVbA&_nc_tpa=Q5bMBQKIEl_VrMCgEZaRIrgNIWRTbo8A6CyZpr7lNMDJplNQVwEzMwJkfSmp3bY-k005fvJRzdAV0238NQ&oh=00_AQGekSvFXBu4qdzHUfY39uuFiPRdTs2tGo7mjVAQSo9Juw&oe=6A7F9A93"
+    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=pi1LhdP4dHcQ7kNvwHmAw03&_nc_oc=Adq1hcu5FGUCpdw2NDIrl5Wlx7ngy8EBYvP-db7_4mWRenr2wTtxIb_P2e6q13QH94k&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=USIFafTc3aeF4xmPEoXilQ&_nc_tpa=Q5bMBQJioz70oxvoTtNaubdt8xx3-aZLtgfGQGjjnxrTAjwL4P9ymiYjCvvmHVs9u3AWL1syx3jZ1q-hqg&oh=00_AQGaHxwColwFxEnyKoR-vR4Ks7TTiL9Gzz-3-Ie_aFxRaQ&oe=6A7F9A93"
   },
   "summary": {
     "followers_count": 0,
-    "views": 266,
-    "likes": 2,
+    "views": 313,
+    "likes": 4,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 17,
-    "engagement_rate": 6.39,
+    "engagement_total": 18,
+    "engagement_rate": 5.75,
     "curiosity_score": null,
     "post_count": 25
   },
   "top_posts": [
+    {
+      "id": "18084418064300829",
+      "text": "Nenek aku pernah bilang, kalau doa belum dijawab — jangan berhenti, justru perbanyak shalawat. Katanya itu kayak \"ngetuk",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Db26UC9lfpn",
+      "timestamp": "2026-08-10T11:31:24+0000",
+      "metrics": {
+        "views": 41,
+        "likes": 2,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 2
+    },
     {
       "id": "18093048485631742",
       "text": "Dulu aku mikir doa saat cemas itu harus panjang dan khusyuk — kalau nggak, rasanya kurang sah.\nTernyata yang Allah mau c",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Db2pJheoNhi",
       "timestamp": "2026-08-10T09:01:26+0000",
       "metrics": {
-        "views": 252,
+        "views": 253,
         "likes": 2,
         "replies": 0,
         "reposts": 0,
@@ -78,14 +93,31 @@
         "shares": 0
       },
       "engagement": 2
+    }
+  ],
+  "recent_posts": [
+    {
+      "id": "17987157951044626",
+      "text": "Kadang aku nanya — kenapa ini yang terjadi, bukan yang aku minta?\nTapi pelan-pelan aku belajar: kalau Allah yang pilihka",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Db3EqKAEahv",
+      "timestamp": "2026-08-10T13:01:49+0000",
+      "metrics": {
+        "views": 5,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
     },
     {
-      "id": "17877117075529603",
-      "text": "Nenek aku dulu bilang, sholat 5 waktu itu bukan soal rajin atau nggak — tapi soal kamu masih mau pulang ke Allah, hari i",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbxfkERIBI0",
-      "timestamp": "2026-08-08T09:01:29+0000",
+      "id": "18084418064300829",
+      "text": "Nenek aku pernah bilang, kalau doa belum dijawab — jangan berhenti, justru perbanyak shalawat. Katanya itu kayak \"ngetuk",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Db26UC9lfpn",
+      "timestamp": "2026-08-10T11:31:24+0000",
       "metrics": {
-        "views": 51,
+        "views": 41,
         "likes": 2,
         "replies": 0,
         "reposts": 0,
@@ -93,23 +125,6 @@
         "shares": 0
       },
       "engagement": 2
-    }
-  ],
-  "recent_posts": [
-    {
-      "id": "18084418064300829",
-      "text": "Nenek aku pernah bilang, kalau doa belum dijawab — jangan berhenti, justru perbanyak shalawat. Katanya itu kayak \"ngetuk",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Db26UC9lfpn",
-      "timestamp": "2026-08-10T11:31:24+0000",
-      "metrics": {
-        "views": 3,
-        "likes": 1,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
     },
     {
       "id": "18093048485631742",
@@ -117,7 +132,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Db2pJheoNhi",
       "timestamp": "2026-08-10T09:01:26+0000",
       "metrics": {
-        "views": 252,
+        "views": 253,
         "likes": 2,
         "replies": 0,
         "reposts": 0,
@@ -223,21 +238,6 @@
       "timestamp": "2026-08-09T11:31:24+0000",
       "metrics": {
         "views": 6,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18371044255239785",
-      "text": "Ibu aku pernah bilang, kalau ngerasa jauh dari Allah — jangan tunggu siap dulu buat balik.\nLangsung aja. Wudhu, duduk, i",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Db0EWgfmwKg",
-      "timestamp": "2026-08-09T09:01:24+0000",
-      "metrics": {
-        "views": 68,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
