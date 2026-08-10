@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-08-10T10:40:32.328Z",
+  "updated_at": "2026-08-10T12:04:38.940Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=pi1LhdP4dHcQ7kNvwFksdGg&_nc_oc=AdoIQKl7blCUlWuO82xN47Wfl3i6QCqjGsuwCEdP3LJfbJkX6mQibeIq_IggSJDUu4I&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=e-zvr2tk4PoU0j-UP5uN2A&_nc_tpa=Q5bMBQJ57ouC-4BLF5JbBuxo2XkOvbaPs9oSQQRpz4HENoBaFH41NY2Qy9rg26lbC-Ji9DS7kwLOnvtHzw&oh=00_AQH5SLiI_M-OeM7fkryL3Xmmf1Dheikjz1WCTvHGj9u07Q&oe=6A7F6253"
+    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=pi1LhdP4dHcQ7kNvwGcAJJq&_nc_oc=Adrc93_nPs4td9RGjf5lbljd5UtwssWrct9mlC4fg6_lw7eIPoOc_RYqFFMgquGlQ-4&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=pj98sDriqrKNlID5zggVbA&_nc_tpa=Q5bMBQKIEl_VrMCgEZaRIrgNIWRTbo8A6CyZpr7lNMDJplNQVwEzMwJkfSmp3bY-k005fvJRzdAV0238NQ&oh=00_AQGekSvFXBu4qdzHUfY39uuFiPRdTs2tGo7mjVAQSo9Juw&oe=6A7F9A93"
   },
   "summary": {
     "followers_count": 0,
-    "views": 256,
+    "views": 266,
     "likes": 2,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 18,
-    "engagement_rate": 7.03,
+    "engagement_total": 17,
+    "engagement_rate": 6.39,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -25,7 +25,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Db2pJheoNhi",
       "timestamp": "2026-08-10T09:01:26+0000",
       "metrics": {
-        "views": 245,
+        "views": 252,
         "likes": 2,
         "replies": 0,
         "reposts": 0,
@@ -97,12 +97,27 @@
   ],
   "recent_posts": [
     {
+      "id": "18084418064300829",
+      "text": "Nenek aku pernah bilang, kalau doa belum dijawab — jangan berhenti, justru perbanyak shalawat. Katanya itu kayak \"ngetuk",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Db26UC9lfpn",
+      "timestamp": "2026-08-10T11:31:24+0000",
+      "metrics": {
+        "views": 3,
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
       "id": "18093048485631742",
       "text": "Dulu aku mikir doa saat cemas itu harus panjang dan khusyuk — kalau nggak, rasanya kurang sah.\nTernyata yang Allah mau c",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Db2pJheoNhi",
       "timestamp": "2026-08-10T09:01:26+0000",
       "metrics": {
-        "views": 245,
+        "views": 252,
         "likes": 2,
         "replies": 0,
         "reposts": 0,
@@ -230,21 +245,6 @@
         "shares": 0
       },
       "engagement": 0
-    },
-    {
-      "id": "17997312119996405",
-      "text": "Nenek aku selalu bilang, kalau mau harimu enteng — jangan langsung tancap gas setelah Subuh. Sholat Dhuha dulu, minta di",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DbzsUZFEfej",
-      "timestamp": "2026-08-09T05:31:25+0000",
-      "metrics": {
-        "views": 108,
-        "likes": 2,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 2
     }
   ]
 }
