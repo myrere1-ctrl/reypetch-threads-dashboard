@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-08-11T15:27:00.031Z",
+  "updated_at": "2026-08-11T17:17:25.510Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=x8JMHfGpy-cQ7kNvwHn22Z0&_nc_oc=AdroKXtukfLe9oj30wxGIwGgebv7zkDd0G0hWufY542cpCpo8wJ2Hpy-inwQ5B1mXBs&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=VJFk8B9T15cavSRRWUHzng&_nc_tpa=Q5bMBQJUbkbmTXzgjn-jp2HXHBb1kE3RcfcgWnAG1yUlUZ2sKJ40M6p-0TReRVXBFRR7WvDFnwoMjiJmXA&oh=00_AQE7raZsDrL7k1ChXJAe0VJWf-VcFmC83j1fVMEHS1NyWg&oe=6A812453"
+    "picture": "https://scontent-dfw6-2.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=x8JMHfGpy-cQ7kNvwFSTpbb&_nc_oc=AdoPFGbvj11edEOKaBMeLBmLqeHpjfBedNUryzsNMXVocb28sSOWNmWCgt9dGc2oZsE&_nc_zt=24&_nc_ht=scontent-dfw6-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=1vvaeP3gzJYgDacAIfcoEQ&_nc_tpa=Q5bMBQIxV2c5ni1k5LtR29ccd2s9Ht8bIkeZZg3bOVHgAu-sqqtYxb67dxBR0-DVu64kWfWIrIx2W3KnOA&oh=00_AQH5JYbhrdMXnjXbyAPkVRzqkkED2sS4XVQ6geLoNKQQfA&oe=6A812453"
   },
   "summary": {
     "followers_count": 0,
-    "views": 227,
-    "likes": 1,
+    "views": 310,
+    "likes": 3,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 25,
-    "engagement_rate": 11.01,
+    "engagement_rate": 8.06,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -33,6 +33,21 @@
         "shares": 0
       },
       "engagement": 8
+    },
+    {
+      "id": "17881629294487014",
+      "text": "Kalau lagi ngerasa hidup kok sempit banget, coba rutinin baca Surat Al-Waqiah tiap malam.\nAku mulai waktu hati lagi geli",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Db5zudam9SA",
+      "timestamp": "2026-08-11T14:31:34+0000",
+      "metrics": {
+        "views": 171,
+        "likes": 2,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 2
     },
     {
       "id": "18084418064300829",
@@ -78,14 +93,31 @@
         "shares": 0
       },
       "engagement": 2
+    }
+  ],
+  "recent_posts": [
+    {
+      "id": "18113201374980332",
+      "text": "Lagi di titik yang rasanya semua gelap dan pikiran ga bisa berhenti?\nAku pernah — dan yang pertama kali bikin hati agak ",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Db6Bc-gFBI_",
+      "timestamp": "2026-08-11T16:31:31+0000",
+      "metrics": {
+        "views": 48,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
     },
     {
-      "id": "17906007756467306",
-      "text": "Unpopular opinion: Al-Waqiah itu bukan \"surat rezeki\" yang dibaca pas lagi kepepet doang.\nAku dulu juga gitu — baru inge",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Db0316BGVXC",
-      "timestamp": "2026-08-09T16:31:21+0000",
+      "id": "17881629294487014",
+      "text": "Kalau lagi ngerasa hidup kok sempit banget, coba rutinin baca Surat Al-Waqiah tiap malam.\nAku mulai waktu hati lagi geli",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Db5zudam9SA",
+      "timestamp": "2026-08-11T14:31:34+0000",
       "metrics": {
-        "views": 85,
+        "views": 171,
         "likes": 2,
         "replies": 0,
         "reposts": 0,
@@ -93,23 +125,6 @@
         "shares": 0
       },
       "engagement": 2
-    }
-  ],
-  "recent_posts": [
-    {
-      "id": "17881629294487014",
-      "text": "Kalau lagi ngerasa hidup kok sempit banget, coba rutinin baca Surat Al-Waqiah tiap malam.\nAku mulai waktu hati lagi geli",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Db5zudam9SA",
-      "timestamp": "2026-08-11T14:31:34+0000",
-      "metrics": {
-        "views": 133,
-        "likes": 1,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
     },
     {
       "id": "17977480181902263",
@@ -117,7 +132,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Db5pcXdlbya",
       "timestamp": "2026-08-11T13:01:43+0000",
       "metrics": {
-        "views": 18,
+        "views": 19,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -230,21 +245,6 @@
         "shares": 0
       },
       "engagement": 8
-    },
-    {
-      "id": "17987157951044626",
-      "text": "Kadang aku nanya — kenapa ini yang terjadi, bukan yang aku minta?\nTapi pelan-pelan aku belajar: kalau Allah yang pilihka",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Db3EqKAEahv",
-      "timestamp": "2026-08-10T13:01:49+0000",
-      "metrics": {
-        "views": 17,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
     }
   ]
 }
