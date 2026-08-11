@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-08-11T02:31:37.676Z",
+  "updated_at": "2026-08-11T04:44:16.206Z",
   "profile": {
     "username": "iams_ichi",
     "name": "iams",
     "biography": "🧠Psi + Traveling \nSolo Traveler Bunglon\nFine dining 👌 & Street food lokal 🫰\nHidden gems Insider for 🇯🇵🇦🇺🇫🇷🇪🇸🇮🇹 + Umrah.\n✉️ cmo@coa.au",
-    "picture": "https://scontent-hkg1-2.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=dHv2OSWKgIAQ7kNvwHNe52u&_nc_oc=AdoMAynV0tE4hu3IKPMNeKZGubxgOdR_RiQJ7iHp-MvOvE0nMgnvyoI_vIrNA1DcvEM&_nc_zt=24&_nc_ht=scontent-hkg1-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=SDH4MZ3lFZcFC88XizTyCQ&_nc_tpa=Q5bMBQKgFm1Y1JoX2DeN5gvQEVORWfSie5aMeELVvJHW9GUSArjddeqlIIeDxUS3ajULELJCT07QJQnjhA&oh=00_AQGfoEGPDQnEXPaV8SnXVmtOYeB-KXRPnmPrchVEyAnxDw&oe=6A8051DE"
+    "picture": "https://scontent-dfw6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=dHv2OSWKgIAQ7kNvwETzHjD&_nc_oc=AdpIwegoU91Ilmlqcopmw5oB4Xxk5YClj6EzV6tnVf9zRuOSnmPoAjhpoo_xL5JpzTs&_nc_zt=24&_nc_ht=scontent-dfw6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=0L7sjIf0Yi5F75a3P4-NHA&_nc_tpa=Q5bMBQIQFydVtKia4aeiymLzmykk1dlRmImYPr0D2K1dkJzA4jDmtmHhlu3WE07QoCl38lUKOUYYBVBmRw&oh=00_AQGLtT90E-pW_ouxDycrJ1Zru8dzWbfQCAVm5i7MWOW0jg&oe=6A808A1E"
   },
   "summary": {
     "followers_count": 1356,
-    "views": 313,
+    "views": 330,
     "likes": 2,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 64,
-    "engagement_rate": 20.45,
+    "engagement_total": 63,
+    "engagement_rate": 19.09,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -99,12 +99,27 @@
   ],
   "recent_posts": [
     {
+      "id": "18097798790618159",
+      "text": "El Born itu distrik yang gampang bikin lo overthink itinerary — terlalu banyak gang kecil, terlalu banyak pilihan kafe.\n",
+      "permalink": "https://www.threads.com/@iams_ichi/post/Db4rlZ2oGiw",
+      "timestamp": "2026-08-11T04:01:12+0000",
+      "metrics": {
+        "views": 8,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "18174265690433426",
       "text": "Di Le Marais, satu sore aku makan foie gras di bistro kecil yang serbet linennya dilipat rapi.\nMalamnya beli falafel di ",
       "permalink": "https://www.threads.com/@iams_ichi/post/Db4TjdoFmp2",
       "timestamp": "2026-08-11T00:31:12+0000",
       "metrics": {
-        "views": 24,
+        "views": 29,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -232,21 +247,6 @@
         "shares": 0
       },
       "engagement": 0
-    },
-    {
-      "id": "18110249588009986",
-      "text": "Di Le Marais, orang jalan sambil pegang kopi — tapi nggak ada yang kelihatan buru-buru.\nKayak mereka udah tau: ngebut bu",
-      "permalink": "https://www.threads.com/@iams_ichi/post/Dbzh_w7m0FW",
-      "timestamp": "2026-08-09T04:01:12+0000",
-      "metrics": {
-        "views": 159,
-        "likes": 1,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
     }
   ]
 }
