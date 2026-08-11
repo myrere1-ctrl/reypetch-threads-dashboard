@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-08-10T23:55:15.329Z",
+  "updated_at": "2026-08-11T02:32:38.148Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=x8JMHfGpy-cQ7kNvwGKKAjq&_nc_oc=AdoNOol5fp9Jay2y1C1CdvpwShhi1b2UXB8-tUapkOhQUVurFvKr9uZ4i1FZX7C115E&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=sGkH94DwkRljStJDp7idZQ&_nc_tpa=Q5bMBQJMG8vKhUf1BQJaNCvB6XWat6YGuFpMHYji-nZ8Gus6zBFl9_p5qZ7m_EwpoIcbtVm4n2w52Soy9w&oh=00_AQF--InJMnCwjLqCZmPi3EgZgYdX47o48TlFnmmZjrRHHA&oe=6A804353"
+    "picture": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=x8JMHfGpy-cQ7kNvwFL2w03&_nc_oc=AdqrcY0t6SwAB0ResLKac6Jb6-cMsYQPoaOikjTokOYz2z3nbP7EPSTnuPtyap-ycF4&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=VY4LWLifz2F52dNLqRmJ2Q&_nc_tpa=Q5bMBQK7CpGJaMh8a0kc1H6XxyVZMq8iZsDbvcqoyA1viT1_ARbjvRLTkWzhXuiRaPhGAcDY3RW0tOnymw&oh=00_AQFTcZtldTH3xrI4nBYaLeC8a4SeauAFKJddGSHIIbBeoQ&oe=6A804353"
   },
   "summary": {
     "followers_count": 0,
-    "views": 549,
+    "views": 567,
     "likes": 13,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 26,
-    "engagement_rate": 4.74,
+    "engagement_total": 25,
+    "engagement_rate": 4.41,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -25,7 +25,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Db3O7wkoFmh",
       "timestamp": "2026-08-10T14:31:36+0000",
       "metrics": {
-        "views": 165,
+        "views": 166,
         "likes": 8,
         "replies": 0,
         "reposts": 0,
@@ -97,6 +97,21 @@
   ],
   "recent_posts": [
     {
+      "id": "17957498814190228",
+      "text": "Dhuha itu ibadah yang paling sering aku \"nanti-nanti\" — padahal waktunya ga lama, cuma belum biasa aja.\nTapi tiap kali a",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Db4d4ZiDIh7",
+      "timestamp": "2026-08-11T02:01:27+0000",
+      "metrics": {
+        "views": 5,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "18150406057513509",
       "text": "Lagi nyiapin hati buat Umroh, dan tiba-tiba aku kangen banget sama Ibu — pengen banget bisa bawa doa beliau sampai ke Ta",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Db4CbRSGXNo",
@@ -117,7 +132,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Db3cpOcIMOZ",
       "timestamp": "2026-08-10T16:31:25+0000",
       "metrics": {
-        "views": 20,
+        "views": 21,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -132,7 +147,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Db3O7wkoFmh",
       "timestamp": "2026-08-10T14:31:36+0000",
       "metrics": {
-        "views": 165,
+        "views": 166,
         "likes": 8,
         "replies": 0,
         "reposts": 0,
@@ -230,21 +245,6 @@
         "shares": 0
       },
       "engagement": 1
-    },
-    {
-      "id": "17906007756467306",
-      "text": "Unpopular opinion: Al-Waqiah itu bukan \"surat rezeki\" yang dibaca pas lagi kepepet doang.\nAku dulu juga gitu — baru inge",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Db0316BGVXC",
-      "timestamp": "2026-08-09T16:31:21+0000",
-      "metrics": {
-        "views": 85,
-        "likes": 2,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 2
     }
   ]
 }
