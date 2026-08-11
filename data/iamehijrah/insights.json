@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-08-11T07:43:41.936Z",
+  "updated_at": "2026-08-11T09:18:27.706Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=x8JMHfGpy-cQ7kNvwGFCUm0&_nc_oc=AdrXx855_Vo45B5D6Y-o_MLpD7EPH31mXzpJ-UqZk8EQ9dgvL68V8NC8ij53LYBcJ0I&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=mBNHvpLaWM9qHO2xhdc5tg&_nc_tpa=Q5bMBQI0blrVlWvgMWCZ2kDn37hYyislkM26Q0nXTGhkYlgnIsez5qY2QmEaUbLURzqnOKU-Splw2EjACg&oh=00_AQH3Emz-AT1gz67ynJbcxf7Uc3waA3StuqlDdQhDeCGZKQ&oe=6A80B3D3"
+    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=x8JMHfGpy-cQ7kNvwF371AN&_nc_oc=AdpHX107-zeQZULk2iKf6PR8m-k9pRAlyl56T4A2YUTqQVUpFFj5rDTo_RvcGLpJZkI&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=DdSDzidS8vf39xBqniuQ1w&_nc_tpa=Q5bMBQJGM5ojd7Q0YD6hJLf4wF_SH6Fega5BEmYdJUxc6Z11ME1egFgoh6AxCWSjbARmAnzyicsXEzGaiA&oh=00_AQFwsjOFETVOu1lG5b46PLDezgSLzvak6_9cOabS3wBkJw&oe=6A80B3D3"
   },
   "summary": {
     "followers_count": 0,
-    "views": 1,
+    "views": 4,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 26,
-    "engagement_rate": 2600,
+    "engagement_rate": 650,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -97,12 +97,27 @@
   ],
   "recent_posts": [
     {
+      "id": "18122343196892661",
+      "text": "Pernah ngerasa udah ngelakuin sesuatu yang baik, tapi kok rasanya hampa?\nAku ngalamin itu pas sadar — yang aku cari buka",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Db5N9AOFSkE",
+      "timestamp": "2026-08-11T09:01:30+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "18145441312491584",
       "text": "Pernah ngerasa udah jauh banget dari Allah, dan makin dipikir makin berat?\nAku pernah di titik itu — bukan karena ga mau",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Db415zrljEp",
       "timestamp": "2026-08-11T05:31:21+0000",
       "metrics": {
-        "views": 16,
+        "views": 20,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -230,21 +245,6 @@
         "shares": 0
       },
       "engagement": 2
-    },
-    {
-      "id": "17909708472451039",
-      "text": "Malam ini aku nanya ke diri sendiri — kapan terakhir aku sedekah bukan karena lagi \"berasa punya lebih\"?\nJujur, aku seri",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Db15FohFe_D",
-      "timestamp": "2026-08-10T02:01:28+0000",
-      "metrics": {
-        "views": 21,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
     }
   ]
 }
