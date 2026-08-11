@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-08-11T22:09:37.609Z",
+  "updated_at": "2026-08-11T23:08:30.832Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=x8JMHfGpy-cQ7kNvwHiynCt&_nc_oc=Adqr8eUaLIhJKG6StEKQ6DYj7CW1GHMJn8TebXfyE9SjfJJ18cDbZMGaBJnquXP0E30&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=7z_o77ec8oOWK5Q-Y5_Y9A&_nc_tpa=Q5bMBQIHQOa-6ct7XvLQP_-XgoLG5aOr3qng5AJKB1V7NufnLR-Cgohri7EU3xNXnkxIPvA7SIu-8uFuHQ&oh=00_AQHWCw5dWUab9FhRIjStsBfGOLEYMORBFY4HfRdrn0XuaA&oe=6A815C93"
+    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=x8JMHfGpy-cQ7kNvwHnrOYp&_nc_oc=Ado6OST_JAYFSqdvotp_uLFKU4gtj_CPBOUvYEPvN27NYK4wMIpaqrlPA9j9z3RzQOE&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=Ki28KgETAWtrCqem4AYOPw&_nc_tpa=Q5bMBQJdJgm4bDFn1DEp9_pnE3L1nEW56L-yDMryy1spoiFT_o6LfZmsWHjXly8138Tej4aOG49I4JcK6Q&oh=00_AQFUHY9n4OMxy7pQ-Mwol4HIJz_r7Wmzf0BWePbwoVMfKg&oe=6A8194D3"
   },
   "summary": {
     "followers_count": 0,
-    "views": 339,
-    "likes": 5,
+    "views": 390,
+    "likes": 9,
     "replies": 0,
-    "reposts": 0,
+    "reposts": 1,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 28,
-    "engagement_rate": 8.26,
+    "engagement_total": 32,
+    "engagement_rate": 8.21,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -35,12 +35,27 @@
       "engagement": 8
     },
     {
+      "id": "18130804189644775",
+      "text": "Unpopular opinion: husnudzon sama Allah itu bukan berarti kamu ga boleh sedih atau kecewa.\nJustru aku belajar — bisa nan",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Db6nNxUDyst",
+      "timestamp": "2026-08-11T22:01:30+0000",
+      "metrics": {
+        "views": 50,
+        "likes": 4,
+        "replies": 0,
+        "reposts": 1,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 5
+    },
+    {
       "id": "17881629294487014",
       "text": "Kalau lagi ngerasa hidup kok sempit banget, coba rutinin baca Surat Al-Waqiah tiap malam.\nAku mulai waktu hati lagi geli",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Db5zudam9SA",
       "timestamp": "2026-08-11T14:31:34+0000",
       "metrics": {
-        "views": 190,
+        "views": 191,
         "likes": 3,
         "replies": 0,
         "reposts": 0,
@@ -78,21 +93,6 @@
         "shares": 0
       },
       "engagement": 2
-    },
-    {
-      "id": "18017178104706503",
-      "text": "Jujur, yang paling susah buat aku itu bukan ibadah yang berat-berat.\nTapi menjaga sholat 5 waktu supaya ga geser-geser j",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Db2RHWGID3V",
-      "timestamp": "2026-08-10T05:31:26+0000",
-      "metrics": {
-        "views": 45,
-        "likes": 2,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 2
     }
   ],
   "recent_posts": [
@@ -102,14 +102,14 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Db6nNxUDyst",
       "timestamp": "2026-08-11T22:01:30+0000",
       "metrics": {
-        "views": 0,
-        "likes": 1,
+        "views": 50,
+        "likes": 4,
         "replies": 0,
-        "reposts": 0,
+        "reposts": 1,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 1
+      "engagement": 5
     },
     {
       "id": "18113201374980332",
@@ -117,7 +117,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Db6Bc-gFBI_",
       "timestamp": "2026-08-11T16:31:31+0000",
       "metrics": {
-        "views": 55,
+        "views": 57,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -132,7 +132,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Db5zudam9SA",
       "timestamp": "2026-08-11T14:31:34+0000",
       "metrics": {
-        "views": 190,
+        "views": 191,
         "likes": 3,
         "replies": 0,
         "reposts": 0,
