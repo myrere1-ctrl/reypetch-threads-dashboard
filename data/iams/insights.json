@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-08-12T03:00:22.149Z",
+  "updated_at": "2026-08-12T05:09:38.929Z",
   "profile": {
     "username": "iams_ichi",
     "name": "iams",
     "biography": "🧠Psi + Traveling \nSolo Traveler Bunglon\nFine dining 👌 & Street food lokal 🫰\nHidden gems Insider for 🇯🇵🇦🇺🇫🇷🇪🇸🇮🇹 + Umrah.\n✉️ cmo@coa.au",
-    "picture": "https://scontent-dfw6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=P8n0ZuDIxT4Q7kNvwGTAjiB&_nc_oc=AdryYFJeAElNy7op56DnpPncI2E-1To4kvBhuxQFMOkCJe41ThNR3LBqI2HJT3Eg4zo&_nc_zt=24&_nc_ht=scontent-dfw6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=FbrVHICJ0Yz37wvx7CMeFQ&_nc_tpa=Q5bMBQKQIwdbd9A24XU1ZS1_LqG_FUlmbtw4lXLJTov4pkyGqgvdorHKk0YF1QtDQkI1hAhGC3oVGumV5w&oh=00_AQEO70gnNBz7vj74sbUPsGPXeb5l4kXQykRXaaQGmK1FmA&oe=6A81A35E"
+    "picture": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=P8n0ZuDIxT4Q7kNvwGt0Rmx&_nc_oc=AdrplGDAmzWroC0LIQp4i1p79aD-GxqUGGK-0bTLsS2tXSC06FRAi11q0RnKicIts54&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=2CtLj6MPrRnrilfjtYGS8A&_nc_tpa=Q5bMBQJNiJjww6kLVP5JQqgBOfiptBE4QioPzhX8jWDufQFvZl5KzKDsLRVfXJGPt35RbfohPV540MpjeQ&oh=00_AQGF_N4u30EPbVlHM8MQNyRvMxmLxxqUqVQxQ94hlGO6mw&oe=6A81DB9E"
   },
   "summary": {
     "followers_count": 1357,
-    "views": 330,
+    "views": 337,
     "likes": 5,
     "replies": 1,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 66,
-    "engagement_rate": 20,
+    "engagement_total": 62,
+    "engagement_rate": 18.4,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -67,21 +67,6 @@
       "engagement": 4
     },
     {
-      "id": "17982781050104532",
-      "text": "Jam 11 malem di Le Marais, gue baru sadar — neighborhood ini beda banget sama Paris yang lo bayangin.\nDi sini orang masi",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DbuwbhIFXJR",
-      "timestamp": "2026-08-07T07:31:07+0000",
-      "metrics": {
-        "views": 79,
-        "likes": 3,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 4
-    },
-    {
       "id": "18121523855505133",
       "text": "Dulu mikir aku ke Paris buat jatuh cinta sama kotanya.\nTernyata yang bikin aku betah justru — nggak ada yang nanya lo da",
       "permalink": "https://www.threads.com/@iams_ichi/post/Db0SDpFlBWK",
@@ -95,16 +80,46 @@
         "shares": 0
       },
       "engagement": 3
+    },
+    {
+      "id": "17904152241492387",
+      "text": "Katanya Roma itu kota buat pasangan — solo traveler bakal kelihatan aneh dan melas.\nTernyata justru karena lo sendirian,",
+      "permalink": "https://www.threads.com/@iams_ichi/post/Db2226QllHc",
+      "timestamp": "2026-08-10T11:01:13+0000",
+      "metrics": {
+        "views": 159,
+        "likes": 2,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 2
     }
   ],
   "recent_posts": [
+    {
+      "id": "18086061422459353",
+      "text": "Di Vienna, orang lokal antri kafe bukan buat kopi — buat duduk lama.\nDua jam, satu melange, baca koran. Dan nggak ada ya",
+      "permalink": "https://www.threads.com/@iams_ichi/post/Db7QZfdDc4r",
+      "timestamp": "2026-08-12T04:01:21+0000",
+      "metrics": {
+        "views": 1,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
     {
       "id": "18111646672815209",
       "text": "Trastevere udah aku sebut overrated — dan aku tetep balik lagi.\nBukan karena hidden gem-nya, tapi karena sore di sana tu",
       "permalink": "https://www.threads.com/@iams_ichi/post/Db64VlnjAQo",
       "timestamp": "2026-08-12T00:31:06+0000",
       "metrics": {
-        "views": 51,
+        "views": 53,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -119,7 +134,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Db5wRv5CDfN",
       "timestamp": "2026-08-11T14:01:30+0000",
       "metrics": {
-        "views": 95,
+        "views": 96,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -225,21 +240,6 @@
       "timestamp": "2026-08-10T07:31:07+0000",
       "metrics": {
         "views": 42,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18121138436310594",
-      "text": "Unpopular opinion: Trastevere itu overrated buat yang ngejar \"hidden gem\".\nJustru karena semua orang tau — lo bisa duduk",
-      "permalink": "https://www.threads.com/@iams_ichi/post/Db2Gyd7kUOi",
-      "timestamp": "2026-08-10T04:01:11+0000",
-      "metrics": {
-        "views": 48,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
