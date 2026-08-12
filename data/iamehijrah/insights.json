@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-08-12T10:31:07.677Z",
+  "updated_at": "2026-08-12T12:03:52.045Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-hkg4-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=x8JMHfGpy-cQ7kNvwG2TB43&_nc_oc=Ado5HLNbg1O3yju5d2UVVMDLhK_IB_MZlM3aPsSo9lIfGxUKsB9aqy6W9z6hAIuD1zE&_nc_zt=24&_nc_ht=scontent-hkg4-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=J9qXRaMDpGGfzntUU48meQ&_nc_tpa=Q5bMBQJi72NgfKaoDTH6wuVYDiF7TnM6Fjbh17U_r7vGnm_mEJMP5MtxATkonxSZbZcBYF8xjt8ZDo74Ww&oh=00_AQGuKJFYkrhum-vqGhGLsbTMrSIsAf79_-8mAq_XzdW4IQ&oe=6A820553"
+    "picture": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=x8JMHfGpy-cQ7kNvwGjl-JL&_nc_oc=AdrZJhQoxNbbxM3lxyXbQ2NY-3o4g12hYFiI4NR66oYriuJGwg0ktiXR8PWLFwqDYtw&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=G6F4oCos1wNkFnFn1AbNMg&_nc_tpa=Q5bMBQI4-mk91CS5XuMd76iJ4euyNSgzBCviNEQMGwG9kKkE0xFM66S0ZrrtRCRXEhjlM4AkcRUeB1SrUQ&oh=00_AQEUBRY4ddo2KcUArrwEE_RD-LJxt3eQAfkW9QMDcVBa-A&oe=6A823D93"
   },
   "summary": {
     "followers_count": 0,
-    "views": 79,
-    "likes": 1,
+    "views": 142,
+    "likes": 3,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 32,
-    "engagement_rate": 40.51,
+    "engagement_total": 34,
+    "engagement_rate": 23.94,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -55,14 +55,29 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Db5zudam9SA",
       "timestamp": "2026-08-11T14:31:34+0000",
       "metrics": {
-        "views": 228,
+        "views": 249,
         "likes": 3,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 1
+      },
+      "engagement": 3
+    },
+    {
+      "id": "17988632259010180",
+      "text": "Malam ini aku nanya ke diri sendiri — udah berapa lama nunggu jawaban doa itu, dan masih percaya ga?\nJujur, ada momen ak",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Db7ywFUm2NS",
+      "timestamp": "2026-08-12T09:01:33+0000",
+      "metrics": {
+        "views": 65,
+        "likes": 2,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 3
+      "engagement": 2
     },
     {
       "id": "18084418064300829",
@@ -78,31 +93,16 @@
         "shares": 0
       },
       "engagement": 2
-    },
-    {
-      "id": "18093048485631742",
-      "text": "Dulu aku mikir doa saat cemas itu harus panjang dan khusyuk — kalau nggak, rasanya kurang sah.\nTernyata yang Allah mau c",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Db2pJheoNhi",
-      "timestamp": "2026-08-10T09:01:26+0000",
-      "metrics": {
-        "views": 261,
-        "likes": 2,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 2
     }
   ],
   "recent_posts": [
     {
-      "id": "17988632259010180",
-      "text": "Malam ini aku nanya ke diri sendiri — udah berapa lama nunggu jawaban doa itu, dan masih percaya ga?\nJujur, ada momen ak",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Db7ywFUm2NS",
-      "timestamp": "2026-08-12T09:01:33+0000",
+      "id": "17902303983519756",
+      "text": "Aku lagi sering ulang-ulang baca Doa Tawakkal — yang intinya menyerahkan semua urusan ke Allah sepenuhnya.\nBukan karena ",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Db8D6LBm8HM",
+      "timestamp": "2026-08-12T11:31:28+0000",
       "metrics": {
-        "views": 41,
+        "views": 10,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -110,6 +110,21 @@
         "shares": 0
       },
       "engagement": 1
+    },
+    {
+      "id": "17988632259010180",
+      "text": "Malam ini aku nanya ke diri sendiri — udah berapa lama nunggu jawaban doa itu, dan masih percaya ga?\nJujur, ada momen ak",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Db7ywFUm2NS",
+      "timestamp": "2026-08-12T09:01:33+0000",
+      "metrics": {
+        "views": 65,
+        "likes": 2,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 2
     },
     {
       "id": "18226601767322537",
@@ -177,12 +192,12 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Db5zudam9SA",
       "timestamp": "2026-08-11T14:31:34+0000",
       "metrics": {
-        "views": 228,
+        "views": 249,
         "likes": 3,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
-        "shares": 0
+        "shares": 1
       },
       "engagement": 3
     },
@@ -223,21 +238,6 @@
       "timestamp": "2026-08-11T09:01:30+0000",
       "metrics": {
         "views": 25,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18145441312491584",
-      "text": "Pernah ngerasa udah jauh banget dari Allah, dan makin dipikir makin berat?\nAku pernah di titik itu — bukan karena ga mau",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Db415zrljEp",
-      "timestamp": "2026-08-11T05:31:21+0000",
-      "metrics": {
-        "views": 20,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
