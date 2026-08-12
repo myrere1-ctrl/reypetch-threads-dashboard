@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-08-12T06:47:16.340Z",
+  "updated_at": "2026-08-12T08:42:41.064Z",
   "profile": {
     "username": "iams_ichi",
     "name": "iams",
     "biography": "🧠Psi + Traveling \nSolo Traveler Bunglon\nFine dining 👌 & Street food lokal 🫰\nHidden gems Insider for 🇯🇵🇦🇺🇫🇷🇪🇸🇮🇹 + Umrah.\n✉️ cmo@coa.au",
-    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=P8n0ZuDIxT4Q7kNvwHnQl0S&_nc_oc=AdoXLTS-XeRIHWIevVCMtn3IqyiZQqS7FsVbL247SeflRvqQinajMR5NCSkeRIF4Nl8&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=-y_0k_VVh31lI_jvznrG7w&_nc_tpa=Q5bMBQKSZ0lM2Ye8sbRQsIDN9kjcTHBLqfE0cXBm7mK4sYMIzhylwC4CQ-K0FYhndi3-coOG1ZPGt3rQ0w&oh=00_AQEk3FTCm1iEKP4zlwvPvesb_p9a7RnyGNb09LCqGl0txA&oe=6A81DB9E"
+    "picture": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=P8n0ZuDIxT4Q7kNvwEK4Im3&_nc_oc=Adr_dPNtHTH98KqeV2H6RxYkgj7aP7l6djhG1a2nM0oHivDqVPB6CjKvHHBQfURM1nM&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=N6UVB-8ECbC9Utuxrsaerg&_nc_tpa=Q5bMBQKAvb_mNYHipQgDKJGzX5Vey6ZQBC0ANRJ3sh9rDdjzOcJ3keYFtnC0GZD849f6W_2Rvo2ocWJoUg&oh=00_AQGH-pPu5_mDX7CQHpijOLthhyOFnAgAkJxGZFEikTPb2Q&oe=6A8213DE"
   },
   "summary": {
     "followers_count": 1357,
-    "views": 342,
-    "likes": 5,
-    "replies": 1,
+    "views": 32,
+    "likes": 0,
+    "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 62,
-    "engagement_rate": 18.13,
+    "engagement_rate": 193.75,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -27,7 +27,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DbwlJ6oHz1J",
       "timestamp": "2026-08-08T00:31:06+0000",
       "metrics": {
-        "views": 3873,
+        "views": 3874,
         "likes": 27,
         "replies": 14,
         "reposts": 0,
@@ -99,12 +99,27 @@
   ],
   "recent_posts": [
     {
+      "id": "18193927891375915",
+      "text": "Unpopular opinion: Roma itu bukan kota yang lo \"kuasai\" — Roma itu kota yang lo serahin diri ke dalamnya.\nYang sok plann",
+      "permalink": "https://www.threads.com/@iams_ichi/post/Db7oaTXINac",
+      "timestamp": "2026-08-12T07:31:11+0000",
+      "metrics": {
+        "views": 16,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "18086061422459353",
       "text": "Di Vienna, orang lokal antri kafe bukan buat kopi — buat duduk lama.\nDua jam, satu melange, baca koran. Dan nggak ada ya",
       "permalink": "https://www.threads.com/@iams_ichi/post/Db7QZfdDc4r",
       "timestamp": "2026-08-12T04:01:21+0000",
       "metrics": {
-        "views": 4,
+        "views": 7,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -232,21 +247,6 @@
         "shares": 0
       },
       "engagement": 2
-    },
-    {
-      "id": "17957796273079116",
-      "text": "Waktu aku mulai planning solo Eropa, yang paling bikin pusing bukan visa atau tiket — tapi nggak tau harus mulai dari ma",
-      "permalink": "https://www.threads.com/@iams_ichi/post/Db2e0G-FnpB",
-      "timestamp": "2026-08-10T07:31:07+0000",
-      "metrics": {
-        "views": 42,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
     }
   ]
 }
