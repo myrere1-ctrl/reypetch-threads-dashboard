@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-08-12T21:08:31.471Z",
+  "updated_at": "2026-08-12T22:07:29.917Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-dfw6-2.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=x8JMHfGpy-cQ7kNvwEr1FSH&_nc_oc=Adrrqma1FgM7la0J8m0NJ5IkHYWulR2eBLIB0aWxylFs4W_3cvAv6JEeWiHfjAjTWRA&_nc_zt=24&_nc_ht=scontent-dfw6-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=leAJwCkHDPzcXXjvaNZC1g&_nc_tpa=Q5bMBQJmVfFDzWlKcsX5c58Bifqcge15uV1G9A2ssOZDbwkPQNdqj0iQM9NvqPVtu5Kiycvs-R3OTuS-yg&oh=00_AQHeWcHMVoyWYCDiiLx_SNCtkRlOGOkIiRi5SFGSBvcFOQ&oe=6A82AE13"
+    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=x8JMHfGpy-cQ7kNvwFUmyPQ&_nc_oc=Adqe1V8SDJp3v401IUhGGBcM1x3GX4o8-ZuvrVtYS2uA27G_DPJDiLcHFDIx1F3mjiA&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=qMrM2mNnnMqHuGBj2Azdhg&_nc_tpa=Q5bMBQL4ntgm8uy7yadnGQDotn4m2oyd4Mvrf_kQ0ND4IEWZkpmoyazex4jk8mjCqig9PW8lHy48ESApog&oh=00_AQE0aMyBw8RZSR3J2ed3gTrl3xtAq7R67Dpzj1uKoFMZSA&oe=6A82AE13"
   },
   "summary": {
     "followers_count": 0,
-    "views": 426,
+    "views": 427,
     "likes": 14,
     "replies": 1,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 45,
-    "engagement_rate": 10.56,
+    "engagement_total": 43,
+    "engagement_rate": 10.07,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -70,7 +70,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Db8D6LBm8HM",
       "timestamp": "2026-08-12T11:31:28+0000",
       "metrics": {
-        "views": 139,
+        "views": 140,
         "likes": 4,
         "replies": 0,
         "reposts": 0,
@@ -96,6 +96,21 @@
     }
   ],
   "recent_posts": [
+    {
+      "id": "18043648565618999",
+      "text": "Dulu aku mikir sedekah itu soal nominal — kalau belum cukup, nunggu dulu.\nTernyata yang bikin hati lega bukan besarnya, ",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Db9MBgklj9L",
+      "timestamp": "2026-08-12T22:01:36+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
     {
       "id": "18118847185964537",
       "text": "Doa Nabi Yunus itu pendek banget — tapi dalamnya minta ampun sambil ngakuin kita ga ada apa-apanya.\nAku ulang-ulang pas ",
@@ -147,7 +162,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Db8D6LBm8HM",
       "timestamp": "2026-08-12T11:31:28+0000",
       "metrics": {
-        "views": 139,
+        "views": 140,
         "likes": 4,
         "replies": 0,
         "reposts": 0,
@@ -230,21 +245,6 @@
         "shares": 0
       },
       "engagement": 1
-    },
-    {
-      "id": "17881629294487014",
-      "text": "Kalau lagi ngerasa hidup kok sempit banget, coba rutinin baca Surat Al-Waqiah tiap malam.\nAku mulai waktu hati lagi geli",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Db5zudam9SA",
-      "timestamp": "2026-08-11T14:31:34+0000",
-      "metrics": {
-        "views": 260,
-        "likes": 4,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 1
-      },
-      "engagement": 4
     }
   ]
 }
