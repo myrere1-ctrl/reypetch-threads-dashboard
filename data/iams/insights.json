@@ -1,41 +1,26 @@
 {
   "account": "iams",
-  "updated_at": "2026-08-12T13:52:52.569Z",
+  "updated_at": "2026-08-12T15:18:17.637Z",
   "profile": {
     "username": "iams_ichi",
     "name": "iams",
     "biography": "🧠Psi + Traveling \nSolo Traveler Bunglon\nFine dining 👌 & Street food lokal 🫰\nHidden gems Insider for 🇯🇵🇦🇺🇫🇷🇪🇸🇮🇹 + Umrah.\n✉️ cmo@coa.au",
-    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=P8n0ZuDIxT4Q7kNvwES3ZB7&_nc_oc=AdoKOmsipxGfwULUwZwMKUDspSdvRdMWQfY-YWfO_ah2zPsgYOmqjVQP1ycpUL8V8D4&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=8f7A0uROwi7wCflfluSgCQ&_nc_tpa=Q5bMBQJhjrzsWX8OUcUTVtB_bt0GnkdGOYykzS7IfbPhtGT3j6boRtMM1KMxMV5OLard3MuopNLd5JmBUw&oh=00_AQELNPwTvU2g_Kqd9xTz56drLgYjDyBpB_QEZd4BXirBOA&oe=6A824C1E"
+    "picture": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=P8n0ZuDIxT4Q7kNvwEvn6L-&_nc_oc=AdqcEn1Xv5wtbYMlBP9bNHp_gq1s8fjuWsxEKHWN0-nMaFdBXW_ZNjDpT97JEV9px18&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=NRd853F5wFpBPsLbdMZlrw&_nc_tpa=Q5bMBQLvub4hbRDBhbUbOlsyKP_Vd0rWa7NWaSFTDH_qUmV5m2p914wI0NLjAPkh0ssljY7VO50pH9DTIw&oh=00_AQGdqLiwgagiDsGNjIf_5u-1UfO853tTnVrRriitsl1cXw&oe=6A824C1E"
   },
   "summary": {
     "followers_count": 1357,
-    "views": 111,
+    "views": 138,
     "likes": 1,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 63,
-    "engagement_rate": 56.76,
+    "engagement_total": 22,
+    "engagement_rate": 15.94,
     "curiosity_score": null,
     "post_count": 25
   },
   "top_posts": [
-    {
-      "id": "18123317023695996",
-      "text": "Di Prancis, orang beli baguette terus dibawa pulang pegang-pegang aja — nggak dibungkus, nggak dimasukkin tas.\nRoti itu ",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DbwlJ6oHz1J",
-      "timestamp": "2026-08-08T00:31:06+0000",
-      "metrics": {
-        "views": 3874,
-        "likes": 27,
-        "replies": 14,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 41
-    },
     {
       "id": "18093087338564675",
       "text": "Unpopular opinion: Paris itu bukan kota romantis — Paris itu kota yang nggak peduli lo kesepian atau nggak.\nDan justru i",
@@ -95,16 +80,46 @@
         "shares": 0
       },
       "engagement": 2
+    },
+    {
+      "id": "18007966853959160",
+      "text": "Dulu mikir rencana detail itu bentuk kontrol — ternyata di Spanyol baru sadar itu bentuk ketakutan.\nYang paling gue nikm",
+      "permalink": "https://www.threads.com/@iams_ichi/post/Db1uvzrmfnU",
+      "timestamp": "2026-08-10T00:31:07+0000",
+      "metrics": {
+        "views": 368,
+        "likes": 2,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 2
     }
   ],
   "recent_posts": [
+    {
+      "id": "18108444212116919",
+      "text": "Di Sevilla ada toko roti kecil di Calle Feria — nggak ada papan nama yang jelas, tapi tiap pagi ada antrian pendek orang",
+      "permalink": "https://www.threads.com/@iams_ichi/post/Db8VENnEeNu",
+      "timestamp": "2026-08-12T14:01:23+0000",
+      "metrics": {
+        "views": 16,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
     {
       "id": "18350263198169123",
       "text": "Tip paling underrated buat introvert di Paris: sengaja dateng ke museum pas hari kerja, jam buka pertama.\nLo dapet ruang",
       "permalink": "https://www.threads.com/@iams_ichi/post/Db8Ac7vFlVS",
       "timestamp": "2026-08-12T11:01:16+0000",
       "metrics": {
-        "views": 52,
+        "views": 60,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -225,21 +240,6 @@
       "timestamp": "2026-08-11T00:31:12+0000",
       "metrics": {
         "views": 45,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "17863175838662946",
-      "text": "Ada bakery di Rue des Martyrs, Paris — nggak punya Instagram, nggak ada menu Inggris.\nGue masuk cuma karena orang lokal ",
-      "permalink": "https://www.threads.com/@iams_ichi/post/Db3LdrgIBmC",
-      "timestamp": "2026-08-10T14:01:17+0000",
-      "metrics": {
-        "views": 25,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
