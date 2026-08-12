@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-08-12T05:10:55.536Z",
+  "updated_at": "2026-08-12T06:48:09.188Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-dfw6-2.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=x8JMHfGpy-cQ7kNvwFP3qjc&_nc_oc=AdpC-qIiVmbgOm2FEnN8p2uxAH7mDFzTQn1EnNTI-HxJ7X4kBdb5BKnNU1xQBa3n36o&_nc_zt=24&_nc_ht=scontent-dfw6-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=jL0fKynp3FCMsl7KmIvFGQ&_nc_tpa=Q5bMBQJUzuIG8N0-yBt8HQpvweUgLIVdyS6BfSYjsHHmOihpWnTF7quheDvecYJV2k-ocwa30E7BFOa6Mg&oh=00_AQHCgVUZnv5r3r_UBEIrP0Zty3p5Zw6yVvOZUjjH4FyFkg&oe=6A81CD13"
+    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=x8JMHfGpy-cQ7kNvwHsWhF1&_nc_oc=AdotWqnktiOFfyJ-OXPWWoCbXdbEhTahZel5wyEvmoCPBTBMFemrArralDeOO04E--o&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=cb-5uojKuZh2D_XQ8I8aTA&_nc_tpa=Q5bMBQKIih28ZiBtvz37dyUptVGswhjmFNChevtumYK3HsWx5F9r8rW0iu91VoHJtY9tYrbj2mCuE-S6zw&oh=00_AQHGjekfMlOydtOYxi1OXxYKXFJttw_Ofd0XrWs9fbqudw&oe=6A820553"
   },
   "summary": {
     "followers_count": 0,
-    "views": 498,
+    "views": 511,
     "likes": 10,
     "replies": 0,
     "reposts": 1,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 33,
-    "engagement_rate": 6.63,
+    "engagement_rate": 6.46,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -40,7 +40,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Db6nNxUDyst",
       "timestamp": "2026-08-11T22:01:30+0000",
       "metrics": {
-        "views": 107,
+        "views": 110,
         "likes": 5,
         "replies": 0,
         "reposts": 1,
@@ -55,7 +55,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Db5zudam9SA",
       "timestamp": "2026-08-11T14:31:34+0000",
       "metrics": {
-        "views": 206,
+        "views": 209,
         "likes": 3,
         "replies": 0,
         "reposts": 0,
@@ -97,12 +97,27 @@
   ],
   "recent_posts": [
     {
+      "id": "18226601767322537",
+      "text": "Lagi overthinking parah, aku inget satu doa yang diajarkan buat minta ditenangkan hati — namanya Doa Memohon Ketenangan ",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Db7asrpFnuc",
+      "timestamp": "2026-08-12T05:31:22+0000",
+      "metrics": {
+        "views": 8,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "18098695589208717",
       "text": "Sholat 5 waktu itu — jujur, yang paling gampang aku skip justru yang waktunya paling sempit, kayak Ashar di tengah-tenga",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Db7Crk7IFFs",
       "timestamp": "2026-08-12T02:01:30+0000",
       "metrics": {
-        "views": 32,
+        "views": 35,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -117,7 +132,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Db6nNxUDyst",
       "timestamp": "2026-08-11T22:01:30+0000",
       "metrics": {
-        "views": 107,
+        "views": 110,
         "likes": 5,
         "replies": 0,
         "reposts": 1,
@@ -147,7 +162,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Db5zudam9SA",
       "timestamp": "2026-08-11T14:31:34+0000",
       "metrics": {
-        "views": 206,
+        "views": 209,
         "likes": 3,
         "replies": 0,
         "reposts": 0,
@@ -230,21 +245,6 @@
         "shares": 0
       },
       "engagement": 1
-    },
-    {
-      "id": "18150406057513509",
-      "text": "Lagi nyiapin hati buat Umroh, dan tiba-tiba aku kangen banget sama Ibu — pengen banget bisa bawa doa beliau sampai ke Ta",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Db4CbRSGXNo",
-      "timestamp": "2026-08-10T22:01:33+0000",
-      "metrics": {
-        "views": 13,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
     }
   ]
 }
