@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-08-13T21:08:46.261Z",
+  "updated_at": "2026-08-13T22:07:33.652Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-dfw6-2.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMiJ9&_nc_ohc=7vjpFTQ7phgQ7kNvwG0y3vq&_nc_oc=AdrbNQOnaiTbYdk4BxpXn8feP1oXUCei_taHnrZk0b1HReiJVbglVDuiQp8ESM8utm0&_nc_zt=24&_nc_ht=scontent-dfw6-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=L-cLV1lnl6oNjYJQszTCZw&_nc_tpa=Q5bMBQKxuOr-4j453yoRSVUAJCfMmG7V4MyeWT-LxcNmEtxaKXweZx-RK1TfZuqbYc4wPhatnXnjmdD5FQ&oh=00_AQGQZXGlPX1_dl3sGiGwAGBAoUopQDDvw-EqS4JpPup0hA&oe=6A83FF93"
+    "picture": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=7vjpFTQ7phgQ7kNvwHLIPo_&_nc_oc=AdqLZhemBC_aYSz4iivEfSUPLMNJidHDMV9tgq1sKDibOWPsPQKC8prCNKq31qJl1DY&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=zkV3aDsFCYAp5udB4Qr9Mw&_nc_tpa=Q5bMBQINuaSNgh6W5urFJB7sxrcNkBzDGzPbPcXt9_yEmGFrmJLqZ6Z4xutprc0aixBBKZt1YZdTMb4X3Q&oh=00_AQF2v_P3gaLLnOsFPSeArfp-i1LpAftLHUMe8E8WbZ31CA&oe=6A83FF93"
   },
   "summary": {
     "followers_count": 0,
-    "views": 205,
-    "likes": 2,
+    "views": 207,
+    "likes": 3,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 35,
-    "engagement_rate": 17.07,
+    "engagement_rate": 16.91,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -85,17 +85,32 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Db9_ftvkeGQ",
       "timestamp": "2026-08-13T05:31:22+0000",
       "metrics": {
-        "views": 109,
-        "likes": 2,
+        "views": 111,
+        "likes": 3,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 2
+      "engagement": 3
     }
   ],
   "recent_posts": [
+    {
+      "id": "18079636754699641",
+      "text": "Nenek aku dulu selalu mulai harinya dengan sholat Dhuha — ga pernah skip, bahkan pas lagi sakit sekalipun.\nWaktu aku tan",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Db_wzsoExqQ",
+      "timestamp": "2026-08-13T22:01:32+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
     {
       "id": "17884595937680804",
       "text": "Malam ini aku coba jujur — udah berapa banyak salah hari ini yang aku lewatin begitu aja tanpa sempat minta ampun?\nBukan",
@@ -177,14 +192,14 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Db9_ftvkeGQ",
       "timestamp": "2026-08-13T05:31:22+0000",
       "metrics": {
-        "views": 109,
-        "likes": 2,
+        "views": 111,
+        "likes": 3,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 2
+      "engagement": 3
     },
     {
       "id": "18133777948722265",
@@ -230,21 +245,6 @@
         "shares": 0
       },
       "engagement": 2
-    },
-    {
-      "id": "17893646763666210",
-      "text": "Kalau lagi ngerasa berat banget — bukan cuma capek fisik, tapi capek yang di dalam — aku biasanya buka Surat Yasin.\nBuka",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Db8YgCskcIH",
-      "timestamp": "2026-08-12T14:31:24+0000",
-      "metrics": {
-        "views": 68,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
     }
   ]
 }
