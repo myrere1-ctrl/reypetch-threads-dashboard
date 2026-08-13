@@ -1,39 +1,24 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-08-13T15:26:42.573Z",
+  "updated_at": "2026-08-13T17:18:11.495Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=7vjpFTQ7phgQ7kNvwGxJ5NP&_nc_oc=Adr5DcOYaDc2meUBYMo4ZNLDY8BQ0cg3J1yVnslmSk67ad7H8uyHt6r_R4NgfY2KO7M&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=t7_whzWsJGu_IT-XdRAzVA&_nc_tpa=Q5bMBQIaqnHcfdbydK17gc26QVaLRu4hfsfEf1lfqLf8k39vicbzooog6Mwl7c07sfoKD5gtc_SlVE_f5A&oh=00_AQEdOSE1hEyj_58OS7_8hdtQKAvrgyGUVeS0zRklVK3Y6Q&oe=6A83C753"
+    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=7vjpFTQ7phgQ7kNvwHqfuyQ&_nc_oc=AdqaUlpbBKxCb7CNVBPL7VqnqBpN4JWTqG-N2HSJsR8un4yCduRvTrYWa1emNR2_q3w&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=q34mwOpNQ7r0A0jSN7OIFA&_nc_tpa=Q5bMBQJAXGA76UJL8vRrJ-dQPpPJia3VVbKHpwCsnlKhEYpsM5XSIjvehFx3g5XFce6-OJVv2KZ9WrB3Cg&oh=00_AQEE8PgYWe0TKLrJR1XbHhsdZ3dlxsZHSQbmIKdLu0h86w&oe=6A83C753"
   },
   "summary": {
     "followers_count": 0,
-    "views": 169,
+    "views": 201,
     "likes": 2,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 43,
-    "engagement_rate": 25.44,
+    "engagement_total": 35,
+    "engagement_rate": 17.41,
     "curiosity_score": null,
     "post_count": 25
   },
   "top_posts": [
-    {
-      "id": "18089704526428867",
-      "text": "Nenek aku pernah bilang, kalau kamu rindu tempat yang belum pernah kamu datangi — itu bukan kebetulan. Mungkin hatimu ud",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Db3O7wkoFmh",
-      "timestamp": "2026-08-10T14:31:36+0000",
-      "metrics": {
-        "views": 169,
-        "likes": 8,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 8
-    },
     {
       "id": "17928412692143070",
       "text": "Tadi cuma duduk biasa, terus tiba-tiba ngebayangin Masjidil Haram.\nHati langsung aneh — campur rindu, campur malu, campu",
@@ -93,16 +78,46 @@
         "shares": 1
       },
       "engagement": 4
+    },
+    {
+      "id": "17902954170493072",
+      "text": "Dulu aku mikir ikhlas itu nunggu perasaannya muncul dulu — baru deh niat lillahi ta'ala.\nTernyata justru terbalik. Ikhla",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Db9_ftvkeGQ",
+      "timestamp": "2026-08-13T05:31:22+0000",
+      "metrics": {
+        "views": 108,
+        "likes": 2,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 2
     }
   ],
   "recent_posts": [
+    {
+      "id": "17884595937680804",
+      "text": "Malam ini aku coba jujur — udah berapa banyak salah hari ini yang aku lewatin begitu aja tanpa sempat minta ampun?\nBukan",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Db_LC-9m9wC",
+      "timestamp": "2026-08-13T16:31:33+0000",
+      "metrics": {
+        "views": 16,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
     {
       "id": "18097941074458035",
       "text": "Dulu aku mikir Ayat Kursi cukup dibaca pas mau tidur aja — ritual malam, selesai.\nTernyata aku mulai baca kapan pun hati",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Db-9TBvm5vO",
       "timestamp": "2026-08-13T14:31:25+0000",
       "metrics": {
-        "views": 40,
+        "views": 58,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -230,21 +245,6 @@
         "shares": 0
       },
       "engagement": 0
-    },
-    {
-      "id": "17928412692143070",
-      "text": "Tadi cuma duduk biasa, terus tiba-tiba ngebayangin Masjidil Haram.\nHati langsung aneh — campur rindu, campur malu, campu",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Db8OOONG-ML",
-      "timestamp": "2026-08-12T13:01:35+0000",
-      "metrics": {
-        "views": 83,
-        "likes": 6,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 6
     }
   ]
 }
