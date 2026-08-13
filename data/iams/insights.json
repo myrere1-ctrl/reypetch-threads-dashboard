@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-08-13T03:03:23.430Z",
+  "updated_at": "2026-08-13T05:12:29.240Z",
   "profile": {
     "username": "iams_ichi",
     "name": "iams",
     "biography": "🧠Psi + Traveling \nSolo Traveler Bunglon\nFine dining 👌 & Street food lokal 🫰\nHidden gems Insider for 🇯🇵🇦🇺🇫🇷🇪🇸🇮🇹 + Umrah.\n✉️ cmo@coa.au",
-    "picture": "https://scontent-sin2-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=P8n0ZuDIxT4Q7kNvwGek1VQ&_nc_oc=AdpPq-oC-q9VQhrgumW39ciiie3QlW11m6hYF3TG0CQXF83XYHIOOyrNajw2E3b3O7c&_nc_zt=24&_nc_ht=scontent-sin2-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=5cJqMOPgjXFI3_gYhXA5ng&_nc_tpa=Q5bMBQLIRO21tDNN8olfoy7lLxkMvSOiKRlWww3z7EHPxh99Zo2hO1porX46bG7NlKsHEsD8ssraoIBtSQ&oh=00_AQFtWQrZnKN9CXbIWn62cDeIcTcW_3W6lKCwk8KUsjhdjw&oe=6A82F4DE"
+    "picture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=P8n0ZuDIxT4Q7kNvwHaGEN0&_nc_oc=AdrzISpVCt4jZnn8q4--s5Y1NELETCcXyhWvGxXelqLqsKwXJZCmfPunpy2xu6zbppk&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=tAjJ4Ds1AniK5tkPrw1lHA&_nc_tpa=Q5bMBQL2nGDVmDXwLankEamDRNu1MEpMhbvi0-kQdFrYIdQQVxnE-fZ7NYYh5Q35NM6gviWNM3HLYjGVGw&oh=00_AQF4o4EwNGAy_BP7Nuh6pgpIj52Enrqdhr6MaWdsXmigZQ&oe=6A832D1E"
   },
   "summary": {
     "followers_count": 1357,
-    "views": 371,
+    "views": 444,
     "likes": 2,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 22,
-    "engagement_rate": 5.93,
+    "engagement_rate": 4.95,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -99,12 +99,27 @@
   ],
   "recent_posts": [
     {
+      "id": "18244639165309137",
+      "text": "Dulu mikir sakura season itu puncak kebahagiaan — semua orang foto, semua orang senang, semua orang... bareng orang.\nTer",
+      "permalink": "https://www.threads.com/@iams_ichi/post/Db91MMxDa3A",
+      "timestamp": "2026-08-13T04:01:20+0000",
+      "metrics": {
+        "views": 10,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "18617492203046022",
       "text": "Katanya jajan street food di Jepang itu bikin malu kalau sendirian — nggak ada yang temenin, awkward makan berdiri di pi",
       "permalink": "https://www.threads.com/@iams_ichi/post/Db9dId4lER8",
       "timestamp": "2026-08-13T00:31:06+0000",
       "metrics": {
-        "views": 159,
+        "views": 217,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -232,21 +247,6 @@
         "shares": 0
       },
       "engagement": 5
-    },
-    {
-      "id": "18097798790618159",
-      "text": "El Born itu distrik yang gampang bikin lo overthink itinerary — terlalu banyak gang kecil, terlalu banyak pilihan kafe.\n",
-      "permalink": "https://www.threads.com/@iams_ichi/post/Db4rlZ2oGiw",
-      "timestamp": "2026-08-11T04:01:12+0000",
-      "metrics": {
-        "views": 25,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
     }
   ]
 }
