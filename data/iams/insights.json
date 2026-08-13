@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-08-13T06:51:09.793Z",
+  "updated_at": "2026-08-13T08:47:14.655Z",
   "profile": {
     "username": "iams_ichi",
     "name": "iams",
     "biography": "🧠Psi + Traveling \nSolo Traveler Bunglon\nFine dining 👌 & Street food lokal 🫰\nHidden gems Insider for 🇯🇵🇦🇺🇫🇷🇪🇸🇮🇹 + Umrah.\n✉️ cmo@coa.au",
-    "picture": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=P8n0ZuDIxT4Q7kNvwGERvqO&_nc_oc=Ado5WEBrjISrwEK6R1CCSWe3bRubKgbckHtCCXkZekOgUZZPFO4kaoJr1GGb-UT4R_s&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=igaSmDqWmz8xSAFs2K_5kg&_nc_tpa=Q5bMBQItaXgN3q1j7iVBb2rm8yg3ckIH_LkffOkMSMoBAeiULilIXDspJzQXP8kMtifQ8_j_mi0e-FgZ6A&oh=00_AQF2H0tErpkpM_z41rKVyqkQd3oXb8iY9jB9zMsaoqbAAQ&oe=6A832D1E"
+    "picture": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=P8n0ZuDIxT4Q7kNvwGVqf_j&_nc_oc=AdpllodmJFTS-i5S-Rt9ssiwLqMuwALhjLcbg7LezKivHVdFkfxCsz3aSfBtdUdDhMk&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=fOK2Rx-FucDWX0dQjzyzDA&_nc_tpa=Q5bMBQJeD5D3TNxNbIEEnEAkpH6ayBsSD2XrbJN64iHNQqf7Hq9eTwMq_QFozXZhXnnSPove1xw-3XhkiA&oh=00_AQFCysCLyOiLFXFyhgwK_Qdvx6i9bSw7Wf9Gtia3hPjmUg&oe=6A83655E"
   },
   "summary": {
     "followers_count": 1357,
-    "views": 457,
-    "likes": 2,
+    "views": 138,
+    "likes": 3,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 22,
-    "engagement_rate": 4.81,
+    "engagement_total": 26,
+    "engagement_rate": 18.84,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -27,7 +27,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Db5Dm6uFasY",
       "timestamp": "2026-08-11T07:31:06+0000",
       "metrics": {
-        "views": 88,
+        "views": 89,
         "likes": 4,
         "replies": 1,
         "reposts": 0,
@@ -35,6 +35,21 @@
         "shares": 0
       },
       "engagement": 5
+    },
+    {
+      "id": "18159230614488131",
+      "text": "Unpopular opinion: Jepang itu justru lebih enak dinikmati kalau lo nggak ngerti bahasanya sama sekali.\nJadi lo terpaksa ",
+      "permalink": "https://www.threads.com/@iams_ichi/post/Db-NMm2IOzS",
+      "timestamp": "2026-08-13T07:31:07+0000",
+      "metrics": {
+        "views": 130,
+        "likes": 4,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 4
     },
     {
       "id": "17862740892661518",
@@ -80,31 +95,31 @@
         "shares": 0
       },
       "engagement": 2
-    },
+    }
+  ],
+  "recent_posts": [
     {
-      "id": "17904152241492387",
-      "text": "Katanya Roma itu kota buat pasangan — solo traveler bakal kelihatan aneh dan melas.\nTernyata justru karena lo sendirian,",
-      "permalink": "https://www.threads.com/@iams_ichi/post/Db2226QllHc",
-      "timestamp": "2026-08-10T11:01:13+0000",
+      "id": "18159230614488131",
+      "text": "Unpopular opinion: Jepang itu justru lebih enak dinikmati kalau lo nggak ngerti bahasanya sama sekali.\nJadi lo terpaksa ",
+      "permalink": "https://www.threads.com/@iams_ichi/post/Db-NMm2IOzS",
+      "timestamp": "2026-08-13T07:31:07+0000",
       "metrics": {
-        "views": 159,
-        "likes": 2,
+        "views": 130,
+        "likes": 4,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 2
-    }
-  ],
-  "recent_posts": [
+      "engagement": 4
+    },
     {
       "id": "18244639165309137",
       "text": "Dulu mikir sakura season itu puncak kebahagiaan — semua orang foto, semua orang senang, semua orang... bareng orang.\nTer",
       "permalink": "https://www.threads.com/@iams_ichi/post/Db91MMxDa3A",
       "timestamp": "2026-08-13T04:01:20+0000",
       "metrics": {
-        "views": 16,
+        "views": 19,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -119,7 +134,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Db9dId4lER8",
       "timestamp": "2026-08-13T00:31:06+0000",
       "metrics": {
-        "views": 222,
+        "views": 225,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -134,7 +149,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Db8VENnEeNu",
       "timestamp": "2026-08-12T14:01:23+0000",
       "metrics": {
-        "views": 31,
+        "views": 32,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -232,21 +247,6 @@
         "shares": 0
       },
       "engagement": 0
-    },
-    {
-      "id": "18093087338564675",
-      "text": "Unpopular opinion: Paris itu bukan kota romantis — Paris itu kota yang nggak peduli lo kesepian atau nggak.\nDan justru i",
-      "permalink": "https://www.threads.com/@iams_ichi/post/Db5Dm6uFasY",
-      "timestamp": "2026-08-11T07:31:06+0000",
-      "metrics": {
-        "views": 88,
-        "likes": 4,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 5
     }
   ]
 }
