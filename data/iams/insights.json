@@ -1,26 +1,41 @@
 {
   "account": "iams",
-  "updated_at": "2026-08-13T08:47:14.655Z",
+  "updated_at": "2026-08-13T10:31:42.075Z",
   "profile": {
     "username": "iams_ichi",
     "name": "iams",
     "biography": "🧠Psi + Traveling \nSolo Traveler Bunglon\nFine dining 👌 & Street food lokal 🫰\nHidden gems Insider for 🇯🇵🇦🇺🇫🇷🇪🇸🇮🇹 + Umrah.\n✉️ cmo@coa.au",
-    "picture": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=P8n0ZuDIxT4Q7kNvwGVqf_j&_nc_oc=AdpllodmJFTS-i5S-Rt9ssiwLqMuwALhjLcbg7LezKivHVdFkfxCsz3aSfBtdUdDhMk&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=fOK2Rx-FucDWX0dQjzyzDA&_nc_tpa=Q5bMBQJeD5D3TNxNbIEEnEAkpH6ayBsSD2XrbJN64iHNQqf7Hq9eTwMq_QFozXZhXnnSPove1xw-3XhkiA&oh=00_AQFCysCLyOiLFXFyhgwK_Qdvx6i9bSw7Wf9Gtia3hPjmUg&oe=6A83655E"
+    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=P8n0ZuDIxT4Q7kNvwHHF6u8&_nc_oc=AdqD8uedpDYuYZ9W9u32Lq0_yrZwi0-TfHuccR5DgKqqRD1W_disvnuWlt9btpVyzsU&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=DwqwbhG-4XrKBfH50uCKSQ&_nc_tpa=Q5bMBQInQKJwSUK0KchTObTD5emnOv4EbSeoGI3bO9C7bdQVmpeLJNzzOcfFY3QmPKblYu6Y_XbxVLjBbg&oh=00_AQGvo0RaDXgho7t8zphUAVKPdN_BOB0jDVNVS8KTCc5ecA&oe=6A83655E"
   },
   "summary": {
     "followers_count": 1357,
-    "views": 138,
-    "likes": 3,
-    "replies": 0,
+    "views": 440,
+    "likes": 10,
+    "replies": 4,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 26,
-    "engagement_rate": 18.84,
+    "engagement_total": 39,
+    "engagement_rate": 8.86,
     "curiosity_score": null,
     "post_count": 25
   },
   "top_posts": [
+    {
+      "id": "18159230614488131",
+      "text": "Unpopular opinion: Jepang itu justru lebih enak dinikmati kalau lo nggak ngerti bahasanya sama sekali.\nJadi lo terpaksa ",
+      "permalink": "https://www.threads.com/@iams_ichi/post/Db-NMm2IOzS",
+      "timestamp": "2026-08-13T07:31:07+0000",
+      "metrics": {
+        "views": 397,
+        "likes": 13,
+        "replies": 4,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 17
+    },
     {
       "id": "18093087338564675",
       "text": "Unpopular opinion: Paris itu bukan kota romantis — Paris itu kota yang nggak peduli lo kesepian atau nggak.\nDan justru i",
@@ -35,21 +50,6 @@
         "shares": 0
       },
       "engagement": 5
-    },
-    {
-      "id": "18159230614488131",
-      "text": "Unpopular opinion: Jepang itu justru lebih enak dinikmati kalau lo nggak ngerti bahasanya sama sekali.\nJadi lo terpaksa ",
-      "permalink": "https://www.threads.com/@iams_ichi/post/Db-NMm2IOzS",
-      "timestamp": "2026-08-13T07:31:07+0000",
-      "metrics": {
-        "views": 130,
-        "likes": 4,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 4
     },
     {
       "id": "17862740892661518",
@@ -104,14 +104,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Db-NMm2IOzS",
       "timestamp": "2026-08-13T07:31:07+0000",
       "metrics": {
-        "views": 130,
-        "likes": 4,
-        "replies": 0,
+        "views": 397,
+        "likes": 13,
+        "replies": 4,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 4
+      "engagement": 17
     },
     {
       "id": "18244639165309137",
@@ -119,7 +119,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Db91MMxDa3A",
       "timestamp": "2026-08-13T04:01:20+0000",
       "metrics": {
-        "views": 19,
+        "views": 20,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -134,7 +134,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Db9dId4lER8",
       "timestamp": "2026-08-13T00:31:06+0000",
       "metrics": {
-        "views": 225,
+        "views": 228,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
