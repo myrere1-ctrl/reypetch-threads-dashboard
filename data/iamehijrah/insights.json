@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-08-13T05:13:19.731Z",
+  "updated_at": "2026-08-13T06:52:03.912Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=x8JMHfGpy-cQ7kNvwG8rKWM&_nc_oc=AdqCVSTIwmGBt4Fpo3PXuPmjcraKM51BqAXuT4ckeQEjuHJEVGDY_vPnSbT9KhWchCA&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=IPA_rr_A73w4tyvBoeNptA&_nc_tpa=Q5bMBQJz2gRqK4z5yRpv6UamzIGNu91U76yPG2CPvAYuKpafT3zOwUZFGcItnHr3fnCuRFswzQ-gU_-EOg&oh=00_AQHZT5wneleUHcyMg2nDib6Q_B-TaH7CP0Y4omqH4SDkAA&oe=6A831E93"
+    "picture": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=x8JMHfGpy-cQ7kNvwGqK4U4&_nc_oc=AdoyL4Jka-1O11A8m3Ja6xj_q2e7VAOCsutEs8_HLRIIM8rh4ngk5qyb5kON_sHIJnU&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=kX-1OaVp5O5pfCG0KvnmAA&_nc_tpa=Q5bMBQK_NLVnJ0olpUIlZgSgqL3yTHW8w9yBwPQDKxfwuWfeSymJZbAKkaJNUB2YOx_gIeOXztE8aYWt1g&oh=00_AQH4H4IA4h7eNgAwLCBcqQedMQZ33G9SSrcwjUh6FyEXmA&oe=6A8356D3"
   },
   "summary": {
     "followers_count": 0,
-    "views": 593,
-    "likes": 16,
+    "views": 654,
+    "likes": 17,
     "replies": 2,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 45,
-    "engagement_rate": 7.59,
+    "engagement_total": 47,
+    "engagement_rate": 7.19,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -70,7 +70,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Db8D6LBm8HM",
       "timestamp": "2026-08-12T11:31:28+0000",
       "metrics": {
-        "views": 150,
+        "views": 152,
         "likes": 4,
         "replies": 0,
         "reposts": 0,
@@ -96,6 +96,21 @@
     }
   ],
   "recent_posts": [
+    {
+      "id": "17902954170493072",
+      "text": "Dulu aku mikir ikhlas itu nunggu perasaannya muncul dulu — baru deh niat lillahi ta'ala.\nTernyata justru terbalik. Ikhla",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Db9_ftvkeGQ",
+      "timestamp": "2026-08-13T05:31:22+0000",
+      "metrics": {
+        "views": 58,
+        "likes": 2,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 2
+    },
     {
       "id": "18133777948722265",
       "text": "Pernah ngerasa tiba-tiba asing sama Allah — padahal ga ada kejadian besar, ga ada salah yang ketara, tapi hati kok kayak",
@@ -177,7 +192,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Db8D6LBm8HM",
       "timestamp": "2026-08-12T11:31:28+0000",
       "metrics": {
-        "views": 150,
+        "views": 152,
         "likes": 4,
         "replies": 0,
         "reposts": 0,
@@ -230,21 +245,6 @@
         "shares": 0
       },
       "engagement": 0
-    },
-    {
-      "id": "18130804189644775",
-      "text": "Unpopular opinion: husnudzon sama Allah itu bukan berarti kamu ga boleh sedih atau kecewa.\nJustru aku belajar — bisa nan",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Db6nNxUDyst",
-      "timestamp": "2026-08-11T22:01:30+0000",
-      "metrics": {
-        "views": 110,
-        "likes": 5,
-        "replies": 0,
-        "reposts": 1,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 6
     }
   ]
 }
