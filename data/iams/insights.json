@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-08-14T13:48:58.583Z",
+  "updated_at": "2026-08-14T15:10:24.642Z",
   "profile": {
     "username": "iams_ichi",
     "name": "iams",
     "biography": "🧠Psi + Traveling \nSolo Traveler Bunglon\nFine dining 👌 & Street food lokal 🫰\nHidden gems Insider for 🇯🇵🇦🇺🇫🇷🇪🇸🇮🇹 + Umrah.\n✉️ cmo@coa.au",
-    "picture": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=gE7cPaYwviAQ7kNvwHkU3V5&_nc_oc=AdoMN0F_qDNI7y0EC2mk7hXeC1eFGFsNd0aD0gtAXFsPpAX23ahrGxARbs8o5UccOi0&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=HFohLnhDkW0rpLMeRgvXPg&_nc_tpa=Q5bMBQIlAaREXDBvYOkJa5yg5P2uOAqTDNOoFeQsvtmrv1nX2vvLSX1MRoJZROYnlQs5JDPTThOg-Pfi0g&oh=00_AQF1DT-DbTRlr6H_TxMjwfN7OyRXB2GxxRPdRC4n_zOxIg&oe=6A84EF1E"
+    "picture": "https://scontent-dfw6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=gE7cPaYwviAQ7kNvwFmR1_q&_nc_oc=AdrbfOwTdqS1bHedqjxf0JGL0es2SbTUiE6ldfzbE9s0ktTE6TOc9ljQ_2VlXM4FJUk&_nc_zt=24&_nc_ht=scontent-dfw6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=Bsu4D_gr3bUMl7IcJWayTA&_nc_tpa=Q5bMBQIF3dmbG64SD362joDb-QPAGvtA6dWgdONun_P3kD-E6mIkXOSCTSlLKCLChQhVtxUUlHFReM1Ddg&oh=00_AQFPfo91n00NO0F_x0zvEoCQhuEQaUKd3RsZVkd_YiZalg&oe=6A84EF1E"
   },
   "summary": {
     "followers_count": 1358,
-    "views": 145,
+    "views": 161,
     "likes": 0,
-    "replies": 0,
+    "replies": 1,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 43,
-    "engagement_rate": 29.66,
+    "engagement_total": 44,
+    "engagement_rate": 27.33,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -99,12 +99,27 @@
   ],
   "recent_posts": [
     {
+      "id": "18130034836645142",
+      "text": "Jajan street food di Jepang sendirian itu justru nggak butuh basa-basi.\nLo antri, lo tunjuk, lo bayar — selesai. Nggak a",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DcBeo_hlZGc",
+      "timestamp": "2026-08-14T14:01:15+0000",
+      "metrics": {
+        "views": 4,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
       "id": "17902586757542113",
       "text": "Di Kyoto, orang lokal jalan di trotoar dengan kecepatan yang sama persis — nggak ngejar, nggak nyalip, nggak lirik-lirik",
       "permalink": "https://www.threads.com/@iams_ichi/post/DcBKDK5oNOn",
       "timestamp": "2026-08-14T11:01:20+0000",
       "metrics": {
-        "views": 3,
+        "views": 5,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -119,7 +134,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DcAx_3KoFZu",
       "timestamp": "2026-08-14T07:31:09+0000",
       "metrics": {
-        "views": 107,
+        "views": 108,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -225,21 +240,6 @@
       "timestamp": "2026-08-13T00:31:06+0000",
       "metrics": {
         "views": 238,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18108444212116919",
-      "text": "Di Sevilla ada toko roti kecil di Calle Feria — nggak ada papan nama yang jelas, tapi tiap pagi ada antrian pendek orang",
-      "permalink": "https://www.threads.com/@iams_ichi/post/Db8VENnEeNu",
-      "timestamp": "2026-08-12T14:01:23+0000",
-      "metrics": {
-        "views": 33,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
