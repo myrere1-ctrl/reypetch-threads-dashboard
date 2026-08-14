@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-08-14T13:49:51.807Z",
+  "updated_at": "2026-08-14T15:11:16.741Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-lga3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=7vjpFTQ7phgQ7kNvwEE6_fr&_nc_oc=Adp0W_YeSA_FJB48nDVEFOa6YaJxs2mhSIqzFq7LUP0grYr_1HABS8BrU9OX3hjtWjY&_nc_zt=24&_nc_ht=scontent-lga3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=Fdbr3hGn7yMXqVw7vHSEmg&_nc_tpa=Q5bMBQLf0VAmo8fivnraF2IfsseSrYaxw0wipvbA6uHdROjtVOPdrv6IrjOIoF0OEdGLbmENxnKGshHglg&oh=00_AQEUG6o1aJPFyZfEbv3dlGbV7uiyuevlRUvZDBqx_t_QhQ&oe=6A84E093"
+    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=7vjpFTQ7phgQ7kNvwFcdZkw&_nc_oc=AdqlchQdh49k6EUPPCVxHZFvwZdRve9s38Z_wRPt3I2ffgoZRWuvfkCJufmTBaKx_So&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=BOvJXLLA41X4D5rb0onDgg&_nc_tpa=Q5bMBQLiPQR5EJm9FFj-QcEwB-_XpGZV8MaeDVeFU2KnpmmAXqdHUq5YSgMJw3KFg4n0iwVi3Qpunct9pQ&oh=00_AQHsPJEGCFhz6ehRY6P-luncObKFPKGzGd3js0FmDeqvXA&oe=6A8518D3"
   },
   "summary": {
     "followers_count": 0,
-    "views": 151,
-    "likes": 1,
+    "views": 237,
+    "likes": 3,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 39,
-    "engagement_rate": 25.83,
+    "engagement_rate": 16.46,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -97,12 +97,27 @@
   ],
   "recent_posts": [
     {
+      "id": "18181111963422019",
+      "text": "Pagi ini bangun telat, badan masih capek, pikiran udah rame duluan.\nTapi terus keinget — masih bisa bangun. Masih dikasi",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DcBiFAcoJr-",
+      "timestamp": "2026-08-14T14:31:18+0000",
+      "metrics": {
+        "views": 28,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "17949022518037148",
       "text": "Kadang aku baca Surat Yasin bukan karena tau maknanya dalam-dalam — tapi karena hati lagi butuh ditemani.\nKayak ngobrol ",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DcBXziIFslS",
       "timestamp": "2026-08-14T13:01:32+0000",
       "metrics": {
-        "views": 8,
+        "views": 12,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -117,14 +132,14 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DcBNeq3FWnL",
       "timestamp": "2026-08-14T11:31:18+0000",
       "metrics": {
-        "views": 122,
-        "likes": 1,
+        "views": 172,
+        "likes": 2,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 1
+      "engagement": 2
     },
     {
       "id": "18173426518434762",
@@ -132,7 +147,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DcA8VnLFnth",
       "timestamp": "2026-08-14T09:01:30+0000",
       "metrics": {
-        "views": 12,
+        "views": 13,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -230,21 +245,6 @@
         "shares": 0
       },
       "engagement": 0
-    },
-    {
-      "id": "18082424627674420",
-      "text": "Habis Subuh tadi aku duduk diem aja — ga baca apa-apa, cuma nanya ke hati sendiri: kalau beneran dikasih kesempatan ke B",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Db-othJoDm4",
-      "timestamp": "2026-08-13T11:31:32+0000",
-      "metrics": {
-        "views": 53,
-        "likes": 1,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
     }
   ]
 }
