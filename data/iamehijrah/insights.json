@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-08-14T10:28:46.069Z",
+  "updated_at": "2026-08-14T12:01:55.686Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://instagram.ficn2-2.fna.fbcdn.net/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=7vjpFTQ7phgQ7kNvwEkP2vr&_nc_oc=AdqGWasHon7useWaXdhe0pYCup-zRzzXFNcpYtuq79aEBoAh4qTa9uShsOqeoRFe46U&_nc_zt=24&_nc_ht=instagram.ficn2-2.fna&edm=AP4hL3IEAAAA&_nc_gid=Z6TkxhLRnSipkI8CN-fEcA&_nc_tpa=Q5bMBQIuI_uGUcVu4nnsfzHzadjbg0BQ_Xw5-p5fSIeDrL85rnc5YLG-UVdCGHOOUfLOKd2dHgGzb_3LSw&oh=00_AQGJ8CxfjSqNBtHaaXgenPmffs84PmJoJygnT2T1eepGGw&oe=6A84A853"
+    "picture": "https://scontent-lhr11-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=7vjpFTQ7phgQ7kNvwGnlcMN&_nc_oc=AdqgmzhWcNg5aulR8MKM2o5qcQy_FDoGJBeGzVZIX3Px10uw-3sqnbTZJqnvM8Z3xM0&_nc_zt=24&_nc_ht=scontent-lhr11-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=OQ3i0MgAd-_kFZ0mFggcog&_nc_tpa=Q5bMBQIRlMQLutKsESB0DxC15-XtrBDsLaV9jD620GrJjtySizO18stSSHIPnYliqnBZIur_pPrWSfos9w&oh=00_AQFF4DOElUMFK6vWS5xSmQiznHzhjtyOjmNOxYnmcNJHQg&oe=6A84E093"
   },
   "summary": {
     "followers_count": 0,
-    "views": 18,
+    "views": 100,
     "likes": 1,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 38,
-    "engagement_rate": 211.11,
+    "engagement_rate": 38,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -97,6 +97,21 @@
   ],
   "recent_posts": [
     {
+      "id": "18136469947523955",
+      "text": "Dulu aku mikir rindu Tanah Suci itu cuma dirasain sama yang udah pernah ke sana.\nTernyata aku yang belum pernah ke mana-",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DcBNeq3FWnL",
+      "timestamp": "2026-08-14T11:31:18+0000",
+      "metrics": {
+        "views": 52,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "18173426518434762",
       "text": "Aku pernah ngerasa takdir itu \"salah\" — ngerasa harusnya beda, harusnya lebih baik dari ini.\nTapi makin ke sini, makin n",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DcA8VnLFnth",
@@ -147,7 +162,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Db_wzsoExqQ",
       "timestamp": "2026-08-13T22:01:32+0000",
       "metrics": {
-        "views": 37,
+        "views": 38,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -230,21 +245,6 @@
         "shares": 0
       },
       "engagement": 1
-    },
-    {
-      "id": "17902954170493072",
-      "text": "Dulu aku mikir ikhlas itu nunggu perasaannya muncul dulu — baru deh niat lillahi ta'ala.\nTernyata justru terbalik. Ikhla",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Db9_ftvkeGQ",
-      "timestamp": "2026-08-13T05:31:22+0000",
-      "metrics": {
-        "views": 139,
-        "likes": 4,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 4
     }
   ]
 }
