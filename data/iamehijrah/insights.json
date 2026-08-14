@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-08-14T12:01:55.686Z",
+  "updated_at": "2026-08-14T13:49:51.807Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-lhr11-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=7vjpFTQ7phgQ7kNvwGnlcMN&_nc_oc=AdqgmzhWcNg5aulR8MKM2o5qcQy_FDoGJBeGzVZIX3Px10uw-3sqnbTZJqnvM8Z3xM0&_nc_zt=24&_nc_ht=scontent-lhr11-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=OQ3i0MgAd-_kFZ0mFggcog&_nc_tpa=Q5bMBQIRlMQLutKsESB0DxC15-XtrBDsLaV9jD620GrJjtySizO18stSSHIPnYliqnBZIur_pPrWSfos9w&oh=00_AQFF4DOElUMFK6vWS5xSmQiznHzhjtyOjmNOxYnmcNJHQg&oe=6A84E093"
+    "picture": "https://scontent-lga3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=7vjpFTQ7phgQ7kNvwEE6_fr&_nc_oc=Adp0W_YeSA_FJB48nDVEFOa6YaJxs2mhSIqzFq7LUP0grYr_1HABS8BrU9OX3hjtWjY&_nc_zt=24&_nc_ht=scontent-lga3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=Fdbr3hGn7yMXqVw7vHSEmg&_nc_tpa=Q5bMBQLf0VAmo8fivnraF2IfsseSrYaxw0wipvbA6uHdROjtVOPdrv6IrjOIoF0OEdGLbmENxnKGshHglg&oh=00_AQEUG6o1aJPFyZfEbv3dlGbV7uiyuevlRUvZDBqx_t_QhQ&oe=6A84E093"
   },
   "summary": {
     "followers_count": 0,
-    "views": 100,
+    "views": 151,
     "likes": 1,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 38,
-    "engagement_rate": 38,
+    "engagement_total": 39,
+    "engagement_rate": 25.83,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -97,12 +97,12 @@
   ],
   "recent_posts": [
     {
-      "id": "18136469947523955",
-      "text": "Dulu aku mikir rindu Tanah Suci itu cuma dirasain sama yang udah pernah ke sana.\nTernyata aku yang belum pernah ke mana-",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DcBNeq3FWnL",
-      "timestamp": "2026-08-14T11:31:18+0000",
+      "id": "17949022518037148",
+      "text": "Kadang aku baca Surat Yasin bukan karena tau maknanya dalam-dalam — tapi karena hati lagi butuh ditemani.\nKayak ngobrol ",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DcBXziIFslS",
+      "timestamp": "2026-08-14T13:01:32+0000",
       "metrics": {
-        "views": 52,
+        "views": 8,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -112,12 +112,27 @@
       "engagement": 0
     },
     {
+      "id": "18136469947523955",
+      "text": "Dulu aku mikir rindu Tanah Suci itu cuma dirasain sama yang udah pernah ke sana.\nTernyata aku yang belum pernah ke mana-",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DcBNeq3FWnL",
+      "timestamp": "2026-08-14T11:31:18+0000",
+      "metrics": {
+        "views": 122,
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
       "id": "18173426518434762",
       "text": "Aku pernah ngerasa takdir itu \"salah\" — ngerasa harusnya beda, harusnya lebih baik dari ini.\nTapi makin ke sini, makin n",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DcA8VnLFnth",
       "timestamp": "2026-08-14T09:01:30+0000",
       "metrics": {
-        "views": 11,
+        "views": 12,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -223,21 +238,6 @@
       "timestamp": "2026-08-13T11:31:32+0000",
       "metrics": {
         "views": 53,
-        "likes": 1,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "18085717229276267",
-      "text": "Dulu aku mikir muhasabah itu cukup dilakukan pas Ramadan — nanti-nanti aja, pas momen yang \"pas\".\nTernyata yang bikin ak",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Db-Xi74IOO5",
-      "timestamp": "2026-08-13T09:01:32+0000",
-      "metrics": {
-        "views": 19,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
