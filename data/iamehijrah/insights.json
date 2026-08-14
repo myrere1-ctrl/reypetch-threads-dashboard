@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-08-14T08:41:03.893Z",
+  "updated_at": "2026-08-14T10:28:46.069Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=7vjpFTQ7phgQ7kNvwH9zd8b&_nc_oc=AdqouXjSjWX3qUPWtgbviwE_DpQqMiaw5JypLQDWAaVBGF9sDnvJQyfqvXAK2Z4hl0g&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=1deeCUcbhb45pMtLGTNG8w&_nc_tpa=Q5bMBQLTGYnbIkvum4Avi1K17YzkStRwGBatHGotLGPDFUbJmfO2mVbV4gJuQaITdO1irtRsZJ897CtgXg&oh=00_AQF_sHtH7kXQjiOfeVelADxMA14goit64LpKAXpfMsbruw&oe=6A84A853"
+    "picture": "https://instagram.ficn2-2.fna.fbcdn.net/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=7vjpFTQ7phgQ7kNvwEkP2vr&_nc_oc=AdqGWasHon7useWaXdhe0pYCup-zRzzXFNcpYtuq79aEBoAh4qTa9uShsOqeoRFe46U&_nc_zt=24&_nc_ht=instagram.ficn2-2.fna&edm=AP4hL3IEAAAA&_nc_gid=Z6TkxhLRnSipkI8CN-fEcA&_nc_tpa=Q5bMBQIuI_uGUcVu4nnsfzHzadjbg0BQ_Xw5-p5fSIeDrL85rnc5YLG-UVdCGHOOUfLOKd2dHgGzb_3LSw&oh=00_AQGJ8CxfjSqNBtHaaXgenPmffs84PmJoJygnT2T1eepGGw&oe=6A84A853"
   },
   "summary": {
     "followers_count": 0,
-    "views": 6,
-    "likes": 0,
+    "views": 18,
+    "likes": 1,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 37,
-    "engagement_rate": 616.67,
+    "engagement_total": 38,
+    "engagement_rate": 211.11,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -96,6 +96,21 @@
     }
   ],
   "recent_posts": [
+    {
+      "id": "18173426518434762",
+      "text": "Aku pernah ngerasa takdir itu \"salah\" — ngerasa harusnya beda, harusnya lebih baik dari ini.\nTapi makin ke sini, makin n",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DcA8VnLFnth",
+      "timestamp": "2026-08-14T09:01:30+0000",
+      "metrics": {
+        "views": 11,
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
     {
       "id": "17988219885030163",
       "text": "Dulu aku mikir doa yang belum dijawab itu tanda Allah ga dengerin.\nTernyata nunggu itu bagian dari jawabannya — cuma bed",
@@ -230,21 +245,6 @@
         "shares": 0
       },
       "engagement": 4
-    },
-    {
-      "id": "18133777948722265",
-      "text": "Pernah ngerasa tiba-tiba asing sama Allah — padahal ga ada kejadian besar, ga ada salah yang ketara, tapi hati kok kayak",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Db9neZ3lvxq",
-      "timestamp": "2026-08-13T02:01:29+0000",
-      "metrics": {
-        "views": 38,
-        "likes": 1,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
     }
   ]
 }
