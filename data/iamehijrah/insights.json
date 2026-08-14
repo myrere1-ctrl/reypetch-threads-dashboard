@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-08-13T23:07:48.781Z",
+  "updated_at": "2026-08-14T00:03:02.283Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=7vjpFTQ7phgQ7kNvwGOGsei&_nc_oc=AdqRqXFuyZr1bM7GgGSXzpGDiellX5dVyEMtrjjbtCo6dUl9aJnFRchmpn2jqbKV7h0&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=gNi0Kpw1-SqjGpWyj1P-sg&_nc_tpa=Q5bMBQJ0cWq37oW2W9jiF2ozrcf8u_EXAnBIDNGTjONpV8u4_3lC2huxsjtoFnb0tk-PNu_Kdt2wEMraZw&oh=00_AQHXQKfFYBUyk9BJUqhfr4daAT-jZQqVA4YIY11BeSfYeA&oe=6A8437D3"
+    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=7vjpFTQ7phgQ7kNvwHqcyVI&_nc_oc=Adpxf8aeEEP77383cuD6ZjFnW_1HWbFrmJhph5pSY5g51jgP95770l12DjbNjjkULvw&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=5nYwXcoqkL5AftSkatFqrA&_nc_tpa=Q5bMBQKxDPFEs2kx2lZFKc8h54I3xSqhrOP8S1uQEscrCkj5Hb3vXg3pjvZGWaHD00V2qB58PTdPM_kWfQ&oh=00_AQEmhqUqPG7kupiTMKxd-qlR45y-3S5OmWE5UuAZom5cBw&oe=6A8437D3"
   },
   "summary": {
     "followers_count": 0,
-    "views": 240,
-    "likes": 4,
+    "views": 247,
+    "likes": 5,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 36,
-    "engagement_rate": 15,
+    "engagement_total": 37,
+    "engagement_rate": 14.98,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -50,6 +50,21 @@
       "engagement": 6
     },
     {
+      "id": "17902954170493072",
+      "text": "Dulu aku mikir ikhlas itu nunggu perasaannya muncul dulu — baru deh niat lillahi ta'ala.\nTernyata justru terbalik. Ikhla",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Db9_ftvkeGQ",
+      "timestamp": "2026-08-13T05:31:22+0000",
+      "metrics": {
+        "views": 117,
+        "likes": 4,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 4
+    },
+    {
       "id": "17902303983519756",
       "text": "Aku lagi sering ulang-ulang baca Doa Tawakkal — yang intinya menyerahkan semua urusan ke Allah sepenuhnya.\nBukan karena ",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Db8D6LBm8HM",
@@ -78,21 +93,6 @@
         "shares": 1
       },
       "engagement": 4
-    },
-    {
-      "id": "17902954170493072",
-      "text": "Dulu aku mikir ikhlas itu nunggu perasaannya muncul dulu — baru deh niat lillahi ta'ala.\nTernyata justru terbalik. Ikhla",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Db9_ftvkeGQ",
-      "timestamp": "2026-08-13T05:31:22+0000",
-      "metrics": {
-        "views": 112,
-        "likes": 3,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 3
     }
   ],
   "recent_posts": [
@@ -102,7 +102,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Db_wzsoExqQ",
       "timestamp": "2026-08-13T22:01:32+0000",
       "metrics": {
-        "views": 28,
+        "views": 31,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -177,7 +177,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Db-Xi74IOO5",
       "timestamp": "2026-08-13T09:01:32+0000",
       "metrics": {
-        "views": 18,
+        "views": 19,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -192,14 +192,14 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Db9_ftvkeGQ",
       "timestamp": "2026-08-13T05:31:22+0000",
       "metrics": {
-        "views": 112,
-        "likes": 3,
+        "views": 117,
+        "likes": 4,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 3
+      "engagement": 4
     },
     {
       "id": "18133777948722265",
