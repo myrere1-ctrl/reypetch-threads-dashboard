@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-08-15T08:49:51.379Z",
+  "updated_at": "2026-08-15T09:45:30.582Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-dfw6-2.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=7vjpFTQ7phgQ7kNvwGMIcmu&_nc_oc=AdrvqdsepUmxaWhh1SLGox0v8VlZOWgMh1pLQVqsW2GSWOaaTym_VdIgDcFKaAs81Dc&_nc_zt=24&_nc_ht=scontent-dfw6-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=JiUFhpo9G_05UmpNelryXw&_nc_tpa=Q5bMBQIWujyCAjDLCMgIhPGNhENdK_8kkCiXRM5CAGvtpNob4Uoau-7xATMEpNtq9J_FNjXkUPOd8op5Sg&oh=00_AQGOhzrmlVleIBc0y8Gokonyt_HPNETyizv1j4PunOq9DA&oe=6A85F9D3"
+    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=7vjpFTQ7phgQ7kNvwHzHZVR&_nc_oc=Adp0Mt08S2M62Gh6JdJm8P10mzx-etBw10rvMujSu6-QBoanT3aqgMS2tRsUeBvfvRU&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=FQFNyK6TSeMRQMFNvUrdHQ&_nc_tpa=Q5bMBQKRXn6qonVZc2mhjTtVxfU-s13hu6Ad_CRljFUoKu-5WFW5UbSla7rNiCEvQDy2lj5BP56K9AcD0Q&oh=00_AQELaHfKAl8B2FdccUCY-KU3HdH3cJyLy40j6XMqMJbgsQ&oe=6A85F9D3"
   },
   "summary": {
     "followers_count": 0,
-    "views": 1,
+    "views": 16,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 33,
-    "engagement_rate": 3300,
+    "engagement_rate": 206.25,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -97,12 +97,27 @@
   ],
   "recent_posts": [
     {
+      "id": "18104732543182720",
+      "text": "Lagi di titik ngerasa hati belum layak berangkat Umroh — terlalu banyak dosa, terlalu penuh noise di kepala?\nAku juga pe",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DcDhHn7CLja",
+      "timestamp": "2026-08-15T09:01:27+0000",
+      "metrics": {
+        "views": 15,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "18121781863841946",
       "text": "Lagi di titik muhasabah dan tiba-tiba ngerasa... banyak banget yang belum beres dalam diri?\nAku pernah di fase itu — ngi",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DcDJEPPHG2f",
       "timestamp": "2026-08-15T05:31:13+0000",
       "metrics": {
-        "views": 1,
+        "views": 2,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -230,21 +245,6 @@
         "shares": 0
       },
       "engagement": 0
-    },
-    {
-      "id": "18092016995450447",
-      "text": "Dulu aku mikir doa itu harus tenang dulu baru dipanjatkan — nunggu pikiran beres, nunggu hati siap.\nTernyata justru pas ",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DcAMRhQGvlD",
-      "timestamp": "2026-08-14T02:01:33+0000",
-      "metrics": {
-        "views": 43,
-        "likes": 1,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
     }
   ]
 }
