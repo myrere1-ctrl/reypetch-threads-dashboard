@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-08-15T03:57:56.751Z",
+  "updated_at": "2026-08-15T04:51:29.168Z",
   "profile": {
     "username": "iams_ichi",
     "name": "iams",
     "biography": "🧠Psi + Traveling \nSolo Traveler Bunglon\nFine dining 👌 & Street food lokal 🫰\nHidden gems Insider for 🇯🇵🇦🇺🇫🇷🇪🇸🇮🇹 + Umrah.\n✉️ cmo@coa.au",
-    "picture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=gE7cPaYwviAQ7kNvwG4HnD8&_nc_oc=Adpf-Zw45vfFv8bS2OLMcoOykRvhkC6EqJzxUhSaN_1yfGYMijdZMfVEPfWyiA4xsMU&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=aEMZYOJOlXGPfkTpjis5rQ&_nc_tpa=Q5bMBQL-IhAzmGNI19T1jRiBV_8R9S4WGc7K9PPrPjgaCST2u20nZWg2tGduGyeFVMpA1UqCkvzvyBnslw&oh=00_AQEbmv4qfs11ol_cZ0tYqhj25Ofbh2JH5U6zKKdbVgoYFA&oe=6A85D01E"
+    "picture": "https://scontent-fra5-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=gE7cPaYwviAQ7kNvwHgv94f&_nc_oc=Adol4y6nHGeKz15yacQcFL7WSqpGRTppAfwzMLOJ5BikTCvqZLNKkt5Ricr5Pkqf7OA&_nc_zt=24&_nc_ht=scontent-fra5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=ILfCSuxxV1jl0I4MRhAqCg&_nc_tpa=Q5bMBQKmfIwZjHOQdVAc51ZfnK4isn00UsKh_cZH7qcPR5-pNT9tdU0lnKdfexvyggW1xG6sKoI9mB4t2Q&oh=00_AQEp0Cg58A_84BYXlBjGa51pHoJ3gL2a9s5DC-wIwfgMXg&oe=6A85D01E"
   },
   "summary": {
     "followers_count": 1358,
-    "views": 277,
-    "likes": 0,
-    "replies": 1,
+    "views": 400,
+    "likes": 2,
+    "replies": 2,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 42,
-    "engagement_rate": 15.16,
+    "engagement_total": 45,
+    "engagement_rate": 11.25,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -27,7 +27,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Db-NMm2IOzS",
       "timestamp": "2026-08-13T07:31:07+0000",
       "metrics": {
-        "views": 876,
+        "views": 877,
         "likes": 21,
         "replies": 10,
         "reposts": 0,
@@ -50,6 +50,21 @@
         "shares": 0
       },
       "engagement": 5
+    },
+    {
+      "id": "18349307233173915",
+      "text": "Katanya introvert itu susah traveling ke Jepang sendirian — nggak bisa minta tolong, nggak ngerti bahasa, serba canggung",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DcC-w6CEWpo",
+      "timestamp": "2026-08-15T04:01:12+0000",
+      "metrics": {
+        "views": 82,
+        "likes": 2,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 3
     },
     {
       "id": "18350263198169123",
@@ -80,31 +95,31 @@
         "shares": 0
       },
       "engagement": 2
-    },
+    }
+  ],
+  "recent_posts": [
     {
-      "id": "18130034836645142",
-      "text": "Jajan street food di Jepang sendirian itu justru nggak butuh basa-basi.\nLo antri, lo tunjuk, lo bayar — selesai. Nggak a",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DcBeo_hlZGc",
-      "timestamp": "2026-08-14T14:01:15+0000",
+      "id": "18349307233173915",
+      "text": "Katanya introvert itu susah traveling ke Jepang sendirian — nggak bisa minta tolong, nggak ngerti bahasa, serba canggung",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DcC-w6CEWpo",
+      "timestamp": "2026-08-15T04:01:12+0000",
       "metrics": {
-        "views": 6,
-        "likes": 0,
+        "views": 82,
+        "likes": 2,
         "replies": 1,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 1
-    }
-  ],
-  "recent_posts": [
+      "engagement": 3
+    },
     {
       "id": "18034901195832591",
       "text": "Waktu sakura season, orang Jepang nggak hype di sosmed — mereka beneran duduk diem di bawah pohon, makan bekel, dan ngan",
       "permalink": "https://www.threads.com/@iams_ichi/post/DcCmuRCEdGv",
       "timestamp": "2026-08-15T00:31:07+0000",
       "metrics": {
-        "views": 84,
+        "views": 86,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -164,7 +179,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DcAZ-x1lRXT",
       "timestamp": "2026-08-14T04:01:18+0000",
       "metrics": {
-        "views": 42,
+        "views": 43,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -179,7 +194,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DcAB7ctl_Wu",
       "timestamp": "2026-08-14T00:31:10+0000",
       "metrics": {
-        "views": 5,
+        "views": 6,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -194,7 +209,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Db-52pfEX8O",
       "timestamp": "2026-08-13T14:01:19+0000",
       "metrics": {
-        "views": 11,
+        "views": 12,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -224,7 +239,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Db-NMm2IOzS",
       "timestamp": "2026-08-13T07:31:07+0000",
       "metrics": {
-        "views": 876,
+        "views": 877,
         "likes": 21,
         "replies": 10,
         "reposts": 0,
@@ -232,21 +247,6 @@
         "shares": 0
       },
       "engagement": 31
-    },
-    {
-      "id": "18244639165309137",
-      "text": "Dulu mikir sakura season itu puncak kebahagiaan — semua orang foto, semua orang senang, semua orang... bareng orang.\nTer",
-      "permalink": "https://www.threads.com/@iams_ichi/post/Db91MMxDa3A",
-      "timestamp": "2026-08-13T04:01:20+0000",
-      "metrics": {
-        "views": 22,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
     }
   ]
 }
