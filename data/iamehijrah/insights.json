@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-08-15T21:40:42.553Z",
+  "updated_at": "2026-08-15T22:42:50.750Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-atl3-3.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=7vjpFTQ7phgQ7kNvwGUZgkh&_nc_oc=AdoevUnRKKXiSj4F_KFveY5kpTqTRGc__lDkFR1ZLO2yeQAXGS0W5Cdej_lVhmmTw6k&_nc_zt=24&_nc_ht=scontent-atl3-3.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=VOZ5nX2yMnURpK-N2_p6CQ&_nc_tpa=Q5bMBQJMFLGfqGQcB1vGPX3EXyCK4Kvnak2JKuxGM-4pzzMjxohVBsFrxyIbqfNx3y6AQEwQC32vmCvAeQ&oh=00_AQEz4tRHbvWdwaw-d5f-6Q7LuDl8JQ4sWJJYxOLOgrPebg&oe=6A86A293"
+    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=7vjpFTQ7phgQ7kNvwFbwZMT&_nc_oc=AdrKMK_wG_SjV_mRrshi8pDk_n9I_GfNMB67PCf4cLDvl2kweHM04Y6q1OUiwk8jV5s&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=Jrr8zFTMe2Ulk3Fc7yfGvw&_nc_tpa=Q5bMBQKx8Omu_1crnGM9Phd-96nRullIshF5m-fKQHzO0Rk71FgvNiFjygp7QY3aOvHuGODGZVc3l-6SsA&oh=00_AQFoz8oggXdOsP_0gcsVUwO-6qhZWYFGKz2HMTHEAewXiA&oe=6A86A293"
   },
   "summary": {
     "followers_count": 0,
-    "views": 466,
+    "views": 599,
     "likes": 7,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 27,
-    "engagement_rate": 5.79,
+    "engagement_total": 26,
+    "engagement_rate": 4.34,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -97,6 +97,21 @@
   ],
   "recent_posts": [
     {
+      "id": "18003023351971371",
+      "text": "Pernah ngerasa tiba-tiba sadar — udah berapa hari ini shalat cuma gerak, hati ke mana-mana?\nBukan soal banyak dosanya. T",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DcE6X3loMEZ",
+      "timestamp": "2026-08-15T22:01:19+0000",
+      "metrics": {
+        "views": 99,
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
       "id": "18440072815135761",
       "text": "Ada satu dzikir yang aku coba ga skip tiap pagi: Ayatul Kursi + dzikir pagi.\nBukan karena aku selalu konsisten — justru ",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DcEUmLrG8Zu",
@@ -147,7 +162,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DcDyQkhIA8m",
       "timestamp": "2026-08-15T11:31:10+0000",
       "metrics": {
-        "views": 138,
+        "views": 141,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -223,21 +238,6 @@
       "timestamp": "2026-08-14T16:31:18+0000",
       "metrics": {
         "views": 82,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18181111963422019",
-      "text": "Pagi ini bangun telat, badan masih capek, pikiran udah rame duluan.\nTapi terus keinget — masih bisa bangun. Masih dikasi",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DcBiFAcoJr-",
-      "timestamp": "2026-08-14T14:31:18+0000",
-      "metrics": {
-        "views": 33,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
