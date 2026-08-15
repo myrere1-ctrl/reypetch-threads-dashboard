@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-08-15T11:39:36.195Z",
+  "updated_at": "2026-08-15T13:03:26.338Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=7vjpFTQ7phgQ7kNvwFyq0KV&_nc_oc=Adq-P6NUftWWD0Zk5Pv2r6kcan0cr_qWXwAnXnFLMEHOh9R5kM36bcIdqjEXJmJ3Wjw&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=G-REa-YcFMjAewHMvT3lAw&_nc_tpa=Q5bMBQIsICOebksGgbqTagfR7pt6juTeStA7F0sDRmyArX9fmv-sUGz3RHZaupyyFgZIGuEESbE-dpyjVg&oh=00_AQFvG5jE11CBg3Rq5HVw28RBQPt8-XLOsVqkvymrLoE0oQ&oe=6A863213"
+    "picture": "https://scontent-lhr11-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=7vjpFTQ7phgQ7kNvwHEVu1N&_nc_oc=AdpLh1VrqW1eOqxrhN4BfB8K2CC-p6pHIsh-ZY9WQUPpX8c8aOm7XOUDOKbZNNewQAk&_nc_zt=24&_nc_ht=scontent-lhr11-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=hdGf0sGoSqfgwXr93vHz1g&_nc_tpa=Q5bMBQKpCRSXApCcz-t55dytSQNPqat5hxNmZA-19IbP1qbfCLyjBt5O6jUIaz05a37JJDTwdS39hUFoWQ&oh=00_AQF0XghhTkXpx_PlS9tsqm78MzPEid0Si9IoNSqXyFZM0g&oe=6A863213"
   },
   "summary": {
     "followers_count": 0,
-    "views": 31,
-    "likes": 0,
+    "views": 146,
+    "likes": 1,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 31,
-    "engagement_rate": 100,
+    "engagement_total": 28,
+    "engagement_rate": 19.18,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -41,21 +41,6 @@
       "timestamp": "2026-08-13T05:31:22+0000",
       "metrics": {
         "views": 139,
-        "likes": 4,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 4
-    },
-    {
-      "id": "17902303983519756",
-      "text": "Aku lagi sering ulang-ulang baca Doa Tawakkal — yang intinya menyerahkan semua urusan ke Allah sepenuhnya.\nBukan karena ",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Db8D6LBm8HM",
-      "timestamp": "2026-08-12T11:31:28+0000",
-      "metrics": {
-        "views": 153,
         "likes": 4,
         "replies": 0,
         "reposts": 0,
@@ -93,14 +78,29 @@
         "shares": 0
       },
       "engagement": 3
+    },
+    {
+      "id": "18043648565618999",
+      "text": "Dulu aku mikir sedekah itu soal nominal — kalau belum cukup, nunggu dulu.\nTernyata yang bikin hati lega bukan besarnya, ",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Db9MBgklj9L",
+      "timestamp": "2026-08-12T22:01:36+0000",
+      "metrics": {
+        "views": 111,
+        "likes": 1,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 2
     }
   ],
   "recent_posts": [
     {
-      "id": "17985343407027110",
-      "text": "Hari ini baca Surat Al-Waqiah habis Maghrib, dan entah kenapa ngerasa... lega.\nBukan karena langsung tau semua makna dal",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DcDyQkhIA8m",
-      "timestamp": "2026-08-15T11:31:10+0000",
+      "id": "18138189286514273",
+      "text": "Ada satu amalan yang aku jarang skip sebelum tidur: baca Ayat Kursi.\nBukan karena aku selalu ngerti maknanya dalam-dalam",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DcD8krRFQ50",
+      "timestamp": "2026-08-15T13:01:17+0000",
       "metrics": {
         "views": 0,
         "likes": 0,
@@ -110,6 +110,21 @@
         "shares": 0
       },
       "engagement": 0
+    },
+    {
+      "id": "17985343407027110",
+      "text": "Hari ini baca Surat Al-Waqiah habis Maghrib, dan entah kenapa ngerasa... lega.\nBukan karena langsung tau semua makna dal",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DcDyQkhIA8m",
+      "timestamp": "2026-08-15T11:31:10+0000",
+      "metrics": {
+        "views": 115,
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
     },
     {
       "id": "18104732543182720",
@@ -230,21 +245,6 @@
         "shares": 0
       },
       "engagement": 3
-    },
-    {
-      "id": "18173426518434762",
-      "text": "Aku pernah ngerasa takdir itu \"salah\" — ngerasa harusnya beda, harusnya lebih baik dari ini.\nTapi makin ke sini, makin n",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DcA8VnLFnth",
-      "timestamp": "2026-08-14T09:01:30+0000",
-      "metrics": {
-        "views": 14,
-        "likes": 1,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
     }
   ]
 }
