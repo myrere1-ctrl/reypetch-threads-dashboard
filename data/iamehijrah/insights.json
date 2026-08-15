@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-08-15T10:44:00.606Z",
+  "updated_at": "2026-08-15T11:39:36.195Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=7vjpFTQ7phgQ7kNvwHtJREA&_nc_oc=AdoK2I3lTToo6gm5ECDM7WPcsY9sZxwzIiRdaOBcrgwqjc5TueLaAuKzxXitqbtafgo&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=VqwXCZd9SgAjwZYwDcz5CA&_nc_tpa=Q5bMBQJ7j5YIUkGUIBom7wnP35rB1SZTQ9lOcdR4yD_zB7V6k1flBgU-F9ojAuiGhI1NKIJ1AX7lRfgZTw&oh=00_AQHLfmFOm6jTei23vMtGrYtQOv2iQ-uznjoYK2iKf1qwIA&oe=6A85F9D3"
+    "picture": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=7vjpFTQ7phgQ7kNvwFyq0KV&_nc_oc=Adq-P6NUftWWD0Zk5Pv2r6kcan0cr_qWXwAnXnFLMEHOh9R5kM36bcIdqjEXJmJ3Wjw&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=G-REa-YcFMjAewHMvT3lAw&_nc_tpa=Q5bMBQIsICOebksGgbqTagfR7pt6juTeStA7F0sDRmyArX9fmv-sUGz3RHZaupyyFgZIGuEESbE-dpyjVg&oh=00_AQFvG5jE11CBg3Rq5HVw28RBQPt8-XLOsVqkvymrLoE0oQ&oe=6A863213"
   },
   "summary": {
     "followers_count": 0,
-    "views": 27,
+    "views": 31,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 33,
-    "engagement_rate": 122.22,
+    "engagement_total": 31,
+    "engagement_rate": 100,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -70,7 +70,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DcCVl7viQAg",
       "timestamp": "2026-08-14T22:01:26+0000",
       "metrics": {
-        "views": 152,
+        "views": 153,
         "likes": 3,
         "replies": 0,
         "reposts": 0,
@@ -97,12 +97,27 @@
   ],
   "recent_posts": [
     {
+      "id": "17985343407027110",
+      "text": "Hari ini baca Surat Al-Waqiah habis Maghrib, dan entah kenapa ngerasa... lega.\nBukan karena langsung tau semua makna dal",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DcDyQkhIA8m",
+      "timestamp": "2026-08-15T11:31:10+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "18104732543182720",
       "text": "Lagi di titik ngerasa hati belum layak berangkat Umroh — terlalu banyak dosa, terlalu penuh noise di kepala?\nAku juga pe",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DcDhHn7CLja",
       "timestamp": "2026-08-15T09:01:27+0000",
       "metrics": {
-        "views": 25,
+        "views": 29,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -147,7 +162,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DcCVl7viQAg",
       "timestamp": "2026-08-14T22:01:26+0000",
       "metrics": {
-        "views": 152,
+        "views": 153,
         "likes": 3,
         "replies": 0,
         "reposts": 0,
@@ -230,21 +245,6 @@
         "shares": 0
       },
       "engagement": 1
-    },
-    {
-      "id": "17988219885030163",
-      "text": "Dulu aku mikir doa yang belum dijawab itu tanda Allah ga dengerin.\nTernyata nunggu itu bagian dari jawabannya — cuma bed",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DcAkRzoDV5z",
-      "timestamp": "2026-08-14T05:31:17+0000",
-      "metrics": {
-        "views": 60,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
     }
   ]
 }
