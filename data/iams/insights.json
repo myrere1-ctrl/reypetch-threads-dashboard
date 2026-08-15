@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-08-14T23:42:11.303Z",
+  "updated_at": "2026-08-15T01:53:21.811Z",
   "profile": {
     "username": "iams_ichi",
     "name": "iams",
     "biography": "🧠Psi + Traveling \nSolo Traveler Bunglon\nFine dining 👌 & Street food lokal 🫰\nHidden gems Insider for 🇯🇵🇦🇺🇫🇷🇪🇸🇮🇹 + Umrah.\n✉️ cmo@coa.au",
-    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=gE7cPaYwviAQ7kNvwGVnsnm&_nc_oc=AdpTHFovb98P7WR_fkgvAcuVJCah2H_pCCK_X5VAfjrAK3ePtRY7aUc1EFz66Cw5mFY&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=UFHfh2yN3Bt0OTZQF4042Q&_nc_tpa=Q5bMBQLkLYQ24yrtppv_U5FAhjwbk_LRbseSlmnUX3Hk23ef4yNA142KK1tfcHFi6B3sP5dyCjIhEMYJ7w&oh=00_AQHYDIwykIUorIjSqU1LQdtk3uV8Y8pPV2Hg95aRk20iFw&oe=6A855F9E"
+    "picture": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=gE7cPaYwviAQ7kNvwFwTjbh&_nc_oc=AdrgyHKCThxB2OM21wgAo41nfwOWxDpfmOnPFSp9GgfK5_uiLf61Tea2k0GYSeD_mcc&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=lgizdBvF91rbpJpobsQdeQ&_nc_tpa=Q5bMBQKXfReaYRkX4qcFEkCJxxxMQ_R0wn9EySP1L2wdGXLZhzWTdfiVenZN0FJd-DdfU_RcnrFM0WU0Ng&oh=00_AQHwil0UdLjL7u0AiASEPMHwjxK6DbZg6IR3ZYYOlsoMtw&oe=6A8597DE"
   },
   "summary": {
     "followers_count": 1358,
-    "views": 173,
+    "views": 244,
     "likes": 0,
     "replies": 1,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 44,
-    "engagement_rate": 25.43,
+    "engagement_total": 42,
+    "engagement_rate": 17.21,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -82,22 +82,37 @@
       "engagement": 2
     },
     {
-      "id": "18007966853959160",
-      "text": "Dulu mikir rencana detail itu bentuk kontrol — ternyata di Spanyol baru sadar itu bentuk ketakutan.\nYang paling gue nikm",
-      "permalink": "https://www.threads.com/@iams_ichi/post/Db1uvzrmfnU",
-      "timestamp": "2026-08-10T00:31:07+0000",
+      "id": "18130034836645142",
+      "text": "Jajan street food di Jepang sendirian itu justru nggak butuh basa-basi.\nLo antri, lo tunjuk, lo bayar — selesai. Nggak a",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DcBeo_hlZGc",
+      "timestamp": "2026-08-14T14:01:15+0000",
       "metrics": {
-        "views": 368,
-        "likes": 2,
+        "views": 4,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    }
+  ],
+  "recent_posts": [
+    {
+      "id": "18034901195832591",
+      "text": "Waktu sakura season, orang Jepang nggak hype di sosmed — mereka beneran duduk diem di bawah pohon, makan bekel, dan ngan",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DcCmuRCEdGv",
+      "timestamp": "2026-08-15T00:31:07+0000",
+      "metrics": {
+        "views": 66,
+        "likes": 0,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 2
-    }
-  ],
-  "recent_posts": [
+      "engagement": 0
+    },
     {
       "id": "18130034836645142",
       "text": "Jajan street food di Jepang sendirian itu justru nggak butuh basa-basi.\nLo antri, lo tunjuk, lo bayar — selesai. Nggak a",
@@ -225,21 +240,6 @@
       "timestamp": "2026-08-13T04:01:20+0000",
       "metrics": {
         "views": 22,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18617492203046022",
-      "text": "Katanya jajan street food di Jepang itu bikin malu kalau sendirian — nggak ada yang temenin, awkward makan berdiri di pi",
-      "permalink": "https://www.threads.com/@iams_ichi/post/Db9dId4lER8",
-      "timestamp": "2026-08-13T00:31:06+0000",
-      "metrics": {
-        "views": 238,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
