@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-08-15T07:02:09.537Z",
+  "updated_at": "2026-08-15T07:47:23.650Z",
   "profile": {
     "username": "iams_ichi",
     "name": "iams",
     "biography": "🧠Psi + Traveling \nSolo Traveler Bunglon\nFine dining 👌 & Street food lokal 🫰\nHidden gems Insider for 🇯🇵🇦🇺🇫🇷🇪🇸🇮🇹 + Umrah.\n✉️ cmo@coa.au",
-    "picture": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=gE7cPaYwviAQ7kNvwHSjJpp&_nc_oc=Adoml3r7VjR5I4lr6DfS9GgTLFuY1yGzXLIV7iynS4FYZm5jYnPOWh5P1yefpot044A&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=PIv1huOl9Ul7_h5C5MfEYw&_nc_tpa=Q5bMBQJ4yWVJbvmekRuf9VxfOR7YLBLI02vIS2GWs6rkI_yuKqKuYau8Tz8KI-jBpUQZ17YQuH5sTuHCmg&oh=00_AQE_9YyQB5RoM4RWV1RNvSCooBDRmXx9RlwPrF76BuyhnA&oe=6A85D01E"
+    "picture": "https://scontent-fra5-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=gE7cPaYwviAQ7kNvwHhafGd&_nc_oc=Adpj2qpmYiRBkED_hnfbVsEQDNU96XzHz6ZFmBvKTghsiaLjFBX7kpPtmexvKzd3y4I&_nc_zt=24&_nc_ht=scontent-fra5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=GhWFOAYFGpAHuLI_qYvF2Q&_nc_tpa=Q5bMBQKOzAE90nS_weIv39r4jw9JqVT2NLHv9IsqtxkKCF7BTwUir2na2Z2lkedqDPj8TANmRJB8umFZCA&oh=00_AQEhWXmyfg4Q9qRCnLVohitikXoMChTdAHjVhbn71YAehw&oe=6A85D01E"
   },
   "summary": {
     "followers_count": 1358,
-    "views": 0,
+    "views": 5,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 48,
-    "engagement_rate": 0,
+    "engagement_rate": 960,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -27,7 +27,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Db-NMm2IOzS",
       "timestamp": "2026-08-13T07:31:07+0000",
       "metrics": {
-        "views": 877,
+        "views": 878,
         "likes": 21,
         "replies": 10,
         "reposts": 0,
@@ -42,7 +42,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DcC-w6CEWpo",
       "timestamp": "2026-08-15T04:01:12+0000",
       "metrics": {
-        "views": 226,
+        "views": 238,
         "likes": 4,
         "replies": 2,
         "reposts": 0,
@@ -99,12 +99,27 @@
   ],
   "recent_posts": [
     {
+      "id": "17963647172964157",
+      "text": "Unpopular opinion: Osaka itu justru lebih asyik kalau lo dateng tanpa itinerary makan sama sekali.\nLo bakal nyasar ke te",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DcDWyTilvM2",
+      "timestamp": "2026-08-15T07:31:05+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "18349307233173915",
       "text": "Katanya introvert itu susah traveling ke Jepang sendirian — nggak bisa minta tolong, nggak ngerti bahasa, serba canggung",
       "permalink": "https://www.threads.com/@iams_ichi/post/DcC-w6CEWpo",
       "timestamp": "2026-08-15T04:01:12+0000",
       "metrics": {
-        "views": 226,
+        "views": 238,
         "likes": 4,
         "replies": 2,
         "reposts": 0,
@@ -232,21 +247,6 @@
         "shares": 0
       },
       "engagement": 0
-    },
-    {
-      "id": "18159230614488131",
-      "text": "Unpopular opinion: Jepang itu justru lebih enak dinikmati kalau lo nggak ngerti bahasanya sama sekali.\nJadi lo terpaksa ",
-      "permalink": "https://www.threads.com/@iams_ichi/post/Db-NMm2IOzS",
-      "timestamp": "2026-08-13T07:31:07+0000",
-      "metrics": {
-        "views": 877,
-        "likes": 21,
-        "replies": 10,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 31
     }
   ]
 }
