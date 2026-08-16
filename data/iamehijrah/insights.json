@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-08-16T11:40:03.125Z",
+  "updated_at": "2026-08-16T13:05:23.887Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=7vjpFTQ7phgQ7kNvwHW8cnM&_nc_oc=AdqVSQ7ESKVLKu9GPcvkRA2g9Gt8z90C9xP-hp8v66HcNIUE8KqIqXORoUGA_SLpddA&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=ag164CepoNvUp5X4WxlKRA&_nc_tpa=Q5bMBQKqWulluRGRBSD3qWEM7M-GzocKtnUtt97Q8ZwH1G4vRdboq4YcYkAFL4UMvthBwNdo5TWqvQtasQ&oh=00_AQENMNJWptB27YrWMZXdgO34bTwrvFChERhP9SRcGw1xsg&oe=6A878393"
+    "picture": "https://scontent-atl3-3.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=7vjpFTQ7phgQ7kNvwEB6LP9&_nc_oc=AdqhrE96M9-fi-HAiQMa1tT9rxh_U65JQDpC9Y0MxbGIcSHliNcuw1acjM_NiPThoc4&_nc_zt=24&_nc_ht=scontent-atl3-3.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=JQNhBw593W3lxjwGLyXkeA&_nc_tpa=Q5bMBQJtiO-8jhl_AjFAY01iXjhrDOcanSIREJvardOD8COC3Hvt2nQx5cexkC8CVbTn979h_l7RDOQlFA&oh=00_AQGkJU5HAKw9M0asl6EEb1YfPLnVDTTxijs1VbKfKgD1Pw&oe=6A878393"
   },
   "summary": {
     "followers_count": 0,
-    "views": 23,
-    "likes": 0,
+    "views": 56,
+    "likes": 1,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 18,
-    "engagement_rate": 78.26,
+    "engagement_rate": 32.14,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -80,12 +80,12 @@
       "engagement": 2
     },
     {
-      "id": "18003023351971371",
-      "text": "Pernah ngerasa tiba-tiba sadar — udah berapa hari ini shalat cuma gerak, hati ke mana-mana?\nBukan soal banyak dosanya. T",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DcE6X3loMEZ",
-      "timestamp": "2026-08-15T22:01:19+0000",
+      "id": "18106576769150411",
+      "text": "Surat Yasin itu aku baca pas lagi ngerasa berat banget — bukan karena tau semua maknanya, tapi kayak hati minta ditenang",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DcGXD2DjWO3",
+      "timestamp": "2026-08-16T11:31:14+0000",
       "metrics": {
-        "views": 164,
+        "views": 31,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -97,10 +97,10 @@
   ],
   "recent_posts": [
     {
-      "id": "18106576769150411",
-      "text": "Surat Yasin itu aku baca pas lagi ngerasa berat banget — bukan karena tau semua maknanya, tapi kayak hati minta ditenang",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DcGXD2DjWO3",
-      "timestamp": "2026-08-16T11:31:14+0000",
+      "id": "18157878655491288",
+      "text": "Dulu aku mikir Doa Nabi Yunus itu cuma buat orang yang lagi kena musibah besar — yang hidupnya bener-bener gelap.\nTernya",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DcGhXy0G_Y8",
+      "timestamp": "2026-08-16T13:01:20+0000",
       "metrics": {
         "views": 0,
         "likes": 0,
@@ -112,12 +112,27 @@
       "engagement": 0
     },
     {
+      "id": "18106576769150411",
+      "text": "Surat Yasin itu aku baca pas lagi ngerasa berat banget — bukan karena tau semua maknanya, tapi kayak hati minta ditenang",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DcGXD2DjWO3",
+      "timestamp": "2026-08-16T11:31:14+0000",
+      "metrics": {
+        "views": 31,
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
       "id": "18115111820312607",
       "text": "Unpopular opinion: rindu Tanah Suci itu bukan cuma soal belum punya rezeki — kadang udah ada jalannya, tapi hati yang be",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DcGF53Om5Uq",
       "timestamp": "2026-08-16T09:01:18+0000",
       "metrics": {
-        "views": 17,
+        "views": 18,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -162,7 +177,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DcE6X3loMEZ",
       "timestamp": "2026-08-15T22:01:19+0000",
       "metrics": {
-        "views": 164,
+        "views": 165,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -230,21 +245,6 @@
         "shares": 0
       },
       "engagement": 1
-    },
-    {
-      "id": "18104732543182720",
-      "text": "Lagi di titik ngerasa hati belum layak berangkat Umroh — terlalu banyak dosa, terlalu penuh noise di kepala?\nAku juga pe",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DcDhHn7CLja",
-      "timestamp": "2026-08-15T09:01:27+0000",
-      "metrics": {
-        "views": 31,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
     }
   ]
 }
