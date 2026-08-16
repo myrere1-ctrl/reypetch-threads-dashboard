@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-08-16T11:39:13.483Z",
+  "updated_at": "2026-08-16T13:04:32.174Z",
   "profile": {
     "username": "iams_ichi",
     "name": "iams",
     "biography": "🧠Psi + Traveling \nSolo Traveler Bunglon\nFine dining 👌 & Street food lokal 🫰\nHidden gems Insider for 🇯🇵🇦🇺🇫🇷🇪🇸🇮🇹 + Umrah.\n✉️ cmo@coa.au",
-    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=gE7cPaYwviAQ7kNvwGDbnt0&_nc_oc=Adrco_4cI5dDuK7-jN-Y-w454Ihu3FmG8eLgUzvsyyX-IvGu55n8ySWc1WxeVG7QTKw&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=ehOk9OZexCOBrDIgIHFOew&_nc_tpa=Q5bMBQIbzzay0E3VjNctL0mtcaGWGrIOi7In5X2UlD1XCO1YwsPnFwoth3MuS4xfH_AXAwb_m4d7WBr80Q&oh=00_AQHxLCTTlwZs5pLk4_wQlU_OzmFWSX6mvMk17G1aeo32Ag&oe=6A8759DE"
+    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=gE7cPaYwviAQ7kNvwGxGN7w&_nc_oc=Adq7WDYShLRv3hUeK4DuL2mBw9Xvj-kFwqykfUmlubmGZCSS4GPh5iW6LceCmDlKpM4&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=sjvRUam5PNs_DnL-pr6WIg&_nc_tpa=Q5bMBQL8I3RC7LSihqt9rFCu-V_J5DYvrukuYxVdQAPgUEQAhHXJa72q4b9Hfx7eBH6jx3HJNkIeO8xwCg&oh=00_AQGZrS6GE2xWKWbOmeueSwQhSWOOqc_SjTB-6v3p3xeS_Q&oe=6A87921E"
   },
   "summary": {
     "followers_count": 1357,
-    "views": 144,
-    "likes": 1,
+    "views": 205,
+    "likes": 2,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 51,
-    "engagement_rate": 35.42,
+    "engagement_total": 52,
+    "engagement_rate": 25.37,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -52,6 +52,21 @@
       "engagement": 6
     },
     {
+      "id": "17875949328625141",
+      "text": "Dulu mikir autumn leaves Jepang itu soal warna — merah, oranye, kuning, sempurna di foto.\nTernyata yang paling nempel it",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DcFLhggkXL4",
+      "timestamp": "2026-08-16T00:31:10+0000",
+      "metrics": {
+        "views": 104,
+        "likes": 4,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 4
+    },
+    {
       "id": "17963647172964157",
       "text": "Unpopular opinion: Osaka itu justru lebih asyik kalau lo dateng tanpa itinerary makan sama sekali.\nLo bakal nyasar ke te",
       "permalink": "https://www.threads.com/@iams_ichi/post/DcDWyTilvM2",
@@ -65,21 +80,6 @@
         "shares": 0
       },
       "engagement": 4
-    },
-    {
-      "id": "17875949328625141",
-      "text": "Dulu mikir autumn leaves Jepang itu soal warna — merah, oranye, kuning, sempurna di foto.\nTernyata yang paling nempel it",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DcFLhggkXL4",
-      "timestamp": "2026-08-16T00:31:10+0000",
-      "metrics": {
-        "views": 103,
-        "likes": 3,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 3
     },
     {
       "id": "18146389084473796",
@@ -104,7 +104,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DcGTn5hG1N_",
       "timestamp": "2026-08-16T11:01:11+0000",
       "metrics": {
-        "views": 32,
+        "views": 89,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -119,7 +119,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DcF7lDMFaCo",
       "timestamp": "2026-08-16T07:31:04+0000",
       "metrics": {
-        "views": 90,
+        "views": 91,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -149,14 +149,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DcFLhggkXL4",
       "timestamp": "2026-08-16T00:31:10+0000",
       "metrics": {
-        "views": 103,
-        "likes": 3,
+        "views": 104,
+        "likes": 4,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 3
+      "engagement": 4
     },
     {
       "id": "18146389084473796",
