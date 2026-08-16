@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-08-16T04:54:24.772Z",
+  "updated_at": "2026-08-16T05:48:48.929Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-lga3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=7vjpFTQ7phgQ7kNvwGkmxVt&_nc_oc=AdqGIU6uZiv7i0pJiBvoTWAXyOacV2in_HJt1yjg6XTmH01lydC9LBYnENjBrZzLV4g&_nc_zt=24&_nc_ht=scontent-lga3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=KhPY8dPRv2ILercKXZgK5A&_nc_tpa=Q5bMBQK4uqFK2W61llunb8ll6XZDGvWKF0KuMCpLG8SYFENs7Lb4vy10WyDm2vnfF1WVc63dXGO8horR5g&oh=00_AQHop9pBEy_INm3jCseCYWKoS8j4dKtIRMZCJixt5RIccw&oe=6A871313"
+    "picture": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=7vjpFTQ7phgQ7kNvwHBXdTe&_nc_oc=AdoKdthvs8rMSujlO8mlFCgvgCDGwUJ-snyTt8RQv-OrV6GKXvI27i1D7SVX089msbs&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=Qp9C8gvV3_vxsSA_IHCXGQ&_nc_tpa=Q5bMBQJDxgLhvmkxjNeGJ9B2MHwZarWIks9rX5C1beBbsK7pKdDNLsatJChowAHqnyy_GiT1ivvl1Dc_dw&oh=00_AQHeT-QTbIW7GRYLT_m0KddVeuZ3EcjsOATj2cm_JsgnAA&oe=6A871313"
   },
   "summary": {
     "followers_count": 0,
-    "views": 691,
+    "views": 692,
     "likes": 8,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 24,
-    "engagement_rate": 3.47,
+    "engagement_total": 23,
+    "engagement_rate": 3.32,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -97,12 +97,27 @@
   ],
   "recent_posts": [
     {
+      "id": "17907629826466864",
+      "text": "Nenek aku selalu bilang, kalau lagi bingung sama jalan hidup — perbanyak istighfar.\nBukan karena kita salah, tapi supaya",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DcFt26BEfQK",
+      "timestamp": "2026-08-16T05:31:11+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "18612566464043617",
       "text": "Lagi nunggu jawaban doa yang udah lama banget aku ulang-ulang.\nTapi hari ini aku sadar — masih dikasih kesempatan buat b",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DcFV2CygJXI",
       "timestamp": "2026-08-16T02:01:21+0000",
       "metrics": {
-        "views": 50,
+        "views": 51,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -230,21 +245,6 @@
         "shares": 0
       },
       "engagement": 1
-    },
-    {
-      "id": "18099269012363906",
-      "text": "Ibu aku dulu selalu bilang, sholat 5 waktu itu bukan soal kuat atau ga kuat — tapi soal mau balik atau ga.\nWaktu aku nan",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DcCVl7viQAg",
-      "timestamp": "2026-08-14T22:01:26+0000",
-      "metrics": {
-        "views": 154,
-        "likes": 3,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 3
     }
   ]
 }
