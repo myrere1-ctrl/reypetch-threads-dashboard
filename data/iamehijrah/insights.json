@@ -1,24 +1,39 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-08-16T17:39:48.786Z",
+  "updated_at": "2026-08-16T18:51:15.094Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=uJyooxL2OG8Q7kNvwH05ioL&_nc_oc=Adqb6fqcY92fcCEPRlxK4FlaOvBVOtQVr9pIaY7zzj5479dU_C34COXjDs4hYkFPz9E&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=4GXRgURggz-_RSp2uey19A&_nc_tpa=Q5bMBQKok9uD2MFH9qBmbARWgKbpUwxozBsHaZq7VNMahmKbW7FWmr9Wi9IFBikaaCSb5L8XLl_W0olefA&oh=00_AQF1s5ZyJ9Xu6WEyQMo1fdIj8xzB8HmFwFBfGymfx-3a7A&oe=6A87BBD3"
+    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=uJyooxL2OG8Q7kNvwExrOQI&_nc_oc=AdroR6IGerxpHggIxNbO8-ufqpAIANLRWnJEbnS-d52MTPePsqEmbXKsgeN7_IUcyPE&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=XzBh_AJNoOewZHGutDIzsQ&_nc_tpa=Q5bMBQINehTr-1sZe0jbLiznRz74iioKMfOJ9HFPEc3_mJk8y8D6dGEc4cmr3bULb190aTW4v2t4L5yV7A&oh=00_AQGlM895OiP4mGP3V5RTNHIncfAloNBSicWDC4_MYl_GiA&oe=6A87F413"
   },
   "summary": {
     "followers_count": 0,
-    "views": 290,
-    "likes": 3,
+    "views": 313,
+    "likes": 6,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 21,
-    "engagement_rate": 7.24,
+    "engagement_total": 23,
+    "engagement_rate": 7.35,
     "curiosity_score": null,
     "post_count": 25
   },
   "top_posts": [
+    {
+      "id": "18128025550672071",
+      "text": "Ibu aku selalu bilang, kalau ngerasa dunia lagi terlalu berat — baca hauqalah.\nDulu aku ga terlalu paham kenapa. Sekaran",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DcG5Y3lG0ue",
+      "timestamp": "2026-08-16T16:31:13+0000",
+      "metrics": {
+        "views": 80,
+        "likes": 3,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 3
+    },
     {
       "id": "18440072815135761",
       "text": "Ada satu dzikir yang aku coba ga skip tiap pagi: Ayatul Kursi + dzikir pagi.\nBukan karena aku selalu konsisten — justru ",
@@ -78,21 +93,6 @@
         "shares": 0
       },
       "engagement": 2
-    },
-    {
-      "id": "18138189286514273",
-      "text": "Ada satu amalan yang aku jarang skip sebelum tidur: baca Ayat Kursi.\nBukan karena aku selalu ngerti maknanya dalam-dalam",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DcD8krRFQ50",
-      "timestamp": "2026-08-15T13:01:17+0000",
-      "metrics": {
-        "views": 188,
-        "likes": 2,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 2
     }
   ],
   "recent_posts": [
@@ -102,14 +102,14 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DcG5Y3lG0ue",
       "timestamp": "2026-08-16T16:31:13+0000",
       "metrics": {
-        "views": 58,
-        "likes": 1,
+        "views": 80,
+        "likes": 3,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 1
+      "engagement": 3
     },
     {
       "id": "18099996737342212",
