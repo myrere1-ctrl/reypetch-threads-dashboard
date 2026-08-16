@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-08-16T13:47:44.157Z",
+  "updated_at": "2026-08-16T14:43:56.293Z",
   "profile": {
     "username": "iams_ichi",
     "name": "iams",
     "biography": "🧠Psi + Traveling \nSolo Traveler Bunglon\nFine dining 👌 & Street food lokal 🫰\nHidden gems Insider for 🇯🇵🇦🇺🇫🇷🇪🇸🇮🇹 + Umrah.\n✉️ cmo@coa.au",
-    "picture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=gE7cPaYwviAQ7kNvwHZll5p&_nc_oc=AdrZ6d_ZM_GIXAW2u9M2fKXiXqaSAo6ayuExLF6wZ8h8cTcSAGm3IAMVpqeZXzjVvms&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=Zg5YWHIH9i7xUQ7Riv5rVA&_nc_tpa=Q5bMBQI1mHzm3D2Z4EcndPzGoUKtAsnDERPBrxXMJME18TJmfLwA_EZAbF-tFG2EDKhIsalCvJEDSxfJ3Q&oh=00_AQHv7DH4u655pFI9myIMlSp6yKPyaVexbGk745UJoUE3Fg&oe=6A87921E"
+    "picture": "https://scontent-dfw6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=gE7cPaYwviAQ7kNvwHEft2u&_nc_oc=AdqjSz11dDyU7CcpVRp-vtKwqAmcnryBmalJSTOTgLvh8_nDDF_UOeW18SEy3GkIKRo&_nc_zt=24&_nc_ht=scontent-dfw6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=O5Jcvi08rz6Ak1o0shDGvg&_nc_tpa=Q5bMBQKeT7Q6DZaLwYeJLMdowzDIEVhILk7-_W08BwmmvModVbz-gNE9MMxgpGRQxJydOylF0qCKYt7Edg&oh=00_AQFg5DRuncUJoB5PshF0PFqvUoT7ybjFologebjUjl5LtQ&oe=6A87921E"
   },
   "summary": {
     "followers_count": 1357,
-    "views": 214,
+    "views": 236,
     "likes": 2,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 52,
-    "engagement_rate": 24.3,
+    "engagement_total": 51,
+    "engagement_rate": 21.61,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -57,7 +57,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DcFLhggkXL4",
       "timestamp": "2026-08-16T00:31:10+0000",
       "metrics": {
-        "views": 104,
+        "views": 105,
         "likes": 4,
         "replies": 0,
         "reposts": 0,
@@ -99,12 +99,27 @@
   ],
   "recent_posts": [
     {
+      "id": "18225332371322984",
+      "text": "Jam 6 pagi di bawah pohon sakura, masih sepi, dan aku baru sadar — ini bukan tentang bunganya.\nIni tentang lo yang akhir",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DcGoOFWIKaR",
+      "timestamp": "2026-08-16T14:01:10+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "17976657465093265",
       "text": "Dulu mikir jajan street food Jepang sendirian itu momen yang perlu di-enjoy sepenuhnya — foto, kunyah, post.\nTernyata ya",
       "permalink": "https://www.threads.com/@iams_ichi/post/DcGTn5hG1N_",
       "timestamp": "2026-08-16T11:01:11+0000",
       "metrics": {
-        "views": 93,
+        "views": 98,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -119,7 +134,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DcF7lDMFaCo",
       "timestamp": "2026-08-16T07:31:04+0000",
       "metrics": {
-        "views": 91,
+        "views": 92,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -149,7 +164,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DcFLhggkXL4",
       "timestamp": "2026-08-16T00:31:10+0000",
       "metrics": {
-        "views": 104,
+        "views": 105,
         "likes": 4,
         "replies": 0,
         "reposts": 0,
@@ -232,21 +247,6 @@
         "shares": 0
       },
       "engagement": 0
-    },
-    {
-      "id": "18130034836645142",
-      "text": "Jajan street food di Jepang sendirian itu justru nggak butuh basa-basi.\nLo antri, lo tunjuk, lo bayar — selesai. Nggak a",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DcBeo_hlZGc",
-      "timestamp": "2026-08-14T14:01:15+0000",
-      "metrics": {
-        "views": 9,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
     }
   ]
 }
