@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-08-16T02:01:15.720Z",
+  "updated_at": "2026-08-16T03:16:26.908Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=7vjpFTQ7phgQ7kNvwEioyin&_nc_oc=AdoX1sJXGnI-HQdIgYX8gXTbs2otuqdsRC7ZmOXC45v3deMOvXr6Dh-G9XBv03quNpo&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=io41sICi6r9Sl4KgQ7VNUw&_nc_tpa=Q5bMBQLm_9jj6LtalXelrV8qiwta3nUGpG9FWePRYXdyZOR74j9X3MlzyOql_Iocr-8FZ04Zt3piLRouVw&oh=00_AQFpvYghz2CTz04rWjFIOKqLNowkgrKpFoXG9iaqfKbAeQ&oe=6A86DAD3"
+    "picture": "https://scontent-sin6-3.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=7vjpFTQ7phgQ7kNvwHqFcld&_nc_oc=AdqM2rV5uTAulvu3B-u568IhcWf74oQKGGAhehv6Df1ydm2ACeJOC-Dt2kJCewOjQY0&_nc_zt=24&_nc_ht=scontent-sin6-3.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=8gCtooGVWpLV_BiudCaNgw&_nc_tpa=Q5bMBQIrGxyq0z2E8X1BhGGc3OPt6bQ7epe3AN9k9QBygAX22DDkq95DXFFfhdstrz-6HR3iq6Hoe6cv5g&oh=00_AQFHo5DU_1l_hWpYBx7kkesn2pRw0YL5ARaBVlh8mUYoBw&oe=6A871313"
   },
   "summary": {
     "followers_count": 0,
-    "views": 639,
+    "views": 689,
     "likes": 8,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 26,
-    "engagement_rate": 4.07,
+    "engagement_total": 24,
+    "engagement_rate": 3.48,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -96,6 +96,21 @@
     }
   ],
   "recent_posts": [
+    {
+      "id": "18612566464043617",
+      "text": "Lagi nunggu jawaban doa yang udah lama banget aku ulang-ulang.\nTapi hari ini aku sadar — masih dikasih kesempatan buat b",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DcFV2CygJXI",
+      "timestamp": "2026-08-16T02:01:21+0000",
+      "metrics": {
+        "views": 50,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
     {
       "id": "18003023351971371",
       "text": "Pernah ngerasa tiba-tiba sadar — udah berapa hari ini shalat cuma gerak, hati ke mana-mana?\nBukan soal banyak dosanya. T",
@@ -230,21 +245,6 @@
         "shares": 0
       },
       "engagement": 3
-    },
-    {
-      "id": "18101317201966148",
-      "text": "Lagi di titik yang rasanya hati berat banget, pikiran rame, tapi ga tau harus ngapain?\nAku pernah di situ. Dan yang nolo",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DcBvz84FKGf",
-      "timestamp": "2026-08-14T16:31:18+0000",
-      "metrics": {
-        "views": 82,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
     }
   ]
 }
