@@ -1,39 +1,24 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-08-16T08:51:45.827Z",
+  "updated_at": "2026-08-16T09:47:17.783Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=7vjpFTQ7phgQ7kNvwFhXaHU&_nc_oc=AdoPyQO8mG7rBlajKtu4ErZOScS99hQuPT-f8ZOhKULYuKifNN6RTBc3REwqMxEFhBE&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=mf2q3sPdEcJQ0KpvUbaeVw&_nc_tpa=Q5bMBQLetaTKnX0DlQR8YktqRzsSOO1ihjp8U8DJ8kAiFH9oJrEbYJXXZDQnhXPcfo48xCp3l4yHsl8t3Q&oh=00_AQEXYovqFDrEkwpfu0anm_sKoFN_fQSp7w3BsxsrV4EYDQ&oe=6A874B53"
+    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=7vjpFTQ7phgQ7kNvwGdIzIF&_nc_oc=Adr9SIK4UfbtxeU2yu6gF7evlEKlG1Njt4vKHjWHFS1wrWu_M9e2KTI-5oUrTlzj5nQ&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=_T70BQpthKuOcVrJgma7JQ&_nc_tpa=Q5bMBQI2KLhyefam1evr6kv73jvRkWRekn9oH1Q69e7Ju31kfMPf3uATerq_RwmvEpxnMYwyr9cH0SFs5Q&oh=00_AQHPhXQqeUQh5-Kd6QBJPA4zgOtQ9jn5PiU-yLgTSbEFmQ&oe=6A874B53"
   },
   "summary": {
     "followers_count": 0,
-    "views": 4,
+    "views": 20,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 23,
-    "engagement_rate": 575,
+    "engagement_total": 19,
+    "engagement_rate": 95,
     "curiosity_score": null,
     "post_count": 25
   },
   "top_posts": [
-    {
-      "id": "17902954170493072",
-      "text": "Dulu aku mikir ikhlas itu nunggu perasaannya muncul dulu — baru deh niat lillahi ta'ala.\nTernyata justru terbalik. Ikhla",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Db9_ftvkeGQ",
-      "timestamp": "2026-08-13T05:31:22+0000",
-      "metrics": {
-        "views": 139,
-        "likes": 4,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 4
-    },
     {
       "id": "18440072815135761",
       "text": "Ada satu dzikir yang aku coba ga skip tiap pagi: Ayatul Kursi + dzikir pagi.\nBukan karena aku selalu konsisten — justru ",
@@ -93,9 +78,39 @@
         "shares": 0
       },
       "engagement": 2
+    },
+    {
+      "id": "18003023351971371",
+      "text": "Pernah ngerasa tiba-tiba sadar — udah berapa hari ini shalat cuma gerak, hati ke mana-mana?\nBukan soal banyak dosanya. T",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DcE6X3loMEZ",
+      "timestamp": "2026-08-15T22:01:19+0000",
+      "metrics": {
+        "views": 164,
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
     }
   ],
   "recent_posts": [
+    {
+      "id": "18115111820312607",
+      "text": "Unpopular opinion: rindu Tanah Suci itu bukan cuma soal belum punya rezeki — kadang udah ada jalannya, tapi hati yang be",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DcGF53Om5Uq",
+      "timestamp": "2026-08-16T09:01:18+0000",
+      "metrics": {
+        "views": 15,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
     {
       "id": "17907629826466864",
       "text": "Nenek aku selalu bilang, kalau lagi bingung sama jalan hidup — perbanyak istighfar.\nBukan karena kita salah, tapi supaya",
@@ -230,21 +245,6 @@
         "shares": 0
       },
       "engagement": 0
-    },
-    {
-      "id": "18113377696764769",
-      "text": "Kadang ikhlas itu bukan langsung bisa — tapi latihan pelan-pelan.\nHari ini aku coba remind diri sendiri: lakuin semuanya",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DcCxCmlDdQD",
-      "timestamp": "2026-08-15T02:01:17+0000",
-      "metrics": {
-        "views": 12,
-        "likes": 1,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
     }
   ]
 }
