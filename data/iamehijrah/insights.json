@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-08-17T13:57:20.492Z",
+  "updated_at": "2026-08-17T14:50:08.419Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-atl3-3.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=uJyooxL2OG8Q7kNvwFgbwnn&_nc_oc=AdrpkBL34tu33qL6KSUUx9D0Oeh8IQhrb27NNmEVCoGySNqxCYWCnrr2iknAtDR5Dvc&_nc_zt=24&_nc_ht=scontent-atl3-3.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=AR2WVJrH0xXGUIfGBhpg2A&_nc_tpa=Q5bMBQL4zqUVhCJ1Hw5OlDFyN9T1ks0CTx8JG0ZExWAWnK0K0JEuq9MN5GbiFfW29CUzJMzmgvUJetPH2w&oh=00_AQHcNPiIeFLNbbPrqF6XIKnrKdIlfMw-l3xOjCYeu1usjA&oe=6A88D513"
+    "picture": "https://scontent-dfw6-2.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=uJyooxL2OG8Q7kNvwEbwHx4&_nc_oc=Adpy2p3hBTKKwlP5FJVFzp31IvoSBWeEGhYEoIIv70tC545Z1yHboAX99lQK8BXZL50&_nc_zt=24&_nc_ht=scontent-dfw6-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=6q74HW4NyRL6gZB7QYKXbw&_nc_tpa=Q5bMBQJmG3FX4d8XX2d6oAXxWZv3Qfvz0LguznNfzW76YC9_aV2uq2UI04IM7ednjAG4tvBgSu9lC_W5SA&oh=00_AQH1_iAoljfpSGNcVmLuYrCJo2LrqGwm0DB94V1f_2oYXQ&oe=6A890D53"
   },
   "summary": {
     "followers_count": 0,
-    "views": 288,
+    "views": 373,
     "likes": 1,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 23,
-    "engagement_rate": 7.99,
+    "engagement_rate": 6.17,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -25,7 +25,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DcHfLibI835",
       "timestamp": "2026-08-16T22:01:27+0000",
       "metrics": {
-        "views": 195,
+        "views": 198,
         "likes": 5,
         "replies": 0,
         "reposts": 0,
@@ -97,12 +97,27 @@
   ],
   "recent_posts": [
     {
+      "id": "18192269308387319",
+      "text": "Dzikir pagi itu aku sering skip pas lagi buru-buru — niatnya nanti aja, eh udah siang.\nTapi belakangan aku coba duduk se",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DcJQdvNIMyH",
+      "timestamp": "2026-08-17T14:31:19+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "18411476329155862",
       "text": "Malam ini aku tanya ke diri sendiri — udah berapa kali aku istighfar hari ini? Bukan buat ngitung, tapi buat ngecek, seb",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DcJGMRfkVkH",
       "timestamp": "2026-08-17T13:01:34+0000",
       "metrics": {
-        "views": 20,
+        "views": 28,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -132,7 +147,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DcIqtDFkoew",
       "timestamp": "2026-08-17T09:01:22+0000",
       "metrics": {
-        "views": 125,
+        "views": 127,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -177,7 +192,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DcHfLibI835",
       "timestamp": "2026-08-16T22:01:27+0000",
       "metrics": {
-        "views": 195,
+        "views": 198,
         "likes": 5,
         "replies": 0,
         "reposts": 0,
@@ -230,21 +245,6 @@
         "shares": 0
       },
       "engagement": 2
-    },
-    {
-      "id": "18106576769150411",
-      "text": "Surat Yasin itu aku baca pas lagi ngerasa berat banget — bukan karena tau semua maknanya, tapi kayak hati minta ditenang",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DcGXD2DjWO3",
-      "timestamp": "2026-08-16T11:31:14+0000",
-      "metrics": {
-        "views": 63,
-        "likes": 1,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
     }
   ]
 }
