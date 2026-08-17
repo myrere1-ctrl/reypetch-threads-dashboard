@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-08-17T03:15:51.371Z",
+  "updated_at": "2026-08-17T04:07:07.842Z",
   "profile": {
     "username": "iams_ichi",
     "name": "iams",
     "biography": "🧠Psi + Traveling \nSolo Traveler Bunglon\nFine dining 👌 & Street food lokal 🫰\nHidden gems Insider for 🇯🇵🇦🇺🇫🇷🇪🇸🇮🇹 + Umrah.\n✉️ cmo@coa.au",
-    "picture": "https://scontent-lga3-3.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzIifQ%3D%3D&_nc_ohc=gE7cPaYwviAQ7kNvwEofk_s&_nc_oc=AdoYGoPhU-lFJjAk-esDgLzfArYWaTs1y0IGauOl5XVVQbH6MvpiuZZopzoq5wiOqBM&_nc_zt=24&_nc_ht=scontent-lga3-3.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=osWrSUUXmu8LqPOFjlaDFA&_nc_tpa=Q5bMBQLI75t-vApMB8HXYEreKudH2KmR9AaYKhmOy6p3JzTwtjCuD1EK6fTOvQaK1Rk-R4I0AxBnbG7UjA&oh=00_AQEzUN9Pi8jDOE-05DpFRLuuBxkAtknX0S_0g6JpQtiwDA&oe=6A883ADE"
+    "picture": "https://scontent-atl3-2.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=gE7cPaYwviAQ7kNvwEVWR9b&_nc_oc=AdpuZB-HGTZVPOJmqiTqFD-TXl1Eqd51ScvAT_8CerbJ2gxh-IaDo54j9y5qxiTcMts&_nc_zt=24&_nc_ht=scontent-atl3-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=5KK_5PXGrS1LGOhJEpqkPA&_nc_tpa=Q5bMBQJDxwx17Wehf2330YUF1W66ZKKT4tBOsekscLPu4O3_g7W7PSAMmkHkp9aXdqWHnqY98pZtWWfA-w&oh=00_AQHtMk0zhfa5J2t1nIdjM-PfP8zBK5dJr0Z4BcZbD5xmog&oe=6A88731E"
   },
   "summary": {
     "followers_count": 1357,
-    "views": 586,
+    "views": 632,
     "likes": 2,
     "replies": 6,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 57,
-    "engagement_rate": 9.73,
+    "engagement_rate": 9.02,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -42,7 +42,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DcHwTyGGgq5",
       "timestamp": "2026-08-17T00:31:05+0000",
       "metrics": {
-        "views": 282,
+        "views": 349,
         "likes": 0,
         "replies": 6,
         "reposts": 0,
@@ -99,12 +99,27 @@
   ],
   "recent_posts": [
     {
+      "id": "17960734923179632",
+      "text": "Jam 9 malem di Dotonbori, semua orang teriak, lampu gila-gilaan, dan aku baru sadar —\naku sama sekali nggak overwhelmed.",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DcIIXCiDeSI",
+      "timestamp": "2026-08-17T04:01:17+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "18107067509025708",
       "text": "Orang Jepang nggak pernah makan sambil jalan — beli takoyaki di stall, lalu berdiri di situ sampe abis, baru pergi.\nAku ",
       "permalink": "https://www.threads.com/@iams_ichi/post/DcHwTyGGgq5",
       "timestamp": "2026-08-17T00:31:05+0000",
       "metrics": {
-        "views": 282,
+        "views": 349,
         "likes": 0,
         "replies": 6,
         "reposts": 0,
@@ -232,21 +247,6 @@
         "shares": 0
       },
       "engagement": 4
-    },
-    {
-      "id": "18349307233173915",
-      "text": "Katanya introvert itu susah traveling ke Jepang sendirian — nggak bisa minta tolong, nggak ngerti bahasa, serba canggung",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DcC-w6CEWpo",
-      "timestamp": "2026-08-15T04:01:12+0000",
-      "metrics": {
-        "views": 314,
-        "likes": 4,
-        "replies": 2,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 6
     }
   ]
 }
