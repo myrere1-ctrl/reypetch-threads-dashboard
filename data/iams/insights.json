@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-08-16T23:38:05.597Z",
+  "updated_at": "2026-08-17T01:58:01.824Z",
   "profile": {
     "username": "iams_ichi",
     "name": "iams",
     "biography": "🧠Psi + Traveling \nSolo Traveler Bunglon\nFine dining 👌 & Street food lokal 🫰\nHidden gems Insider for 🇯🇵🇦🇺🇫🇷🇪🇸🇮🇹 + Umrah.\n✉️ cmo@coa.au",
-    "picture": "https://scontent-dfw6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=gE7cPaYwviAQ7kNvwGo7JOW&_nc_oc=AdohkVygxyVCIpvVIxCMJre6P1iPQZA5XXKoNI0dcIQOn0-L9XnvIiLWQcsMhk3ShWc&_nc_zt=24&_nc_ht=scontent-dfw6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=nPNUN0danIcTbfAc9XS8Ag&_nc_tpa=Q5bMBQIdC3sksPxdAMQnLSHXbqyKbSEdUS4__Sc7IOv5vO6nbvJpjsMOg9iL7q90ehakCikIFLSuU7z40A&oh=00_AQFbD1naPWvDoK1c2f1CpRAeCAb8qXWCpW0lyaCYstIHBg&oe=6A88029E"
+    "picture": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=gE7cPaYwviAQ7kNvwEipm2V&_nc_oc=AdpZeYU4esgnmWOUeB_lQ4qdlPsxJMNh2m3k0KRdra5hgGiVUNnyz2JPtPCZSE5mVLE&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=oGP9yRVuRU7aHa3QT3gt9w&_nc_tpa=Q5bMBQITwCTDu98WvoXJQBw8QScpVLx6OtNvmVKhplkImH1bvFLkqNaH29_ARgq3foeQasTcC_NdhTZroA&oh=00_AQHXwwoYu3c4zAYxkRaP8ls4lYS-rAePkmYDrvbPUFZqmw&oe=6A883ADE"
   },
   "summary": {
     "followers_count": 1357,
-    "views": 266,
+    "views": 458,
     "likes": 2,
-    "replies": 0,
+    "replies": 2,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 51,
-    "engagement_rate": 19.17,
+    "engagement_total": 53,
+    "engagement_rate": 11.57,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -82,14 +82,14 @@
       "engagement": 4
     },
     {
-      "id": "18146389084473796",
-      "text": "Aku baru sadar — onsen itu bukan soal rileks.\nItu soal lo belajar duduk diam tanpa excuses. Nggak ada HP, nggak ada topi",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DcEDb11FLHB",
-      "timestamp": "2026-08-15T14:01:15+0000",
+      "id": "18107067509025708",
+      "text": "Orang Jepang nggak pernah makan sambil jalan — beli takoyaki di stall, lalu berdiri di situ sampe abis, baru pergi.\nAku ",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DcHwTyGGgq5",
+      "timestamp": "2026-08-17T00:31:05+0000",
       "metrics": {
-        "views": 117,
-        "likes": 1,
-        "replies": 1,
+        "views": 178,
+        "likes": 0,
+        "replies": 2,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
@@ -99,12 +99,27 @@
   ],
   "recent_posts": [
     {
+      "id": "18107067509025708",
+      "text": "Orang Jepang nggak pernah makan sambil jalan — beli takoyaki di stall, lalu berdiri di situ sampe abis, baru pergi.\nAku ",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DcHwTyGGgq5",
+      "timestamp": "2026-08-17T00:31:05+0000",
+      "metrics": {
+        "views": 178,
+        "likes": 0,
+        "replies": 2,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 2
+    },
+    {
       "id": "18225332371322984",
       "text": "Jam 6 pagi di bawah pohon sakura, masih sepi, dan aku baru sadar — ini bukan tentang bunganya.\nIni tentang lo yang akhir",
       "permalink": "https://www.threads.com/@iams_ichi/post/DcGoOFWIKaR",
       "timestamp": "2026-08-16T14:01:10+0000",
       "metrics": {
-        "views": 0,
+        "views": 3,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -119,7 +134,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DcGTn5hG1N_",
       "timestamp": "2026-08-16T11:01:11+0000",
       "metrics": {
-        "views": 98,
+        "views": 100,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -134,7 +149,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DcF7lDMFaCo",
       "timestamp": "2026-08-16T07:31:04+0000",
       "metrics": {
-        "views": 97,
+        "views": 98,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -149,7 +164,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DcFjj0nIOO_",
       "timestamp": "2026-08-16T04:01:12+0000",
       "metrics": {
-        "views": 32,
+        "views": 33,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -232,21 +247,6 @@
         "shares": 0
       },
       "engagement": 6
-    },
-    {
-      "id": "18034901195832591",
-      "text": "Waktu sakura season, orang Jepang nggak hype di sosmed — mereka beneran duduk diem di bawah pohon, makan bekel, dan ngan",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DcCmuRCEdGv",
-      "timestamp": "2026-08-15T00:31:07+0000",
-      "metrics": {
-        "views": 92,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
     }
   ]
 }
