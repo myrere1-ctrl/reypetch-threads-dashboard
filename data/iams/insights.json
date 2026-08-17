@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-08-17T01:58:01.824Z",
+  "updated_at": "2026-08-17T03:15:51.371Z",
   "profile": {
     "username": "iams_ichi",
     "name": "iams",
     "biography": "🧠Psi + Traveling \nSolo Traveler Bunglon\nFine dining 👌 & Street food lokal 🫰\nHidden gems Insider for 🇯🇵🇦🇺🇫🇷🇪🇸🇮🇹 + Umrah.\n✉️ cmo@coa.au",
-    "picture": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=gE7cPaYwviAQ7kNvwEipm2V&_nc_oc=AdpZeYU4esgnmWOUeB_lQ4qdlPsxJMNh2m3k0KRdra5hgGiVUNnyz2JPtPCZSE5mVLE&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=oGP9yRVuRU7aHa3QT3gt9w&_nc_tpa=Q5bMBQITwCTDu98WvoXJQBw8QScpVLx6OtNvmVKhplkImH1bvFLkqNaH29_ARgq3foeQasTcC_NdhTZroA&oh=00_AQHXwwoYu3c4zAYxkRaP8ls4lYS-rAePkmYDrvbPUFZqmw&oe=6A883ADE"
+    "picture": "https://scontent-lga3-3.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzIifQ%3D%3D&_nc_ohc=gE7cPaYwviAQ7kNvwEofk_s&_nc_oc=AdoYGoPhU-lFJjAk-esDgLzfArYWaTs1y0IGauOl5XVVQbH6MvpiuZZopzoq5wiOqBM&_nc_zt=24&_nc_ht=scontent-lga3-3.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=osWrSUUXmu8LqPOFjlaDFA&_nc_tpa=Q5bMBQLI75t-vApMB8HXYEreKudH2KmR9AaYKhmOy6p3JzTwtjCuD1EK6fTOvQaK1Rk-R4I0AxBnbG7UjA&oh=00_AQEzUN9Pi8jDOE-05DpFRLuuBxkAtknX0S_0g6JpQtiwDA&oe=6A883ADE"
   },
   "summary": {
     "followers_count": 1357,
-    "views": 458,
+    "views": 586,
     "likes": 2,
-    "replies": 2,
+    "replies": 6,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 53,
-    "engagement_rate": 11.57,
+    "engagement_total": 57,
+    "engagement_rate": 9.73,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -35,6 +35,21 @@
         "shares": 0
       },
       "engagement": 31
+    },
+    {
+      "id": "18107067509025708",
+      "text": "Orang Jepang nggak pernah makan sambil jalan — beli takoyaki di stall, lalu berdiri di situ sampe abis, baru pergi.\nAku ",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DcHwTyGGgq5",
+      "timestamp": "2026-08-17T00:31:05+0000",
+      "metrics": {
+        "views": 282,
+        "likes": 0,
+        "replies": 6,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 6
     },
     {
       "id": "18349307233173915",
@@ -80,21 +95,6 @@
         "shares": 0
       },
       "engagement": 4
-    },
-    {
-      "id": "18107067509025708",
-      "text": "Orang Jepang nggak pernah makan sambil jalan — beli takoyaki di stall, lalu berdiri di situ sampe abis, baru pergi.\nAku ",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DcHwTyGGgq5",
-      "timestamp": "2026-08-17T00:31:05+0000",
-      "metrics": {
-        "views": 178,
-        "likes": 0,
-        "replies": 2,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 2
     }
   ],
   "recent_posts": [
@@ -104,14 +104,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DcHwTyGGgq5",
       "timestamp": "2026-08-17T00:31:05+0000",
       "metrics": {
-        "views": 178,
+        "views": 282,
         "likes": 0,
-        "replies": 2,
+        "replies": 6,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 2
+      "engagement": 6
     },
     {
       "id": "18225332371322984",
@@ -119,7 +119,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DcGoOFWIKaR",
       "timestamp": "2026-08-16T14:01:10+0000",
       "metrics": {
-        "views": 3,
+        "views": 4,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
