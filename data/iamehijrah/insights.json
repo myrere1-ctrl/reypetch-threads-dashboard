@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-08-17T01:59:13.821Z",
+  "updated_at": "2026-08-17T03:17:22.469Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMiJ9&_nc_ohc=uJyooxL2OG8Q7kNvwEZvDX9&_nc_oc=AdodCjlEa-kkFYznxg86VUS1nep4MEXVS9_8RhCOyCW8Vo-B1_dcu5XkPNQSWZoRC8U&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=G_edWG2P8cHA_bKSY3izzA&_nc_tpa=Q5bMBQLhWxILdE5CU0MuADCRHkBWcOVHs4P0SxEi0mfgFcsKyFDumK8cqif6DtQf_bC9KrmqnqNdsNsjcw&oh=00_AQFesYR2s8WnUu-bYld0x0wtmQeibQHFCNbeClf77i_EAQ&oe=6A882C53"
+    "picture": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=uJyooxL2OG8Q7kNvwFE51dQ&_nc_oc=AdqCBv44HXmxsp1aBJrHAIYhAVT1cL1aqEZUq5LqwBcPqaKadfjSX6stO7U7lyvhk9c&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=2ezD4Ee-1HEqwiVOXotR0w&_nc_tpa=Q5bMBQK_-aPHomn9QXZaajV2MlsKpcLjtr2qG0f5nZaL4u8VNEp6W4aa1Qy6l-I06CnR3McKHGunN30Prw&oh=00_AQEGHp8v7D0YFWEURaXA5PK5kdKCU_8dvkWHrn9JOUa5qQ&oe=6A886493"
   },
   "summary": {
     "followers_count": 0,
-    "views": 512,
+    "views": 548,
     "likes": 11,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 28,
-    "engagement_rate": 5.47,
+    "engagement_total": 27,
+    "engagement_rate": 4.93,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -96,6 +96,21 @@
     }
   ],
   "recent_posts": [
+    {
+      "id": "17991040028993026",
+      "text": "Dulu aku mikir muhasabah itu soal ngitung dosa — bikin malu diri sendiri sampai ngerasa ga layak.\nTernyata bukan itu. Mu",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DcH6osSjSLV",
+      "timestamp": "2026-08-17T02:01:19+0000",
+      "metrics": {
+        "views": 36,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
     {
       "id": "17999800124793222",
       "text": "Pas lagi overthinking parah, aku coba berhenti sebentar — baca doa minta ditenangkan pelan-pelan. Bukan langsung hilang ",
@@ -230,21 +245,6 @@
         "shares": 0
       },
       "engagement": 1
-    },
-    {
-      "id": "18440072815135761",
-      "text": "Ada satu dzikir yang aku coba ga skip tiap pagi: Ayatul Kursi + dzikir pagi.\nBukan karena aku selalu konsisten — justru ",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DcEUmLrG8Zu",
-      "timestamp": "2026-08-15T16:31:13+0000",
-      "metrics": {
-        "views": 103,
-        "likes": 3,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 3
     }
   ]
 }
