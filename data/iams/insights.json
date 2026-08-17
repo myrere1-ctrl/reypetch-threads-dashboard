@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-08-17T13:56:16.513Z",
+  "updated_at": "2026-08-17T14:49:12.892Z",
   "profile": {
     "username": "iams_ichi",
     "name": "iams",
     "biography": "🧠Psi + Traveling \nSolo Traveler Bunglon\nFine dining 👌 & Street food lokal 🫰\nHidden gems Insider for 🇯🇵🇦🇺🇫🇷🇪🇸🇮🇹 + Umrah.\n✉️ cmo@coa.au",
-    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=cZQ96Pnvx8wQ7kNvwFJJW8T&_nc_oc=Adpp0a_qdFhw1RG3_bQ5i0_q0KAFZefQeqCxvG1YaHiSPFHmHxQQZ2n8oaVPstefc98&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=J1Gg5JWzD5Obtd7hlHzehQ&_nc_tpa=Q5bMBQLUjllGUr8jcL9ixNyd9X6DwZwebNaeqm4mRb737RwYrfjs9KRJ50jhnGCfL9Nuij9Lyt_p_pYNDA&oh=00_AQGlckMfgPe_r6L8wtf8CfMBksySNrm4auo1ieLITLnkDQ&oe=6A88E39E"
+    "picture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=cZQ96Pnvx8wQ7kNvwHAYURs&_nc_oc=Adq3mlHo8QII9VRQuenunMRqsJwhk2haffhfXRTMdSvpbY3I3Fa19_G0Qflx1M4-5wM&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=k75etn8jFWwina68LtAxfA&_nc_tpa=Q5bMBQJAR8oEFatEgc8q-6ErFmkzgZQ1mf5Ikn-8kh9VPOHaRz1_ip75Hmsg-5nvfCf_x9KxuQQYJQyhgQ&oh=00_AQHgh9x5Rl29Ay7Q7Bw42xXWw-2_oiW2Yefzk1qPfsI_ug&oe=6A88E39E"
   },
   "summary": {
     "followers_count": 1357,
-    "views": 196,
-    "likes": 1,
+    "views": 262,
+    "likes": 2,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 56,
-    "engagement_rate": 28.57,
+    "engagement_total": 57,
+    "engagement_rate": 21.76,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -42,7 +42,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DcHwTyGGgq5",
       "timestamp": "2026-08-17T00:31:05+0000",
       "metrics": {
-        "views": 443,
+        "views": 445,
         "likes": 0,
         "replies": 6,
         "reposts": 0,
@@ -99,12 +99,27 @@
   ],
   "recent_posts": [
     {
+      "id": "17962898145156922",
+      "text": "Jam 7 pagi di Arashiyama, daun maple udah mulai rontok.\nAku berdiri diam nonton satu daun jatuh — dan itu butuh waktu le",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DcJNCO5G6m1",
+      "timestamp": "2026-08-17T14:01:21+0000",
+      "metrics": {
+        "views": 57,
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
       "id": "18368647324208597",
       "text": "Di onsen, aku perhatiin satu hal — orang Jepang masuk, rendam, diam, keluar.\nNggak ada yang nyeletuk soal air panas, cua",
       "permalink": "https://www.threads.com/@iams_ichi/post/DcI4br0Fmav",
       "timestamp": "2026-08-17T11:01:18+0000",
       "metrics": {
-        "views": 91,
+        "views": 96,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -134,7 +149,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DcIIXCiDeSI",
       "timestamp": "2026-08-17T04:01:17+0000",
       "metrics": {
-        "views": 166,
+        "views": 168,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -149,7 +164,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DcHwTyGGgq5",
       "timestamp": "2026-08-17T00:31:05+0000",
       "metrics": {
-        "views": 443,
+        "views": 445,
         "likes": 0,
         "replies": 6,
         "reposts": 0,
@@ -164,7 +179,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DcGoOFWIKaR",
       "timestamp": "2026-08-16T14:01:10+0000",
       "metrics": {
-        "views": 5,
+        "views": 6,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -232,21 +247,6 @@
         "shares": 0
       },
       "engagement": 4
-    },
-    {
-      "id": "18146389084473796",
-      "text": "Aku baru sadar — onsen itu bukan soal rileks.\nItu soal lo belajar duduk diam tanpa excuses. Nggak ada HP, nggak ada topi",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DcEDb11FLHB",
-      "timestamp": "2026-08-15T14:01:15+0000",
-      "metrics": {
-        "views": 117,
-        "likes": 1,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 2
     }
   ]
 }
