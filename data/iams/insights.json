@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-08-17T07:27:08.758Z",
+  "updated_at": "2026-08-17T09:04:11.850Z",
   "profile": {
     "username": "iams_ichi",
     "name": "iams",
     "biography": "🧠Psi + Traveling \nSolo Traveler Bunglon\nFine dining 👌 & Street food lokal 🫰\nHidden gems Insider for 🇯🇵🇦🇺🇫🇷🇪🇸🇮🇹 + Umrah.\n✉️ cmo@coa.au",
-    "picture": "https://scontent-atl3-2.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=gE7cPaYwviAQ7kNvwGVLaeZ&_nc_oc=AdoCHwlv0xvpbemnzKVb1C3KECSvBBbuqX2-KUAbXegdqA1iiElTawrabTIy8EvoGnU&_nc_zt=24&_nc_ht=scontent-atl3-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=BSvmphiTkZys_KwA_sCL-g&_nc_tpa=Q5bMBQKP1dIh9DYSrTW_WQxGjHZqC5IapfS4X5QoVVbclSN0iRQCmMVffbsifNbh6DF0AXvISZWB3VsNTQ&oh=00_AQHROnFqrLKS6gDVXoUUy_PFX32bDOYkmOTmLV8hOvCeww&oe=6A88731E"
+    "picture": "https://scontent-atl3-2.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=gE7cPaYwviAQ7kNvwFLjJEK&_nc_oc=Ado_WlFgQyyJM-Yt7LqNUO9zL-8H9J2X0hEowbDBClhmgUfN-VDiAmS9uR9LTVuzfmM&_nc_zt=24&_nc_ht=scontent-atl3-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=ih2Vt_QXT91pq247CvmJsw&_nc_tpa=Q5bMBQJECeOiBF-zYkHGQEPYx508t8EHe3nvZV7QFbpBD5SB0rAgWv8RkfDE0wgIDqgLsHj01X9N2kROQQ&oh=00_AQFH1sh-grX0ItAIx0Ol-Rrtmxafx94vCntq9eAWMZA_Lw&oe=6A88AB5E"
   },
   "summary": {
     "followers_count": 1357,
-    "views": 3,
+    "views": 28,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 57,
-    "engagement_rate": 1900,
+    "engagement_rate": 203.57,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -42,7 +42,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DcHwTyGGgq5",
       "timestamp": "2026-08-17T00:31:05+0000",
       "metrics": {
-        "views": 400,
+        "views": 406,
         "likes": 0,
         "replies": 6,
         "reposts": 0,
@@ -99,12 +99,27 @@
   ],
   "recent_posts": [
     {
+      "id": "18615630946028202",
+      "text": "Hokkaido itu tempat pertama yang bikin aku ngerasa \"nggak harus ngapa-ngapain\" — dan itu ternyata yang paling susah dila",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DcIgYYhFoDn",
+      "timestamp": "2026-08-17T07:31:09+0000",
+      "metrics": {
+        "views": 5,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "17960734923179632",
       "text": "Jam 9 malem di Dotonbori, semua orang teriak, lampu gila-gilaan, dan aku baru sadar —\naku sama sekali nggak overwhelmed.",
       "permalink": "https://www.threads.com/@iams_ichi/post/DcIIXCiDeSI",
       "timestamp": "2026-08-17T04:01:17+0000",
       "metrics": {
-        "views": 131,
+        "views": 137,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -119,7 +134,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DcHwTyGGgq5",
       "timestamp": "2026-08-17T00:31:05+0000",
       "metrics": {
-        "views": 400,
+        "views": 406,
         "likes": 0,
         "replies": 6,
         "reposts": 0,
@@ -149,7 +164,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DcGTn5hG1N_",
       "timestamp": "2026-08-16T11:01:11+0000",
       "metrics": {
-        "views": 102,
+        "views": 104,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -232,21 +247,6 @@
         "shares": 0
       },
       "engagement": 0
-    },
-    {
-      "id": "17963647172964157",
-      "text": "Unpopular opinion: Osaka itu justru lebih asyik kalau lo dateng tanpa itinerary makan sama sekali.\nLo bakal nyasar ke te",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DcDWyTilvM2",
-      "timestamp": "2026-08-15T07:31:05+0000",
-      "metrics": {
-        "views": 144,
-        "likes": 4,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 4
     }
   ]
 }
