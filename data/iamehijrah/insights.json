@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-08-18T08:58:13.205Z",
+  "updated_at": "2026-08-18T09:53:42.583Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=uJyooxL2OG8Q7kNvwGkd03O&_nc_oc=Ado2oi78Iwa_hrwJ_5tQN6BJFAMkYeQ-g9w9I3KgLRAYuBPf-MfNT-DdhC3Gh_IDsDk&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=jbPsd3Xvtu5k7cVWGa8h3A&_nc_tpa=Q5bMBQIgayYU0JTNVcBkX3RDW-cJDRWVdw-cbJV2dHULDAvGg9UxbMwyw9SYEGLKF6pwVcyW-en37aX_4g&oh=00_AQFWq_E12Jj2D0R5tDirz9i4aurkCFZMaZzBnOgBcSuHgA&oe=6A89EE53"
+    "picture": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=uJyooxL2OG8Q7kNvwGuLmYJ&_nc_oc=AdpRdVTTaEEoaZx4_EPYZHohdB-Dp_r9QUYGnXHIORZObHXHkdR3hrgLXCcw9g3EMnU&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=yPr-t5BR7AAgIf9ArEM0ww&_nc_tpa=Q5bMBQIfEKnQMRJ1Giq08crVpMUyFSIucZQ6P-6j2De_0_WHSBp5EcPr05waHG8Qs2qX3nWA_rX_D9OLjA&oh=00_AQEOi79ilaRqCbQ3H-VVKrdtTQb0LAN3LVgnYr8T9dJkow&oe=6A89EE53"
   },
   "summary": {
     "followers_count": 0,
-    "views": 3,
+    "views": 40,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 20,
-    "engagement_rate": 666.67,
+    "engagement_rate": 50,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -97,6 +97,21 @@
   ],
   "recent_posts": [
     {
+      "id": "18164350687461027",
+      "text": "Habis Subuh, aku mulai coba rutin baca Surat Yasin pelan-pelan — bukan karena ngerasa kuat, justru sebaliknya.\nEntah ken",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DcLPgtvG7TH",
+      "timestamp": "2026-08-18T09:01:28+0000",
+      "metrics": {
+        "views": 35,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "18126259150780616",
       "text": "Unpopular opinion: rindu Tanah Suci itu bukan tanda kamu udah siap — justru sering datang waktu hati lagi paling beranta",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DcK3dIlCo9o",
@@ -117,7 +132,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DcKfbqAIPZf",
       "timestamp": "2026-08-18T02:01:20+0000",
       "metrics": {
-        "views": 73,
+        "views": 74,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -192,7 +207,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DcI72f8nHLE",
       "timestamp": "2026-08-17T11:31:12+0000",
       "metrics": {
-        "views": 135,
+        "views": 136,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -223,21 +238,6 @@
       "timestamp": "2026-08-17T05:31:23+0000",
       "metrics": {
         "views": 56,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "17991040028993026",
-      "text": "Dulu aku mikir muhasabah itu soal ngitung dosa — bikin malu diri sendiri sampai ngerasa ga layak.\nTernyata bukan itu. Mu",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DcH6osSjSLV",
-      "timestamp": "2026-08-17T02:01:19+0000",
-      "metrics": {
-        "views": 46,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
