@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-08-18T03:12:02.948Z",
+  "updated_at": "2026-08-18T04:02:10.306Z",
   "profile": {
     "username": "iams_ichi",
     "name": "iams",
     "biography": "🧠Psi + Traveling \nSolo Traveler Bunglon\nFine dining 👌 & Street food lokal 🫰\nHidden gems Insider for 🇯🇵🇦🇺🇫🇷🇪🇸🇮🇹 + Umrah.\n✉️ cmo@coa.au",
-    "picture": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=cZQ96Pnvx8wQ7kNvwHxsHj5&_nc_oc=AdoWos8dl5_TfNcARoCcHX5flgPhNvwzrNSNhwiw7o2vpR6LexUvM9FGX5Aho1XWI_4&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=UED_O3VVJXIo1nycL9ZREQ&_nc_tpa=Q5bMBQJNVNCJxQe7JOMn_qIDLmasNEsgOZkMOZ1Ibv5JzppWBHW0RmL67a8Ola6mzTjHnT-mz_F7L6uZjQ&oh=00_AQHw0COWj2MEuMHn9a3gSG7QpgrGQijrZAFtlqBKv97MZQ&oe=6A898C5E"
+    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=cZQ96Pnvx8wQ7kNvwEP_Iu0&_nc_oc=AdrmjXfLSzGJRPWyv1lgM5jJwX3xkN9wMPo8YsI26BR8ASzt5dHh0XI3cw20PdXt4g8&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=ecyOYthMYZl9Zey9pWTWqg&_nc_tpa=Q5bMBQJXJ8pPkUmhKecvsQM9llMlIrtjbfxO0o9n-UPXv5lPbi0NmkIjMq_BEhpD8am820OItHaVe7Il2Q&oh=00_AQFV107wvE13Hfv1sFOr1C_sNBD2_DdTLxm0HaXjY98TRw&oe=6A89C49E"
   },
   "summary": {
     "followers_count": 1357,
-    "views": 522,
+    "views": 525,
     "likes": 3,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 58,
-    "engagement_rate": 11.11,
+    "engagement_rate": 11.05,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -99,12 +99,27 @@
   ],
   "recent_posts": [
     {
+      "id": "18085575854466694",
+      "text": "Kyoto ngajarin aku satu hal yang nggak ada di itinerary manapun:\ncapek itu bukan tanda lo kurang effort — kadang itu tan",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DcKtLcigA-G",
+      "timestamp": "2026-08-18T04:01:27+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "18129866662661448",
       "text": "Tokyo itu kota yang paling gampang bikin planning-mu ambyar — bukan karena membingungkan, tapi karena selalu ada satu ga",
       "permalink": "https://www.threads.com/@iams_ichi/post/DcKVHVDmkhY",
       "timestamp": "2026-08-18T00:31:11+0000",
       "metrics": {
-        "views": 131,
+        "views": 132,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -164,7 +179,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DcIIXCiDeSI",
       "timestamp": "2026-08-17T04:01:17+0000",
       "metrics": {
-        "views": 171,
+        "views": 173,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -232,21 +247,6 @@
         "shares": 0
       },
       "engagement": 1
-    },
-    {
-      "id": "18212607112342344",
-      "text": "Tokyo itu kota yang anehnya nggak pernah bikin aku overwhelmed — padahal ini salah satu kota paling ramai di dunia.\nMung",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DcFjj0nIOO_",
-      "timestamp": "2026-08-16T04:01:12+0000",
-      "metrics": {
-        "views": 33,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
     }
   ]
 }
