@@ -5,9 +5,9 @@ export const config = {
     'Persona travel + food + psikologi. Solo traveler bunglon (kadang bareng bestie). Isi kepala: teori psikologi. Isi koper: baju liburan. Vibe: 20-an, cerdas-casual, introvert-aware.',
   websiteUrl: 'https://reypetch-ai.com',
 
-  postsPerDay: 5,
-  // WIB times, harus consistent dengan catchup script
-  slots: ['07.30', '11.00', '14.30', '18.00', '21.00'],
+  postsPerDay: 3,
+  // WIB times, harus consistent dengan catchup script. 3x/hari, fokus SORE.
+  slots: ['15.00', '16.30', '18.00'],
 
   // Theme rotation: 1 minggu 1 produk. Order = urutan minggu.
   // Week 1: Tomodachi (Jepang), Week 2: Safar (Umroh), Week 3: ViaAI (Eropa)
