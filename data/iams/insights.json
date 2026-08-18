@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-08-18T13:13:05.366Z",
+  "updated_at": "2026-08-18T14:00:13.685Z",
   "profile": {
     "username": "iams_ichi",
     "name": "iams",
     "biography": "🧠Psi + Traveling \nSolo Traveler Bunglon\nFine dining 👌 & Street food lokal 🫰\nHidden gems Insider for 🇯🇵🇦🇺🇫🇷🇪🇸🇮🇹 + Umrah.\n✉️ cmo@coa.au",
-    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=cZQ96Pnvx8wQ7kNvwHx2rPy&_nc_oc=Adrre4AB6ZvLNQqNnCKpxHE2OMILXCwfVRoMpvw-21wIKKR_kTgbKT98exwUx4GCzxA&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=SviEmAVnbrqg4fQdyUm0yw&_nc_tpa=Q5bMBQLspSpIM1tPMb5tQfovARfEnJWKRnrcW2jBVJZ_BiG0MKiP5Flpc7iqAWQ_mS8tI53q4es7eBqA1A&oh=00_AQHg9fy7oeRu6s3Bc-QM-65f8ezyhNs89RAn6nnNeDYoew&oe=6A8A351E"
+    "picture": "https://scontent-fra5-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=cZQ96Pnvx8wQ7kNvwHe9ozX&_nc_oc=AdryqnJzNSW7bJdMLUUzUK5yxovjuYjS3MhuLezeSmMDVs9bKuWk8R_ETfXKoNPplEE&_nc_zt=24&_nc_ht=scontent-fra5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=q7TIpuloifXqn61iNpJbtw&_nc_tpa=Q5bMBQIQFX1wvk8IVQBFp9Ir5SPUEF-siupfM73Fhfn6JVMvqPRkNryNWopsMTV-FmcnT2u0UZEDR9X85A&oh=00_AQHP9m4UCICmUoyJlXW2aeiipJzsWxPDpBgbsDNlTJ0T7g&oe=6A8A351E"
   },
   "summary": {
     "followers_count": 1357,
-    "views": 147,
-    "likes": 2,
+    "views": 211,
+    "likes": 3,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 29,
-    "engagement_rate": 19.73,
+    "engagement_total": 32,
+    "engagement_rate": 15.17,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -52,6 +52,21 @@
       "engagement": 6
     },
     {
+      "id": "17904985530528525",
+      "text": "Sakura season itu bukan di Shinjuku Gyoen atau Ueno — itu udah masuk radar semua orang.\nCoba jalan ke Kagurazaka, belok ",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DcLdPIGlbwF",
+      "timestamp": "2026-08-18T11:01:23+0000",
+      "metrics": {
+        "views": 164,
+        "likes": 5,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 1
+      },
+      "engagement": 5
+    },
+    {
       "id": "17875949328625141",
       "text": "Dulu mikir autumn leaves Jepang itu soal warna — merah, oranye, kuning, sempurna di foto.\nTernyata yang paling nempel it",
       "permalink": "https://www.threads.com/@iams_ichi/post/DcFLhggkXL4",
@@ -80,21 +95,6 @@
         "shares": 0
       },
       "engagement": 4
-    },
-    {
-      "id": "17904985530528525",
-      "text": "Sakura season itu bukan di Shinjuku Gyoen atau Ueno — itu udah masuk radar semua orang.\nCoba jalan ke Kagurazaka, belok ",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DcLdPIGlbwF",
-      "timestamp": "2026-08-18T11:01:23+0000",
-      "metrics": {
-        "views": 117,
-        "likes": 2,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 1
-      },
-      "engagement": 2
     }
   ],
   "recent_posts": [
@@ -104,14 +104,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DcLdPIGlbwF",
       "timestamp": "2026-08-18T11:01:23+0000",
       "metrics": {
-        "views": 117,
-        "likes": 2,
+        "views": 164,
+        "likes": 5,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 1
       },
-      "engagement": 2
+      "engagement": 5
     },
     {
       "id": "18014672918945735",
