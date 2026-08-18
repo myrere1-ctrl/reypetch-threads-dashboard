@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-08-18T04:57:09.208Z",
+  "updated_at": "2026-08-18T05:50:56.336Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-lga3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=uJyooxL2OG8Q7kNvwH9CSz3&_nc_oc=AdolcdKv6Cgum-F1lgrykQrTSNQfinNQzpAux0FPP4NCb9IQ1uzEH_2waIWC7icIoqA&_nc_zt=24&_nc_ht=scontent-lga3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=5y0UtNMC77XgQrlJxuZsvA&_nc_tpa=Q5bMBQIXPYf_jrMJkQFe9Z6f7zN_G8C4H9HowEiharUGPytTXCXs_lxbg0gOM1v1WNHNC9177k08J3MUPw&oh=00_AQFI9kz17ImW14BEFu_E0raCE4vJKrAhh7jQpgc0lALjmQ&oe=6A89B613"
+    "picture": "https://scontent-lhr11-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=uJyooxL2OG8Q7kNvwHI-3QB&_nc_oc=AdqzRNoPLIuKPBcyH3IQePOovB0hu1I55ec3hFE5XPkfceKQXKbX_DToyQfCNSUjJm8&_nc_zt=24&_nc_ht=scontent-lhr11-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=eeyTUjqN7sA-9mv8sNi0WQ&_nc_tpa=Q5bMBQIpKI8oqvCkBLz_DtKTtP1KDS3QF8Zt0NhYK86KxmoaTk4vG6xvfAZa1IJpM5LKmiUm4iaUSfgmkg&oh=00_AQGpZ598vgh-s8zgWHZpjx7m3bikWptHMY4ezRa3Q5QBNQ&oe=6A89B613"
   },
   "summary": {
     "followers_count": 0,
-    "views": 635,
+    "views": 636,
     "likes": 2,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 21,
-    "engagement_rate": 3.31,
+    "engagement_total": 20,
+    "engagement_rate": 3.14,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -97,12 +97,27 @@
   ],
   "recent_posts": [
     {
+      "id": "18126259150780616",
+      "text": "Unpopular opinion: rindu Tanah Suci itu bukan tanda kamu udah siap — justru sering datang waktu hati lagi paling beranta",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DcK3dIlCo9o",
+      "timestamp": "2026-08-18T05:31:18+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "18106398554462344",
       "text": "Nenek aku selalu bilang, kalau lagi ngerasa hidupmu ga sesuai rencana — jangan buru-buru sedih, baca tawakkal pelan-pela",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DcKfbqAIPZf",
       "timestamp": "2026-08-18T02:01:20+0000",
       "metrics": {
-        "views": 65,
+        "views": 68,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -230,21 +245,6 @@
         "shares": 0
       },
       "engagement": 0
-    },
-    {
-      "id": "17999800124793222",
-      "text": "Pas lagi overthinking parah, aku coba berhenti sebentar — baca doa minta ditenangkan pelan-pelan. Bukan langsung hilang ",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DcHfLibI835",
-      "timestamp": "2026-08-16T22:01:27+0000",
-      "metrics": {
-        "views": 206,
-        "likes": 5,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 5
     }
   ]
 }
