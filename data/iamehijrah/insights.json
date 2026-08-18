@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-08-18T13:14:00.996Z",
+  "updated_at": "2026-08-18T14:01:24.502Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-atl3-3.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=uJyooxL2OG8Q7kNvwHk-QJ5&_nc_oc=Adr6LxIchZUsQ8OSyWkTlNXh0nZP4uZo34vKqM1864CDnQtVlPpTdrZoA4bA_ghjtLY&_nc_zt=24&_nc_ht=scontent-atl3-3.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=JpIyY3yUTy9vbVvmEjbnSQ&_nc_tpa=Q5bMBQIH9RcqDY89STUyVOXH5lXK2VlKiIg_6KRrzBJsgbxSPAG_2uoFGU066gvwm_M-8R10bste_aH6sQ&oh=00_AQHMJAStoafXA3aMYGsK7JTblWXwtd0FRFP_7FHLg1EoSA&oe=6A8A2693"
+    "picture": "https://scontent-lga3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=uJyooxL2OG8Q7kNvwESkuxk&_nc_oc=AdqULrc6JYz1bhbg8iFjZeAM9ZwbfjEYj7Y_x249OHj5mWhzI7gK17Xp8bk3sZPxpoQ&_nc_zt=24&_nc_ht=scontent-lga3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=L_GKJp6gj84rxp-QQQlYzw&_nc_tpa=Q5bMBQLX9QxAY_qwSyDayMrEhyl_5YN6iaJ7egmQIM36BXCfhexJMFyCWFayCfX0WLuJMW3J-eECcIGYvg&oh=00_AQH3AKx2LfD-9OByT5jYLnBMqtz1WSPG2UkQaapJ8kIjXQ&oe=6A8A2693"
   },
   "summary": {
     "followers_count": 0,
-    "views": 158,
-    "likes": 6,
+    "views": 245,
+    "likes": 10,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 27,
-    "engagement_rate": 17.09,
+    "engagement_total": 29,
+    "engagement_rate": 11.84,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -25,7 +25,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DcLgp-lFnlG",
       "timestamp": "2026-08-18T11:31:17+0000",
       "metrics": {
-        "views": 106,
+        "views": 118,
         "likes": 7,
         "replies": 0,
         "reposts": 0,
@@ -48,6 +48,21 @@
         "shares": 0
       },
       "engagement": 5
+    },
+    {
+      "id": "17930432325374836",
+      "text": "Ada satu amalan yang aku mulai rutinin belakangan ini — Sholawat Nariyah.\nAwalnya iseng, ikut-ikutan. Tapi makin ke sini",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DcLq_IcG1pc",
+      "timestamp": "2026-08-18T13:01:32+0000",
+      "metrics": {
+        "views": 57,
+        "likes": 3,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 3
     },
     {
       "id": "18128025550672071",
@@ -78,21 +93,6 @@
         "shares": 0
       },
       "engagement": 3
-    },
-    {
-      "id": "18157878655491288",
-      "text": "Dulu aku mikir Doa Nabi Yunus itu cuma buat orang yang lagi kena musibah besar — yang hidupnya bener-bener gelap.\nTernya",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DcGhXy0G_Y8",
-      "timestamp": "2026-08-16T13:01:20+0000",
-      "metrics": {
-        "views": 135,
-        "likes": 2,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 2
     }
   ],
   "recent_posts": [
@@ -102,14 +102,14 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DcLq_IcG1pc",
       "timestamp": "2026-08-18T13:01:32+0000",
       "metrics": {
-        "views": 0,
-        "likes": 1,
+        "views": 57,
+        "likes": 3,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 1
+      "engagement": 3
     },
     {
       "id": "18115794334944471",
@@ -117,7 +117,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DcLgp-lFnlG",
       "timestamp": "2026-08-18T11:31:17+0000",
       "metrics": {
-        "views": 106,
+        "views": 118,
         "likes": 7,
         "replies": 0,
         "reposts": 0,
