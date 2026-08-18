@@ -1,11 +1,11 @@
 {
   "account": "iams",
-  "updated_at": "2026-08-18T07:09:28.267Z",
+  "updated_at": "2026-08-18T07:57:20.254Z",
   "profile": {
     "username": "iams_ichi",
     "name": "iams",
     "biography": "🧠Psi + Traveling \nSolo Traveler Bunglon\nFine dining 👌 & Street food lokal 🫰\nHidden gems Insider for 🇯🇵🇦🇺🇫🇷🇪🇸🇮🇹 + Umrah.\n✉️ cmo@coa.au",
-    "picture": "https://scontent-fra5-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=cZQ96Pnvx8wQ7kNvwGcZjYH&_nc_oc=AdpT58aJqx43IsZ5Jpf-8TSppPnHiShaGb5-gEfKFv3PIKA3PnIcvSyPoICnd2fz9oY&_nc_zt=24&_nc_ht=scontent-fra5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=M4hJUTSBNTLtluRj25Q0Yw&_nc_tpa=Q5bMBQKPFBPpqNu-yHGAzYaXC588GNrS0AXbrV4BCmyXmv2g0hToIpymnWKmu9FbZgdxh7v6RcIiwLv6tg&oh=00_AQGKgWMV2x8uhEjS12Qko1ybIpX5SUtw370xIoqyApCFNw&oe=6A89C49E"
+    "picture": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=cZQ96Pnvx8wQ7kNvwEZRppS&_nc_oc=Adp01T7DSYQyp6ibPf7xXMBqdDDlt20AJfm6amDXKBJcFLhpEBjr4Xmq4Xny6oulqyc&_nc_zt=24&_nc_ht=scontent-ams2-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=b9y-XMt2EwdXbStwJpaZNQ&_nc_tpa=Q5bMBQJbIzq43Z2Lg5rSYucRenbrPIfY69g76Wu_CKXrattNk4swSSI92PSVL7MjXkX3DbdP-0HeRW0sHA&oh=00_AQEbnn_3WRL8wV00ouy1N4upCeX4vHD5BVk7u_g2wg6ycQ&oe=6A89FCDE"
   },
   "summary": {
     "followers_count": 1357,
@@ -15,27 +15,12 @@
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 58,
+    "engagement_total": 27,
     "engagement_rate": 0,
     "curiosity_score": null,
     "post_count": 25
   },
   "top_posts": [
-    {
-      "id": "18159230614488131",
-      "text": "Unpopular opinion: Jepang itu justru lebih enak dinikmati kalau lo nggak ngerti bahasanya sama sekali.\nJadi lo terpaksa ",
-      "permalink": "https://www.threads.com/@iams_ichi/post/Db-NMm2IOzS",
-      "timestamp": "2026-08-13T07:31:07+0000",
-      "metrics": {
-        "views": 880,
-        "likes": 21,
-        "replies": 10,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 31
-    },
     {
       "id": "18107067509025708",
       "text": "Orang Jepang nggak pernah makan sambil jalan — beli takoyaki di stall, lalu berdiri di situ sampe abis, baru pergi.\nAku ",
@@ -95,9 +80,39 @@
         "shares": 0
       },
       "engagement": 4
+    },
+    {
+      "id": "18368647324208597",
+      "text": "Di onsen, aku perhatiin satu hal — orang Jepang masuk, rendam, diam, keluar.\nNggak ada yang nyeletuk soal air panas, cua",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DcI4br0Fmav",
+      "timestamp": "2026-08-17T11:01:18+0000",
+      "metrics": {
+        "views": 106,
+        "likes": 2,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 2
     }
   ],
   "recent_posts": [
+    {
+      "id": "18014672918945735",
+      "text": "Dulu mikir street food Jepang itu soal rasa — dan emang bener, rasanya gila.\nTapi yang nggak aku expect: momen paling be",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DcLFLOxG59i",
+      "timestamp": "2026-08-18T07:31:10+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
     {
       "id": "18085575854466694",
       "text": "Kyoto ngajarin aku satu hal yang nggak ada di itinerary manapun:\ncapek itu bukan tanda lo kurang effort — kadang itu tan",
@@ -232,21 +247,6 @@
         "shares": 0
       },
       "engagement": 0
-    },
-    {
-      "id": "17904650508501885",
-      "text": "Kyoto itu kota yang bikin lo ngerasa guilty kalau jalan cepat.\nBukan karena ada aturannya — tapi semua orang di sini jal",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DcF7lDMFaCo",
-      "timestamp": "2026-08-16T07:31:04+0000",
-      "metrics": {
-        "views": 99,
-        "likes": 1,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
     }
   ]
 }
