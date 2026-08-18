@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-08-18T21:43:20.159Z",
+  "updated_at": "2026-08-18T22:45:40.542Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=uJyooxL2OG8Q7kNvwE1yNua&_nc_oc=AdotMT_FQ73fDcvaIzvHlxqQNvm_15KsbOocwbY2Yo8kfX9fgvUdidPL8c_1B0fV3QM&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=K1ELR_31ePz1r5ecOe11eQ&_nc_tpa=Q5bMBQL6n0JHs8LMNpG_9umvOwqJ7yRpz_3rlKdZEDcDWq1Dqub5XvyCj4rKuL5AHeQhKBcZkp9RaK30-A&oh=00_AQGie6t1Op6bhI3c1uj6ZrrWzNx4ppIsAqbc_67TK1pujQ&oe=6A8A9713"
+    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=uJyooxL2OG8Q7kNvwENiSju&_nc_oc=Adqd2_PcH_VL_jvpPCAyT-F3HiZ4joiiJQtLlMU80dfApqaEeRxZMsYoyQyaMoHVs1Y&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=_8d6hfv9lBqnJv64cDaUwg&_nc_tpa=Q5bMBQJuFor4wtHaKe-D6pye8YsDJupRmilD0a7WasPuKVuoBgYtAk9LFLxDepGa_fOOxU2ftaGwqEgiQg&oh=00_AQGB2zwywdJDWvydcOcSmIdv3_V8zhvibTDMffzvvCmKKA&oe=6A8A9713"
   },
   "summary": {
     "followers_count": 0,
-    "views": 463,
+    "views": 485,
     "likes": 13,
     "replies": 1,
     "reposts": 1,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 32,
-    "engagement_rate": 6.91,
+    "engagement_total": 29,
+    "engagement_rate": 5.98,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -80,22 +80,37 @@
       "engagement": 3
     },
     {
-      "id": "18440072815135761",
-      "text": "Ada satu dzikir yang aku coba ga skip tiap pagi: Ayatul Kursi + dzikir pagi.\nBukan karena aku selalu konsisten — justru ",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DcEUmLrG8Zu",
-      "timestamp": "2026-08-15T16:31:13+0000",
+      "id": "18026300093904841",
+      "text": "Ibu aku selalu bilang, kalau ngerasa capek banget sama hidup — jangan lupa ucap La Hawla Wala Quwwata Illa Billah.\nDulu ",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DcL1QA2HEzG",
+      "timestamp": "2026-08-18T14:31:14+0000",
       "metrics": {
-        "views": 103,
-        "likes": 3,
+        "views": 104,
+        "likes": 2,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 3
+      "engagement": 2
     }
   ],
   "recent_posts": [
+    {
+      "id": "18012287240938492",
+      "text": "Doanya udah lama banget — tapi belum ada jawaban yang keliatan.\nHari ini aku coba sadar satu hal kecil: masih bisa bangu",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DcMowiSkjGb",
+      "timestamp": "2026-08-18T22:01:19+0000",
+      "metrics": {
+        "views": 21,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
     {
       "id": "17907807249463240",
       "text": "Sabar itu... aku masih belajar. Bukan yang pasrah diem, tapi yang tetep jalan sambil hati bilang \"Allah pasti tau yang t",
@@ -230,21 +245,6 @@
         "shares": 0
       },
       "engagement": 1
-    },
-    {
-      "id": "18192269308387319",
-      "text": "Dzikir pagi itu aku sering skip pas lagi buru-buru — niatnya nanti aja, eh udah siang.\nTapi belakangan aku coba duduk se",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DcJQdvNIMyH",
-      "timestamp": "2026-08-17T14:31:19+0000",
-      "metrics": {
-        "views": 113,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
     }
   ]
 }
