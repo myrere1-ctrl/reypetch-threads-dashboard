@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-08-18T14:57:13.070Z",
+  "updated_at": "2026-08-18T15:52:09.055Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=uJyooxL2OG8Q7kNvwE-S9Ka&_nc_oc=AdriXE_WkxXWFPlviARBZDyJ9JKLZb3WzIgywPaOr9mpYSCz8WLHR8N8BRHs0Mp5n5U&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=fILDx7uwuV86Etkh4THAlg&_nc_tpa=Q5bMBQJAYDDKrUClM1AK_lPwNy6AXFOQuzTphrkVVlxKBHDEHwT8hVY3jPRZa3HtduFysns8w4TkjASSjQ&oh=00_AQGUR4cw9Zu6oBAmmOf6cyihQebjFnrMl-62PCLD-aRhKA&oe=6A8A5ED3"
+    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=uJyooxL2OG8Q7kNvwGftM8g&_nc_oc=AdrbftZmSLnDNPg_DAhkmp0J5WFQS3pW26An-iP5V_b9oD8WjUWtr9vzjgr9UqYcruk&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=RQZNSmJSas_Cll75-1Gmxg&_nc_tpa=Q5bMBQLsEtphN-pnurORN-KXCeJ7IcIIXmZJP4xZ-LMpvEKqDrFEqD39D7F2XeZ8NURGxA3tXVZZkw0Uag&oh=00_AQEie2zGCryswKZI6bFtsrvjKlhwkkhOYxpvW0e1iRramA&oe=6A8A5ED3"
   },
   "summary": {
     "followers_count": 0,
-    "views": 375,
-    "likes": 12,
-    "replies": 0,
+    "views": 405,
+    "likes": 13,
+    "replies": 1,
     "reposts": 1,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 31,
-    "engagement_rate": 8.27,
+    "engagement_total": 32,
+    "engagement_rate": 7.9,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -25,7 +25,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DcLgp-lFnlG",
       "timestamp": "2026-08-18T11:31:17+0000",
       "metrics": {
-        "views": 127,
+        "views": 129,
         "likes": 7,
         "replies": 0,
         "reposts": 0,
@@ -40,7 +40,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DcLq_IcG1pc",
       "timestamp": "2026-08-18T13:01:32+0000",
       "metrics": {
-        "views": 88,
+        "views": 107,
         "likes": 4,
         "replies": 1,
         "reposts": 1,
@@ -102,14 +102,14 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DcL1QA2HEzG",
       "timestamp": "2026-08-18T14:31:14+0000",
       "metrics": {
-        "views": 0,
-        "likes": 1,
+        "views": 104,
+        "likes": 2,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 1
+      "engagement": 2
     },
     {
       "id": "17930432325374836",
@@ -117,7 +117,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DcLq_IcG1pc",
       "timestamp": "2026-08-18T13:01:32+0000",
       "metrics": {
-        "views": 88,
+        "views": 107,
         "likes": 4,
         "replies": 1,
         "reposts": 1,
@@ -132,7 +132,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DcLgp-lFnlG",
       "timestamp": "2026-08-18T11:31:17+0000",
       "metrics": {
-        "views": 127,
+        "views": 129,
         "likes": 7,
         "replies": 0,
         "reposts": 0,
@@ -147,7 +147,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DcLPgtvG7TH",
       "timestamp": "2026-08-18T09:01:28+0000",
       "metrics": {
-        "views": 41,
+        "views": 42,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
