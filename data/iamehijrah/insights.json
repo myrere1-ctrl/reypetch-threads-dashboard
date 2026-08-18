@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-08-18T10:51:37.568Z",
+  "updated_at": "2026-08-18T11:46:20.528Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=uJyooxL2OG8Q7kNvwGEmhzQ&_nc_oc=Adr0ib_Bs7789t1-UE7DJPwgaRmYeF8W7avUl6G42lnIwfDrBV_pKvlA2Tk8NKuMcE8&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=NWzbarVJOPFi99OkiisDjw&_nc_tpa=Q5bMBQKgtZh_CdVO-RDWkasFFokhpyK6gqCDBr40zTcolEzGUbZshM8PMO42Cj9WYcD_G6YXVzBrHLx8XA&oh=00_AQE6t308_s_s7CNNSH0aou822ToCwFtuno_xSJ5sGhuUsA&oe=6A8A2693"
+    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=uJyooxL2OG8Q7kNvwG4MBnI&_nc_oc=AdppJqxHKgEaPEmMi-LgcqZmCja5WBF1yZUXU433SupX8n8Lu7Yf4FH1DfY2DKqciWQ&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=m5cntzyNmSH48Rov8SVoPQ&_nc_tpa=Q5bMBQJPFjqbcGMu8VzAljj2hzC91vUweesJtDgKBn4Lfb7vVWwA6Yq1-JzcWyifUjiSJ5NQqxt_2ag85w&oh=00_AQG-sUyUKLkr7FVU5i2aNscyaq0QsRk8XSTd57QaVuOcjQ&oe=6A8A2693"
   },
   "summary": {
     "followers_count": 0,
-    "views": 49,
-    "likes": 0,
+    "views": 65,
+    "likes": 1,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 20,
-    "engagement_rate": 40.82,
+    "engagement_total": 22,
+    "engagement_rate": 33.85,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -65,6 +65,21 @@
       "engagement": 3
     },
     {
+      "id": "18115794334944471",
+      "text": "Kalau lagi ngerasa terpuruk banget dan ga tau harus mulai dari mana — aku biasanya balik ke Doa Nabi Yunus.\nDoa yang dib",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DcLgp-lFnlG",
+      "timestamp": "2026-08-18T11:31:17+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 2,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 2
+    },
+    {
       "id": "18157878655491288",
       "text": "Dulu aku mikir Doa Nabi Yunus itu cuma buat orang yang lagi kena musibah besar — yang hidupnya bener-bener gelap.\nTernya",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DcGhXy0G_Y8",
@@ -78,14 +93,16 @@
         "shares": 0
       },
       "engagement": 2
-    },
+    }
+  ],
+  "recent_posts": [
     {
-      "id": "18138189286514273",
-      "text": "Ada satu amalan yang aku jarang skip sebelum tidur: baca Ayat Kursi.\nBukan karena aku selalu ngerti maknanya dalam-dalam",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DcD8krRFQ50",
-      "timestamp": "2026-08-15T13:01:17+0000",
+      "id": "18115794334944471",
+      "text": "Kalau lagi ngerasa terpuruk banget dan ga tau harus mulai dari mana — aku biasanya balik ke Doa Nabi Yunus.\nDoa yang dib",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DcLgp-lFnlG",
+      "timestamp": "2026-08-18T11:31:17+0000",
       "metrics": {
-        "views": 188,
+        "views": 0,
         "likes": 2,
         "replies": 0,
         "reposts": 0,
@@ -93,16 +110,14 @@
         "shares": 0
       },
       "engagement": 2
-    }
-  ],
-  "recent_posts": [
+    },
     {
       "id": "18164350687461027",
       "text": "Habis Subuh, aku mulai coba rutin baca Surat Yasin pelan-pelan — bukan karena ngerasa kuat, justru sebaliknya.\nEntah ken",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DcLPgtvG7TH",
       "timestamp": "2026-08-18T09:01:28+0000",
       "metrics": {
-        "views": 39,
+        "views": 41,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -117,7 +132,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DcK3dIlCo9o",
       "timestamp": "2026-08-18T05:31:18+0000",
       "metrics": {
-        "views": 129,
+        "views": 130,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -230,21 +245,6 @@
         "shares": 0
       },
       "engagement": 1
-    },
-    {
-      "id": "18157151293434424",
-      "text": "Kadang yang bikin belum siap Umroh bukan soal biaya — tapi nanya ke diri sendiri, hati ini udah beneran mau berangkat, a",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DcISrFBmCCO",
-      "timestamp": "2026-08-17T05:31:23+0000",
-      "metrics": {
-        "views": 56,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
     }
   ]
 }
