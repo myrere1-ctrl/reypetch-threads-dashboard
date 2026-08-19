@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-08-19T01:56:21.144Z",
+  "updated_at": "2026-08-19T03:13:56.842Z",
   "profile": {
     "username": "iams_ichi",
     "name": "iams",
     "biography": "🧠Psi + Traveling \nSolo Traveler Bunglon\nFine dining 👌 & Street food lokal 🫰\nHidden gems Insider for 🇯🇵🇦🇺🇫🇷🇪🇸🇮🇹 + Umrah.\n✉️ cmo@coa.au",
-    "picture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=cZQ96Pnvx8wQ7kNvwEgwAu_&_nc_oc=Adp8hFNQpLNP2aFnYIurvEwqVwxXwuOQ2YESEKvsOzwftDbSQIFaTbA4A8NAeJxqisA&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=3nvY5AktIFPfr0aylsJipQ&_nc_tpa=Q5bMBQJ1QQrHnxTiW5a1Sm0LEP5wCv9rouz0-NrNe1ytzpJ7dr5ZrjjCmv1v2uceqO4LNBV-gg_WESyc5w&oh=00_AQEaSJWcTYxtHVy3CAdVgV4UsyHDziRzoQzv5RQnTvJFEA&oe=6A8ADDDE"
+    "picture": "https://scontent-atl3-2.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=cZQ96Pnvx8wQ7kNvwHx5b8q&_nc_oc=AdpfFWM6Gwy24Yc1Eq68cfq_chVnNqV47bvT4863j69wHJLaJZErxtwhqYQVhwO2QP8&_nc_zt=24&_nc_ht=scontent-atl3-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=Qmw9wqgW8z_D1QAkqRdyHA&_nc_tpa=Q5bMBQJJmtLlx5sOn6KxwV3wLXhN4s-N8IObWMXYZR8MbmDTgerd7-DApT_i2iIDwaCAdzdxx7TKY9nxAg&oh=00_AQG8LmHiTs6eA-BnDaBIkRGNn5dUuXxRDwtzUQkO1ywPQg&oe=6A8ADDDE"
   },
   "summary": {
     "followers_count": 1356,
-    "views": 650,
-    "likes": 10,
+    "views": 656,
+    "likes": 11,
     "replies": 1,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 38,
-    "engagement_rate": 5.85,
+    "engagement_total": 39,
+    "engagement_rate": 5.95,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -52,12 +52,27 @@
       "engagement": 6
     },
     {
+      "id": "18069918425477736",
+      "text": "Dulu mikir sendirian di Jepang itu butuh keberanian lebih.\nTernyata yang lebih susah: nggak merasa harus justify kenapa ",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DcLzgbZoOH-",
+      "timestamp": "2026-08-18T14:16:00+0000",
+      "metrics": {
+        "views": 183,
+        "likes": 4,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 5
+    },
+    {
       "id": "17904985530528525",
       "text": "Sakura season itu bukan di Shinjuku Gyoen atau Ueno — itu udah masuk radar semua orang.\nCoba jalan ke Kagurazaka, belok ",
       "permalink": "https://www.threads.com/@iams_ichi/post/DcLdPIGlbwF",
       "timestamp": "2026-08-18T11:01:23+0000",
       "metrics": {
-        "views": 246,
+        "views": 249,
         "likes": 5,
         "replies": 0,
         "reposts": 0,
@@ -65,21 +80,6 @@
         "shares": 1
       },
       "engagement": 5
-    },
-    {
-      "id": "18069918425477736",
-      "text": "Dulu mikir sendirian di Jepang itu butuh keberanian lebih.\nTernyata yang lebih susah: nggak merasa harus justify kenapa ",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DcLzgbZoOH-",
-      "timestamp": "2026-08-18T14:16:00+0000",
-      "metrics": {
-        "views": 181,
-        "likes": 3,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 4
     },
     {
       "id": "17875949328625141",
@@ -104,14 +104,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DcLzgbZoOH-",
       "timestamp": "2026-08-18T14:16:00+0000",
       "metrics": {
-        "views": 181,
-        "likes": 3,
+        "views": 183,
+        "likes": 4,
         "replies": 1,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 4
+      "engagement": 5
     },
     {
       "id": "18112994422973760",
@@ -134,7 +134,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DcLdPIGlbwF",
       "timestamp": "2026-08-18T11:01:23+0000",
       "metrics": {
-        "views": 246,
+        "views": 249,
         "likes": 5,
         "replies": 0,
         "reposts": 0,
