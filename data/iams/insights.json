@@ -1,26 +1,41 @@
 {
   "account": "iams",
-  "updated_at": "2026-08-19T07:56:54.053Z",
+  "updated_at": "2026-08-19T08:58:25.650Z",
   "profile": {
     "username": "iams_ichi",
     "name": "iams",
     "biography": "🧠Psi + Traveling \nSolo Traveler Bunglon\nFine dining 👌 & Street food lokal 🫰\nHidden gems Insider for 🇯🇵🇦🇺🇫🇷🇪🇸🇮🇹 + Umrah.\n✉️ cmo@coa.au",
-    "picture": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=cZQ96Pnvx8wQ7kNvwF7TPPt&_nc_oc=Ado_04d9V_roMUrjmVrA5G2i3ZhMjDsPXrdmUFG1IvCZrgyB0kkysYAF6Qrpy63Ehfw&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=mcfj9mN1SWBHfrfgB0XqHg&_nc_tpa=Q5bMBQJoFs1WpMlx6p0VG9Tn5d6hUGOr3gFiEBG8eZQGIMKk5JtC3ZT0bGbs0cBCWlM-FfqoETHcKh4Pbg&oh=00_AQH_KaHl-MhEi7zlfx3m2m8wdD_Ny47VR--0uW1uI7JghQ&oe=6A8B4E5E"
+    "picture": "https://scontent-fra5-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=cZQ96Pnvx8wQ7kNvwEXKZzt&_nc_oc=Adq1uizGeMIKYhPpNbCgNoN5rZGW4RKf4amwbEmuoJSdfIgNrvsvlYFVXeerq4eI6Bc&_nc_zt=24&_nc_ht=scontent-fra5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=pEVUOPDcKEiiVqf7euK3zA&_nc_tpa=Q5bMBQKTQFgIFl7RcXaDl7TS2SQbtFf7SKAVxuwEKwNdTP3-qjtdeg48B_qfzMY9lqbcsOTC3eH_4zalrw&oh=00_AQGFCRHwj-lsGkBCnVUFniPLqlGQT9dSNyNYkz9KchArCA&oe=6A8B4E5E"
   },
   "summary": {
-    "followers_count": 1356,
-    "views": 4,
-    "likes": 0,
-    "replies": 0,
+    "followers_count": 1357,
+    "views": 100,
+    "likes": 2,
+    "replies": 1,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 39,
-    "engagement_rate": 975,
+    "engagement_total": 42,
+    "engagement_rate": 42,
     "curiosity_score": null,
     "post_count": 25
   },
   "top_posts": [
+    {
+      "id": "18069918425477736",
+      "text": "Dulu mikir sendirian di Jepang itu butuh keberanian lebih.\nTernyata yang lebih susah: nggak merasa harus justify kenapa ",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DcLzgbZoOH-",
+      "timestamp": "2026-08-18T14:16:00+0000",
+      "metrics": {
+        "views": 197,
+        "likes": 5,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 6
+    },
     {
       "id": "18107067509025708",
       "text": "Orang Jepang nggak pernah makan sambil jalan — beli takoyaki di stall, lalu berdiri di situ sampe abis, baru pergi.\nAku ",
@@ -50,21 +65,6 @@
         "shares": 0
       },
       "engagement": 6
-    },
-    {
-      "id": "18069918425477736",
-      "text": "Dulu mikir sendirian di Jepang itu butuh keberanian lebih.\nTernyata yang lebih susah: nggak merasa harus justify kenapa ",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DcLzgbZoOH-",
-      "timestamp": "2026-08-18T14:16:00+0000",
-      "metrics": {
-        "views": 194,
-        "likes": 4,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 5
     },
     {
       "id": "17904985530528525",
@@ -99,19 +99,34 @@
   ],
   "recent_posts": [
     {
-      "id": "18069918425477736",
-      "text": "Dulu mikir sendirian di Jepang itu butuh keberanian lebih.\nTernyata yang lebih susah: nggak merasa harus justify kenapa ",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DcLzgbZoOH-",
-      "timestamp": "2026-08-18T14:16:00+0000",
+      "id": "18143366980517856",
+      "text": "Jam 2 siang di Kuromon Market, matahari gila, dan aku baru sadar — aku udah muter 3 kali ke lapak yang sama cuma karena ",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DcNta0Tlp_z",
+      "timestamp": "2026-08-19T08:01:16+0000",
       "metrics": {
-        "views": 194,
-        "likes": 4,
+        "views": 41,
+        "likes": 1,
         "replies": 1,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 5
+      "engagement": 2
+    },
+    {
+      "id": "18069918425477736",
+      "text": "Dulu mikir sendirian di Jepang itu butuh keberanian lebih.\nTernyata yang lebih susah: nggak merasa harus justify kenapa ",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DcLzgbZoOH-",
+      "timestamp": "2026-08-18T14:16:00+0000",
+      "metrics": {
+        "views": 197,
+        "likes": 5,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 6
     },
     {
       "id": "18112994422973760",
@@ -119,7 +134,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DcLx1dMm_hs",
       "timestamp": "2026-08-18T14:01:23+0000",
       "metrics": {
-        "views": 161,
+        "views": 162,
         "likes": 2,
         "replies": 0,
         "reposts": 0,
@@ -164,7 +179,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DcKtLcigA-G",
       "timestamp": "2026-08-18T04:01:27+0000",
       "metrics": {
-        "views": 109,
+        "views": 110,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -209,7 +224,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DcI4br0Fmav",
       "timestamp": "2026-08-17T11:01:18+0000",
       "metrics": {
-        "views": 108,
+        "views": 109,
         "likes": 2,
         "replies": 0,
         "reposts": 0,
@@ -225,21 +240,6 @@
       "timestamp": "2026-08-17T07:31:09+0000",
       "metrics": {
         "views": 7,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "17960734923179632",
-      "text": "Jam 9 malem di Dotonbori, semua orang teriak, lampu gila-gilaan, dan aku baru sadar —\naku sama sekali nggak overwhelmed.",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DcIIXCiDeSI",
-      "timestamp": "2026-08-17T04:01:17+0000",
-      "metrics": {
-        "views": 173,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
