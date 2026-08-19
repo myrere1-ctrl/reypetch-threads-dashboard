@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-08-19T08:58:25.650Z",
+  "updated_at": "2026-08-19T09:53:07.351Z",
   "profile": {
     "username": "iams_ichi",
     "name": "iams",
     "biography": "🧠Psi + Traveling \nSolo Traveler Bunglon\nFine dining 👌 & Street food lokal 🫰\nHidden gems Insider for 🇯🇵🇦🇺🇫🇷🇪🇸🇮🇹 + Umrah.\n✉️ cmo@coa.au",
-    "picture": "https://scontent-fra5-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=cZQ96Pnvx8wQ7kNvwEXKZzt&_nc_oc=Adq1uizGeMIKYhPpNbCgNoN5rZGW4RKf4amwbEmuoJSdfIgNrvsvlYFVXeerq4eI6Bc&_nc_zt=24&_nc_ht=scontent-fra5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=pEVUOPDcKEiiVqf7euK3zA&_nc_tpa=Q5bMBQKTQFgIFl7RcXaDl7TS2SQbtFf7SKAVxuwEKwNdTP3-qjtdeg48B_qfzMY9lqbcsOTC3eH_4zalrw&oh=00_AQGFCRHwj-lsGkBCnVUFniPLqlGQT9dSNyNYkz9KchArCA&oe=6A8B4E5E"
+    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=cZQ96Pnvx8wQ7kNvwFfN_CK&_nc_oc=AdrKmgB-Y24iHWAC8KvxlKPrj3BvkvevKVut30lYFp_GeaQwy1iicDvg-TUlLFmZdTA&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=5IyxfkasomW4aea5vwl0xA&_nc_tpa=Q5bMBQLmH3GReaIp9nz27e4TiiBotvYatZURDxnwXRqIzUjlK3FPAZ3sSNaTRmyRTUUmbOUluJvG9jQ48A&oh=00_AQF1dAKCCLMyc7tXcTxj66ZrIPllKfrp04Sv45lqitWQ8A&oe=6A8B4E5E"
   },
   "summary": {
     "followers_count": 1357,
-    "views": 100,
+    "views": 270,
     "likes": 2,
-    "replies": 1,
+    "replies": 2,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 42,
-    "engagement_rate": 42,
+    "engagement_total": 45,
+    "engagement_rate": 16.67,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -72,7 +72,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DcLdPIGlbwF",
       "timestamp": "2026-08-18T11:01:23+0000",
       "metrics": {
-        "views": 254,
+        "views": 256,
         "likes": 5,
         "replies": 0,
         "reposts": 0,
@@ -99,19 +99,34 @@
   ],
   "recent_posts": [
     {
-      "id": "18143366980517856",
-      "text": "Jam 2 siang di Kuromon Market, matahari gila, dan aku baru sadar — aku udah muter 3 kali ke lapak yang sama cuma karena ",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DcNta0Tlp_z",
-      "timestamp": "2026-08-19T08:01:16+0000",
+      "id": "18480561172128868",
+      "text": "Hokkaido ngajarin aku satu hal yang aneh: keheningan itu bukan awkward kalau lo berhenti nunggu seseorang ngisi dia.\nAku",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DcN3tBolQLZ",
+      "timestamp": "2026-08-19T09:31:09+0000",
       "metrics": {
-        "views": 41,
-        "likes": 1,
-        "replies": 1,
+        "views": 0,
+        "likes": 0,
+        "replies": 2,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
       "engagement": 2
+    },
+    {
+      "id": "18143366980517856",
+      "text": "Jam 2 siang di Kuromon Market, matahari gila, dan aku baru sadar — aku udah muter 3 kali ke lapak yang sama cuma karena ",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DcNta0Tlp_z",
+      "timestamp": "2026-08-19T08:01:16+0000",
+      "metrics": {
+        "views": 102,
+        "likes": 1,
+        "replies": 2,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 3
     },
     {
       "id": "18069918425477736",
@@ -134,7 +149,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DcLx1dMm_hs",
       "timestamp": "2026-08-18T14:01:23+0000",
       "metrics": {
-        "views": 162,
+        "views": 164,
         "likes": 2,
         "replies": 0,
         "reposts": 0,
@@ -149,7 +164,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DcLdPIGlbwF",
       "timestamp": "2026-08-18T11:01:23+0000",
       "metrics": {
-        "views": 254,
+        "views": 256,
         "likes": 5,
         "replies": 0,
         "reposts": 0,
@@ -232,21 +247,6 @@
         "shares": 0
       },
       "engagement": 2
-    },
-    {
-      "id": "18615630946028202",
-      "text": "Hokkaido itu tempat pertama yang bikin aku ngerasa \"nggak harus ngapa-ngapain\" — dan itu ternyata yang paling susah dila",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DcIgYYhFoDn",
-      "timestamp": "2026-08-17T07:31:09+0000",
-      "metrics": {
-        "views": 7,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
     }
   ]
 }
