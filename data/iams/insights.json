@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-08-20T08:00:22.202Z",
+  "updated_at": "2026-08-20T09:00:11.077Z",
   "profile": {
     "username": "iams_ichi",
     "name": "iams",
     "biography": "🧠Psi + Traveling \nSolo Traveler Bunglon\nFine dining 👌 & Street food lokal 🫰\nHidden gems Insider for 🇯🇵🇦🇺🇫🇷🇪🇸🇮🇹 + Umrah.\n✉️ cmo@coa.au",
-    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=cZQ96Pnvx8wQ7kNvwHWzw3Z&_nc_oc=AdqNz9l-TMttuK7s_3bzqkSELT_VPSywhe2aUdgnPIDtbWee8Sj5wEmRbg3PMWD9q20&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=pD9-kFhRr-3AHqvs0mSUrA&_nc_tpa=Q5bMBQK3tN419weXBAuKvW2Mw3lqWwOi_8XNRZoIdCr0IbPdXpGAkRCjA8vzKZtnRKC4WgreV2wxDGAlXw&oh=00_AQHZpS1S-lEp4saYCj1RZRnl8JuWHhcJBkGhdR4Oldyh5g&oe=6A8C9FDE"
+    "picture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=cZQ96Pnvx8wQ7kNvwFB2ZOR&_nc_oc=Ado7ewNMgmB1h2BtLUaYtgGmeMtx1Dcyy8hukT4jJS3Dcn5CLF-_MyNWoHaTcKrWLXc&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=PhMnr0uwap5S1Y_6X8uX1Q&_nc_tpa=Q5bMBQIh3xE1_L53fguSEePRnGYrruI48KdtTyGxTqW0gZlcqpGFhOZSsyCKnbwgnYIOqw2mwnbdIc2mOQ&oh=00_AQFRH6E5V4WnTNGjUZrUQk41M35X2dYDbSYwuaa6mE19UA&oe=6A8C9FDE"
   },
   "summary": {
     "followers_count": 1355,
-    "views": 0,
+    "views": 10,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 48,
-    "engagement_rate": 0,
+    "engagement_total": 47,
+    "engagement_rate": 470,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -42,7 +42,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DcHwTyGGgq5",
       "timestamp": "2026-08-17T00:31:05+0000",
       "metrics": {
-        "views": 462,
+        "views": 463,
         "likes": 0,
         "replies": 6,
         "reposts": 0,
@@ -72,7 +72,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DcLdPIGlbwF",
       "timestamp": "2026-08-18T11:01:23+0000",
       "metrics": {
-        "views": 261,
+        "views": 263,
         "likes": 5,
         "replies": 0,
         "reposts": 0,
@@ -87,7 +87,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DcN3tBolQLZ",
       "timestamp": "2026-08-19T09:31:09+0000",
       "metrics": {
-        "views": 254,
+        "views": 256,
         "likes": 1,
         "replies": 3,
         "reposts": 0,
@@ -98,6 +98,21 @@
     }
   ],
   "recent_posts": [
+    {
+      "id": "18073817210409489",
+      "text": "Di Raudhah, semua orang berdesakan — tapi heningnya justru paling keras.\nAku perhatiin satu hal: orang yang nangis di sa",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DcQSNmRmxHL",
+      "timestamp": "2026-08-20T08:01:16+0000",
+      "metrics": {
+        "views": 2,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
     {
       "id": "17903879865519194",
       "text": "Onsen itu bukan soal air panas — aku baru ngerti ini setelah duduk diam 20 menit dan nggak ngerasa harus ngapa-ngapain s",
@@ -119,7 +134,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DcN3tBolQLZ",
       "timestamp": "2026-08-19T09:31:09+0000",
       "metrics": {
-        "views": 254,
+        "views": 256,
         "likes": 1,
         "replies": 3,
         "reposts": 0,
@@ -134,7 +149,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DcNta0Tlp_z",
       "timestamp": "2026-08-19T08:01:16+0000",
       "metrics": {
-        "views": 176,
+        "views": 178,
         "likes": 2,
         "replies": 2,
         "reposts": 0,
@@ -179,7 +194,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DcLdPIGlbwF",
       "timestamp": "2026-08-18T11:01:23+0000",
       "metrics": {
-        "views": 261,
+        "views": 263,
         "likes": 5,
         "replies": 0,
         "reposts": 0,
@@ -232,21 +247,6 @@
         "shares": 0
       },
       "engagement": 0
-    },
-    {
-      "id": "17962898145156922",
-      "text": "Jam 7 pagi di Arashiyama, daun maple udah mulai rontok.\nAku berdiri diam nonton satu daun jatuh — dan itu butuh waktu le",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DcJNCO5G6m1",
-      "timestamp": "2026-08-17T14:01:21+0000",
-      "metrics": {
-        "views": 135,
-        "likes": 1,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
     }
   ]
 }
