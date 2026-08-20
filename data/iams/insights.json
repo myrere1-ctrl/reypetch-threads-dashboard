@@ -1,26 +1,41 @@
 {
   "account": "iams",
-  "updated_at": "2026-08-20T11:47:00.546Z",
+  "updated_at": "2026-08-20T13:16:20.878Z",
   "profile": {
     "username": "iams_ichi",
     "name": "iams",
     "biography": "🧠Psi + Traveling \nSolo Traveler Bunglon\nFine dining 👌 & Street food lokal 🫰\nHidden gems Insider for 🇯🇵🇦🇺🇫🇷🇪🇸🇮🇹 + Umrah.\n✉️ cmo@coa.au",
-    "picture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=gCsF-MkccYUQ7kNvwHs2zCq&_nc_oc=Ado1kQXCdixPcskLLlF4Ag0y5I-x04CWE3b4fEC7ccB3Qv1zGV6nn9xA7oSzbu_zeXs&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=KLdziRg6nKjaervk0Igcfw&_nc_tpa=Q5bMBQLaTo6-C7ih6nOguzag-h-y1uVSecNiEEx57AUWOMAsNYwbiB3qeq42VWr62nfBJCui3ozDxNZpKQ&oh=00_AQFzIQ3kny-j_l9Js2fpGvGtpNKzbc7STjiYhpEW1d0OdA&oe=6A8C9FDE"
+    "picture": "https://scontent-mel1-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=gCsF-MkccYUQ7kNvwHVlemW&_nc_oc=Adq6Pd9w6if7ns5DSa9kYpMeD8yEOObsXCXHyZFlnNTavRWVSP-wrfwvnd4LAgZ_h9g&_nc_zt=24&_nc_ht=scontent-mel1-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=uVYtjUzEhMqTAj3Iz4zMtA&_nc_tpa=Q5bMBQI_208yr3WjACX-LVB9SmK3-J9f_B9TiZ6Uu6mlEpUHYJuUKbH3W4LHuDBpN-Wa2O5DPUZ1Dzaabw&oh=00_AQHfgnRnuNgZe923boPuXNtsNtDnKcjLP5nPi9viWMV5Uw&oe=6A8CD81E"
   },
   "summary": {
     "followers_count": 1355,
-    "views": 62,
-    "likes": 0,
-    "replies": 0,
+    "views": 222,
+    "likes": 9,
+    "replies": 1,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 42,
-    "engagement_rate": 67.74,
+    "engagement_total": 52,
+    "engagement_rate": 23.42,
     "curiosity_score": null,
     "post_count": 25
   },
   "top_posts": [
+    {
+      "id": "18091909082539393",
+      "text": "Unpopular opinion: Madinah itu bukan kota yang lo \"explore\" — dia kota yang lo *diam* di dalamnya.\nDan anehnya, diam di ",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DcQm0DkIDfK",
+      "timestamp": "2026-08-20T11:01:16+0000",
+      "metrics": {
+        "views": 186,
+        "likes": 10,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 11
+    },
     {
       "id": "18069918425477736",
       "text": "Dulu mikir sendirian di Jepang itu butuh keberanian lebih.\nTernyata yang lebih susah: nggak merasa harus justify kenapa ",
@@ -72,24 +87,9 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DcN3tBolQLZ",
       "timestamp": "2026-08-19T09:31:09+0000",
       "metrics": {
-        "views": 258,
+        "views": 260,
         "likes": 1,
         "replies": 3,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 4
-    },
-    {
-      "id": "18143366980517856",
-      "text": "Jam 2 siang di Kuromon Market, matahari gila, dan aku baru sadar — aku udah muter 3 kali ke lapak yang sama cuma karena ",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DcNta0Tlp_z",
-      "timestamp": "2026-08-19T08:01:16+0000",
-      "metrics": {
-        "views": 178,
-        "likes": 2,
-        "replies": 2,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
@@ -104,14 +104,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DcQm0DkIDfK",
       "timestamp": "2026-08-20T11:01:16+0000",
       "metrics": {
-        "views": 45,
-        "likes": 1,
-        "replies": 0,
+        "views": 186,
+        "likes": 10,
+        "replies": 1,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 1
+      "engagement": 11
     },
     {
       "id": "17959390113191733",
@@ -164,7 +164,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DcN3tBolQLZ",
       "timestamp": "2026-08-19T09:31:09+0000",
       "metrics": {
-        "views": 258,
+        "views": 260,
         "likes": 1,
         "replies": 3,
         "reposts": 0,
