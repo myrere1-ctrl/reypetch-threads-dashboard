@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-08-20T10:51:50.666Z",
+  "updated_at": "2026-08-20T11:47:00.546Z",
   "profile": {
     "username": "iams_ichi",
     "name": "iams",
     "biography": "🧠Psi + Traveling \nSolo Traveler Bunglon\nFine dining 👌 & Street food lokal 🫰\nHidden gems Insider for 🇯🇵🇦🇺🇫🇷🇪🇸🇮🇹 + Umrah.\n✉️ cmo@coa.au",
-    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=cZQ96Pnvx8wQ7kNvwEwQ7s8&_nc_oc=Adq4T0K-eFWjKgfdPl1epCErXHUL_NIcyt4pBq2tHGCDMhOr0eW1xmBDW-XO-yClqJQ&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=xxsw8c6G036PYHt79KrP6Q&_nc_tpa=Q5bMBQKfolGVFbLJUfE0qgdyTF-wckhtX0kSEdjzMTGIj81eSiRfHa81I_vflNNfWfYepvgP4kq9nB0bFg&oh=00_AQGPJ1YI9FcRhGiQaQlXhtGnwp9IuKhvlFSzpwx0U9sugw&oe=6A8C9FDE"
+    "picture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=gCsF-MkccYUQ7kNvwHs2zCq&_nc_oc=Ado1kQXCdixPcskLLlF4Ag0y5I-x04CWE3b4fEC7ccB3Qv1zGV6nn9xA7oSzbu_zeXs&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=KLdziRg6nKjaervk0Igcfw&_nc_tpa=Q5bMBQLaTo6-C7ih6nOguzag-h-y1uVSecNiEEx57AUWOMAsNYwbiB3qeq42VWr62nfBJCui3ozDxNZpKQ&oh=00_AQFzIQ3kny-j_l9Js2fpGvGtpNKzbc7STjiYhpEW1d0OdA&oe=6A8C9FDE"
   },
   "summary": {
     "followers_count": 1355,
-    "views": 17,
+    "views": 62,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 47,
-    "engagement_rate": 276.47,
+    "engagement_total": 42,
+    "engagement_rate": 67.74,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -52,21 +52,6 @@
       "engagement": 6
     },
     {
-      "id": "18349307233173915",
-      "text": "Katanya introvert itu susah traveling ke Jepang sendirian — nggak bisa minta tolong, nggak ngerti bahasa, serba canggung",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DcC-w6CEWpo",
-      "timestamp": "2026-08-15T04:01:12+0000",
-      "metrics": {
-        "views": 314,
-        "likes": 4,
-        "replies": 2,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 6
-    },
-    {
       "id": "17904985530528525",
       "text": "Sakura season itu bukan di Shinjuku Gyoen atau Ueno — itu udah masuk radar semua orang.\nCoba jalan ke Kagurazaka, belok ",
       "permalink": "https://www.threads.com/@iams_ichi/post/DcLdPIGlbwF",
@@ -95,9 +80,39 @@
         "shares": 0
       },
       "engagement": 4
+    },
+    {
+      "id": "18143366980517856",
+      "text": "Jam 2 siang di Kuromon Market, matahari gila, dan aku baru sadar — aku udah muter 3 kali ke lapak yang sama cuma karena ",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DcNta0Tlp_z",
+      "timestamp": "2026-08-19T08:01:16+0000",
+      "metrics": {
+        "views": 178,
+        "likes": 2,
+        "replies": 2,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 4
     }
   ],
   "recent_posts": [
+    {
+      "id": "18091909082539393",
+      "text": "Unpopular opinion: Madinah itu bukan kota yang lo \"explore\" — dia kota yang lo *diam* di dalamnya.\nDan anehnya, diam di ",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DcQm0DkIDfK",
+      "timestamp": "2026-08-20T11:01:16+0000",
+      "metrics": {
+        "views": 45,
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
     {
       "id": "17959390113191733",
       "text": "Dulu mikir pergi ke Tanah Suci itu soal ibadah yang lo *siapkan* — doa, niat, amalan.\nTernyata yang paling bikin mental ",
@@ -225,21 +240,6 @@
       "timestamp": "2026-08-18T07:31:10+0000",
       "metrics": {
         "views": 10,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18085575854466694",
-      "text": "Kyoto ngajarin aku satu hal yang nggak ada di itinerary manapun:\ncapek itu bukan tanda lo kurang effort — kadang itu tan",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DcKtLcigA-G",
-      "timestamp": "2026-08-18T04:01:27+0000",
-      "metrics": {
-        "views": 112,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
