@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-08-20T09:00:11.077Z",
+  "updated_at": "2026-08-20T09:53:33.889Z",
   "profile": {
     "username": "iams_ichi",
     "name": "iams",
     "biography": "🧠Psi + Traveling \nSolo Traveler Bunglon\nFine dining 👌 & Street food lokal 🫰\nHidden gems Insider for 🇯🇵🇦🇺🇫🇷🇪🇸🇮🇹 + Umrah.\n✉️ cmo@coa.au",
-    "picture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=cZQ96Pnvx8wQ7kNvwFB2ZOR&_nc_oc=Ado7ewNMgmB1h2BtLUaYtgGmeMtx1Dcyy8hukT4jJS3Dcn5CLF-_MyNWoHaTcKrWLXc&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=PhMnr0uwap5S1Y_6X8uX1Q&_nc_tpa=Q5bMBQIh3xE1_L53fguSEePRnGYrruI48KdtTyGxTqW0gZlcqpGFhOZSsyCKnbwgnYIOqw2mwnbdIc2mOQ&oh=00_AQFRH6E5V4WnTNGjUZrUQk41M35X2dYDbSYwuaa6mE19UA&oe=6A8C9FDE"
+    "picture": "https://scontent-dfw6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=cZQ96Pnvx8wQ7kNvwGc4vKd&_nc_oc=Adp35wcpwmvggdRG3aac3GniiDR3UtxjOfTxu_xj9oZda416b2JXPo_8Hru6GqmZX3I&_nc_zt=24&_nc_ht=scontent-dfw6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=p1CNzK2iX9eA76HCLPVTvw&_nc_tpa=Q5bMBQI3rerJjdGmxQWfEIg3dOR-KktQ1gx2Pfu4A06vgmxlDwtGVMW7X0C3qfrTLiPgUJfEd2com56mWg&oh=00_AQGrIUbxjHs-7iw2bux4kl9iAxjh1qMmv7a_f8bU5wznwA&oe=6A8C9FDE"
   },
   "summary": {
     "followers_count": 1355,
-    "views": 10,
+    "views": 16,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 47,
-    "engagement_rate": 470,
+    "engagement_rate": 293.75,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -87,7 +87,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DcN3tBolQLZ",
       "timestamp": "2026-08-19T09:31:09+0000",
       "metrics": {
-        "views": 256,
+        "views": 257,
         "likes": 1,
         "replies": 3,
         "reposts": 0,
@@ -98,6 +98,21 @@
     }
   ],
   "recent_posts": [
+    {
+      "id": "17959390113191733",
+      "text": "Dulu mikir pergi ke Tanah Suci itu soal ibadah yang lo *siapkan* — doa, niat, amalan.\nTernyata yang paling bikin mental ",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DcQcf9uG8Qj",
+      "timestamp": "2026-08-20T09:31:09+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
     {
       "id": "18073817210409489",
       "text": "Di Raudhah, semua orang berdesakan — tapi heningnya justru paling keras.\nAku perhatiin satu hal: orang yang nangis di sa",
@@ -134,7 +149,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DcN3tBolQLZ",
       "timestamp": "2026-08-19T09:31:09+0000",
       "metrics": {
-        "views": 256,
+        "views": 257,
         "likes": 1,
         "replies": 3,
         "reposts": 0,
@@ -225,21 +240,6 @@
       "timestamp": "2026-08-18T04:01:27+0000",
       "metrics": {
         "views": 112,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18129866662661448",
-      "text": "Tokyo itu kota yang paling gampang bikin planning-mu ambyar — bukan karena membingungkan, tapi karena selalu ada satu ga",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DcKVHVDmkhY",
-      "timestamp": "2026-08-18T00:31:11+0000",
-      "metrics": {
-        "views": 145,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
