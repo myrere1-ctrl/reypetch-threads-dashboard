@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-08-20T21:48:02.421Z",
+  "updated_at": "2026-08-20T22:49:11.541Z",
   "profile": {
     "username": "iams_ichi",
     "name": "iams",
     "biography": "🧠Psi + Traveling \nSolo Traveler Bunglon\nFine dining 👌 & Street food lokal 🫰\nHidden gems Insider for 🇯🇵🇦🇺🇫🇷🇪🇸🇮🇹 + Umrah.\n✉️ cmo@coa.au",
-    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=gCsF-MkccYUQ7kNvwFzD6AB&_nc_oc=Adpw-S45N3w5UdG9n9UCohuqtNcdTgP4yR9q38yi316ZFyHxvlcnU4QPIWKW53qqbGQ&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=dKXyRwwZU9MpwS7F57yr1A&_nc_tpa=Q5bMBQKB_VjiMt9AcNjvJpsm0zXnUmD7A7rtzgKGSu4TD-7xfUgS90-YL3WdnibDXmEX7eS5_7fgZiFsfQ&oh=00_AQEmS6kTs4gKy5hBwPlXxrem6tZqzvK1s5etGi7cDJY9Mw&oe=6A8D489E"
+    "picture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=gCsF-MkccYUQ7kNvwG2LcXN&_nc_oc=Adr6DDcnHHrRtgaXJaY9zQIVcHDHWvNfH-JXmGhcA2K1vQxMqCGZZLMUT4Y8oGmpIh8&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=ciuaoUpIMC92hydZRW6IOA&_nc_tpa=Q5bMBQJZpFiz00xJglrW955wbSEIbQiJmyxyH2xJiAKhLXcMeqrKJfH9RjNtwWiu0axKwfMUzXe9R621og&oh=00_AQEFxnYnYXUUnUFULSAl0eoqoFeHHzeSLACDbWzGwIEebw&oe=6A8D489E"
   },
   "summary": {
     "followers_count": 1355,
-    "views": 356,
+    "views": 362,
     "likes": 12,
     "replies": 1,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 54,
-    "engagement_rate": 15.17,
+    "engagement_total": 50,
+    "engagement_rate": 13.81,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -27,7 +27,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DcQm0DkIDfK",
       "timestamp": "2026-08-20T11:01:16+0000",
       "metrics": {
-        "views": 316,
+        "views": 317,
         "likes": 12,
         "replies": 1,
         "reposts": 0,
@@ -99,12 +99,27 @@
   ],
   "recent_posts": [
     {
+      "id": "18027632495855925",
+      "text": "My perception as Gaijin \nJapan for Gaijin\nTourist 💯✅️ 🥰\nResidence ❌️\nMy Dad (alfatihah) Japanese but I milih jadi Ausi",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DcRztTyk0cK",
+      "timestamp": "2026-08-20T22:12:39+0000",
+      "metrics": {
+        "views": 3,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "18091909082539393",
       "text": "Unpopular opinion: Madinah itu bukan kota yang lo \"explore\" — dia kota yang lo *diam* di dalamnya.\nDan anehnya, diam di ",
       "permalink": "https://www.threads.com/@iams_ichi/post/DcQm0DkIDfK",
       "timestamp": "2026-08-20T11:01:16+0000",
       "metrics": {
-        "views": 316,
+        "views": 317,
         "likes": 12,
         "replies": 1,
         "reposts": 0,
@@ -232,21 +247,6 @@
         "shares": 1
       },
       "engagement": 5
-    },
-    {
-      "id": "18014672918945735",
-      "text": "Dulu mikir street food Jepang itu soal rasa — dan emang bener, rasanya gila.\nTapi yang nggak aku expect: momen paling be",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DcLFLOxG59i",
-      "timestamp": "2026-08-18T07:31:10+0000",
-      "metrics": {
-        "views": 10,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
     }
   ]
 }
