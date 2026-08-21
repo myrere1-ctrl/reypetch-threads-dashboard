@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-08-21T08:01:25.096Z",
+  "updated_at": "2026-08-21T09:02:08.407Z",
   "profile": {
     "username": "iams_ichi",
     "name": "iams",
     "biography": "🧠Psi + Traveling \nSolo Traveler Bunglon\nFine dining 👌 & Street food lokal 🫰\nHidden gems Insider for 🇯🇵🇦🇺🇫🇷🇪🇸🇮🇹 + Umrah.\n✉️ cmo@coa.au",
-    "picture": "https://scontent-atl3-2.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=gCsF-MkccYUQ7kNvwGr0ekw&_nc_oc=AdpsKZ6i9eGlaqflTc0t6R9Er-F3-4s9KZZJtMKx_iAI5T8crRxsaY22SdCYwFluvEw&_nc_zt=24&_nc_ht=scontent-atl3-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=frpnQDg6qqGJgRbE3SBI4g&_nc_tpa=Q5bMBQL-AxvyBRr8dF-pye8FQcEvUoSriyPyNYp8Xuxm0cxe1Ot6TzPIjQMq73BJ87I3Y7xLaJHSncOvvQ&oh=00_AQF-0bSyUN6D2iu_zh44Zev7AGpxjHbhLNtyYtZEKwd5kw&oe=6A8DF15E"
+    "picture": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=gCsF-MkccYUQ7kNvwGoebMV&_nc_oc=AdqlrMeiiaVqpQRk9Tivp_yZU0QdvVTOCFYv9OYeBns0eApM9DbAHcxrxKh8HiW9OHc&_nc_zt=24&_nc_ht=scontent-ams2-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=0tRqdvbqYwZ05IR-IAA_tg&_nc_tpa=Q5bMBQKEjryVJyVoSwPCZZqNWk9vQ365X7aMPcYaa0DDoK_11-EICeLzREwRX1AmvHFwzEgUZfqyhH2nMA&oh=00_AQGmUAQ-oaxG5Soia3XBp5dAs67UZ0O_bu2QnhvhxlQ7ZA&oe=6A8DF15E"
   },
   "summary": {
     "followers_count": 1355,
-    "views": 11,
+    "views": 71,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 50,
-    "engagement_rate": 454.55,
+    "engagement_total": 51,
+    "engagement_rate": 71.83,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -98,6 +98,21 @@
     }
   ],
   "recent_posts": [
+    {
+      "id": "17875338648547807",
+      "text": "Aku baru sadar — selama ini aku pikir \"siap umroh\" itu soal fisik dan logistik.\nTernyata yang paling susah justru: berhe",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DcS3AbkG1A5",
+      "timestamp": "2026-08-21T08:01:15+0000",
+      "metrics": {
+        "views": 45,
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 1
+      },
+      "engagement": 1
+    },
     {
       "id": "18027632495855925",
       "text": "My perception as Gaijin \nJapan for Gaijin\nTourist 💯✅️ 🥰\nResidence ❌️\nMy Dad (alfatihah) Japanese but I milih jadi Ausi",
@@ -232,21 +247,6 @@
         "shares": 0
       },
       "engagement": 2
-    },
-    {
-      "id": "17904985530528525",
-      "text": "Sakura season itu bukan di Shinjuku Gyoen atau Ueno — itu udah masuk radar semua orang.\nCoba jalan ke Kagurazaka, belok ",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DcLdPIGlbwF",
-      "timestamp": "2026-08-18T11:01:23+0000",
-      "metrics": {
-        "views": 263,
-        "likes": 5,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 1
-      },
-      "engagement": 5
     }
   ]
 }
