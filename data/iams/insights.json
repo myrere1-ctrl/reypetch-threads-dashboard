@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-08-21T09:02:08.407Z",
+  "updated_at": "2026-08-21T09:55:04.481Z",
   "profile": {
     "username": "iams_ichi",
     "name": "iams",
     "biography": "🧠Psi + Traveling \nSolo Traveler Bunglon\nFine dining 👌 & Street food lokal 🫰\nHidden gems Insider for 🇯🇵🇦🇺🇫🇷🇪🇸🇮🇹 + Umrah.\n✉️ cmo@coa.au",
-    "picture": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=gCsF-MkccYUQ7kNvwGoebMV&_nc_oc=AdqlrMeiiaVqpQRk9Tivp_yZU0QdvVTOCFYv9OYeBns0eApM9DbAHcxrxKh8HiW9OHc&_nc_zt=24&_nc_ht=scontent-ams2-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=0tRqdvbqYwZ05IR-IAA_tg&_nc_tpa=Q5bMBQKEjryVJyVoSwPCZZqNWk9vQ365X7aMPcYaa0DDoK_11-EICeLzREwRX1AmvHFwzEgUZfqyhH2nMA&oh=00_AQGmUAQ-oaxG5Soia3XBp5dAs67UZ0O_bu2QnhvhxlQ7ZA&oe=6A8DF15E"
+    "picture": "https://scontent-hkg1-2.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=gCsF-MkccYUQ7kNvwHnY8TF&_nc_oc=Adph3lbEfu15ZilrIwIR6TnZrLgNDU6aC2VWO84tzRlXMVmIvIzKcHbQqR5bCXvL5PM&_nc_zt=24&_nc_ht=scontent-hkg1-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=K2TcyeNqvaPhew2XE-5O-w&_nc_tpa=Q5bMBQKK1a9gsgtYOOHJBrKVqEYUpizSEOxhaxcBrKAaFzMVt2FP7yciWXSjo-WBu9mf3lucTu86i2Jmog&oh=00_AQFWeBY79q8tpqdM-f4CGkFCjUyaoUFS06nOyEcWQCrNzQ&oe=6A8DF15E"
   },
   "summary": {
     "followers_count": 1355,
-    "views": 71,
-    "likes": 0,
+    "views": 114,
+    "likes": 1,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 51,
-    "engagement_rate": 71.83,
+    "engagement_total": 49,
+    "engagement_rate": 42.98,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -99,12 +99,27 @@
   ],
   "recent_posts": [
     {
+      "id": "18073100498408298",
+      "text": "Planning ke Mekkah itu bukan soal itinerary — justru semua jadwal yang udah aku susun rapi, buyar di hari pertama.\nYang ",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DcTBTMyIOAc",
+      "timestamp": "2026-08-21T09:31:12+0000",
+      "metrics": {
+        "views": 10,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "17875338648547807",
       "text": "Aku baru sadar — selama ini aku pikir \"siap umroh\" itu soal fisik dan logistik.\nTernyata yang paling susah justru: berhe",
       "permalink": "https://www.threads.com/@iams_ichi/post/DcS3AbkG1A5",
       "timestamp": "2026-08-21T08:01:15+0000",
       "metrics": {
-        "views": 45,
+        "views": 91,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -119,7 +134,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DcRztTyk0cK",
       "timestamp": "2026-08-20T22:12:39+0000",
       "metrics": {
-        "views": 10,
+        "views": 12,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -232,21 +247,6 @@
         "shares": 0
       },
       "engagement": 6
-    },
-    {
-      "id": "18112994422973760",
-      "text": "Jam 11 malem di Shinjuku, stasiun masih penuh tapi semua orang diam.\nAku baru sadar — keramaian Jepang itu beda. Mereka ",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DcLx1dMm_hs",
-      "timestamp": "2026-08-18T14:01:23+0000",
-      "metrics": {
-        "views": 174,
-        "likes": 2,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 2
     }
   ]
 }
