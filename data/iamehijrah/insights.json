@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-08-21T14:02:57.237Z",
+  "updated_at": "2026-08-21T14:57:45.507Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=USMbCZ3s2WkQ7kNvwGU6L77&_nc_oc=AdpSOf9zrj4h4J1DqvSIAGR6rbcWLtCQSdEZXkiF1XSrwUWwtMTcF-4DTi7_KoRk1xU&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=DhqU6jm1ChHGa1eB4d214A&_nc_tpa=Q5bMBQLdKk0mvPGmeihgZM4YYqAz0dbyBqgEcqkivZ-jC6sc73EMCbUjE4Cv3tpCZlvwWJbO_929UQqcBw&oh=00_AQGMlvkIdnHfF7JnhuRbeVPUio5PFZHs5hVyNcR2D7bJOQ&oe=6A8E1B13"
+    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=USMbCZ3s2WkQ7kNvwGkCGU-&_nc_oc=AdpIxMNUc5Cl66NkTFr09CZDk4bC4SLPj3Ov4u41htdcct1yHcw8WwWAK61Los-5SDM&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=rhj8YHciuu5j80_4I4dIBw&_nc_tpa=Q5bMBQKxMy2DWU639EwBe-KeadVLXUqslso7TD73USvucS1Q1EpREvjNnwju5bjzLQKpDeaxvbCEM14fLg&oh=00_AQErO2QMMUoa6zCp2vvkyQ7CnemLKOAiDZPDfg2FEDSvyQ&oe=6A8E5353"
   },
   "summary": {
     "followers_count": 1,
-    "views": 34,
+    "views": 85,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 30,
-    "engagement_rate": 88.24,
+    "engagement_rate": 35.29,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -97,12 +97,27 @@
   ],
   "recent_posts": [
     {
+      "id": "17905379289537740",
+      "text": "Nenek aku selalu bilang, jangan tidur sebelum baca Al-Waqiah — apapun kondisinya, sesibuk apapun malam itu.\nDulu aku ang",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DcTjo_TFF0e",
+      "timestamp": "2026-08-21T14:31:16+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
       "id": "17904537267544809",
       "text": "Pernah ga, niat Umroh udah lama — tapi tiap habis Subuh, duduk sebentar, malah ngerasa hati belum bener-bener siap?\nAku ",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DcTZWd3Fd_8",
       "timestamp": "2026-08-21T13:01:21+0000",
       "metrics": {
-        "views": 33,
+        "views": 41,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -230,21 +245,6 @@
         "shares": 0
       },
       "engagement": 7
-    },
-    {
-      "id": "18164350687461027",
-      "text": "Habis Subuh, aku mulai coba rutin baca Surat Yasin pelan-pelan — bukan karena ngerasa kuat, justru sebaliknya.\nEntah ken",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DcLPgtvG7TH",
-      "timestamp": "2026-08-18T09:01:28+0000",
-      "metrics": {
-        "views": 43,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
     }
   ]
 }
