@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-08-22T10:44:07.637Z",
+  "updated_at": "2026-08-22T11:40:17.121Z",
   "profile": {
     "username": "iams_ichi",
     "name": "iams",
     "biography": "🧠Psi + Traveling \nSolo Traveler Bunglon\nFine dining 👌 & Street food lokal 🫰\nHidden gems Insider for 🇯🇵🇦🇺🇫🇷🇪🇸🇮🇹 + Umrah.\n✉️ cmo@coa.au",
-    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=gCsF-MkccYUQ7kNvwG0YoL6&_nc_oc=Ado3kYaPsx5YJcZpX0T__ABptcKhxNf-7x65p3F5eSmrKlq63HoEdaOO1Ie3gj3tWwU&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=vwnRVWOknSjvntuuL1nveQ&_nc_tpa=Q5bMBQLxWhv10wtsN9A1tmoMqRu1FtlyoSbyROpWUD2oPkqHUQF6ks-LdWjaNjce21ZTTluGuMi0b-x5cQ&oh=00_AQE2-Jrds-ctMSSJoXdCrrtj6JJnMAtfWByrBcNv61VBIw&oe=6A8F42DE"
+    "picture": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=gCsF-MkccYUQ7kNvwHhUhiA&_nc_oc=Adq_tjFEE1CoEFErXYCd959UYSeiKIDmGzc3lXu9GadJRd_uDtAemrQezOk4FRneX6E&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=hk1jw5jm-ryenqwkxL1RYw&_nc_tpa=Q5bMBQLoyng0o33WbN0kyMy8R8iZay1GieDPzv7sps6pUUb4qRB5KLEY8_4lvZpuMkK5od-8lNydH5uVAg&oh=00_AQE4KmRhWP2E-LP5h2YD6mv5dogmnNZ2KnWbHvxkHpcH9w&oe=6A8F42DE"
   },
   "summary": {
     "followers_count": 1355,
-    "views": 132,
+    "views": 164,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 46,
-    "engagement_rate": 34.85,
+    "engagement_rate": 28.05,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -99,12 +99,27 @@
   ],
   "recent_posts": [
     {
+      "id": "17982695235023856",
+      "text": "Spot yang jarang disebut orang: lorong kecil di sisi timur Masjidil Haram, deket pintu King Fahd — kalau lo masuk dari s",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DcVwZr8GwyZ",
+      "timestamp": "2026-08-22T11:01:15+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "18082896800298366",
       "text": "Mitos: Madinah itu tenang karena orang-orangnya \"sudah siap\" secara batin.\nTernyata yang bikin tenang bukan orangnya — t",
       "permalink": "https://www.threads.com/@iams_ichi/post/DcVmFR4FjMD",
       "timestamp": "2026-08-22T09:31:05+0000",
       "metrics": {
-        "views": 65,
+        "views": 92,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -119,7 +134,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DcVbzHrFrCZ",
       "timestamp": "2026-08-22T08:01:13+0000",
       "metrics": {
-        "views": 58,
+        "views": 60,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -225,21 +240,6 @@
       "timestamp": "2026-08-20T08:01:16+0000",
       "metrics": {
         "views": 4,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "17903879865519194",
-      "text": "Onsen itu bukan soal air panas — aku baru ngerti ini setelah duduk diam 20 menit dan nggak ngerasa harus ngapa-ngapain s",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DcOCBgaFVo2",
-      "timestamp": "2026-08-19T11:01:22+0000",
-      "metrics": {
-        "views": 30,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
