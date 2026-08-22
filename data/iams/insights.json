@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-08-22T08:51:44.635Z",
+  "updated_at": "2026-08-22T09:46:54.048Z",
   "profile": {
     "username": "iams_ichi",
     "name": "iams",
     "biography": "🧠Psi + Traveling \nSolo Traveler Bunglon\nFine dining 👌 & Street food lokal 🫰\nHidden gems Insider for 🇯🇵🇦🇺🇫🇷🇪🇸🇮🇹 + Umrah.\n✉️ cmo@coa.au",
-    "picture": "https://scontent-lga3-3.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=gCsF-MkccYUQ7kNvwGkP20x&_nc_oc=AdoZcBTY5eDnSYi_1-qDRuUzPKcRxf8SYRCdFAmqkwv3uMMQqYoacJUghtHxoeWHThk&_nc_zt=24&_nc_ht=scontent-lga3-3.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=1WzgC-UtO3Yko71fR319Eg&_nc_tpa=Q5bMBQJVB_zuwQSQdDccqxLVP_5shOUj4KlLfwQr-thXp_sZZZtA9k2OARt81yRvj5QQLiSr_hu8kHTNQw&oh=00_AQEsQiSRwHpdrfVRXF1XYkY7bFpCuuMa447JOnNlaB9jRg&oe=6A8F42DE"
+    "picture": "https://scontent-dfw6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=gCsF-MkccYUQ7kNvwFlSqO2&_nc_oc=AdrQi4_nAQpAHUyQ4226KIaeE6GRKvisLLK5PmpBEnw2c_bh-K10bJFZnolfIOcVo5E&_nc_zt=24&_nc_ht=scontent-dfw6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=0LJZqwKCI-z8p2g4jkeqkw&_nc_tpa=Q5bMBQKI2EUsUm7r2GTaWas_mV9O62HrxW5ERk3sFhkCtyreGIzD-0YrW3wY7ZydzIO1c5y95-alTTTHIA&oh=00_AQH7EgmMLIOgLf16DWwl9wzv0jbc7i12YCRqxDKO7Ipg0w&oe=6A8F42DE"
   },
   "summary": {
     "followers_count": 1355,
-    "views": 43,
+    "views": 66,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 47,
-    "engagement_rate": 109.3,
+    "engagement_total": 46,
+    "engagement_rate": 69.7,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -99,12 +99,27 @@
   ],
   "recent_posts": [
     {
+      "id": "18082896800298366",
+      "text": "Mitos: Madinah itu tenang karena orang-orangnya \"sudah siap\" secara batin.\nTernyata yang bikin tenang bukan orangnya — t",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DcVmFR4FjMD",
+      "timestamp": "2026-08-22T09:31:05+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "18074725838433877",
       "text": "Unpopular opinion: umroh itu bukan perjalanan yang bikin lo \"lebih tenang\" — justru sebaliknya, dia ngebongkar lapisan y",
       "permalink": "https://www.threads.com/@iams_ichi/post/DcVbzHrFrCZ",
       "timestamp": "2026-08-22T08:01:13+0000",
       "metrics": {
-        "views": 32,
+        "views": 47,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -232,21 +247,6 @@
         "shares": 0
       },
       "engagement": 0
-    },
-    {
-      "id": "18480561172128868",
-      "text": "Hokkaido ngajarin aku satu hal yang aneh: keheningan itu bukan awkward kalau lo berhenti nunggu seseorang ngisi dia.\nAku",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DcN3tBolQLZ",
-      "timestamp": "2026-08-19T09:31:09+0000",
-      "metrics": {
-        "views": 263,
-        "likes": 1,
-        "replies": 3,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 4
     }
   ]
 }
