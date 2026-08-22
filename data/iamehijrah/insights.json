@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-08-22T13:48:35.221Z",
+  "updated_at": "2026-08-22T14:43:09.963Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-mel1-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=USMbCZ3s2WkQ7kNvwELG4DJ&_nc_oc=AdpmGtemJwMhIyWO1B3ykq2-r38P9f9LRp9z8ZF6BvRSoLZHG-Sd08FAHQ4iKIoMfws&_nc_zt=24&_nc_ht=scontent-mel1-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=DOtwD4Nvs_ItauUDTikZoA&_nc_tpa=Q5bMBQIWBbnBrHBJ-om11ZOfOIzBtlYL-nehmMZ_5RQd6FRvtrVmYDVca6x0Wudtp96CeeQY59eyu2gv-A&oh=00_AQFptiyJ7RHZh6WqH3lPesC3qWRufjLuA9IDa6E04afOGg&oe=6A8F6C93"
+    "picture": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=Yni-VQklylQQ7kNvwGs0C9i&_nc_oc=AdrSppSTU9L1PxijmMsbHt2yxAXGgd3516Fy_0nxrWkQS1txk3BTjWRoOtw7ucq0y1E&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=A8K6VFnqgMh2hOvBEjTlAA&_nc_tpa=Q5bMBQLEfz1CnIrAbH974jEIbFoQXhEiM6m_9rA2heyQQA3iudRV1oQpfAiE7-t3rAW6ruA1Lc__9iA8SA&oh=00_AQE2ZGCYp3_VZaA0YATKX-xBl9-rLLbKtP5jQMfsr69gKw&oe=6A8F6C93"
   },
   "summary": {
     "followers_count": 1,
-    "views": 59,
-    "likes": 2,
+    "views": 96,
+    "likes": 3,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 30,
-    "engagement_rate": 50.85,
+    "engagement_total": 32,
+    "engagement_rate": 33.33,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -65,6 +65,21 @@
       "engagement": 5
     },
     {
+      "id": "18074141324400443",
+      "text": "Nenek aku pernah bilang, kalau kamu ngerasa jauh dari Allah — coba perbanyak istighfar, terus minta dibawa ke Tanah Suci",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DcV-I5GIO0f",
+      "timestamp": "2026-08-22T13:01:18+0000",
+      "metrics": {
+        "views": 90,
+        "likes": 4,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 4
+    },
+    {
       "id": "18128025550672071",
       "text": "Ibu aku selalu bilang, kalau ngerasa dunia lagi terlalu berat — baca hauqalah.\nDulu aku ga terlalu paham kenapa. Sekaran",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DcG5Y3lG0ue",
@@ -78,6 +93,23 @@
         "shares": 0
       },
       "engagement": 3
+    }
+  ],
+  "recent_posts": [
+    {
+      "id": "17955747975212915",
+      "text": "Hari ini ga ada yang spesial banget — tapi tiba-tiba inget, pagi ini masih sempet baca Surat Yasin pelan-pelan.\nGa rutin",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DcWIbLuEeJG",
+      "timestamp": "2026-08-22T14:31:12+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
     },
     {
       "id": "18074141324400443",
@@ -85,31 +117,14 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DcV-I5GIO0f",
       "timestamp": "2026-08-22T13:01:18+0000",
       "metrics": {
-        "views": 38,
-        "likes": 2,
+        "views": 90,
+        "likes": 4,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 2
-    }
-  ],
-  "recent_posts": [
-    {
-      "id": "18074141324400443",
-      "text": "Nenek aku pernah bilang, kalau kamu ngerasa jauh dari Allah — coba perbanyak istighfar, terus minta dibawa ke Tanah Suci",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DcV-I5GIO0f",
-      "timestamp": "2026-08-22T13:01:18+0000",
-      "metrics": {
-        "views": 38,
-        "likes": 2,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 2
+      "engagement": 4
     },
     {
       "id": "17905379289537740",
@@ -230,21 +245,6 @@
         "shares": 0
       },
       "engagement": 2
-    },
-    {
-      "id": "17930432325374836",
-      "text": "Ada satu amalan yang aku mulai rutinin belakangan ini — Sholawat Nariyah.\nAwalnya iseng, ikut-ikutan. Tapi makin ke sini",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DcLq_IcG1pc",
-      "timestamp": "2026-08-18T13:01:32+0000",
-      "metrics": {
-        "views": 138,
-        "likes": 4,
-        "replies": 1,
-        "reposts": 1,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 6
     }
   ]
 }
