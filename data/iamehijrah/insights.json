@@ -1,9 +1,9 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-08-23T11:41:13.059Z",
+  "updated_at": "2026-08-23T13:07:04.985Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=Yni-VQklylQQ7kNvwFRtLFx&_nc_oc=AdqFkkgA-UpyCw7pxyg3FcumEWY_8F-n6u55V-EWmHcPuTVpBXkEWj-Bwn1bMVBz21g&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=eRjH2Gni-6yZZWovuXYk3Q&_nc_tpa=Q5bMBQL5sw-wvuIvPagPJq8AKO4KLTqZUO4OpgMzrvvHXfzVZUQjbdS5zR4Q8tSU3CoGGOB4T29bwRMjrg&oh=00_AQFvZuEPXLJm3UNJMfkF53I5R9oVNMVBN_3yX9My0GVsNA&oe=6A90BE13"
+    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=Yni-VQklylQQ7kNvwGBBQUU&_nc_oc=Ado14nNKPtG67k4YoHwgX3zxfFjVJHvA0S_QyL2g8tSumBEI61mBNnpSkvvJEtgMUtQ&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=tpp8DipNEvkFPiyWcuJ86Q&_nc_tpa=Q5bMBQIB8fJu-Ebv3wVEDpr1LRreDg4K54a4cu8FvGNRiGHVBVEgskeqP-Nx8k8oiz8n84cFmrtTNMgQcA&oh=00_AQE39lY_YPmfxodCfKAcpbyrX_-Zx3gg2ZY6Y0wkKXkfKQ&oe=6A90BE13"
   },
   "summary": {
     "followers_count": 1,
@@ -13,8 +13,8 @@
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 33,
-    "engagement_rate": 3300,
+    "engagement_total": 30,
+    "engagement_rate": 3000,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -80,22 +80,37 @@
       "engagement": 5
     },
     {
-      "id": "18128025550672071",
-      "text": "Ibu aku selalu bilang, kalau ngerasa dunia lagi terlalu berat — baca hauqalah.\nDulu aku ga terlalu paham kenapa. Sekaran",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DcG5Y3lG0ue",
-      "timestamp": "2026-08-16T16:31:13+0000",
+      "id": "18026300093904841",
+      "text": "Ibu aku selalu bilang, kalau ngerasa capek banget sama hidup — jangan lupa ucap La Hawla Wala Quwwata Illa Billah.\nDulu ",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DcL1QA2HEzG",
+      "timestamp": "2026-08-18T14:31:14+0000",
       "metrics": {
-        "views": 92,
-        "likes": 3,
+        "views": 106,
+        "likes": 2,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 3
+      "engagement": 2
     }
   ],
   "recent_posts": [
+    {
+      "id": "18101377193189402",
+      "text": "Unpopular opinion: Al-Waqiah itu bukan soal \"biar ga miskin\" — tapi tiap kali aku baca, yang berubah duluan bukan kondis",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DcYi72vFWZM",
+      "timestamp": "2026-08-23T13:01:18+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
     {
       "id": "17955747975212915",
       "text": "Hari ini ga ada yang spesial banget — tapi tiba-tiba inget, pagi ini masih sempet baca Surat Yasin pelan-pelan.\nGa rutin",
@@ -230,21 +245,6 @@
         "shares": 0
       },
       "engagement": 0
-    },
-    {
-      "id": "18026300093904841",
-      "text": "Ibu aku selalu bilang, kalau ngerasa capek banget sama hidup — jangan lupa ucap La Hawla Wala Quwwata Illa Billah.\nDulu ",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DcL1QA2HEzG",
-      "timestamp": "2026-08-18T14:31:14+0000",
-      "metrics": {
-        "views": 106,
-        "likes": 2,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 2
     }
   ]
 }
