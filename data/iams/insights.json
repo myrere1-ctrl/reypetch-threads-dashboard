@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-08-23T10:45:08.312Z",
+  "updated_at": "2026-08-23T11:40:24.838Z",
   "profile": {
     "username": "iams_ichi",
     "name": "iams",
     "biography": "🧠Psi + Traveling \nSolo Traveler Bunglon\nFine dining 👌 & Street food lokal 🫰\nHidden gems Insider for 🇯🇵🇦🇺🇫🇷🇪🇸🇮🇹 + Umrah.\n✉️ cmo@coa.au",
-    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=gCsF-MkccYUQ7kNvwE7vjD4&_nc_oc=AdpKX7NOLYdxrUH4M-94fROhG7puAqBuobUyyo_aR_Xb2UUrSrJCL9u8k5Iz_AiYm-A&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=7kf4dGDgnBxk49gRECAPlg&_nc_tpa=Q5bMBQIUbCTcB3YI19FKOXue6E6JwH2VmQyD74Vk3DOyDZEHsfYOwRLdfE1HLqnPryja3der4OO4c0G5Pg&oh=00_AQEZEETs8qY09FAtt_BikVXrH5rsWWBV_f1GWXUlYriKbQ&oe=6A90945E"
+    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=6YNGEQZ0yboQ7kNvwH_11ys&_nc_oc=Adogy6taFy2DTmqSUp5Aiy6rVrP6rB7d0UdmksENHOmTeQGckMXI0HmvVoFNs_xZ6WM&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=D6FtY1AxKU40mRzWh3yICw&_nc_tpa=Q5bMBQJ-Be4YRT7qfz5v1zVyAoCPlbPwX3Pl3BO8_1ZSel5257ShxCdfGwn7xYFnKqSqDV4WSt1U2CvO4g&oh=00_AQHAYVSrTgm9h8nJyPX_lfYEipUKmCP57Tio0lObfEg_Pw&oe=6A90945E"
   },
   "summary": {
     "followers_count": 1355,
-    "views": 255,
+    "views": 289,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 40,
-    "engagement_rate": 15.69,
+    "engagement_rate": 13.84,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -99,12 +99,27 @@
   ],
   "recent_posts": [
     {
+      "id": "18126722350723710",
+      "text": "Mitos: Jabal Rahmah itu tempatnya doa jodoh, jadi yang dateng sendirian bakal ngerasa out of place.\nTernyata yang paling",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DcYVMYQFlZ2",
+      "timestamp": "2026-08-23T11:01:14+0000",
+      "metrics": {
+        "views": 2,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "18181521310424512",
       "text": "Survival tip umroh buat introvert yang jarang dibahas: cari satu spot \"base\" yang lo balik terus setiap capek — bukan bu",
       "permalink": "https://www.threads.com/@iams_ichi/post/DcYK4N3m_s4",
       "timestamp": "2026-08-23T09:31:05+0000",
       "metrics": {
-        "views": 100,
+        "views": 128,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -119,7 +134,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DcYAmBalYoi",
       "timestamp": "2026-08-23T08:01:14+0000",
       "metrics": {
-        "views": 149,
+        "views": 151,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -232,21 +247,6 @@
         "shares": 0
       },
       "engagement": 0
-    },
-    {
-      "id": "18091909082539393",
-      "text": "Unpopular opinion: Madinah itu bukan kota yang lo \"explore\" — dia kota yang lo *diam* di dalamnya.\nDan anehnya, diam di ",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DcQm0DkIDfK",
-      "timestamp": "2026-08-20T11:01:16+0000",
-      "metrics": {
-        "views": 329,
-        "likes": 12,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 13
     }
   ]
 }
