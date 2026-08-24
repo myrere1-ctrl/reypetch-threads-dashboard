@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-08-24T14:09:52.199Z",
+  "updated_at": "2026-08-24T15:06:02.089Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=Yni-VQklylQQ7kNvwFdZXxy&_nc_oc=Adq6ZoQOrZkzvnJb33klIHqopVYt26ZJynuJbuqrhzBtmtxO6TOX4g9bf__jzbY3eI0&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=pc4MTKK1RkMLA6b1CIs8AQ&_nc_tpa=Q5bMBQIohpqsuQyvve4gs5zIuLC_EZHiIiaJ-uyKJwEnXNvHBlf3dm7JkHGlZGIx7wQ6o8fDLPPgdnYN-w&oh=00_AQHjkOh_5hlJw273UnQm5yS4E_RVNTtkxHiyUxtNDgdPOQ&oe=6A920F93"
+    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMiJ9&_nc_ohc=Yni-VQklylQQ7kNvwEy2MBc&_nc_oc=AdrEMVO0psFDT8nTZfgM5IrXaq2hzNGXB0KndTOrw70IRK_8e0xdSAtRcTGOd3poK6w&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=EvrANkg_wtbkPaLTD9BtaQ&_nc_tpa=Q5bMBQItCbXyAHBLKsougZLtUcLU1dAa92U6h7XJiKLkUdU4piKCWRDtX6E4qlIcSJBuurza03ZDQTGH3Q&oh=00_AQHU8NZPbh_zkj_Vvk6xFC3xxhLfd1dbsNUMR5dqdiKnqw&oe=6A9247D3"
   },
   "summary": {
     "followers_count": 1,
-    "views": 12,
+    "views": 94,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 29,
-    "engagement_rate": 241.67,
+    "engagement_rate": 30.85,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -97,12 +97,27 @@
   ],
   "recent_posts": [
     {
+      "id": "18107687242878256",
+      "text": "Lagi di titik yang rasanya semua buntu — pikiran penuh, hati capek, tapi ga tau harus ngomong apa.\nWaktu itu aku nemuin ",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DcbSBvqoNQ8",
+      "timestamp": "2026-08-24T14:31:19+0000",
+      "metrics": {
+        "views": 60,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "17905485261544316",
       "text": "Niat Umroh udah lama — dan hari ini aku coba isi waktu nunggu itu dengan yang bisa aku lakuin sekarang, salah satunya ba",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DcbHvYcoJyx",
       "timestamp": "2026-08-24T13:01:24+0000",
       "metrics": {
-        "views": 12,
+        "views": 17,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -230,21 +245,6 @@
         "shares": 0
       },
       "engagement": 0
-    },
-    {
-      "id": "18030780113659964",
-      "text": "Nenek aku selalu bilang, sebelum berangkat ke mana pun — lurusin dulu niatnya.\nBeliau selalu mulai persiapan Umroh bukan",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DcOaDHtFDNY",
-      "timestamp": "2026-08-19T14:31:15+0000",
-      "metrics": {
-        "views": 19,
-        "likes": 1,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
     }
   ]
 }
