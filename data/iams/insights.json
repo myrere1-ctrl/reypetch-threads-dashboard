@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-08-24T10:57:06.709Z",
+  "updated_at": "2026-08-24T11:48:09.563Z",
   "profile": {
     "username": "iams_ichi",
     "name": "iams",
     "biography": "🧠Psi + Traveling \nSolo Traveler Bunglon\nFine dining 👌 & Street food lokal 🫰\nHidden gems Insider for 🇯🇵🇦🇺🇫🇷🇪🇸🇮🇹 + Umrah.\n✉️ cmo@coa.au",
-    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=6YNGEQZ0yboQ7kNvwESgL3m&_nc_oc=AdpMZ2NyM5hxAhc6Eti_JcQcbEP8c5lw1KVPRLy8tyrOHH7sZUqVpeYA0WnJQOY6WL8&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=VCTk3E-VXoi0AE1btCg9nw&_nc_tpa=Q5bMBQKq2Kyz37BYsylYbvvfoRWHUPl8I0Ug0OhAgztBeqlws80qb2phWhcKQsgV3NkyhigBDhFUXg2yhQ&oh=00_AQEDMPDolYLuo87NLN1pWXVuy_JNvjbdepfZ5p9yfOmKKg&oe=6A91E5DE"
+    "picture": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=6YNGEQZ0yboQ7kNvwEfrGzY&_nc_oc=AdqsFdeLneslxm5DgwWMBw3LXVBoZRplF6iB55BGxXYxv7JQH9Uqxdz1ff3ewv-bqkc&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=24hdtDMk-9a31dsOjAIYVg&_nc_tpa=Q5bMBQIrhdpn09IbXjcOBIhjcDky-1t0agwX74QCW1he9DBIdWsd9PT3DaIKeDSS6uH2KyHE1WKXQep7bA&oh=00_AQEFOqUg7NLiYw8roihpzicE2aaCZwTKW5r652Bm7RnwRw&oe=6A921E1E"
   },
   "summary": {
     "followers_count": 1355,
-    "views": 681,
-    "likes": 16,
+    "views": 834,
+    "likes": 18,
     "replies": 3,
     "reposts": 1,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 62,
-    "engagement_rate": 9.1,
+    "engagement_total": 67,
+    "engagement_rate": 8.03,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -27,14 +27,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DcalZfwG4oc",
       "timestamp": "2026-08-24T08:01:18+0000",
       "metrics": {
-        "views": 398,
-        "likes": 13,
+        "views": 521,
+        "likes": 17,
         "replies": 2,
         "reposts": 1,
         "quotes": 0,
         "shares": 1
       },
-      "engagement": 16
+      "engagement": 20
     },
     {
       "id": "18091909082539393",
@@ -52,6 +52,21 @@
       "engagement": 13
     },
     {
+      "id": "18069559658481814",
+      "text": "Unpopular opinion: Masjidil Haram itu bukan tempat yang bikin lo merasa \"dekat\" — justru lo ngerasa sangat kecil di sana",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DcavrqKGyT-",
+      "timestamp": "2026-08-24T09:31:10+0000",
+      "metrics": {
+        "views": 126,
+        "likes": 6,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 7
+    },
+    {
       "id": "18069918425477736",
       "text": "Dulu mikir sendirian di Jepang itu butuh keberanian lebih.\nTernyata yang lebih susah: nggak merasa harus justify kenapa ",
       "permalink": "https://www.threads.com/@iams_ichi/post/DcLzgbZoOH-",
@@ -65,21 +80,6 @@
         "shares": 0
       },
       "engagement": 6
-    },
-    {
-      "id": "18069559658481814",
-      "text": "Unpopular opinion: Masjidil Haram itu bukan tempat yang bikin lo merasa \"dekat\" — justru lo ngerasa sangat kecil di sana",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DcavrqKGyT-",
-      "timestamp": "2026-08-24T09:31:10+0000",
-      "metrics": {
-        "views": 109,
-        "likes": 4,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 5
     },
     {
       "id": "17904985530528525",
@@ -99,19 +99,34 @@
   ],
   "recent_posts": [
     {
+      "id": "18135303253726129",
+      "text": "Di Raudhah aku nangis. Terus keluar, langsung beli murtabak pinggir jalan dan makan sambil berdiri.\nNggak ada momen \"fin",
+      "permalink": "https://www.threads.com/@iams_ichi/post/Dca5_9EIPoW",
+      "timestamp": "2026-08-24T11:01:20+0000",
+      "metrics": {
+        "views": 16,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "18069559658481814",
       "text": "Unpopular opinion: Masjidil Haram itu bukan tempat yang bikin lo merasa \"dekat\" — justru lo ngerasa sangat kecil di sana",
       "permalink": "https://www.threads.com/@iams_ichi/post/DcavrqKGyT-",
       "timestamp": "2026-08-24T09:31:10+0000",
       "metrics": {
-        "views": 109,
-        "likes": 4,
+        "views": 126,
+        "likes": 6,
         "replies": 1,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 5
+      "engagement": 7
     },
     {
       "id": "17966634672140356",
@@ -119,14 +134,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DcalZfwG4oc",
       "timestamp": "2026-08-24T08:01:18+0000",
       "metrics": {
-        "views": 398,
-        "likes": 13,
+        "views": 521,
+        "likes": 17,
         "replies": 2,
         "reposts": 1,
         "quotes": 0,
         "shares": 1
       },
-      "engagement": 16
+      "engagement": 20
     },
     {
       "id": "18126722350723710",
@@ -225,21 +240,6 @@
       "timestamp": "2026-08-21T11:01:17+0000",
       "metrics": {
         "views": 96,
-        "likes": 1,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "18073100498408298",
-      "text": "Planning ke Mekkah itu bukan soal itinerary — justru semua jadwal yang udah aku susun rapi, buyar di hari pertama.\nYang ",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DcTBTMyIOAc",
-      "timestamp": "2026-08-21T09:31:12+0000",
-      "metrics": {
-        "views": 66,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
