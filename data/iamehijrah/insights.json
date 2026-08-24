@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-08-24T11:49:05.941Z",
+  "updated_at": "2026-08-24T13:20:19.330Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=Yni-VQklylQQ7kNvwGNxS1K&_nc_oc=Adplnz_AcqrVMdl3fatacUbryvUqKEK3w2cou4_CM7OWcXjZn9-YZ3oTfokR-ZvDwNE&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=og9Zd-8VbuyFIV2wW0cigA&_nc_tpa=Q5bMBQJQWe5qVPjgRBc_CTJVSD-HIA182x9HyDwxcH1D0ELQHDmxALi1aZO61JnN7ovi1jmPqW8jz1l-zA&oh=00_AQEiFh21fbicEmTporZ6MFppQ_uIL-KfMGIqVpHlTD9vQw&oe=6A920F93"
+    "picture": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=Yni-VQklylQQ7kNvwELQAPM&_nc_oc=AdpiRIrLLSedGTJ_vrWFXfiUBKgeVa4BPknl88vBEvE1csP4WHgxQi2vZ61hDgR6ZBQ&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=4d-TNno5lf_SKQ79Ew66LA&_nc_tpa=Q5bMBQJX_XqNoqRXJH2lHuiW2dX2ti3VIe89Fv_M9vrJSfEYyBcqT2z9v4RNoMDpPNzabNQDCHRuPLQFFw&oh=00_AQHItVjTJSLuAhVCY691eYHz-ASHTRIOxx5Hvc8oxMiXGA&oe=6A920F93"
   },
   "summary": {
     "followers_count": 1,
-    "views": 0,
+    "views": 7,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 29,
-    "engagement_rate": 0,
+    "engagement_rate": 414.29,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -96,6 +96,21 @@
     }
   ],
   "recent_posts": [
+    {
+      "id": "17905485261544316",
+      "text": "Niat Umroh udah lama — dan hari ini aku coba isi waktu nunggu itu dengan yang bisa aku lakuin sekarang, salah satunya ba",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DcbHvYcoJyx",
+      "timestamp": "2026-08-24T13:01:24+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
     {
       "id": "18085864289223277",
       "text": "Kalau lagi anxious ga jelas, ada satu yang aku rutin baca sekarang — Ayat Kursi.\nAwalnya cuma kebiasaan sebelum tidur. T",
@@ -230,21 +245,6 @@
         "shares": 0
       },
       "engagement": 1
-    },
-    {
-      "id": "18012287240938492",
-      "text": "Doanya udah lama banget — tapi belum ada jawaban yang keliatan.\nHari ini aku coba sadar satu hal kecil: masih bisa bangu",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DcMowiSkjGb",
-      "timestamp": "2026-08-18T22:01:19+0000",
-      "metrics": {
-        "views": 39,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
     }
   ]
 }
