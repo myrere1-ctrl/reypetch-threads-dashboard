@@ -546,7 +546,7 @@ Contoh format (tiru STRUKTURNYA, ganti isi teks & cta sesuai angle di atas):
   const SLOTS_PER_ACCOUNT = {
     iams: ['15.00','16.30','18.00'],
     rrpetch: ['06.00','07.30','09.00','10.30','12.00','13.30','15.00','17.00','19.00','21.00'],
-    iamehijrah: ['20.00','21.30'],
+    iamehijrah: ['05.30','12.30','20.00','21.30'],
   };
   const times = SLOTS_PER_ACCOUNT.iams; // Default; switched dynamically
 
@@ -1044,12 +1044,13 @@ Contoh format (tiru STRUKTURNYA, ganti isi teks & cta sesuai angle di atas):
         { value:'struggle_to_hope', label:'Struggle → harapan', mention:'none', instr:'Relate ke titik buntu/overthinking, arahkan ke amalan/doa (sebut namanya) sebagai penenang. Hook boleh bold. TAPI framing KETENANGAN + insyaAllah — JANGAN janji hasil pasti.' },
         { value:'unpopular_opinion_spiritual', label:'Unpopular opinion (spiritual)', mention:'none', instr:'"Unpopular opinion:" + opini/pengalaman spiritual (BUKAN hukum agama/fatwa). JANGAN vonis halal/haram.' },
         { value:'waktu_reflection', label:'Refleksi waktu/istiqomah', mention:'none', instr:'Refleksi konsistensi/waktu ibadah. Tenang. JANGAN klaim "waktu ini pasti mustajab".' },
-        { value:'hook_curiosity_doa', label:'Hook rekomendasi amalan', mention:'none', instr:'Hook penasaran + rekomen 1 amalan/surah/dzikir dengan NAMA-nya + alasan personal. WAJIB: tanpa teks Arab, tanpa nomor ayat, tanpa "HR.", tanpa janji materi.' },
+        { value:'hook_curiosity_doa', label:'Hook rekomendasi amalan', mention:'none', instr:'Buka dgn HOOK penasaran KUAT (curiosity gap/pertanyaan relatable/"jarang orang tau...") + rekomen 1 amalan/surah/dzikir dengan NAMA-nya + alasan personal. Bikin pengen baca sampai habis. WAJIB: tanpa teks Arab, tanpa nomor ayat, tanpa "HR.", tanpa janji materi.' },
         { value:'syukur_daily', label:'Syukur harian', mention:'none', instr:'Observasi kecil bahan syukur (masih bisa bangun/sujud). Relatable, ga lebay. TANPA produk.' },
         { value:'muhasabah_night', label:'Muhasabah malam', mention:'none', instr:'Refleksi malam yang lembut & jujur (bukan menghakimi). TANPA produk.' },
+        { value:'list_amalan', label:'List amalan (bernomor, hook)', mention:'none', instr:'LIST bernomor pendek (3-4 poin) + judul HOOK curiosity (mis. "3 amalan yang bikin hati lebih tenang, yang ke-2 sering dilupain"). Tiap poin 1 baris: nama amalan/surah + kesan personal singkat. WAJIB: tanpa teks Arab, tanpa nomor ayat, tanpa "HR.", tanpa janji materi.' },
         { value:'subtle_safar_umroh', label:'+ Subtle Safar AI (Umroh only)', mention:'subtle', instr:'Cerita persiapan Umroh / rindu Tanah Suci (2-3 baris) — ABAIKAN topik lain kalau bukan Umroh. Lalu 1 baris sebut Safar AI sebagai app yang nemenin ibadah DI TANAH SUCI (panduan ritual/kiblat/jadwal shalat). "ada di bio" boleh.' },
       ],
-      formatRules: '- 2-4 baris pendek, personal (curhat ke temen, BUKAN ceramah)\n- "insyaAllah/alhamdulillah/aamiin" natural, jangan tiap kalimat\n- Emoji SPARING di ujung (🤍✨🙏) max 1-2\n- Sebut surah/doa CUKUP NAMA POPULERNYA + framing pengalaman\n- Total karakter MAX 450',
+      formatRules: '- BARIS PERTAMA = HOOK bikin berhenti scroll (pertanyaan relatable/pernyataan berani/curiosity gap), jangan buka datar\n- 2-4 baris pendek, personal (curhat ke temen, BUKAN ceramah)\n- "insyaAllah/alhamdulillah/aamiin" natural, jangan tiap kalimat\n- Emoji SPARING di ujung (🤍✨🙏) max 1-2\n- Sebut surah/doa CUKUP NAMA POPULERNYA + framing pengalaman\n- Total karakter MAX 450',
       avoid: 'CERAMAH/menggurui, MENGHAKIMI orang, klaim fakta absolut, corporate/hard-sell.',
       safety: '- JANGAN nulis teks ayat/doa huruf Arab. JANGAN kutip terjemahan ayat kata-per-kata.\n- JANGAN kutip hadits dengan atribusi (HR. Bukhari/Muslim/dst) — cukup pesan umumnya.\n- JANGAN kasih nomor ayat/surat spesifik (rawan salah).\n- JANGAN janji hasil pasti/materi ("dijamin kaya","pasti terkabul","anti miskin"). Framing ketenangan/harapan + insyaAllah.\n- SAFAR AI itu companion IBADAH DI TANAH SUCI (Umroh/Hajj) — BUKAN app baca Quran/murottal/baca surat harian di rumah. Cuma sebut pas konteks Umroh/Tanah Suci.',
       examples: '"Nenek aku selalu bilang, jangan tinggalin Al-Waqiah tiap malam. Dulu aku iya-iya aja. Sekarang tiap habis Maghrib aku baca — bukan karena takut kekurangan, tapi hati jadi lebih tenang. InsyaAllah cukup itu 🤍"\n"Unpopular opinion: makin sibuk ngejar dunia, aku malah makin gampang cemas. Baru berasa penuh lagi pas mulai jaga sholat 5 waktu beneran."',
