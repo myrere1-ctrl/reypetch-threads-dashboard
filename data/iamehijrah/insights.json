@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-08-25T14:10:16.093Z",
+  "updated_at": "2026-08-25T15:10:27.734Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-lga3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=Yni-VQklylQQ7kNvwFlfxpB&_nc_oc=Adqf45CG-5JcpM6qwsEgEcA9zALjjVDpEDHEsa9x46lcmP1iPrNxFg7nZho3AB1vdX0&_nc_zt=24&_nc_ht=scontent-lga3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=i1wUfvyfpl3C-bjDTgReqw&_nc_tpa=Q5bMBQI5BM5RbUvxxWJA9685jdsbmvos1rkvteId-cEntvHRusDXps3FhquNOl67PLatkLC-CvKuWox-KA&oh=00_AQFGyWPapuzKBawUV2jugkZMjZs2bnYtwZ_Rt82YfZcshw&oe=6A936113"
+    "picture": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMiJ9&_nc_ohc=afst3TKivtoQ7kNvwG91O0_&_nc_oc=AdplMlxLF_Rh8HYmRdPxaxMJpepzxV06zD7SRxkFk6-l4AQNdt7aCiVZD8lY5hJaczw&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=QZyZ__FItnz7ppn-gW3cHQ&_nc_tpa=Q5bMBQIFbeDY8Xc-IgyT4xgNDeBt06h0gP6WKnarI5CoynlQwF8aDJ9x4cvY7lsKbqhAOzjyKa5GEZzTgw&oh=00_AQEjH4C0wMoicM3sY4QLrCLHposrB3aQZGd-DTlFy5HooQ&oe=6A939953"
   },
   "summary": {
     "followers_count": 1,
-    "views": 87,
-    "likes": 0,
+    "views": 232,
+    "likes": 3,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 29,
-    "engagement_rate": 33.33,
+    "engagement_total": 35,
+    "engagement_rate": 15.09,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -33,6 +33,21 @@
         "shares": 0
       },
       "engagement": 7
+    },
+    {
+      "id": "18140806228575719",
+      "text": "Ibu aku ga pernah skip tahajjud — bahkan waktu lagi sakit sekalipun.\nDulu aku nanya, \"Bu, ga capek?\"\n Beliau jawab, \"Jus",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dcd20dfFDa9",
+      "timestamp": "2026-08-25T14:31:16+0000",
+      "metrics": {
+        "views": 110,
+        "likes": 6,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 6
     },
     {
       "id": "17930432325374836",
@@ -78,31 +93,31 @@
         "shares": 0
       },
       "engagement": 4
-    },
+    }
+  ],
+  "recent_posts": [
     {
-      "id": "18026300093904841",
-      "text": "Ibu aku selalu bilang, kalau ngerasa capek banget sama hidup — jangan lupa ucap La Hawla Wala Quwwata Illa Billah.\nDulu ",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DcL1QA2HEzG",
-      "timestamp": "2026-08-18T14:31:14+0000",
+      "id": "18140806228575719",
+      "text": "Ibu aku ga pernah skip tahajjud — bahkan waktu lagi sakit sekalipun.\nDulu aku nanya, \"Bu, ga capek?\"\n Beliau jawab, \"Jus",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dcd20dfFDa9",
+      "timestamp": "2026-08-25T14:31:16+0000",
       "metrics": {
-        "views": 106,
-        "likes": 2,
+        "views": 110,
+        "likes": 6,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 2
-    }
-  ],
-  "recent_posts": [
+      "engagement": 6
+    },
     {
       "id": "18222057046332458",
       "text": "Jarang orang tau dzikir pagi itu bukan cuma rutinitas — itu semacam \"reset\" sebelum dunia mulai berisik.\nAku mulai rutin",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DcdsjSdIGF4",
       "timestamp": "2026-08-25T13:01:33+0000",
       "metrics": {
-        "views": 72,
+        "views": 105,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -230,21 +245,6 @@
         "shares": 0
       },
       "engagement": 5
-    },
-    {
-      "id": "17905379289537740",
-      "text": "Nenek aku selalu bilang, jangan tidur sebelum baca Al-Waqiah — apapun kondisinya, sesibuk apapun malam itu.\nDulu aku ang",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DcTjo_TFF0e",
-      "timestamp": "2026-08-21T14:31:16+0000",
-      "metrics": {
-        "views": 49,
-        "likes": 1,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
     }
   ]
 }
