@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-08-25T22:50:15.979Z",
+  "updated_at": "2026-08-25T23:44:06.876Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=afst3TKivtoQ7kNvwH78igJ&_nc_oc=Adobi-T42gK2JV2zu1KuujWtTyylJLV5NqH3mNZouWjueH7KzLHUr_MjktXVin6vpOw&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=clyJDygOFjNAoGNzQM-rKA&_nc_tpa=Q5bMBQLDptDdgc3qigjOWU86Xx-Qeu6ngKIQqK8JsjxebvbYRNbgMmKdXi9-ESE3cKhKJEVY7lPYRm5GXg&oh=00_AQGIqG8h9jVXSBGNbOmKuxMFDikfqO2k4znNGUN84aQHQw&oe=6A9409D3"
+    "picture": "https://scontent-atl3-3.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=afst3TKivtoQ7kNvwEkfier&_nc_oc=AdpLkG0hePUeLndZ-LyYKql4z_lvNK7ByJtZuK3BmanybXsL3YLAQQXohJO1QF9XLI8&_nc_zt=24&_nc_ht=scontent-atl3-3.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=MVXqZ3cIWJpX-C4U8OfM6g&_nc_tpa=Q5bMBQK4OiVpV09VaAbIkjOasqJV295L-Jl44MNjfUHPG9zxD_M93Se6zaKvwPWhkNZBTbuyCWS0pRXqrA&oh=00_AQF8Rr2Yjohv2a0aOiby-tYY_rnsDsEuGbNqF2hmoKZBXw&oe=6A9409D3"
   },
   "summary": {
     "followers_count": 1,
-    "views": 358,
-    "likes": 17,
+    "views": 518,
+    "likes": 22,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 47,
-    "engagement_rate": 13.13,
+    "engagement_total": 53,
+    "engagement_rate": 10.23,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -25,7 +25,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dcd20dfFDa9",
       "timestamp": "2026-08-25T14:31:16+0000",
       "metrics": {
-        "views": 245,
+        "views": 248,
         "likes": 17,
         "replies": 0,
         "reposts": 0,
@@ -33,6 +33,21 @@
         "shares": 0
       },
       "engagement": 17
+    },
+    {
+      "id": "18098149799295713",
+      "text": "Pernah ga, baca Ayat Kursi tiap malam — tapi ga beneran ngerasain?\nAku lama banget kayak gitu. Hapal, rutin, tapi kayak.",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DcetwCMk2dN",
+      "timestamp": "2026-08-25T22:31:17+0000",
+      "metrics": {
+        "views": 157,
+        "likes": 8,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 8
     },
     {
       "id": "18115794334944471",
@@ -78,21 +93,6 @@
         "shares": 0
       },
       "engagement": 5
-    },
-    {
-      "id": "18101377193189402",
-      "text": "Unpopular opinion: Al-Waqiah itu bukan soal \"biar ga miskin\" — tapi tiap kali aku baca, yang berubah duluan bukan kondis",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DcYi72vFWZM",
-      "timestamp": "2026-08-23T13:01:18+0000",
-      "metrics": {
-        "views": 213,
-        "likes": 4,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 4
     }
   ],
   "recent_posts": [
@@ -102,14 +102,14 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DcetwCMk2dN",
       "timestamp": "2026-08-25T22:31:17+0000",
       "metrics": {
-        "views": 0,
-        "likes": 2,
+        "views": 157,
+        "likes": 8,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 2
+      "engagement": 8
     },
     {
       "id": "18140806228575719",
@@ -117,7 +117,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dcd20dfFDa9",
       "timestamp": "2026-08-25T14:31:16+0000",
       "metrics": {
-        "views": 245,
+        "views": 248,
         "likes": 17,
         "replies": 0,
         "reposts": 0,
