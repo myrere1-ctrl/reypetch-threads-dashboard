@@ -1,24 +1,39 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-08-25T15:10:27.734Z",
+  "updated_at": "2026-08-25T16:04:55.032Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMiJ9&_nc_ohc=afst3TKivtoQ7kNvwG91O0_&_nc_oc=AdplMlxLF_Rh8HYmRdPxaxMJpepzxV06zD7SRxkFk6-l4AQNdt7aCiVZD8lY5hJaczw&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=QZyZ__FItnz7ppn-gW3cHQ&_nc_tpa=Q5bMBQIFbeDY8Xc-IgyT4xgNDeBt06h0gP6WKnarI5CoynlQwF8aDJ9x4cvY7lsKbqhAOzjyKa5GEZzTgw&oh=00_AQEjH4C0wMoicM3sY4QLrCLHposrB3aQZGd-DTlFy5HooQ&oe=6A939953"
+    "picture": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=afst3TKivtoQ7kNvwGLIZB3&_nc_oc=AdobxQgDYHNkEoYnvxQjYQjV4_DczZv8wrMkPlYEiUgjUVPtyEA5ydQJnf4vct8N0EU&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=DBtxg7I-UY241cnPcgs3mA&_nc_tpa=Q5bMBQJm6F03fIKuJafE4HAleuzBcnV5PsGD9wruUJAjqPrKQajIuT6ZrWlYp790PU8SHlwAjKmyDZGwqA&oh=00_AQGWaSAN01jtgVZc33DKDtDaOM5QYa5bkiY-WA5cmem18g&oe=6A939953"
   },
   "summary": {
     "followers_count": 1,
-    "views": 232,
-    "likes": 3,
+    "views": 272,
+    "likes": 6,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 35,
-    "engagement_rate": 15.09,
+    "engagement_total": 37,
+    "engagement_rate": 13.6,
     "curiosity_score": null,
     "post_count": 25
   },
   "top_posts": [
+    {
+      "id": "18140806228575719",
+      "text": "Ibu aku ga pernah skip tahajjud — bahkan waktu lagi sakit sekalipun.\nDulu aku nanya, \"Bu, ga capek?\"\n Beliau jawab, \"Jus",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dcd20dfFDa9",
+      "timestamp": "2026-08-25T14:31:16+0000",
+      "metrics": {
+        "views": 159,
+        "likes": 8,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 8
+    },
     {
       "id": "18115794334944471",
       "text": "Kalau lagi ngerasa terpuruk banget dan ga tau harus mulai dari mana — aku biasanya balik ke Doa Nabi Yunus.\nDoa yang dib",
@@ -33,21 +48,6 @@
         "shares": 0
       },
       "engagement": 7
-    },
-    {
-      "id": "18140806228575719",
-      "text": "Ibu aku ga pernah skip tahajjud — bahkan waktu lagi sakit sekalipun.\nDulu aku nanya, \"Bu, ga capek?\"\n Beliau jawab, \"Jus",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dcd20dfFDa9",
-      "timestamp": "2026-08-25T14:31:16+0000",
-      "metrics": {
-        "views": 110,
-        "likes": 6,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 6
     },
     {
       "id": "17930432325374836",
@@ -102,14 +102,14 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dcd20dfFDa9",
       "timestamp": "2026-08-25T14:31:16+0000",
       "metrics": {
-        "views": 110,
-        "likes": 6,
+        "views": 159,
+        "likes": 8,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 6
+      "engagement": 8
     },
     {
       "id": "18222057046332458",
@@ -117,7 +117,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DcdsjSdIGF4",
       "timestamp": "2026-08-25T13:01:33+0000",
       "metrics": {
-        "views": 105,
+        "views": 111,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
