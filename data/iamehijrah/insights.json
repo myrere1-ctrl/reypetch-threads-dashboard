@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-08-25T04:59:19.803Z",
+  "updated_at": "2026-08-25T05:52:30.553Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-lhr11-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=Yni-VQklylQQ7kNvwGp6ffg&_nc_oc=AdqsuHc7FObn6kYX5ewb_ttSZ4kBXsLvrzESyf3DdEAu5k0gv-RE5a__BkPEEK1hGko&_nc_zt=24&_nc_ht=scontent-lhr11-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=riSE7AUOBnD3hiWUVwA0fA&_nc_tpa=Q5bMBQJmR0xG0xqnVTGQuuw0ko5CUHyS27VNnOt7dpZecmZFfvLWWSoWAfQZ7mk8liZ2XVzKh71VhkhBTA&oh=00_AQFXXyITmvp1SM71QrHG-gXe3ZmRQmc2lgbFHzxs33SrWQ&oe=6A92F093"
+    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=Yni-VQklylQQ7kNvwFQQqQ_&_nc_oc=AdpdWRztZPpb_cthgjBgT1-b8myzifQ9r0eZqJlrEQWKMO1CZOuH8-qxnhhiozI7CL0&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=OY9YYDigxqJIvRPg12sXSA&_nc_tpa=Q5bMBQJSx194HQWSD2WbaZ7f92L-mtGvBdpnBdMXJCDMzLVZcpwlIwZ35qm_j9hsoz_FFmIjptBFZlyP_w&oh=00_AQHfh1Y-C4BbZHX30OOiyl9OMT-Job9Wr4Jhcb5y5gJs6w&oe=6A92F093"
   },
   "summary": {
     "followers_count": 1,
-    "views": 136,
+    "views": 146,
     "likes": 1,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 29,
-    "engagement_rate": 21.32,
+    "engagement_rate": 19.86,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -97,12 +97,27 @@
   ],
   "recent_posts": [
     {
+      "id": "17940994095299703",
+      "text": "Hari ini ga ngapa-ngapain yang \"wah\" — tapi tiba-tiba sadar, masih dikasih mulut buat beristighfar.\nSekecil itu, dan itu",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dcc5A8yFsdX",
+      "timestamp": "2026-08-25T05:31:13+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "18047486471799561",
       "text": "Lagi di titik semua kerasa ketutup — pikiran muter, hati berat, tapi ga ada kata yang bisa keluar?\nAku pernah di situ. D",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DccfRGgDUnG",
       "timestamp": "2026-08-25T01:46:13+0000",
       "metrics": {
-        "views": 35,
+        "views": 36,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -230,21 +245,6 @@
         "shares": 0
       },
       "engagement": 0
-    },
-    {
-      "id": "18100809236216371",
-      "text": "Rindu Tanah Suci itu aneh — datangnya justru pas habis Subuh, waktu masih sepi dan kepala belum penuh.\nDuduk diem, ngeba",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DcQ-1mHFot5",
-      "timestamp": "2026-08-20T14:31:13+0000",
-      "metrics": {
-        "views": 20,
-        "likes": 1,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
     }
   ]
 }
