@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-08-26T09:06:17.952Z",
+  "updated_at": "2026-08-26T10:00:58.466Z",
   "profile": {
     "username": "iams_ichi",
     "name": "iams",
     "biography": "🇦🇺\n🧠Psi + Traveling \nSolo Traveler Bunglon\nFine dining 👌 & Street food lokal 🫰\nHidden gems Insider for 🇯🇵🇦🇺🇫🇷🇪🇸🇮🇹 + Umrah.\n✉️ cmo@coa.a",
-    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=6YNGEQZ0yboQ7kNvwGSOqn1&_nc_oc=AdoTNR6Ga-fyHlBJaLazOWT15cRM5efCIRrHmHET-7sJk9SCN-Voi-h-yZSflzHr57M&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=eV7oifkOIpTOKiLrAz0gQg&_nc_tpa=Q5bMBQI52tYdwN-YTFLBLob6pkaPL7uwLLnwECaF4R0YmT8S-DRXNZwLFGcSnM-UNtM8AUMIMerApEcHsA&oh=00_AQHYqra5uBuLbtl9ehsbzE3m9fUDzfDZkCWLjiT3UNINhA&oe=6A9488DE"
+    "picture": "https://scontent-dfw6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=6YNGEQZ0yboQ7kNvwE3-Nkv&_nc_oc=AdpAka7jd94bMf_uSn5HjJlezhB5PxXkUS9pTs6vrEfeZ9QjGGBywmWA3wCC8KAfZT0&_nc_zt=24&_nc_ht=scontent-dfw6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=5gvlAbpHTl2LJ4k4_4beWQ&_nc_tpa=Q5bMBQL0HQ8fCfrcsANTG8yBAc29Cdacf2LkFJEdKh1zyGYOoyxc_s5UB0H10smEG58WKYDr34LZSU8xlA&oh=00_AQEsbphGAlpac9f4JMzXh55vKtYwF_fQbqyR6h1H_491NQ&oe=6A9488DE"
   },
   "summary": {
     "followers_count": 1355,
-    "views": 95,
+    "views": 159,
     "likes": 3,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 133,
-    "engagement_rate": 140,
+    "engagement_total": 127,
+    "engagement_rate": 79.87,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -67,21 +67,6 @@
       "engagement": 10
     },
     {
-      "id": "18069918425477736",
-      "text": "Dulu mikir sendirian di Jepang itu butuh keberanian lebih.\nTernyata yang lebih susah: nggak merasa harus justify kenapa ",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DcLzgbZoOH-",
-      "timestamp": "2026-08-18T14:16:00+0000",
-      "metrics": {
-        "views": 212,
-        "likes": 5,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 6
-    },
-    {
       "id": "18480561172128868",
       "text": "Hokkaido ngajarin aku satu hal yang aneh: keheningan itu bukan awkward kalau lo berhenti nunggu seseorang ngisi dia.\nAku",
       "permalink": "https://www.threads.com/@iams_ichi/post/DcN3tBolQLZ",
@@ -95,16 +80,46 @@
         "shares": 0
       },
       "engagement": 4
+    },
+    {
+      "id": "18143366980517856",
+      "text": "Jam 2 siang di Kuromon Market, matahari gila, dan aku baru sadar — aku udah muter 3 kali ke lapak yang sama cuma karena ",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DcNta0Tlp_z",
+      "timestamp": "2026-08-19T08:01:16+0000",
+      "metrics": {
+        "views": 180,
+        "likes": 2,
+        "replies": 2,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 4
     }
   ],
   "recent_posts": [
+    {
+      "id": "18150519139522600",
+      "text": "Hal yang nggak pernah diceritain orang soal Raudhah: antrenya bisa bikin lo ngerasa kayak lagi dalam social experiment.\n",
+      "permalink": "https://www.threads.com/@iams_ichi/post/Dcf5Ragkaec",
+      "timestamp": "2026-08-26T09:31:14+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
     {
       "id": "18116239202513296",
       "text": "Jam 2 pagi di Masjidil Haram, aku baru sadar satu hal:\ntempat ini nggak pernah sepi — tapi aku nggak pernah ngerasa send",
       "permalink": "https://www.threads.com/@iams_ichi/post/Dcfu-qloCkt",
       "timestamp": "2026-08-26T08:01:13+0000",
       "metrics": {
-        "views": 66,
+        "views": 128,
         "likes": 2,
         "replies": 0,
         "reposts": 0,
@@ -119,7 +134,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DcdeyoIk_iZ",
       "timestamp": "2026-08-25T11:01:19+0000",
       "metrics": {
-        "views": 71,
+        "views": 72,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -164,7 +179,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DccR2xLgbQ9",
       "timestamp": "2026-08-24T23:48:29+0000",
       "metrics": {
-        "views": 4,
+        "views": 5,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -232,21 +247,6 @@
         "shares": 0
       },
       "engagement": 0
-    },
-    {
-      "id": "18181521310424512",
-      "text": "Survival tip umroh buat introvert yang jarang dibahas: cari satu spot \"base\" yang lo balik terus setiap capek — bukan bu",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DcYK4N3m_s4",
-      "timestamp": "2026-08-23T09:31:05+0000",
-      "metrics": {
-        "views": 197,
-        "likes": 3,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 3
     }
   ]
 }
