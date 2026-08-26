@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-08-26T13:27:41.909Z",
+  "updated_at": "2026-08-26T15:56:10.381Z",
   "profile": {
     "username": "iams_ichi",
     "name": "iams",
     "biography": "🇦🇺\n🧠Psi + Traveling \nSolo Traveler Bunglon\nFine dining 👌 & Street food lokal 🫰\nHidden gems Insider for 🇯🇵🇦🇺🇫🇷🇪🇸🇮🇹 + Umrah.\n✉️ cmo@coa.a",
-    "picture": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=CzZN6fC97RoQ7kNvwHn0EyJ&_nc_oc=AdreQl9vuhRXN738fTCA_g4g-hoMaWHplnZTAYGKNrcpz50-HScrgumwlE7hrKB5KXM&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=n47tXAwfeqCY5joZbLs8MQ&_nc_tpa=Q5bMBQJA6hZf1gEO8bCbPYNEqXCMyjb7yCHFMCcXbXPPNu6vtHVAq2YlTQhEqBklBfUfvxDNCSx7qvJSsQ&oh=00_AQFkp29iMc5MtFWd0krAIMjzAL-G7YCR7Yj9bTCgI1qgjg&oe=6A94C11E"
+    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=CzZN6fC97RoQ7kNvwEh5YEd&_nc_oc=Adr9ykV4szhPobvBpj2sGfCb-Re61a1GGRt_KdLd0TCn6mBC4vVXVdITgld_l4HtsA8&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=e1-GANNVXOHNYG2ym5dzRg&_nc_tpa=Q5bMBQIscF4AhPexCHAfJQQ0LVMoVbkvspRitNyx06FD7EpNQ5H_HesyZtwJctmPR_C-232Qk16fqCMixg&oh=00_AQG2v4SWFTFUC85hBTs5PkEZvwp6It0Djzuiw3Dytxteyg&oe=6A94F95E"
   },
   "summary": {
     "followers_count": 1356,
-    "views": 212,
-    "likes": 4,
+    "views": 236,
+    "likes": 5,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 124,
-    "engagement_rate": 58.49,
+    "engagement_total": 125,
+    "engagement_rate": 52.97,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -67,6 +67,21 @@
       "engagement": 10
     },
     {
+      "id": "18116239202513296",
+      "text": "Jam 2 pagi di Masjidil Haram, aku baru sadar satu hal:\ntempat ini nggak pernah sepi — tapi aku nggak pernah ngerasa send",
+      "permalink": "https://www.threads.com/@iams_ichi/post/Dcfu-qloCkt",
+      "timestamp": "2026-08-26T08:01:13+0000",
+      "metrics": {
+        "views": 165,
+        "likes": 4,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 4
+    },
+    {
       "id": "18480561172128868",
       "text": "Hokkaido ngajarin aku satu hal yang aneh: keheningan itu bukan awkward kalau lo berhenti nunggu seseorang ngisi dia.\nAku",
       "permalink": "https://www.threads.com/@iams_ichi/post/DcN3tBolQLZ",
@@ -80,21 +95,6 @@
         "shares": 0
       },
       "engagement": 4
-    },
-    {
-      "id": "18116239202513296",
-      "text": "Jam 2 pagi di Masjidil Haram, aku baru sadar satu hal:\ntempat ini nggak pernah sepi — tapi aku nggak pernah ngerasa send",
-      "permalink": "https://www.threads.com/@iams_ichi/post/Dcfu-qloCkt",
-      "timestamp": "2026-08-26T08:01:13+0000",
-      "metrics": {
-        "views": 161,
-        "likes": 3,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 3
     }
   ],
   "recent_posts": [
@@ -134,14 +134,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dcfu-qloCkt",
       "timestamp": "2026-08-26T08:01:13+0000",
       "metrics": {
-        "views": 161,
-        "likes": 3,
+        "views": 165,
+        "likes": 4,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 3
+      "engagement": 4
     },
     {
       "id": "18064946603727895",
