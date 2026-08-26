@@ -1,11 +1,11 @@
 {
   "account": "iams",
-  "updated_at": "2026-08-26T07:12:53.703Z",
+  "updated_at": "2026-08-26T08:03:52.218Z",
   "profile": {
     "username": "iams_ichi",
     "name": "iams",
     "biography": "🇦🇺\n🧠Psi + Traveling \nSolo Traveler Bunglon\nFine dining 👌 & Street food lokal 🫰\nHidden gems Insider for 🇯🇵🇦🇺🇫🇷🇪🇸🇮🇹 + Umrah.\n✉️ cmo@coa.a",
-    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=6YNGEQZ0yboQ7kNvwHRJwlr&_nc_oc=Adp8yiSh0MvjYvt3bXi-8NxJahZoDQP1eZz0NM62KsZcrQlqo0TBQRQW_rTzX9AbpXQ&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=EAEowZwmczlz0qD9kV3oWw&_nc_tpa=Q5bMBQKCAyCO-sbiLURXknIer5GQoSjl4aNqS4KpjoCVbIJ3nLtFkmS_7cLXz0U_7QffqX0QT5d_8gD-wA&oh=00_AQHP2O2YQPRjRAD2Sv6J_96gizI86oqMDF4lM7aosb7CbQ&oe=6A94509E"
+    "picture": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=6YNGEQZ0yboQ7kNvwGy8hhR&_nc_oc=AdqzfhMixtfK2c2IO4Gs3dATkPSrQxP-NVnHM2Bh1svJYpdy1XCaf1n1949OkHHX18w&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=AuAr8HNvczBCFppg3cNENQ&_nc_tpa=Q5bMBQI2fv8Wq5qWd9kvHCGxfibXmQM3RQgs5qgsLc3c1smljUxoopaAy_XjDwvt9QM85Te7qlqnHNVv9g&oh=00_AQFiBb0-EIoggjFLmbaYf4owTAIBklHw9K8SYdhMuE7qoA&oe=6A9488DE"
   },
   "summary": {
     "followers_count": 1355,
@@ -15,7 +15,7 @@
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 133,
+    "engagement_total": 131,
     "engagement_rate": 0,
     "curiosity_score": null,
     "post_count": 25
@@ -98,6 +98,21 @@
     }
   ],
   "recent_posts": [
+    {
+      "id": "18116239202513296",
+      "text": "Jam 2 pagi di Masjidil Haram, aku baru sadar satu hal:\ntempat ini nggak pernah sepi — tapi aku nggak pernah ngerasa send",
+      "permalink": "https://www.threads.com/@iams_ichi/post/Dcfu-qloCkt",
+      "timestamp": "2026-08-26T08:01:13+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
     {
       "id": "18064946603727895",
       "text": "Dulu mikir persiapan umroh itu soal beli perlengkapan, hafal doa, dan badan fit.\nTernyata yang paling bikin aku kelabaka",
@@ -232,21 +247,6 @@
         "shares": 0
       },
       "engagement": 3
-    },
-    {
-      "id": "18413223430157203",
-      "text": "Unpopular opinion: Mekkah itu bukan destinasi yang lo \"nikmati\" — lo lebih banyak dihantam di sana daripada menikmati.\nD",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DcYAmBalYoi",
-      "timestamp": "2026-08-23T08:01:14+0000",
-      "metrics": {
-        "views": 164,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
     }
   ]
 }
