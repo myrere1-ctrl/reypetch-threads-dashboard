@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-08-26T11:51:22.770Z",
+  "updated_at": "2026-08-26T13:29:02.350Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=afst3TKivtoQ7kNvwGSCwDu&_nc_oc=Adrcf6xog2Ap5IZnyP5QjadDhbVoNOtYQLZFNhelcBEhNKo2Yb37J1FZ5Q8hXyv_F6A&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=4ZAWBRgwITOGXc4W9Yjrjw&_nc_tpa=Q5bMBQKExDOb3YzfEFz8PMCSaJraWFQu9MU8yuBQN96iIld1rjojg3VzFzLN6xiM0FpfvqLWK0X6F-nJ0g&oh=00_AQFHGyhs0otGvY4XsSQ5fkmER71YD59pEgt7_R0yU0abUQ&oe=6A94B293"
+    "picture": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=afst3TKivtoQ7kNvwHOpE2n&_nc_oc=Adqfv9QdtTH98zsoQZ3sfI2TZ9qr7SVFzdmA2Zimi0HvgD70aOcXO8q4egdbln2S4_U&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=46KlpD1xbX0xo3EySUwTcQ&_nc_tpa=Q5bMBQKp1AAh-pea86nruu2pf8OdUM9AxnRxUFN0XFaPnol-2-vFRsq7D8p_nWfrS4135JKPDJFfwVNWdQ&oh=00_AQFuRg4e2MZAevsJgv9RpghQo8ZE43ZxpPG-hk-QX3Dw4Q&oe=6A94B293"
   },
   "summary": {
     "followers_count": 1,
-    "views": 27,
-    "likes": 2,
+    "views": 125,
+    "likes": 5,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 59,
-    "engagement_rate": 218.52,
+    "engagement_total": 63,
+    "engagement_rate": 50.4,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -25,14 +25,14 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dcd20dfFDa9",
       "timestamp": "2026-08-25T14:31:16+0000",
       "metrics": {
-        "views": 293,
-        "likes": 21,
+        "views": 301,
+        "likes": 24,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 21
+      "engagement": 24
     },
     {
       "id": "18098149799295713",
@@ -40,7 +40,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DcetwCMk2dN",
       "timestamp": "2026-08-25T22:31:17+0000",
       "metrics": {
-        "views": 277,
+        "views": 279,
         "likes": 9,
         "replies": 1,
         "reposts": 0,
@@ -97,6 +97,21 @@
   ],
   "recent_posts": [
     {
+      "id": "17869212486637861",
+      "text": "4 kalimat yang aku ulang tiap kali ngerasa overwhelmed banget:\n1. La Hawla Wala Quwwata Illa Billah — reminder bahwa aku",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DcgRVMxm1T4",
+      "timestamp": "2026-08-26T13:01:25+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
       "id": "17903131032489382",
       "text": "Ibu aku selalu bilang, kalau mau harimu diberkahi — perbanyak sholawat.\nDulu aku pikir itu cuma kebiasaan beliau aja. Ta",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dcfd0KiEZ-H",
@@ -117,7 +132,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DcetwCMk2dN",
       "timestamp": "2026-08-25T22:31:17+0000",
       "metrics": {
-        "views": 277,
+        "views": 279,
         "likes": 9,
         "replies": 1,
         "reposts": 0,
@@ -132,14 +147,14 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dcd20dfFDa9",
       "timestamp": "2026-08-25T14:31:16+0000",
       "metrics": {
-        "views": 293,
-        "likes": 21,
+        "views": 301,
+        "likes": 24,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 21
+      "engagement": 24
     },
     {
       "id": "18222057046332458",
@@ -230,21 +245,6 @@
         "shares": 0
       },
       "engagement": 0
-    },
-    {
-      "id": "18101377193189402",
-      "text": "Unpopular opinion: Al-Waqiah itu bukan soal \"biar ga miskin\" — tapi tiap kali aku baca, yang berubah duluan bukan kondis",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DcYi72vFWZM",
-      "timestamp": "2026-08-23T13:01:18+0000",
-      "metrics": {
-        "views": 213,
-        "likes": 4,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 4
     }
   ]
 }
