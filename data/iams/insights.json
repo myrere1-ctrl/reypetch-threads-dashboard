@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-08-26T10:54:38.967Z",
+  "updated_at": "2026-08-26T11:50:15.803Z",
   "profile": {
     "username": "iams_ichi",
     "name": "iams",
     "biography": "🇦🇺\n🧠Psi + Traveling \nSolo Traveler Bunglon\nFine dining 👌 & Street food lokal 🫰\nHidden gems Insider for 🇯🇵🇦🇺🇫🇷🇪🇸🇮🇹 + Umrah.\n✉️ cmo@coa.a",
-    "picture": "https://scontent-lga3-3.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=6YNGEQZ0yboQ7kNvwFr-TID&_nc_oc=AdotCYywK3WhXdUdeZ3ZxO32ADPZgVVkpTPkc9drbYRO4gX9rfyP2MvM2VnvVmkAvGA&_nc_zt=24&_nc_ht=scontent-lga3-3.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=bpr7QpvGWWC7vMaHAbtNlw&_nc_tpa=Q5bMBQKqc-Vx5yUxHKmauAa3lAszmY1tdqhv1Cwll2MscV-6Bf5IELQurJH3Qu2yVUxTrs4r3g2-tFDS-Q&oh=00_AQH3p6TQQ74_F4aJUFMwaAv3g7xvz51QmZJ9K2dM8gpDkA&oe=6A9488DE"
+    "picture": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=CzZN6fC97RoQ7kNvwH9OM5p&_nc_oc=AdqMEOBFSs_kWMP87WLv-di3FOWFi8237o4aZguoiLAybrydSK8MI1b0Dai6YT6K7Qo&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=0Ay7T5UNY45kri_BxTGPvA&_nc_tpa=Q5bMBQLwRM6qmekoLQhmWczFL2rtSuSKmdIHW_U26C9cPnJBqDPvJY4-laQ2uu8Y-8oCrWZiDPZliDHl2g&oh=00_AQF9SwhFceOgfPbT3jPVRVmSR6NuVWQfo3oSexSbmmZlMg&oe=6A94C11E"
   },
   "summary": {
-    "followers_count": 1355,
-    "views": 181,
+    "followers_count": 1356,
+    "views": 196,
     "likes": 4,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 128,
-    "engagement_rate": 70.72,
+    "engagement_total": 124,
+    "engagement_rate": 63.27,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -82,22 +82,37 @@
       "engagement": 4
     },
     {
-      "id": "18143366980517856",
-      "text": "Jam 2 siang di Kuromon Market, matahari gila, dan aku baru sadar — aku udah muter 3 kali ke lapak yang sama cuma karena ",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DcNta0Tlp_z",
-      "timestamp": "2026-08-19T08:01:16+0000",
+      "id": "18116239202513296",
+      "text": "Jam 2 pagi di Masjidil Haram, aku baru sadar satu hal:\ntempat ini nggak pernah sepi — tapi aku nggak pernah ngerasa send",
+      "permalink": "https://www.threads.com/@iams_ichi/post/Dcfu-qloCkt",
+      "timestamp": "2026-08-26T08:01:13+0000",
       "metrics": {
-        "views": 180,
-        "likes": 2,
-        "replies": 2,
+        "views": 160,
+        "likes": 3,
+        "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 4
+      "engagement": 3
     }
   ],
   "recent_posts": [
+    {
+      "id": "17929237752402446",
+      "text": "Hal paling underrated dari planning umroh: ngitung energi, bukan cuma jadwal.\nKapan lo perlu sendirian, kapan lo butuh o",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DcgDleZlgUq",
+      "timestamp": "2026-08-26T11:01:18+0000",
+      "metrics": {
+        "views": 6,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
     {
       "id": "18150519139522600",
       "text": "Hal yang nggak pernah diceritain orang soal Raudhah: antrenya bisa bikin lo ngerasa kayak lagi dalam social experiment.\n",
@@ -119,7 +134,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dcfu-qloCkt",
       "timestamp": "2026-08-26T08:01:13+0000",
       "metrics": {
-        "views": 157,
+        "views": 160,
         "likes": 3,
         "replies": 0,
         "reposts": 0,
@@ -164,7 +179,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DcdKMcnIKIv",
       "timestamp": "2026-08-25T08:01:20+0000",
       "metrics": {
-        "views": 74,
+        "views": 75,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -179,7 +194,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DccR2xLgbQ9",
       "timestamp": "2026-08-24T23:48:29+0000",
       "metrics": {
-        "views": 5,
+        "views": 6,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -232,21 +247,6 @@
         "shares": 6
       },
       "engagement": 86
-    },
-    {
-      "id": "18126722350723710",
-      "text": "Mitos: Jabal Rahmah itu tempatnya doa jodoh, jadi yang dateng sendirian bakal ngerasa out of place.\nTernyata yang paling",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DcYVMYQFlZ2",
-      "timestamp": "2026-08-23T11:01:14+0000",
-      "metrics": {
-        "views": 20,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
     }
   ]
 }
