@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-08-26T20:13:17.200Z",
+  "updated_at": "2026-08-26T23:45:44.479Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-lhr11-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=afst3TKivtoQ7kNvwHSqty7&_nc_oc=AdrEoY657-L2t0alWSg9xFMt3x0oqCL2Y0l01zUFFsCz97w11rilS0RZTAwjNvquEq0&_nc_zt=24&_nc_ht=scontent-lhr11-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=4dpCKFImP4wZopxGXb2vPg&_nc_tpa=Q5bMBQL3k3f2cKwszVw1L66oRHKUvZM6iaYhvOSFxn4CWuPWRS15-q6qSEQoTCrdA8f5Ys1vdTtqgcPSKQ&oh=00_AQGYvTQix3hxvBwGGyjTnyWvsut24kLwmHVOT5OKsSP6BQ&oe=6A952313"
+    "picture": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=afst3TKivtoQ7kNvwEETc51&_nc_oc=AdpGNl6KqDvqMfwv4L2LmFbPKqT8mS5ee5pE5sDSCdW0mIICE11D9gjjSwWELz1EFVA&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=2d8W5PT6TmGHNe62dqtG7w&_nc_tpa=Q5bMBQITpj3dkWEvC5CSBxqNS8NJrse8H-wpGQOOzZ_RSwka7-myRfGoAbLjunxyII9LSNY5tIKcW7-RGw&oh=00_AQGclpopcDmFkxaI0bCEOf5ZZ3PsJiU90OrpiglIsruvpQ&oe=6A955B53"
   },
   "summary": {
     "followers_count": 1,
-    "views": 387,
+    "views": 401,
     "likes": 11,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 68,
-    "engagement_rate": 17.57,
+    "engagement_rate": 16.96,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -40,7 +40,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DcetwCMk2dN",
       "timestamp": "2026-08-25T22:31:17+0000",
       "metrics": {
-        "views": 283,
+        "views": 285,
         "likes": 10,
         "replies": 1,
         "reposts": 0,
@@ -97,12 +97,27 @@
   ],
   "recent_posts": [
     {
+      "id": "18444163573193303",
+      "text": "Pernah ngerasa udah minta tolong ke semua orang — tapi tetep ngerasa sendirian?\nAku pernah di titik itu. Dan yang akhirn",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DchSi4-G0dj",
+      "timestamp": "2026-08-26T22:31:16+0000",
+      "metrics": {
+        "views": 7,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "18629994754029846",
       "text": "Pernah ga ngerasa udah berusaha maksimal — tapi hasilnya tetep ga sesuai?\nAku lagi belajar satu hal pelan-pelan: sabar i",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DcgbnZbHGT3",
       "timestamp": "2026-08-26T14:31:17+0000",
       "metrics": {
-        "views": 78,
+        "views": 79,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -117,7 +132,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DcgRVMxm1T4",
       "timestamp": "2026-08-26T13:01:25+0000",
       "metrics": {
-        "views": 260,
+        "views": 262,
         "likes": 3,
         "replies": 0,
         "reposts": 0,
@@ -147,7 +162,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DcetwCMk2dN",
       "timestamp": "2026-08-25T22:31:17+0000",
       "metrics": {
-        "views": 283,
+        "views": 285,
         "likes": 10,
         "replies": 1,
         "reposts": 0,
@@ -223,21 +238,6 @@
       "timestamp": "2026-08-24T14:31:19+0000",
       "metrics": {
         "views": 82,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "17905485261544316",
-      "text": "Niat Umroh udah lama — dan hari ini aku coba isi waktu nunggu itu dengan yang bisa aku lakuin sekarang, salah satunya ba",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DcbHvYcoJyx",
-      "timestamp": "2026-08-24T13:01:24+0000",
-      "metrics": {
-        "views": 19,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
