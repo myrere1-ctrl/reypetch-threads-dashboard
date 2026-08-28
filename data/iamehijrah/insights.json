@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-08-27T20:36:41.591Z",
+  "updated_at": "2026-08-28T05:29:39.341Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=afst3TKivtoQ7kNvwFGytpc&_nc_oc=Adqn-IH47SC3ZS5AodpW7dHSopa2x9PsV2HWy4fHcnKXootoun93Jbjl91eI_Lx3mC4&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=T8y1U-4cDuvAN3XRr5xetw&_nc_tpa=Q5bMBQJI9yfOsLj-jlZ2EUD9-mByNsh9HNNJn7XRm1WNK55RDgTBH9RmV6RqwuYMy53cg9TYR4WZtwVHWg&oh=00_AQGIpL6HG9EDZCPxa3cPA6zQziAaOqUd93Q44kPaXU7n1g&oe=6A967493"
+    "picture": "https://scontent-lhr11-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=afst3TKivtoQ7kNvwHfwdRS&_nc_oc=AdpGFwlENdzJdj4C2NMAsfEYa8m2JZGBohck4WKqD-KBGvmo3SPcbs5KX7EFiPTxgPY&_nc_zt=24&_nc_ht=scontent-lhr11-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=qAzLTXKquYKs8iukwr1ZfQ&_nc_tpa=Q5bMBQKnPCu44pAx3RDQ8s5D63B_f0RjpVnC_t7THto57pQ6SKqQJcI7n9EQrKJlWc6yzQnBfGaNmXZppw&oh=00_AQGFk2utcLRhqVxetngU8duO8YjyRvqXFV1JFmEmfBkUFA&oe=6A96E513"
   },
   "summary": {
     "followers_count": 1,
-    "views": 132,
+    "views": 174,
     "likes": 1,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 58,
-    "engagement_rate": 43.94,
+    "engagement_rate": 33.33,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -97,12 +97,27 @@
   ],
   "recent_posts": [
     {
+      "id": "18164298685415076",
+      "text": "Udah malam — hati lagi ngomong apa ke kamu?\nAku mulai belajar satu hal: istighfar itu bukan cuma buat yang merasa berdos",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dcj3XLYmP0p",
+      "timestamp": "2026-08-27T22:31:28+0000",
+      "metrics": {
+        "views": 40,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "18406344727095860",
       "text": "Pernah ngerasa udah bersyukur — tapi hati masih aja ngerasa kurang?\nAku lama banget di situ. Ngucap alhamdulillah tapi s",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DcjAa_roHoL",
       "timestamp": "2026-08-27T14:31:23+0000",
       "metrics": {
-        "views": 75,
+        "views": 77,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -230,21 +245,6 @@
         "shares": 0
       },
       "engagement": 25
-    },
-    {
-      "id": "18222057046332458",
-      "text": "Jarang orang tau dzikir pagi itu bukan cuma rutinitas — itu semacam \"reset\" sebelum dunia mulai berisik.\nAku mulai rutin",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DcdsjSdIGF4",
-      "timestamp": "2026-08-25T13:01:33+0000",
-      "metrics": {
-        "views": 113,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
     }
   ]
 }
