@@ -1,11 +1,11 @@
 {
   "account": "rrpetch",
-  "updated_at": "2026-08-29T02:18:07.137Z",
+  "updated_at": "2026-08-29T09:11:00.992Z",
   "profile": {
     "username": "rrpetch",
     "name": "rrp",
     "biography": "Travelers",
-    "picture": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/787903758_18124679617780392_3585522233816659706_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=105&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=kjG1NazyLu0Q7kNvwFkhXXF&_nc_oc=Adqp2VdvZrfaBzx19sz-kzQf52q1-U8IkKy8BEsKExzlS9QRaPM2d0CbGIojNDL7INo&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=9KX31iBl6n_j1sNNxQDTig&_nc_tpa=Q5bMBQKNs0WuL1alsQym3-4Kb09y4IaufE8dSJf5oUuJS4jPpE2eWykzOC0HztHaLRglny9rIL-3B-g7BA&oh=00_AQJNWS_fmNaBXIpKU69s7zftCaskRkXD8vDP_oEqoQYVHg&oe=6A980F6D"
+    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/787903758_18124679617780392_3585522233816659706_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=105&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=kjG1NazyLu0Q7kNvwGRFUjR&_nc_oc=AdrVOfWzSPNsL6wnxhFrxYGLPStiTxuJfmLb6FLY7v1tKaLRbbzW8-jhBqnnrovUKEQ&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=jYkaI3hJOzel_PRDyPcVRg&_nc_tpa=Q5bMBQKipcbt5oMRYJutL82SDemwm4UQsTEqem9S3Q7HM7u1KdmzYpgiePJjyWEj_UtkMPtyDRxaJIWG6g&oh=00_AQK0yeCqeoUkfytD2bcZYeinT2Zrt5EOXFva4CRw34_zjA&oe=6A987FED"
   },
   "summary": {
     "followers_count": 0,
@@ -22,9 +22,24 @@
   },
   "top_posts": [
     {
+      "id": "18332119222259400",
+      "text": "Pernah ga sih lupa naruh dompet terus panik setengah mati, padahal ternyata di bawah bantal sendiri? Aku tuh orangnya 😭",
+      "permalink": "https://www.threads.com/@rrpetch/post/Dcm549oE4sr",
+      "timestamp": "2026-08-29T02:50:43+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "18332781262286337",
       "text": "Klien tanya soal Spanyol — dan pertanyaan pertama yang keluar bukan soal harga.\nTapi: \"Apa yang wajib tahu sebelum masuk",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbxmZJoG9ckPHqthFfKQZOi27YlJtyn6F1VAsE0",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbxmZJoG9ck",
       "timestamp": "2026-08-08T10:01:08+0000",
       "metrics": {
         "views": 0,
@@ -39,7 +54,7 @@
     {
       "id": "18128307127709783",
       "text": "Agen travel Prancis itu unik — pertanyaan jamaah/kliennya lapis-lapis.\nVisa Schengen, aturan museum, koneksi TGV Paris-L",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbxYqD7lka7nMXLkv5tfqVkyjRY81YDr5-pxLA0",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbxYqD7lka7",
       "timestamp": "2026-08-08T08:01:06+0000",
       "metrics": {
         "views": 0,
@@ -54,7 +69,7 @@
     {
       "id": "18129668908647598",
       "text": "Mitos yang masih beredar: \"Jamaah Haji sudah tua, tidak butuh teknologi.\"\nPadahal, justru mereka yang paling butuh jawab",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbxOWU2FplURY9vboYr9xntq9L6DyXGa1srWsE0",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbxOWU2FplU",
       "timestamp": "2026-08-08T06:31:02+0000",
       "metrics": {
         "views": 0,
@@ -69,23 +84,8 @@
     {
       "id": "17975186313109290",
       "text": "Agen travel Eropa Anda bisa punya AI companion ber-brand sendiri — nama bisnis Anda di depan, bukan nama vendor.\nTomodac",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbxEDlkkTnzghIqbRti3dsb-7kd3_aeFTrl-HA0",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbxEDlkkTnz",
       "timestamp": "2026-08-08T05:01:06+0000",
-      "metrics": {
-        "views": 0,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "17913890607244986",
-      "text": "Bayangkan jamaah Anda membuka aplikasi — dan yang menyapa bukan nama vendor, tapi nama agen Anda sendiri.\nSafar AI bisa ",
-      "permalink": "https://www.threads.com/@rrpetch/post/Dbw5wU3ALEi3Q_CH4fGPTkUNX9gFQC11eVoLxU0",
-      "timestamp": "2026-08-08T03:31:05+0000",
       "metrics": {
         "views": 0,
         "likes": 0,
@@ -99,9 +99,24 @@
   ],
   "recent_posts": [
     {
+      "id": "18332119222259400",
+      "text": "Pernah ga sih lupa naruh dompet terus panik setengah mati, padahal ternyata di bawah bantal sendiri? Aku tuh orangnya 😭",
+      "permalink": "https://www.threads.com/@rrpetch/post/Dcm549oE4sr",
+      "timestamp": "2026-08-29T02:50:43+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "18332781262286337",
       "text": "Klien tanya soal Spanyol — dan pertanyaan pertama yang keluar bukan soal harga.\nTapi: \"Apa yang wajib tahu sebelum masuk",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbxmZJoG9ckPHqthFfKQZOi27YlJtyn6F1VAsE0",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbxmZJoG9ck",
       "timestamp": "2026-08-08T10:01:08+0000",
       "metrics": {
         "views": 0,
@@ -116,7 +131,7 @@
     {
       "id": "18128307127709783",
       "text": "Agen travel Prancis itu unik — pertanyaan jamaah/kliennya lapis-lapis.\nVisa Schengen, aturan museum, koneksi TGV Paris-L",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbxYqD7lka7nMXLkv5tfqVkyjRY81YDr5-pxLA0",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbxYqD7lka7",
       "timestamp": "2026-08-08T08:01:06+0000",
       "metrics": {
         "views": 0,
@@ -131,7 +146,7 @@
     {
       "id": "18129668908647598",
       "text": "Mitos yang masih beredar: \"Jamaah Haji sudah tua, tidak butuh teknologi.\"\nPadahal, justru mereka yang paling butuh jawab",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbxOWU2FplURY9vboYr9xntq9L6DyXGa1srWsE0",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbxOWU2FplU",
       "timestamp": "2026-08-08T06:31:02+0000",
       "metrics": {
         "views": 0,
@@ -146,7 +161,7 @@
     {
       "id": "17975186313109290",
       "text": "Agen travel Eropa Anda bisa punya AI companion ber-brand sendiri — nama bisnis Anda di depan, bukan nama vendor.\nTomodac",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbxEDlkkTnzghIqbRti3dsb-7kd3_aeFTrl-HA0",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbxEDlkkTnz",
       "timestamp": "2026-08-08T05:01:06+0000",
       "metrics": {
         "views": 0,
@@ -161,7 +176,7 @@
     {
       "id": "17913890607244986",
       "text": "Bayangkan jamaah Anda membuka aplikasi — dan yang menyapa bukan nama vendor, tapi nama agen Anda sendiri.\nSafar AI bisa ",
-      "permalink": "https://www.threads.com/@rrpetch/post/Dbw5wU3ALEi3Q_CH4fGPTkUNX9gFQC11eVoLxU0",
+      "permalink": "https://www.threads.com/@rrpetch/post/Dbw5wU3ALEi",
       "timestamp": "2026-08-08T03:31:05+0000",
       "metrics": {
         "views": 0,
@@ -176,7 +191,7 @@
     {
       "id": "17901746592479279",
       "text": "Klien tanya soal Italia — dress code Vatikan, koneksi kereta Roma-Florence, estimasi waktu di Colosseum.\nPertanyaan sepe",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbwvdbNERaINaHvj7Ie3f8bofVY44dU9kl-zyQ0",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbwvdbNERaI",
       "timestamp": "2026-08-08T02:01:08+0000",
       "metrics": {
         "views": 0,
@@ -191,7 +206,7 @@
     {
       "id": "18150969688509526",
       "text": "Satu hal yang sering bikin traveler Jepang frustrasi:\npertanyaan sederhana — tapi dijawab besok.\nJam operasional, aturan",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbwlLgjCb1A-28y3Ws6nOzzEbiFFKltaItMNSk0",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbwlLgjCb1A",
       "timestamp": "2026-08-08T00:31:18+0000",
       "metrics": {
         "views": 0,
@@ -206,7 +221,7 @@
     {
       "id": "18154051732498001",
       "text": "Mitos yang masih beredar: \"Klien agen Eropa terlalu kompleks, harus dijawab manual satu per satu.\"\nPadahal, mayoritas pe",
-      "permalink": "https://www.threads.com/@rrpetch/post/Dbwa3XeGFo689pQcwE0VBs8TdtXQXy_a5Da1Gs0",
+      "permalink": "https://www.threads.com/@rrpetch/post/Dbwa3XeGFo6",
       "timestamp": "2026-08-07T23:01:11+0000",
       "metrics": {
         "views": 0,
@@ -221,23 +236,8 @@
     {
       "id": "18335677762283721",
       "text": "Mitos yang sering beredar: \"Klien agen Eropa terlalu demanding, mustahil di-handle tanpa tim besar.\"\nPadahal, sebagian b",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbvdErcESltbV4CJX89OvwUECU3Upf7YxKAVOA0",
+      "permalink": "https://www.threads.com/@rrpetch/post/DbvdErcESlt",
       "timestamp": "2026-08-07T14:01:13+0000",
-      "metrics": {
-        "views": 0,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "17865244566643643",
-      "text": "Agen Umroh klien kami punya 4 staff CS untuk handle 200+ jamaah per musim.\nHampir 70% pertanyaan masuk itu sama: jadwal ",
-      "permalink": "https://www.threads.com/@rrpetch/post/DbvPVdolMZ5csP8s3ZuwAkiNEGpGP19No8MyiU0",
-      "timestamp": "2026-08-07T12:01:11+0000",
       "metrics": {
         "views": 0,
         "likes": 0,
