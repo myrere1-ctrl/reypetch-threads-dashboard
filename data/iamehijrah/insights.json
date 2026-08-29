@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-08-28T18:50:41.393Z",
+  "updated_at": "2026-08-29T02:18:33.996Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=NsQ3nHy5Z8cQ7kNvwHVbNj0&_nc_oc=Adql2iHUAc6AR-pwDOby0UWP4GIU5KUcejgEXTKbmUXZ20A7WsxW9kCfqzS_e6Ge6M4&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=58x5yrEzLhSlzJ_RGDMdXg&_nc_tpa=Q5bMBQL6BTg2Q7BSBrTveCAkTfnFyW21Y-efWqMgTEnEUaXlXp2Q0hEtwd9fcRuWouI9rXvVyQ3w78F-Xw&oh=00_AQFAc_c_UtLMRMf6bb0MGXfikQNhVlIVT8iwBnbv0t0Vhw&oe=6A97C613"
+    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=NsQ3nHy5Z8cQ7kNvwGXYIQ-&_nc_oc=Adrl3QgPoJbIBkiJLyfbtkFAAIreCrzFy_QxGS6LcaJ9hh3avDbLlxweFEUrNZq7tSM&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=XySYY7r9kPWygTaatKT44Q&_nc_tpa=Q5bMBQJAZeX3nKH48AjgZgXvhbTuERVVYBPDUgWm_7k5QCN1CsVCdQnT_p8Vp4bTXpxt6Cowc-WYGrDZuA&oh=00_AQLqH9tf3Gy2FDgUr-CGF8gdP_bjGohaibwegJbwLRdkOg&oe=6A97FE53"
   },
   "summary": {
     "followers_count": 1,
-    "views": 64,
+    "views": 87,
     "likes": 2,
     "replies": 0,
     "reposts": 2,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 62,
-    "engagement_rate": 96.88,
+    "engagement_total": 61,
+    "engagement_rate": 70.11,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -97,12 +97,27 @@
   ],
   "recent_posts": [
     {
+      "id": "18079721333698016",
+      "text": "Sholawat itu yang aku sering lupa — padahal katanya paling gampang diamalin kapan aja.\nDulu aku kira sholawat cuma buat ",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DcmcIr5FZ1s",
+      "timestamp": "2026-08-28T22:31:16+0000",
+      "metrics": {
+        "views": 22,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "18118288661511989",
       "text": "Pernah ngerasa bingung mau doain orang tua pakai kata-kata apa?\nAku juga. Kadang mulut terbuka, tapi hati malah yang nan",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DcllNp-IOTe",
       "timestamp": "2026-08-28T14:31:21+0000",
       "metrics": {
-        "views": 25,
+        "views": 26,
         "likes": 1,
         "replies": 0,
         "reposts": 1,
@@ -230,21 +245,6 @@
         "shares": 0
       },
       "engagement": 1
-    },
-    {
-      "id": "17869212486637861",
-      "text": "4 kalimat yang aku ulang tiap kali ngerasa overwhelmed banget:\n1. La Hawla Wala Quwwata Illa Billah — reminder bahwa aku",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DcgRVMxm1T4",
-      "timestamp": "2026-08-26T13:01:25+0000",
-      "metrics": {
-        "views": 266,
-        "likes": 3,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 3
     }
   ]
 }
