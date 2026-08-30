@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-08-30T00:27:11.830Z",
+  "updated_at": "2026-08-30T06:48:23.637Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=NsQ3nHy5Z8cQ7kNvwFqN6aY&_nc_oc=AdpP3MtuIcdY-JUkt2PSoKuggFMvk6LPkjcMiy1wawVLxE66D7DwjjplSwNHOE8yACs&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=GMJwuLeZLHKYHspLiELPdg&_nc_tpa=Q5bMBQK1FF4dp36FlqbjXikyetEBGuNr-mFFQd2sWHp0DC3k6goDtvFdZr9mgxMsUt2iCvh6kBmqMG8l6A&oh=00_AQJZsSz01gKC0Gr_yUGD1cu5ueZbb2XA5hhjS6vXZoJOAA&oe=6A994FD3"
+    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=NsQ3nHy5Z8cQ7kNvwGDYnep&_nc_oc=Ado_IFx4UMR49n5Lo4MUJjRnfDkYOS5qcMy8UItbpOu8s2_lPFcT6hOPiOfELMtphh8&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=f8PLR_pMF90EgWND8m1vWA&_nc_tpa=Q5bMBQJ69_6L2eUoKZC3N8q98_my-1XZ-EBKSf1LOEaeDs1mCOysBurywmCbz5QLhMZ7Oq-716xBT_oXIw&oh=00_AQJSHx-c5Q20jc_9vVumW9xkUJrM9r0TCptCH6YTSNsuhw&oe=6A99C053"
   },
   "summary": {
     "followers_count": 1,
-    "views": 203,
-    "likes": 8,
+    "views": 303,
+    "likes": 9,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 66,
-    "engagement_rate": 32.51,
+    "engagement_total": 63,
+    "engagement_rate": 20.79,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -55,14 +55,14 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DcpA7WMgZ13",
       "timestamp": "2026-08-29T22:31:15+0000",
       "metrics": {
-        "views": 136,
-        "likes": 7,
+        "views": 187,
+        "likes": 8,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 7
+      "engagement": 8
     },
     {
       "id": "18476905162107722",
@@ -85,7 +85,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DcnMMVSkfl0",
       "timestamp": "2026-08-29T05:31:11+0000",
       "metrics": {
-        "views": 86,
+        "views": 90,
         "likes": 4,
         "replies": 0,
         "reposts": 0,
@@ -97,19 +97,34 @@
   ],
   "recent_posts": [
     {
-      "id": "18113376995045021",
-      "text": "Dulu aku mikir dzikir pagi petang itu soal selesai atau nggak selesai — kayak checklist ibadah harian.\nTernyata yang aku",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DcpA7WMgZ13",
-      "timestamp": "2026-08-29T22:31:15+0000",
+      "id": "17915935959245088",
+      "text": "Lagi di titik paling buntu — usaha udah, doa udah, tapi kok hasilnya ga keliatan juga?\nAku pernah di sana. Dan yang pali",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dcpw_qhFviI",
+      "timestamp": "2026-08-30T05:31:16+0000",
       "metrics": {
-        "views": 136,
-        "likes": 7,
+        "views": 60,
+        "likes": 0,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 7
+      "engagement": 0
+    },
+    {
+      "id": "18113376995045021",
+      "text": "Dulu aku mikir dzikir pagi petang itu soal selesai atau nggak selesai — kayak checklist ibadah harian.\nTernyata yang aku",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DcpA7WMgZ13",
+      "timestamp": "2026-08-29T22:31:15+0000",
+      "metrics": {
+        "views": 187,
+        "likes": 8,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 8
     },
     {
       "id": "17950034916039382",
@@ -147,7 +162,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DcnMMVSkfl0",
       "timestamp": "2026-08-29T05:31:11+0000",
       "metrics": {
-        "views": 86,
+        "views": 90,
         "likes": 4,
         "replies": 0,
         "reposts": 0,
@@ -223,21 +238,6 @@
       "timestamp": "2026-08-27T22:31:28+0000",
       "metrics": {
         "views": 40,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18406344727095860",
-      "text": "Pernah ngerasa udah bersyukur — tapi hati masih aja ngerasa kurang?\nAku lama banget di situ. Ngucap alhamdulillah tapi s",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DcjAa_roHoL",
-      "timestamp": "2026-08-27T14:31:23+0000",
-      "metrics": {
-        "views": 77,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
