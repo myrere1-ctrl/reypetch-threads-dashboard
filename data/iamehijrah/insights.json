@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-08-29T21:49:32.477Z",
+  "updated_at": "2026-08-30T00:27:11.830Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=NsQ3nHy5Z8cQ7kNvwGiNEWv&_nc_oc=AdqeuHRknDGewUliM5yJf9c6PAIz_Vs99KtVf5dG8vxs8c9lBZ0ySYUPy6-wk3dr0gE&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=kyh-V8DmALyMGvliWR84vg&_nc_tpa=Q5bMBQJKs_kzfK_CLtwTlYMyR-vM2XUAVkcqZZq-1eN_hfHqoHqPigE4Gjixr2KB1G6ExrtE57lJ39ZCug&oh=00_AQLmXIxIyAChCaKnAtJ7NUapZChq--_Xb3R0Rez2OyhPMA&oe=6A991793"
+    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=NsQ3nHy5Z8cQ7kNvwFqN6aY&_nc_oc=AdpP3MtuIcdY-JUkt2PSoKuggFMvk6LPkjcMiy1wawVLxE66D7DwjjplSwNHOE8yACs&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=GMJwuLeZLHKYHspLiELPdg&_nc_tpa=Q5bMBQK1FF4dp36FlqbjXikyetEBGuNr-mFFQd2sWHp0DC3k6goDtvFdZr9mgxMsUt2iCvh6kBmqMG8l6A&oh=00_AQJZsSz01gKC0Gr_yUGD1cu5ueZbb2XA5hhjS6vXZoJOAA&oe=6A994FD3"
   },
   "summary": {
     "followers_count": 1,
-    "views": 52,
-    "likes": 1,
+    "views": 203,
+    "likes": 8,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 59,
-    "engagement_rate": 113.46,
+    "engagement_total": 66,
+    "engagement_rate": 32.51,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -50,6 +50,21 @@
       "engagement": 11
     },
     {
+      "id": "18113376995045021",
+      "text": "Dulu aku mikir dzikir pagi petang itu soal selesai atau nggak selesai — kayak checklist ibadah harian.\nTernyata yang aku",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DcpA7WMgZ13",
+      "timestamp": "2026-08-29T22:31:15+0000",
+      "metrics": {
+        "views": 136,
+        "likes": 7,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 7
+    },
+    {
       "id": "18476905162107722",
       "text": "Unpopular opinion: dzikir pagi petang itu bukan soal rutin — tapi soal hadir.\nAku dulu baca cepet, pikiran ke mana-mana,",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DciCnh6jYsA",
@@ -78,24 +93,24 @@
         "shares": 0
       },
       "engagement": 4
-    },
+    }
+  ],
+  "recent_posts": [
     {
-      "id": "18101377193189402",
-      "text": "Unpopular opinion: Al-Waqiah itu bukan soal \"biar ga miskin\" — tapi tiap kali aku baca, yang berubah duluan bukan kondis",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DcYi72vFWZM",
-      "timestamp": "2026-08-23T13:01:18+0000",
+      "id": "18113376995045021",
+      "text": "Dulu aku mikir dzikir pagi petang itu soal selesai atau nggak selesai — kayak checklist ibadah harian.\nTernyata yang aku",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DcpA7WMgZ13",
+      "timestamp": "2026-08-29T22:31:15+0000",
       "metrics": {
-        "views": 213,
-        "likes": 4,
+        "views": 136,
+        "likes": 7,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 4
-    }
-  ],
-  "recent_posts": [
+      "engagement": 7
+    },
     {
       "id": "17950034916039382",
       "text": "Husnudzon sama Allah itu susah waktu kenyataan ga sesuai harapan.\nAku inget waktu thawaf — nangis minta sesuatu, tapi sa",
@@ -223,21 +238,6 @@
       "timestamp": "2026-08-27T14:31:23+0000",
       "metrics": {
         "views": 77,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "17961040806197867",
-      "text": "Kapan terakhir kamu bangun malam bukan karena alarm, tapi karena hati yang gelisah?\nAku pernah ngerasa itu. Resah ga jel",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dci2Id_FNO2",
-      "timestamp": "2026-08-27T13:01:29+0000",
-      "metrics": {
-        "views": 31,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
