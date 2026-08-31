@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-08-31T14:06:02.362Z",
+  "updated_at": "2026-08-31T20:13:29.237Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=NsQ3nHy5Z8cQ7kNvwFLjuZX&_nc_oc=AdoNQO4wUTdNxSrK1SmCPm4JpD0i6PxWcIMmqQe3wg-ly7zziiLGj5lCNK_ba1QEUPw&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=8BFB95lhyi2CksCYU9eJMA&_nc_tpa=Q5bMBQKIBArWvxTEvPsPQWpIDYo5E4placNYpVpdDhgwwV7Q6MfzkkY84A7MbUKK1FR7OCCthAulxoV7HA&oh=00_AQIHqZ_i6KXAPDKVMtxUfocJgENT-VMj7dhS0Slq5gn7FQ&oe=6A9B4A13"
+    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=5Zyj8nqUHZgQ7kNvwHj0u-z&_nc_oc=AdrvFUznzgxHzWV9TWA1m3KC7-TPhhATpWJaKMtY2OpkD_64lpqhaU5SUK6gX0QTwRs&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=f0MhPWOYbP6U4GX96fFwRQ&_nc_tpa=Q5bMBQIJ9X87bQu_jx2eO10g48wK5xRgCbrA2pk8tPlDqyO8z0Mruv9V7TyELy8d1drTqN3LGFgj_QrPQg&oh=00_AQJ9JDsuNQ-M68yQm9960ae7UQzFf5C3wMmWYycQhq_ulA&oe=6A9BBA93"
   },
   "summary": {
     "followers_count": 1,
-    "views": 45,
-    "likes": 2,
+    "views": 133,
+    "likes": 4,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 67,
-    "engagement_rate": 148.89,
+    "engagement_total": 69,
+    "engagement_rate": 51.88,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -80,12 +80,12 @@
       "engagement": 5
     },
     {
-      "id": "18068472200494883",
-      "text": "Lagi di titik yang rasanya semua buntu — pikiran penuh, hati capek, tapi tidur juga ga bisa?\nAku pernah di fase itu. Dan",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DcnMMVSkfl0",
-      "timestamp": "2026-08-29T05:31:11+0000",
+      "id": "17894200689606683",
+      "text": "Ibu aku selalu bilang — \"kalau udah usaha, serahin. Allah itu ga pernah salah ngatur.\"\nDulu aku anggap itu klise. Sekara",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DctJTwnoFGh",
+      "timestamp": "2026-08-31T13:01:27+0000",
       "metrics": {
-        "views": 90,
+        "views": 48,
         "likes": 4,
         "replies": 0,
         "reposts": 0,
@@ -97,19 +97,34 @@
   ],
   "recent_posts": [
     {
-      "id": "17894200689606683",
-      "text": "Ibu aku selalu bilang — \"kalau udah usaha, serahin. Allah itu ga pernah salah ngatur.\"\nDulu aku anggap itu klise. Sekara",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DctJTwnoFGh",
-      "timestamp": "2026-08-31T13:01:27+0000",
+      "id": "18086125421302112",
+      "text": "Hati lagi penuh tapi kosong — overthinking, capek, tapi ga tau mau mulai dari mana?\nAku dulu sering begitu. Sampai nyoba",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DctTnHGEUtA",
+      "timestamp": "2026-08-31T14:31:28+0000",
       "metrics": {
-        "views": 28,
-        "likes": 2,
+        "views": 68,
+        "likes": 0,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 2
+      "engagement": 0
+    },
+    {
+      "id": "17894200689606683",
+      "text": "Ibu aku selalu bilang — \"kalau udah usaha, serahin. Allah itu ga pernah salah ngatur.\"\nDulu aku anggap itu klise. Sekara",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DctJTwnoFGh",
+      "timestamp": "2026-08-31T13:01:27+0000",
+      "metrics": {
+        "views": 48,
+        "likes": 4,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 4
     },
     {
       "id": "18628511710061920",
@@ -230,21 +245,6 @@
         "shares": 0
       },
       "engagement": 0
-    },
-    {
-      "id": "18068472200494883",
-      "text": "Lagi di titik yang rasanya semua buntu — pikiran penuh, hati capek, tapi tidur juga ga bisa?\nAku pernah di fase itu. Dan",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DcnMMVSkfl0",
-      "timestamp": "2026-08-29T05:31:11+0000",
-      "metrics": {
-        "views": 90,
-        "likes": 4,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 4
     }
   ]
 }
