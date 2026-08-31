@@ -1,38 +1,38 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-08-31T20:13:29.237Z",
+  "updated_at": "2026-08-31T23:56:00.613Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=5Zyj8nqUHZgQ7kNvwHj0u-z&_nc_oc=AdrvFUznzgxHzWV9TWA1m3KC7-TPhhATpWJaKMtY2OpkD_64lpqhaU5SUK6gX0QTwRs&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=f0MhPWOYbP6U4GX96fFwRQ&_nc_tpa=Q5bMBQIJ9X87bQu_jx2eO10g48wK5xRgCbrA2pk8tPlDqyO8z0Mruv9V7TyELy8d1drTqN3LGFgj_QrPQg&oh=00_AQJ9JDsuNQ-M68yQm9960ae7UQzFf5C3wMmWYycQhq_ulA&oe=6A9BBA93"
+    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=5Zyj8nqUHZgQ7kNvwGrX6ls&_nc_oc=AdoGlj1ropqnBPyoRSfSs5cVKYDyF_u7m4BqSMe5c1JoCnXLSQoX3GxFrRfAoDw8K60&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=MFu_dwrHUodfGSXnoWAnOQ&_nc_tpa=Q5bMBQJfOCRHiucGbtVMBlaIK6baWunLKKB25q6EUG1dRoJxQ4Sczj1QkT7H8DroE6Fu10LsUPIvWly6Lw&oh=00_AQImDsTw5axiucjJ5Q2gGkySxzA0-KHA_rW4OKVp4AvoyA&oe=6A9BF2D3"
   },
   "summary": {
     "followers_count": 1,
-    "views": 133,
-    "likes": 4,
+    "views": 392,
+    "likes": 16,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 69,
-    "engagement_rate": 51.88,
+    "engagement_total": 57,
+    "engagement_rate": 14.54,
     "curiosity_score": null,
     "post_count": 25
   },
   "top_posts": [
     {
-      "id": "18140806228575719",
-      "text": "Ibu aku ga pernah skip tahajjud — bahkan waktu lagi sakit sekalipun.\nDulu aku nanya, \"Bu, ga capek?\"\n Beliau jawab, \"Jus",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dcd20dfFDa9",
-      "timestamp": "2026-08-25T14:31:16+0000",
+      "id": "17933461398382568",
+      "text": "Jarang orang tau — ada waktu di sepertiga malam yang kalau kamu bangun dan diam sebentar, rasanya beda banget.\nAku sempe",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DcuKh5imFYW",
+      "timestamp": "2026-08-31T22:31:21+0000",
       "metrics": {
-        "views": 310,
-        "likes": 25,
+        "views": 247,
+        "likes": 13,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 25
+      "engagement": 13
     },
     {
       "id": "18098149799295713",
@@ -85,7 +85,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DctJTwnoFGh",
       "timestamp": "2026-08-31T13:01:27+0000",
       "metrics": {
-        "views": 48,
+        "views": 49,
         "likes": 4,
         "replies": 0,
         "reposts": 0,
@@ -96,6 +96,21 @@
     }
   ],
   "recent_posts": [
+    {
+      "id": "17933461398382568",
+      "text": "Jarang orang tau — ada waktu di sepertiga malam yang kalau kamu bangun dan diam sebentar, rasanya beda banget.\nAku sempe",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DcuKh5imFYW",
+      "timestamp": "2026-08-31T22:31:21+0000",
+      "metrics": {
+        "views": 247,
+        "likes": 13,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 13
+    },
     {
       "id": "18086125421302112",
       "text": "Hati lagi penuh tapi kosong — overthinking, capek, tapi ga tau mau mulai dari mana?\nAku dulu sering begitu. Sampai nyoba",
@@ -117,7 +132,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DctJTwnoFGh",
       "timestamp": "2026-08-31T13:01:27+0000",
       "metrics": {
-        "views": 48,
+        "views": 49,
         "likes": 4,
         "replies": 0,
         "reposts": 0,
@@ -223,21 +238,6 @@
       "timestamp": "2026-08-29T14:31:27+0000",
       "metrics": {
         "views": 30,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "17965108527168475",
-      "text": "Malam ini, jujur dulu sama diri sendiri — hari ini kamu lebih banyak bersyukur atau lebih banyak ngeluh?\nAku tanya diri ",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dcn_tYUlRff",
-      "timestamp": "2026-08-29T13:01:25+0000",
-      "metrics": {
-        "views": 14,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
