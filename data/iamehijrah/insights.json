@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-08-31T05:47:14.479Z",
+  "updated_at": "2026-08-31T14:06:02.362Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-syd2-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=NsQ3nHy5Z8cQ7kNvwE-9wIt&_nc_oc=Adqf4J-jkxCbOTilGoxNOLRKMg1Hnwo2G5niB1GqFiOWoV-BXhd3-axF5C4EhUn3RlM&_nc_zt=24&_nc_ht=scontent-syd2-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=S4EegkL9k1wgbb5-vB5Osg&_nc_tpa=Q5bMBQJ2ipxpw4WGGRUVsP_EzRze_wCypdwheN9shJ5Ug6q9bvzCGru2vZpsJZ8nIvaf1yk_3IBfevCmxQ&oh=00_AQL0RYgd_1OuYJ5LBWGMUHf9r9AqW-04iJDDeqngl_8fPQ&oe=6A9AD993"
+    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=NsQ3nHy5Z8cQ7kNvwFLjuZX&_nc_oc=AdoNQO4wUTdNxSrK1SmCPm4JpD0i6PxWcIMmqQe3wg-ly7zziiLGj5lCNK_ba1QEUPw&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=8BFB95lhyi2CksCYU9eJMA&_nc_tpa=Q5bMBQKIBArWvxTEvPsPQWpIDYo5E4placNYpVpdDhgwwV7Q6MfzkkY84A7MbUKK1FR7OCCthAulxoV7HA&oh=00_AQIHqZ_i6KXAPDKVMtxUfocJgENT-VMj7dhS0Slq5gn7FQ&oe=6A9B4A13"
   },
   "summary": {
     "followers_count": 1,
-    "views": 99,
-    "likes": 3,
+    "views": 45,
+    "likes": 2,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 65,
-    "engagement_rate": 65.66,
+    "engagement_total": 67,
+    "engagement_rate": 148.89,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -97,12 +97,27 @@
   ],
   "recent_posts": [
     {
+      "id": "17894200689606683",
+      "text": "Ibu aku selalu bilang — \"kalau udah usaha, serahin. Allah itu ga pernah salah ngatur.\"\nDulu aku anggap itu klise. Sekara",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DctJTwnoFGh",
+      "timestamp": "2026-08-31T13:01:27+0000",
+      "metrics": {
+        "views": 28,
+        "likes": 2,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 2
+    },
+    {
       "id": "18628511710061920",
       "text": "Ada satu amalan yang aku remehkan bertahun-tahun — padahal namanya \"syukur yang ngubah cara pandang\".\nSekarang aku rutin",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DcsVzQ0keaI",
       "timestamp": "2026-08-31T05:31:22+0000",
       "metrics": {
-        "views": 0,
+        "views": 164,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -147,7 +162,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DcqkgW3AFKK",
       "timestamp": "2026-08-30T13:01:23+0000",
       "metrics": {
-        "views": 29,
+        "views": 30,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -230,21 +245,6 @@
         "shares": 0
       },
       "engagement": 4
-    },
-    {
-      "id": "18079721333698016",
-      "text": "Sholawat itu yang aku sering lupa — padahal katanya paling gampang diamalin kapan aja.\nDulu aku kira sholawat cuma buat ",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DcmcIr5FZ1s",
-      "timestamp": "2026-08-28T22:31:16+0000",
-      "metrics": {
-        "views": 22,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
     }
   ]
 }
