@@ -13,6 +13,12 @@
     "catchup:rrpetch": "node scripts/catchup-post.mjs --account=rrpetch",
     "insights:iams": "node scripts/fetch-insights.mjs --account=iams",
     "insights:rrpetch": "node scripts/fetch-insights.mjs --account=rrpetch",
+    "refresh:iams": "node scripts/refresh-token.mjs --account=iams",
+    "refresh:rrpetch": "node scripts/refresh-token.mjs --account=rrpetch",
+    "refresh:iamehijrah": "node scripts/refresh-token.mjs --account=iamehijrah",
     "dashboard": "npx --yes http-server -p 8090 -c-1 -o"
+  },
+  "dependencies": {
+    "libsodium-wrappers": "^0.8.0"
   }
 }

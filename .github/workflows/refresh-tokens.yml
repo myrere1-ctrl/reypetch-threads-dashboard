@@ -1,0 +1,104 @@
+name: Refresh Threads Tokens (all accounts)
+
+# Threads long-lived token expires ~60 hari. Tanpa ini, tiap akun bakal
+# mati mendadak (persis kasus iams 2026-09-01) dan butuh OAuth manual ulang.
+# Refresh cuma jalan kalau sisa hari < 14 (lihat data/<account>/token-meta.json).
+on:
+  schedule:
+    - cron: '0 1 * * 1'   # Senin 01.00 UTC = 08.00 WIB
+  workflow_dispatch:
+    inputs:
+      force:
+        description: 'Force refresh even if >14 days left'
+        required: false
+        default: 'false'
+
+permissions:
+  contents: write
+
+jobs:
+  refresh-iams:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - run: npm install --no-audit --no-fund
+
+      - name: Refresh iams token
+        env:
+          THREADS_ACCESS_TOKEN: ${{ secrets.IAMS_THREADS_ACCESS_TOKEN }}
+          GH_PAT_REPO_SECRETS: ${{ secrets.GH_PAT_REPO_SECRETS }}
+        run: node scripts/refresh-token.mjs --account=iams ${{ inputs.force == 'true' && '--force' || '' }}
+
+      - name: Commit token metadata
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/iams/token-meta.json
+          if git diff --staged --quiet; then
+            echo "No metadata changes"
+          else
+            git commit -m "chore(iams): refresh threads token metadata"
+            git pull --rebase
+            git push
+          fi
+
+  refresh-rrpetch:
+    runs-on: ubuntu-latest
+    needs: refresh-iams
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - run: npm install --no-audit --no-fund
+
+      - name: Refresh rrpetch token
+        env:
+          THREADS_ACCESS_TOKEN: ${{ secrets.RRPETCH_THREADS_ACCESS_TOKEN }}
+          GH_PAT_REPO_SECRETS: ${{ secrets.GH_PAT_REPO_SECRETS }}
+        run: node scripts/refresh-token.mjs --account=rrpetch ${{ inputs.force == 'true' && '--force' || '' }}
+
+      - name: Commit token metadata
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/rrpetch/token-meta.json
+          if git diff --staged --quiet; then
+            echo "No metadata changes"
+          else
+            git commit -m "chore(rrpetch): refresh threads token metadata"
+            git pull --rebase
+            git push
+          fi
+
+  refresh-iamehijrah:
+    runs-on: ubuntu-latest
+    needs: refresh-rrpetch
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - run: npm install --no-audit --no-fund
+
+      - name: Refresh iamehijrah token
+        env:
+          THREADS_ACCESS_TOKEN: ${{ secrets.IAMEHIJRAH_THREADS_ACCESS_TOKEN }}
+          GH_PAT_REPO_SECRETS: ${{ secrets.GH_PAT_REPO_SECRETS }}
+        run: node scripts/refresh-token.mjs --account=iamehijrah ${{ inputs.force == 'true' && '--force' || '' }}
+
+      - name: Commit token metadata
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/iamehijrah/token-meta.json
+          if git diff --staged --quiet; then
+            echo "No metadata changes"
+          else
+            git commit -m "chore(iamehijrah): refresh threads token metadata"
+            git pull --rebase
+            git push
+          fi
