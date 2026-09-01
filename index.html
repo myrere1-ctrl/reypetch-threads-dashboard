@@ -492,8 +492,7 @@ ${theme.safety ? '\nATURAN KEAMANAN (WAJIB, JANGAN DILANGGAR):\n' + theme.safety
 Contoh voice yang WORK:
 ${theme.examples}
 
-PENTING — OUTPUT WAJIB: balas HANYA array JSON mentah berisi TEPAT ${count} objek. JANGAN nulis kalimat pembuka/penutup, JANGAN nanya balik, JANGAN pakai blok kode markdown. Jawaban HARUS mulai dari karakter [ dan berakhir di ]. Gunakan pipe | untuk jeda baris di dalam "teks" (BUKAN newline asli).
-Contoh format (tiru STRUKTURNYA, ganti isi teks & cta sesuai angle di atas):
+BALAS HANYA JSON VALID berisi ${count} post. Gunakan pipe | untuk jeda baris dalam teks, BUKAN newline asli:
 [{"jam":"08.00","teks":"kalimat pembuka|twist kecil|insight","cta":"ada yang relate?"},{"jam":"13.00","teks":"hook|reveal","cta":"gimana menurut lo?"}]`;
 
     document.getElementById('overlay').classList.add('show');
@@ -517,7 +516,6 @@ Contoh format (tiru STRUKTURNYA, ganti isi teks & cta sesuai angle di atas):
             body: JSON.stringify({
               model: 'claude-sonnet-4-6',
               max_tokens: 4000,
-              system: 'Kamu mesin generator konten Threads. SELALU balas HANYA array JSON mentah (mulai dari [ dan akhiri dengan ]), tanpa kalimat pembuka/penutup, tanpa pertanyaan balik, tanpa blok kode markdown.',
               messages: [{ role: 'user', content: prompt }]
             })
           });
