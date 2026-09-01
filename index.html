@@ -528,13 +528,18 @@ Contoh format (tiru STRUKTURNYA, ganti isi teks & cta sesuai angle di atas):
           }
 
           const data = await response.json();
-          const rawText = data.content[0].text;
-          console.log(`Raw response (attempt ${attempt}):`, rawText);
+          console.log(`Full API response (attempt ${attempt}):`, JSON.stringify(data, null, 2));
+
+          // Ambil blok pertama yang punya field .text (bukan asumsi content[0] selalu teks —
+          // model bisa balikin blok lain, mis. "thinking", sebelum blok teks aslinya).
+          const textBlock = (data.content || []).find(b => typeof b.text === 'string');
+          const rawText = textBlock ? textBlock.text : '';
+          console.log(`Raw text (attempt ${attempt}):`, JSON.stringify(rawText), '| stop_reason:', data.stop_reason, '| usage:', JSON.stringify(data.usage));
 
           // Extract JSON array safely
           const start = rawText.indexOf('[');
           const end = rawText.lastIndexOf(']');
-          if (start === -1 || end === -1) throw new Error('AI balas non-JSON');
+          if (start === -1 || end === -1) throw new Error('AI balas non-JSON (stop_reason: ' + data.stop_reason + ')');
 
           const jsonStr = rawText.slice(start, end + 1);
           const posts = JSON.parse(jsonStr);
