@@ -1,0 +1,15 @@
+{
+  "account": "iamehijrah",
+  "niche": "Produk Islami — mukena travel, sajadah, digital dzikir/tasbih, perlengkapan umroh (tas, ihram, dll)",
+  "affiliate_platform": "Shopee",
+  "link_mode": "comment",
+  "min_affiliate_posts_per_day": 2,
+  "status": "DRAFT — belum aktif. Aktif setelah: (1) mekanisme link diputusin (re-OAuth auto-komen / linktree bio), (2) 'products' diisi (maks 10 item).",
+  "product_format_example": {
+    "name": "nama produk singkat",
+    "link": "https://shp.ee/xxxx (link affiliate)",
+    "blurb": "1 kalimat kenapa produk ini worth — dipakai bot buat nulis konten rekomendasi (voice tetap lembut, ga hard-sell)",
+    "for": "harian | umroh | umum"
+  },
+  "products": []
+}

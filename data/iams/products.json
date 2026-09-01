@@ -1,0 +1,15 @@
+{
+  "account": "iams",
+  "niche": "Amazon travel gear — koper, adapter universal, packing cubes, neck pillow, dll (tema Jepang/Eropa/Australia)",
+  "affiliate_platform": "Amazon",
+  "link_mode": "comment",
+  "min_affiliate_posts_per_day": 2,
+  "status": "DRAFT — belum aktif. Aktif setelah: (1) mekanisme link diputusin (re-OAuth auto-komen / linktree bio), (2) 'products' diisi (maks 10 item).",
+  "product_format_example": {
+    "name": "nama produk singkat",
+    "link": "https://amzn.to/xxxx (link affiliate)",
+    "blurb": "1 kalimat kenapa produk ini worth — dipakai bot buat nulis konten rekomendasi",
+    "for": "Jepang | Eropa | Australia | umum"
+  },
+  "products": []
+}

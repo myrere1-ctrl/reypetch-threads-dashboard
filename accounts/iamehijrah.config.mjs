@@ -5,9 +5,9 @@ export const config = {
     'Persona muslimah 20-an dalam perjalanan hijrah. Sharing doa, dzikir, dan refleksi spiritual dengan cara PERSONAL & relatable — kayak curhat ke temen, bukan ceramah. Vibe: hangat, jujur, vulnerable, ngajak bukan ngatur. Konten mayoritas refleksi/doa; Safar AI (companion Umroh) disebut sesekali natural.',
   websiteUrl: 'https://reypetch-ai.com',
 
-  postsPerDay: 4,
-  // WIB times — 4x/hari: pagi (habis Subuh), siang, + 2 malam (jam paling kena buat doa/refleksi)
-  slots: ['05.30', '12.30', '20.00', '21.30'],
+  postsPerDay: 8,
+  // WIB times — 8x/hari ngikutin ritme ibadah (subuh→malam), jam paling kena buat doa/refleksi
+  slots: ['05.00', '08.00', '12.30', '15.30', '18.30', '20.00', '21.30', '23.00'],
 
   // Cuma 1 produk relevan (Safar AI = Umroh). Legacy rotation → selalu Safar AI.
   // Topik konten dirotasi dari config.destinations (topic pool doa/dzikir yang AMAN).

@@ -5,15 +5,12 @@ export const config = {
     'Persona travel + food + psikologi. Solo traveler bunglon (kadang bareng bestie). Isi kepala: teori psikologi. Isi koper: baju liburan. Vibe: 20-an, cerdas-casual, introvert-aware.',
   websiteUrl: 'https://reypetch-ai.com',
 
-  postsPerDay: 3,
-  // WIB times, harus consistent dengan catchup script. 3x/hari, fokus SORE.
-  slots: ['15.00', '16.30', '18.00'],
+  postsPerDay: 8,
+  // WIB times, harus consistent dengan catchup script. 8x/hari, sebar seharian.
+  slots: ['06.30', '09.00', '11.00', '13.00', '15.00', '17.00', '19.00', '21.00'],
 
-  // Theme rotation: 1 minggu 1 produk. Order = urutan minggu.
-  // Week 1: Tomodachi (Jepang), Week 2: Safar (Umroh), Week 3: ViaAI (Eropa)
-  themeMode: 'weekly',
-  // Offset supaya start minggu ini di Tomodachi (natural rotation di 2026-07-03 = ViaAI, offset +1 → Tomodachi)
-  weekOffset: 1,
+  // Rotasi MIX per-post antara 3 tema (Jepang/Eropa/Australia) — BUKAN per-minggu.
+  // themeMode dihapus → pickContent pakai rotasi per-slot.
 
   products: [
     {
@@ -28,14 +25,14 @@ export const config = {
       ],
     },
     {
-      slug: 'safar-ai',
-      name: 'Safar AI',
-      desc: 'Teman ibadah di Tanah Suci — Vision AI (scan Kabah/tempat sejarah), Qibla compass akurat, jadwal shalat otomatis, ritual quest mode (Thawaf/Sai step by step), doa generator AI, crowd heatmap Masjidil Haram, jurnal spiritual, emergency mode dengan Arab phrases',
-      oneLiner: 'Companion Umroh/Hajj yang temenin ritual + kasih tau sejarah tempat suci real-time',
-      audience: 'Jamaah Umroh, muslim traveler yang butuh guidance tanpa panik',
+      slug: 'australia',
+      name: 'wisata Australia',
+      desc: 'Konten WISATA & tips Australia (kota, hidden gems, coffee culture, road trip, budget). Belum ada app khusus — konten murni pengalaman; nanti diselipin Amazon affiliate (gear travel).',
+      oneLiner: 'spot & tips wisata Australia yang ga mainstream',
+      audience: 'traveler yang mau ke Australia (wisata / working-holiday vibe)',
       destinations: [
-        'Mekkah', 'Madinah', 'Umroh', 'Masjidil Haram',
-        'Jabal Rahmah', 'Raudhah', 'Persiapan Umroh', 'Tanah Suci',
+        'Sydney', 'Melbourne', 'Gold Coast', 'Great Ocean Road', 'Brisbane',
+        'Bondi Beach', 'Tasmania', 'coffee culture Australia', 'road trip Australia',
       ],
     },
     {
@@ -61,8 +58,8 @@ export const config = {
     { name: 'introvert_survival', mention: 'none', instruction: 'Sudut pandang introvert traveling: tips coping, small win. TIDAK sebut produk.' },
     { name: 'food_dichotomy', mention: 'none', instruction: 'Kontras "kadang fine dining kadang street food" di destinasi tertentu. TIDAK sebut produk.' },
     { name: 'observation_quirky', mention: 'none', instruction: 'Observasi detail unik dari destinasi (kebiasaan lokal, hal aneh). Bikin orang nodding. TIDAK sebut produk.' },
-    { name: 'subtle_mention_tips', mention: 'subtle', instruction: 'Cerita personal + di ujung sebut produk 1 baris style natural (contoh: "aku pakai [App]. link di bio kalau mau." atau "ada tips lengkap yang aku pake dan it works banget 🙌 cek di sini:"). JANGAN list fitur.' },
-    { name: 'subtle_mention_planning', mention: 'subtle', instruction: 'Cerita planning atau tips traveling + di ujung: "kalau lo lagi planning ke [tempat], aku ada tips helpful. Link di bio." SATU baris CTA doang, ga jual features.' },
+    { name: 'subtle_mention_tips', mention: 'subtle', instruction: 'Cerita personal + di ujung sebut 1 baris natural. Kalau destinasi JEPANG → sebut "Tomodachi AI"; EROPA (Paris/Roma/Barcelona) → "ViaAI" ("aku pakai [App], link di bio"). Kalau AUSTRALIA (belum ada app) → cukup "tips/spot-nya aku taruh di bio" TANPA nyebut app. JANGAN list fitur.' },
+    { name: 'subtle_mention_planning', mention: 'subtle', instruction: 'Cerita planning/tips traveling + di ujung 1 baris CTA. Jepang/Eropa boleh sebut app (Tomodachi/ViaAI); Australia cukup "tips di bio". SATU baris doang, ga jual fitur.' },
   ],
 
   // Referensi few-shot dari post organik user iams_ichi (contoh yang WORK di audience-nya)
@@ -110,7 +107,7 @@ export const config = {
   ],
 
   brandInfo:
-    'reypetch-ai.com = marketing site untuk 3 AI travel companion app. Model bisnis B2B: agen travel/umroh bayar → traveler/jamaah dapat akses gratis. Untuk konteks post iams_ichi: mention produk sebagai "aku pakai [App]" atau "cek [App] di bio" — kayak temen yang share tools favorit, BUKAN pitching produk. Sebutkan link di bio, JANGAN listing feature. Kalau ga sesuai topik, ga usah sebut sama sekali (pure story lebih valuable).',
+    'iams_ichi = persona travel yang cover 3 tema: JEPANG (app Tomodachi AI), EROPA/Paris-Roma-Barcelona (app ViaAI), dan AUSTRALIA (wisata — belum ada app, konten murni + nanti Amazon affiliate gear travel). Mention app cuma buat Jepang/Eropa, sebagai "aku pakai [App]" / "cek [App] di bio" — kayak temen share tools favorit, BUKAN pitching. Buat Australia: konten pengalaman murni (nanti diselipin rekomendasi gear via affiliate). Kalau ga sesuai topik, ga usah sebut app (pure story lebih valuable). CATATAN: Umroh/Safar AI SUDAH TIDAK di akun ini — pindah ke @_iame.hijrah.',
 
   voiceSignature: `- Sudut pandang solo traveler yang cerdas + relatable
 - Sering pakai kontras/reversal ("dulu X, ternyata Y")
