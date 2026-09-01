@@ -576,7 +576,7 @@ BALAS HANYA JSON VALID berisi ${count} post. Gunakan pipe | untuk jeda baris dal
     rrpetch: ['06.00','07.30','09.00','10.30','12.00','13.30','15.00','17.00','19.00','21.00'],
     iamehijrah: ['05.00','08.00','12.30','15.30','18.30','20.00','21.30','23.00'],
   };
-  const times = SLOTS_PER_ACCOUNT.iams; // Default; switched dynamically
+  const times = [...SLOTS_PER_ACCOUNT.iams]; // COPY (bukan referensi!) — Default; switched dynamically
 
   // ============ BOT LIVE DATA ============
 
