@@ -48,6 +48,9 @@ jobs:
   refresh-rrpetch:
     runs-on: ubuntu-latest
     needs: refresh-iams
+    # if: always() — 1 akun expired (butuh OAuth manual, bukan refresh) JANGAN
+    # blokir refresh akun lain. needs: cuma buat serialize git push, bukan gate.
+    if: always()
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
@@ -77,6 +80,7 @@ jobs:
   refresh-iamehijrah:
     runs-on: ubuntu-latest
     needs: refresh-rrpetch
+    if: always()
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
