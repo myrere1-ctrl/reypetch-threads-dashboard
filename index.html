@@ -874,7 +874,7 @@ Contoh format (tiru STRUKTURNYA, ganti isi teks & cta sesuai angle di atas):
     const weekPosts = log.filter(p => postIsWithinDays(p.timestamp, 7));
 
     document.getElementById('statToday').textContent = todayPosts.length;
-    document.getElementById('statTodayTrend').textContent = `${todayPosts.length}/10`;
+    document.getElementById('statTodayTrend').textContent = `${todayPosts.length}/${times.length}`;
 
     document.getElementById('statWeek').textContent = weekPosts.length;
     document.getElementById('statWeekTrend').textContent = `${(weekPosts.length / 7).toFixed(1)}/hari`;
@@ -1059,10 +1059,31 @@ Contoh format (tiru STRUKTURNYA, ganti isi teks & cta sesuai angle di atas):
     },
   };
 
+  // Hitung ulang kartu "Jadwal posting harian" (Pagi/Siang/Malam) per akun
+  // biar ga stale lagi tiap kali frekuensi/jam slot berubah.
+  function renderSchedCard(slots) {
+    const toMin = (t) => { const [h, m] = t.split('.').map(Number); return h * 60 + m; };
+    const buckets = { pagi: 0, siang: 0, malam: 0 };
+    for (const t of slots) {
+      const min = toMin(t);
+      if (min < 11 * 60) buckets.pagi++;
+      else if (min < 17 * 60) buckets.siang++;
+      else buckets.malam++;
+    }
+    const grid = document.querySelector('.sched-grid');
+    if (!grid) return;
+    grid.innerHTML = `
+      <div class="time-slot"><div><div class="time-name">Pagi</div><div class="time-sub">05.00 — 11.00</div></div><div class="time-count">${buckets.pagi}</div></div>
+      <div class="time-slot"><div><div class="time-name">Siang</div><div class="time-sub">11.00 — 17.00</div></div><div class="time-count">${buckets.siang}</div></div>
+      <div class="time-slot"><div><div class="time-name">Malam</div><div class="time-sub">17.00 — 24.00</div></div><div class="time-count">${buckets.malam}</div></div>`;
+  }
+
   function applyAccountTheme(acc) {
     const theme = ACCOUNT_THEME[acc] || ACCOUNT_THEME.iams;
-    const count = (SLOTS_PER_ACCOUNT[acc] || SLOTS_PER_ACCOUNT.iams).length;
+    const slots = SLOTS_PER_ACCOUNT[acc] || SLOTS_PER_ACCOUNT.iams;
+    const count = slots.length;
     const meta = ACCOUNT_META[acc] || ACCOUNT_META.iams;
+    renderSchedCard(slots);
 
     // Angle dropdown → sesuai akun
     const sel = document.getElementById('contentType');
