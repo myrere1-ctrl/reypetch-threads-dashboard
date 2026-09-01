@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-09-01T14:59:13.895Z",
+  "updated_at": "2026-09-01T18:39:34.733Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=5Zyj8nqUHZgQ7kNvwFDDdso&_nc_oc=Adp7kYXae9PVBdCcgyXEj1IHHp6qJu38mN08QE0YI2Iic1SFeKRDB3behYOsby1qx-0&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=Nqh6CScgp5AJbytxX2fWiw&_nc_tpa=Q5bMBQIMYWhkLKSTBzkja9Gfw3Yo2XZwcZuta1g4OKcktMOtOPfTJdGfDp0Yxq47535wtueJ2f-UucpE0A&oh=00_AQKzBc80aEaYScSM6qyLv2cRLI5QQZnIu5gr3hPpVEBWpQ&oe=6A9CD3D3"
+    "picture": "https://scontent-atl3-3.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=5Zyj8nqUHZgQ7kNvwEM28gV&_nc_oc=AdqSy6xzun0Jbg1HbllVLMnKu6gV7biU-kozZRWo_wv6m-NBnVxaEvw1hMe-Hqp_VUk&_nc_zt=24&_nc_ht=scontent-atl3-3.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=OfFV_XWH4yrGvyrxmEUOdQ&_nc_tpa=Q5bMBQLPTeMAouHZ_aiGQEvndD5kNPhwrEweAPGGcsZ7TugwhDlGsltyKbFRm5QrVbV1NWn8ZcHXg3EyPQ&oh=00_AQJzGWYXRF9Exy-RbbYbrq70G1GX1uvkgoZI-y-StF6h2A&oe=6A9CD3D3"
   },
   "summary": {
     "followers_count": 1,
-    "views": 241,
-    "likes": 13,
+    "views": 287,
+    "likes": 14,
     "replies": 1,
     "reposts": 1,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 54,
-    "engagement_rate": 22.41,
+    "engagement_total": 55,
+    "engagement_rate": 19.16,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -25,7 +25,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DcuKh5imFYW",
       "timestamp": "2026-08-31T22:31:21+0000",
       "metrics": {
-        "views": 334,
+        "views": 338,
         "likes": 15,
         "replies": 0,
         "reposts": 0,
@@ -40,14 +40,14 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DcvjyvZnPxv",
       "timestamp": "2026-09-01T11:31:21+0000",
       "metrics": {
-        "views": 158,
-        "likes": 7,
+        "views": 163,
+        "likes": 8,
         "replies": 1,
         "reposts": 1,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 9
+      "engagement": 10
     },
     {
       "id": "18113376995045021",
@@ -97,12 +97,27 @@
   ],
   "recent_posts": [
     {
+      "id": "17940931398345668",
+      "text": "Rindu Tanah Suci itu aneh — bukan cuma kangen tempatnya, tapi kangen versi diri sendiri yang paling jujur di sana.\nWaktu",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DcwCtxLFn5R",
+      "timestamp": "2026-09-01T16:01:32+0000",
+      "metrics": {
+        "views": 28,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "18078171680364201",
       "text": "Qadar itu bukan soal pasrah buta — tapi percaya bahwa Allah tau yang kita nggak tau.\nWaktu thawaf dulu, aku nangis minta",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dcv4Z2VlS8k",
       "timestamp": "2026-09-01T14:31:27+0000",
       "metrics": {
-        "views": 0,
+        "views": 7,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -117,7 +132,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DcvuGZOEbFm",
       "timestamp": "2026-09-01T13:01:26+0000",
       "metrics": {
-        "views": 37,
+        "views": 42,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -132,14 +147,14 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DcvjyvZnPxv",
       "timestamp": "2026-09-01T11:31:21+0000",
       "metrics": {
-        "views": 158,
-        "likes": 7,
+        "views": 163,
+        "likes": 8,
         "replies": 1,
         "reposts": 1,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 9
+      "engagement": 10
     },
     {
       "id": "18188721742396366",
@@ -192,7 +207,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DcuKh5imFYW",
       "timestamp": "2026-08-31T22:31:21+0000",
       "metrics": {
-        "views": 334,
+        "views": 338,
         "likes": 15,
         "replies": 0,
         "reposts": 0,
@@ -230,21 +245,6 @@
         "shares": 0
       },
       "engagement": 4
-    },
-    {
-      "id": "18628511710061920",
-      "text": "Ada satu amalan yang aku remehkan bertahun-tahun — padahal namanya \"syukur yang ngubah cara pandang\".\nSekarang aku rutin",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DcsVzQ0keaI",
-      "timestamp": "2026-08-31T05:31:22+0000",
-      "metrics": {
-        "views": 164,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
     }
   ]
 }
