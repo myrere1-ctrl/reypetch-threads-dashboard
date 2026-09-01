@@ -474,6 +474,11 @@ insight yang bikin mikir.</div>
     const count = (SLOTS_PER_ACCOUNT[currentAccount] || SLOTS_PER_ACCOUNT.iams).length;
     const mentionLine = angle.mention === 'subtle' ? theme.subtleMode : theme.pureMode;
 
+    console.log('=== DIAGNOSTIK ===');
+    console.log('Account:', currentAccount, '| Dropdown value (mentah):', JSON.stringify(type));
+    console.log('Angle terkirim:', angle.name, '| instr:', angle.instr);
+    console.log('Negara/topik:', JSON.stringify(negara), '| Tone:', JSON.stringify(tone), '| Count:', count);
+
     const prompt = `${theme.persona}
 
 Buat ${count} post Threads Bahasa Indonesia:
@@ -516,6 +521,7 @@ BALAS HANYA JSON VALID berisi ${count} post. Gunakan pipe | untuk jeda baris dal
             body: JSON.stringify({
               model: 'claude-sonnet-4-6',
               max_tokens: 4000,
+              system: 'Kamu mesin generator konten Threads. SELALU balas HANYA array JSON mentah (mulai dari [ dan akhiri dengan ]), tanpa kalimat pembuka/penutup, tanpa pertanyaan balik, tanpa blok kode markdown.',
               messages: [{ role: 'user', content: prompt }]
             })
           });
