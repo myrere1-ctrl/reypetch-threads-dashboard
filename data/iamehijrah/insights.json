@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-09-01T10:16:17.131Z",
+  "updated_at": "2026-09-01T14:59:13.895Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=5Zyj8nqUHZgQ7kNvwEFMjzV&_nc_oc=AdpKeBoV78NbSl8Eyf5_hwLZHNSGrC0oV0VtlTLrtlfxYCFPYSMEg8iZorOGAnb1xYs&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=S4PeuO4IfxDIffEjJzqQQw&_nc_tpa=Q5bMBQI0JplSGH-ieyjCVQ9W3xu5ToFsk1t1b21qf0ZlajefebDVF-3seuEAOtEsAzBoB9efc8uHIbKXIg&oh=00_AQLocBNZKVZk5d8sVoYSnzLBzSULk702Z7DfWds_IC4zhQ&oe=6A9C6353"
+    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=5Zyj8nqUHZgQ7kNvwFDDdso&_nc_oc=Adp7kYXae9PVBdCcgyXEj1IHHp6qJu38mN08QE0YI2Iic1SFeKRDB3behYOsby1qx-0&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=Nqh6CScgp5AJbytxX2fWiw&_nc_tpa=Q5bMBQIMYWhkLKSTBzkja9Gfw3Yo2XZwcZuta1g4OKcktMOtOPfTJdGfDp0Yxq47535wtueJ2f-UucpE0A&oh=00_AQKzBc80aEaYScSM6qyLv2cRLI5QQZnIu5gr3hPpVEBWpQ&oe=6A9CD3D3"
   },
   "summary": {
     "followers_count": 1,
-    "views": 4,
-    "likes": 0,
-    "replies": 0,
-    "reposts": 0,
+    "views": 241,
+    "likes": 13,
+    "replies": 1,
+    "reposts": 1,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 49,
-    "engagement_rate": 1225,
+    "engagement_total": 54,
+    "engagement_rate": 22.41,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -25,7 +25,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DcuKh5imFYW",
       "timestamp": "2026-08-31T22:31:21+0000",
       "metrics": {
-        "views": 330,
+        "views": 334,
         "likes": 15,
         "replies": 0,
         "reposts": 0,
@@ -33,6 +33,21 @@
         "shares": 0
       },
       "engagement": 15
+    },
+    {
+      "id": "18391557151202968",
+      "text": "Unpopular opinion: cemas itu nggak hilang cuma karena kamu udah banyak usaha.\nAku pernah di fase itu — udah sholat, udah",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DcvjyvZnPxv",
+      "timestamp": "2026-09-01T11:31:21+0000",
+      "metrics": {
+        "views": 158,
+        "likes": 7,
+        "replies": 1,
+        "reposts": 1,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 9
     },
     {
       "id": "18113376995045021",
@@ -50,12 +65,12 @@
       "engagement": 9
     },
     {
-      "id": "18476905162107722",
-      "text": "Unpopular opinion: dzikir pagi petang itu bukan soal rutin — tapi soal hadir.\nAku dulu baca cepet, pikiran ke mana-mana,",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DciCnh6jYsA",
-      "timestamp": "2026-08-27T05:31:20+0000",
+      "id": "18188721742396366",
+      "text": "Unpopular opinion: sholat 5 waktu itu bukan soal \"sudah atau belum\" — tapi soal kamu mau berhenti sebentar dari dunia, a",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DcvbMRGiIx6",
+      "timestamp": "2026-09-01T10:16:14+0000",
       "metrics": {
-        "views": 98,
+        "views": 21,
         "likes": 5,
         "replies": 0,
         "reposts": 0,
@@ -78,31 +93,76 @@
         "shares": 0
       },
       "engagement": 4
-    },
+    }
+  ],
+  "recent_posts": [
     {
-      "id": "18068472200494883",
-      "text": "Lagi di titik yang rasanya semua buntu — pikiran penuh, hati capek, tapi tidur juga ga bisa?\nAku pernah di fase itu. Dan",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DcnMMVSkfl0",
-      "timestamp": "2026-08-29T05:31:11+0000",
+      "id": "18078171680364201",
+      "text": "Qadar itu bukan soal pasrah buta — tapi percaya bahwa Allah tau yang kita nggak tau.\nWaktu thawaf dulu, aku nangis minta",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dcv4Z2VlS8k",
+      "timestamp": "2026-09-01T14:31:27+0000",
       "metrics": {
-        "views": 90,
-        "likes": 4,
+        "views": 0,
+        "likes": 0,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 4
-    }
-  ],
-  "recent_posts": [
+      "engagement": 0
+    },
+    {
+      "id": "18095480597552383",
+      "text": "Kamu pernah nggak, udah doa berkali-kali tapi ngerasa Allah diam aja?\nAku lagi muhasabah malem ini — dan jujur, yang pal",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DcvuGZOEbFm",
+      "timestamp": "2026-09-01T13:01:26+0000",
+      "metrics": {
+        "views": 37,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "18391557151202968",
+      "text": "Unpopular opinion: cemas itu nggak hilang cuma karena kamu udah banyak usaha.\nAku pernah di fase itu — udah sholat, udah",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DcvjyvZnPxv",
+      "timestamp": "2026-09-01T11:31:21+0000",
+      "metrics": {
+        "views": 158,
+        "likes": 7,
+        "replies": 1,
+        "reposts": 1,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 9
+    },
+    {
+      "id": "18188721742396366",
+      "text": "Unpopular opinion: sholat 5 waktu itu bukan soal \"sudah atau belum\" — tapi soal kamu mau berhenti sebentar dari dunia, a",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DcvbMRGiIx6",
+      "timestamp": "2026-09-01T10:16:14+0000",
+      "metrics": {
+        "views": 21,
+        "likes": 5,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 5
+    },
     {
       "id": "18214578397351455",
       "text": "Sedekah yang paling susah itu bukan yang nominalnya gede — tapi yang dikasih waktu kita sendiri lagi sempit.\nAku pernah ",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DcvZfviG1iC",
       "timestamp": "2026-09-01T10:01:23+0000",
       "metrics": {
-        "views": 0,
+        "views": 15,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -132,7 +192,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DcuKh5imFYW",
       "timestamp": "2026-08-31T22:31:21+0000",
       "metrics": {
-        "views": 330,
+        "views": 334,
         "likes": 15,
         "replies": 0,
         "reposts": 0,
@@ -178,66 +238,6 @@
       "timestamp": "2026-08-31T05:31:22+0000",
       "metrics": {
         "views": 164,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18093969938424259",
-      "text": "Lagi ngerasa semua usaha udah mentok tapi hati masih kosong?\nAku pernah di titik itu — capek, buntu, dan entah harus mul",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dcrlu-dgVOT",
-      "timestamp": "2026-08-30T22:31:21+0000",
-      "metrics": {
-        "views": 36,
-        "likes": 2,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 2
-    },
-    {
-      "id": "18113859347516478",
-      "text": "Lagi di titik semua ketutup — rezeki seret, usaha mandeg, hati udah capek nunggu?\nAku pernah di sana. Dan yang aku temui",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DcquyrVIIRs",
-      "timestamp": "2026-08-30T14:31:16+0000",
-      "metrics": {
-        "views": 25,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "17968639578136843",
-      "text": "Kalau bisa balik ke Tanah Suci, aku mau bawa satu doa — khusus buat orang tua.\nWaktu di Masjidil Haram dulu, aku nangis ",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DcqkgW3AFKK",
-      "timestamp": "2026-08-30T13:01:23+0000",
-      "metrics": {
-        "views": 30,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "17915935959245088",
-      "text": "Lagi di titik paling buntu — usaha udah, doa udah, tapi kok hasilnya ga keliatan juga?\nAku pernah di sana. Dan yang pali",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dcpw_qhFviI",
-      "timestamp": "2026-08-30T05:31:16+0000",
-      "metrics": {
-        "views": 76,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
