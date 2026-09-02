@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-09-01T21:51:40.606Z",
+  "updated_at": "2026-09-02T00:21:08.820Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=5Zyj8nqUHZgQ7kNvwHol-mN&_nc_oc=AdooAhvADZ_7J12ZA8HMTHJ88Qxb9rTajZqh72t_VwrJlziUFmyvxnyJQENg30Qa4VU&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=ziGrZ1DE_tS0t5ybP40-jQ&_nc_tpa=Q5bMBQLvIzYwyaXi1HXYdBjZfpX7wY6Nzp09jJVObJ4ChzFBPAKE2VmnJDwgQFK7nIBXt0xJ-GYvfTUtpw&oh=00_AQKKp_yeZM87tP-ZsN4IfqQMGVH_Jdkl79BkPLF3ZUHTYA&oe=6A9D0C13"
+    "picture": "https://scontent-dfw6-2.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=5Zyj8nqUHZgQ7kNvwHd2trE&_nc_oc=Adrh7-1ZHfrdt8BR-tK6RDQcU2aykMOvDK2NsL1Hu71eWxmb3Da6iHS3_W9RihXSbVw&_nc_zt=24&_nc_ht=scontent-dfw6-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=Qlp5gTKedysfoL5iaPv3Dg&_nc_tpa=Q5bMBQLr_kkOIJ70dFNZzxFpupUjixgKli2xmgzNwskPCa8Tlgb9lyo5UtliEvoxJc9OzPO0yR8tmXWVog&oh=00_AQIxBEFiIFivzA9w3u0p2fUr8txG7UTQyC6NmBViosmvyA&oe=6A9D4453"
   },
   "summary": {
     "followers_count": 1,
-    "views": 295,
+    "views": 341,
     "likes": 14,
     "replies": 1,
     "reposts": 1,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 55,
-    "engagement_rate": 18.64,
+    "engagement_rate": 16.13,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -96,6 +96,21 @@
     }
   ],
   "recent_posts": [
+    {
+      "id": "17945849013292427",
+      "text": "Lagi di titik yang rasanya udah sabar banget, tapi kok nggak ada yang berubah juga?\nAku pernah di sana — capek nunggu, c",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dcwr5T7lWwY",
+      "timestamp": "2026-09-01T22:01:22+0000",
+      "metrics": {
+        "views": 46,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
     {
       "id": "17940931398345668",
       "text": "Rindu Tanah Suci itu aneh — bukan cuma kangen tempatnya, tapi kangen versi diri sendiri yang paling jujur di sana.\nWaktu",
@@ -230,21 +245,6 @@
         "shares": 0
       },
       "engagement": 0
-    },
-    {
-      "id": "17894200689606683",
-      "text": "Ibu aku selalu bilang — \"kalau udah usaha, serahin. Allah itu ga pernah salah ngatur.\"\nDulu aku anggap itu klise. Sekara",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DctJTwnoFGh",
-      "timestamp": "2026-08-31T13:01:27+0000",
-      "metrics": {
-        "views": 49,
-        "likes": 4,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 4
     }
   ]
 }
