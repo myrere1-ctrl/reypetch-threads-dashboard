@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-09-02T00:21:08.820Z",
+  "updated_at": "2026-09-02T04:49:45.283Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-dfw6-2.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=5Zyj8nqUHZgQ7kNvwHd2trE&_nc_oc=Adrh7-1ZHfrdt8BR-tK6RDQcU2aykMOvDK2NsL1Hu71eWxmb3Da6iHS3_W9RihXSbVw&_nc_zt=24&_nc_ht=scontent-dfw6-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=Qlp5gTKedysfoL5iaPv3Dg&_nc_tpa=Q5bMBQLr_kkOIJ70dFNZzxFpupUjixgKli2xmgzNwskPCa8Tlgb9lyo5UtliEvoxJc9OzPO0yR8tmXWVog&oh=00_AQIxBEFiIFivzA9w3u0p2fUr8txG7UTQyC6NmBViosmvyA&oe=6A9D4453"
+    "picture": "https://scontent-dfw6-2.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=5Zyj8nqUHZgQ7kNvwFPcXaj&_nc_oc=AdoJA424xNFag2d__-pGvwsctpxSOaMe8wqLmFl7lCqrTcXF2mAVWBtfBHkMALgF6oQ&_nc_zt=24&_nc_ht=scontent-dfw6-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=AZwlTZgkw37Lp3iIxT97yg&_nc_tpa=Q5bMBQIEfpE46AoS3DpGqlNjpHSwYyo44OH7ytc-Nafp0I2eWrA7hOb0iLZDys_SrMS8Cr6KdY9BtQ7BPw&oh=00_AQKV1W2VLkeNBg-FHgMX6u6uJFQ3uCEZu14B302cdtTVDA&oe=6A9D7C93"
   },
   "summary": {
     "followers_count": 1,
-    "views": 341,
+    "views": 355,
     "likes": 14,
     "replies": 1,
     "reposts": 1,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 55,
-    "engagement_rate": 16.13,
+    "engagement_rate": 15.49,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -96,6 +96,21 @@
     }
   ],
   "recent_posts": [
+    {
+      "id": "17943385971315024",
+      "text": "Dulu aku mikir husnudzon sama Allah itu gampang — tinggal bilang \"yakin deh, Allah pasti kasih yang terbaik.\"\nTernyata s",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DcxAfcNHY1h",
+      "timestamp": "2026-09-02T01:01:20+0000",
+      "metrics": {
+        "views": 12,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
     {
       "id": "17945849013292427",
       "text": "Lagi di titik yang rasanya udah sabar banget, tapi kok nggak ada yang berubah juga?\nAku pernah di sana — capek nunggu, c",
@@ -230,21 +245,6 @@
         "shares": 0
       },
       "engagement": 15
-    },
-    {
-      "id": "18086125421302112",
-      "text": "Hati lagi penuh tapi kosong — overthinking, capek, tapi ga tau mau mulai dari mana?\nAku dulu sering begitu. Sampai nyoba",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DctTnHGEUtA",
-      "timestamp": "2026-08-31T14:31:28+0000",
-      "metrics": {
-        "views": 68,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
     }
   ]
 }
