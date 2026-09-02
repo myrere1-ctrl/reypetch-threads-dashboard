@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-09-02T09:43:59.465Z",
+  "updated_at": "2026-09-02T14:34:32.916Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=5Zyj8nqUHZgQ7kNvwFVylQ6&_nc_oc=AdpzVC4pRnAqSIpGA7kFeC3WkuJHBvxEHhggB9Kj8hDN0mf0j-YG_CwVSvegC-F866g&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=STjRDQFCoOt2uqZJarq6dA&_nc_tpa=Q5bMBQLPcjhKXFuD703SkJLLpyMG7HcR7Jf-Fp8-BbaE5lVnPT5zHgbSvqfZetEYXwuiNDUO0bHAer6ulw&oh=00_AQJE6s1Rky3MnQhENV3YP8Ht4-zSMG0lI-PzdeLtQbiyNg&oe=6A9DB4D3"
+    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=5Zyj8nqUHZgQ7kNvwHdxMfq&_nc_oc=Ado7ZjmCsboP3fmwkPeM8QnDPKlu2XV1cH1sJcywOv5DUCUyo_-ZN2XcP8DfXtdS2Yc&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=TpxgW7hK43NTGECTzT7Ksw&_nc_tpa=Q5bMBQITT4wCrGVjq-7VEEL75_3Ih_fX6Uei9WJgBddPS8B4hjgDJs1CWiU33as3cOefd7n73bkn9WPxGw&oh=00_AQImJHFo9B-Hh7Ljj5B9fd5JAuNuNjiFL7LLbYWj1fKnKg&oe=6A9DED13"
   },
   "summary": {
     "followers_count": 1,
-    "views": 13,
-    "likes": 0,
+    "views": 126,
+    "likes": 1,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 52,
-    "engagement_rate": 400,
+    "engagement_total": 47,
+    "engagement_rate": 37.3,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -97,12 +97,57 @@
   ],
   "recent_posts": [
     {
+      "id": "18108687260328172",
+      "text": "Niat umroh itu aku tulis berkali-kali — tapi tiap habis Subuh aku baca lagi, rasanya beda.\nKayak diingatkan: kamu berang",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DcydMCEmyjD",
+      "timestamp": "2026-09-02T14:31:21+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "17911620168465005",
+      "text": "Ada 1 hal kecil yang aku lakuin pas muhasabah — dan jujur, itu yang paling bikin hati 'bersih' sebelum tidur.\nBaca Surat",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DcyS6UwlVqf",
+      "timestamp": "2026-09-02T13:01:33+0000",
+      "metrics": {
+        "views": 94,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "18368842759215006",
+      "text": "Ikhlas itu ternyata bukan perasaan — tapi keputusan.\nHari ini aku nggak ngerasa \"ikhlas banget\". Tapi aku milih untuk te",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DcyImrbILcw",
+      "timestamp": "2026-09-02T11:31:30+0000",
+      "metrics": {
+        "views": 6,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "18104226080616289",
       "text": "Dulu aku mikir ngerasa jauh dari Allah itu tanda aku orangnya emang susah berubah.\nTernyata bukan. Justru rasa jauh itu ",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dcxz-mxmxTv",
       "timestamp": "2026-09-02T08:31:15+0000",
       "metrics": {
-        "views": 8,
+        "views": 17,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -147,7 +192,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dcwr5T7lWwY",
       "timestamp": "2026-09-01T22:01:22+0000",
       "metrics": {
-        "views": 46,
+        "views": 49,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -163,13 +208,13 @@
       "timestamp": "2026-09-01T16:01:32+0000",
       "metrics": {
         "views": 30,
-        "likes": 0,
+        "likes": 1,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 0
+      "engagement": 1
     },
     {
       "id": "18078171680364201",
@@ -200,51 +245,6 @@
         "shares": 0
       },
       "engagement": 0
-    },
-    {
-      "id": "18391557151202968",
-      "text": "Unpopular opinion: cemas itu nggak hilang cuma karena kamu udah banyak usaha.\nAku pernah di fase itu — udah sholat, udah",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DcvjyvZnPxv",
-      "timestamp": "2026-09-01T11:31:21+0000",
-      "metrics": {
-        "views": 164,
-        "likes": 8,
-        "replies": 1,
-        "reposts": 1,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 10
-    },
-    {
-      "id": "18188721742396366",
-      "text": "Unpopular opinion: sholat 5 waktu itu bukan soal \"sudah atau belum\" — tapi soal kamu mau berhenti sebentar dari dunia, a",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DcvbMRGiIx6",
-      "timestamp": "2026-09-01T10:16:14+0000",
-      "metrics": {
-        "views": 22,
-        "likes": 5,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 5
-    },
-    {
-      "id": "18214578397351455",
-      "text": "Sedekah yang paling susah itu bukan yang nominalnya gede — tapi yang dikasih waktu kita sendiri lagi sempit.\nAku pernah ",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DcvZfviG1iC",
-      "timestamp": "2026-09-01T10:01:23+0000",
-      "metrics": {
-        "views": 15,
-        "likes": 1,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
     }
   ]
 }
