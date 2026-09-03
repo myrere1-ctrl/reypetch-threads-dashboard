@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-09-03T16:33:21.830Z",
+  "updated_at": "2026-09-03T19:57:34.578Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=U5Sf3Jz2md4Q7kNvwEXnyK7&_nc_oc=AdplcLVz0sNXoJDM8cL8cuiEtFTEdD8tYCNy2JruQAm-jbleUXexyWY42u-PWM_dCMY&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=gi49gNI_eKspIXdanW-KhA&_nc_tpa=Q5bMBQK5lWWFKLyOUXkkcpW-qIbQzGk3GyvdkzdwXFhaWpb0lT3J9E-Hcy0UTN196aWf5nk7MlmfWY0OVQ&oh=00_AQII4Ky0gS2aYlOMo15UkhFkHXSfRiFgsfXEoNCeWj4-Vw&oe=6A9F76D3"
+    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=U5Sf3Jz2md4Q7kNvwGIlzU3&_nc_oc=AdrVddb0aM6HNv_rF9vS6Njr-7TzMJbga0_xOd7WKSLD3OgQUXRcKZjHDnRL7fNtrJ4&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=DSH0JZEPMqWxfTXveAEtCQ&_nc_tpa=Q5bMBQKMe2txnrXDur-i2i75hCCk57wbEZizbAp2d1BGnUuAl9lVFY6UG22ubclJn2Xv569nAYI4rPmqPQ&oh=00_AQIozOKx5QfeA98fpt5SXVztlqXluM_dSObuXABOEKP0wQ&oe=6A9FAF13"
   },
   "summary": {
     "followers_count": 1,
-    "views": 152,
-    "likes": 3,
+    "views": 203,
+    "likes": 6,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 40,
-    "engagement_rate": 26.32,
+    "engagement_total": 41,
+    "engagement_rate": 20.2,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -65,6 +65,21 @@
       "engagement": 5
     },
     {
+      "id": "18068358140747895",
+      "text": "Ibu aku selalu bilang, kalau mau tidur tenang — baca Yasin dulu.\nDulu aku anggap itu kebiasaan beliau aja. Sekarang aku ",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dc1MSwyEQ3G",
+      "timestamp": "2026-09-03T16:01:26+0000",
+      "metrics": {
+        "views": 49,
+        "likes": 3,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 3
+    },
+    {
       "id": "18080122556697853",
       "text": "Baca Al-Waqiah tiap malam itu awalnya aku lakuin karena takut — takut kurang, takut susah.\nTapi lama-lama aku nyadar, ya",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DcynhYjGx6e",
@@ -78,21 +93,6 @@
         "shares": 0
       },
       "engagement": 3
-    },
-    {
-      "id": "18068358140747895",
-      "text": "Ibu aku selalu bilang, kalau mau tidur tenang — baca Yasin dulu.\nDulu aku anggap itu kebiasaan beliau aja. Sekarang aku ",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dc1MSwyEQ3G",
-      "timestamp": "2026-09-03T16:01:26+0000",
-      "metrics": {
-        "views": 0,
-        "likes": 2,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 2
     }
   ],
   "recent_posts": [
@@ -102,14 +102,14 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dc1MSwyEQ3G",
       "timestamp": "2026-09-03T16:01:26+0000",
       "metrics": {
-        "views": 0,
-        "likes": 2,
+        "views": 49,
+        "likes": 3,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 2
+      "engagement": 3
     },
     {
       "id": "18101716985373004",
@@ -162,7 +162,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dc0YxuplsWX",
       "timestamp": "2026-09-03T08:31:17+0000",
       "metrics": {
-        "views": 50,
+        "views": 52,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
