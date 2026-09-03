@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-09-02T21:53:52.827Z",
+  "updated_at": "2026-09-03T00:21:59.754Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-lhr11-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=5Zyj8nqUHZgQ7kNvwHhXApb&_nc_oc=AdprBXkb9R6LF4H8Ufnf-9fLKKY_Hvsc6ZpVw8Vc-_TXxVZR4kWLPe_HAoURuy_f7ho&_nc_zt=24&_nc_ht=scontent-lhr11-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=Sm_gLNfK19yeOoG2fOfNPA&_nc_tpa=Q5bMBQKMviUgQAhCDoA3ojJcSSaUo6KV0GBhfo49zARIAHWQOaJ-JJnS6D2VOL5WxBXYa4-Qqgm7s2G0iw&oh=00_AQJ-6odAeDcYo0HFsvGLesX45Uq36eLHM4x1itjE3tRlgg&oe=6A9E5D93"
+    "picture": "https://scontent-qro3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=5Zyj8nqUHZgQ7kNvwEqAc_F&_nc_oc=AdpXHceT249YW3u8wq-45HuKUCmiHz5hWcBbJfOJaJe7qUtIcyP_0rpJ4FmCpCXBAvA&_nc_zt=24&_nc_ht=scontent-qro3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=QM-Z6zyeW0wUXVm2yOhdEA&_nc_tpa=Q5bMBQL3xXRDIv1C0AjKrn8Vveur2p4a7CDtsC8kWqa5ocIVwetcQrsL1vscJEU7OcMdf0LmLChhdjhDqQ&oh=00_AQKRN5DGYBQRCdRU7ljIk0jma2-lp-tO1-fGdYTWw-WNFg&oe=6A9E95D3"
   },
   "summary": {
     "followers_count": 1,
-    "views": 229,
+    "views": 243,
     "likes": 5,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 51,
-    "engagement_rate": 22.27,
+    "engagement_rate": 20.99,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -97,12 +97,27 @@
   ],
   "recent_posts": [
     {
+      "id": "18027381506854307",
+      "text": "Dulu aku mikir syukur itu artinya harus ngerasa happy dulu — baru bisa bilang alhamdulillah.\nTernyata terbalik. Syukur i",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DczQsDin4dU",
+      "timestamp": "2026-09-02T22:01:22+0000",
+      "metrics": {
+        "views": 12,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "18080122556697853",
       "text": "Baca Al-Waqiah tiap malam itu awalnya aku lakuin karena takut — takut kurang, takut susah.\nTapi lama-lama aku nyadar, ya",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DcynhYjGx6e",
       "timestamp": "2026-09-02T16:01:39+0000",
       "metrics": {
-        "views": 39,
+        "views": 40,
         "likes": 3,
         "replies": 0,
         "reposts": 0,
@@ -230,21 +245,6 @@
         "shares": 0
       },
       "engagement": 1
-    },
-    {
-      "id": "18078171680364201",
-      "text": "Qadar itu bukan soal pasrah buta — tapi percaya bahwa Allah tau yang kita nggak tau.\nWaktu thawaf dulu, aku nangis minta",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dcv4Z2VlS8k",
-      "timestamp": "2026-09-01T14:31:27+0000",
-      "metrics": {
-        "views": 7,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
     }
   ]
 }
