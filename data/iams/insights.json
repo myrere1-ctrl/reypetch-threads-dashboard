@@ -1,55 +1,55 @@
 {
   "account": "iams",
-  "updated_at": "2026-09-03T22:38:55.983Z",
+  "updated_at": "2026-09-04T01:04:05.770Z",
   "profile": {
     "username": "iams_ichi",
     "name": "iams",
     "biography": "🇦🇺\n🧠Psi + Traveling \nSolo Traveler Bunglon\nFine dining 👌 & Street food lokal 🫰\nHidden gems Insider for 🇯🇵🇦🇺🇫🇷🇪🇸🇮🇹 + Umrah.\n✉️ cmo@coa.a",
-    "picture": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=Rto-Yq6-JBsQ7kNvwGY1GL-&_nc_oc=AdoNjYYXBLZItVLSe7bs8W7NDMq19DIPFXs4c5m6D1VcS4gKmU3LTuNkHRbzU2OInLE&_nc_zt=24&_nc_ht=scontent-ams2-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=BOrU6BXpGImpCA702mx9hw&_nc_tpa=Q5bMBQJOMoziaHQi5VSS6Wb5lpMSNO396A9WMNllAj97FOqNcvPfhHe-5ObqUpt6Lfpb_ZH1VjfWcUWCkA&oh=00_AQIV82bksxTmSlDOY_0Ha9Ac-sUdKHuVgiynFDs6NuE34Q&oe=6A9FBD9E"
+    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=Rto-Yq6-JBsQ7kNvwHi0mn4&_nc_oc=AdqLoeRKkNglyGtgUgaC0fwhpHABNBSm628OYnCVRsgCGF1AX1RRORE94s1ZEYqnOS0&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=qKzN2GDBZdSm9vmxqCjyHA&_nc_tpa=Q5bMBQK1sKVxjX7lOa77tAlMWA6Cb8zeMq0xdtkwFF0W5EvQPw92-3Pkz60xyeb9lx1U5YLKywXeBYAZ5w&oh=00_AQKy2HBTFWW8S_OkV9jZdgbSXXCG9cTULE3jQ7bG4XUbew&oe=6A9FF5DE"
   },
   "summary": {
     "followers_count": 1357,
-    "views": 2413,
-    "likes": 61,
-    "replies": 7,
+    "views": 2600,
+    "likes": 65,
+    "replies": 9,
     "reposts": 3,
     "quotes": 1,
     "profile_views": null,
-    "engagement_total": 179,
-    "engagement_rate": 7.42,
+    "engagement_total": 185,
+    "engagement_rate": 7.12,
     "curiosity_score": null,
     "post_count": 25
   },
   "top_posts": [
-    {
-      "id": "18117170521882478",
-      "text": "Coffee culture di Australia itu bukan soal kopinya — tapi soal ritualnya.\nDi area sekitar Fitzroy atau Surry Hills, oran",
-      "permalink": "https://www.threads.com/@iams_ichi/post/Dcza9dTD_hG",
-      "timestamp": "2026-09-02T23:31:07+0000",
-      "metrics": {
-        "views": 1713,
-        "likes": 43,
-        "replies": 6,
-        "reposts": 5,
-        "quotes": 2,
-        "shares": 3
-      },
-      "engagement": 56
-    },
     {
       "id": "18082426214315063",
       "text": "Dulu mikir Sydney itu cuma buat yang suka keramaian — Harbour Bridge, Opera House, foto terus pulang.\nTernyata yang biki",
       "permalink": "https://www.threads.com/@iams_ichi/post/Dc0jFCWFvnC",
       "timestamp": "2026-09-03T10:01:18+0000",
       "metrics": {
-        "views": 1191,
-        "likes": 46,
-        "replies": 7,
+        "views": 1254,
+        "likes": 49,
+        "replies": 9,
         "reposts": 0,
         "quotes": 1,
         "shares": 0
       },
-      "engagement": 54
+      "engagement": 59
+    },
+    {
+      "id": "18117170521882478",
+      "text": "Coffee culture di Australia itu bukan soal kopinya — tapi soal ritualnya.\nDi area sekitar Fitzroy atau Surry Hills, oran",
+      "permalink": "https://www.threads.com/@iams_ichi/post/Dcza9dTD_hG",
+      "timestamp": "2026-09-02T23:31:07+0000",
+      "metrics": {
+        "views": 1748,
+        "likes": 44,
+        "replies": 6,
+        "reposts": 5,
+        "quotes": 2,
+        "shares": 3
+      },
+      "engagement": 57
     },
     {
       "id": "18192852589381147",
@@ -57,7 +57,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dcxi0scjaP7",
       "timestamp": "2026-09-02T06:01:21+0000",
       "metrics": {
-        "views": 1475,
+        "views": 1481,
         "likes": 30,
         "replies": 13,
         "reposts": 4,
@@ -99,12 +99,27 @@
   ],
   "recent_posts": [
     {
+      "id": "18149902450549367",
+      "text": "Dulu mikir solo Eropa itu bakal bikin aku ngerasa bebas — ternyata yang paling aku rasain justru sepi yang awkward di st",
+      "permalink": "https://www.threads.com/@iams_ichi/post/Dc1_xiBj8te",
+      "timestamp": "2026-09-03T23:31:17+0000",
+      "metrics": {
+        "views": 78,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "17957237970228567",
       "text": "Di Hokkaido, aku nggak ngomong sama siapapun hampir seharian — dan it was genuinely fine.\nIntrovert survival tip yang un",
       "permalink": "https://www.threads.com/@iams_ichi/post/Dc0-jMLG0OR",
       "timestamp": "2026-09-03T14:01:20+0000",
       "metrics": {
-        "views": 93,
+        "views": 94,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -134,14 +149,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dc0jFCWFvnC",
       "timestamp": "2026-09-03T10:01:18+0000",
       "metrics": {
-        "views": 1191,
-        "likes": 46,
-        "replies": 7,
+        "views": 1254,
+        "likes": 49,
+        "replies": 9,
         "reposts": 0,
         "quotes": 1,
         "shares": 0
       },
-      "engagement": 54
+      "engagement": 59
     },
     {
       "id": "18039895823822063",
@@ -164,7 +179,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dc0JTOOGz2P",
       "timestamp": "2026-09-03T06:16:02+0000",
       "metrics": {
-        "views": 66,
+        "views": 67,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -209,7 +224,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dczlpl4AQk5",
       "timestamp": "2026-09-03T01:03:59+0000",
       "metrics": {
-        "views": 81,
+        "views": 83,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -224,29 +239,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dcza9dTD_hG",
       "timestamp": "2026-09-02T23:31:07+0000",
       "metrics": {
-        "views": 1713,
-        "likes": 43,
+        "views": 1748,
+        "likes": 44,
         "replies": 6,
         "reposts": 5,
         "quotes": 2,
         "shares": 3
       },
-      "engagement": 56
-    },
-    {
-      "id": "17998881590922095",
-      "text": "Unpopular opinion: Barcelona itu terlalu ramai untuk benar-benar dinikmati.\nTapi justru karena itu, aku malah lebih gamp",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DcyZwbTFZ5q",
-      "timestamp": "2026-09-02T14:01:22+0000",
-      "metrics": {
-        "views": 32,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
+      "engagement": 57
     }
   ]
 }
