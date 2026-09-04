@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-09-04T01:05:12.439Z",
+  "updated_at": "2026-09-04T06:01:18.537Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=U5Sf3Jz2md4Q7kNvwGf_ksh&_nc_oc=AdreiZ5jbUab96fXY_NISK2jae1A5lDIKX55I0Qt1MF6JGJPfKWoglywmx6Z_rB1lOM&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=1DCrcOP-pLtv5CSq8qjdfw&_nc_tpa=Q5bMBQKDO--lt_8nyj4GQq3RGXnXRs2VMqmnGBHjQ8reKQdoIMeKwLe0AP6s1eJcWDZCr2OG_jqAy9JXVg&oh=00_AQLjOgDfelQiyxICxjk3j7_fJHw8jvotvEZzfZ77JKfpmg&oe=6A9FE753"
+    "picture": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=U5Sf3Jz2md4Q7kNvwHnnZnk&_nc_oc=AdoQjOhLo3vUSVCb8l7EJdqSdp8VVW14uTQDxTbbNDqvtvFLKkRcRrJcZTkjtcO2wMI&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=mkW8A77RVf0uJQJl8zE8Jg&_nc_tpa=Q5bMBQJjbbruyVGVXtbC565TnnlZncUCVmkT-2KKPh9hN6Z6tOHDEZvSPBA_njsKber8JmBzshhC0CAxKQ&oh=00_AQI2kWKG9Y8n7Syac2jc7QTCl__5c7kp7b9a91x8DCrvJQ&oe=6AA01F93"
   },
   "summary": {
     "followers_count": 1,
-    "views": 248,
+    "views": 277,
     "likes": 9,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 29,
-    "engagement_rate": 11.69,
+    "engagement_rate": 10.47,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -85,7 +85,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dc11eucmHQW",
       "timestamp": "2026-09-03T22:01:20+0000",
       "metrics": {
-        "views": 43,
+        "views": 44,
         "likes": 2,
         "replies": 0,
         "reposts": 0,
@@ -97,12 +97,27 @@
   ],
   "recent_posts": [
     {
+      "id": "18329045956262971",
+      "text": "Pernah ngerasa tiba-tiba jauh dari Allah — dan nggak tau kapan mulainya?\nAku lagi di situ. Sholat jalan, tapi hati koson",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dc2o-K8FR_n",
+      "timestamp": "2026-09-04T05:31:17+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "18171510376445706",
       "text": "Sholat Dhuha itu awalnya aku lakuin karena pengen 'sesuatu' — jujur.\nTapi makin rutin, aku sadar yang berubah duluan buk",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dc2KE5aoGZz",
       "timestamp": "2026-09-04T01:01:19+0000",
       "metrics": {
-        "views": 0,
+        "views": 23,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -117,7 +132,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dc11eucmHQW",
       "timestamp": "2026-09-03T22:01:20+0000",
       "metrics": {
-        "views": 43,
+        "views": 44,
         "likes": 2,
         "replies": 0,
         "reposts": 0,
@@ -223,21 +238,6 @@
       "timestamp": "2026-09-03T01:01:27+0000",
       "metrics": {
         "views": 15,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18027381506854307",
-      "text": "Dulu aku mikir syukur itu artinya harus ngerasa happy dulu — baru bisa bilang alhamdulillah.\nTernyata terbalik. Syukur i",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DczQsDin4dU",
-      "timestamp": "2026-09-02T22:01:22+0000",
-      "metrics": {
-        "views": 14,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
