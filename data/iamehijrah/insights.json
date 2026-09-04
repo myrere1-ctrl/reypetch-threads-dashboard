@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-09-04T19:42:19.861Z",
+  "updated_at": "2026-09-04T22:25:37.004Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-dfw6-2.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=U5Sf3Jz2md4Q7kNvwFBQ5Wh&_nc_oc=AdpprDQA3m0k4XBNRrZbbKRVsYbG-zsPSNR4cgktZVdwTOpVkZkVVjJ7-OSUZLHD8uQ&_nc_zt=24&_nc_ht=scontent-dfw6-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=OfC80hHSLiS-1CuiZ4ldxQ&_nc_tpa=Q5bMBQJQv7krble-qewZzcozhNuyGli_B9t3-EW0ygeEMK7lkDHbzkygnqKw0k21rYr4hWfcFg01l26H2w&oh=00_AQJQCdnzQ276bq44bYOxYAxelJ5ZgO8QfUoUOIoWC0Kx0A&oe=6AA10093"
+    "picture": "https://scontent-dfw6-2.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=U5Sf3Jz2md4Q7kNvwFYNl9U&_nc_oc=AdqT0H5pl4a6aZ3nKS-0j62DQoVgE4HP9FF83yaFIaNAlmVJtXChFnk3uWkn2VdxWuE&_nc_zt=24&_nc_ht=scontent-dfw6-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=22MTbIRZnluMAg7ZutZ_CQ&_nc_tpa=Q5bMBQLeGIOOPmJWGmgApZA4CEuuOVlCk-rQy6dYdo2QuDHHmmmbTQEvzPxX4X2OdYm86e2y1wovzG81OQ&oh=00_AQJHH0b1WfnN0cLdY8RWaIXnha6BENEb1mHq8k3KIlmdAw&oe=6AA10093"
   },
   "summary": {
     "followers_count": 1,
-    "views": 437,
+    "views": 438,
     "likes": 11,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 24,
-    "engagement_rate": 5.49,
+    "engagement_rate": 5.48,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -25,7 +25,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dc3mxGWkZn1",
       "timestamp": "2026-09-04T14:31:15+0000",
       "metrics": {
-        "views": 150,
+        "views": 151,
         "likes": 6,
         "replies": 0,
         "reposts": 0,
@@ -97,6 +97,21 @@
   ],
   "recent_posts": [
     {
+      "id": "18008956958760458",
+      "text": "Husnudzon sama Allah itu bukan berarti naif — tapi milih percaya di saat paling susah.\nAku lagi belajar ini. Tiap ada ya",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dc4aTCCAZOs",
+      "timestamp": "2026-09-04T22:01:32+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
       "id": "18190044442401725",
       "text": "Ayat Kursi — aku dulu bacanya cuma kalau inget.\nSekarang jadi hal terakhir sebelum tidur, every night.\nBukan karena taku",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dc3xFYxGzpx",
@@ -117,7 +132,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dc3mxGWkZn1",
       "timestamp": "2026-09-04T14:31:15+0000",
       "metrics": {
-        "views": 150,
+        "views": 151,
         "likes": 6,
         "replies": 0,
         "reposts": 0,
@@ -230,21 +245,6 @@
         "shares": 0
       },
       "engagement": 4
-    },
-    {
-      "id": "18101716985373004",
-      "text": "Malam ini tiba-tiba rindu Tanah Suci — padahal belum pernah ke sana.\nAneh ya? Rindu tempat yang belum pernah dikunjungi.",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dc1B-ovFnET",
-      "timestamp": "2026-09-03T14:31:18+0000",
-      "metrics": {
-        "views": 41,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
     }
   ]
 }
