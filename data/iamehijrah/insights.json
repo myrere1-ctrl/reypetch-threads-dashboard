@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-09-05T13:55:11.764Z",
+  "updated_at": "2026-09-05T16:52:57.683Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=U5Sf3Jz2md4Q7kNvwE2TonF&_nc_oc=AdojJiyeyhGOK24UOn6WsbTsG8PtB4l9kM4O83YtUnWLM8ek3TGw-6gXXbH0Cj-w1KE&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=tK65rPX6RWGZxDxuU9H1Tg&_nc_tpa=Q5bMBQJTJ36XVNR48CrNvCTjODnOqvE5ZIbDol1UOJWwM8MvmBB-HLYbFZoHYX2DLom9ZpxEGcjKKoZkyw&oh=00_AQKtQcyZPUH529bYzsIhCnX6Xwzco0Z5SjgJaIAxg6MFTA&oe=6AA1E193"
+    "picture": "https://scontent-sin11-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=U5Sf3Jz2md4Q7kNvwHnMjMx&_nc_oc=AdqafTcNivpwMNnhSy4_ih2fpj279H8ZIHeGL8dYfOGEMsBVQ_oFQAfeFLEi94d7WBs&_nc_zt=24&_nc_ht=scontent-sin11-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=lUWkpU9Qm70j8Aj-eAVZUQ&_nc_tpa=Q5bMBQJ6JEVtrHXx2jzQ3P3TrxjECEMfPksWzqJjdNLwnx6RHM1ZjX8Gb3I0XrCdMcIOQY0jgZRzK5zJWA&oh=00_AQLeNojYHpsD5ofVAgy6WaMIUjE-OZGlx-wmbKQQoQyUUQ&oe=6AA219D3"
   },
   "summary": {
     "followers_count": 1,
-    "views": 247,
-    "likes": 3,
+    "views": 399,
+    "likes": 7,
     "replies": 1,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 29,
-    "engagement_rate": 11.74,
+    "engagement_total": 32,
+    "engagement_rate": 8.02,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -33,6 +33,21 @@
         "shares": 0
       },
       "engagement": 6
+    },
+    {
+      "id": "18140180260600264",
+      "text": "Kenapa Doa Nabi Yunus justru paling kerasa pas habis Subuh, di saat yang lain masih tidur?\nAku mulai sadar — bukan soal ",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dc6V3pMEYKT",
+      "timestamp": "2026-09-05T16:01:19+0000",
+      "metrics": {
+        "views": 82,
+        "likes": 4,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 4
     },
     {
       "id": "18068358140747895",
@@ -78,31 +93,46 @@
         "shares": 0
       },
       "engagement": 3
-    },
+    }
+  ],
+  "recent_posts": [
     {
-      "id": "18080122556697853",
-      "text": "Baca Al-Waqiah tiap malam itu awalnya aku lakuin karena takut — takut kurang, takut susah.\nTapi lama-lama aku nyadar, ya",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DcynhYjGx6e",
-      "timestamp": "2026-09-02T16:01:39+0000",
+      "id": "18140180260600264",
+      "text": "Kenapa Doa Nabi Yunus justru paling kerasa pas habis Subuh, di saat yang lain masih tidur?\nAku mulai sadar — bukan soal ",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dc6V3pMEYKT",
+      "timestamp": "2026-09-05T16:01:19+0000",
       "metrics": {
-        "views": 41,
-        "likes": 3,
+        "views": 82,
+        "likes": 4,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 3
-    }
-  ],
-  "recent_posts": [
+      "engagement": 4
+    },
+    {
+      "id": "18154548928517821",
+      "text": "Malam ini aku tanya ke diri sendiri: udah berapa lama aku baca Yasin cuma karena kebiasaan, bukan karena beneran pengen ",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dc6LjkOFogL",
+      "timestamp": "2026-09-05T14:31:12+0000",
+      "metrics": {
+        "views": 41,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
     {
       "id": "17983819352881984",
       "text": "Kenapa rindu Tanah Suci itu paling kerasa justru habis Subuh?\nAku sering duduk sebentar setelah sholat, masih belum gera",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dc6BSUTG9Ee",
       "timestamp": "2026-09-05T13:01:28+0000",
       "metrics": {
-        "views": 131,
+        "views": 137,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -117,7 +147,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dc529W5Gxp7",
       "timestamp": "2026-09-05T11:31:13+0000",
       "metrics": {
-        "views": 55,
+        "views": 57,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -215,36 +245,6 @@
         "shares": 0
       },
       "engagement": 6
-    },
-    {
-      "id": "18224939596330445",
-      "text": "Lagi di titik niat umroh udah ada, tapi hati kayak... belum beneran siap?\nAku ngerasain itu. Pengen berangkat, tapi taku",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dc3cfAVk_2K",
-      "timestamp": "2026-09-04T13:01:26+0000",
-      "metrics": {
-        "views": 84,
-        "likes": 3,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 3
-    },
-    {
-      "id": "18226063549333579",
-      "text": "Jarang orang tau — muhasabah itu bukan soal nyesel, tapi soal jujur.\nAku mulai rutin baca Surat Al-Hasyr di penghujung h",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dc3SMrVnApw",
-      "timestamp": "2026-09-04T11:31:31+0000",
-      "metrics": {
-        "views": 33,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
     }
   ]
 }
