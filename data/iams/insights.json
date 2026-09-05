@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-09-05T21:20:46.742Z",
+  "updated_at": "2026-09-05T23:59:07.101Z",
   "profile": {
     "username": "iams_ichi",
     "name": "iams",
     "biography": "🇦🇺\n🧠Psi + Traveling \nSolo Traveler Bunglon\nFine dining 👌 & Street food lokal 🫰\nHidden gems Insider for 🇯🇵🇦🇺🇫🇷🇪🇸🇮🇹 + Umrah.\n✉️ cmo@coa.a",
-    "picture": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=VQ-T5cx8V5oQ7kNvwGfxrnx&_nc_oc=AdoGck29J60rAGPO4qG9ARlnkM0-iO3nUvACa1HxxvQbWuVkyj0SUgOTgfbIPJzaHMg&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=NfmVWA5pedfRVPDShP4Zfw&_nc_tpa=Q5bMBQKmr3MQldhXbNXO5aG_Jt6q-hHhmrrK8gpE8H4BayvZ76P4xcPQr3SayH7aiNu-FdStlRQqbNqkzA&oh=00_AQLtm4KG2LajoC1SzHkMlndGDUN0HupDYp_e_ijdFWb2jg&oe=6AA2609E"
+    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=VQ-T5cx8V5oQ7kNvwHZvnhG&_nc_oc=AdpA9dy45OzO5DvTN0E4zcgwyLg-IdiqfzyusVC1H6fiTY3RYYI9DdY2ianJugnL6AU&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=WiKuR00mQZWtZCkt2RhKPw&_nc_tpa=Q5bMBQK0zPVKEmlim40ncj0EY7yE2qYkssNrelqjzW9hWG5Bfv2d6x2wyh5CvjjrmM2AWRjCe72QUjsycg&oh=00_AQJ8b26BQ58gk0zmTm7FZ84WSD41dipi17AocI9SIIi_dA&oe=6AA298DE"
   },
   "summary": {
     "followers_count": 1359,
-    "views": 1571,
-    "likes": 17,
-    "replies": 7,
-    "reposts": 0,
+    "views": 1689,
+    "likes": 19,
+    "replies": 9,
+    "reposts": 1,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 161,
-    "engagement_rate": 10.25,
+    "engagement_total": 107,
+    "engagement_rate": 6.34,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -27,7 +27,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dc0jFCWFvnC",
       "timestamp": "2026-09-03T10:01:18+0000",
       "metrics": {
-        "views": 1534,
+        "views": 1535,
         "likes": 55,
         "replies": 10,
         "reposts": 1,
@@ -37,34 +37,19 @@
       "engagement": 67
     },
     {
-      "id": "18117170521882478",
-      "text": "Coffee culture di Australia itu bukan soal kopinya — tapi soal ritualnya.\nDi area sekitar Fitzroy atau Surry Hills, oran",
-      "permalink": "https://www.threads.com/@iams_ichi/post/Dcza9dTD_hG",
-      "timestamp": "2026-09-02T23:31:07+0000",
-      "metrics": {
-        "views": 1791,
-        "likes": 44,
-        "replies": 6,
-        "reposts": 5,
-        "quotes": 2,
-        "shares": 3
-      },
-      "engagement": 57
-    },
-    {
       "id": "18352779106216857",
       "text": "Jam 8 pagi di Melbourne, duduk di luar sambil nunggu flat white — dan gue baru sadar kenapa orang sini ga kenal konsep \"",
       "permalink": "https://www.threads.com/@iams_ichi/post/Dc5RMd7nORN",
       "timestamp": "2026-09-05T06:01:14+0000",
       "metrics": {
-        "views": 1079,
-        "likes": 16,
-        "replies": 7,
+        "views": 1119,
+        "likes": 17,
+        "replies": 8,
         "reposts": 0,
         "quotes": 0,
         "shares": 3
       },
-      "engagement": 23
+      "engagement": 25
     },
     {
       "id": "18140036914517051",
@@ -95,16 +80,46 @@
         "shares": 0
       },
       "engagement": 3
+    },
+    {
+      "id": "18026990681893344",
+      "text": "Katanya Melbourne itu kota yang \"berat\" buat solo — terlalu hip, terlalu artsy, bikin ngerasa kayak orang luar.\nTernyata",
+      "permalink": "https://www.threads.com/@iams_ichi/post/Dc7JV7xGIiy",
+      "timestamp": "2026-09-05T23:31:06+0000",
+      "metrics": {
+        "views": 23,
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
     }
   ],
   "recent_posts": [
+    {
+      "id": "18026990681893344",
+      "text": "Katanya Melbourne itu kota yang \"berat\" buat solo — terlalu hip, terlalu artsy, bikin ngerasa kayak orang luar.\nTernyata",
+      "permalink": "https://www.threads.com/@iams_ichi/post/Dc7JV7xGIiy",
+      "timestamp": "2026-09-05T23:31:06+0000",
+      "metrics": {
+        "views": 23,
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
     {
       "id": "18020820515873541",
       "text": "Dulu mikir Spanyol itu destinasi yang \"ramai tapi seru\" — sirocco, flamenco, tapas, semua terasa hidup.\nTernyata momen p",
       "permalink": "https://www.threads.com/@iams_ichi/post/Dc6IIDoG_EU",
       "timestamp": "2026-09-05T14:01:14+0000",
       "metrics": {
-        "views": 5,
+        "views": 8,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -119,7 +134,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dc56ZB1m12H",
       "timestamp": "2026-09-05T12:01:13+0000",
       "metrics": {
-        "views": 148,
+        "views": 158,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -134,7 +149,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dc5sq61lVHF",
       "timestamp": "2026-09-05T10:01:19+0000",
       "metrics": {
-        "views": 168,
+        "views": 170,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -149,7 +164,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dc5e7CllmGd",
       "timestamp": "2026-09-05T08:01:11+0000",
       "metrics": {
-        "views": 106,
+        "views": 108,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -164,14 +179,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dc5RMd7nORN",
       "timestamp": "2026-09-05T06:01:14+0000",
       "metrics": {
-        "views": 1079,
-        "likes": 16,
-        "replies": 7,
+        "views": 1119,
+        "likes": 17,
+        "replies": 8,
         "reposts": 0,
         "quotes": 0,
         "shares": 3
       },
-      "engagement": 23
+      "engagement": 25
     },
     {
       "id": "18096861410061276",
@@ -179,7 +194,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dc5Dd3hCMs7",
       "timestamp": "2026-09-05T04:01:20+0000",
       "metrics": {
-        "views": 52,
+        "views": 53,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -194,7 +209,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dc41urIkbVJ",
       "timestamp": "2026-09-05T02:01:14+0000",
       "metrics": {
-        "views": 76,
+        "views": 77,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -225,21 +240,6 @@
       "timestamp": "2026-09-04T14:01:20+0000",
       "metrics": {
         "views": 44,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18121019971899214",
-      "text": "Jam 11 malem di Gion, Kyoto — jalanan sepi, lampion masih nyala, dan aku baru sadar:\nkenapa tempat ini berasa \"beda\" buk",
-      "permalink": "https://www.threads.com/@iams_ichi/post/Dc3Vm6nIEnl",
-      "timestamp": "2026-09-04T12:01:19+0000",
-      "metrics": {
-        "views": 14,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
