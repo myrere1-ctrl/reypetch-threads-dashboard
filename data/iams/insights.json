@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-09-05T23:59:07.101Z",
+  "updated_at": "2026-09-06T04:49:14.254Z",
   "profile": {
     "username": "iams_ichi",
     "name": "iams",
     "biography": "🇦🇺\n🧠Psi + Traveling \nSolo Traveler Bunglon\nFine dining 👌 & Street food lokal 🫰\nHidden gems Insider for 🇯🇵🇦🇺🇫🇷🇪🇸🇮🇹 + Umrah.\n✉️ cmo@coa.a",
-    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=VQ-T5cx8V5oQ7kNvwHZvnhG&_nc_oc=AdpA9dy45OzO5DvTN0E4zcgwyLg-IdiqfzyusVC1H6fiTY3RYYI9DdY2ianJugnL6AU&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=WiKuR00mQZWtZCkt2RhKPw&_nc_tpa=Q5bMBQK0zPVKEmlim40ncj0EY7yE2qYkssNrelqjzW9hWG5Bfv2d6x2wyh5CvjjrmM2AWRjCe72QUjsycg&oh=00_AQJ8b26BQ58gk0zmTm7FZ84WSD41dipi17AocI9SIIi_dA&oe=6AA298DE"
+    "picture": "https://scontent-dfw6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=VQ-T5cx8V5oQ7kNvwEH_4Mg&_nc_oc=AdowAjVAvWyzd1tseVM_wAznozanz7cLNThucFuYz9VhzRz8r_CcGPbN25mSuH7lBgI&_nc_zt=24&_nc_ht=scontent-dfw6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=-wlS4KLOQtU4xFCpcgMwuA&_nc_tpa=Q5bMBQL3lQ3wRbvQqLVeLgJBHXMFtLYNYREib3rUvTIsx907XhRmN8uDjNCjumQN96XTh7z8x2xJ8RUfrQ&oh=00_AQJ9k32te9LHYkTEgiP9gkFxE0Ttx1RTbiNSVQ-96dS4GQ&oe=6AA2D11E"
   },
   "summary": {
     "followers_count": 1359,
-    "views": 1689,
-    "likes": 19,
-    "replies": 9,
+    "views": 2206,
+    "likes": 27,
+    "replies": 12,
     "reposts": 1,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 107,
-    "engagement_rate": 6.34,
+    "engagement_total": 117,
+    "engagement_rate": 5.3,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -42,14 +42,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dc5RMd7nORN",
       "timestamp": "2026-09-05T06:01:14+0000",
       "metrics": {
-        "views": 1119,
-        "likes": 17,
-        "replies": 8,
+        "views": 1201,
+        "likes": 19,
+        "replies": 9,
         "reposts": 0,
         "quotes": 0,
         "shares": 3
       },
-      "engagement": 25
+      "engagement": 28
     },
     {
       "id": "18140036914517051",
@@ -57,7 +57,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dc26IfFm1sn",
       "timestamp": "2026-09-04T08:01:14+0000",
       "metrics": {
-        "views": 262,
+        "views": 263,
         "likes": 4,
         "replies": 4,
         "reposts": 0,
@@ -67,12 +67,27 @@
       "engagement": 8
     },
     {
+      "id": "18026990681893344",
+      "text": "Katanya Melbourne itu kota yang \"berat\" buat solo — terlalu hip, terlalu artsy, bikin ngerasa kayak orang luar.\nTernyata",
+      "permalink": "https://www.threads.com/@iams_ichi/post/Dc7JV7xGIiy",
+      "timestamp": "2026-09-05T23:31:06+0000",
+      "metrics": {
+        "views": 269,
+        "likes": 5,
+        "replies": 2,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 7
+    },
+    {
       "id": "18127231996689339",
       "text": "Jam 2 siang di Shinjuku, keramaian di mana-mana — dan gue malah milih duduk di pojok convenience store sambil makan onig",
       "permalink": "https://www.threads.com/@iams_ichi/post/Dc4kjHClIJR",
       "timestamp": "2026-09-04T23:31:06+0000",
       "metrics": {
-        "views": 225,
+        "views": 226,
         "likes": 0,
         "replies": 3,
         "reposts": 0,
@@ -80,6 +95,38 @@
         "shares": 0
       },
       "engagement": 3
+    }
+  ],
+  "recent_posts": [
+    {
+      "id": "18077115185348256",
+      "text": "Tasmania itu tempat yang bahkan introvert nggak perlu coping strategy.\nSepi bukan karena sepi — tapi karena alamnya eman",
+      "permalink": "https://www.threads.com/@iams_ichi/post/Dc7oQDYlvZa",
+      "timestamp": "2026-09-06T04:01:10+0000",
+      "metrics": {
+        "views": 39,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "18104343050609696",
+      "text": "Di Hokkaido, orang lokal jarang ngobrol di tempat umum — tapi begitu lo masuk ke kedai kecil dan duduk di counter, tiba-",
+      "permalink": "https://www.threads.com/@iams_ichi/post/Dc7ahKLm1Cm",
+      "timestamp": "2026-09-06T02:01:11+0000",
+      "metrics": {
+        "views": 64,
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
     },
     {
       "id": "18026990681893344",
@@ -87,31 +134,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dc7JV7xGIiy",
       "timestamp": "2026-09-05T23:31:06+0000",
       "metrics": {
-        "views": 23,
-        "likes": 1,
-        "replies": 0,
+        "views": 269,
+        "likes": 5,
+        "replies": 2,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 1
-    }
-  ],
-  "recent_posts": [
-    {
-      "id": "18026990681893344",
-      "text": "Katanya Melbourne itu kota yang \"berat\" buat solo — terlalu hip, terlalu artsy, bikin ngerasa kayak orang luar.\nTernyata",
-      "permalink": "https://www.threads.com/@iams_ichi/post/Dc7JV7xGIiy",
-      "timestamp": "2026-09-05T23:31:06+0000",
-      "metrics": {
-        "views": 23,
-        "likes": 1,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
+      "engagement": 7
     },
     {
       "id": "18020820515873541",
@@ -119,7 +149,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dc6IIDoG_EU",
       "timestamp": "2026-09-05T14:01:14+0000",
       "metrics": {
-        "views": 8,
+        "views": 13,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -134,7 +164,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dc56ZB1m12H",
       "timestamp": "2026-09-05T12:01:13+0000",
       "metrics": {
-        "views": 158,
+        "views": 176,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -149,7 +179,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dc5sq61lVHF",
       "timestamp": "2026-09-05T10:01:19+0000",
       "metrics": {
-        "views": 170,
+        "views": 173,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -164,7 +194,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dc5e7CllmGd",
       "timestamp": "2026-09-05T08:01:11+0000",
       "metrics": {
-        "views": 108,
+        "views": 112,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -179,14 +209,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dc5RMd7nORN",
       "timestamp": "2026-09-05T06:01:14+0000",
       "metrics": {
-        "views": 1119,
-        "likes": 17,
-        "replies": 8,
+        "views": 1201,
+        "likes": 19,
+        "replies": 9,
         "reposts": 0,
         "quotes": 0,
         "shares": 3
       },
-      "engagement": 25
+      "engagement": 28
     },
     {
       "id": "18096861410061276",
@@ -194,7 +224,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dc5Dd3hCMs7",
       "timestamp": "2026-09-05T04:01:20+0000",
       "metrics": {
-        "views": 53,
+        "views": 54,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -209,7 +239,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dc41urIkbVJ",
       "timestamp": "2026-09-05T02:01:14+0000",
       "metrics": {
-        "views": 77,
+        "views": 79,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -217,36 +247,6 @@
         "shares": 0
       },
       "engagement": 1
-    },
-    {
-      "id": "18127231996689339",
-      "text": "Jam 2 siang di Shinjuku, keramaian di mana-mana — dan gue malah milih duduk di pojok convenience store sambil makan onig",
-      "permalink": "https://www.threads.com/@iams_ichi/post/Dc4kjHClIJR",
-      "timestamp": "2026-09-04T23:31:06+0000",
-      "metrics": {
-        "views": 225,
-        "likes": 0,
-        "replies": 3,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 3
-    },
-    {
-      "id": "18077626655361866",
-      "text": "Jam 7 pagi di Bondi Beach, dan gue baru nyadar sesuatu.\nSemua orang di sini kayak udah \"settle\" — ngobrol pelan, sarapan",
-      "permalink": "https://www.threads.com/@iams_ichi/post/Dc3jWAhCUII",
-      "timestamp": "2026-09-04T14:01:20+0000",
-      "metrics": {
-        "views": 44,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
     }
   ]
 }
