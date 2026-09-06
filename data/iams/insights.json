@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-09-06T04:49:14.254Z",
+  "updated_at": "2026-09-06T09:30:53.550Z",
   "profile": {
     "username": "iams_ichi",
     "name": "iams",
     "biography": "🇦🇺\n🧠Psi + Traveling \nSolo Traveler Bunglon\nFine dining 👌 & Street food lokal 🫰\nHidden gems Insider for 🇯🇵🇦🇺🇫🇷🇪🇸🇮🇹 + Umrah.\n✉️ cmo@coa.a",
-    "picture": "https://scontent-dfw6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=VQ-T5cx8V5oQ7kNvwEH_4Mg&_nc_oc=AdowAjVAvWyzd1tseVM_wAznozanz7cLNThucFuYz9VhzRz8r_CcGPbN25mSuH7lBgI&_nc_zt=24&_nc_ht=scontent-dfw6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=-wlS4KLOQtU4xFCpcgMwuA&_nc_tpa=Q5bMBQL3lQ3wRbvQqLVeLgJBHXMFtLYNYREib3rUvTIsx907XhRmN8uDjNCjumQN96XTh7z8x2xJ8RUfrQ&oh=00_AQJ9k32te9LHYkTEgiP9gkFxE0Ttx1RTbiNSVQ-96dS4GQ&oe=6AA2D11E"
+    "picture": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=VQ-T5cx8V5oQ7kNvwGXIEOC&_nc_oc=Adqk8dp3CPUdG3JihuFoEP4xW39qe_iNaNqO88r8UY_jFuxkS4akr66qwSDQAbbt3hk&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=Xmrmdph2Xb1gLwjcsQu8SQ&_nc_tpa=Q5bMBQKs29EFozqBec0wyAY4aNc73jnaMPjrk9TbaAvq4KlJsTo6RCSruilQcl9DOUaP8PQClVLPHazYhg&oh=00_AQI3GsL1bXQLezRvC06PM4qL760Tuj5u4H5twgFnnOO7iw&oe=6AA3095E"
   },
   "summary": {
     "followers_count": 1359,
-    "views": 2206,
-    "likes": 27,
-    "replies": 12,
-    "reposts": 1,
+    "views": 149,
+    "likes": 1,
+    "replies": 0,
+    "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 117,
-    "engagement_rate": 5.3,
+    "engagement_total": 120,
+    "engagement_rate": 80.54,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -27,7 +27,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dc0jFCWFvnC",
       "timestamp": "2026-09-03T10:01:18+0000",
       "metrics": {
-        "views": 1535,
+        "views": 1536,
         "likes": 55,
         "replies": 10,
         "reposts": 1,
@@ -42,7 +42,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dc5RMd7nORN",
       "timestamp": "2026-09-05T06:01:14+0000",
       "metrics": {
-        "views": 1201,
+        "views": 1232,
         "likes": 19,
         "replies": 9,
         "reposts": 0,
@@ -50,6 +50,21 @@
         "shares": 3
       },
       "engagement": 28
+    },
+    {
+      "id": "18026990681893344",
+      "text": "Katanya Melbourne itu kota yang \"berat\" buat solo — terlalu hip, terlalu artsy, bikin ngerasa kayak orang luar.\nTernyata",
+      "permalink": "https://www.threads.com/@iams_ichi/post/Dc7JV7xGIiy",
+      "timestamp": "2026-09-05T23:31:06+0000",
+      "metrics": {
+        "views": 369,
+        "likes": 6,
+        "replies": 2,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 8
     },
     {
       "id": "18140036914517051",
@@ -65,21 +80,6 @@
         "shares": 0
       },
       "engagement": 8
-    },
-    {
-      "id": "18026990681893344",
-      "text": "Katanya Melbourne itu kota yang \"berat\" buat solo — terlalu hip, terlalu artsy, bikin ngerasa kayak orang luar.\nTernyata",
-      "permalink": "https://www.threads.com/@iams_ichi/post/Dc7JV7xGIiy",
-      "timestamp": "2026-09-05T23:31:06+0000",
-      "metrics": {
-        "views": 269,
-        "likes": 5,
-        "replies": 2,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 7
     },
     {
       "id": "18127231996689339",
@@ -99,12 +99,42 @@
   ],
   "recent_posts": [
     {
+      "id": "17895542562656635",
+      "text": "Planning Tokyo itu beda dari kota Jepang lain — jadwal kereta, tiket spot populer, dan window waktu yang sempit kalau ma",
+      "permalink": "https://www.threads.com/@iams_ichi/post/Dc8DuGhG_ox",
+      "timestamp": "2026-09-06T08:01:13+0000",
+      "metrics": {
+        "views": 72,
+        "likes": 2,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 2
+    },
+    {
+      "id": "18129527950708820",
+      "text": "Jam 6 sore di El Born, dan gue baru sadar — gang-gang kecil di sini nggak pernah sepi, tapi juga nggak pernah berisik.\nK",
+      "permalink": "https://www.threads.com/@iams_ichi/post/Dc71_NUm9J7",
+      "timestamp": "2026-09-06T06:01:12+0000",
+      "metrics": {
+        "views": 10,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "18077115185348256",
       "text": "Tasmania itu tempat yang bahkan introvert nggak perlu coping strategy.\nSepi bukan karena sepi — tapi karena alamnya eman",
       "permalink": "https://www.threads.com/@iams_ichi/post/Dc7oQDYlvZa",
       "timestamp": "2026-09-06T04:01:10+0000",
       "metrics": {
-        "views": 39,
+        "views": 89,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -119,7 +149,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dc7ahKLm1Cm",
       "timestamp": "2026-09-06T02:01:11+0000",
       "metrics": {
-        "views": 64,
+        "views": 71,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -134,14 +164,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dc7JV7xGIiy",
       "timestamp": "2026-09-05T23:31:06+0000",
       "metrics": {
-        "views": 269,
-        "likes": 5,
+        "views": 369,
+        "likes": 6,
         "replies": 2,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 7
+      "engagement": 8
     },
     {
       "id": "18020820515873541",
@@ -149,7 +179,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dc6IIDoG_EU",
       "timestamp": "2026-09-05T14:01:14+0000",
       "metrics": {
-        "views": 13,
+        "views": 14,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -164,7 +194,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dc56ZB1m12H",
       "timestamp": "2026-09-05T12:01:13+0000",
       "metrics": {
-        "views": 176,
+        "views": 191,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -179,7 +209,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dc5sq61lVHF",
       "timestamp": "2026-09-05T10:01:19+0000",
       "metrics": {
-        "views": 173,
+        "views": 175,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -194,7 +224,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dc5e7CllmGd",
       "timestamp": "2026-09-05T08:01:11+0000",
       "metrics": {
-        "views": 112,
+        "views": 113,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -209,7 +239,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dc5RMd7nORN",
       "timestamp": "2026-09-05T06:01:14+0000",
       "metrics": {
-        "views": 1201,
+        "views": 1232,
         "likes": 19,
         "replies": 9,
         "reposts": 0,
@@ -217,36 +247,6 @@
         "shares": 3
       },
       "engagement": 28
-    },
-    {
-      "id": "18096861410061276",
-      "text": "Unpopular opinion: street food Jepang paling enak justru pas lo makan sambil berdiri di pinggir gang, bukan di tempat ya",
-      "permalink": "https://www.threads.com/@iams_ichi/post/Dc5Dd3hCMs7",
-      "timestamp": "2026-09-05T04:01:20+0000",
-      "metrics": {
-        "views": 54,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "17972955551929552",
-      "text": "Planning Prancis itu lebih tricky dari yang keliatan di Pinterest.\nKereta antar kota, museumnya yang harus booking jauh-",
-      "permalink": "https://www.threads.com/@iams_ichi/post/Dc41urIkbVJ",
-      "timestamp": "2026-09-05T02:01:14+0000",
-      "metrics": {
-        "views": 79,
-        "likes": 1,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
     }
   ]
 }
