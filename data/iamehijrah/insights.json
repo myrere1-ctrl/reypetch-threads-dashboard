@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-09-06T04:50:13.817Z",
+  "updated_at": "2026-09-06T09:31:40.790Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=U5Sf3Jz2md4Q7kNvwF1nsk3&_nc_oc=Adr9KB__TYCdP2CO0sSnRZAIeSrg5VHnFuneDwGwuoPiWa92_1P7ZIsTcPrjm41qtvI&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=LEAoNM2S4hxX_fIUT3NGZQ&_nc_tpa=Q5bMBQLktyibWjtaNW4rU54kXZawBcfbi1zIP1jnawyiOfMH4CgdITRc54sw9qyliAA7HjnKUsG3CScL_w&oh=00_AQJyLwgxHXWDLhmsn8TN0s1DuxIiOK1SN3zGMhKJUAaaWA&oe=6AA2C293"
+    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=U5Sf3Jz2md4Q7kNvwH47xGD&_nc_oc=AdrOtFrTkV54chkgngM7Rb4xHOtyZ1TdnA-HI-dFPEquFfu_Jvn5qimyxQjQeuPMmFs&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=iSgnyGOlTKGdYJfUf0e-bg&_nc_tpa=Q5bMBQIUtre9E8V5OGpgdBvaozsMIsIeKYCkxPBgsxU4Uq72GmOCf552wE6pj4pUdr895MygyGLMnJ4m9w&oh=00_AQJwHI9fcVzuNkbQESDcJMXBJNsRJkI6PxLm5GZ-F2uRfg&oe=6AA2FAD3"
   },
   "summary": {
     "followers_count": 1,
-    "views": 444,
-    "likes": 7,
-    "replies": 1,
+    "views": 37,
+    "likes": 0,
+    "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 29,
-    "engagement_rate": 6.53,
+    "engagement_rate": 78.38,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -40,7 +40,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dc6V3pMEYKT",
       "timestamp": "2026-09-05T16:01:19+0000",
       "metrics": {
-        "views": 108,
+        "views": 109,
         "likes": 4,
         "replies": 0,
         "reposts": 0,
@@ -97,6 +97,36 @@
   ],
   "recent_posts": [
     {
+      "id": "17927911149404468",
+      "text": "Lagi di titik buntu — bukan capek fisik, tapi capek ngerasain diri sendiri?\nAku pernah di fase itu. Muhasabah bukan bera",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dc8HJ3eFjjj",
+      "timestamp": "2026-09-06T08:31:13+0000",
+      "metrics": {
+        "views": 34,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "18105241934172670",
+      "text": "Ikhlas itu — aku dulu kira artinya udah ga ngerasa apa-apa.\nTernyata salah. Ikhlas itu tetap sakit, tapi milih ga pegang",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dc7yjt2iKol",
+      "timestamp": "2026-09-06T05:31:18+0000",
+      "metrics": {
+        "views": 13,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "18111679628105315",
       "text": "Unpopular opinion: ngerasa jauh dari Allah itu kadang bukan karena malas — tapi karena capek pura-pura baik-baik aja.\nAk",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dc7Trphkf-_",
@@ -132,7 +162,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dc6V3pMEYKT",
       "timestamp": "2026-09-05T16:01:19+0000",
       "metrics": {
-        "views": 108,
+        "views": 109,
         "likes": 4,
         "replies": 0,
         "reposts": 0,
@@ -215,36 +245,6 @@
         "shares": 0
       },
       "engagement": 0
-    },
-    {
-      "id": "18110386691039476",
-      "text": "Sholat 5 waktu itu — kenapa gampang banget kelewat kalau lagi sibuk, tapi justru itu yang paling ditunggu-tunggu waktu d",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dc4u35cieU_",
-      "timestamp": "2026-09-05T01:01:19+0000",
-      "metrics": {
-        "views": 6,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18008956958760458",
-      "text": "Husnudzon sama Allah itu bukan berarti naif — tapi milih percaya di saat paling susah.\nAku lagi belajar ini. Tiap ada ya",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dc4aTCCAZOs",
-      "timestamp": "2026-09-04T22:01:32+0000",
-      "metrics": {
-        "views": 107,
-        "likes": 2,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 2
     }
   ]
 }
