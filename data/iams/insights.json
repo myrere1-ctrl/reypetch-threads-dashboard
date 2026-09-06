@@ -1,26 +1,41 @@
 {
   "account": "iams",
-  "updated_at": "2026-09-06T17:08:36.886Z",
+  "updated_at": "2026-09-06T19:17:18.951Z",
   "profile": {
     "username": "iams_ichi",
     "name": "iams",
     "biography": "🇦🇺\n🧠Psi + Traveling \nSolo Traveler Bunglon\nFine dining 👌 & Street food lokal 🫰\nHidden gems Insider for 🇯🇵🇦🇺🇫🇷🇪🇸🇮🇹 + Umrah.\n✉️ cmo@coa.a",
-    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=VQ-T5cx8V5oQ7kNvwG08HGz&_nc_oc=Adr5lPy4Z9TCVCNNkxhlobXtsSaMKyYwLtFhu54JU7AqEpe2j8yMagC2Z3OjyNx1X8w&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=2DRnpN1KdWRyxogCI-6-Tw&_nc_tpa=Q5bMBQKxCJHzK2NCIu9LfdRj44bBB6l6RQM3rOFJ0PpC6vYzqNb4pwkGGnqvD5MsLRyjlqWw4o8djaarhg&oh=00_AQKDY8AzJQMTvVNLGJn9Ac9i0ZGYfqxcFWaLxQf2yJKwJA&oe=6AA379DE"
+    "picture": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=VQ-T5cx8V5oQ7kNvwEwU22h&_nc_oc=AdprMVpo0tEBTVEHP7vBNiFYmn_SIs8xPQ3aE_VF3cjf-KdVvGf3KUhO9rK6EjVxFG4&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=mSXKbJaLdO2tWLapx0G-Jg&_nc_tpa=Q5bMBQLzk4QFgH_bVLJsBPGtb-Uj5YHAfb6hyrdjn4bMy5PhJvGH1i_WgooXnxjIRPNyhUz77wGZONZqSw&oh=00_AQLlFVrUuwdMzaJl6mtwDO65Fy9B0kojGutiQ0JZZ4CSBA&oe=6AA379DE"
   },
   "summary": {
     "followers_count": 1359,
-    "views": 1842,
-    "likes": 13,
-    "replies": 18,
+    "views": 2044,
+    "likes": 14,
+    "replies": 22,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 82,
-    "engagement_rate": 4.45,
+    "engagement_total": 85,
+    "engagement_rate": 4.16,
     "curiosity_score": null,
     "post_count": 25
   },
   "top_posts": [
+    {
+      "id": "18138728842610946",
+      "text": "Di Italia, orang lokal nggak pernah pesan cappuccino setelah jam 11 pagi — dan mereka akan lihat lo dengan pandangan \"ka",
+      "permalink": "https://www.threads.com/@iams_ichi/post/Dc8fMCeILIc",
+      "timestamp": "2026-09-06T12:01:15+0000",
+      "metrics": {
+        "views": 1414,
+        "likes": 7,
+        "replies": 21,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 28
+    },
     {
       "id": "18352779106216857",
       "text": "Jam 8 pagi di Melbourne, duduk di luar sambil nunggu flat white — dan gue baru sadar kenapa orang sini ga kenal konsep \"",
@@ -37,27 +52,12 @@
       "engagement": 28
     },
     {
-      "id": "18138728842610946",
-      "text": "Di Italia, orang lokal nggak pernah pesan cappuccino setelah jam 11 pagi — dan mereka akan lihat lo dengan pandangan \"ka",
-      "permalink": "https://www.threads.com/@iams_ichi/post/Dc8fMCeILIc",
-      "timestamp": "2026-09-06T12:01:15+0000",
-      "metrics": {
-        "views": 1231,
-        "likes": 6,
-        "replies": 19,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 25
-    },
-    {
       "id": "18026990681893344",
       "text": "Katanya Melbourne itu kota yang \"berat\" buat solo — terlalu hip, terlalu artsy, bikin ngerasa kayak orang luar.\nTernyata",
       "permalink": "https://www.threads.com/@iams_ichi/post/Dc7JV7xGIiy",
       "timestamp": "2026-09-05T23:31:06+0000",
       "metrics": {
-        "views": 513,
+        "views": 521,
         "likes": 8,
         "replies": 3,
         "reposts": 0,
@@ -87,7 +87,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dc8DuGhG_ox",
       "timestamp": "2026-09-06T08:01:13+0000",
       "metrics": {
-        "views": 102,
+        "views": 104,
         "likes": 3,
         "replies": 0,
         "reposts": 0,
@@ -104,7 +104,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dc8s6xnG9DH",
       "timestamp": "2026-09-06T14:01:12+0000",
       "metrics": {
-        "views": 65,
+        "views": 67,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -119,14 +119,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dc8fMCeILIc",
       "timestamp": "2026-09-06T12:01:15+0000",
       "metrics": {
-        "views": 1231,
-        "likes": 6,
-        "replies": 19,
+        "views": 1414,
+        "likes": 7,
+        "replies": 21,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 25
+      "engagement": 28
     },
     {
       "id": "18076934123436641",
@@ -134,7 +134,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dc8RdENG0x3",
       "timestamp": "2026-09-06T10:01:13+0000",
       "metrics": {
-        "views": 124,
+        "views": 127,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -149,7 +149,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dc8DuGhG_ox",
       "timestamp": "2026-09-06T08:01:13+0000",
       "metrics": {
-        "views": 102,
+        "views": 104,
         "likes": 3,
         "replies": 0,
         "reposts": 0,
@@ -164,7 +164,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dc71_NUm9J7",
       "timestamp": "2026-09-06T06:01:12+0000",
       "metrics": {
-        "views": 19,
+        "views": 20,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -179,7 +179,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dc7oQDYlvZa",
       "timestamp": "2026-09-06T04:01:10+0000",
       "metrics": {
-        "views": 99,
+        "views": 100,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -209,7 +209,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dc7JV7xGIiy",
       "timestamp": "2026-09-05T23:31:06+0000",
       "metrics": {
-        "views": 513,
+        "views": 521,
         "likes": 8,
         "replies": 3,
         "reposts": 0,
