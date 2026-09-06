@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-09-06T17:09:40.510Z",
+  "updated_at": "2026-09-06T19:18:45.832Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=bp6eAvxELo0Q7kNvwHJK-6u&_nc_oc=AdrxsCTB9LdWKyMfSKuiPRnPmeH6-MQ_Wwvx4jLgbL6IlBTqhCyhF3coYmC7x-BkfsY&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=MrVOCtK0tHimXXsyPc2tLg&_nc_tpa=Q5bMBQIeiVIFBJguvoqkw_Mt4vLPfoMr-cRQVTwQbjDfhH8DlxDf_QxJ09YP64Za4MTZ2UC1nHdCvIdI6g&oh=00_AQJDU6YjHT0XDn0kuHM5IFF6S-DdxDNXdvR5xpyH3CxuWQ&oe=6AA36B53"
+    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=bp6eAvxELo0Q7kNvwGR-HHJ&_nc_oc=AdoGYkpS-ZvDjRQNqHJsY9lpsR7zPFw26agv8w6q-o_wDy_-tvY2vLNk9ezXTPBcqkk&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=IOnM7NoghnWpx5x9ARq0vQ&_nc_tpa=Q5bMBQJXaxzjWAwLRJ4KzN8u2nBT-CW-kKtmQehVyPmnXwZfINxzfPs6i2Xm6qCS8_UOG3uqxwgr-Tba8w&oh=00_AQIuTJXgNXl4ctU8xLy76HMuNaDmuKwj8xSQR4PmYb_nJw&oe=6AA3A393"
   },
   "summary": {
     "followers_count": 1,
-    "views": 490,
-    "likes": 12,
+    "views": 520,
+    "likes": 14,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 39,
-    "engagement_rate": 7.96,
+    "engagement_total": 40,
+    "engagement_rate": 7.69,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -25,7 +25,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dc8mEc-Ec_k",
       "timestamp": "2026-09-06T13:01:22+0000",
       "metrics": {
-        "views": 189,
+        "views": 190,
         "likes": 7,
         "replies": 0,
         "reposts": 0,
@@ -33,6 +33,21 @@
         "shares": 0
       },
       "engagement": 7
+    },
+    {
+      "id": "18443058466125705",
+      "text": "4 dzikir yang aku coba amalin — dan yang ke-3 jujur sering aku anggap remeh:\n1. Istighfar — tiap sela aktivitas, bukan c",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dc86q1mESli",
+      "timestamp": "2026-09-06T16:01:22+0000",
+      "metrics": {
+        "views": 156,
+        "likes": 6,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 6
     },
     {
       "id": "18069484838569309",
@@ -48,21 +63,6 @@
         "shares": 0
       },
       "engagement": 6
-    },
-    {
-      "id": "18443058466125705",
-      "text": "4 dzikir yang aku coba amalin — dan yang ke-3 jujur sering aku anggap remeh:\n1. Istighfar — tiap sela aktivitas, bukan c",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dc86q1mESli",
-      "timestamp": "2026-09-06T16:01:22+0000",
-      "metrics": {
-        "views": 123,
-        "likes": 5,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 5
     },
     {
       "id": "18140180260600264",
@@ -102,14 +102,14 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dc86q1mESli",
       "timestamp": "2026-09-06T16:01:22+0000",
       "metrics": {
-        "views": 123,
-        "likes": 5,
+        "views": 156,
+        "likes": 6,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 5
+      "engagement": 6
     },
     {
       "id": "18622082995005304",
@@ -132,7 +132,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dc8mEc-Ec_k",
       "timestamp": "2026-09-06T13:01:22+0000",
       "metrics": {
-        "views": 189,
+        "views": 190,
         "likes": 7,
         "replies": 0,
         "reposts": 0,
