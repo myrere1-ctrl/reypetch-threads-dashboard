@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-09-07T10:29:32.422Z",
+  "updated_at": "2026-09-07T16:33:13.384Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-lga3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=bp6eAvxELo0Q7kNvwFRrV3N&_nc_oc=AdqHWiawutZQ9bpVtt3Mi-Or2jDshx2rJJdJ_QVjXt3H09abPQ4y1SrXBNYvGgVONPw&_nc_zt=24&_nc_ht=scontent-lga3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=l6Ve3DMyNDzURM5eVvOl_Q&_nc_tpa=Q5bMBQJCOXFbOjNvtqJOlJ_75DQK0O_Y1LNAIgPxSCHbPxF7VscvxPhUlUnzyC0YFjOLHlc7rL6oI6tpKg&oh=00_AQILOgYJGSDHyFZTaYRcNFwMZU3aemjNnYbkHh1mdPfmlg&oe=6AA44C53"
+    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=bp6eAvxELo0Q7kNvwEpdevV&_nc_oc=Adq5KREnew_7AwqoRTZ8B9kd5UK9iB_zgn0dA3C7y7NCelkEUXGpJBdEukuL39uB0Sw&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=o-wSOGlaR7vobFXTUBFAXw&_nc_tpa=Q5bMBQKmLRHn7q4VUPyS6d1FmpbQlznXIZBlgX0fFrxBjL0KQc_eSolMzEEmhmG4Tn6ZxKscfxbF3nFtGw&oh=00_AQL57Z1XQ3p1prqMtAjNLXBAq8AWsN5Pt-Fk7TXUO6vClg&oe=6AA4BCD3"
   },
   "summary": {
     "followers_count": 1,
-    "views": 171,
-    "likes": 3,
+    "views": 342,
+    "likes": 7,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 44,
-    "engagement_rate": 25.73,
+    "engagement_total": 40,
+    "engagement_rate": 11.7,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -25,7 +25,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dc8mEc-Ec_k",
       "timestamp": "2026-09-06T13:01:22+0000",
       "metrics": {
-        "views": 194,
+        "views": 195,
         "likes": 8,
         "replies": 0,
         "reposts": 0,
@@ -40,22 +40,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dc86q1mESli",
       "timestamp": "2026-09-06T16:01:22+0000",
       "metrics": {
-        "views": 162,
-        "likes": 6,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 6
-    },
-    {
-      "id": "18069484838569309",
-      "text": "Jarang yang tau — Al-Waqiah itu bukan cuma soal rezeki.\nAku mulai rutin baca tiap malam bukan karena ngejar sesuatu, tap",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dc3mxGWkZn1",
-      "timestamp": "2026-09-04T14:31:15+0000",
-      "metrics": {
-        "views": 152,
+        "views": 163,
         "likes": 6,
         "replies": 0,
         "reposts": 0,
@@ -93,16 +78,91 @@
         "shares": 0
       },
       "engagement": 4
+    },
+    {
+      "id": "17962486508980455",
+      "text": "Pernah ngerasa buntu banget, tapi masih bisa napas?\nItu udah cukup buat syukur hari ini.\nDoa Nabi Yunus aku baca pelan t",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dc_VKmUkcuW",
+      "timestamp": "2026-09-07T14:31:22+0000",
+      "metrics": {
+        "views": 33,
+        "likes": 3,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 3
     }
   ],
   "recent_posts": [
+    {
+      "id": "18617113228033012",
+      "text": "Lagi di titik semua kerasa berat dan hati nggak tenang-tenang?\nAku sempet di fase itu. Ngerasa udah doa, tapi kosong aja",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dc_fd8_IPAW",
+      "timestamp": "2026-09-07T16:01:24+0000",
+      "metrics": {
+        "views": 13,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "17962486508980455",
+      "text": "Pernah ngerasa buntu banget, tapi masih bisa napas?\nItu udah cukup buat syukur hari ini.\nDoa Nabi Yunus aku baca pelan t",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dc_VKmUkcuW",
+      "timestamp": "2026-09-07T14:31:22+0000",
+      "metrics": {
+        "views": 33,
+        "likes": 3,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 3
+    },
+    {
+      "id": "18146379817501839",
+      "text": "Aku baru sadar dzikir aku sering putus di tengah jalan — bukan karena lupa, tapi tasbihnya ketinggalan.\nSekarang aku pak",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dc_K3aJm-vU",
+      "timestamp": "2026-09-07T13:01:24+0000",
+      "metrics": {
+        "views": 3,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
+      "id": "18194695636376956",
+      "text": "Pernah nggak tiba-tiba rindu tempat yang belum pernah kamu datangi?\nAku nggak ngerti kenapa, tapi malam ini tiba-tiba se",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dc_AjAVkdx5",
+      "timestamp": "2026-09-07T11:31:14+0000",
+      "metrics": {
+        "views": 33,
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
     {
       "id": "18142695613541053",
       "text": "Jarang yang ngomongin ini — tapi ada 1 doa yang aku baca pas lagi susah nerima keadaan.\nNamanya Doa Ridha atas Qadar. Pe",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dc-r9WzFt9g",
       "timestamp": "2026-09-07T08:31:18+0000",
       "metrics": {
-        "views": 167,
+        "views": 237,
         "likes": 3,
         "replies": 0,
         "reposts": 0,
@@ -162,7 +222,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dc86q1mESli",
       "timestamp": "2026-09-06T16:01:22+0000",
       "metrics": {
-        "views": 162,
+        "views": 163,
         "likes": 6,
         "replies": 0,
         "reposts": 0,
@@ -177,67 +237,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dc8wWnKoJNS",
       "timestamp": "2026-09-06T14:31:13+0000",
       "metrics": {
-        "views": 44,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18619861453000077",
-      "text": "4 amalan yang aku coba konsisten — dan yang ke-3 jujur paling sering aku skip:\n1. Al-Waqiah tiap habis Maghrib — entah k",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dc8mEc-Ec_k",
-      "timestamp": "2026-09-06T13:01:22+0000",
-      "metrics": {
-        "views": 194,
-        "likes": 8,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 8
-    },
-    {
-      "id": "18124058626853330",
-      "text": "Dulu aku mikir persiapan Umroh itu soal administrasi — dokumen, packing, manasik.\nTernyata yang paling berat dipersiapka",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dc8bv9Jm7-Q",
-      "timestamp": "2026-09-06T11:31:11+0000",
-      "metrics": {
-        "views": 83,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "17927911149404468",
-      "text": "Lagi di titik buntu — bukan capek fisik, tapi capek ngerasain diri sendiri?\nAku pernah di fase itu. Muhasabah bukan bera",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dc8HJ3eFjjj",
-      "timestamp": "2026-09-06T08:31:13+0000",
-      "metrics": {
-        "views": 38,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18105241934172670",
-      "text": "Ikhlas itu — aku dulu kira artinya udah ga ngerasa apa-apa.\nTernyata salah. Ikhlas itu tetap sakit, tapi milih ga pegang",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dc7yjt2iKol",
-      "timestamp": "2026-09-06T05:31:18+0000",
-      "metrics": {
-        "views": 15,
+        "views": 46,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
