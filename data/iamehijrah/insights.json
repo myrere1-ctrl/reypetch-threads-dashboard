@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-09-07T20:39:49.059Z",
+  "updated_at": "2026-09-07T23:35:37.918Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=bp6eAvxELo0Q7kNvwHfP3sB&_nc_oc=AdqiIEMQJ7oahMJyNorhprDgEGAh_MdpKsoo2Nb2_yMB2wCetWvE3Ts-UYdHiYDrYk8&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=V13xnrM1xjgGu7zAJinrZA&_nc_tpa=Q5bMBQJ73S_G1BkWmUOqWrK4A9xjRNCM-0XNO95LvsJU4iqTqJnfXw6qBi2SmLdDDwNS64fAQbZJvGhhWw&oh=00_AQIbbT67CiWrSOibubTkBb9Sl4s0x0WhwOZaYnScimc0aQ&oe=6AA4F513"
+    "picture": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=bp6eAvxELo0Q7kNvwFa6G00&_nc_oc=AdpPEgHRRMjr0Uo9SsDJBO2SS9BBbvj40FBdDZ6Hnrb73ftxrBAoHDYsOwsvE5at0SM&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=VKy9kJ1vLQRCq7yascsN_Q&_nc_tpa=Q5bMBQLNEVOOFV7JYUioRAdfdP9P-zvPpiWwekuYNXaWKzE_X3nlJmzenuLCPdFnLhj9ZiXqlu54Sd2jtA&oh=00_AQLuLrg0nplcYLw5_7nvnKfr-B6AWi-sUc3nRHX1WUY5Ww&oe=6AA52D53"
   },
   "summary": {
     "followers_count": 1,
-    "views": 352,
+    "views": 394,
     "likes": 7,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 40,
-    "engagement_rate": 11.36,
+    "engagement_total": 38,
+    "engagement_rate": 9.64,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -70,7 +70,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dc6V3pMEYKT",
       "timestamp": "2026-09-05T16:01:19+0000",
       "metrics": {
-        "views": 109,
+        "views": 112,
         "likes": 4,
         "replies": 0,
         "reposts": 0,
@@ -97,12 +97,27 @@
   ],
   "recent_posts": [
     {
+      "id": "18338406547255717",
+      "text": "Sholat 5 waktu itu kelihatan simpel — tapi jujur, menjaganya tiap hari itu butuh perjuangan.\nAku lagi latih diri sendiri",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdAIs7VGPB1",
+      "timestamp": "2026-09-07T22:01:42+0000",
+      "metrics": {
+        "views": 38,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "18617113228033012",
       "text": "Lagi di titik semua kerasa berat dan hati nggak tenang-tenang?\nAku sempet di fase itu. Ngerasa udah doa, tapi kosong aja",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dc_fd8_IPAW",
       "timestamp": "2026-09-07T16:01:24+0000",
       "metrics": {
-        "views": 26,
+        "views": 27,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -230,21 +245,6 @@
         "shares": 0
       },
       "engagement": 6
-    },
-    {
-      "id": "18622082995005304",
-      "text": "Pernah nggak, baca Ayat Kursi tapi pikiran udah kemana-mana?\nAku sering begitu. Mulut baca, hati masih di kerjaan, notif",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dc8wWnKoJNS",
-      "timestamp": "2026-09-06T14:31:13+0000",
-      "metrics": {
-        "views": 46,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
     }
   ]
 }
