@@ -4,7 +4,7 @@
   "affiliate_platform": "Amazon",
   "link_mode": "comment",
   "min_affiliate_posts_per_day": 2,
-  "status": "DRAFT — belum aktif. Aktif setelah: (1) mekanisme link diputusin (re-OAuth auto-komen / linktree bio), (2) 'products' diisi (maks 10 item).",
+  "status": "ACTIVE sejak 2026-09-07 — slot 2 & 6 (11.00 & 19.00 WIB) generate + auto-komen link. Diatur di accounts/iams.config.mjs (affiliateSlots).",
   "product_format_example": {
     "name": "nama produk singkat",
     "link": "https://amzn.to/xxxx (link affiliate)",
