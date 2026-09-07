@@ -11,5 +11,66 @@
     "blurb": "1 kalimat kenapa produk ini worth — dipakai bot buat nulis konten rekomendasi (voice tetap lembut, ga hard-sell)",
     "for": "harian | umroh | umum"
   },
-  "products": []
+  "products": [
+    {
+      "name": "Mukena Traveling",
+      "link": "https://s.shopee.co.id/2BEgDI1mx2",
+      "blurb": "ringkes & gampang dilipat, cocok dibawa kemana-mana biar sholat ga pernah ketinggalan pas lagi di jalan",
+      "for": "harian"
+    },
+    {
+      "name": "Mukena Putih Premium",
+      "link": "https://s.shopee.co.id/8KpJYrBhku",
+      "blurb": "adem & nyaman dipakai lama, bikin sholat lebih khusyu tanpa gerah",
+      "for": "harian"
+    },
+    {
+      "name": "Sajadah",
+      "link": "https://s.shopee.co.id/4fw1BwU6gv",
+      "blurb": "empuk & ga licin, teman setia sholat 5 waktu di rumah",
+      "for": "harian"
+    },
+    {
+      "name": "Digital Dzikir",
+      "link": "https://s.shopee.co.id/3B7DPSooMR",
+      "blurb": "alat hitung dzikir digital, bantu istiqomah dzikir pagi-petang tanpa lupa hitungan",
+      "for": "harian"
+    },
+    {
+      "name": "Cincin Tasbih",
+      "link": "https://s.shopee.co.id/8fS9zjSXbk",
+      "blurb": "tasbih mungil bentuk cincin, bisa dipakai dzikir kapan aja tanpa ribet bawa tasbih biasa",
+      "for": "harian"
+    },
+    {
+      "name": "Sajadah Turkey Silver",
+      "link": "https://s.shopee.co.id/8V8jlYFGJU",
+      "blurb": "motifnya elegan, bahannya lembut — bikin momen sholat lebih tenang",
+      "for": "harian"
+    },
+    {
+      "name": "Tasbih Kokka Premium",
+      "link": "https://s.shopee.co.id/8AVtNvQGNF",
+      "blurb": "kualitas premium, nyaman digenggam buat dzikir panjang",
+      "for": "harian"
+    },
+    {
+      "name": "Perlengkapan Umroh Premium Wanita",
+      "link": "https://s.shopee.co.id/W6SG4Esce",
+      "blurb": "satu paket lengkap buat persiapan Umroh, tinggal berangkat tanpa pusing checklist",
+      "for": "umroh"
+    },
+    {
+      "name": "Kain Ihram",
+      "link": "https://s.shopee.co.id/4fw1EIGz4I",
+      "blurb": "bahan nyaman & sesuai syariat, persiapan penting sebelum ke Tanah Suci",
+      "for": "umroh"
+    },
+    {
+      "name": "Gamis Umroh",
+      "link": "https://s.shopee.co.id/9zxXaQI5q9",
+      "blurb": "adem dipakai seharian di Tanah Suci, syar'i tapi tetep nyaman buat banyak aktivitas ibadah",
+      "for": "umroh"
+    }
+  ]
 }

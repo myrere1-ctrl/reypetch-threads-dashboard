@@ -9,6 +9,19 @@ export const config = {
   // WIB times — 8x/hari ngikutin ritme ibadah (subuh→malam), jam paling kena buat doa/refleksi
   slots: ['05.00', '08.00', '12.30', '15.30', '18.30', '20.00', '21.30', '23.00'],
 
+  // Slot index (dari array `slots` di atas) yang jadi affiliate post — min 2/hari.
+  // Sisanya tetap konten doa/refleksi murni. Produk dari data/iamehijrah/products.json (Shopee).
+  affiliateSlots: [2, 5], // 12.30 & 20.00 WIB
+
+  // Template balasan komen (link + blurb) — dipilih random, voice lembut & hangat.
+  // {blurb}/{link}/{name} otomatis diganti.
+  affiliateReplyTemplates: [
+    '{blurb} 🤍\n\nlink: {link}',
+    'buat yang nanya, ini yang aku pake 🤍\n{link}',
+    '{blurb}\n\n{link} — semoga bermanfaat',
+    'link-nya di sini ya 🤍 {link}',
+  ],
+
   // Cuma 1 produk relevan (Safar AI = Umroh). Legacy rotation → selalu Safar AI.
   // Topik konten dirotasi dari config.destinations (topic pool doa/dzikir yang AMAN).
   products: [

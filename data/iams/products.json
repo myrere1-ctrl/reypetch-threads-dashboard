@@ -11,5 +11,66 @@
     "blurb": "1 kalimat kenapa produk ini worth — dipakai bot buat nulis konten rekomendasi",
     "for": "Jepang | Eropa | Australia | umum"
   },
-  "products": []
+  "products": [
+    {
+      "name": "La Roche-Posay Anthelios Invisible Fluid Face Sunscreen SPF50+ 50ml",
+      "link": "https://link.amazon/B0iJnnSgT",
+      "blurb": "sunscreen wajah broad-spectrum, ringan & invisible finish, aman buat kulit sensitif, non-greasy — wajib banget buat solo traveler yang sering kena matahari seharian",
+      "for": "umum"
+    },
+    {
+      "name": "Apple AirTag",
+      "link": "https://link.amazon/B055DqOBu",
+      "blurb": "tracker kecil buat nempel di koper/tas — biar ga parno kehilangan bagasi pas transit atau checked-in",
+      "for": "umum"
+    },
+    {
+      "name": "Samsonite Luggage",
+      "link": "https://link.amazon/B0f6UBIU9",
+      "blurb": "koper solid & ringan, tahan banting buat solo traveling jangka panjang",
+      "for": "umum"
+    },
+    {
+      "name": "Samsonite Backpack CUTE",
+      "link": "https://link.amazon/B06lG7oiK",
+      "blurb": "daypack ringkes yang muat banyak tapi tetep stylish buat day-trip atau jalan-jalan santai",
+      "for": "umum"
+    },
+    {
+      "name": "JBL Tour One M3",
+      "link": "https://link.amazon/B0fQeit3b",
+      "blurb": "headphone noise-cancelling, penyelamat buat long-haul flight biar bisa tidur nyenyak di pesawat",
+      "for": "umum"
+    },
+    {
+      "name": "Tomtoc Backpack",
+      "link": "https://link.amazon/A0hYxElQh",
+      "blurb": "tas laptop/carry-on compact tapi compartment-nya rapi — pas buat solo traveler yang bawa banyak gadget",
+      "for": "umum"
+    },
+    {
+      "name": "OutIn Nano Portable Electric Espresso Machine",
+      "link": "https://link.amazon/B04azgowD",
+      "blurb": "espresso maker portable buat yang ga bisa hidup tanpa kopi enak walau lagi di hostel atau Airbnb",
+      "for": "umum"
+    },
+    {
+      "name": "Cabeau Evolution S3 Travel Pillow",
+      "link": "https://link.amazon/B01KA3Nfn",
+      "blurb": "bantal leher yang beneran bikin bisa tidur di pesawat/kereta, bukan cuma gaya-gayaan doang",
+      "for": "umum"
+    },
+    {
+      "name": "BAGAIL 8 Set Packing Cubes",
+      "link": "https://link.amazon/B0aNkSxx4",
+      "blurb": "bikin packing rapi, koper ga berantakan, sorting baju jadi gampang banget",
+      "for": "umum"
+    },
+    {
+      "name": "Travel Adaptor Plug with Insulated Pins (International)",
+      "link": "https://link.amazon/B05RK23ii",
+      "blurb": "1 adaptor buat semua jenis colokan negara — wajib banget kalau sering pindah-pindah negara",
+      "for": "umum"
+    }
+  ]
 }

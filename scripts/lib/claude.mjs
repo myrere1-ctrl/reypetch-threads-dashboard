@@ -167,3 +167,68 @@ export async function generatePost({ apiKey, config, product, destination, note 
     full: truncated,
   };
 }
+
+// ===== AFFILIATE POST (rekomendasi produk asli dari data/<account>/products.json) =====
+// Beda dari generatePost: bukan promosi app internal, tapi rekomendasi barang nyata
+// (Amazon/Shopee). Link taruh di REPLY (auto), bukan di post ini.
+export function buildAffiliatePrompt({ config, item, recentPosts = [] }) {
+  const history = recentPostsBlock(recentPosts);
+  const parts = [
+    `Kamu content creator Threads untuk ${config.brandName}.`,
+    '',
+    config.brandDescription,
+    '',
+    `Buat 1 post Threads Bahasa Indonesia yang REKOMENDASIIN produk ini secara personal & natural (BUKAN iklan/brosur):`,
+    `- Produk: ${item.name}`,
+    `- Kenapa worth: ${item.blurb}`,
+    '',
+    `MODE: cerita personal singkat kenapa produk ini kepake/berguna buat kamu (2-3 baris), kayak share tips ke temen. JANGAN listing fitur produk kayak brosur. JANGAN bahasa hard-sell ("beli sekarang", "diskon", "buruan", "cuma hari ini").`,
+    '',
+    history,
+    history ? '' : null,
+    `Format post:`,
+    ...config.formatRules.map((r) => `- ${r}`),
+    `- BATAS KARAKTER: total teks + CTA MAX 450 karakter (buffer dari Threads limit 500).`,
+    `- CTA WAJIB kasih tau link ada di KOMEN (bukan bio, bukan link di post ini) — variasikan kalimatnya tiap kali, jangan sama persis.`,
+    '',
+    `Voice signature ${config.brandName}:`,
+    config.voiceSignature,
+    '',
+    config.antiPatterns ? `HINDARI KETAT:\n${config.antiPatterns.map((r) => `- ${r}`).join('\n')}` : '',
+    '',
+    `PENTING - format output WAJIB persis pakai tag:`,
+    `<teks>baris1|baris2|baris3</teks>`,
+    `<cta>link di komen ya (contoh — variasikan kalimatnya)</cta>`,
+    '',
+    `Gunakan pipe | untuk jeda baris. JANGAN pakai newline asli di dalam teks. JANGAN pakai quote dobel. JANGAN tulis apapun di luar tag. JANGAN tulis URL apapun di teks/cta.`,
+  ];
+  return parts.filter(Boolean).join('\n');
+}
+
+export async function generateAffiliatePost({ apiKey, config, item, recentPosts = [] }) {
+  let lastFull = '';
+  let attempt = 0;
+
+  while (attempt < MAX_RETRIES) {
+    attempt++;
+    const retryNote = attempt > 1
+      ? `\n\n[RETRY ${attempt}: post sebelumnya ${lastFull.length} karakter — LEBIH PENDEK, max 400 total]`
+      : '';
+    const prompt = buildAffiliatePrompt({ config, item, recentPosts }) + retryNote;
+    const raw = await callClaude({ apiKey, prompt });
+    const { teks, cta } = parseResponse(raw);
+    const text = teks.replace(/\|/g, '\n');
+    const full = `${text}\n\n${cta}`;
+    lastFull = full;
+
+    if (full.length <= THREADS_LIMIT) {
+      if (attempt > 1) console.log(`Retry ${attempt} succeeded (${full.length} chars)`);
+      return { text, cta, angle: 'affiliate', productSlug: null, destination: null, full };
+    }
+    console.log(`Attempt ${attempt}: affiliate post too long (${full.length} chars > ${THREADS_LIMIT}), retrying...`);
+  }
+
+  console.warn(`All ${MAX_RETRIES} retries exceeded limit. Hard truncating.`);
+  const truncated = lastFull.slice(0, THREADS_LIMIT - 3) + '...';
+  return { text: truncated, cta: '', angle: 'affiliate', productSlug: null, destination: null, full: truncated };
+}

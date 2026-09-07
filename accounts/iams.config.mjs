@@ -9,6 +9,19 @@ export const config = {
   // WIB times, harus consistent dengan catchup script. 8x/hari, sebar seharian.
   slots: ['06.30', '09.00', '11.00', '13.00', '15.00', '17.00', '19.00', '21.00'],
 
+  // Slot index (dari array `slots` di atas) yang jadi affiliate post — min 2/hari.
+  // Sisanya tetap konten murni. Produk dari data/iams/products.json (Amazon).
+  affiliateSlots: [2, 6], // 11.00 & 19.00 WIB
+
+  // Template balasan komen (link + blurb) — dipilih random, voice casual iams_ichi.
+  // {blurb}/{link}/{name} otomatis diganti.
+  affiliateReplyTemplates: [
+    '{blurb}\n\nini link-nya: {link} 🛒',
+    'yang nanya-nanya soal ini, nih linknya: {link}\n({blurb})',
+    'link buat yang penasaran: {link} — {blurb}',
+    'kirim ke temen yang lagi butuh: {link}',
+  ],
+
   // Rotasi MIX per-post antara 3 tema (Jepang/Eropa/Australia) — BUKAN per-minggu.
   // themeMode dihapus → pickContent pakai rotasi per-slot.
 

@@ -1,6 +1,6 @@
 import fs from 'node:fs/promises';
-import { generatePost } from './lib/claude.mjs';
-import { postThread, verifyToken } from './lib/threads.mjs';
+import { generatePost, generateAffiliatePost } from './lib/claude.mjs';
+import { postThread, postReply, verifyToken } from './lib/threads.mjs';
 import { loadAccountConfig, parseAccountArg, dataPath } from './lib/config.mjs';
 
 function parseArgs() {
@@ -52,6 +52,34 @@ async function appendLog(account, entry) {
   await fs.writeFile(p, JSON.stringify(log, null, 2) + '\n');
 }
 
+async function loadProducts(account) {
+  try {
+    const raw = await fs.readFile(dataPath(account, 'products.json'), 'utf8');
+    const data = JSON.parse(raw);
+    return Array.isArray(data.products) ? data.products : [];
+  } catch {
+    return [];
+  }
+}
+
+// Rotasi produk affiliate: beda slot affiliate di hari yang sama dapat produk beda
+// (positionInSlots = urutan slot ini di dalam config.affiliateSlots).
+function pickAffiliateItem({ products, dayIndex, positionInSlots }) {
+  if (!products.length) return null;
+  return products[(dayIndex + positionInSlots) % products.length];
+}
+
+function buildAffiliateReply({ config, item }) {
+  const templates = config.affiliateReplyTemplates?.length
+    ? config.affiliateReplyTemplates
+    : ['{blurb}\n\n{link}'];
+  const t = templates[Math.floor(Math.random() * templates.length)];
+  return t
+    .replace(/\{blurb\}/g, item.blurb)
+    .replace(/\{link\}/g, item.link)
+    .replace(/\{name\}/g, item.name);
+}
+
 async function main() {
   const account = parseAccountArg();
   const { slot, dryRun } = parseArgs();
@@ -69,15 +97,38 @@ async function main() {
   if (!token) throw new Error('THREADS_ACCESS_TOKEN missing');
   if (!userId) throw new Error('THREADS_USER_ID missing');
 
-  const { product, destination } = pickContent({ config, slot });
-  console.log(`Slot ${slot} (${config.slots[slot]} WIB) · account: ${account}`);
-  console.log('Pick:', { product: product.slug, destination });
-
   // Ambil 12 post terakhir sebagai riwayat (anti-kontradiksi + anti-repetisi)
   const log = await loadLog(account);
   const recentPosts = log.slice(-12).map((e) => e.body || e.text || '');
 
-  const post = await generatePost({ apiKey, config, product, destination, recentPosts });
+  const now = new Date();
+  const dayIndex = Math.floor(now.getTime() / 86400000);
+  const affiliateSlots = config.affiliateSlots || [];
+  const isAffiliateSlot = affiliateSlots.includes(slot);
+
+  let post = null;
+  let item = null;
+
+  if (isAffiliateSlot) {
+    const products = await loadProducts(account);
+    if (products.length) {
+      const positionInSlots = affiliateSlots.indexOf(slot);
+      item = pickAffiliateItem({ products, dayIndex, positionInSlots });
+      console.log(`Slot ${slot} (${config.slots[slot]} WIB) · account: ${account} · AFFILIATE`);
+      console.log('Produk:', item.name);
+      post = await generateAffiliatePost({ apiKey, config, item, recentPosts });
+    } else {
+      console.log(`Slot ${slot} affiliate tapi products.json kosong — fallback ke konten normal.`);
+    }
+  }
+
+  if (!post) {
+    const { product, destination } = pickContent({ config, slot });
+    console.log(`Slot ${slot} (${config.slots[slot]} WIB) · account: ${account}`);
+    console.log('Pick:', { product: product.slug, destination });
+    post = await generatePost({ apiKey, config, product, destination, recentPosts });
+  }
+
   console.log('---');
   console.log(post.full);
   console.log('---');
@@ -91,18 +142,32 @@ async function main() {
   const threadId = await postThread({ userId, token, text: post.full });
   console.log('Posted:', threadId);
 
+  let replyThreadId = null;
+  if (item) {
+    const replyText = buildAffiliateReply({ config, item });
+    try {
+      replyThreadId = await postReply({ userId, token, text: replyText, replyToId: threadId });
+      console.log('Posted affiliate reply:', replyThreadId);
+    } catch (e) {
+      console.error('Affiliate reply gagal (main post tetap aman):', e.message);
+    }
+  }
+
   await appendLog(account, {
     timestamp: new Date().toISOString(),
     slot,
     slotTimeWib: config.slots[slot],
     account,
-    productSlug: product.slug,
-    destination,
+    isAffiliate: !!item,
+    affiliateProduct: item ? item.name : null,
+    productSlug: post.productSlug ?? null,
+    destination: post.destination ?? null,
     angle: post.angle,
     body: post.text,
     cta: post.cta,
     text: post.full,
     threadId,
+    replyThreadId,
   });
   console.log('Logged');
 }
