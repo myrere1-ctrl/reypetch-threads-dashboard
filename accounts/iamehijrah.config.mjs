@@ -16,10 +16,10 @@ export const config = {
   // Template balasan komen (link + blurb) — dipilih random, voice lembut & hangat.
   // {blurb}/{link}/{name} otomatis diganti.
   affiliateReplyTemplates: [
-    '{blurb} 🤍\n\nlink: {link}',
-    'buat yang nanya, ini yang aku pake 🤍\n{link}',
-    '{blurb}\n\n{link} — semoga bermanfaat',
-    'link-nya di sini ya 🤍 {link}',
+    '{blurb} 🤍\n\nlink: {link}\n#ad',
+    'buat yang nanya, ini yang aku pake 🤍\n{link}\n#ad',
+    '{blurb}\n\n{link} — semoga bermanfaat\n#ad',
+    'link-nya di sini ya 🤍 {link}\n#ad',
   ],
 
   // Cuma 1 produk relevan (Safar AI = Umroh). Legacy rotation → selalu Safar AI.

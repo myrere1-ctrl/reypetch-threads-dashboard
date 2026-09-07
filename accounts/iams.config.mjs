@@ -16,10 +16,10 @@ export const config = {
   // Template balasan komen (link + blurb) — dipilih random, voice casual iams_ichi.
   // {blurb}/{link}/{name} otomatis diganti.
   affiliateReplyTemplates: [
-    '{blurb}\n\nini link-nya: {link} 🛒',
-    'yang nanya-nanya soal ini, nih linknya: {link}\n({blurb})',
-    'link buat yang penasaran: {link} — {blurb}',
-    'kirim ke temen yang lagi butuh: {link}',
+    '{blurb}\n\nini link-nya: {link} 🛒\n#ad',
+    'yang nanya-nanya soal ini, nih linknya: {link}\n({blurb})\n#ad',
+    'link buat yang penasaran: {link} — {blurb}\n#ad',
+    'kirim ke temen yang lagi butuh: {link}\n#ad',
   ],
 
   // Rotasi MIX per-post antara 3 tema (Jepang/Eropa/Australia) — BUKAN per-minggu.
