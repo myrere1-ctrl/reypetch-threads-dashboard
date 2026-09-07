@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-09-07T04:55:05.390Z",
+  "updated_at": "2026-09-07T10:29:32.422Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=bp6eAvxELo0Q7kNvwE68LQu&_nc_oc=AdpigcEMv_k3-YD7yZ2b2ujE88qnQOOTYhsByQEtGiBR_cRYNKfE-dnwNp85QYtujLg&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=-CU0xr8kyWkIEmaA31t4jw&_nc_tpa=Q5bMBQI2UCoRAg-lbQ7t7dK5_OXApSJ5ZjHtLu19OBDsqza-E02Xfrcqg1TfXJP9o2KfW2saf96pt0Cqiw&oh=00_AQIptMVGGVTbhmDRXAACalP2JxgoJtmlgTXOswlq-xE3VA&oe=6AA41413"
+    "picture": "https://scontent-lga3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=bp6eAvxELo0Q7kNvwFRrV3N&_nc_oc=AdqHWiawutZQ9bpVtt3Mi-Or2jDshx2rJJdJ_QVjXt3H09abPQ4y1SrXBNYvGgVONPw&_nc_zt=24&_nc_ht=scontent-lga3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=l6Ve3DMyNDzURM5eVvOl_Q&_nc_tpa=Q5bMBQJCOXFbOjNvtqJOlJ_75DQK0O_Y1LNAIgPxSCHbPxF7VscvxPhUlUnzyC0YFjOLHlc7rL6oI6tpKg&oh=00_AQILOgYJGSDHyFZTaYRcNFwMZU3aemjNnYbkHh1mdPfmlg&oe=6AA44C53"
   },
   "summary": {
     "followers_count": 1,
-    "views": 580,
-    "likes": 20,
+    "views": 171,
+    "likes": 3,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 40,
-    "engagement_rate": 6.9,
+    "engagement_total": 44,
+    "engagement_rate": 25.73,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -25,7 +25,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dc8mEc-Ec_k",
       "timestamp": "2026-09-06T13:01:22+0000",
       "metrics": {
-        "views": 193,
+        "views": 194,
         "likes": 8,
         "replies": 0,
         "reposts": 0,
@@ -70,7 +70,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dc9j6HjFS0F",
       "timestamp": "2026-09-06T22:01:42+0000",
       "metrics": {
-        "views": 49,
+        "views": 50,
         "likes": 5,
         "replies": 0,
         "reposts": 0,
@@ -97,6 +97,36 @@
   ],
   "recent_posts": [
     {
+      "id": "18142695613541053",
+      "text": "Jarang yang ngomongin ini — tapi ada 1 doa yang aku baca pas lagi susah nerima keadaan.\nNamanya Doa Ridha atas Qadar. Pe",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dc-r9WzFt9g",
+      "timestamp": "2026-09-07T08:31:18+0000",
+      "metrics": {
+        "views": 167,
+        "likes": 3,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 3
+    },
+    {
+      "id": "18120621559918496",
+      "text": "Dulu aku mikir doa yang lama nggak terkabul itu tanda Allah nggak dengerin. Ternyata salah besar.\nSekarang aku sadar — k",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dc-XWIVlmSk",
+      "timestamp": "2026-09-07T05:31:11+0000",
+      "metrics": {
+        "views": 11,
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
       "id": "18014993138743259",
       "text": "Ada 1 doa yang jarang dibahas — tapi aku rutin baca pas lagi overthinking parah.\nDoa minta ditenangkan hati. Namanya Doa",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dc94fP2GO6_",
@@ -117,7 +147,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dc9j6HjFS0F",
       "timestamp": "2026-09-06T22:01:42+0000",
       "metrics": {
-        "views": 49,
+        "views": 50,
         "likes": 5,
         "replies": 0,
         "reposts": 0,
@@ -162,7 +192,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dc8mEc-Ec_k",
       "timestamp": "2026-09-06T13:01:22+0000",
       "metrics": {
-        "views": 193,
+        "views": 194,
         "likes": 8,
         "replies": 0,
         "reposts": 0,
@@ -208,36 +238,6 @@
       "timestamp": "2026-09-06T05:31:18+0000",
       "metrics": {
         "views": 15,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18111679628105315",
-      "text": "Unpopular opinion: ngerasa jauh dari Allah itu kadang bukan karena malas — tapi karena capek pura-pura baik-baik aja.\nAk",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dc7Trphkf-_",
-      "timestamp": "2026-09-06T01:01:28+0000",
-      "metrics": {
-        "views": 31,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "17906188254541864",
-      "text": "Unpopular opinion: sedekah itu nggak bikin aku takut miskin — justru pelit yang bikin aku makin ngerasa kurang.\nDulu aku",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dc6_EPvCS_M",
-      "timestamp": "2026-09-05T22:01:19+0000",
-      "metrics": {
-        "views": 7,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
