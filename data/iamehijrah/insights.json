@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-09-08T14:39:22.750Z",
+  "updated_at": "2026-09-08T18:48:08.466Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-lhr11-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=bp6eAvxELo0Q7kNvwHftP7j&_nc_oc=Ado9VyJ_Z0rVWTVogRAPddB8-oTSbbeMrMigWCpZNGWQfgoE7XKAdzbaYIUPbeyA1pI&_nc_zt=24&_nc_ht=scontent-lhr11-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=QZPHRQnb6sFZKTtlZbeXSA&_nc_tpa=Q5bMBQIUbEGxORJShWjRKzrwdP0lFA235OW_pBPM52XlhBoItJz_i-2i_chnspF3l_2-J8paaDpzaR3nGw&oh=00_AQKXKDR6L5cTTUT0eFu0kUt_uV65DgqwTF6dNmqxa8LFpQ&oe=6AA5D613"
+    "picture": "https://scontent-lhr11-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=bp6eAvxELo0Q7kNvwHpbCkR&_nc_oc=AdrzMkqAxJCm2gDdVeFAsPQRkodLIBi2YqBGzW7nr491XnlA5YP9Pz8m4YrhTNZEk4Y&_nc_zt=24&_nc_ht=scontent-lhr11-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=yjH8OhxTUMsEFo0pKJnHQg&_nc_tpa=Q5bMBQL6q7LOFhHLqkLOOKNg2HlHJH_KqtvS51DmBCfeU34-ygGWELgVZkT3-sYLRN2bxjX8urFVZszNZw&oh=00_AQLLd8iM-cAGrboz9tgkJTgVs4Gq0FkDgn_2t2SFY2jZ6w&oe=6AA64693"
   },
   "summary": {
     "followers_count": 1,
-    "views": 317,
-    "likes": 10,
+    "views": 376,
+    "likes": 11,
     "replies": 2,
     "reposts": 2,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 49,
-    "engagement_rate": 15.46,
+    "engagement_total": 50,
+    "engagement_rate": 13.3,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -25,14 +25,14 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DdBlXNVlTKO",
       "timestamp": "2026-09-08T11:31:23+0000",
       "metrics": {
-        "views": 191,
-        "likes": 6,
+        "views": 197,
+        "likes": 7,
         "replies": 2,
         "reposts": 1,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 9
+      "engagement": 10
     },
     {
       "id": "18619861453000077",
@@ -40,7 +40,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dc8mEc-Ec_k",
       "timestamp": "2026-09-06T13:01:22+0000",
       "metrics": {
-        "views": 195,
+        "views": 196,
         "likes": 8,
         "replies": 0,
         "reposts": 0,
@@ -97,12 +97,27 @@
   ],
   "recent_posts": [
     {
+      "id": "18017093204928179",
+      "text": "Dzikir pagi itu bukan sekadar rutinitas — buat aku itu kayak minta dibekelin sebelum hari mulai.\nSekarang lagi semangat ",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdCER0VkUJU",
+      "timestamp": "2026-09-08T16:01:32+0000",
+      "metrics": {
+        "views": 10,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "17877205527549048",
       "text": "4 waktu aku paling sering lupa istighfar — padahal itu momen paling butuh:\n1. Habis marah — hati masih panas, istighfar ",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DdB6CGzkeQt",
       "timestamp": "2026-09-08T14:32:01+0000",
       "metrics": {
-        "views": 0,
+        "views": 43,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -132,14 +147,14 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DdBlXNVlTKO",
       "timestamp": "2026-09-08T11:31:23+0000",
       "metrics": {
-        "views": 191,
-        "likes": 6,
+        "views": 197,
+        "likes": 7,
         "replies": 2,
         "reposts": 1,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 9
+      "engagement": 10
     },
     {
       "id": "18109998841863630",
@@ -230,21 +245,6 @@
         "shares": 0
       },
       "engagement": 3
-    },
-    {
-      "id": "18146379817501839",
-      "text": "Aku baru sadar dzikir aku sering putus di tengah jalan — bukan karena lupa, tapi tasbihnya ketinggalan.\nSekarang aku pak",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dc_K3aJm-vU",
-      "timestamp": "2026-09-07T13:01:24+0000",
-      "metrics": {
-        "views": 3,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
     }
   ]
 }
