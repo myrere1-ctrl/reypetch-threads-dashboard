@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-09-08T04:49:49.781Z",
+  "updated_at": "2026-09-08T09:49:03.097Z",
   "profile": {
     "username": "iams_ichi",
     "name": "iams",
     "biography": "🇦🇺\n🧠Psi + Traveling \nSolo Traveler Bunglon\nFine dining 👌 & Street food lokal 🫰\nHidden gems Insider for 🇯🇵🇦🇺🇫🇷🇪🇸🇮🇹 + Umrah.\n✉️ cmo@coa.a",
-    "picture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=GfXKk_fjtygQ7kNvwG_eXz8&_nc_oc=AdohczcZC-j0-U88amJp1oWPXwjrVkj7Y-_Qv-ugtTrGqeZolmoR2O9wI1MfRgSEc2Y&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=BSqZNZ72OUzV87qpeGZ1Yw&_nc_tpa=Q5bMBQJtqaKEjqrGq7s096ruW2vhS9exL2K5RDLLkwW4d2OZtT4KHQ2adeolqgdzR_QHXZ3dwJSkXGgHlA&oh=00_AQJpaK2FCIkDLo9UpNvcGVE9briX7UN354Gzba5_SnFFGA&oe=6AA5741E"
+    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=GfXKk_fjtygQ7kNvwFlN42j&_nc_oc=Adq0R46KrD7aCRUI-ifcsoh-iWl_DGx8-Y8FBV5ya5OtxeBNgttEJIzks9wipFyDTFs&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=S92FFqeZvQ9MNVIwvDYLgA&_nc_tpa=Q5bMBQKvcA-wbreAqMsm_rYHBOWvO6_cB2tijTJeCweRhV66bVTO7SltSMNRiKZIPk_I0G9wgI5yOgzHkA&oh=00_AQKh4zFynK9T7Aq5thaS2tGLnp5f255_-MOutMokELjhBg&oe=6AA5AC5E"
   },
   "summary": {
     "followers_count": 1360,
-    "views": 17375,
-    "likes": 96,
-    "replies": 71,
-    "reposts": 2,
+    "views": 1400,
+    "likes": 10,
+    "replies": 2,
+    "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 347,
-    "engagement_rate": 2,
+    "engagement_total": 349,
+    "engagement_rate": 24.93,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -27,29 +27,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dc8fMCeILIc",
       "timestamp": "2026-09-06T12:01:15+0000",
       "metrics": {
-        "views": 25345,
-        "likes": 123,
-        "replies": 160,
+        "views": 27881,
+        "likes": 147,
+        "replies": 163,
         "reposts": 2,
         "quotes": 0,
-        "shares": 3
+        "shares": 4
       },
-      "engagement": 285
-    },
-    {
-      "id": "18352779106216857",
-      "text": "Jam 8 pagi di Melbourne, duduk di luar sambil nunggu flat white — dan gue baru sadar kenapa orang sini ga kenal konsep \"",
-      "permalink": "https://www.threads.com/@iams_ichi/post/Dc5RMd7nORN",
-      "timestamp": "2026-09-05T06:01:14+0000",
-      "metrics": {
-        "views": 1262,
-        "likes": 19,
-        "replies": 9,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 3
-      },
-      "engagement": 28
+      "engagement": 312
     },
     {
       "id": "18026990681893344",
@@ -57,7 +42,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dc7JV7xGIiy",
       "timestamp": "2026-09-05T23:31:06+0000",
       "metrics": {
-        "views": 587,
+        "views": 588,
         "likes": 8,
         "replies": 4,
         "reposts": 0,
@@ -72,7 +57,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dc-2QDnlmnW",
       "timestamp": "2026-09-07T10:01:14+0000",
       "metrics": {
-        "views": 599,
+        "views": 646,
         "likes": 4,
         "replies": 5,
         "reposts": 1,
@@ -87,7 +72,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dc8DuGhG_ox",
       "timestamp": "2026-09-06T08:01:13+0000",
       "metrics": {
-        "views": 119,
+        "views": 120,
         "likes": 3,
         "replies": 0,
         "reposts": 0,
@@ -95,16 +80,61 @@
         "shares": 0
       },
       "engagement": 3
+    },
+    {
+      "id": "18003727721995484",
+      "text": "Melbourne itu aneh — siang aku beli pie daging di pasar pagi, malem udah duduk di wine bar yang menunya pakai bahasa yan",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DdA_lHTkfTc",
+      "timestamp": "2026-09-08T06:01:13+0000",
+      "metrics": {
+        "views": 381,
+        "likes": 1,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 2
     }
   ],
   "recent_posts": [
+    {
+      "id": "18110303783605782",
+      "text": "Di Barcelona aku bisa makan di tempat fine dining yang menunya pakai istilah yang aku sendiri harus tebak artinya — mala",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DdBNUmSFarz",
+      "timestamp": "2026-09-08T08:01:18+0000",
+      "metrics": {
+        "views": 110,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "18003727721995484",
+      "text": "Melbourne itu aneh — siang aku beli pie daging di pasar pagi, malem udah duduk di wine bar yang menunya pakai bahasa yan",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DdA_lHTkfTc",
+      "timestamp": "2026-09-08T06:01:13+0000",
+      "metrics": {
+        "views": 381,
+        "likes": 1,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 2
+    },
     {
       "id": "17906927193474285",
       "text": "Baru nyadar kenapa aku selalu nyampe destinasi udah capek duluan — bukan karena jauh, tapi karena penerbangan panjang it",
       "permalink": "https://www.threads.com/@iams_ichi/post/DdAx2TfgIr3",
       "timestamp": "2026-09-08T04:01:14+0000",
       "metrics": {
-        "views": 3,
+        "views": 13,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -119,7 +149,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DdAkHcqke7g",
       "timestamp": "2026-09-08T02:01:15+0000",
       "metrics": {
-        "views": 4,
+        "views": 9,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -134,14 +164,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DdAS7tcmsDm",
       "timestamp": "2026-09-07T23:31:06+0000",
       "metrics": {
-        "views": 283,
-        "likes": 1,
+        "views": 298,
+        "likes": 2,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 1
+      "engagement": 2
     },
     {
       "id": "18197505934377604",
@@ -149,7 +179,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dc_Rt57IDHE",
       "timestamp": "2026-09-07T14:01:14+0000",
       "metrics": {
-        "views": 146,
+        "views": 151,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -164,7 +194,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dc_D_9ym1_O",
       "timestamp": "2026-09-07T12:01:22+0000",
       "metrics": {
-        "views": 33,
+        "views": 38,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -179,7 +209,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dc-2QDnlmnW",
       "timestamp": "2026-09-07T10:01:14+0000",
       "metrics": {
-        "views": 599,
+        "views": 646,
         "likes": 4,
         "replies": 5,
         "reposts": 1,
@@ -194,7 +224,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dc-og6Ylo0C",
       "timestamp": "2026-09-07T08:01:12+0000",
       "metrics": {
-        "views": 178,
+        "views": 182,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -209,7 +239,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dc-ayGxHD3U",
       "timestamp": "2026-09-07T06:01:13+0000",
       "metrics": {
-        "views": 156,
+        "views": 161,
         "likes": 1,
         "replies": 1,
         "reposts": 0,
@@ -217,36 +247,6 @@
         "shares": 0
       },
       "engagement": 2
-    },
-    {
-      "id": "18141459943588706",
-      "text": "Di Trastevere, orang lokal nggak makan di luar buat \"menikmati suasana\" — mereka makan karena itu bagian dari rutinitas ",
-      "permalink": "https://www.threads.com/@iams_ichi/post/Dc-NEW9AITY",
-      "timestamp": "2026-09-07T04:01:22+0000",
-      "metrics": {
-        "views": 47,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18006755033986217",
-      "text": "Bondi Beach itu ramai — tapi bukan ramai yang bikin overwhelmed.\nEntah kenapa justru gampang ngilang di sana: duduk di u",
-      "permalink": "https://www.threads.com/@iams_ichi/post/Dc9_UKojQe6",
-      "timestamp": "2026-09-07T02:01:12+0000",
-      "metrics": {
-        "views": 49,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
     }
   ]
 }
