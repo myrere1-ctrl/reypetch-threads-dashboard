@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-09-08T21:56:13.481Z",
+  "updated_at": "2026-09-09T00:22:36.362Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=bp6eAvxELo0Q7kNvwHA0x_Q&_nc_oc=Ado4EQ0_RyvnuQVEjeXP3EjxAdzVLtESLHkxGdWWHm8z8X2KCowbPdGtitP5_Q6xiiE&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=0DaoQ3R9cGP74mgrS8McbQ&_nc_tpa=Q5bMBQLwz1D6WVVdrD8OBUNYVKRSmjGgjDTRIu9gSYVCtvfNKiniy6B4LRjBnIDLeTgBYopEamLQbhqcuw&oh=00_AQJcC4umWER182FZrwbPiKimFxgfyZtRJKItDEw4-sgNmw&oe=6AA64693"
+    "picture": "https://scontent-lga3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=bp6eAvxELo0Q7kNvwGxnNhI&_nc_oc=Ador0eyb_vg8eteMD4CSruxRpMqa34V5B16g_y1JmL4CAD6rwOTOhWbAKNBRRM8KWgM&_nc_zt=24&_nc_ht=scontent-lga3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=pkFjF1cHrrtgyK6zkKuWXw&_nc_tpa=Q5bMBQLMu0otxZ9fr1kyqvDvRN8wfptcHeGRHbMT1NouTOLhKYeVGw0IzD-85us4RRadaANx6EtwKMD12w&oh=00_AQLf7x9LhHgo1j3oAahsN6ryPLIbFh8EY2IUPlFb8EKCFg&oe=6AA67ED3"
   },
   "summary": {
     "followers_count": 1,
-    "views": 376,
+    "views": 384,
     "likes": 11,
     "replies": 2,
     "reposts": 2,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 50,
-    "engagement_rate": 13.3,
+    "engagement_total": 46,
+    "engagement_rate": 11.98,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -96,6 +96,21 @@
     }
   ],
   "recent_posts": [
+    {
+      "id": "18135071245627214",
+      "text": "Pernah ngerasa udah balik, tapi hati masih rasa jauh?\nAku lagi di fase itu. Istighfar jalan, sholat jalan — tapi kosong.",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdCtfaRj543",
+      "timestamp": "2026-09-08T22:01:39+0000",
+      "metrics": {
+        "views": 7,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
     {
       "id": "18017093204928179",
       "text": "Dzikir pagi itu bukan sekadar rutinitas — buat aku itu kayak minta dibekelin sebelum hari mulai.\nSekarang lagi semangat ",
@@ -230,21 +245,6 @@
         "shares": 0
       },
       "engagement": 0
-    },
-    {
-      "id": "17962486508980455",
-      "text": "Pernah ngerasa buntu banget, tapi masih bisa napas?\nItu udah cukup buat syukur hari ini.\nDoa Nabi Yunus aku baca pelan t",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dc_VKmUkcuW",
-      "timestamp": "2026-09-07T14:31:22+0000",
-      "metrics": {
-        "views": 44,
-        "likes": 3,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 3
     }
   ]
 }
