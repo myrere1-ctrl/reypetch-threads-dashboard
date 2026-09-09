@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-09-09T06:05:37.395Z",
+  "updated_at": "2026-09-09T11:35:00.478Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=bp6eAvxELo0Q7kNvwGHmLFq&_nc_oc=AdpUakkLqB3RLH3IIq0gGMWl_-8LF9xhigHBZSS8068mnnwTs0xh1ATGqhOmz5xPDFo&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=7tWbTV1zrpYrE0CBBU7qEA&_nc_tpa=Q5bMBQLCsdinfbbUtp1Za5a7XWXWUZ8KtzlSzjkpWE0nUVjixSjJsVy2eO4RG6kFqZctsKI8YhrqHb4XrA&oh=00_AQJzlKP5yBf7ipBsiLYNwvnnMhuuYI9OwE6CzmHM3eJa3Q&oe=6AA6B713"
+    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMiJ9&_nc_ohc=bp6eAvxELo0Q7kNvwFPXbdc&_nc_oc=AdpbPJCJXee19q0TlY_KfHdHxeXdIauOJioOi1TK5Nz-Td_mGOnsxg_RfBMv57YmOic&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=d-xZ2JmR3E-zqBrrAvJrEw&_nc_tpa=Q5bMBQIXTVtfQ1gy77igos6SBbuaovN4SePbdghHj-dvMuNszAf2V6EgIraLP67GR3GL0pfGcV-YKomHNw&oh=00_AQI8cmqTe_Wr855j14JZ3uWQmHtCyC2JMQLs7MM4iSnRNg&oe=6AA72793"
   },
   "summary": {
     "followers_count": 1,
-    "views": 393,
-    "likes": 11,
-    "replies": 2,
-    "reposts": 2,
+    "views": 47,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 47,
-    "engagement_rate": 11.96,
+    "engagement_rate": 100,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -25,7 +25,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DdBlXNVlTKO",
       "timestamp": "2026-09-08T11:31:23+0000",
       "metrics": {
-        "views": 198,
+        "views": 199,
         "likes": 7,
         "replies": 2,
         "reposts": 1,
@@ -97,12 +97,42 @@
   ],
   "recent_posts": [
     {
+      "id": "18009935252761118",
+      "text": "Pernah ngerasa baca Surat Yasin tapi pikiran kemana-mana?\nAku juga gitu — sampai aku coba bayangin, gimana rasanya baca ",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdEKJcDG73-",
+      "timestamp": "2026-09-09T11:31:18+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "18205806661366031",
+      "text": "Malam ini iseng tanya ke diri sendiri — kapan terakhir kali aku bener-bener membayangkan berdiri di depan Ka'bah?\nBukan ",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdD1jB2FgV4",
+      "timestamp": "2026-09-09T08:31:18+0000",
+      "metrics": {
+        "views": 46,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "17958358748999563",
       "text": "Ternyata sajadah yang kamu pakai bisa ikut nemenin khusyuk — atau malah ganggu.\nAku ganti ke sajadah motif tenang, bahan",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DdDg9LMjv9W",
       "timestamp": "2026-09-09T05:31:24+0000",
       "metrics": {
-        "views": 2,
+        "views": 3,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -192,7 +222,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DdBlXNVlTKO",
       "timestamp": "2026-09-08T11:31:23+0000",
       "metrics": {
-        "views": 198,
+        "views": 199,
         "likes": 7,
         "replies": 2,
         "reposts": 1,
@@ -215,36 +245,6 @@
         "shares": 0
       },
       "engagement": 5
-    },
-    {
-      "id": "17912999613462340",
-      "text": "Dzikir di jalan, di antrean, di sela kerja — tapi tasbih ketinggalan di rumah.\nDari situ aku mulai pakai cincin tasbih. ",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdA8JuSEfYT",
-      "timestamp": "2026-09-08T05:31:18+0000",
-      "metrics": {
-        "views": 4,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "17965391901007974",
-      "text": "Malam ini aku tanya diri sendiri — amalannya udah, tapi niatnya buat siapa?\nJujur, kadang aku ibadah masih ada rasa ingi",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdAdRTflN6i",
-      "timestamp": "2026-09-08T01:01:25+0000",
-      "metrics": {
-        "views": 8,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
     }
   ]
 }
