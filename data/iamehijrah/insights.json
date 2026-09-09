@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-09-09T11:35:00.478Z",
+  "updated_at": "2026-09-09T16:46:23.011Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMiJ9&_nc_ohc=bp6eAvxELo0Q7kNvwFPXbdc&_nc_oc=AdpbPJCJXee19q0TlY_KfHdHxeXdIauOJioOi1TK5Nz-Td_mGOnsxg_RfBMv57YmOic&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=d-xZ2JmR3E-zqBrrAvJrEw&_nc_tpa=Q5bMBQIXTVtfQ1gy77igos6SBbuaovN4SePbdghHj-dvMuNszAf2V6EgIraLP67GR3GL0pfGcV-YKomHNw&oh=00_AQI8cmqTe_Wr855j14JZ3uWQmHtCyC2JMQLs7MM4iSnRNg&oe=6AA72793"
+    "picture": "https://scontent-atl3-3.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=jGami5z7TkgQ7kNvwF59VI2&_nc_oc=Ado--uf4-Iod2in1qH3dr71s5criW3m4kjjTOmtHTQrFAIasHXlkHdoeORxBgtqiJHU&_nc_zt=24&_nc_ht=scontent-atl3-3.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=BooVmR7Wa1XhmmT65MPf4A&_nc_tpa=Q5bMBQJ-PMkCSWJdaoQxPsA91KTkCsZIOqLK8WH6jiMogCYeB0Tj27qow65wYhAEVcoArEQUtDjMrbNXOw&oh=00_AQIRblJM-IO0fzmuXmmYt9b6FB4OjYMlWOfwR19FzBItFw&oe=6AA75FD3"
   },
   "summary": {
     "followers_count": 1,
-    "views": 47,
-    "likes": 0,
+    "views": 90,
+    "likes": 1,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 47,
-    "engagement_rate": 100,
+    "engagement_total": 41,
+    "engagement_rate": 45.56,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -33,21 +33,6 @@
         "shares": 0
       },
       "engagement": 10
-    },
-    {
-      "id": "18619861453000077",
-      "text": "4 amalan yang aku coba konsisten — dan yang ke-3 jujur paling sering aku skip:\n1. Al-Waqiah tiap habis Maghrib — entah k",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dc8mEc-Ec_k",
-      "timestamp": "2026-09-06T13:01:22+0000",
-      "metrics": {
-        "views": 196,
-        "likes": 8,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 8
     },
     {
       "id": "18443058466125705",
@@ -93,16 +78,76 @@
         "shares": 0
       },
       "engagement": 5
+    },
+    {
+      "id": "17962486508980455",
+      "text": "Pernah ngerasa buntu banget, tapi masih bisa napas?\nItu udah cukup buat syukur hari ini.\nDoa Nabi Yunus aku baca pelan t",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dc_VKmUkcuW",
+      "timestamp": "2026-09-07T14:31:22+0000",
+      "metrics": {
+        "views": 44,
+        "likes": 3,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 3
     }
   ],
   "recent_posts": [
+    {
+      "id": "18126149794806754",
+      "text": "Ibu aku selalu bilang, kalau ngerasa semua berat — ucapin aja hauqalah, jangan diem.\nDulu aku anggep itu sepele. Sekaran",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdEpGDjFlXV",
+      "timestamp": "2026-09-09T16:01:44+0000",
+      "metrics": {
+        "views": 10,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "18023184863863394",
+      "text": "Katanya sholawat itu udah kayak tiket — tapi aku baru ngerasain beratnya pas lagi kangen Tanah Suci banget.\nMakin deket ",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdEev_hGyPy",
+      "timestamp": "2026-09-09T14:31:21+0000",
+      "metrics": {
+        "views": 13,
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
+      "id": "17927378622409496",
+      "text": "Aku pikir tasbih itu sama aja — sampai pegang yang beda kualitasnya.\nTasbih Kokka Premium ini butiran-butirannya enak ba",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdEUd2PG5dZ",
+      "timestamp": "2026-09-09T13:01:28+0000",
+      "metrics": {
+        "views": 2,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
     {
       "id": "18009935252761118",
       "text": "Pernah ngerasa baca Surat Yasin tapi pikiran kemana-mana?\nAku juga gitu — sampai aku coba bayangin, gimana rasanya baca ",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DdEKJcDG73-",
       "timestamp": "2026-09-09T11:31:18+0000",
       "metrics": {
-        "views": 0,
+        "views": 13,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -117,7 +162,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DdD1jB2FgV4",
       "timestamp": "2026-09-09T08:31:18+0000",
       "metrics": {
-        "views": 46,
+        "views": 47,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -162,7 +207,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DdCtfaRj543",
       "timestamp": "2026-09-08T22:01:39+0000",
       "metrics": {
-        "views": 7,
+        "views": 8,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -200,51 +245,6 @@
         "shares": 0
       },
       "engagement": 0
-    },
-    {
-      "id": "18249847123308552",
-      "text": "Sajadah bisa ngaruh ke kekhusyukan sholat, ternyata.\nAku ganti sajadah ke yang motifnya tenang, bahannya lembut — beda b",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdBvsQ3IPOf",
-      "timestamp": "2026-09-08T13:01:39+0000",
-      "metrics": {
-        "views": 0,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "17894274183407143",
-      "text": "Sudah berapa lama kamu rutin baca Al-Waqiah tiap malam?\nAku juga sempet bolong-bolong. Tapi pas konsisten lagi, yang aku",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdBlXNVlTKO",
-      "timestamp": "2026-09-08T11:31:23+0000",
-      "metrics": {
-        "views": 199,
-        "likes": 7,
-        "replies": 2,
-        "reposts": 1,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 10
-    },
-    {
-      "id": "18109998841863630",
-      "text": "3 hal yang aku persiapkan sebelum Umroh — dan yang ke-2 paling sering aku skip:\n1. Taubat nasuha — beneran duduk, inget,",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdBQyYRm3g2",
-      "timestamp": "2026-09-08T08:31:36+0000",
-      "metrics": {
-        "views": 123,
-        "likes": 4,
-        "replies": 0,
-        "reposts": 1,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 5
     }
   ]
 }
