@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-09-10T06:05:30.746Z",
+  "updated_at": "2026-09-10T11:31:24.291Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=jGami5z7TkgQ7kNvwGMWygC&_nc_oc=Ado8l8FHZY9jxadkkrAuy2F9qFFif40dGY8A9fOu3PFh_q-SOW2iRSNNCA1cAeYlROU&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=p6wQZKUb9K-AFDWPND71bA&_nc_tpa=Q5bMBQL8bMIfJ_yRJLia0xVOm_GuYtKj8OsVUQCiPu8Tqyq7nfnVL9tKkIB5l8jDddfJGLbLI7ybi2BQKA&oh=00_AQKJx0WsOyEwFWS7tmLQUjoy7guFh5yh3F2y7qQ_03gJ8Q&oe=6AA80893"
+    "picture": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=jGami5z7TkgQ7kNvwG07VrV&_nc_oc=AdotWQnW5Rg64qpExR2FLzBvQROd9kDxNH1Ruq6ODeMBiDAMRp45SpytnVTiZlZmjYE&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=ozE1ISJSrML3W_PIvhR0pQ&_nc_tpa=Q5bMBQIpsxb6tdsTKT0_l4C9hmFBpH_vy7wc3zr8qlUcKtWEEfQCKTpODmojqEzMlC7XdAlDxZ_rdurUhQ&oh=00_AQLW14Cu47KT2PuqRzJK6-0kDb-SICY4TCcSfQXayxU3Fw&oe=6AA87913"
   },
   "summary": {
     "followers_count": 1,
-    "views": 153,
-    "likes": 1,
+    "views": 48,
+    "likes": 0,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 31,
-    "engagement_rate": 20.26,
+    "engagement_total": 30,
+    "engagement_rate": 62.5,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -96,6 +96,21 @@
     }
   ],
   "recent_posts": [
+    {
+      "id": "18115698170087162",
+      "text": "Lagi di titik yang rasanya semua ketutup — rezeki, arah, harapan?\nAku pernah di fase itu. Dan yang pertama kali bikin ha",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdGaV9TFp8d",
+      "timestamp": "2026-09-10T08:31:18+0000",
+      "metrics": {
+        "views": 44,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
     {
       "id": "18077957024357272",
       "text": "Ternyata tasbih yang enak digenggam itu beneran ngaruh ke dzikir.\nSejak pakai Tasbih Kokka Premium, jari nggak cepet cap",
@@ -230,21 +245,6 @@
         "shares": 0
       },
       "engagement": 1
-    },
-    {
-      "id": "18222038812336631",
-      "text": "Udah doa, tapi belum ada jawaban — pernah di titik itu?\nAku lagi belajar bahwa \"belum\" bukan berarti \"tidak\".\nYang berub",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdDCF5YAC1G",
-      "timestamp": "2026-09-09T01:01:40+0000",
-      "metrics": {
-        "views": 5,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
     }
   ]
 }
