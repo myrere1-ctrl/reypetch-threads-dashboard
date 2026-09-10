@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-09-10T19:49:39.674Z",
+  "updated_at": "2026-09-10T22:41:35.459Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-sin6-3.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=jGami5z7TkgQ7kNvwHfHrPC&_nc_oc=AdrNeU7MxvJDdLHasIXJo9CFbOtb6Z7MKuDREmPKNoa-f-E8aFjTU4b8g_ieONVeoe0&_nc_zt=24&_nc_ht=scontent-sin6-3.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=xacOG5ccGKAKW9ysENHwMg&_nc_tpa=Q5bMBQKwJq7b1rerpF4Vl1vGIF4zS3Wd0w3nwfK7xesORXYTG8u07IaRT2QOoXNCdx1vwGOZSLfO1aY4bg&oh=00_AQK2Oi5QIhewNI5UvtJv8RszbJL9YdGxhpKnibBfb3TXGQ&oe=6AA8E993"
+    "picture": "https://scontent-lga3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=jGami5z7TkgQ7kNvwEZk-hF&_nc_oc=AdrOkfaOwd5LOo8WxT1_FegHunvSid8dmvc4lgnp4OqdrCGuDJ4O-FmaogIzGtt4RrI&_nc_zt=24&_nc_ht=scontent-lga3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=JsQCxVlYr_CwyDuPonG2rQ&_nc_tpa=Q5bMBQIFEnTEjqo70xi1-3d8M57piOpYzc_UFCh62FU5BI5TVTyrNGKW-I8jrk4lI-ifX9tuk59HQ2CqaQ&oh=00_AQKknGDBAcp2Xz5FDM-bh4LbJavqja5aDTAtTOMeneCQGg&oe=6AA8E993"
   },
   "summary": {
     "followers_count": 1,
-    "views": 130,
+    "views": 176,
     "likes": 2,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 25,
-    "engagement_rate": 19.23,
+    "engagement_rate": 14.2,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -96,6 +96,21 @@
     }
   ],
   "recent_posts": [
+    {
+      "id": "18072970724460255",
+      "text": "Ikhlas itu bukan perasaan — itu pilihan yang diulang terus.\nAku baru ngerti ini pas lagi capek ngerasa amal kayak \"kuran",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdH3D5eksrl",
+      "timestamp": "2026-09-10T22:01:30+0000",
+      "metrics": {
+        "views": 40,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
     {
       "id": "18330397393276418",
       "text": "Bangun sepertiga malam itu berat — tapi pernah nggak kamu ngebayangin, betapa bedanya rasanya kalau kita bangun dan shol",
@@ -230,21 +245,6 @@
         "shares": 0
       },
       "engagement": 0
-    },
-    {
-      "id": "18023184863863394",
-      "text": "Katanya sholawat itu udah kayak tiket — tapi aku baru ngerasain beratnya pas lagi kangen Tanah Suci banget.\nMakin deket ",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdEev_hGyPy",
-      "timestamp": "2026-09-09T14:31:21+0000",
-      "metrics": {
-        "views": 14,
-        "likes": 1,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
     }
   ]
 }
