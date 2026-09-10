@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-09-10T01:11:12.589Z",
+  "updated_at": "2026-09-10T06:05:30.746Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=jGami5z7TkgQ7kNvwHYl2rT&_nc_oc=Adov1TGPto2Ca0VJnrRjn0RVZ2sAmWW-FoRcwzRxCCg17AZXhTU60z8FveT3-IQnfcE&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=9qjStnSW2Gjr6Q3CdlM_tw&_nc_tpa=Q5bMBQL_7o_5Ij7hFROzT-fmZbNwdKIeTjv0VhaQ1zyAa5kleLAjpOVuFRLDWHmbVvN8SxpXRqvx-Kc49g&oh=00_AQIFImweYCm7MsrhTMvoW00gP07-uyOl13WE9VmEAOketw&oe=6AA7D053"
+    "picture": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=jGami5z7TkgQ7kNvwGMWygC&_nc_oc=Ado8l8FHZY9jxadkkrAuy2F9qFFif40dGY8A9fOu3PFh_q-SOW2iRSNNCA1cAeYlROU&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=p6wQZKUb9K-AFDWPND71bA&_nc_tpa=Q5bMBQL8bMIfJ_yRJLia0xVOm_GuYtKj8OsVUQCiPu8Tqyq7nfnVL9tKkIB5l8jDddfJGLbLI7ybi2BQKA&oh=00_AQKJx0WsOyEwFWS7tmLQUjoy7guFh5yh3F2y7qQ_03gJ8Q&oe=6AA80893"
   },
   "summary": {
     "followers_count": 1,
-    "views": 146,
+    "views": 153,
     "likes": 1,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 30,
-    "engagement_rate": 20.55,
+    "engagement_total": 31,
+    "engagement_rate": 20.26,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -25,7 +25,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DdBlXNVlTKO",
       "timestamp": "2026-09-08T11:31:23+0000",
       "metrics": {
-        "views": 199,
+        "views": 200,
         "likes": 7,
         "replies": 2,
         "reposts": 1,
@@ -80,14 +80,14 @@
       "engagement": 3
     },
     {
-      "id": "18023184863863394",
-      "text": "Katanya sholawat itu udah kayak tiket — tapi aku baru ngerasain beratnya pas lagi kangen Tanah Suci banget.\nMakin deket ",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdEev_hGyPy",
-      "timestamp": "2026-09-09T14:31:21+0000",
+      "id": "18077957024357272",
+      "text": "Ternyata tasbih yang enak digenggam itu beneran ngaruh ke dzikir.\nSejak pakai Tasbih Kokka Premium, jari nggak cepet cap",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdGFvgXE1Wr",
+      "timestamp": "2026-09-10T05:31:19+0000",
       "metrics": {
-        "views": 14,
-        "likes": 1,
-        "replies": 0,
+        "views": 2,
+        "likes": 0,
+        "replies": 1,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
@@ -97,12 +97,27 @@
   ],
   "recent_posts": [
     {
+      "id": "18077957024357272",
+      "text": "Ternyata tasbih yang enak digenggam itu beneran ngaruh ke dzikir.\nSejak pakai Tasbih Kokka Premium, jari nggak cepet cap",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdGFvgXE1Wr",
+      "timestamp": "2026-09-10T05:31:19+0000",
+      "metrics": {
+        "views": 2,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
       "id": "18330014728276967",
       "text": "Muhasabah diri itu seringnya berat — karena kita ketemu versi diri yang belum siap kita akui.\nAku lagi di fase itu. Nany",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DdFm2lwmKfq",
       "timestamp": "2026-09-10T01:01:22+0000",
       "metrics": {
-        "views": 0,
+        "views": 1,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -132,7 +147,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DdEpGDjFlXV",
       "timestamp": "2026-09-09T16:01:44+0000",
       "metrics": {
-        "views": 12,
+        "views": 14,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -192,7 +207,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DdD1jB2FgV4",
       "timestamp": "2026-09-09T08:31:18+0000",
       "metrics": {
-        "views": 47,
+        "views": 48,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -223,21 +238,6 @@
       "timestamp": "2026-09-09T01:01:40+0000",
       "metrics": {
         "views": 5,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18135071245627214",
-      "text": "Pernah ngerasa udah balik, tapi hati masih rasa jauh?\nAku lagi di fase itu. Istighfar jalan, sholat jalan — tapi kosong.",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdCtfaRj543",
-      "timestamp": "2026-09-08T22:01:39+0000",
-      "metrics": {
-        "views": 8,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
