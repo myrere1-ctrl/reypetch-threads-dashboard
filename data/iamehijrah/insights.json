@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-09-11T19:50:35.473Z",
+  "updated_at": "2026-09-11T22:40:41.065Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-lhr11-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=jGami5z7TkgQ7kNvwHCJQYO&_nc_oc=AdrKlW4SnAEAPCrMsFZ7DT6nQY4ZiqTgUt2LzhSKxmYHtvhgfg5hikca3lezLqgg45k&_nc_zt=24&_nc_ht=scontent-lhr11-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=F4T-0pork7PRehN6Y6MFng&_nc_tpa=Q5bMBQL81x-Y9Vl583B5Ry0Ry10_i90Vww9GAPWesjxs7ea2ja3a3gUGrPKuOXUlBEwth_d3b-autHn9Hg&oh=00_AQIlK-CImTCTDfBtnuptqoauJCUeD8H8RME775ZcH2i3Bg&oe=6AAA3B13"
+    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=jGami5z7TkgQ7kNvwGSF2_Z&_nc_oc=AdpEfQT20fbVs7NhjkyOC-m4uGOZgsbpMUIu27ve4mY2LfMVH8xA49kPJnS2OpHgnv0&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=xChBzIPzTDhEY9b6sMKf-g&_nc_tpa=Q5bMBQLJ_hPrZ9hCq-ISAFSTL3D1GJG41xtu8BtkIgdCptOkPRuzsW7TGxqBKPaL-ZikY_AeRZ2eJbZgKQ&oh=00_AQIepcJIW0HrHGUgqCcwvhtu1So6m7YCj9YxUDEZSu3ndg&oe=6AAA3B13"
   },
   "summary": {
     "followers_count": 1,
-    "views": 125,
+    "views": 137,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 14,
-    "engagement_rate": 11.2,
+    "engagement_rate": 10.22,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -96,6 +96,21 @@
     }
   ],
   "recent_posts": [
+    {
+      "id": "18105294076933539",
+      "text": "Pernah nggak, ngerasa doa kamu kayak... nggak sampai?\nAku pernah di fase itu. Udah minta berbulan-bulan, tapi jawaban be",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdKb27OG_2C",
+      "timestamp": "2026-09-11T22:01:30+0000",
+      "metrics": {
+        "views": 12,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
     {
       "id": "18127666204826820",
       "text": "Sabar itu bukan diam — tapi aku lama salah ngerti ini.\nDulu aku pikir sabar = nunggu tanpa ngapa-ngapain. Capek sendiri.",
@@ -230,21 +245,6 @@
         "shares": 0
       },
       "engagement": 1
-    },
-    {
-      "id": "18156336622504112",
-      "text": "Dzikir pagi itu bukan soal banyaknya — aku baru sadar itu belakangan.\nDulu aku ngejar jumlah, sekarang aku lebih milih p",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdHDinaoPi9",
-      "timestamp": "2026-09-10T14:31:17+0000",
-      "metrics": {
-        "views": 4,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
     }
   ]
 }
