@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-09-10T22:41:35.459Z",
+  "updated_at": "2026-09-11T01:12:57.841Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-lga3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=jGami5z7TkgQ7kNvwEZk-hF&_nc_oc=AdrOkfaOwd5LOo8WxT1_FegHunvSid8dmvc4lgnp4OqdrCGuDJ4O-FmaogIzGtt4RrI&_nc_zt=24&_nc_ht=scontent-lga3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=JsQCxVlYr_CwyDuPonG2rQ&_nc_tpa=Q5bMBQIFEnTEjqo70xi1-3d8M57piOpYzc_UFCh62FU5BI5TVTyrNGKW-I8jrk4lI-ifX9tuk59HQ2CqaQ&oh=00_AQKknGDBAcp2Xz5FDM-bh4LbJavqja5aDTAtTOMeneCQGg&oe=6AA8E993"
+    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=jGami5z7TkgQ7kNvwHCJIbY&_nc_oc=AdqE2swaP7G09jLvaOovuEqv3JzRE8L8-pPKq5DjxSfVhRXHd_02eigYcFyNoExXuuM&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=AsdHK22aceGtWFDQdbI8dA&_nc_tpa=Q5bMBQLBVy4h0843Oi8TcBKztk3qAQ5quFZuTcJZG7zDAHUBSc70q2-YJuRrxZBjaCSMbAAWIMPiZwd-Zg&oh=00_AQJmNNcK3WDPPvLy0SoYopg4G1-nKLTkrv9Pw8SiQ1BuKQ&oe=6AA921D3"
   },
   "summary": {
     "followers_count": 1,
-    "views": 176,
-    "likes": 2,
+    "views": 186,
+    "likes": 3,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 25,
-    "engagement_rate": 14.2,
+    "engagement_rate": 13.44,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -50,6 +50,21 @@
       "engagement": 5
     },
     {
+      "id": "18072970724460255",
+      "text": "Ikhlas itu bukan perasaan — itu pilihan yang diulang terus.\nAku baru ngerti ini pas lagi capek ngerasa amal kayak \"kuran",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdH3D5eksrl",
+      "timestamp": "2026-09-10T22:01:30+0000",
+      "metrics": {
+        "views": 53,
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
       "id": "18330397393276418",
       "text": "Bangun sepertiga malam itu berat — tapi pernah nggak kamu ngebayangin, betapa bedanya rasanya kalau kita bangun dan shol",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DdHN3CYlTer",
@@ -78,31 +93,16 @@
         "shares": 0
       },
       "engagement": 1
-    },
-    {
-      "id": "18128277847771727",
-      "text": "Aku baru sadar — Ayat Kursi itu aku baca hampir tiap malam, tapi sering cuma di mulut.\nHabis Subuh kemarin, aku coba dud",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdGu8TQEUSF",
-      "timestamp": "2026-09-10T11:31:19+0000",
-      "metrics": {
-        "views": 36,
-        "likes": 1,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
     }
   ],
   "recent_posts": [
     {
-      "id": "18072970724460255",
-      "text": "Ikhlas itu bukan perasaan — itu pilihan yang diulang terus.\nAku baru ngerti ini pas lagi capek ngerasa amal kayak \"kuran",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdH3D5eksrl",
-      "timestamp": "2026-09-10T22:01:30+0000",
+      "id": "18617745868062842",
+      "text": "Unpopular opinion: berhenti \"berusaha keras\" itu kadang justru bentuk tawakal paling nyata.\nAku lama banget nolak konsep",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdILpdNIGjX",
+      "timestamp": "2026-09-11T01:01:23+0000",
       "metrics": {
-        "views": 40,
+        "views": 0,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -110,6 +110,21 @@
         "shares": 0
       },
       "engagement": 0
+    },
+    {
+      "id": "18072970724460255",
+      "text": "Ikhlas itu bukan perasaan — itu pilihan yang diulang terus.\nAku baru ngerti ini pas lagi capek ngerasa amal kayak \"kuran",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdH3D5eksrl",
+      "timestamp": "2026-09-10T22:01:30+0000",
+      "metrics": {
+        "views": 53,
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
     },
     {
       "id": "18330397393276418",
@@ -223,21 +238,6 @@
       "timestamp": "2026-09-09T22:01:32+0000",
       "metrics": {
         "views": 53,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18126149794806754",
-      "text": "Ibu aku selalu bilang, kalau ngerasa semua berat — ucapin aja hauqalah, jangan diem.\nDulu aku anggep itu sepele. Sekaran",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdEpGDjFlXV",
-      "timestamp": "2026-09-09T16:01:44+0000",
-      "metrics": {
-        "views": 15,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
