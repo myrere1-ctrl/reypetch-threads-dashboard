@@ -1,46 +1,31 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-09-11T11:33:04.629Z",
+  "updated_at": "2026-09-11T16:36:37.666Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-fra5-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=jGami5z7TkgQ7kNvwEwP_Y8&_nc_oc=AdoOaidI28ge6nbij85F6Ro7FKGqowmfzhSJJt7z1vYP185PbFZ2kbhNpKCFRS03zyc&_nc_zt=24&_nc_ht=scontent-fra5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=xkGupx-BKcHoI0xTTSRdyQ&_nc_tpa=Q5bMBQLNoHXzUHKVbuScLgpK4PRMkE5i39Wsg-bIc-DKBx33t-W8nyBM-4kUdBkcSVRELbL907fqNADxvA&oh=00_AQK-lyfUhW-o71Pww7Xi87lqQqkqyc8_ebG1jGh2ykLBVA&oe=6AA9CA93"
+    "picture": "https://scontent-fra5-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=jGami5z7TkgQ7kNvwFj4_DW&_nc_oc=Adp2yRIdMcEkSJEQEGgW4HpcjYspTA7sit7J-WiVmAVzA6ePvhVfJXxH7_uYMo3HFyY&_nc_zt=24&_nc_ht=scontent-fra5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=9qT_t8vg9wJiJjXg-vYmWQ&_nc_tpa=Q5bMBQJusIwOelXCeFaaVbKlTrKO1JBs5yUTkDpfhCd4CrK8_uIYgfNFr1zrXagl1u2rOECdoKDHohd1BA&oh=00_AQLVxv84zPN6RoVXr8XH0yywbCoDzkA3j5oJGdZ_hUhKoA&oe=6AAA02D3"
   },
   "summary": {
     "followers_count": 1,
-    "views": 55,
+    "views": 109,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 24,
-    "engagement_rate": 43.64,
+    "engagement_total": 14,
+    "engagement_rate": 12.84,
     "curiosity_score": null,
     "post_count": 25
   },
   "top_posts": [
-    {
-      "id": "17894274183407143",
-      "text": "Sudah berapa lama kamu rutin baca Al-Waqiah tiap malam?\nAku juga sempet bolong-bolong. Tapi pas konsisten lagi, yang aku",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdBlXNVlTKO",
-      "timestamp": "2026-09-08T11:31:23+0000",
-      "metrics": {
-        "views": 201,
-        "likes": 7,
-        "replies": 2,
-        "reposts": 1,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 10
-    },
     {
       "id": "18617745868062842",
       "text": "Unpopular opinion: berhenti \"berusaha keras\" itu kadang justru bentuk tawakal paling nyata.\nAku lama banget nolak konsep",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DdILpdNIGjX",
       "timestamp": "2026-09-11T01:01:23+0000",
       "metrics": {
-        "views": 37,
+        "views": 39,
         "likes": 4,
         "replies": 0,
         "reposts": 0,
@@ -48,6 +33,21 @@
         "shares": 0
       },
       "engagement": 4
+    },
+    {
+      "id": "18156152881509684",
+      "text": "Kain ihram itu ternyata bukan soal \"asal ada\" — aku baru sadar pas nyobain yang beneran nyaman di badan.\nDulu mikir, ah ",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdJeDIfmMXr",
+      "timestamp": "2026-09-11T13:01:25+0000",
+      "metrics": {
+        "views": 18,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
     },
     {
       "id": "18129007252666948",
@@ -97,12 +97,57 @@
   ],
   "recent_posts": [
     {
+      "id": "18127666204826820",
+      "text": "Sabar itu bukan diam — tapi aku lama salah ngerti ini.\nDulu aku pikir sabar = nunggu tanpa ngapa-ngapain. Capek sendiri.",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdJypnJEY7J",
+      "timestamp": "2026-09-11T16:01:25+0000",
+      "metrics": {
+        "views": 9,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "18019830770719404",
+      "text": "Nenek aku selalu bilang, kalau udah ngerasa nggak kuat — ucapin la hawla wala quwwata illa billah.\nDulu aku pikir itu cu",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdJoVtSlrQ5",
+      "timestamp": "2026-09-11T14:31:19+0000",
+      "metrics": {
+        "views": 2,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "18156152881509684",
+      "text": "Kain ihram itu ternyata bukan soal \"asal ada\" — aku baru sadar pas nyobain yang beneran nyaman di badan.\nDulu mikir, ah ",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdJeDIfmMXr",
+      "timestamp": "2026-09-11T13:01:25+0000",
+      "metrics": {
+        "views": 18,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
       "id": "18279386743293389",
       "text": "Pernah ngerasa kayak tenggelam, tapi diam-diam?\nNggak ada yang tahu, tapi di dalam udah sesak banget.\nHari ini aku baru ",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DdJTvISm2Zp",
       "timestamp": "2026-09-11T11:31:18+0000",
       "metrics": {
-        "views": 0,
+        "views": 15,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -117,7 +162,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DdI_Iq2jH66",
       "timestamp": "2026-09-11T08:31:16+0000",
       "metrics": {
-        "views": 55,
+        "views": 56,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -147,7 +192,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DdILpdNIGjX",
       "timestamp": "2026-09-11T01:01:23+0000",
       "metrics": {
-        "views": 37,
+        "views": 39,
         "likes": 4,
         "replies": 0,
         "reposts": 0,
@@ -193,51 +238,6 @@
       "timestamp": "2026-09-10T14:31:17+0000",
       "metrics": {
         "views": 4,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18071474363735459",
-      "text": "Dulu aku kira persiapan Umroh itu yang paling bikin muter otak adalah doa & ritualnya — ternyata checklist perlengkapann",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdG5Q2EDAwI",
-      "timestamp": "2026-09-10T13:01:29+0000",
-      "metrics": {
-        "views": 18,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "18128277847771727",
-      "text": "Aku baru sadar — Ayat Kursi itu aku baca hampir tiap malam, tapi sering cuma di mulut.\nHabis Subuh kemarin, aku coba dud",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdGu8TQEUSF",
-      "timestamp": "2026-09-10T11:31:19+0000",
-      "metrics": {
-        "views": 36,
-        "likes": 1,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "18115698170087162",
-      "text": "Lagi di titik yang rasanya semua ketutup — rezeki, arah, harapan?\nAku pernah di fase itu. Dan yang pertama kali bikin ha",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdGaV9TFp8d",
-      "timestamp": "2026-09-10T08:31:18+0000",
-      "metrics": {
-        "views": 51,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
