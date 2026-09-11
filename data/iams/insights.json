@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-09-11T06:07:15.016Z",
+  "updated_at": "2026-09-11T11:32:11.241Z",
   "profile": {
     "username": "iams_ichi",
     "name": "iams",
     "biography": "🇦🇺\n🧠Psi + Traveling \nSolo Traveler Bunglon\nFine dining 👌 & Street food lokal 🫰\nHidden gems Insider for 🇯🇵🇦🇺🇫🇷🇪🇸🇮🇹 \n✉️ cmo@coa.a",
-    "picture": "https://scontent-sin2-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=bBQarLExMisQ7kNvwEZ5c1J&_nc_oc=AdoBZZJpspQxd2R_FCCiARRM-GDa-bxpFHmk1DXHEisR078lnwwbp3xjk7_7rmqgZe8&_nc_zt=24&_nc_ht=scontent-sin2-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=ojcvHiLptnS817h2oTVh1Q&_nc_tpa=Q5bMBQL3eTAKlAvE5-FMmmDcrEYsuqmYBXYGvqb7axim7b413Ftp4WTmKcS8UAKwm7DYSIUpTB_bJ1XsZA&oh=00_AQIPLIfJTXEc82pw3TaI-91xefsBLI7brCQIH0iDALcLXw&oe=6AA9689E"
+    "picture": "https://scontent-hkg1-2.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=bBQarLExMisQ7kNvwEx_jBx&_nc_oc=Adq18e9eC4emEAWQPSfm0frvCZM9M5eD5vOElzb9RzMT9xMzZ5m8JGM68OJTTfMpo5I&_nc_zt=24&_nc_ht=scontent-hkg1-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=HbCA1J44YlmsHxK4iAh4rQ&_nc_tpa=Q5bMBQLNpwBJvN6kdaByQF1YzOdvvuRpVCeEXwoDiPjcteAI5-ke_fIw6dmJFPVNM2ohlYPF7yegSc9OsQ&oh=00_AQI0XiXG2QWtP4JwP0G6qruplS29zUIGq1Wz4iW4OB9gow&oe=6AA9A0DE"
   },
   "summary": {
     "followers_count": 1361,
-    "views": 855,
-    "likes": 4,
-    "replies": 1,
+    "views": 107,
+    "likes": 1,
+    "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 47,
-    "engagement_rate": 5.5,
+    "engagement_rate": 43.93,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -27,7 +27,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DdC3vEAIAhU",
       "timestamp": "2026-09-08T23:31:11+0000",
       "metrics": {
-        "views": 990,
+        "views": 998,
         "likes": 18,
         "replies": 5,
         "reposts": 1,
@@ -42,7 +42,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DdFciFfj-FO",
       "timestamp": "2026-09-09T23:31:11+0000",
       "metrics": {
-        "views": 225,
+        "views": 227,
         "likes": 3,
         "replies": 3,
         "reposts": 0,
@@ -99,12 +99,12 @@
   ],
   "recent_posts": [
     {
-      "id": "18126816946773335",
-      "text": "Jam 7 pagi di South Bank Brisbane, kopi di tangan, sungai di depan — dan aku baru sadar: ini kota yang paling nggak pern",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DdIt-4kG8cv",
-      "timestamp": "2026-09-11T06:01:23+0000",
+      "id": "18126904105693254",
+      "text": "Katanya momiji itu wajib lihat langsung biar berasa — ternyata yang bikin berasa bukan daunnya, tapi lo berdiri diam di ",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DdJJbaWlmJv",
+      "timestamp": "2026-09-11T10:01:12+0000",
       "metrics": {
-        "views": 0,
+        "views": 2,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -114,12 +114,42 @@
       "engagement": 0
     },
     {
+      "id": "18128775205707883",
+      "text": "Di Spanyol aku pernah makan tapas berdiri di bar sempit sambil desak-desakan sama warga lokal — bayar receh, rasanya lua",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DdI7s4IFSJW",
+      "timestamp": "2026-09-11T08:01:15+0000",
+      "metrics": {
+        "views": 34,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "18126816946773335",
+      "text": "Jam 7 pagi di South Bank Brisbane, kopi di tangan, sungai di depan — dan aku baru sadar: ini kota yang paling nggak pern",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DdIt-4kG8cv",
+      "timestamp": "2026-09-11T06:01:23+0000",
+      "metrics": {
+        "views": 199,
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
       "id": "17952145659033324",
       "text": "Dulu aku kira nggak bisa tidur di transit panjang itu udah nature-ku sebagai introvert yang otaknya susah off.\nTernyata ",
       "permalink": "https://www.threads.com/@iams_ichi/post/DdIgPQaDnHc",
       "timestamp": "2026-09-11T04:01:18+0000",
       "metrics": {
-        "views": 1,
+        "views": 2,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -134,7 +164,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DdISgdNmvjA",
       "timestamp": "2026-09-11T02:01:18+0000",
       "metrics": {
-        "views": 80,
+        "views": 81,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -149,14 +179,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DdIBUlCoAlQ",
       "timestamp": "2026-09-10T23:31:08+0000",
       "metrics": {
-        "views": 311,
-        "likes": 0,
+        "views": 341,
+        "likes": 1,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 0
+      "engagement": 1
     },
     {
       "id": "17933301669384604",
@@ -217,36 +247,6 @@
         "shares": 0
       },
       "engagement": 0
-    },
-    {
-      "id": "18104513852247702",
-      "text": "Kyoto itu bikin aku ngerasa nggak konsisten — pagi beli tofu panas dari pedagang kecil di pinggir jalan, malemnya duduk ",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DdGJLlJlVXm",
-      "timestamp": "2026-09-10T06:01:21+0000",
-      "metrics": {
-        "views": 205,
-        "likes": 2,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 2
-    },
-    {
-      "id": "18381227032228396",
-      "text": "Pagi di Airbnb tanpa kopi yang beneran itu bukan pagi — itu siksaan.\nSejak bawa OutIn Nano, aku nggak lagi bergantung sa",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DdF7cYum_jt",
-      "timestamp": "2026-09-10T04:01:17+0000",
-      "metrics": {
-        "views": 17,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
     }
   ]
 }
