@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-09-12T14:14:29.714Z",
+  "updated_at": "2026-09-12T17:17:13.867Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-lhr11-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=jGami5z7TkgQ7kNvwE_1jZ6&_nc_oc=AdoAZSap27Eiuyy48lHECorL7W19iDfnNcmgtekQnPxioU8D27Tw12xBXSIxQmwsWYo&_nc_zt=24&_nc_ht=scontent-lhr11-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=un87FQ1x1orpYXcSFeOM3g&_nc_tpa=Q5bMBQKHwPAImM9ZkwTRqmRHcYxjFLqQPaxuOKlUVD8KcQ9cwpxaAhFGmMwct3B8w1eps_6NVr8yQra2tA&oh=00_AQJxeGzLmO3aE6TUQqr89eSdTW1yw4SW26HqNRDJu3daBA&oe=6AAB1C13"
+    "picture": "https://scontent-lhr11-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=dTokaEC_3NAQ7kNvwF9_gHf&_nc_oc=AdrtOaHwjxSCHFizCGLW20eoKFU4f03GIAaYvSK_-EnVlOJQZ6zqJl2cQF3Qwwup6b0&_nc_zt=24&_nc_ht=scontent-lhr11-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=q5qXy0aJEgYWefVt9mGBHw&_nc_tpa=Q5bMBQJTmUcQs3RyIhFM-ZpBBOz2VUHpDm8GIA-wkEkwzqIaHhUguduYPuwI5ASkEJ6fvrG9Anro2_UeEQ&oh=00_AQINWeKR4DcS7r2sSw5UNGsld0zcIYtZ0R_VY2SDbkxUeg&oe=6AAB5453"
   },
   "summary": {
     "followers_count": 1,
-    "views": 124,
-    "likes": 4,
+    "views": 215,
+    "likes": 5,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 19,
-    "engagement_rate": 15.32,
+    "engagement_total": 18,
+    "engagement_rate": 8.37,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -50,12 +50,27 @@
       "engagement": 3
     },
     {
+      "id": "18336221680256407",
+      "text": "Lagi di titik paling buntu — dan nggak tau harus ngomong ke siapa?\nAku pernah di fase itu. Diam-diam sesak, overthinking",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdMNIbOkQfQ",
+      "timestamp": "2026-09-12T14:31:18+0000",
+      "metrics": {
+        "views": 39,
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
       "id": "17970562095140628",
       "text": "Salah satu hal yang aku paling undersestimate waktu persiapan Umroh: pakaian.\nAku pikir asal tertutup, beres. Ternyata s",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DdMC2o4lmgk",
       "timestamp": "2026-09-12T13:01:28+0000",
       "metrics": {
-        "views": 14,
+        "views": 54,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -78,31 +93,46 @@
         "shares": 0
       },
       "engagement": 1
+    }
+  ],
+  "recent_posts": [
+    {
+      "id": "18094498097641467",
+      "text": "Malam ini aku tanya ke diri sendiri — hari ini, aku bersyukur beneran atau cuma bilang \"alhamdulillah\" karena kebiasaan?",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdMXcM0oLGw",
+      "timestamp": "2026-09-12T16:01:23+0000",
+      "metrics": {
+        "views": 7,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
     },
     {
-      "id": "17907678324538405",
-      "text": "Ternyata kain ihram itu bisa bikin overthinking sendiri — siapa sangka.\nAku sempet asal pilih, eh ternyata bahan yang sa",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdLPU3tFqmP",
-      "timestamp": "2026-09-12T05:31:14+0000",
+      "id": "18336221680256407",
+      "text": "Lagi di titik paling buntu — dan nggak tau harus ngomong ke siapa?\nAku pernah di fase itu. Diam-diam sesak, overthinking",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdMNIbOkQfQ",
+      "timestamp": "2026-09-12T14:31:18+0000",
       "metrics": {
-        "views": 3,
-        "likes": 0,
-        "replies": 1,
+        "views": 39,
+        "likes": 1,
+        "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
       "engagement": 1
-    }
-  ],
-  "recent_posts": [
+    },
     {
       "id": "17970562095140628",
       "text": "Salah satu hal yang aku paling undersestimate waktu persiapan Umroh: pakaian.\nAku pikir asal tertutup, beres. Ternyata s",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DdMC2o4lmgk",
       "timestamp": "2026-09-12T13:01:28+0000",
       "metrics": {
-        "views": 14,
+        "views": 54,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -208,36 +238,6 @@
       "timestamp": "2026-09-11T14:31:19+0000",
       "metrics": {
         "views": 2,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18156152881509684",
-      "text": "Kain ihram itu ternyata bukan soal \"asal ada\" — aku baru sadar pas nyobain yang beneran nyaman di badan.\nDulu mikir, ah ",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdJeDIfmMXr",
-      "timestamp": "2026-09-11T13:01:25+0000",
-      "metrics": {
-        "views": 18,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "18279386743293389",
-      "text": "Pernah ngerasa kayak tenggelam, tapi diam-diam?\nNggak ada yang tahu, tapi di dalam udah sesak banget.\nHari ini aku baru ",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdJTvISm2Zp",
-      "timestamp": "2026-09-11T11:31:18+0000",
-      "metrics": {
-        "views": 15,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
