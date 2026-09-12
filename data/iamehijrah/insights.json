@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-09-11T22:40:41.065Z",
+  "updated_at": "2026-09-12T01:14:23.413Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=jGami5z7TkgQ7kNvwGSF2_Z&_nc_oc=AdpEfQT20fbVs7NhjkyOC-m4uGOZgsbpMUIu27ve4mY2LfMVH8xA49kPJnS2OpHgnv0&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=xChBzIPzTDhEY9b6sMKf-g&_nc_tpa=Q5bMBQLJ_hPrZ9hCq-ISAFSTL3D1GJG41xtu8BtkIgdCptOkPRuzsW7TGxqBKPaL-ZikY_AeRZ2eJbZgKQ&oh=00_AQIepcJIW0HrHGUgqCcwvhtu1So6m7YCj9YxUDEZSu3ndg&oe=6AAA3B13"
+    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=jGami5z7TkgQ7kNvwG3txxj&_nc_oc=AdpHlSwqLMEVJWK1G2cwKwoLkoq7pFfFi9hj1wKvsV-dUdiFXX-c52BDPXI2Fkf618Q&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=3ZDn337XDmiKMsoIhNBHJw&_nc_tpa=Q5bMBQIkklOalYlz44qfiqun1OXPvzojKqrNdSyxKf7bDiQaZut4QzqjmHeI-maWJ30fHM2_1dkP-ioqqA&oh=00_AQIMpICaYEwbk5kjKT_GM7ujSXogYokesiRKZXYZjafBdw&oe=6AAA7353"
   },
   "summary": {
     "followers_count": 1,
-    "views": 137,
-    "likes": 0,
+    "views": 141,
+    "likes": 1,
     "replies": 0,
-    "reposts": 0,
+    "reposts": 1,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 14,
-    "engagement_rate": 10.22,
+    "engagement_rate": 9.93,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -25,7 +25,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DdILpdNIGjX",
       "timestamp": "2026-09-11T01:01:23+0000",
       "metrics": {
-        "views": 39,
+        "views": 40,
         "likes": 4,
         "replies": 0,
         "reposts": 0,
@@ -97,12 +97,27 @@
   ],
   "recent_posts": [
     {
+      "id": "17860489788695594",
+      "text": "Aku baru sadar — persiapan Umroh yang paling berat itu bukan manasik, tapi niat yang harus dijaga tiap hari.\nSoalnya nia",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdKwccVlBLu",
+      "timestamp": "2026-09-12T01:01:22+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "18105294076933539",
       "text": "Pernah nggak, ngerasa doa kamu kayak... nggak sampai?\nAku pernah di fase itu. Udah minta berbulan-bulan, tapi jawaban be",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DdKb27OG_2C",
       "timestamp": "2026-09-11T22:01:30+0000",
       "metrics": {
-        "views": 12,
+        "views": 14,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -207,7 +222,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DdILpdNIGjX",
       "timestamp": "2026-09-11T01:01:23+0000",
       "metrics": {
-        "views": 39,
+        "views": 40,
         "likes": 4,
         "replies": 0,
         "reposts": 0,
@@ -223,21 +238,6 @@
       "timestamp": "2026-09-10T22:01:30+0000",
       "metrics": {
         "views": 54,
-        "likes": 1,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "18330397393276418",
-      "text": "Bangun sepertiga malam itu berat — tapi pernah nggak kamu ngebayangin, betapa bedanya rasanya kalau kita bangun dan shol",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdHN3CYlTer",
-      "timestamp": "2026-09-10T16:01:28+0000",
-      "metrics": {
-        "views": 19,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
