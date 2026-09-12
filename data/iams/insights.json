@@ -1,26 +1,41 @@
 {
   "account": "iams",
-  "updated_at": "2026-09-12T10:56:44.218Z",
+  "updated_at": "2026-09-12T14:13:33.707Z",
   "profile": {
     "username": "iams_ichi",
     "name": "iams",
     "biography": "🇦🇺\n🧠Psi + Traveling \nSolo Traveler Bunglon\nFine dining 👌 & Street food lokal 🫰\nHidden gems Insider for 🇯🇵🇦🇺🇫🇷🇪🇸🇮🇹 \n✉️ cmo@coa.a",
-    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=bBQarLExMisQ7kNvwFcLWXJ&_nc_oc=Adr8PCXwgSD39NI8S67oCTniOumNDlY0bRYS1_ZhV_Yx1KX4oitka5CAvuq8NHKVdw8&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=ojR3oU7YUg9FY3rhLM82Gg&_nc_tpa=Q5bMBQLRLLiKaxtov8sb6aQiNYT5bjTxPZkO82V9zZw8xnoXhNkHX8_gvJzWuWz6_n1Wf7yrnZL0dmNJ9A&oh=00_AQLwMRSK7dHPlxrR0q9iwgPSIkaUOBtumksloD4nRNx-Gg&oe=6AAAF25E"
+    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=bBQarLExMisQ7kNvwGK_n-v&_nc_oc=Ado1-XvOVN7FZkguNijI5DWTo9Uc_n0udXGElwgsPmlrx-kki73Ltci5dO9awiKyHKY&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=i5xoy7Xs3SwHqD45HJcl9g&_nc_tpa=Q5bMBQJv51UfV5h4ixgmdhJLxHQzY1afIj5k0y2U8_0YYlr9wkeyBwxdpJ4QrI5EzJyx4XliM8QFueFC_A&oh=00_AQJ4CGvK8m5uQjClN42aniopW_tHJ6IA6HNfarS7aTKRzw&oe=6AAB2A9E"
   },
   "summary": {
     "followers_count": 1360,
-    "views": 204,
-    "likes": 2,
-    "replies": 1,
+    "views": 369,
+    "likes": 5,
+    "replies": 3,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 32,
-    "engagement_rate": 15.69,
+    "engagement_total": 37,
+    "engagement_rate": 10.03,
     "curiosity_score": null,
     "post_count": 25
   },
   "top_posts": [
+    {
+      "id": "18623151430011530",
+      "text": "Dulu mikir Sydney itu cuma Opera House dan foto — dateng, checklist, pulang.\nTernyata yang paling bikin betah itu justru",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DdLuOt4FeKf",
+      "timestamp": "2026-09-12T10:01:16+0000",
+      "metrics": {
+        "views": 193,
+        "likes": 4,
+        "replies": 3,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 7
+    },
     {
       "id": "17925682251179792",
       "text": "Orang Spanyol itu nggak buru-buru — dan itu bukan stereotip, itu sistem.\nToko tutup siang bukan karena males, tapi karen",
@@ -42,7 +57,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DdK3ThrG4e_",
       "timestamp": "2026-09-12T02:01:20+0000",
       "metrics": {
-        "views": 251,
+        "views": 279,
         "likes": 4,
         "replies": 0,
         "reposts": 0,
@@ -57,7 +72,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DdKmHktkfuu",
       "timestamp": "2026-09-11T23:31:09+0000",
       "metrics": {
-        "views": 217,
+        "views": 223,
         "likes": 2,
         "replies": 2,
         "reposts": 0,
@@ -80,31 +95,31 @@
         "shares": 0
       },
       "engagement": 4
-    },
+    }
+  ],
+  "recent_posts": [
     {
-      "id": "18104513852247702",
-      "text": "Kyoto itu bikin aku ngerasa nggak konsisten — pagi beli tofu panas dari pedagang kecil di pinggir jalan, malemnya duduk ",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DdGJLlJlVXm",
-      "timestamp": "2026-09-10T06:01:21+0000",
+      "id": "17915962467450414",
+      "text": "Di Hokkaido, orang nggak nanya \"lo dari mana?\" — mereka cuma senyum, nunduk, lanjut.\nKeheningan di sini bukan awkward. I",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DdMJsypm_T9",
+      "timestamp": "2026-09-12T14:01:20+0000",
       "metrics": {
-        "views": 205,
-        "likes": 2,
+        "views": 0,
+        "likes": 0,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 2
-    }
-  ],
-  "recent_posts": [
+      "engagement": 0
+    },
     {
-      "id": "18623151430011530",
-      "text": "Dulu mikir Sydney itu cuma Opera House dan foto — dateng, checklist, pulang.\nTernyata yang paling bikin betah itu justru",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DdLuOt4FeKf",
-      "timestamp": "2026-09-12T10:01:16+0000",
+      "id": "18127296571794936",
+      "text": "Pernah nyampe hotel luar negeri malem-malem, charger udah di tangan, trus sadar colokannya beda bentuk — dan semua toko ",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DdL7-HZmzEP",
+      "timestamp": "2026-09-12T12:01:21+0000",
       "metrics": {
-        "views": 76,
+        "views": 17,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -114,12 +129,27 @@
       "engagement": 1
     },
     {
+      "id": "18623151430011530",
+      "text": "Dulu mikir Sydney itu cuma Opera House dan foto — dateng, checklist, pulang.\nTernyata yang paling bikin betah itu justru",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DdLuOt4FeKf",
+      "timestamp": "2026-09-12T10:01:16+0000",
+      "metrics": {
+        "views": 193,
+        "likes": 4,
+        "replies": 3,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 7
+    },
+    {
       "id": "17904361029484256",
       "text": "Sakura season itu crowded-nya beda level — tapi yang paling exhausting bukan kerumunannya, tapi energi sosial yang lo ke",
       "permalink": "https://www.threads.com/@iams_ichi/post/DdLgf4Am6kC",
       "timestamp": "2026-09-12T08:01:17+0000",
       "metrics": {
-        "views": 31,
+        "views": 33,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -134,7 +164,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DdLSxopkRVA",
       "timestamp": "2026-09-12T06:01:23+0000",
       "metrics": {
-        "views": 2,
+        "views": 3,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -149,7 +179,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DdLFCG_G5ym",
       "timestamp": "2026-09-12T04:01:17+0000",
       "metrics": {
-        "views": 37,
+        "views": 39,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -164,7 +194,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DdK3ThrG4e_",
       "timestamp": "2026-09-12T02:01:20+0000",
       "metrics": {
-        "views": 251,
+        "views": 279,
         "likes": 4,
         "replies": 0,
         "reposts": 0,
@@ -179,7 +209,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DdKmHktkfuu",
       "timestamp": "2026-09-11T23:31:09+0000",
       "metrics": {
-        "views": 217,
+        "views": 223,
         "likes": 2,
         "replies": 2,
         "reposts": 0,
@@ -217,36 +247,6 @@
         "shares": 0
       },
       "engagement": 1
-    },
-    {
-      "id": "18126904105693254",
-      "text": "Katanya momiji itu wajib lihat langsung biar berasa — ternyata yang bikin berasa bukan daunnya, tapi lo berdiri diam di ",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DdJJbaWlmJv",
-      "timestamp": "2026-09-11T10:01:12+0000",
-      "metrics": {
-        "views": 8,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18128775205707883",
-      "text": "Di Spanyol aku pernah makan tapas berdiri di bar sempit sambil desak-desakan sama warga lokal — bayar receh, rasanya lua",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DdI7s4IFSJW",
-      "timestamp": "2026-09-11T08:01:15+0000",
-      "metrics": {
-        "views": 44,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
     }
   ]
 }
