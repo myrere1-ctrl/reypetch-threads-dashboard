@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-09-13T06:18:51.281Z",
+  "updated_at": "2026-09-13T12:06:43.624Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=dTokaEC_3NAQ7kNvwEhbDqb&_nc_oc=AdrOjN9hpe48NP0-IIQPXMKe1htAnbbXlh5fyG_ke0KfjjvG2Y0-nDdNjN2J94_NEkU&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=K2KOXywqpPXEIAA9rxQkOw&_nc_tpa=Q5bMBQLyK4soEiB5HhZs21ctnxKm1wXa61gFbKK4wi96SCRzoYesVrPEnM2pO1Mu_rjKGHM-HheCQCoQtQ&oh=00_AQJ1d-mW9RbVPU6ikeFufXDFppxJpo8YqH0bT8MXWRanCw&oe=6AABFD13"
+    "picture": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=dTokaEC_3NAQ7kNvwE4fzZE&_nc_oc=AdquyyqJV8LHRBONeZpKwA8KD9I-EnmTagGA9PBxMkVX39MipkFbowXkvvq68hmpKok&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=jiExg5GQtfQLPKJ63x-ZZQ&_nc_tpa=Q5bMBQKO8oBQ_1TmqEzqyHO6H28Y3vVBZtKoZzvUxcCOzbpkz8VO3Byrf9m969BBwW-RsJRUmLnzLnnrVw&oh=00_AQIXhW7rPiEfzGQXq7EpAV6zVJaEO1QedfoOY7-JvEEB_w&oe=6AAC6D93"
   },
   "summary": {
     "followers_count": 1,
-    "views": 383,
-    "likes": 7,
+    "views": 29,
+    "likes": 0,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 21,
-    "engagement_rate": 5.48,
+    "engagement_rate": 72.41,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -50,12 +50,27 @@
       "engagement": 3
     },
     {
+      "id": "18125065414867695",
+      "text": "Pernah nggak ngerasa sholawat itu... beda efeknya tergantung suasana hati?\nAku ngerasain ini sendiri. Waktu lagi galau d",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdOdU9ugWbq",
+      "timestamp": "2026-09-13T11:31:20+0000",
+      "metrics": {
+        "views": 17,
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
       "id": "18110484800586781",
       "text": "Siapa yang dulu kira baju Umroh itu urusan terakhir?\nAku juga. Sampai akhirnya ngerasain sendiri — seharian tawaf dan sa",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DdN0JGvG8zJ",
       "timestamp": "2026-09-13T05:31:25+0000",
       "metrics": {
-        "views": 5,
+        "views": 7,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -70,22 +85,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DdNVQd7GCJ9",
       "timestamp": "2026-09-13T01:01:32+0000",
       "metrics": {
-        "views": 94,
-        "likes": 1,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "18197193967376103",
-      "text": "3 amalan muhasabah malam yang aku coba rutin (yang ke-2 sering aku skip padahal paling ngena):\n1. Istighfar — bukan asal",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdNAqiFoFZM",
-      "timestamp": "2026-09-12T22:01:37+0000",
-      "metrics": {
-        "views": 65,
+        "views": 96,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -97,12 +97,42 @@
   ],
   "recent_posts": [
     {
+      "id": "18125065414867695",
+      "text": "Pernah nggak ngerasa sholawat itu... beda efeknya tergantung suasana hati?\nAku ngerasain ini sendiri. Waktu lagi galau d",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdOdU9ugWbq",
+      "timestamp": "2026-09-13T11:31:20+0000",
+      "metrics": {
+        "views": 17,
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
+      "id": "18101934914000274",
+      "text": "Unpopular opinion: doa paling kuat itu bukan yang panjang — tapi yang keluar dari titik paling gelap.\nAku nemuin ini pas",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdOIupIm3D6",
+      "timestamp": "2026-09-13T08:31:19+0000",
+      "metrics": {
+        "views": 10,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "18110484800586781",
       "text": "Siapa yang dulu kira baju Umroh itu urusan terakhir?\nAku juga. Sampai akhirnya ngerasain sendiri — seharian tawaf dan sa",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DdN0JGvG8zJ",
       "timestamp": "2026-09-13T05:31:25+0000",
       "metrics": {
-        "views": 5,
+        "views": 7,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -117,7 +147,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DdNVQd7GCJ9",
       "timestamp": "2026-09-13T01:01:32+0000",
       "metrics": {
-        "views": 94,
+        "views": 96,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -215,36 +245,6 @@
         "shares": 0
       },
       "engagement": 3
-    },
-    {
-      "id": "17907678324538405",
-      "text": "Ternyata kain ihram itu bisa bikin overthinking sendiri — siapa sangka.\nAku sempet asal pilih, eh ternyata bahan yang sa",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdLPU3tFqmP",
-      "timestamp": "2026-09-12T05:31:14+0000",
-      "metrics": {
-        "views": 3,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "17860489788695594",
-      "text": "Aku baru sadar — persiapan Umroh yang paling berat itu bukan manasik, tapi niat yang harus dijaga tiap hari.\nSoalnya nia",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdKwccVlBLu",
-      "timestamp": "2026-09-12T01:01:22+0000",
-      "metrics": {
-        "views": 4,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
     }
   ]
 }
