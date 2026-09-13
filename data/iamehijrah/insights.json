@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-09-13T19:33:05.824Z",
+  "updated_at": "2026-09-13T22:29:25.143Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-fra5-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=dTokaEC_3NAQ7kNvwGvpxCw&_nc_oc=Adqm0WjPXEsfE5g6kVQZKDN-eAbEMNxcEDFM_K6NK3QnClDyFG9853q0AAxbNuFBoZM&_nc_zt=24&_nc_ht=scontent-fra5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=f5K5av6-L3r-YRJqW-FcSw&_nc_tpa=Q5bMBQK7BaI4mw1GskcPKLNWKcOkgMzqKmmneEVQ2eFGsICS0AYwsc_sjPZ9FGU4nTij1uisruLkFlq_pw&oh=00_AQKw1LH3Atca9eih4evrjk7EHYnelJACAeAg72XHJciyqQ&oe=6AACDE13"
+    "picture": "https://scontent-lhr11-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=dTokaEC_3NAQ7kNvwGspHrR&_nc_oc=AdruaQVEAn2EL0rHbZs5EUUlPG9jnQ86WeUThypX0E-WaXB6Ib0hlSl8YCfMyU5nlWA&_nc_zt=24&_nc_ht=scontent-lhr11-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=_-8vcBv_0c3HGBLtlNDIcw&_nc_tpa=Q5bMBQJWf0owRzwAYXbLk7cSgXPjN2KAtYn8KXiXjBokYGNHF4dcCk615YqfN9GS9hmUlUNssXDNkWt1Nw&oh=00_AQKIExPdziSvt1k-zgb0QxyN4fjmlA6jFiN9ArA9flsrkw&oe=6AACDE13"
   },
   "summary": {
     "followers_count": 1,
-    "views": 228,
+    "views": 258,
     "likes": 6,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 25,
-    "engagement_rate": 10.96,
+    "engagement_total": 24,
+    "engagement_rate": 9.3,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -40,7 +40,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DdO8P6TFn5g",
       "timestamp": "2026-09-13T16:01:29+0000",
       "metrics": {
-        "views": 109,
+        "views": 112,
         "likes": 3,
         "replies": 0,
         "reposts": 0,
@@ -97,12 +97,27 @@
   ],
   "recent_posts": [
     {
+      "id": "18342227374252365",
+      "text": "Semua jalan kayak ketutup — dan kamu nggak ngerti salahnya di mana?\nAku pernah di fase itu. Duduk diam, nangis, overthin",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdPlg__FXBf",
+      "timestamp": "2026-09-13T22:02:05+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "18115262900068682",
       "text": "Ada satu doa yang aku malu banget baru rutin bacanya belakangan ini — padahal udah tahu dari dulu.\nDoa untuk orang tua. ",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DdO8P6TFn5g",
       "timestamp": "2026-09-13T16:01:29+0000",
       "metrics": {
-        "views": 109,
+        "views": 112,
         "likes": 3,
         "replies": 0,
         "reposts": 0,
@@ -230,21 +245,6 @@
         "shares": 0
       },
       "engagement": 0
-    },
-    {
-      "id": "18336221680256407",
-      "text": "Lagi di titik paling buntu — dan nggak tau harus ngomong ke siapa?\nAku pernah di fase itu. Diam-diam sesak, overthinking",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdMNIbOkQfQ",
-      "timestamp": "2026-09-12T14:31:18+0000",
-      "metrics": {
-        "views": 39,
-        "likes": 1,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
     }
   ]
 }
