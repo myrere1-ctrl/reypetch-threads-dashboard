@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-09-13T16:27:47.357Z",
+  "updated_at": "2026-09-13T19:33:05.824Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMiJ9&_nc_ohc=dTokaEC_3NAQ7kNvwHDoYA2&_nc_oc=AdpMXo2yIEqBauLgFPd6zFwZPhwunpB4qoxaFvpwYijUbhbEkBbTpcVHBuHGqCZ-JmM&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=KCfcdTHbNSLCPxb2wS8K9Q&_nc_tpa=Q5bMBQJ8Zxlv0vDAR-isWWkwbIhqtn53f1NVoBt_POzD4HUdxxy-sXrvuWuKxdyMqQFUGY5_voI7S0Hzww&oh=00_AQIZu7BhOdza_jldCf9eE2Y8Mc0mBEr4Beq26hGpQUHbXQ&oe=6AACA5D3"
+    "picture": "https://scontent-fra5-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=dTokaEC_3NAQ7kNvwGvpxCw&_nc_oc=Adqm0WjPXEsfE5g6kVQZKDN-eAbEMNxcEDFM_K6NK3QnClDyFG9853q0AAxbNuFBoZM&_nc_zt=24&_nc_ht=scontent-fra5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=f5K5av6-L3r-YRJqW-FcSw&_nc_tpa=Q5bMBQK7BaI4mw1GskcPKLNWKcOkgMzqKmmneEVQ2eFGsICS0AYwsc_sjPZ9FGU4nTij1uisruLkFlq_pw&oh=00_AQKw1LH3Atca9eih4evrjk7EHYnelJACAeAg72XHJciyqQ&oe=6AACDE13"
   },
   "summary": {
     "followers_count": 1,
-    "views": 144,
-    "likes": 3,
+    "views": 228,
+    "likes": 6,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 22,
-    "engagement_rate": 15.28,
+    "engagement_total": 25,
+    "engagement_rate": 10.96,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -33,6 +33,21 @@
         "shares": 0
       },
       "engagement": 4
+    },
+    {
+      "id": "18115262900068682",
+      "text": "Ada satu doa yang aku malu banget baru rutin bacanya belakangan ini — padahal udah tahu dari dulu.\nDoa untuk orang tua. ",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdO8P6TFn5g",
+      "timestamp": "2026-09-13T16:01:29+0000",
+      "metrics": {
+        "views": 109,
+        "likes": 3,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 3
     },
     {
       "id": "18125065414867695",
@@ -78,21 +93,6 @@
         "shares": 0
       },
       "engagement": 1
-    },
-    {
-      "id": "18110484800586781",
-      "text": "Siapa yang dulu kira baju Umroh itu urusan terakhir?\nAku juga. Sampai akhirnya ngerasain sendiri — seharian tawaf dan sa",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdN0JGvG8zJ",
-      "timestamp": "2026-09-13T05:31:25+0000",
-      "metrics": {
-        "views": 7,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
     }
   ],
   "recent_posts": [
@@ -102,14 +102,14 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DdO8P6TFn5g",
       "timestamp": "2026-09-13T16:01:29+0000",
       "metrics": {
-        "views": 0,
-        "likes": 0,
+        "views": 109,
+        "likes": 3,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 0
+      "engagement": 3
     },
     {
       "id": "17911463367499367",
@@ -117,7 +117,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DdOx67ZEbgS",
       "timestamp": "2026-09-13T14:31:15+0000",
       "metrics": {
-        "views": 15,
+        "views": 17,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
