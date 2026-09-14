@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-09-13T22:29:25.143Z",
+  "updated_at": "2026-09-14T01:14:12.527Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-lhr11-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=dTokaEC_3NAQ7kNvwGspHrR&_nc_oc=AdruaQVEAn2EL0rHbZs5EUUlPG9jnQ86WeUThypX0E-WaXB6Ib0hlSl8YCfMyU5nlWA&_nc_zt=24&_nc_ht=scontent-lhr11-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=_-8vcBv_0c3HGBLtlNDIcw&_nc_tpa=Q5bMBQJWf0owRzwAYXbLk7cSgXPjN2KAtYn8KXiXjBokYGNHF4dcCk615YqfN9GS9hmUlUNssXDNkWt1Nw&oh=00_AQKIExPdziSvt1k-zgb0QxyN4fjmlA6jFiN9ArA9flsrkw&oe=6AACDE13"
+    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=dTokaEC_3NAQ7kNvwF_v9Lg&_nc_oc=AdrvBrdp9IT3xE0QyGRbtiZMdvYDUmt8YsA4aX6yVuXi5hOEX6A18qVPpXbW_zixYes&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=lNMaetaSBvG4qmk4rv_28w&_nc_tpa=Q5bMBQKCD6waQuYaxOTxdbKOKC8vMY5Xqc-JfPui0R2ybHM5RdGCEiNhbrMJDxQJJsb6tqu-lKGYcRXVKw&oh=00_AQLA4bQSHs1-fbk4WcH8KJ5DvRc-V7cPZ00ztmUTLko5rA&oe=6AAD1653"
   },
   "summary": {
     "followers_count": 1,
-    "views": 258,
+    "views": 278,
     "likes": 6,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 24,
-    "engagement_rate": 9.3,
+    "engagement_total": 23,
+    "engagement_rate": 8.27,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -97,12 +97,27 @@
   ],
   "recent_posts": [
     {
+      "id": "18491703871102461",
+      "text": "Pernah nggak, baca Al-Waqiah tapi rasanya... cuma jalan di mulut?\nAku ngerasain itu lama banget. Baca rutin, tapi hati k",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdP6DHLlh1_",
+      "timestamp": "2026-09-14T01:01:30+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "18342227374252365",
       "text": "Semua jalan kayak ketutup — dan kamu nggak ngerti salahnya di mana?\nAku pernah di fase itu. Duduk diam, nangis, overthin",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DdPlg__FXBf",
       "timestamp": "2026-09-13T22:02:05+0000",
       "metrics": {
-        "views": 0,
+        "views": 47,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -207,7 +222,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DdNVQd7GCJ9",
       "timestamp": "2026-09-13T01:01:32+0000",
       "metrics": {
-        "views": 96,
+        "views": 97,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -230,21 +245,6 @@
         "shares": 0
       },
       "engagement": 1
-    },
-    {
-      "id": "18094498097641467",
-      "text": "Malam ini aku tanya ke diri sendiri — hari ini, aku bersyukur beneran atau cuma bilang \"alhamdulillah\" karena kebiasaan?",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdMXcM0oLGw",
-      "timestamp": "2026-09-12T16:01:23+0000",
-      "metrics": {
-        "views": 8,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
     }
   ]
 }
