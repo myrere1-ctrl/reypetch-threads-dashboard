@@ -1,46 +1,31 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-09-14T01:14:12.527Z",
+  "updated_at": "2026-09-14T06:27:46.395Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=dTokaEC_3NAQ7kNvwF_v9Lg&_nc_oc=AdrvBrdp9IT3xE0QyGRbtiZMdvYDUmt8YsA4aX6yVuXi5hOEX6A18qVPpXbW_zixYes&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=lNMaetaSBvG4qmk4rv_28w&_nc_tpa=Q5bMBQKCD6waQuYaxOTxdbKOKC8vMY5Xqc-JfPui0R2ybHM5RdGCEiNhbrMJDxQJJsb6tqu-lKGYcRXVKw&oh=00_AQLA4bQSHs1-fbk4WcH8KJ5DvRc-V7cPZ00ztmUTLko5rA&oe=6AAD1653"
+    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=dTokaEC_3NAQ7kNvwH7R7-M&_nc_oc=AdrEAKQDYo6_8mlOazVjVwEl6AU2Tg9efQav-mAhQWLcQLa7waYZ-ZTc9CkO_hiDt-8&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=jPG0dCelwg50CpeVkMPq6w&_nc_tpa=Q5bMBQJNOTU12wIRYNPdQjhf-jUNg6cvvrWFyizGFiYjy09t-aAfJpcZH-5EkwuaV_u5IJkOXiFlitWphQ&oh=00_AQKcTT8MapYLTv4k4_Pje-SwaQQn7wKDoE1_f8kIK1cGYw&oe=6AAD4E93"
   },
   "summary": {
     "followers_count": 1,
-    "views": 278,
-    "likes": 6,
+    "views": 342,
+    "likes": 7,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 23,
-    "engagement_rate": 8.27,
+    "engagement_total": 21,
+    "engagement_rate": 6.14,
     "curiosity_score": null,
     "post_count": 25
   },
   "top_posts": [
-    {
-      "id": "18617745868062842",
-      "text": "Unpopular opinion: berhenti \"berusaha keras\" itu kadang justru bentuk tawakal paling nyata.\nAku lama banget nolak konsep",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdILpdNIGjX",
-      "timestamp": "2026-09-11T01:01:23+0000",
-      "metrics": {
-        "views": 40,
-        "likes": 4,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 4
-    },
     {
       "id": "18115262900068682",
       "text": "Ada satu doa yang aku malu banget baru rutin bacanya belakangan ini — padahal udah tahu dari dulu.\nDoa untuk orang tua. ",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DdO8P6TFn5g",
       "timestamp": "2026-09-13T16:01:29+0000",
       "metrics": {
-        "views": 112,
+        "views": 116,
         "likes": 3,
         "replies": 0,
         "reposts": 0,
@@ -80,14 +65,29 @@
       "engagement": 3
     },
     {
-      "id": "18025122479696773",
-      "text": "Pernah nggak ketinggalan sholat gara-gara nggak bawa mukena pas di jalan?\nAku udah terlalu sering ngalamin ini — sampai ",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdOnpo3FtUa",
-      "timestamp": "2026-09-13T13:01:31+0000",
+      "id": "18100376432576191",
+      "text": "Kenapa harus nunggu \"kebetulan ada mukena\" baru bisa sholat tepat waktu?\nAku dulu sering skip sholat di jalan karena nge",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdQY60-DpS9",
+      "timestamp": "2026-09-14T05:31:15+0000",
       "metrics": {
-        "views": 20,
+        "views": 6,
         "likes": 0,
         "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
+      "id": "18491703871102461",
+      "text": "Pernah nggak, baca Al-Waqiah tapi rasanya... cuma jalan di mulut?\nAku ngerasain itu lama banget. Baca rutin, tapi hati k",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdP6DHLlh1_",
+      "timestamp": "2026-09-14T01:01:30+0000",
+      "metrics": {
+        "views": 52,
+        "likes": 1,
+        "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
@@ -97,19 +97,34 @@
   ],
   "recent_posts": [
     {
+      "id": "18100376432576191",
+      "text": "Kenapa harus nunggu \"kebetulan ada mukena\" baru bisa sholat tepat waktu?\nAku dulu sering skip sholat di jalan karena nge",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdQY60-DpS9",
+      "timestamp": "2026-09-14T05:31:15+0000",
+      "metrics": {
+        "views": 6,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
       "id": "18491703871102461",
       "text": "Pernah nggak, baca Al-Waqiah tapi rasanya... cuma jalan di mulut?\nAku ngerasain itu lama banget. Baca rutin, tapi hati k",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DdP6DHLlh1_",
       "timestamp": "2026-09-14T01:01:30+0000",
       "metrics": {
-        "views": 0,
-        "likes": 0,
+        "views": 52,
+        "likes": 1,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 0
+      "engagement": 1
     },
     {
       "id": "18342227374252365",
@@ -132,7 +147,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DdO8P6TFn5g",
       "timestamp": "2026-09-13T16:01:29+0000",
       "metrics": {
-        "views": 112,
+        "views": 116,
         "likes": 3,
         "replies": 0,
         "reposts": 0,
@@ -222,22 +237,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DdNVQd7GCJ9",
       "timestamp": "2026-09-13T01:01:32+0000",
       "metrics": {
-        "views": 97,
-        "likes": 1,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "18197193967376103",
-      "text": "3 amalan muhasabah malam yang aku coba rutin (yang ke-2 sering aku skip padahal paling ngena):\n1. Istighfar — bukan asal",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdNAqiFoFZM",
-      "timestamp": "2026-09-12T22:01:37+0000",
-      "metrics": {
-        "views": 65,
+        "views": 98,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
