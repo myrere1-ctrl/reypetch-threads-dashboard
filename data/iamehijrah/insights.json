@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-09-14T19:29:21.432Z",
+  "updated_at": "2026-09-14T23:13:26.081Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=dTokaEC_3NAQ7kNvwFF79OX&_nc_oc=AdqYy9OeyoTc9EufIFuMByEzNzPJtzig87V1v-HenpcPNBGzr72Zh6klVq7_i7U4pMc&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=l9d468dpBb3QYFTwdPKJRw&_nc_tpa=Q5bMBQItrS1W44dxcazhYqIOPICTIu6u0WktOKN2vwSfScBjKMr9fVS0tj4zQhdLcs6zdy7iWOAsEvSaBQ&oh=00_AQKOUWnhCbv9Cqx7ViFTsqS1QARpSQolyuVOSFJpxVvLMA&oe=6AAE2F93"
+    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMiJ9&_nc_ohc=dTokaEC_3NAQ7kNvwHbmON8&_nc_oc=Adr-9T54ezdj2jq6cRrc8yQdVlC1EerZ49KqTWOUS_yxfrQa1FRUKSv1CJ81FYl6RWo&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=rkdduLQEX9bxJW7_o-PSfA&_nc_tpa=Q5bMBQK1XYJJOG7QJX5rTGalgkEwKzL-LeB4UBA0KXNnE-ROAU33unAlYWPgjfjTBbUUz3VVUOIeNLZspw&oh=00_AQKN2xkh01aIQQc8FDa7iKOxlTlUED8DU8V27fQxYAIxbQ&oe=6AAE67D3"
   },
   "summary": {
     "followers_count": 1,
-    "views": 132,
+    "views": 189,
     "likes": 5,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 25,
-    "engagement_rate": 18.94,
+    "engagement_rate": 13.23,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -97,6 +97,21 @@
   ],
   "recent_posts": [
     {
+      "id": "17902465650350529",
+      "text": "4 hal yang aku coba siapkan sebelum Umroh — bukan packing, tapi hati:\n1. Taubat nasuha — mulai beres-beres dalam, bukan ",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdSKPwvFNOq",
+      "timestamp": "2026-09-14T22:01:33+0000",
+      "metrics": {
+        "views": 52,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "17996596449008288",
       "text": "4 hal yang aku coba pegang waktu lagi susah husnudzon:\n1. Baca Al-Kahfi — entah kenapa tiap baca, was-wasnya pelan-pelan",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DdRhDUolrp7",
@@ -117,7 +132,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DdRWvQrm2pg",
       "timestamp": "2026-09-14T14:31:27+0000",
       "metrics": {
-        "views": 22,
+        "views": 23,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -230,21 +245,6 @@
         "shares": 0
       },
       "engagement": 3
-    },
-    {
-      "id": "17911463367499367",
-      "text": "Dulu aku mikir sabar itu artinya diam dan nunggu — kayak nggak ngapa-ngapain sambil berharap keadaan berubah sendiri.\nTe",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdOx67ZEbgS",
-      "timestamp": "2026-09-13T14:31:15+0000",
-      "metrics": {
-        "views": 17,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
     }
   ]
 }
