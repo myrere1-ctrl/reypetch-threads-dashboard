@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-09-13T22:28:30.807Z",
+  "updated_at": "2026-09-14T01:13:25.247Z",
   "profile": {
     "username": "iams_ichi",
     "name": "iams",
     "biography": "🇦🇺\n🧠Psi + Traveling \nSolo Traveler Bunglon\nFine dining 👌 & Street food lokal 🫰\nHidden gems Insider for 🇯🇵🇦🇺🇫🇷🇪🇸🇮🇹 \n✉️ cmo@coa.a",
-    "picture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=mry_AohTSIMQ7kNvwHHS7cw&_nc_oc=AdoU-ybtLJVgbjLpFQpt0tTF0dWDiuRy5O1Xjj2J9mzmPLS9w3V-W1OnrzNrTGZ-rx4&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=0Rfy0ARtiqiWnL1sk5g2aQ&_nc_tpa=Q5bMBQKppAJQ9hz8AuooyXTPNjnV1CgTeZTw0NJcq8ytJhIoaz06QaeVA_VWmLt7KYTKynY5cfQWpPOsCw&oh=00_AQLPd3FaXe0CnIIJXP5_7Gt0Wq6ZUL9wWXSt3bN_ZPBEyw&oe=6AACEC9E"
+    "picture": "https://scontent-fra5-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=mry_AohTSIMQ7kNvwGL7eKM&_nc_oc=Ado-rwitqOb0DROVX1Ei9KgpNbbQMcDkt6QZu1Un1aSsFdVCRFHdQa4Um5PltrjC-AA&_nc_zt=24&_nc_ht=scontent-fra5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=q3l8-AoCb7kreiBMhnghkQ&_nc_tpa=Q5bMBQIhajvdwEQMJ0N0_FDrIJkiVVMJdzINSlmJNDwH8r05d_8yorLDM0FtINI-2ZfI39Ye5Df-GIgX9Q&oh=00_AQLxBAeFgm4Tu86LfBWxi1WTLowqogrfQPzwrrvtDmShrA&oe=6AAD24DE"
   },
   "summary": {
-    "followers_count": 1359,
-    "views": 830,
-    "likes": 1,
-    "replies": 3,
+    "followers_count": 1360,
+    "views": 1490,
+    "likes": 2,
+    "replies": 5,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 43,
-    "engagement_rate": 5.18,
+    "engagement_total": 49,
+    "engagement_rate": 3.29,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -52,19 +52,34 @@
       "engagement": 6
     },
     {
+      "id": "17912227422464412",
+      "text": "Mitos: orang Jepang itu dingin dan susah dideketin.\nRealitanya? mereka nggak dingin — mereka cuma nggak akan ganggu lo d",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DdPvtNaj-4o",
+      "timestamp": "2026-09-13T23:31:08+0000",
+      "metrics": {
+        "views": 609,
+        "likes": 2,
+        "replies": 3,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 5
+    },
+    {
       "id": "18061868534782991",
       "text": "Gold Coast itu kelihatannya cuma soal pantai dan surfing — padahal yang bikin aku betah justru ritme kotanya.\nPagi pelan",
       "permalink": "https://www.threads.com/@iams_ichi/post/DdNcFl0lDcf",
       "timestamp": "2026-09-13T02:01:13+0000",
       "metrics": {
-        "views": 352,
+        "views": 375,
         "likes": 2,
-        "replies": 2,
+        "replies": 3,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 4
+      "engagement": 5
     },
     {
       "id": "18112926116013679",
@@ -80,31 +95,31 @@
         "shares": 0
       },
       "engagement": 4
-    },
+    }
+  ],
+  "recent_posts": [
     {
-      "id": "18126816946773335",
-      "text": "Jam 7 pagi di South Bank Brisbane, kopi di tangan, sungai di depan — dan aku baru sadar: ini kota yang paling nggak pern",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DdIt-4kG8cv",
-      "timestamp": "2026-09-11T06:01:23+0000",
+      "id": "17912227422464412",
+      "text": "Mitos: orang Jepang itu dingin dan susah dideketin.\nRealitanya? mereka nggak dingin — mereka cuma nggak akan ganggu lo d",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DdPvtNaj-4o",
+      "timestamp": "2026-09-13T23:31:08+0000",
       "metrics": {
-        "views": 302,
-        "likes": 4,
-        "replies": 0,
+        "views": 609,
+        "likes": 2,
+        "replies": 3,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 4
-    }
-  ],
-  "recent_posts": [
+      "engagement": 5
+    },
     {
       "id": "18098669960131629",
       "text": "Mitos: Bondi Beach itu cuma buat yang suka rame dan ekstrovert.\nDateng sendiri, duduk agak menjauh dari kerumunan, dan j",
       "permalink": "https://www.threads.com/@iams_ichi/post/DdOufwkmzlw",
       "timestamp": "2026-09-13T14:01:21+0000",
       "metrics": {
-        "views": 10,
+        "views": 15,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -119,7 +134,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DdOgyC8jFfv",
       "timestamp": "2026-09-13T12:01:29+0000",
       "metrics": {
-        "views": 26,
+        "views": 30,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -134,7 +149,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DdOTCfKlYeW",
       "timestamp": "2026-09-13T10:01:24+0000",
       "metrics": {
-        "views": 144,
+        "views": 146,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -149,7 +164,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DdOFTghm6yM",
       "timestamp": "2026-09-13T08:01:24+0000",
       "metrics": {
-        "views": 337,
+        "views": 344,
         "likes": 0,
         "replies": 2,
         "reposts": 0,
@@ -164,7 +179,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DdN3j3tlV5k",
       "timestamp": "2026-09-13T06:01:17+0000",
       "metrics": {
-        "views": 49,
+        "views": 50,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -194,14 +209,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DdNcFl0lDcf",
       "timestamp": "2026-09-13T02:01:13+0000",
       "metrics": {
-        "views": 352,
+        "views": 375,
         "likes": 2,
-        "replies": 2,
+        "replies": 3,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 4
+      "engagement": 5
     },
     {
       "id": "18136120513558070",
@@ -232,21 +247,6 @@
         "shares": 0
       },
       "engagement": 0
-    },
-    {
-      "id": "18127296571794936",
-      "text": "Pernah nyampe hotel luar negeri malem-malem, charger udah di tangan, trus sadar colokannya beda bentuk — dan semua toko ",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DdL7-HZmzEP",
-      "timestamp": "2026-09-12T12:01:21+0000",
-      "metrics": {
-        "views": 26,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
     }
   ]
 }
