@@ -1,55 +1,85 @@
 {
   "account": "iams",
-  "updated_at": "2026-09-14T06:26:49.888Z",
+  "updated_at": "2026-09-14T14:13:48.104Z",
   "profile": {
     "username": "iams_ichi",
     "name": "iams",
     "biography": "🇦🇺\n🧠Psi + Traveling \nSolo Traveler Bunglon\nFine dining 👌 & Street food lokal 🫰\nHidden gems Insider for 🇯🇵🇦🇺🇫🇷🇪🇸🇮🇹 \n✉️ cmo@coa.a",
-    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=mry_AohTSIMQ7kNvwFeadLp&_nc_oc=AdoMULHuXt9SKkP1ZBWHgWzcjPIItL-JViZdbaioBBhzir9pnqnGu81dkT2ysveYo9g&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=XLK4YdVkfUK5Z8cmPzyf3g&_nc_tpa=Q5bMBQIz4TdTZ_3106TXzfTG5ErP10bWE3l1ByaUfZtWuNc55dmIHjIRZzO-X_3i5AIZcJdEDNtcDW3pkA&oh=00_AQLYkMW1VfezSaLbNU72wdXcdVBwojoEKbAH-sonwtO7fQ&oe=6AAD5D1E"
+    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=mry_AohTSIMQ7kNvwGbZUmJ&_nc_oc=AdpIyKtQwwFVuV6q-_NInr1fizSTkO8E-PDmyNtb7ZrHohVxlG4NYCpfzKZaLbk-pss&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=9oTfuEeA3UZHDekNPbzMSA&_nc_tpa=Q5bMBQJS1NVDUEr3_I028VZP136PUVlznSmvCqHyZxUP1Qsm7BYB5m0rk3sRva4vMC68OCrLK5LxB_dXxQ&oh=00_AQLhzZ_OwMO3JH22vA1bE6NsoZ9TjZRbOwat2AyOMcuF9w&oe=6AADCD9E"
   },
   "summary": {
-    "followers_count": 1360,
-    "views": 1945,
-    "likes": 6,
-    "replies": 7,
-    "reposts": 0,
-    "quotes": 0,
+    "followers_count": 1361,
+    "views": 12998,
+    "likes": 48,
+    "replies": 137,
+    "reposts": 3,
+    "quotes": 1,
     "profile_views": null,
-    "engagement_total": 50,
-    "engagement_rate": 2.57,
+    "engagement_total": 258,
+    "engagement_rate": 1.98,
     "curiosity_score": null,
     "post_count": 25
   },
   "top_posts": [
+    {
+      "id": "18090804137168067",
+      "text": "Di Australia, barista nggak nanya \"mau kopi apa\" — mereka nanya \"flat white atau long black?\" dan nunggu lo jawab dengan",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DdQcXKSG9nB",
+      "timestamp": "2026-09-14T06:01:21+0000",
+      "metrics": {
+        "views": 9006,
+        "likes": 52,
+        "replies": 133,
+        "reposts": 2,
+        "quotes": 1,
+        "shares": 6
+      },
+      "engagement": 188
+    },
     {
       "id": "18623151430011530",
       "text": "Dulu mikir Sydney itu cuma Opera House dan foto — dateng, checklist, pulang.\nTernyata yang paling bikin betah itu justru",
       "permalink": "https://www.threads.com/@iams_ichi/post/DdLuOt4FeKf",
       "timestamp": "2026-09-12T10:01:16+0000",
       "metrics": {
-        "views": 616,
-        "likes": 12,
-        "replies": 4,
+        "views": 637,
+        "likes": 13,
+        "replies": 5,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 16
+      "engagement": 18
     },
     {
-      "id": "17945319225291040",
-      "text": "Unpopular opinion: coffee culture Australia itu bukan soal kopinya — tapi soal ritualnya.\nDi sini orang pesan flat white",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DdKmHktkfuu",
-      "timestamp": "2026-09-11T23:31:09+0000",
+      "id": "18149232658539903",
+      "text": "Dulu mikir Osaka itu cuma soal takoyaki dan Dotonbori yang penuh turis.\nTernyata yang paling bikin aku betah justru cara",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DdQ3028G5z-",
+      "timestamp": "2026-09-14T10:01:20+0000",
       "metrics": {
-        "views": 245,
-        "likes": 3,
-        "replies": 3,
+        "views": 819,
+        "likes": 4,
+        "replies": 9,
+        "reposts": 1,
+        "quotes": 0,
+        "shares": 1
+      },
+      "engagement": 14
+    },
+    {
+      "id": "17957651661212429",
+      "text": "I love jalan kaki .. tapi Gold Coast udah mulai panas ... so I beli mobil lagi(jual lagi pas ngayap 3 bulan ke luar next",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DdQz4IFms0O",
+      "timestamp": "2026-09-14T09:26:17+0000",
+      "metrics": {
+        "views": 268,
+        "likes": 0,
+        "replies": 7,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 6
+      "engagement": 7
     },
     {
       "id": "17912227422464412",
@@ -57,52 +87,22 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DdPvtNaj-4o",
       "timestamp": "2026-09-13T23:31:08+0000",
       "metrics": {
-        "views": 740,
-        "likes": 2,
+        "views": 988,
+        "likes": 3,
         "replies": 3,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 5
-    },
-    {
-      "id": "18061868534782991",
-      "text": "Gold Coast itu kelihatannya cuma soal pantai dan surfing — padahal yang bikin aku betah justru ritme kotanya.\nPagi pelan",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DdNcFl0lDcf",
-      "timestamp": "2026-09-13T02:01:13+0000",
-      "metrics": {
-        "views": 380,
-        "likes": 2,
-        "replies": 3,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 5
-    },
-    {
-      "id": "18112926116013679",
-      "text": "Planning Tokyo itu beda — lo bisa riset seminggu penuh dan tetap kaget pas landing.\nBukan karena informasinya kurang, ta",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DdK3ThrG4e_",
-      "timestamp": "2026-09-12T02:01:20+0000",
-      "metrics": {
-        "views": 308,
-        "likes": 4,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 4
+      "engagement": 6
     }
   ],
   "recent_posts": [
     {
-      "id": "18090804137168067",
-      "text": "Di Australia, barista nggak nanya \"mau kopi apa\" — mereka nanya \"flat white atau long black?\" dan nunggu lo jawab dengan",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DdQcXKSG9nB",
-      "timestamp": "2026-09-14T06:01:21+0000",
+      "id": "17980818152901971",
+      "text": "Jam 2 siang di Campo de' Fiori, panas nyengat, dan aku baru sadar — orang Italia di sekitar aku nggak kelihatan terburu-",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DdRTTeXFULt",
+      "timestamp": "2026-09-14T14:01:26+0000",
       "metrics": {
         "views": 0,
         "likes": 0,
@@ -114,12 +114,87 @@
       "engagement": 0
     },
     {
+      "id": "18165361819473512",
+      "text": "Pernah duduk di gate transit sambil dalam hati ngitung peluang koper gue nyampe atau nyasar — itu bukan parno, itu naman",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DdRFkeaoAO-",
+      "timestamp": "2026-09-14T12:01:26+0000",
+      "metrics": {
+        "views": 235,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
+      "id": "18149232658539903",
+      "text": "Dulu mikir Osaka itu cuma soal takoyaki dan Dotonbori yang penuh turis.\nTernyata yang paling bikin aku betah justru cara",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DdQ3028G5z-",
+      "timestamp": "2026-09-14T10:01:20+0000",
+      "metrics": {
+        "views": 819,
+        "likes": 4,
+        "replies": 9,
+        "reposts": 1,
+        "quotes": 0,
+        "shares": 1
+      },
+      "engagement": 14
+    },
+    {
+      "id": "17957651661212429",
+      "text": "I love jalan kaki .. tapi Gold Coast udah mulai panas ... so I beli mobil lagi(jual lagi pas ngayap 3 bulan ke luar next",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DdQz4IFms0O",
+      "timestamp": "2026-09-14T09:26:17+0000",
+      "metrics": {
+        "views": 268,
+        "likes": 0,
+        "replies": 7,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 7
+    },
+    {
+      "id": "18131567512655792",
+      "text": "El Born itu salah satu tempat di Barcelona yang bikin aku ngerti kenapa introvert suka kota besar — lo bisa ngilang di t",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DdQqGdPm4X2",
+      "timestamp": "2026-09-14T08:01:25+0000",
+      "metrics": {
+        "views": 148,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "18090804137168067",
+      "text": "Di Australia, barista nggak nanya \"mau kopi apa\" — mereka nanya \"flat white atau long black?\" dan nunggu lo jawab dengan",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DdQcXKSG9nB",
+      "timestamp": "2026-09-14T06:01:21+0000",
+      "metrics": {
+        "views": 9006,
+        "likes": 52,
+        "replies": 133,
+        "reposts": 2,
+        "quotes": 1,
+        "shares": 6
+      },
+      "engagement": 188
+    },
+    {
       "id": "18124604866865903",
       "text": "Seharian jalan kaki di cuaca 30-an derajat, dan muka tetap matte sampai balik ke penginapan — aku awalnya skeptis, tapi ",
       "permalink": "https://www.threads.com/@iams_ichi/post/DdQOne9kf4V",
       "timestamp": "2026-09-14T04:01:15+0000",
       "metrics": {
-        "views": 8,
+        "views": 128,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -134,7 +209,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DdQA5GLDc-j",
       "timestamp": "2026-09-14T02:01:19+0000",
       "metrics": {
-        "views": 56,
+        "views": 141,
         "likes": 2,
         "replies": 0,
         "reposts": 0,
@@ -149,14 +224,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DdPvtNaj-4o",
       "timestamp": "2026-09-13T23:31:08+0000",
       "metrics": {
-        "views": 740,
-        "likes": 2,
+        "views": 988,
+        "likes": 3,
         "replies": 3,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 5
+      "engagement": 6
     },
     {
       "id": "18098669960131629",
@@ -164,7 +239,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DdOufwkmzlw",
       "timestamp": "2026-09-13T14:01:21+0000",
       "metrics": {
-        "views": 18,
+        "views": 63,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -172,81 +247,6 @@
         "shares": 0
       },
       "engagement": 0
-    },
-    {
-      "id": "17956215705229681",
-      "text": "Seharian jalan kaki di cuaca 30-an derajat, dan muka tetap matte sampai balik ke penginapan — aku awalnya skeptis, tapi ",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DdOgyC8jFfv",
-      "timestamp": "2026-09-13T12:01:29+0000",
-      "metrics": {
-        "views": 31,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "17890798950436884",
-      "text": "Di Paris, orang nggak nanya arah — mereka justru jalan duluan, ngelirik, lalu ngehilang.\nLo nggak diabaikan. Lo cuma lag",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DdOTCfKlYeW",
-      "timestamp": "2026-09-13T10:01:24+0000",
-      "metrics": {
-        "views": 146,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18129723286739629",
-      "text": "Road trip Australia itu aneh — semua orang kasih tau \"hati-hati kanguru di jalan\" tapi yang pertama kali bikin aku berhe",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DdOFTghm6yM",
-      "timestamp": "2026-09-13T08:01:24+0000",
-      "metrics": {
-        "views": 349,
-        "likes": 0,
-        "replies": 2,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 2
-    },
-    {
-      "id": "17951399709258332",
-      "text": "Jam 11 malem di onsen, air panas sampai bahu, dan kepala tiba-tiba kosong.\nBukan karena rileks — tapi karena ini pertama",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DdN3j3tlV5k",
-      "timestamp": "2026-09-13T06:01:17+0000",
-      "metrics": {
-        "views": 50,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "17992256867841180",
-      "text": "Tiga negara, satu koper, dan sekali juga aku belum bongkar adaptor dari tas.\nBukan karena rajin — tapi karena satu adapt",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DdNp1KMk_Li",
-      "timestamp": "2026-09-13T04:01:19+0000",
-      "metrics": {
-        "views": 35,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
     }
   ]
 }
