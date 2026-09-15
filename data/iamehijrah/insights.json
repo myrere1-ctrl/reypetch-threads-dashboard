@@ -1,24 +1,54 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-09-15T07:52:53.285Z",
+  "updated_at": "2026-09-15T13:41:12.724Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-lga3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=dTokaEC_3NAQ7kNvwFnXr6Z&_nc_oc=Adr3KSgWBBSzEEh73Z2UXLtH9iz2Yrl4R-_8MRASN1FanHGfDB8mH3-6LdBo1mUuZeE&_nc_zt=24&_nc_ht=scontent-lga3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=Am1W69_MdkmvEpaPHstevA&_nc_tpa=Q5bMBQLdcYJYMS8fp__pcohHp5kndq0cnlN8gSgQx-q-2e4uPtavCfEl8UmqVcjIDgDNItcqb6GEzwm-wg&oh=00_AQLvJqOMgSPcCLscUxpitaL3Og0Rq_hVgeWieJGDMo_N2w&oe=6AAED853"
+    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=dTokaEC_3NAQ7kNvwFN38yO&_nc_oc=AdrJ45GYAaIERKyz1JE18l1KdE78dp8b8V70UYTxwvRn1jjUJBbA6xjLI1vVFdJhkq8&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=_j5Z1MdHX4sxdoyYyTQGmA&_nc_tpa=Q5bMBQKp-ETHGuXtvrlIYWLIcsfjh1Rm6_IKbByHuCoW2qyVOst2Kn5VdgHqSStKUtFx9BEJ6o8WGqKFdg&oh=00_AQJuNIEfuoZaBRBnNrmKXDFNlBwRb2FCx3F5dmN-t1wFUw&oe=6AAF1093"
   },
   "summary": {
     "followers_count": 1,
-    "views": 0,
-    "likes": 0,
-    "replies": 0,
+    "views": 264,
+    "likes": 13,
+    "replies": 1,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 26,
-    "engagement_rate": 0,
+    "engagement_total": 38,
+    "engagement_rate": 14.39,
     "curiosity_score": null,
     "post_count": 25
   },
   "top_posts": [
+    {
+      "id": "17883057930653034",
+      "text": "4 dzikir yang aku pegang waktu ngerasa lemah banget:\n1. La hawla wala quwwata illa billah — ini yang paling sering aku u",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdTm7Tflhhd",
+      "timestamp": "2026-09-15T11:31:23+0000",
+      "metrics": {
+        "views": 193,
+        "likes": 12,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 12
+    },
+    {
+      "id": "18063391469526602",
+      "text": "Lagi di titik capek banget — tapi nggak tahu capek sama apa?\nAku pernah di fase itu. Overthinking tiap malam, ngerasa se",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdTSURGFoT7",
+      "timestamp": "2026-09-15T08:31:17+0000",
+      "metrics": {
+        "views": 70,
+        "likes": 3,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 4
+    },
     {
       "id": "17996596449008288",
       "text": "4 hal yang aku coba pegang waktu lagi susah husnudzon:\n1. Baca Al-Kahfi — entah kenapa tiap baca, was-wasnya pelan-pelan",
@@ -63,29 +93,16 @@
         "shares": 0
       },
       "engagement": 3
-    },
+    }
+  ],
+  "recent_posts": [
     {
-      "id": "18132765997730721",
-      "text": "Jarang yang ngeh — Ayat Kursi itu bukan cuma bacaan sebelum tidur.\nAku sendiri dulu bacanya autopilot, ngerasa \"udah kew",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdLj77hlU7E",
-      "timestamp": "2026-09-12T08:31:20+0000",
+      "id": "18034394036656128",
+      "text": "Sajadah lama aku licin banget — tiap sujud ngerasa mau ngejleb.\nGanti ke yang empuk & anti slip, sholat 5 waktu jadi bed",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdTxPjQlTM-",
+      "timestamp": "2026-09-15T13:01:31+0000",
       "metrics": {
-        "views": 78,
-        "likes": 3,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 3
-    },
-    {
-      "id": "17991975618040565",
-      "text": "Aku nggak nyangka mukena bisa ngaruh sebanyak itu ke kualitas sholat.\nDulu gerah, kerudungnya geser-geser, fokus malah k",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdS9tz5EQFW",
-      "timestamp": "2026-09-15T05:31:16+0000",
-      "metrics": {
-        "views": 1,
+        "views": 0,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -93,9 +110,37 @@
         "shares": 0
       },
       "engagement": 1
-    }
-  ],
-  "recent_posts": [
+    },
+    {
+      "id": "17883057930653034",
+      "text": "4 dzikir yang aku pegang waktu ngerasa lemah banget:\n1. La hawla wala quwwata illa billah — ini yang paling sering aku u",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdTm7Tflhhd",
+      "timestamp": "2026-09-15T11:31:23+0000",
+      "metrics": {
+        "views": 193,
+        "likes": 12,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 12
+    },
+    {
+      "id": "18063391469526602",
+      "text": "Lagi di titik capek banget — tapi nggak tahu capek sama apa?\nAku pernah di fase itu. Overthinking tiap malam, ngerasa se",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdTSURGFoT7",
+      "timestamp": "2026-09-15T08:31:17+0000",
+      "metrics": {
+        "views": 70,
+        "likes": 3,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 4
+    },
     {
       "id": "17991975618040565",
       "text": "Aku nggak nyangka mukena bisa ngaruh sebanyak itu ke kualitas sholat.\nDulu gerah, kerudungnya geser-geser, fokus malah k",
@@ -200,51 +245,6 @@
         "shares": 0
       },
       "engagement": 0
-    },
-    {
-      "id": "17903607183561534",
-      "text": "Istighfar itu bukan cuma buat dosa besar — aku baru nyadar ini belakangan.\nDulu aku kira istighfar cuma pas ngerasa \"hab",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdQthnxFlM1",
-      "timestamp": "2026-09-14T08:31:19+0000",
-      "metrics": {
-        "views": 25,
-        "likes": 1,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "18100376432576191",
-      "text": "Kenapa harus nunggu \"kebetulan ada mukena\" baru bisa sholat tepat waktu?\nAku dulu sering skip sholat di jalan karena nge",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdQY60-DpS9",
-      "timestamp": "2026-09-14T05:31:15+0000",
-      "metrics": {
-        "views": 10,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "18491703871102461",
-      "text": "Pernah nggak, baca Al-Waqiah tapi rasanya... cuma jalan di mulut?\nAku ngerasain itu lama banget. Baca rutin, tapi hati k",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdP6DHLlh1_",
-      "timestamp": "2026-09-14T01:01:30+0000",
-      "metrics": {
-        "views": 52,
-        "likes": 1,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
     }
   ]
 }
