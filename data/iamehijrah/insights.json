@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-09-14T23:13:26.081Z",
+  "updated_at": "2026-09-15T01:34:50.758Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMiJ9&_nc_ohc=dTokaEC_3NAQ7kNvwHbmON8&_nc_oc=Adr-9T54ezdj2jq6cRrc8yQdVlC1EerZ49KqTWOUS_yxfrQa1FRUKSv1CJ81FYl6RWo&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=rkdduLQEX9bxJW7_o-PSfA&_nc_tpa=Q5bMBQK1XYJJOG7QJX5rTGalgkEwKzL-LeB4UBA0KXNnE-ROAU33unAlYWPgjfjTBbUUz3VVUOIeNLZspw&oh=00_AQKN2xkh01aIQQc8FDa7iKOxlTlUED8DU8V27fQxYAIxbQ&oe=6AAE67D3"
+    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=dTokaEC_3NAQ7kNvwFGBE4p&_nc_oc=AdoyFB5KU5Gc5a0hIhZlMTfKbhE7u5xp3yNOAjz88TGHzHDiKp_vzy96YBvOJrZss50&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=vrlfNBb7vJuamDHohE_4ig&_nc_tpa=Q5bMBQKa4_w55omyRcLEd3zG4YDcIXvi7EpSC4EF2QTcSmkvT0LbNRCi0-9DVDGsrwHb4yBRAHIsmaeGFA&oh=00_AQL0cAkIalKtM96-ROWoOxd66VyOcVzOHVUiG3jhCzm_BQ&oe=6AAE67D3"
   },
   "summary": {
     "followers_count": 1,
-    "views": 189,
+    "views": 238,
     "likes": 5,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 25,
-    "engagement_rate": 13.23,
+    "engagement_rate": 10.5,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -97,12 +97,27 @@
   ],
   "recent_posts": [
     {
+      "id": "17863327881679460",
+      "text": "Lagi di titik semua kerasa buntu dan capek sendiri?\nAku pernah di situ. Yang akhirnya nolong bukan mikir lebih keras — t",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdSe1hnjhDi",
+      "timestamp": "2026-09-15T01:01:27+0000",
+      "metrics": {
+        "views": 37,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "17902465650350529",
       "text": "4 hal yang aku coba siapkan sebelum Umroh — bukan packing, tapi hati:\n1. Taubat nasuha — mulai beres-beres dalam, bukan ",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DdSKPwvFNOq",
       "timestamp": "2026-09-14T22:01:33+0000",
       "metrics": {
-        "views": 52,
+        "views": 68,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -230,21 +245,6 @@
         "shares": 0
       },
       "engagement": 0
-    },
-    {
-      "id": "18115262900068682",
-      "text": "Ada satu doa yang aku malu banget baru rutin bacanya belakangan ini — padahal udah tahu dari dulu.\nDoa untuk orang tua. ",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdO8P6TFn5g",
-      "timestamp": "2026-09-13T16:01:29+0000",
-      "metrics": {
-        "views": 117,
-        "likes": 3,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 3
     }
   ]
 }
