@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-09-15T01:34:50.758Z",
+  "updated_at": "2026-09-15T07:52:53.285Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=dTokaEC_3NAQ7kNvwFGBE4p&_nc_oc=AdoyFB5KU5Gc5a0hIhZlMTfKbhE7u5xp3yNOAjz88TGHzHDiKp_vzy96YBvOJrZss50&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=vrlfNBb7vJuamDHohE_4ig&_nc_tpa=Q5bMBQKa4_w55omyRcLEd3zG4YDcIXvi7EpSC4EF2QTcSmkvT0LbNRCi0-9DVDGsrwHb4yBRAHIsmaeGFA&oh=00_AQL0cAkIalKtM96-ROWoOxd66VyOcVzOHVUiG3jhCzm_BQ&oe=6AAE67D3"
+    "picture": "https://scontent-lga3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=dTokaEC_3NAQ7kNvwFnXr6Z&_nc_oc=Adr3KSgWBBSzEEh73Z2UXLtH9iz2Yrl4R-_8MRASN1FanHGfDB8mH3-6LdBo1mUuZeE&_nc_zt=24&_nc_ht=scontent-lga3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=Am1W69_MdkmvEpaPHstevA&_nc_tpa=Q5bMBQLdcYJYMS8fp__pcohHp5kndq0cnlN8gSgQx-q-2e4uPtavCfEl8UmqVcjIDgDNItcqb6GEzwm-wg&oh=00_AQLvJqOMgSPcCLscUxpitaL3Og0Rq_hVgeWieJGDMo_N2w&oe=6AAED853"
   },
   "summary": {
     "followers_count": 1,
-    "views": 238,
-    "likes": 5,
+    "views": 0,
+    "likes": 0,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 25,
-    "engagement_rate": 10.5,
+    "engagement_total": 26,
+    "engagement_rate": 0,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -80,12 +80,12 @@
       "engagement": 3
     },
     {
-      "id": "17928372921166651",
-      "text": "Sholat jadi beda banget waktu aku akhirnya punya mukena yang beneran nyaman.\nDulu sering gerah, benerin kerudungnya mulu",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdRMb6rFdw8",
-      "timestamp": "2026-09-14T13:01:26+0000",
+      "id": "17991975618040565",
+      "text": "Aku nggak nyangka mukena bisa ngaruh sebanyak itu ke kualitas sholat.\nDulu gerah, kerudungnya geser-geser, fokus malah k",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdS9tz5EQFW",
+      "timestamp": "2026-09-15T05:31:16+0000",
       "metrics": {
-        "views": 0,
+        "views": 1,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -97,12 +97,27 @@
   ],
   "recent_posts": [
     {
+      "id": "17991975618040565",
+      "text": "Aku nggak nyangka mukena bisa ngaruh sebanyak itu ke kualitas sholat.\nDulu gerah, kerudungnya geser-geser, fokus malah k",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdS9tz5EQFW",
+      "timestamp": "2026-09-15T05:31:16+0000",
+      "metrics": {
+        "views": 1,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
       "id": "17863327881679460",
       "text": "Lagi di titik semua kerasa buntu dan capek sendiri?\nAku pernah di situ. Yang akhirnya nolong bukan mikir lebih keras — t",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DdSe1hnjhDi",
       "timestamp": "2026-09-15T01:01:27+0000",
       "metrics": {
-        "views": 37,
+        "views": 57,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -117,7 +132,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DdSKPwvFNOq",
       "timestamp": "2026-09-14T22:01:33+0000",
       "metrics": {
-        "views": 68,
+        "views": 71,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -230,21 +245,6 @@
         "shares": 0
       },
       "engagement": 1
-    },
-    {
-      "id": "18342227374252365",
-      "text": "Semua jalan kayak ketutup — dan kamu nggak ngerti salahnya di mana?\nAku pernah di fase itu. Duduk diam, nangis, overthin",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdPlg__FXBf",
-      "timestamp": "2026-09-13T22:02:05+0000",
-      "metrics": {
-        "views": 49,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
     }
   ]
 }
