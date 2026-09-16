@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-09-16T06:10:12.739Z",
+  "updated_at": "2026-09-16T11:48:44.677Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=k_wWmyLrUI4Q7kNvwEPYWiC&_nc_oc=Adpu90TV39_RF1VEoXAESApNx43pO3TRJy31huOMcqKiQQnn6mgFInFZ8F-Z4dpqyqg&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=Q-Qow324rwuQlk0B_dT2jQ&_nc_tpa=Q5bMBQKpk-5zMj10HlmGNJvmnshAtPMWmnQh2DqT1HdsEhAW63mp7Qxi9F3QZC5v5E3kHDmUb3380Lr4kg&oh=00_AQLdXZ92iCBUglEinWcQCLnChcx-0zzPrRLGaqVoj45qcA&oe=6AAFF193"
+    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=k_wWmyLrUI4Q7kNvwFaELvJ&_nc_oc=AdrP163fXM1PrgheRz9MnWK5e2Cb6W9QoZz5N9LThOf-7XZg9zjaR-XbUEABEWVY2C0&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=NEkSSanDYfC4tHxE0wqBnw&_nc_tpa=Q5bMBQL6QBX1kZJAoFB3-oRX7nwyyZydr9s7Xc1--1I_ABoAFQOxnL4TikmKRuLaKFyFgElxWuWHXB4naw&oh=00_AQLg7lOcPYJoMdHmcYHRJ8kGE3JiEugkqiIxcO8q-2QXiQ&oe=6AB06213"
   },
   "summary": {
     "followers_count": 1,
-    "views": 398,
-    "likes": 19,
-    "replies": 1,
-    "reposts": 0,
+    "views": 85,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 1,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 39,
-    "engagement_rate": 9.8,
+    "engagement_total": 40,
+    "engagement_rate": 47.06,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -25,7 +25,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DdTm7Tflhhd",
       "timestamp": "2026-09-15T11:31:23+0000",
       "metrics": {
-        "views": 240,
+        "views": 246,
         "likes": 16,
         "replies": 0,
         "reposts": 0,
@@ -97,12 +97,42 @@
   ],
   "recent_posts": [
     {
+      "id": "18007257881771467",
+      "text": "Dulu aku mikir tahajjud itu \"ibadah orang-orang yang udah bener\" — jadi aku nunggu ngerasa siap dulu.\nTernyata justru di",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdWLvYroAWz",
+      "timestamp": "2026-09-16T11:31:32+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
+      "id": "18104202950362822",
+      "text": "Dzikir pagi itu bukan soal rajin — aku lakuin karena tanpanya, hari berasa nggak ada pegangannya.\nPernah bayangin baca d",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdV3Ir5jh2L",
+      "timestamp": "2026-09-16T08:31:31+0000",
+      "metrics": {
+        "views": 81,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 1,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
       "id": "18103357772257564",
       "text": "Pernah sholat tapi badan nggak bisa anteng karena sajadahnya licin?\nAku dulu gitu — tiap sujud ngerasa was-was, fokus ma",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DdVigsplXW6",
       "timestamp": "2026-09-16T05:31:16+0000",
       "metrics": {
-        "views": 9,
+        "views": 11,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -192,7 +222,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DdTm7Tflhhd",
       "timestamp": "2026-09-15T11:31:23+0000",
       "metrics": {
-        "views": 240,
+        "views": 246,
         "likes": 16,
         "replies": 0,
         "reposts": 0,
@@ -215,36 +245,6 @@
         "shares": 0
       },
       "engagement": 4
-    },
-    {
-      "id": "17991975618040565",
-      "text": "Aku nggak nyangka mukena bisa ngaruh sebanyak itu ke kualitas sholat.\nDulu gerah, kerudungnya geser-geser, fokus malah k",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdS9tz5EQFW",
-      "timestamp": "2026-09-15T05:31:16+0000",
-      "metrics": {
-        "views": 1,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "17863327881679460",
-      "text": "Lagi di titik semua kerasa buntu dan capek sendiri?\nAku pernah di situ. Yang akhirnya nolong bukan mikir lebih keras — t",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdSe1hnjhDi",
-      "timestamp": "2026-09-15T01:01:27+0000",
-      "metrics": {
-        "views": 57,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
     }
   ]
 }
