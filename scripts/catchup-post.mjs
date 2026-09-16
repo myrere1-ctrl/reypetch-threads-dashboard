@@ -21,6 +21,12 @@ function timestampToWibYmd(ts) {
   return toWib(new Date(ts)).toISOString().slice(0, 10);
 }
 
+// 0=Minggu ... 6=Sabtu. Pakai offset-trick yang sama kayak toWib() lain
+// (Intl.DateTimeFormat pernah bug pas tengah malam WIB — lihat memory).
+function nowWibDayOfWeek() {
+  return toWib().getUTCDay();
+}
+
 function slotToMinutes(s) {
   const [h, m] = s.split('.').map(Number);
   return h * 60 + m;
@@ -37,6 +43,14 @@ async function main() {
   const account = parseAccountArg();
   const config = await loadAccountConfig(account);
   const slots = config.slots;
+
+  if (config.weekdaysOnly) {
+    const dow = nowWibDayOfWeek();
+    if (dow === 0 || dow === 6) {
+      console.log(`Account: ${account} · Today: ${nowWibYmd()} · Weekend (weekdaysOnly=true) — skip, user posting manual.`);
+      process.exit(0);
+    }
+  }
 
   const todayLog = await loadTodayLog(account);
   const postedSlots = new Set(todayLog.map((p) => p.slot));

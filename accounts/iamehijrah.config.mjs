@@ -9,6 +9,10 @@ export const config = {
   // WIB times — 8x/hari ngikutin ritme ibadah (subuh→malam), jam paling kena buat doa/refleksi
   slots: ['05.00', '08.00', '12.30', '15.30', '18.30', '20.00', '21.30', '23.00'],
 
+  // Bot cuma jalan Senin-Jumat. Sabtu-Minggu user posting manual sendiri
+  // (algoritma manual dirasa lebih bagus di weekend).
+  weekdaysOnly: true,
+
   // Slot index (dari array `slots` di atas) yang jadi affiliate post — min 2/hari.
   // Sisanya tetap konten doa/refleksi murni. Produk dari data/iamehijrah/products.json (Shopee).
   affiliateSlots: [2, 5], // 12.30 & 20.00 WIB

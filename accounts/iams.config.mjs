@@ -9,6 +9,10 @@ export const config = {
   // WIB times, harus consistent dengan catchup script. 8x/hari, sebar seharian.
   slots: ['06.30', '09.00', '11.00', '13.00', '15.00', '17.00', '19.00', '21.00'],
 
+  // Bot cuma jalan Senin-Jumat. Sabtu-Minggu user posting manual sendiri
+  // (algoritma manual dirasa lebih bagus di weekend).
+  weekdaysOnly: true,
+
   // Slot index (dari array `slots` di atas) yang jadi affiliate post — min 2/hari.
   // Sisanya tetap konten murni. Produk dari data/iams/products.json (Amazon).
   affiliateSlots: [2, 6], // 11.00 & 19.00 WIB
