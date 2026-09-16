@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-09-16T20:15:04.943Z",
+  "updated_at": "2026-09-16T23:02:39.886Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=k_wWmyLrUI4Q7kNvwHdx7Z8&_nc_oc=Adpo8vUAQeaJORvt7DPAwBaJI9rxhxyYHkhLlhX-zkN2MZeBt8T_9dtTLKGKn06ykHg&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=zPP-Yb0qsACBvAtQDLS7-g&_nc_tpa=Q5bMBQII0Znp3wRAy7JmKibBRw7A6CJOpF3ZkE9sY6B_GChxJMqRyy2ky7CnQwvUPhayJqCY8Ml13EJBNQ&oh=00_AQIK4wYcu1T3H3kcROSeZsCC7t7nSba7wA6k-3Wd7RO0Dg&oe=6AB0D293"
+    "picture": "https://scontent-atl3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=k_wWmyLrUI4Q7kNvwFfaZOK&_nc_oc=Adrnc4DmvZjr-4O0pgVLOwKKWrs7pH2JEqNsPoyqvSPBcgI-EfoEpGnO8BkSsvkgCvU&_nc_zt=24&_nc_ht=scontent-atl3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=5G6LTrrzABb7cTV_UVhJmA&_nc_tpa=Q5bMBQL7IBrDZ6FNjXNimaC838thPVwcrVEtbAzUDy69ZnRBA6peY8LYMkhTlAtLQK3Swl-WFt27DTHfIw&oh=00_AQLJ2HJANGGhfYbdQAIjjSv5JPk1o8OtxPKS-4Z3B0WJyg&oe=6AB10AD3"
   },
   "summary": {
     "followers_count": 1,
-    "views": 357,
-    "likes": 10,
+    "views": 407,
+    "likes": 12,
     "replies": 0,
     "reposts": 1,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 45,
-    "engagement_rate": 12.61,
+    "engagement_total": 44,
+    "engagement_rate": 10.81,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -50,6 +50,21 @@
       "engagement": 5
     },
     {
+      "id": "18007257881771467",
+      "text": "Dulu aku mikir tahajjud itu \"ibadah orang-orang yang udah bener\" — jadi aku nunggu ngerasa siap dulu.\nTernyata justru di",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdWLvYroAWz",
+      "timestamp": "2026-09-16T11:31:32+0000",
+      "metrics": {
+        "views": 167,
+        "likes": 4,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 4
+    },
+    {
       "id": "18063391469526602",
       "text": "Lagi di titik capek banget — tapi nggak tahu capek sama apa?\nAku pernah di fase itu. Overthinking tiap malam, ngerasa se",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DdTSURGFoT7",
@@ -78,24 +93,24 @@
         "shares": 0
       },
       "engagement": 4
-    },
+    }
+  ],
+  "recent_posts": [
     {
-      "id": "18007257881771467",
-      "text": "Dulu aku mikir tahajjud itu \"ibadah orang-orang yang udah bener\" — jadi aku nunggu ngerasa siap dulu.\nTernyata justru di",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdWLvYroAWz",
-      "timestamp": "2026-09-16T11:31:32+0000",
+      "id": "18016462316942386",
+      "text": "Pernah bayangin baca Al-Waqiah sambil nunggu waktu shalat di Masjidil Haram?\nAku sering bayangin itu — entah kenapa tera",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdXT2PwER0L",
+      "timestamp": "2026-09-16T22:01:38+0000",
       "metrics": {
-        "views": 164,
-        "likes": 3,
+        "views": 47,
+        "likes": 1,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 3
-    }
-  ],
-  "recent_posts": [
+      "engagement": 1
+    },
     {
       "id": "18003699941993918",
       "text": "Pernah ngerasa sholat Dhuha itu \"berat\" padahal cuma sebentar?\nAku juga. Dulu selalu nunda — nanti aja, nanti aja, sampa",
@@ -147,14 +162,14 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DdWLvYroAWz",
       "timestamp": "2026-09-16T11:31:32+0000",
       "metrics": {
-        "views": 164,
-        "likes": 3,
+        "views": 167,
+        "likes": 4,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 3
+      "engagement": 4
     },
     {
       "id": "18104202950362822",
@@ -223,21 +238,6 @@
       "timestamp": "2026-09-15T16:01:24+0000",
       "metrics": {
         "views": 13,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18123350590667367",
-      "text": "Lagi ngerasa bersalah sama orang tua tapi nggak tau harus mulai dari mana?\nAku pernah di titik itu — pengen minta maaf t",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdT7iOmFhI0",
-      "timestamp": "2026-09-15T14:31:27+0000",
-      "metrics": {
-        "views": 35,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
