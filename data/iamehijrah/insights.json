@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-09-15T21:31:29.951Z",
+  "updated_at": "2026-09-16T00:29:37.374Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=k_wWmyLrUI4Q7kNvwF3C8Bs&_nc_oc=AdqS2ebGpWcLvfkNv6i4hZx2eJRd4jdHUimjRz0wLbsiPBY7wACDHayAuBXfIQd1Djo&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=Bm8MrHTiSd2yTOF_qSZDJw&_nc_tpa=Q5bMBQLvOSUt08uZpTupAGTPtENhTItaJ7yoo8uMb4IaLefzDCFVe0D-3pI_pO3sWt8OG70quHUFo_NrGw&oh=00_AQK6GiERoqgI8P7taqPKWFvNZMQ2kiJzCKe9_EaYWldBUw&oe=6AAF8113"
+    "picture": "https://scontent-hkg4-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=k_wWmyLrUI4Q7kNvwH_YnKy&_nc_oc=Adp2XbMesmKdBiSHowRrDinJPqf-8qtK6poe1CMvMTxZBrwhJdmvIsgdVIdftV-rc3c&_nc_zt=24&_nc_ht=scontent-hkg4-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=TZBqUFqsxEWL27sV959aew&_nc_tpa=Q5bMBQJGxf3lMgwkzbWsCF3MhKKY7zVk1ngu7HHlj3N1d2MDlDidpxB7YNll2ZyLeHkYlDpxRleRH5uc9Q&oh=00_AQJhBmZTalIWWvFnDWnoPMHsWFf0EfRA2KQp6n4_4hTGYQ&oe=6AAFB953"
   },
   "summary": {
     "followers_count": 1,
-    "views": 353,
-    "likes": 16,
+    "views": 367,
+    "likes": 18,
     "replies": 1,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 37,
-    "engagement_rate": 10.48,
+    "engagement_total": 39,
+    "engagement_rate": 10.63,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -25,14 +25,14 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DdTm7Tflhhd",
       "timestamp": "2026-09-15T11:31:23+0000",
       "metrics": {
-        "views": 231,
-        "likes": 13,
+        "views": 236,
+        "likes": 15,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 13
+      "engagement": 15
     },
     {
       "id": "18063391469526602",
@@ -97,6 +97,21 @@
   ],
   "recent_posts": [
     {
+      "id": "17928552105166978",
+      "text": "Rindu Tanah Suci itu aneh — belum tentu pernah ke sana, tapi hati udah kangen duluan.\nAku lagi nabung dan belajar pelan-",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdUvCLJnYr9",
+      "timestamp": "2026-09-15T22:01:28+0000",
+      "metrics": {
+        "views": 9,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "17958420024212484",
       "text": "Malam ini aku tanya ke diri sendiri — terakhir sedekah kapan, ya?\nBukan buat nyalahin diri. Tapi jujur aja, kadang aku n",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DdUF1Dhlrmq",
@@ -147,14 +162,14 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DdTm7Tflhhd",
       "timestamp": "2026-09-15T11:31:23+0000",
       "metrics": {
-        "views": 231,
-        "likes": 13,
+        "views": 236,
+        "likes": 15,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 13
+      "engagement": 15
     },
     {
       "id": "18063391469526602",
@@ -230,21 +245,6 @@
         "shares": 0
       },
       "engagement": 4
-    },
-    {
-      "id": "18019204310722134",
-      "text": "Syukur itu ternyata bukan soal keadaan lagi enak.\nAku nyadar ini pas di Masjidil Haram — capek, kaki pegal habis thawaf,",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdRWvQrm2pg",
-      "timestamp": "2026-09-14T14:31:27+0000",
-      "metrics": {
-        "views": 23,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
     }
   ]
 }
