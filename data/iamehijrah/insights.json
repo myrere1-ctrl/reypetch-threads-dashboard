@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-09-17T01:31:58.142Z",
+  "updated_at": "2026-09-17T07:48:57.471Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=k_wWmyLrUI4Q7kNvwHYKdBR&_nc_oc=AdoL3J4pylJNHL8mRO5jYXIJTw1F3T8mM17BngnGqTByW3lX_dVh5_W5ABQ1MlFXV4w&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=Usl1BOk6_98-rVsUnr0CSg&_nc_tpa=Q5bMBQKxn97PBns71Aerv-_qDNUsEwxMXqdtWwtQbAFkXcehj7H5ryz0vLJ-EPBH_7zJN87Grr1bLRhTRw&oh=00_AQIWGVkJjwjGO_2FBlOl5p8qHby3-gv9eDB02LSlzPZSjw&oe=6AB10AD3"
+    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=k_wWmyLrUI4Q7kNvwFBBOHT&_nc_oc=AdowR-DxGI97hSu3-weE9cjdohZRW8nJxcAymxSTB_3Ox1NIQgTRZuPxlbDyKKpsykc&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=TDOYQN1VbU3Vz0xvy2_abg&_nc_tpa=Q5bMBQLARr-4-QPL1H9hMANhAXtTKcxgRB-kPbgSBigbbNbOD0YLJpreokoI45oBlmB0GSpmaTthD4U6Gw&oh=00_AQLGeEm0-7dvxQoCb2F7SG1N0INF-phVfe8a-10FovQo1w&oe=6AB17B53"
   },
   "summary": {
     "followers_count": 1,
-    "views": 436,
-    "likes": 12,
+    "views": 2,
+    "likes": 0,
     "replies": 0,
-    "reposts": 1,
+    "reposts": 0,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 44,
-    "engagement_rate": 10.09,
+    "engagement_rate": 2200,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -40,7 +40,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DdWgVqCm9ws",
       "timestamp": "2026-09-16T14:31:33+0000",
       "metrics": {
-        "views": 53,
+        "views": 54,
         "likes": 5,
         "replies": 0,
         "reposts": 0,
@@ -97,12 +97,27 @@
   ],
   "recent_posts": [
     {
+      "id": "17930101389401020",
+      "text": "Ngitung dzikir sambil mikirin hal lain — terus lupa, ulang dari nol, akhirnya nyerah. Aku kenal banget rasanya.\nSekarang",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdYHTu5G5M3",
+      "timestamp": "2026-09-17T05:31:18+0000",
+      "metrics": {
+        "views": 1,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
       "id": "18444666784120816",
       "text": "Pernah ngerasa habis Subuh itu waktunya paling pas buat curhat ke Allah?\nAku nggak tau kenapa, tapi habis Subuh hati tuh",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DdXoau-jGLL",
       "timestamp": "2026-09-17T01:01:22+0000",
       "metrics": {
-        "views": 20,
+        "views": 67,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -117,7 +132,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DdXT2PwER0L",
       "timestamp": "2026-09-16T22:01:38+0000",
       "metrics": {
-        "views": 56,
+        "views": 57,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -132,7 +147,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DdWqpJbD4R6",
       "timestamp": "2026-09-16T16:01:36+0000",
       "metrics": {
-        "views": 41,
+        "views": 43,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -147,7 +162,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DdWgVqCm9ws",
       "timestamp": "2026-09-16T14:31:33+0000",
       "metrics": {
-        "views": 53,
+        "views": 54,
         "likes": 5,
         "replies": 0,
         "reposts": 0,
@@ -223,21 +238,6 @@
       "timestamp": "2026-09-16T01:01:23+0000",
       "metrics": {
         "views": 13,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "17928552105166978",
-      "text": "Rindu Tanah Suci itu aneh — belum tentu pernah ke sana, tapi hati udah kangen duluan.\nAku lagi nabung dan belajar pelan-",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdUvCLJnYr9",
-      "timestamp": "2026-09-15T22:01:28+0000",
-      "metrics": {
-        "views": 9,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
