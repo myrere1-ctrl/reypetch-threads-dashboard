@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-09-17T07:48:57.471Z",
+  "updated_at": "2026-09-17T13:36:17.787Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=k_wWmyLrUI4Q7kNvwFBBOHT&_nc_oc=AdowR-DxGI97hSu3-weE9cjdohZRW8nJxcAymxSTB_3Ox1NIQgTRZuPxlbDyKKpsykc&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=TDOYQN1VbU3Vz0xvy2_abg&_nc_tpa=Q5bMBQLARr-4-QPL1H9hMANhAXtTKcxgRB-kPbgSBigbbNbOD0YLJpreokoI45oBlmB0GSpmaTthD4U6Gw&oh=00_AQLGeEm0-7dvxQoCb2F7SG1N0INF-phVfe8a-10FovQo1w&oe=6AB17B53"
+    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=k_wWmyLrUI4Q7kNvwG6j0SE&_nc_oc=AdpqF86RJ1uieZtz4XfWnSIgsFZOA1XVTPMF6yqLYooWOf3C17MbewN5nmrtI3DSsJ8&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=GOu8dPW_w76S5prKochNtg&_nc_tpa=Q5bMBQK5gg1dnq6EXt94R18nspirGcJQv7GcQiOAR3nmWQ9oYAg9bz4F3G9BWhUUX1gDzW-ehrQX0JoZ1w&oh=00_AQKVdO_u8cf5u7TEDSC0DMK17NY7zDWonaykltQNUzowKA&oe=6AB1B393"
   },
   "summary": {
     "followers_count": 1,
-    "views": 2,
-    "likes": 0,
+    "views": 95,
+    "likes": 3,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 44,
-    "engagement_rate": 2200,
+    "engagement_total": 46,
+    "engagement_rate": 48.42,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -97,12 +97,57 @@
   ],
   "recent_posts": [
     {
+      "id": "18155240551508030",
+      "text": "Cincin tasbih ini literally ubah cara aku dzikir sehari-hari.\nDulu kalau lagi di jalan atau antri, niat dzikir tapi tasb",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdY60LPFdrK",
+      "timestamp": "2026-09-17T13:01:22+0000",
+      "metrics": {
+        "views": 1,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
+      "id": "18064813118788250",
+      "text": "Unpopular opinion: sabar itu bukan soal nunggu tanpa ngerasa apa-apa — aku dulu salah kaprah soal ini.\nAku pikir sabar b",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdYwglbEa7y",
+      "timestamp": "2026-09-17T11:31:19+0000",
+      "metrics": {
+        "views": 27,
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
+      "id": "17995122765031476",
+      "text": "Habis Subuh, aku suka ngulang kalimat la hawla wala quwwata illa billah pelan-pelan.\nBukan hafalan — tapi reminder: aku ",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdYb68alWZL",
+      "timestamp": "2026-09-17T08:31:24+0000",
+      "metrics": {
+        "views": 63,
+        "likes": 2,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 2
+    },
+    {
       "id": "17930101389401020",
       "text": "Ngitung dzikir sambil mikirin hal lain — terus lupa, ulang dari nol, akhirnya nyerah. Aku kenal banget rasanya.\nSekarang",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DdYHTu5G5M3",
       "timestamp": "2026-09-17T05:31:18+0000",
       "metrics": {
-        "views": 1,
+        "views": 2,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -200,51 +245,6 @@
         "shares": 0
       },
       "engagement": 4
-    },
-    {
-      "id": "18104202950362822",
-      "text": "Dzikir pagi itu bukan soal rajin — aku lakuin karena tanpanya, hari berasa nggak ada pegangannya.\nPernah bayangin baca d",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdV3Ir5jh2L",
-      "timestamp": "2026-09-16T08:31:31+0000",
-      "metrics": {
-        "views": 83,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 1,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "18103357772257564",
-      "text": "Pernah sholat tapi badan nggak bisa anteng karena sajadahnya licin?\nAku dulu gitu — tiap sujud ngerasa was-was, fokus ma",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdVigsplXW6",
-      "timestamp": "2026-09-16T05:31:16+0000",
-      "metrics": {
-        "views": 11,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "18085847903682164",
-      "text": "Udah malam — hati lagi penuh apa, atau malah kosong?\nAku tadi iseng nanya ke diri sendiri: seberapa sering aku baca Ayat",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdVDoCsDJU1",
-      "timestamp": "2026-09-16T01:01:23+0000",
-      "metrics": {
-        "views": 13,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
     }
   ]
 }
