@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-09-17T22:16:22.468Z",
+  "updated_at": "2026-09-18T00:28:26.659Z",
   "profile": {
     "username": "iams_ichi",
     "name": "iams",
     "biography": "🇦🇺\n🧠Psi +🧳Travel\nIt’s about the vibe and the feeling. \nThe names of the places? \nI sometimes forget\n✉️ cmo@coa.au",
-    "picture": "https://scontent-dfw6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=M1lNfkqmzf4Q7kNvwGTQo3B&_nc_oc=AdpxQhZKS47ZFiI33Vp08SFiWsfuBEXlCqrL_V-io410GZJ69zGKTsEhVYHFEvFfdaQ&_nc_zt=24&_nc_ht=scontent-dfw6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=RIkM_MUJycRi_l4KlYjTzw&_nc_tpa=Q5bMBQKenwoMw08dJjLMX1Fx9fxLAp01RONTeii5DyyJyp5nvUVxhkYh9MOJavdSISjm-JHWyzPaXUzB2Q&oh=00_AQIKY_NqtL0Mx4_IlCI4ILXn_s4pTuPvceWmmosIIMrRaQ&oe=6AB2329E"
+    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=M1lNfkqmzf4Q7kNvwHi8JsV&_nc_oc=AdrqhSsbWlqVE_B4zhfjlgRiOo7xmyksd-AXVMBasawDukjtvZ6DZEJgRulgtmvRGoA&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=BKNAx4z0rpaina-ibrgj6Q&_nc_tpa=Q5bMBQJH2M97HW7zFmK4Wr25hT5ZinsxrOZA4bwS1vYt7ZClhY3BLLhT_wphHZaXkLYUg7xYGLz0IWVzMg&oh=00_AQKjUHE4IM3GC7mnmJpsrtLIGKj4AhU7t1WN8AX79SwQrQ&oe=6AB26ADE"
   },
   "summary": {
     "followers_count": 1363,
-    "views": 711,
+    "views": 997,
     "likes": 9,
     "replies": 5,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 30,
-    "engagement_rate": 4.22,
+    "engagement_rate": 3.01,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -27,7 +27,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DdYKviPG1Ad",
       "timestamp": "2026-09-17T06:01:18+0000",
       "metrics": {
-        "views": 471,
+        "views": 486,
         "likes": 8,
         "replies": 3,
         "reposts": 0,
@@ -57,7 +57,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DdYmNAPG-Vw",
       "timestamp": "2026-09-17T10:01:15+0000",
       "metrics": {
-        "views": 95,
+        "views": 103,
         "likes": 1,
         "replies": 1,
         "reposts": 0,
@@ -87,7 +87,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DdYz7zhIDDO",
       "timestamp": "2026-09-17T12:01:15+0000",
       "metrics": {
-        "views": 47,
+        "views": 49,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -99,12 +99,27 @@
   ],
   "recent_posts": [
     {
+      "id": "17988287166024070",
+      "text": "Unpopular opinion: Brisbane itu kota yang paling underrated di Australia — justru karena lo ga expect apa-apa, semua hal",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DdaC4h8jyoF",
+      "timestamp": "2026-09-17T23:31:07+0000",
+      "metrics": {
+        "views": 189,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "17935321788122235",
       "text": "Trastevere itu neighborhood Roma yang paling bikin aku betah — cobblestone sempit, orang lokal duduk di kursi plastik, l",
       "permalink": "https://www.threads.com/@iams_ichi/post/DdZBrlrm9pq",
       "timestamp": "2026-09-17T14:01:22+0000",
       "metrics": {
-        "views": 7,
+        "views": 10,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -119,7 +134,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DdYz7zhIDDO",
       "timestamp": "2026-09-17T12:01:15+0000",
       "metrics": {
-        "views": 47,
+        "views": 49,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -134,7 +149,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DdYmNAPG-Vw",
       "timestamp": "2026-09-17T10:01:15+0000",
       "metrics": {
-        "views": 95,
+        "views": 103,
         "likes": 1,
         "replies": 1,
         "reposts": 0,
@@ -149,7 +164,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DdYYeY1FlcK",
       "timestamp": "2026-09-17T08:01:18+0000",
       "metrics": {
-        "views": 72,
+        "views": 74,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -164,7 +179,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DdYKviPG1Ad",
       "timestamp": "2026-09-17T06:01:18+0000",
       "metrics": {
-        "views": 471,
+        "views": 486,
         "likes": 8,
         "replies": 3,
         "reposts": 0,
@@ -179,7 +194,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DdX8_28oAzr",
       "timestamp": "2026-09-17T04:01:12+0000",
       "metrics": {
-        "views": 15,
+        "views": 16,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -194,7 +209,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DdXvQ73jDqe",
       "timestamp": "2026-09-17T02:01:11+0000",
       "metrics": {
-        "views": 42,
+        "views": 43,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -209,7 +224,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DdXeFaMGEhd",
       "timestamp": "2026-09-16T23:31:04+0000",
       "metrics": {
-        "views": 207,
+        "views": 208,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -224,7 +239,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DdWc468lme4",
       "timestamp": "2026-09-16T14:01:24+0000",
       "metrics": {
-        "views": 17,
+        "views": 18,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -232,21 +247,6 @@
         "shares": 0
       },
       "engagement": 0
-    },
-    {
-      "id": "18392645509202327",
-      "text": "Day-trip ke mana pun, aku dulu selalu overthinking soal tas — terlalu kecil nggak muat, terlalu besar malah capek sendir",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DdWPJiJG7f-",
-      "timestamp": "2026-09-16T12:01:19+0000",
-      "metrics": {
-        "views": 9,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
     }
   ]
 }
