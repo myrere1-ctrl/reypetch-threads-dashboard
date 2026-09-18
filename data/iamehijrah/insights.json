@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-09-18T06:01:58.687Z",
+  "updated_at": "2026-09-18T11:27:57.681Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=k_wWmyLrUI4Q7kNvwHCiPAf&_nc_oc=AdqvR4fj6sxSoPIg0u4b4WSAPpgEhIdBNyn-OLprI4leTZd2cOa6rQbcz_GSvaI4hco&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=atR-kMWiBNcmkLV-8DBpvA&_nc_tpa=Q5bMBQIzXeooXPjJnRserU_lsEdBo4YFCxK-L_1eFoOg6crJoLZVTe_oaG3DvvIq-vTP94iM30hF3fqG7w&oh=00_AQJyxE5dWRnEqMds27Hxc-00gs76jJiQal5JzvAI-5mEVw&oe=6AB29493"
+    "picture": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=k_wWmyLrUI4Q7kNvwGEww2I&_nc_oc=AdoP8WQt_0pc_teS-9e-CGdjpqxYNCwsG-MzkjV4vgVLzdS3-v05WcnxxOKSQ_w0wcs&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=vTEf4IbaEHWkyK9P3i-eew&_nc_tpa=Q5bMBQLsuRJhZOK4dIb-QMDXtQyflJJLpPv6kTTE__bEkq9vJjOOt0b6176DCbQAup-qkT0neOWyaxuyJA&oh=00_AQK5EfX29-pE5Mqs8Mfp0srT3UkJkmg_UxrjjOiO-Y1t8A&oe=6AB30513"
   },
   "summary": {
     "followers_count": 1,
-    "views": 247,
-    "likes": 5,
+    "views": 251,
+    "likes": 9,
     "replies": 0,
-    "reposts": 0,
+    "reposts": 1,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 44,
-    "engagement_rate": 17.81,
+    "engagement_total": 53,
+    "engagement_rate": 21.12,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -33,6 +33,21 @@
         "shares": 0
       },
       "engagement": 16
+    },
+    {
+      "id": "18112919498181859",
+      "text": "Dulu aku mikir tahajjud itu \"level tinggi\" — cuma buat orang yang udah beneran sholeh.\nTernyata justru sebaliknya. Seper",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdbAtQeGw3W",
+      "timestamp": "2026-09-18T08:31:20+0000",
+      "metrics": {
+        "views": 248,
+        "likes": 9,
+        "replies": 0,
+        "reposts": 1,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 10
     },
     {
       "id": "18103349753200495",
@@ -78,24 +93,24 @@
         "shares": 0
       },
       "engagement": 4
-    },
-    {
-      "id": "17995122765031476",
-      "text": "Habis Subuh, aku suka ngulang kalimat la hawla wala quwwata illa billah pelan-pelan.\nBukan hafalan — tapi reminder: aku ",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdYb68alWZL",
-      "timestamp": "2026-09-17T08:31:24+0000",
-      "metrics": {
-        "views": 63,
-        "likes": 2,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 2
     }
   ],
   "recent_posts": [
+    {
+      "id": "18112919498181859",
+      "text": "Dulu aku mikir tahajjud itu \"level tinggi\" — cuma buat orang yang udah beneran sholeh.\nTernyata justru sebaliknya. Seper",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdbAtQeGw3W",
+      "timestamp": "2026-09-18T08:31:20+0000",
+      "metrics": {
+        "views": 248,
+        "likes": 9,
+        "replies": 0,
+        "reposts": 1,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 10
+    },
     {
       "id": "17983282653117186",
       "text": "Dzikir di jalan tapi tasbih ketinggalan — lagi?\nAku relate banget. Sekarang aku pakai cincin tasbih, tinggal putar pelan",
@@ -230,21 +245,6 @@
         "shares": 0
       },
       "engagement": 1
-    },
-    {
-      "id": "18444666784120816",
-      "text": "Pernah ngerasa habis Subuh itu waktunya paling pas buat curhat ke Allah?\nAku nggak tau kenapa, tapi habis Subuh hati tuh",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdXoau-jGLL",
-      "timestamp": "2026-09-17T01:01:22+0000",
-      "metrics": {
-        "views": 67,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
     }
   ]
 }
