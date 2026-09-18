@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-09-18T00:29:38.417Z",
+  "updated_at": "2026-09-18T06:01:58.687Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=k_wWmyLrUI4Q7kNvwGf-6Nk&_nc_oc=AdpdpgjGSf6iDF9MV8UJhAmNMy4bIoeNpogG1S_sOV7YsRONnPptDArtk2s2nmtEOYs&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=TSj8JrbGGsTprF9ByovRqw&_nc_tpa=Q5bMBQKpGK-42sjn4-Wj2-9pweHpsbCIBhlTr2NsYIKXN0HKUsGCQsr9oko1qAhvEu-dW-LLR1bY0ED42A&oh=00_AQJ_w669XVbDvtKl9r0_vIIlpLptP8jeHANVQno3AbC58A&oe=6AB25C53"
+    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=k_wWmyLrUI4Q7kNvwHCiPAf&_nc_oc=AdqvR4fj6sxSoPIg0u4b4WSAPpgEhIdBNyn-OLprI4leTZd2cOa6rQbcz_GSvaI4hco&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=atR-kMWiBNcmkLV-8DBpvA&_nc_tpa=Q5bMBQIzXeooXPjJnRserU_lsEdBo4YFCxK-L_1eFoOg6crJoLZVTe_oaG3DvvIq-vTP94iM30hF3fqG7w&oh=00_AQJyxE5dWRnEqMds27Hxc-00gs76jJiQal5JzvAI-5mEVw&oe=6AB29493"
   },
   "summary": {
     "followers_count": 1,
-    "views": 233,
+    "views": 247,
     "likes": 5,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 43,
-    "engagement_rate": 18.45,
+    "engagement_total": 44,
+    "engagement_rate": 17.81,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -40,7 +40,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DdWgVqCm9ws",
       "timestamp": "2026-09-16T14:31:33+0000",
       "metrics": {
-        "views": 54,
+        "views": 55,
         "likes": 5,
         "replies": 0,
         "reposts": 0,
@@ -97,12 +97,42 @@
   ],
   "recent_posts": [
     {
+      "id": "17983282653117186",
+      "text": "Dzikir di jalan tapi tasbih ketinggalan — lagi?\nAku relate banget. Sekarang aku pakai cincin tasbih, tinggal putar pelan",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdasGipGwn4",
+      "timestamp": "2026-09-18T05:31:17+0000",
+      "metrics": {
+        "views": 1,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
+      "id": "18087212687427485",
+      "text": "Ngerasa banyak dosa tapi tetep dikasih pagi ini — itu udah keajaiban sendiri.\nKadang istighfar bukan karena terpaksa, ta",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdaNNERIDvB",
+      "timestamp": "2026-09-18T01:01:18+0000",
+      "metrics": {
+        "views": 10,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "18148820479548232",
       "text": "Baca Yasin hari ini — bukan karena ada yang meninggal, tapi karena masih hidup.\nDan nyadar: itu hal yang patut disyukuri",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DdZ4m9AmFZ8",
       "timestamp": "2026-09-17T22:01:20+0000",
       "metrics": {
-        "views": 83,
+        "views": 84,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -215,36 +245,6 @@
         "shares": 0
       },
       "engagement": 0
-    },
-    {
-      "id": "18016462316942386",
-      "text": "Pernah bayangin baca Al-Waqiah sambil nunggu waktu shalat di Masjidil Haram?\nAku sering bayangin itu — entah kenapa tera",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdXT2PwER0L",
-      "timestamp": "2026-09-16T22:01:38+0000",
-      "metrics": {
-        "views": 57,
-        "likes": 1,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "18003699941993918",
-      "text": "Pernah ngerasa sholat Dhuha itu \"berat\" padahal cuma sebentar?\nAku juga. Dulu selalu nunda — nanti aja, nanti aja, sampa",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdWqpJbD4R6",
-      "timestamp": "2026-09-16T16:01:36+0000",
-      "metrics": {
-        "views": 43,
-        "likes": 1,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
     }
   ]
 }
