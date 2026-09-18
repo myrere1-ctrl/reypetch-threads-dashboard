@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-09-18T16:33:35.317Z",
+  "updated_at": "2026-09-18T19:44:42.854Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=U_yDd-tduVsQ7kNvwFD41wq&_nc_oc=Ado-TKWJ9O4kohEr_b3pp5Kd01EHUU9I9RrhuhT2lRvmC7Nt27gVMiWEOzEqAQ9CZq4&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=ozQcWi6kdiurdkK7yuzqJg&_nc_tpa=Q5bMBQK6tgB-9xuCp3dhQ6FMl3QH5fl5VkqIN4WEgqIvL3ZH8hJBHHu3MXsBynvT99hxdP5pdqdwJ0DEnw&oh=00_AQIbL1mks1M4UcVttPilGy0FvxF00RT0H13y3IOfaMJPuQ&oe=6AB33D53"
+    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=U_yDd-tduVsQ7kNvwFicd-0&_nc_oc=AdqfexnNx8shymzU2PfSjJG8AzkcPapxsX33rK7f59nCkreQ8k-PYPM8taHwPlSLXQk&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=2es-5CRSCdv-qXXNB8SDFg&_nc_tpa=Q5bMBQJroUt2wiSal1FYi1DmgrGgQu2sPV6cO9Y0um-KuIpxbFf2OxYpaHsBTjwhUl8y1m2R6ycj-MJutw&oh=00_AQLTQxOe0H_wsOSRMV99nr2tkR7dSjUlNrACjeuN8wYEmQ&oe=6AB37593"
   },
   "summary": {
     "followers_count": 1,
-    "views": 441,
-    "likes": 17,
+    "views": 570,
+    "likes": 27,
     "replies": 0,
     "reposts": 1,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 47,
-    "engagement_rate": 10.66,
+    "engagement_total": 51,
+    "engagement_rate": 8.95,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -25,7 +25,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DdbAtQeGw3W",
       "timestamp": "2026-09-18T08:31:20+0000",
       "metrics": {
-        "views": 260,
+        "views": 261,
         "likes": 11,
         "replies": 0,
         "reposts": 1,
@@ -40,14 +40,29 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Ddbp6k-EcUX",
       "timestamp": "2026-09-18T14:31:25+0000",
       "metrics": {
-        "views": 123,
-        "likes": 10,
+        "views": 147,
+        "likes": 11,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 10
+      "engagement": 11
+    },
+    {
+      "id": "18128127277688749",
+      "text": "4 amalan yang aku balik lagi ke sana waktu ngerasa jauh dari Allah:\n1. Istighfar pelan-pelan — bukan karena takut, tapi ",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Ddb0QQJIBqM",
+      "timestamp": "2026-09-18T16:01:46+0000",
+      "metrics": {
+        "views": 138,
+        "likes": 5,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 5
     },
     {
       "id": "18103349753200495",
@@ -78,21 +93,6 @@
         "shares": 0
       },
       "engagement": 4
-    },
-    {
-      "id": "18128127277688749",
-      "text": "4 amalan yang aku balik lagi ke sana waktu ngerasa jauh dari Allah:\n1. Istighfar pelan-pelan — bukan karena takut, tapi ",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Ddb0QQJIBqM",
-      "timestamp": "2026-09-18T16:01:46+0000",
-      "metrics": {
-        "views": 2,
-        "likes": 2,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 2
     }
   ],
   "recent_posts": [
@@ -102,14 +102,14 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Ddb0QQJIBqM",
       "timestamp": "2026-09-18T16:01:46+0000",
       "metrics": {
-        "views": 2,
-        "likes": 2,
+        "views": 138,
+        "likes": 5,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 2
+      "engagement": 5
     },
     {
       "id": "17985188004074922",
@@ -117,14 +117,14 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Ddbp6k-EcUX",
       "timestamp": "2026-09-18T14:31:25+0000",
       "metrics": {
-        "views": 123,
-        "likes": 10,
+        "views": 147,
+        "likes": 11,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 10
+      "engagement": 11
     },
     {
       "id": "17923418499427878",
@@ -162,7 +162,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DdbAtQeGw3W",
       "timestamp": "2026-09-18T08:31:20+0000",
       "metrics": {
-        "views": 260,
+        "views": 261,
         "likes": 11,
         "replies": 0,
         "reposts": 1,
