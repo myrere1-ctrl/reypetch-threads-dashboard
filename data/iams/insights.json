@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-09-18T22:39:29.066Z",
+  "updated_at": "2026-09-19T01:16:47.042Z",
   "profile": {
     "username": "iams_ichi",
     "name": "iams",
     "biography": "🇦🇺\n🧠Psi +🧳Travel\nIt’s about the vibe and the feeling. \nThe names of the places? \nI sometimes forget\n✉️ cmo@coa.au",
-    "picture": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=M1lNfkqmzf4Q7kNvwGskI_P&_nc_oc=AdrhkEZNYD5b3DmIcdXkweFb4cNTrigVA0kuHPzvo03XPZ_cIw12A2mc4G-TA2bgpWY&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=xbdRG8PHeluWkkHx-NDCCw&_nc_tpa=Q5bMBQJXZvQqTnOT2vaqjIZUkHb3J8C93ECsiK8lv9ePthVWlIYrqqr9UClonpT7uEndMceD-qaWnVB7pA&oh=00_AQJzLXka0G5LouwFh6cPhmcV__8d2Drt1j3Xg9mA12Lpvw&oe=6AB3841E"
+    "picture": "https://scontent-dfw6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=M1lNfkqmzf4Q7kNvwH_3pBj&_nc_oc=Adq3bb9Jxs4uBeOdAaJUEoqQkmI96f9-3ncrh9GZl8uH24oKuI3dxwKAMD3yq56mEVI&_nc_zt=24&_nc_ht=scontent-dfw6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=zMeGbJUCkQP1FvWG8S247Q&_nc_tpa=Q5bMBQI3Uo9MjnOtoQwohz00GGKH8pt2b2FKNxm1tM8SA08oOvqofSnmztED1IXQVDOpKf8K7Ye4cJeWig&oh=00_AQLOw1b1HvVZKCU5HOW-PIn0R4YKfIe6V07eYe6wBPesgg&oe=6AB3BC5E"
   },
   "summary": {
     "followers_count": 1363,
-    "views": 636,
-    "likes": 3,
+    "views": 937,
+    "likes": 6,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 28,
-    "engagement_rate": 4.4,
+    "engagement_total": 34,
+    "engagement_rate": 3.63,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -27,7 +27,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DdYKviPG1Ad",
       "timestamp": "2026-09-17T06:01:18+0000",
       "metrics": {
-        "views": 515,
+        "views": 516,
         "likes": 8,
         "replies": 3,
         "reposts": 0,
@@ -37,12 +37,27 @@
       "engagement": 11
     },
     {
+      "id": "18127008094839754",
+      "text": "Road-tripping Australia beats flying between states — unpopular opinion, but I'll die on this hill. You actually see the",
+      "permalink": "https://www.threads.com/@iams_ichi/post/Ddcn3YkgVkf",
+      "timestamp": "2026-09-18T23:32:12+0000",
+      "metrics": {
+        "views": 162,
+        "likes": 6,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 7
+    },
+    {
       "id": "18096265598641050",
       "text": "Sudah 3 hari Aku lagi di NSW ... bagian dari pekerjaan membuat Aku kelayapan di Australia 2 bulan/thn mengunjungi bebera",
       "permalink": "https://www.threads.com/@iams_ichi/post/DdcdUByAhv0",
       "timestamp": "2026-09-18T22:00:00+0000",
       "metrics": {
-        "views": 10,
+        "views": 44,
         "likes": 0,
         "replies": 2,
         "reposts": 0,
@@ -57,7 +72,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DdaC4h8jyoF",
       "timestamp": "2026-09-17T23:31:07+0000",
       "metrics": {
-        "views": 320,
+        "views": 325,
         "likes": 2,
         "replies": 0,
         "reposts": 0,
@@ -72,7 +87,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DdYmNAPG-Vw",
       "timestamp": "2026-09-17T10:01:15+0000",
       "metrics": {
-        "views": 117,
+        "views": 118,
         "likes": 1,
         "replies": 1,
         "reposts": 0,
@@ -80,31 +95,31 @@
         "shares": 0
       },
       "engagement": 2
-    },
+    }
+  ],
+  "recent_posts": [
     {
-      "id": "18086478833254507",
-      "text": "Yanaka Ginza itu salah satu area di Tokyo yang bikin aku diam terlalu lama — gang sempit, rumah kayu tua, kucing tidur d",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DdbmeKMGzxu",
-      "timestamp": "2026-09-18T14:01:19+0000",
+      "id": "18127008094839754",
+      "text": "Road-tripping Australia beats flying between states — unpopular opinion, but I'll die on this hill. You actually see the",
+      "permalink": "https://www.threads.com/@iams_ichi/post/Ddcn3YkgVkf",
+      "timestamp": "2026-09-18T23:32:12+0000",
       "metrics": {
-        "views": 173,
-        "likes": 1,
-        "replies": 0,
+        "views": 162,
+        "likes": 6,
+        "replies": 1,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 1
-    }
-  ],
-  "recent_posts": [
+      "engagement": 7
+    },
     {
       "id": "18096265598641050",
       "text": "Sudah 3 hari Aku lagi di NSW ... bagian dari pekerjaan membuat Aku kelayapan di Australia 2 bulan/thn mengunjungi bebera",
       "permalink": "https://www.threads.com/@iams_ichi/post/DdcdUByAhv0",
       "timestamp": "2026-09-18T22:00:00+0000",
       "metrics": {
-        "views": 10,
+        "views": 44,
         "likes": 0,
         "replies": 2,
         "reposts": 0,
@@ -119,7 +134,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DdbmeKMGzxu",
       "timestamp": "2026-09-18T14:01:19+0000",
       "metrics": {
-        "views": 173,
+        "views": 174,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -134,7 +149,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DdbYumRG3_4",
       "timestamp": "2026-09-18T12:01:14+0000",
       "metrics": {
-        "views": 6,
+        "views": 7,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -149,7 +164,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DdbSyY8EoJu",
       "timestamp": "2026-09-18T11:09:30+0000",
       "metrics": {
-        "views": 0,
+        "views": 1,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -164,7 +179,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DdbK_5SmyYF",
       "timestamp": "2026-09-18T10:01:15+0000",
       "metrics": {
-        "views": 24,
+        "views": 25,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -179,7 +194,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dda9Q6DFfbF",
       "timestamp": "2026-09-18T08:01:15+0000",
       "metrics": {
-        "views": 194,
+        "views": 195,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -194,7 +209,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DdavhgUkeMM",
       "timestamp": "2026-09-18T06:01:12+0000",
       "metrics": {
-        "views": 189,
+        "views": 190,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -209,7 +224,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Ddahy1kGybb",
       "timestamp": "2026-09-18T04:01:13+0000",
       "metrics": {
-        "views": 68,
+        "views": 69,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -224,7 +239,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DdaUDuujSpF",
       "timestamp": "2026-09-18T02:01:11+0000",
       "metrics": {
-        "views": 39,
+        "views": 40,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -232,21 +247,6 @@
         "shares": 0
       },
       "engagement": 0
-    },
-    {
-      "id": "17988287166024070",
-      "text": "Unpopular opinion: Brisbane itu kota yang paling underrated di Australia — justru karena lo ga expect apa-apa, semua hal",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DdaC4h8jyoF",
-      "timestamp": "2026-09-17T23:31:07+0000",
-      "metrics": {
-        "views": 320,
-        "likes": 2,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 2
     }
   ]
 }
