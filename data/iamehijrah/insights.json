@@ -1,53 +1,53 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-09-19T14:32:38.093Z",
+  "updated_at": "2026-09-19T18:07:20.006Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-dfw6-2.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=U_yDd-tduVsQ7kNvwGutfbK&_nc_oc=AdprShmEDsPIKZaPZrm2L3Vs1UjGQakwrvC4HiYsUSKS00z6c8LoE34MsS-uHwGPwSw&_nc_zt=24&_nc_ht=scontent-dfw6-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=lBdiIOZoYftFj5ddE-yAnQ&_nc_tpa=Q5bMBQLc1_19YzecnbuXoxqhFyidhuc2yB_pllweV_0EoU7Sr1_Y8upWtsWvbyD5ZHMNkVDsILYHS2kOKg&oh=00_AQJXSSpd8MlSLsYE0SaTnQJCPOV-tP1ssjv61Zf8aLtP1Q&oe=6AB45693"
+    "picture": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=U_yDd-tduVsQ7kNvwF1iTFQ&_nc_oc=AdohRpnKPjxtnw6hadX2pin1vJ2Fdnbtjz2QXrLtO_tfAM7o8vX7BAcMMEMuvznc6KU&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=tcAPEWJL2p3I4rikQk-w3Q&_nc_tpa=Q5bMBQLeq61x4oo9E0vqcH39wT-vgggCK1fAKUK0HJCAy8bJBBKRgaHimq3I0KX6zSCvjHiQWnSJ8O7mxg&oh=00_AQKnlX-9KCiddtZNTZbOxlXRBkb33W_KHXIeyw2M5l9ayQ&oe=6AB48ED3"
   },
   "summary": {
     "followers_count": 2,
-    "views": 1333,
-    "likes": 28,
+    "views": 1840,
+    "likes": 42,
     "replies": 0,
-    "reposts": 3,
+    "reposts": 6,
     "quotes": 1,
     "profile_views": null,
-    "engagement_total": 97,
-    "engagement_rate": 7.28,
+    "engagement_total": 103,
+    "engagement_rate": 5.6,
     "curiosity_score": null,
     "post_count": 25
   },
   "top_posts": [
-    {
-      "id": "18114695554800920",
-      "text": "Ajaran Nenek yang sampai sekarang aku pakai(kalau ga lupa 🙏). Menurut Nenek yang guru ngaji kampung, doa itu punya stru",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dddo1rljqvJ",
-      "timestamp": "2026-09-19T08:59:57+0000",
-      "metrics": {
-        "views": 286,
-        "likes": 17,
-        "replies": 0,
-        "reposts": 2,
-        "quotes": 1,
-        "shares": 2
-      },
-      "engagement": 20
-    },
     {
       "id": "17894175477672950",
       "text": "5 Dzikir Singkat yang Dibaca Para Ulama Sebelum Tidur — Terbukti Bikin Impian Lebih \"Terarah\"\n\n1/ Kamu tidur 7-8 jam seh",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DddhhTnCTTT",
       "timestamp": "2026-09-19T07:56:00+0000",
       "metrics": {
-        "views": 413,
-        "likes": 9,
+        "views": 613,
+        "likes": 14,
         "replies": 8,
-        "reposts": 1,
+        "reposts": 2,
         "quotes": 0,
-        "shares": 3
+        "shares": 4
       },
-      "engagement": 18
+      "engagement": 24
+    },
+    {
+      "id": "18114695554800920",
+      "text": "Ajaran Nenek yang sampai sekarang aku pakai(kalau ga lupa 🙏). Menurut Nenek yang guru ngaji kampung, doa itu punya stru",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dddo1rljqvJ",
+      "timestamp": "2026-09-19T08:59:57+0000",
+      "metrics": {
+        "views": 304,
+        "likes": 17,
+        "replies": 0,
+        "reposts": 2,
+        "quotes": 1,
+        "shares": 4
+      },
+      "engagement": 20
     },
     {
       "id": "18112919498181859",
@@ -85,7 +85,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Ddb0QQJIBqM",
       "timestamp": "2026-09-18T16:01:46+0000",
       "metrics": {
-        "views": 141,
+        "views": 143,
         "likes": 5,
         "replies": 1,
         "reposts": 0,
@@ -102,12 +102,12 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dddo1rljqvJ",
       "timestamp": "2026-09-19T08:59:57+0000",
       "metrics": {
-        "views": 286,
+        "views": 304,
         "likes": 17,
         "replies": 0,
         "reposts": 2,
         "quotes": 1,
-        "shares": 2
+        "shares": 4
       },
       "engagement": 20
     },
@@ -117,14 +117,14 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DddhhTnCTTT",
       "timestamp": "2026-09-19T07:56:00+0000",
       "metrics": {
-        "views": 413,
-        "likes": 9,
+        "views": 613,
+        "likes": 14,
         "replies": 8,
-        "reposts": 1,
+        "reposts": 2,
         "quotes": 0,
-        "shares": 3
+        "shares": 4
       },
-      "engagement": 18
+      "engagement": 24
     },
     {
       "id": "18104376493957691",
@@ -132,7 +132,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DddgZa5iWNr",
       "timestamp": "2026-09-19T07:46:11+0000",
       "metrics": {
-        "views": 118,
+        "views": 120,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -147,7 +147,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DddgEzSCSFK",
       "timestamp": "2026-09-19T07:43:23+0000",
       "metrics": {
-        "views": 121,
+        "views": 122,
         "likes": 3,
         "replies": 0,
         "reposts": 0,
@@ -162,7 +162,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Ddb0QQJIBqM",
       "timestamp": "2026-09-18T16:01:46+0000",
       "metrics": {
-        "views": 141,
+        "views": 143,
         "likes": 5,
         "replies": 1,
         "reposts": 0,
