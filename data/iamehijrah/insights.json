@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-09-20T19:33:44.563Z",
+  "updated_at": "2026-09-20T22:33:06.007Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=U_yDd-tduVsQ7kNvwH2WUb5&_nc_oc=AdopXTwkwTna407xDSvtznjMfCWi2nLFw80ZXydMBjiYZYl628ml8LuxjAPVhuuY7zM&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=Nru9dD1X4_XifzBHt2Q_YQ&_nc_tpa=Q5bMBQIPiwPd-6_bqkX7757Loz9SjP7hvHuiy8qQzkT4-Ao_vVk6ZdoCZhEGRibSZwfvWwuUbdvJHyHlAA&oh=00_AQKkwBXZrZF1YSB8_671QKzjhBvMUQhSb1KRImAnOc-FEg&oe=6AB61893"
+    "picture": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=U_yDd-tduVsQ7kNvwFyeJAt&_nc_oc=Adqj3QPp71x2fJ5k-_eNz8P-9_8gOrKgWIrqW9YyGFFPkx5VMNhEhOBbjOjIXoQ8NTg&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=FAlEpG-nldItRXiuW1fa5A&_nc_tpa=Q5bMBQJnaHWIZY1a_vTEzCNYR77-m2wikZ6eFiDf7qLKCDxnTuYK3BqsOGzB3qbf_CJvK9V3h7c1Q5-20g&oh=00_AQL4-nXnOEcI16WxVggNsHHbGHFHta14nZn_k9NlFATxIw&oe=6AB61893"
   },
   "summary": {
     "followers_count": 4,
-    "views": 131,
-    "likes": 0,
+    "views": 230,
+    "likes": 2,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 112,
-    "engagement_rate": 85.5,
+    "engagement_total": 113,
+    "engagement_rate": 49.13,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -25,7 +25,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DddhhTnCTTT",
       "timestamp": "2026-09-19T07:56:00+0000",
       "metrics": {
-        "views": 1537,
+        "views": 1538,
         "likes": 19,
         "replies": 9,
         "reposts": 2,
@@ -97,6 +97,21 @@
   ],
   "recent_posts": [
     {
+      "id": "18104802539214338",
+      "text": "4 cara aku \"balik lagi\" lewat istighfar — yang ke-3 paling sering dilupain:\n1. Istighfar pagi setelah subuh — buka hari ",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdhnAIigWee",
+      "timestamp": "2026-09-20T22:01:25+0000",
+      "metrics": {
+        "views": 99,
+        "likes": 2,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 2
+    },
+    {
       "id": "18114695554800920",
       "text": "Ajaran Nenek yang sampai sekarang aku pakai(kalau ga lupa 🙏). Menurut Nenek yang guru ngaji kampung, doa itu punya stru",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dddo1rljqvJ",
@@ -117,7 +132,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DddhhTnCTTT",
       "timestamp": "2026-09-19T07:56:00+0000",
       "metrics": {
-        "views": 1537,
+        "views": 1538,
         "likes": 19,
         "replies": 9,
         "reposts": 2,
@@ -230,21 +245,6 @@
         "shares": 2
       },
       "engagement": 16
-    },
-    {
-      "id": "17983282653117186",
-      "text": "Dzikir di jalan tapi tasbih ketinggalan — lagi?\nAku relate banget. Sekarang aku pakai cincin tasbih, tinggal putar pelan",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdasGipGwn4",
-      "timestamp": "2026-09-18T05:31:17+0000",
-      "metrics": {
-        "views": 1,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
     }
   ]
 }
