@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-09-21T06:30:42.203Z",
+  "updated_at": "2026-09-21T14:19:06.545Z",
   "profile": {
     "username": "iams_ichi",
     "name": "iams",
     "biography": "🇦🇺\n🧠Psi +🧳Travel\nIt’s about the vibe and the feeling. \nThe names of the places? \nI sometimes forget\n✉️ cmo@coa.au",
-    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=pFFtYB89QOQQ7kNvwGaqNXk&_nc_oc=Adoa1-NxruF17i-kGbETuWB7yvtTGoCYeINwZBHFRGYRkPO4izVxtU2Fu72-yAnNHx0&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=363O_lwIEZx3d9dLn8zz4w&_nc_tpa=Q5bMBQKo5mI6CvIZ26ZDCrITTS8j2wPmbiRTeweQWxdpPadErYszW0A3KDB5L_UrWwQiAw_oV33MFgjoew&oh=00_AQLixUhCNhnLmQzvIOOaGf-HkZvXDclRzUwlJlkijF7kJw&oe=6AB6979E"
+    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=pFFtYB89QOQQ7kNvwHQyFGr&_nc_oc=Adp-O4nqZvDMmpHiTB_m7Q5aAZ8UKBu9Q1FtQLyIL1ysEhxkat6Aa6ZvxGzvMy86Elk&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=maIrHH53Lw2tKyvRxnBvng&_nc_tpa=Q5bMBQISwZMRXvNPVsdd4lblsNjK2vK9j0EO8cTqf0_7kn6lyGTBT_wJrqD9vgRmOmbyVM7Pv81NFCPNSA&oh=00_AQIbSa4cVrHfnoJC5_IlQViPrQt6jJ2IfBVxrXC5EXmwgg&oe=6AB7081E"
   },
   "summary": {
     "followers_count": 1363,
-    "views": 1535,
-    "likes": 7,
-    "replies": 1,
-    "reposts": 0,
+    "views": 423,
+    "likes": 1,
+    "replies": 0,
+    "reposts": 1,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 81,
-    "engagement_rate": 5.28,
+    "engagement_total": 80,
+    "engagement_rate": 18.91,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -37,12 +37,27 @@
       "engagement": 45
     },
     {
+      "id": "18133784857631219",
+      "text": "Unpopular opinion: Tokyo itu justru paling enak dinikmati tanpa itinerary.\nBukan karena spontan itu keren — tapi karena ",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DdiCceem4Av",
+      "timestamp": "2026-09-21T02:01:12+0000",
+      "metrics": {
+        "views": 368,
+        "likes": 4,
+        "replies": 1,
+        "reposts": 1,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 6
+    },
+    {
       "id": "18131660659779323",
       "text": "Japan is great to visit — living there as a gaijin(as entreprenur) is a different story entirely. \n\nMy stepdad (Aussie, ",
       "permalink": "https://www.threads.com/@iams_ichi/post/DdfHCrFE5rS",
       "timestamp": "2026-09-19T22:43:07+0000",
       "metrics": {
-        "views": 1070,
+        "views": 1071,
         "likes": 3,
         "replies": 2,
         "reposts": 0,
@@ -67,21 +82,6 @@
       "engagement": 5
     },
     {
-      "id": "18133784857631219",
-      "text": "Unpopular opinion: Tokyo itu justru paling enak dinikmati tanpa itinerary.\nBukan karena spontan itu keren — tapi karena ",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DdiCceem4Av",
-      "timestamp": "2026-09-21T02:01:12+0000",
-      "metrics": {
-        "views": 349,
-        "likes": 3,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 4
-    },
-    {
       "id": "18113627798326388",
       "text": "My step Dad(Ausie) said: \" Visiting Japan as a tourist is awesome, but trying to live in Japan as a gaijin is too hard \"",
       "permalink": "https://www.threads.com/@iams_ichi/post/Ddf5mv8ibhw",
@@ -99,12 +99,87 @@
   ],
   "recent_posts": [
     {
+      "id": "18559528855077398",
+      "text": "Di Hokkaido ada kawasan yang keliatan biasa dari luar — tapi begitu masuk gang belakangnya, beda banget vibenya.\nAku per",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DdjU2-YlGD1",
+      "timestamp": "2026-09-21T14:01:20+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "17958170511214024",
+      "text": "Dulu buka koper tuh kayak buka kotak misteri — baju mana, charger mana, isi kepala makin chaos.\nSekarang tiap kategori a",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DdjHLwbIAYl",
+      "timestamp": "2026-09-21T12:01:51+0000",
+      "metrics": {
+        "views": 1,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
+      "id": "18337347109255230",
+      "text": "The Rocks itu kawasan yang keliatan \"touristy\" dari luar — tapi kalau lo muter ke gang-gang kecil di baliknya, vibenya b",
+      "permalink": "https://www.threads.com/@iams_ichi/post/Ddi5YorllRr",
+      "timestamp": "2026-09-21T10:01:16+0000",
+      "metrics": {
+        "views": 3,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "18626503954005928",
+      "text": "Arrawarra Headland is odd in September — the air smells like a controlled burn before you even see the smoke(all night u",
+      "permalink": "https://www.threads.com/@iams_ichi/post/Ddi2GmzGhYj",
+      "timestamp": "2026-09-21T09:32:04+0000",
+      "metrics": {
+        "views": 163,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "18116004547949229",
+      "text": "Yang ga ada di itinerary mana pun: pas sakura peak bloom, orang Jepang yang biasanya super tertib di eskalator — tiba-ti",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DdirpXQli7j",
+      "timestamp": "2026-09-21T08:01:14+0000",
+      "metrics": {
+        "views": 189,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "18060146294716330",
       "text": "Di Paris aku pernah makan malam di tempat yang gelas airnya aja udah lebih fancy dari outfit aku.\nBesok siangnya beli ba",
       "permalink": "https://www.threads.com/@iams_ichi/post/Ddid6WBnLzI",
       "timestamp": "2026-09-21T06:01:12+0000",
       "metrics": {
-        "views": 4,
+        "views": 95,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -134,14 +209,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DdiCceem4Av",
       "timestamp": "2026-09-21T02:01:12+0000",
       "metrics": {
-        "views": 349,
-        "likes": 3,
+        "views": 368,
+        "likes": 4,
         "replies": 1,
-        "reposts": 0,
+        "reposts": 1,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 4
+      "engagement": 6
     },
     {
       "id": "18164740084469863",
@@ -149,7 +224,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DdhxQ5bGt3t",
       "timestamp": "2026-09-20T23:31:04+0000",
       "metrics": {
-        "views": 139,
+        "views": 146,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -172,81 +247,6 @@
         "shares": 0
       },
       "engagement": 0
-    },
-    {
-      "id": "18113627798326388",
-      "text": "My step Dad(Ausie) said: \" Visiting Japan as a tourist is awesome, but trying to live in Japan as a gaijin is too hard \"",
-      "permalink": "https://www.threads.com/@iams_ichi/post/Ddf5mv8ibhw",
-      "timestamp": "2026-09-20T06:04:57+0000",
-      "metrics": {
-        "views": 143,
-        "likes": 2,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 3
-    },
-    {
-      "id": "17878108578546964",
-      "text": "Australia is expensive — $40K here buys you a 2000s caravan, wheels and all.\n\nThat same money in Japan gets you a furnis",
-      "permalink": "https://www.threads.com/@iams_ichi/post/Ddfe4kfk0bg",
-      "timestamp": "2026-09-20T02:11:27+0000",
-      "metrics": {
-        "views": 241,
-        "likes": 2,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 3
-    },
-    {
-      "id": "18131660659779323",
-      "text": "Japan is great to visit — living there as a gaijin(as entreprenur) is a different story entirely. \n\nMy stepdad (Aussie, ",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DdfHCrFE5rS",
-      "timestamp": "2026-09-19T22:43:07+0000",
-      "metrics": {
-        "views": 1070,
-        "likes": 3,
-        "replies": 2,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 5
-    },
-    {
-      "id": "18019319123949209",
-      "text": "NSW's burn-off season(Fuel Reduction?) has a smell —\nnot campfire-cozy, more like the bush is being managed from a dista",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DddmXeOGrjQ",
-      "timestamp": "2026-09-19T08:38:21+0000",
-      "metrics": {
-        "views": 185,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18055619336590886",
-      "text": "Rumah di Australia(di Queensland) biasanya handle pintu kamar tidurnya bulet tidak pakai kunci. Ada yang bisa di kunci d",
-      "permalink": "https://www.threads.com/@iams_ichi/post/Dddfdl6Gtf7",
-      "timestamp": "2026-09-19T07:38:01+0000",
-      "metrics": {
-        "views": 550,
-        "likes": 0,
-        "replies": 3,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 3
     }
   ]
 }
