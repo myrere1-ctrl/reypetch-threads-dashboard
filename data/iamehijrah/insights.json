@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-09-21T19:37:05.605Z",
+  "updated_at": "2026-09-21T23:23:07.145Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=avb-4_OYAasQ7kNvwEQXtRC&_nc_oc=AdoxNXJReZJP-F0q3jHjPGzXUITATEo6UMZgxi9ntHlEksm9sotwp2mRn1n5LzxXgoc&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=a8BGEuRVMYJoHNut3lXT1g&_nc_tpa=Q5bMBQIMePKeAjreGzcSxVx4qe4zKtqDlXA3xVTebduwMn7ZSf7KJofuUIVK-hTX2zPOgM0LTHFa2p0qrg&oh=00_AQL5BQHmzUeaeu7PXqeTGt-SvoNdPFYnFCrB6npbzffmJA&oe=6AB76A13"
+    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=avb-4_OYAasQ7kNvwHGj5Vv&_nc_oc=AdqLTqcZxwSz2k8ADW5ZuqpjaLHRnNxKNuq6um4kGFmDl4cnvOHj2q_cMm9cI4ztGc0&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=W6BdEMA8_qM35rL0Ts_N6A&_nc_tpa=Q5bMBQJOgFtX1jAZ_hr3EOvBSYo2IDLDhFV25RFz04svmKc1p1068tiuVSYjpdvU8034siy2_oEZuHJ6SQ&oh=00_AQIpGGlGUISauZLTP8xudvK63w0vO95h5-7O4rldaTPDBw&oe=6AB7A253"
   },
   "summary": {
     "followers_count": 4,
-    "views": 428,
+    "views": 477,
     "likes": 19,
     "replies": 0,
     "reposts": 1,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 124,
-    "engagement_rate": 28.97,
+    "engagement_total": 122,
+    "engagement_rate": 25.58,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -70,7 +70,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DdivGoSlWbT",
       "timestamp": "2026-09-21T08:31:26+0000",
       "metrics": {
-        "views": 266,
+        "views": 270,
         "likes": 14,
         "replies": 0,
         "reposts": 1,
@@ -96,6 +96,21 @@
     }
   ],
   "recent_posts": [
+    {
+      "id": "18023437538920366",
+      "text": "Tau ga, sholawat itu ternyata bukan cuma \"pelengkap\" dzikir — aku baru nyadar belakangan ini.\nDulu aku baca sholawat cum",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdkLzn1jxlb",
+      "timestamp": "2026-09-21T22:01:30+0000",
+      "metrics": {
+        "views": 43,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
     {
       "id": "17902636059583381",
       "text": "Unpopular opinion: doa yang \"lama\" dikabulkan itu bukan tanda Allah lupa — itu tanda Dia masih dengerin.\nAku pernah nger",
@@ -162,7 +177,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DdivGoSlWbT",
       "timestamp": "2026-09-21T08:31:26+0000",
       "metrics": {
-        "views": 266,
+        "views": 270,
         "likes": 14,
         "replies": 0,
         "reposts": 1,
@@ -230,21 +245,6 @@
         "shares": 4
       },
       "engagement": 23
-    },
-    {
-      "id": "17894175477672950",
-      "text": "5 Dzikir Singkat yang Dibaca Para Ulama Sebelum Tidur — Terbukti Bikin Impian Lebih \"Terarah\"\n\n1/ Kamu tidur 7-8 jam seh",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DddhhTnCTTT",
-      "timestamp": "2026-09-19T07:56:00+0000",
-      "metrics": {
-        "views": 1543,
-        "likes": 19,
-        "replies": 9,
-        "reposts": 2,
-        "quotes": 0,
-        "shares": 10
-      },
-      "engagement": 30
     }
   ]
 }
