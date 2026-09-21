@@ -1,22 +1,22 @@
 {
   "account": "rrpetch",
-  "updated_at": "2026-09-21T19:36:31.169Z",
+  "updated_at": "2026-09-21T23:22:38.250Z",
   "profile": {
     "username": "rrpetch",
     "name": "rrp",
     "biography": "🇦🇺+🇮🇩= Me",
-    "picture": "https://scontent-dfw5-1.cdninstagram.com/v/t51.82787-19/787903758_18124679617780392_3585522233816659706_n.jpg?_nc_cat=105&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=2K84q9aDFxAQ7kNvwGr1QiJ&_nc_oc=AdqJuw_ohc1cxceRdNzNWqj_GfMwk_uWPQrq42Uh527HGJhawAWSBh_ST-xqQGKKTB4&_nc_zt=24&_nc_ht=scontent-dfw5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=QnfGp2jD7rjS0PqbsY1MqA&_nc_tpa=Q5bMBQKoewUmtb6FpqXhnFx48Um9xfJ_sUtDNMKfAm8b-bpi4v8pJx6J-lMibIGOQb_oGDCa5jmUUez52A&oh=00_AQIqFyY2QkzwbR8aHmO0SC-Vz4QOcBb_37L2CpM_RhtHUA&oe=6AB742ED"
+    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/787903758_18124679617780392_3585522233816659706_n.jpg?_nc_cat=105&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=2K84q9aDFxAQ7kNvwH6Mcte&_nc_oc=AdrhbBDl2VZ0QX8wHqZLqE35RKulYsOBlwD68u5rvCdC4ZjlOaGdT8ySYpVM0SB-2_8&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=JhgwV67EXJ45qLXJ0lFvxw&_nc_tpa=Q5bMBQID48k9Bft03YMUP5argZJkhcUUCn8W5OUz4blNLZLUvAhtlyqsxIZZszBz6nZzhU-RZyFYStVyCQ&oh=00_AQK0sJH2aqb4eW8IDmXuyS-GKZ7x78L432jz-zCpvDKpeQ&oe=6AB77B2D"
   },
   "summary": {
     "followers_count": 0,
-    "views": 11532,
-    "likes": 13,
-    "replies": 87,
+    "views": 14904,
+    "likes": 17,
+    "replies": 104,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 131,
-    "engagement_rate": 1.14,
+    "engagement_total": 151,
+    "engagement_rate": 1.01,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -27,14 +27,14 @@
       "permalink": "https://www.threads.com/@rrpetch/post/DdiSWIXk8I4",
       "timestamp": "2026-09-21T04:19:37+0000",
       "metrics": {
-        "views": 12337,
-        "likes": 13,
-        "replies": 116,
+        "views": 15074,
+        "likes": 17,
+        "replies": 132,
         "reposts": 0,
         "quotes": 0,
-        "shares": 0
+        "shares": 1
       },
-      "engagement": 129
+      "engagement": 149
     },
     {
       "id": "18090737858371082",
@@ -42,7 +42,7 @@
       "permalink": "https://www.threads.com/@rrpetch/post/DdimViWE89k",
       "timestamp": "2026-09-21T07:14:18+0000",
       "metrics": {
-        "views": 385,
+        "views": 445,
         "likes": 2,
         "replies": 0,
         "reposts": 0,
@@ -57,7 +57,7 @@
       "permalink": "https://www.threads.com/@rrpetch/post/DbvPVdolMZ5",
       "timestamp": "2026-08-07T12:01:11+0000",
       "metrics": {
-        "views": 254,
+        "views": 286,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -72,7 +72,7 @@
       "permalink": "https://www.threads.com/@rrpetch/post/DbvBm5GFhgG",
       "timestamp": "2026-08-07T10:01:14+0000",
       "metrics": {
-        "views": 166,
+        "views": 191,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -87,7 +87,7 @@
       "permalink": "https://www.threads.com/@rrpetch/post/Dbuz4gxFoE0",
       "timestamp": "2026-08-07T08:01:18+0000",
       "metrics": {
-        "views": 122,
+        "views": 143,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -104,7 +104,7 @@
       "permalink": "https://www.threads.com/@rrpetch/post/DdimViWE89k",
       "timestamp": "2026-09-21T07:14:18+0000",
       "metrics": {
-        "views": 385,
+        "views": 445,
         "likes": 2,
         "replies": 0,
         "reposts": 0,
@@ -119,14 +119,14 @@
       "permalink": "https://www.threads.com/@rrpetch/post/DdiSWIXk8I4",
       "timestamp": "2026-09-21T04:19:37+0000",
       "metrics": {
-        "views": 12337,
-        "likes": 13,
-        "replies": 116,
+        "views": 15074,
+        "likes": 17,
+        "replies": 132,
         "reposts": 0,
         "quotes": 0,
-        "shares": 0
+        "shares": 1
       },
-      "engagement": 129
+      "engagement": 149
     },
     {
       "id": "17865244566643643",
@@ -134,7 +134,7 @@
       "permalink": "https://www.threads.com/@rrpetch/post/DbvPVdolMZ5",
       "timestamp": "2026-08-07T12:01:11+0000",
       "metrics": {
-        "views": 254,
+        "views": 286,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -149,7 +149,7 @@
       "permalink": "https://www.threads.com/@rrpetch/post/DbvBm5GFhgG",
       "timestamp": "2026-08-07T10:01:14+0000",
       "metrics": {
-        "views": 166,
+        "views": 191,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -164,7 +164,7 @@
       "permalink": "https://www.threads.com/@rrpetch/post/Dbuz4gxFoE0",
       "timestamp": "2026-08-07T08:01:18+0000",
       "metrics": {
-        "views": 122,
+        "views": 143,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -179,7 +179,7 @@
       "permalink": "https://www.threads.com/@rrpetch/post/DbufRnvFrKl",
       "timestamp": "2026-08-07T05:01:14+0000",
       "metrics": {
-        "views": 80,
+        "views": 96,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -194,7 +194,7 @@
       "permalink": "https://www.threads.com/@rrpetch/post/DbuU9RNGwsF",
       "timestamp": "2026-08-07T03:31:04+0000",
       "metrics": {
-        "views": 56,
+        "views": 69,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -209,7 +209,7 @@
       "permalink": "https://www.threads.com/@rrpetch/post/DbuKrXfGrmQ",
       "timestamp": "2026-08-07T02:01:14+0000",
       "metrics": {
-        "views": 45,
+        "views": 56,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -224,7 +224,7 @@
       "permalink": "https://www.threads.com/@rrpetch/post/Dbt2EJdFkuy",
       "timestamp": "2026-08-06T23:01:07+0000",
       "metrics": {
-        "views": 32,
+        "views": 40,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -239,7 +239,7 @@
       "permalink": "https://www.threads.com/@rrpetch/post/Dbs4SgzoKP7",
       "timestamp": "2026-08-06T14:01:20+0000",
       "metrics": {
-        "views": 31,
+        "views": 37,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
