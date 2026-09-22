@@ -1,22 +1,22 @@
 {
   "account": "rrpetch",
-  "updated_at": "2026-09-22T15:01:41.388Z",
+  "updated_at": "2026-09-22T18:59:50.784Z",
   "profile": {
     "username": "rrpetch",
     "name": "rrp",
     "biography": "🇦🇺+🇮🇩= Me",
-    "picture": "https://scontent-dfw5-1.cdninstagram.com/v/t51.82787-19/787903758_18124679617780392_3585522233816659706_n.jpg?_nc_cat=105&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=3Z6BkIAkRxsQ7kNvwG4dvGN&_nc_oc=AdoxjuLUnLRiAi8R1PiOpbIgcGBse7p5y5AA6PgTzkQJMeuBZcgv1RzAdUwoZq9DhGw&_nc_zt=24&_nc_ht=scontent-dfw5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=1SXkmn6ZERxY5fR_iazELQ&_nc_tpa=Q5bMBQLGlcl3vwIGPRZDTlrKqilZUzAQ-vUA3qvFr6YPEC4WvX_wqYsKWcXBOcME9BW-C7uZZQEhDY7PbA&oh=00_AQJQv9bZDq8X1eB1Y707CgJh4xeLdD5aLrtquk7O_979WQ&oe=6AB85C2D"
+    "picture": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/787903758_18124679617780392_3585522233816659706_n.jpg?_nc_cat=105&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=3Z6BkIAkRxsQ7kNvwGMO9Lr&_nc_oc=AdrR9wJs3gU83rivWovrCrXbux53k1tS-uF0uY9X6BYnc_MyH8MUvTITp7sMr4oF4UY&_nc_zt=24&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=BLAqR7icsFwnAKGHE-ZHYA&_nc_tpa=Q5bMBQIbpocWw51k0F20rIxx8zjstM-LMKDrWBQqSj-8rbJlUD49foM6t2e0FE0qu_83nZyF44VwpZGphQ&oh=00_AQLfy9iD5Soen1u47n8sO2cLbbQ8cQqgx9HUOxW0IADlDA&oe=6AB8946D"
   },
   "summary": {
     "followers_count": 1,
-    "views": 774,
+    "views": 1228,
     "likes": 0,
-    "replies": 11,
+    "replies": 12,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 208,
-    "engagement_rate": 26.87,
+    "engagement_total": 209,
+    "engagement_rate": 17.02,
     "curiosity_score": null,
     "post_count": 4
   },
@@ -27,14 +27,14 @@
       "permalink": "https://www.threads.com/@rrpetch/post/DdiSWIXk8I4",
       "timestamp": "2026-09-21T04:19:37+0000",
       "metrics": {
-        "views": 20747,
+        "views": 21230,
         "likes": 22,
-        "replies": 181,
+        "replies": 182,
         "reposts": 1,
         "quotes": 1,
         "shares": 1
       },
-      "engagement": 205
+      "engagement": 206
     },
     {
       "id": "18090737858371082",
@@ -42,7 +42,7 @@
       "permalink": "https://www.threads.com/@rrpetch/post/DdimViWE89k",
       "timestamp": "2026-09-21T07:14:18+0000",
       "metrics": {
-        "views": 563,
+        "views": 566,
         "likes": 2,
         "replies": 0,
         "reposts": 0,
@@ -57,7 +57,7 @@
       "permalink": "https://www.threads.com/@rrpetch/post/Ddkudqmk-pT",
       "timestamp": "2026-09-22T03:03:47+0000",
       "metrics": {
-        "views": 75,
+        "views": 80,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -72,7 +72,7 @@
       "permalink": "https://www.threads.com/@rrpetch/post/Ddk92qDE6xM",
       "timestamp": "2026-09-22T05:18:16+0000",
       "metrics": {
-        "views": 98,
+        "views": 103,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -89,7 +89,7 @@
       "permalink": "https://www.threads.com/@rrpetch/post/Ddk92qDE6xM",
       "timestamp": "2026-09-22T05:18:16+0000",
       "metrics": {
-        "views": 98,
+        "views": 103,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -104,7 +104,7 @@
       "permalink": "https://www.threads.com/@rrpetch/post/Ddkudqmk-pT",
       "timestamp": "2026-09-22T03:03:47+0000",
       "metrics": {
-        "views": 75,
+        "views": 80,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -119,7 +119,7 @@
       "permalink": "https://www.threads.com/@rrpetch/post/DdimViWE89k",
       "timestamp": "2026-09-21T07:14:18+0000",
       "metrics": {
-        "views": 563,
+        "views": 566,
         "likes": 2,
         "replies": 0,
         "reposts": 0,
@@ -134,14 +134,14 @@
       "permalink": "https://www.threads.com/@rrpetch/post/DdiSWIXk8I4",
       "timestamp": "2026-09-21T04:19:37+0000",
       "metrics": {
-        "views": 20747,
+        "views": 21230,
         "likes": 22,
-        "replies": 181,
+        "replies": 182,
         "reposts": 1,
         "quotes": 1,
         "shares": 1
       },
-      "engagement": 205
+      "engagement": 206
     }
   ]
 }
