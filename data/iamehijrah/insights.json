@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-09-22T15:02:13.557Z",
+  "updated_at": "2026-09-22T19:00:19.773Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=avb-4_OYAasQ7kNvwF76akV&_nc_oc=Ado455E8ydzcVsItLthXDY_UCSJGJf8axGnGRx6SQE8NRczlFQV-UyCyHJemUCwhvQA&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=KI7rvxWGA0SRZfwiJKSbWg&_nc_tpa=Q5bMBQJckkjVO3nBVQCgs3lHyPf_nAbQ9VfJbRwOa0onpAvtuxHCQOfhVa8SLjTnygvWLEhnRW2uJr2Lfw&oh=00_AQLm3GjBWSH7xFWlBNS2AhWxgIPFrpNYq_Y8op4KCp_M6Q&oe=6AB88353"
+    "picture": "https://scontent-atl3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=avb-4_OYAasQ7kNvwHZRHZ8&_nc_oc=AdrFtYygtvkHO1WLBAcNM2pvPoXIayTTsS6jrJtsj76qJNgSBnoaMGgVwGs8-qdtLkc&_nc_zt=24&_nc_ht=scontent-atl3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=ymFd-4cSkZonV8ylq7Ibrg&_nc_tpa=Q5bMBQLafV7Pt_KPRtxDmQ5IpAX68O2yN3-CrmQXw2zyS8ZJ4Tklb0s3UxRcZBXerwqVAZ2JbQr1i-S7Ww&oh=00_AQLds1xb_-SukVOyYsIJfFkQFaA-1Q5PupAGk5yAlC4fBg&oe=6AB8BB93"
   },
   "summary": {
     "followers_count": 4,
-    "views": 197,
-    "likes": 0,
+    "views": 255,
+    "likes": 3,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 124,
-    "engagement_rate": 62.94,
+    "engagement_total": 125,
+    "engagement_rate": 49.02,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -97,12 +97,12 @@
   ],
   "recent_posts": [
     {
-      "id": "18353760568168387",
-      "text": "Jarang yang ngerasa ikhlas itu ternyata bisa dilatih?\nAku baru tau dari Surah Al-Kahfi — baca rutin setiap Jumat, bukan ",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Ddl9GPDoDP8",
-      "timestamp": "2026-09-22T14:31:27+0000",
+      "id": "17924895261422443",
+      "text": "Unpopular opinion: muhasabah itu bukan soal ngitung dosa — tapi soal jujur sama diri sendiri.\nAku dulu kira muhasabah it",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdmHZpVlvow",
+      "timestamp": "2026-09-22T16:01:29+0000",
       "metrics": {
-        "views": 0,
+        "views": 12,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -110,6 +110,21 @@
         "shares": 0
       },
       "engagement": 1
+    },
+    {
+      "id": "18353760568168387",
+      "text": "Jarang yang ngerasa ikhlas itu ternyata bisa dilatih?\nAku baru tau dari Surah Al-Kahfi — baca rutin setiap Jumat, bukan ",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Ddl9GPDoDP8",
+      "timestamp": "2026-09-22T14:31:27+0000",
+      "metrics": {
+        "views": 126,
+        "likes": 2,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 2
     },
     {
       "id": "17866860105660845",
@@ -230,21 +245,6 @@
         "shares": 0
       },
       "engagement": 1
-    },
-    {
-      "id": "18129714646784967",
-      "text": "Ternyata kain ihram itu bukan sekadar \"pakaian di sana\" — persiapannya dari sini juga bagian dari niatnya.\nAku sempet an",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdjOAuCEe6z",
-      "timestamp": "2026-09-21T13:01:31+0000",
-      "metrics": {
-        "views": 29,
-        "likes": 1,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 2
     }
   ]
 }
