@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-09-22T15:01:22.179Z",
+  "updated_at": "2026-09-22T18:59:32.307Z",
   "profile": {
     "username": "iams_ichi",
     "name": "iams",
     "biography": "🇦🇺\n🧠Psi +🧳Travel\nIt’s about the vibe and the feeling. \nThe names of the places? \nI sometimes forget ........\n✉️ cmo@coa.au",
-    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=Y8NqhvcREFgQ7kNvwGsOhUr&_nc_oc=AdrDEU-2qb-ZL3KnXKKkac-B5bT2dlKaeQHfTJXjNWAzH8deIRmV-fAlelCnDz8Qzns&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=BTZg27Dmfaveur5HrLX8-A&_nc_tpa=Q5bMBQICIc6ik9q2NMuFVyRET802ts1dnSSR5wvNN8hNaqSntgkLk0CLjzZWPsdGSB3ufSFkhVl0fQhNvQ&oh=00_AQIWAN3EfrOGmQh3nHxVjmPSD6lgJXlcqs95ekjR06wiUg&oe=6AB8599E"
+    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=Y8NqhvcREFgQ7kNvwGCwxV7&_nc_oc=AdpD4i_j7XFDLoUfDjtcqeRwowXyOAirbcHDRiEaKQNqcA353sIT-8tyvDXq3-TrUHQ&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=0lsdgeMu7Yv0Mv-x2vvq-w&_nc_tpa=Q5bMBQLFGJ3jgBjOHHep5bmPWSCszML-RdJA06DdCG4RLseA_ddrgeSVIpapX1eTVgAimXMarMGzUO4eoA&oh=00_AQJgnbnxh4IP7hLyXuACpYOeuIiAXwuZUYado1yvGoQUOA&oe=6AB891DE"
   },
   "summary": {
     "followers_count": 1364,
-    "views": 63,
-    "likes": 0,
+    "views": 89,
+    "likes": 1,
     "replies": 1,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 26,
-    "engagement_rate": 41.27,
+    "engagement_total": 27,
+    "engagement_rate": 30.34,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -52,27 +52,27 @@
       "engagement": 5
     },
     {
+      "id": "17878108578546964",
+      "text": "Australia is expensive — $40K here buys you a 2000s caravan, wheels and all.\n\nThat same money in Japan gets you a furnis",
+      "permalink": "https://www.threads.com/@iams_ichi/post/Ddfe4kfk0bg",
+      "timestamp": "2026-09-20T02:11:27+0000",
+      "metrics": {
+        "views": 244,
+        "likes": 3,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 4
+    },
+    {
       "id": "18113627798326388",
       "text": "My step Dad(Ausie) said: \" Visiting Japan as a tourist is awesome, but trying to live in Japan as a gaijin is too hard \"",
       "permalink": "https://www.threads.com/@iams_ichi/post/Ddf5mv8ibhw",
       "timestamp": "2026-09-20T06:04:57+0000",
       "metrics": {
         "views": 144,
-        "likes": 2,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 3
-    },
-    {
-      "id": "17878108578546964",
-      "text": "Australia is expensive — $40K here buys you a 2000s caravan, wheels and all.\n\nThat same money in Japan gets you a furnis",
-      "permalink": "https://www.threads.com/@iams_ichi/post/Ddfe4kfk0bg",
-      "timestamp": "2026-09-20T02:11:27+0000",
-      "metrics": {
-        "views": 242,
         "likes": 2,
         "replies": 1,
         "reposts": 0,
@@ -209,7 +209,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DdknP1rEV1U",
       "timestamp": "2026-09-22T02:01:17+0000",
       "metrics": {
-        "views": 66,
+        "views": 67,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
