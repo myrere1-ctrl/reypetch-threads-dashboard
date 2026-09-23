@@ -1,24 +1,24 @@
 {
   "account": "rrpetch",
-  "updated_at": "2026-09-23T06:05:41.489Z",
+  "updated_at": "2026-09-23T11:49:45.018Z",
   "profile": {
     "username": "rrpetch",
     "name": "rrp",
     "biography": "🇦🇺\nEveryone sees things differently—\nit's not a matter of right or wrong. \nSocial media a free forum 😉",
-    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/787903758_18124679617780392_3585522233816659706_n.jpg?_nc_cat=105&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=3Z6BkIAkRxsQ7kNvwHDHA6X&_nc_oc=AdoYT4NVe_hHkQoF1XQYwRa53lOAC4j0PP8CUaCvGqrmRYWG_v1trV_Av_p2qZSOTg0&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=D2tEVMsE3El_-VmCMh4foQ&_nc_tpa=Q5bMBQJ7rhWL0-MH8Lg4mrinriJ8qxALC09a0RrybPQF3EXhjQ6oo66vQSD_0fagKR4HO-DvMVcBU8rSKA&oh=00_AQKznCerxi8UEy3J3Lbnbd-xjBTj1g-meypzVGC4H845Og&oe=6AB93D2D"
+    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/787903758_18124679617780392_3585522233816659706_n.jpg?_nc_cat=105&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=3Z6BkIAkRxsQ7kNvwFzM_oR&_nc_oc=AdqrYsk38W3kbg1KbRYWB45zOWoNx0Gj97B0sBCWwHUjFpFbzPbF4pBTy54L2TTYFIE&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=nWLDd9lQ3lsDU2rY0CLxGQ&_nc_tpa=Q5bMBQLJWsBStf8Sz8-IIYuYGaH8GnIJZpgaiokrUPu7eSX3JA0JYldSBXMVZLtmTK2fts3_MhFm4i50XA&oh=00_AQJf0yxMp-y7OyUmb-PHqvuaQ0XXrl2JXcfEqzxTEBTFhQ&oe=6AB9756D"
   },
   "summary": {
     "followers_count": 1,
-    "views": 2914,
-    "likes": 3,
-    "replies": 24,
+    "views": 75,
+    "likes": 0,
+    "replies": 1,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 223,
-    "engagement_rate": 7.65,
+    "engagement_total": 225,
+    "engagement_rate": 300,
     "curiosity_score": null,
-    "post_count": 6
+    "post_count": 7
   },
   "top_posts": [
     {
@@ -27,14 +27,14 @@
       "permalink": "https://www.threads.com/@rrpetch/post/DdiSWIXk8I4",
       "timestamp": "2026-09-21T04:19:37+0000",
       "metrics": {
-        "views": 22767,
+        "views": 22815,
         "likes": 25,
-        "replies": 191,
+        "replies": 193,
         "reposts": 1,
         "quotes": 1,
         "shares": 1
       },
-      "engagement": 218
+      "engagement": 220
     },
     {
       "id": "18085641833298013",
@@ -42,7 +42,7 @@
       "permalink": "https://www.threads.com/@rrpetch/post/Ddk92qDE6xM",
       "timestamp": "2026-09-22T05:18:16+0000",
       "metrics": {
-        "views": 121,
+        "views": 122,
         "likes": 0,
         "replies": 2,
         "reposts": 0,
@@ -82,12 +82,12 @@
       "engagement": 1
     },
     {
-      "id": "17958898098214479",
-      "text": "Social media is only gets heavy\n\nDon't like a post? Scroll past. Don't like a comment? Leave it alone.\n\nNot about having",
-      "permalink": "https://www.threads.com/@rrpetch/post/DdmwfKoAeVG",
-      "timestamp": "2026-09-22T21:59:57+0000",
+      "id": "17920315425429505",
+      "text": "Opinions are strange(unique) — everyone has one\n\nI'll read what you write. I won't argue it, won't correct it. Not about",
+      "permalink": "https://www.threads.com/@rrpetch/post/Ddn8BeJAqQh",
+      "timestamp": "2026-09-23T09:00:00+0000",
       "metrics": {
-        "views": 31,
+        "views": 15,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -98,6 +98,21 @@
     }
   ],
   "recent_posts": [
+    {
+      "id": "17920315425429505",
+      "text": "Opinions are strange(unique) — everyone has one\n\nI'll read what you write. I won't argue it, won't correct it. Not about",
+      "permalink": "https://www.threads.com/@rrpetch/post/Ddn8BeJAqQh",
+      "timestamp": "2026-09-23T09:00:00+0000",
+      "metrics": {
+        "views": 15,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
     {
       "id": "17958898098214479",
       "text": "Social media is only gets heavy\n\nDon't like a post? Scroll past. Don't like a comment? Leave it alone.\n\nNot about having",
@@ -134,7 +149,7 @@
       "permalink": "https://www.threads.com/@rrpetch/post/Ddk92qDE6xM",
       "timestamp": "2026-09-22T05:18:16+0000",
       "metrics": {
-        "views": 121,
+        "views": 122,
         "likes": 0,
         "replies": 2,
         "reposts": 0,
@@ -179,14 +194,14 @@
       "permalink": "https://www.threads.com/@rrpetch/post/DdiSWIXk8I4",
       "timestamp": "2026-09-21T04:19:37+0000",
       "metrics": {
-        "views": 22767,
+        "views": 22815,
         "likes": 25,
-        "replies": 191,
+        "replies": 193,
         "reposts": 1,
         "quotes": 1,
         "shares": 1
       },
-      "engagement": 218
+      "engagement": 220
     }
   ]
 }
