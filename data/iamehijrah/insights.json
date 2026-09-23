@@ -1,39 +1,24 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-09-23T20:30:30.214Z",
+  "updated_at": "2026-09-23T23:48:03.776Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=avb-4_OYAasQ7kNvwGS7M7m&_nc_oc=AdrvtudyWZNwVw6hHOg9sncybxsPo0OGvMsChmJR-F5YRWnO0y3wiXpyVnbAix3EJVY&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=nQyo2Wp4LIsVRvJIw_-O-w&_nc_tpa=Q5bMBQK0pH4um93r3vLHCniCDZl85gbXrqMNW3kkV_dorxQ0XWLDiz4J7sAhlbzdlX7YgyPyDL9-ejJE7A&oh=00_AQJkyZAhHb1D8sDs_BWa51sFG20Y0-_YN2u8eDeTujEEog&oe=6ABA0D13"
+    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=avb-4_OYAasQ7kNvwEGb-Pv&_nc_oc=AdrnzRgDmW1jjbyhd9JoDmK2OaId-0K0v-Z4Z8dXa5aAIHEoEVO8t_9LAlz1W6P6mlQ&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=sa4z2QWsMuRUC30GoobW9Q&_nc_tpa=Q5bMBQIohF_DIqne0UGk4VS3clfxnt_Phx1H7FA_-bxhb2EDB5mj0QbPyut6rFJ0Q_FIaV3CDT3ThY7WVA&oh=00_AQKHSVeUQAVFlA-oVJmPDD20iEhGqhZ2IlBGnsOKj3MmOg&oe=6ABA4553"
   },
   "summary": {
     "followers_count": 4,
-    "views": 181,
+    "views": 227,
     "likes": 5,
     "replies": 0,
     "reposts": 1,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 68,
-    "engagement_rate": 37.57,
+    "engagement_total": 45,
+    "engagement_rate": 19.82,
     "curiosity_score": null,
     "post_count": 25
   },
   "top_posts": [
-    {
-      "id": "18114695554800920",
-      "text": "Ajaran Nenek yang sampai sekarang aku pakai(kalau ga lupa 🙏). Menurut Nenek yang guru ngaji kampung, doa itu punya stru",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dddo1rljqvJ",
-      "timestamp": "2026-09-19T08:59:57+0000",
-      "metrics": {
-        "views": 335,
-        "likes": 20,
-        "replies": 0,
-        "reposts": 2,
-        "quotes": 1,
-        "shares": 4
-      },
-      "engagement": 23
-    },
     {
       "id": "18090533003670807",
       "text": "4 doa untuk orang tua yang aku usahain tiap hari (yang ke-3 paling bikin mewek):\n1. Doa setelah sholat — sebut nama mere",
@@ -93,16 +78,46 @@
         "shares": 0
       },
       "engagement": 3
-    }
-  ],
-  "recent_posts": [
+    },
     {
       "id": "17950738332082923",
       "text": "Dulu aku mikir qadar itu artinya \"ya udah, mau gimana lagi.\"\nTernyata bukan pasrah yang mati — tapi percaya bahwa Allah ",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DdosOGYlgwq",
       "timestamp": "2026-09-23T16:01:41+0000",
       "metrics": {
-        "views": 106,
+        "views": 107,
+        "likes": 2,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 2
+    }
+  ],
+  "recent_posts": [
+    {
+      "id": "18131916367741204",
+      "text": "La hawla wala quwwata illa billah — aku baru beneran ngerasain beratnya kalimat ini pas di depan Ka'bah.\nDi sana, semua ",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdpVZyCATZ5",
+      "timestamp": "2026-09-23T22:01:34+0000",
+      "metrics": {
+        "views": 43,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "17950738332082923",
+      "text": "Dulu aku mikir qadar itu artinya \"ya udah, mau gimana lagi.\"\nTernyata bukan pasrah yang mati — tapi percaya bahwa Allah ",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdosOGYlgwq",
+      "timestamp": "2026-09-23T16:01:41+0000",
+      "metrics": {
+        "views": 107,
         "likes": 2,
         "replies": 0,
         "reposts": 0,
@@ -117,7 +132,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Ddoh4RAmynV",
       "timestamp": "2026-09-23T14:31:20+0000",
       "metrics": {
-        "views": 30,
+        "views": 31,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -230,21 +245,6 @@
         "shares": 0
       },
       "engagement": 1
-    },
-    {
-      "id": "18353760568168387",
-      "text": "Jarang yang ngerasa ikhlas itu ternyata bisa dilatih?\nAku baru tau dari Surah Al-Kahfi — baca rutin setiap Jumat, bukan ",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Ddl9GPDoDP8",
-      "timestamp": "2026-09-22T14:31:27+0000",
-      "metrics": {
-        "views": 126,
-        "likes": 2,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 2
     }
   ]
 }
