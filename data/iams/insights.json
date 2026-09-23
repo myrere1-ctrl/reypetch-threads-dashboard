@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-09-23T20:29:42.678Z",
+  "updated_at": "2026-09-23T23:47:03.252Z",
   "profile": {
     "username": "iams_ichi",
     "name": "I.petch",
     "biography": "🇦🇺\n🧠Psi +🧳Travel\nIt’s about the vibe and the feeling. \nThe names of the places? \nI sometimes forget ........\n✉️ cmo@coa.au",
-    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzIifQ%3D%3D&_nc_ohc=Y8NqhvcREFgQ7kNvwFStCWE&_nc_oc=AdpXvt2MwMI7Z-eZVPEH9XO0k-gbqzr8Rfu4GUP09ny1AMDT6jdjbtvajkFwAPGOL9w&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=gOm0SOwtAkfHcwBkDOCBYQ&_nc_tpa=Q5bMBQIBNW97jJg5104QqtPz2ApoMsrKRGLYiiknzG66bWKmm4yR0uBq8vVig-MOPhLsRrFtcIAKM_AQEQ&oh=00_AQKu5KpXesYNelI-sbMqoeH_ZHW4eCw9leIyPqGwZR50NQ&oe=6ABA1B9E"
+    "picture": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=Y8NqhvcREFgQ7kNvwFgmTcc&_nc_oc=AdqgnwWROtQkhi1dbrAaDah7e8yzbzX-B9mq8O2bzC5TXM3OPTmQj6s1uCNN3yNnpbk&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=rTU8XJHowqd8dseKs0FLqg&_nc_tpa=Q5bMBQKABcuuaxEtZRcTUC5Gj2QNj4YKH_zRCu_A4enI2yEHZC99mqWHNT8LSeA45AUnd3JbqTqwa_e51w&oh=00_AQJIgZKgp4ANYj0npgMu-mPPkY1vfCmNSjCm-THZQjCtQQ&oe=6ABA1B9E"
   },
   "summary": {
     "followers_count": 1365,
-    "views": 614,
+    "views": 641,
     "likes": 5,
     "replies": 1,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 18,
-    "engagement_rate": 2.93,
+    "engagement_total": 17,
+    "engagement_rate": 2.65,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -27,7 +27,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DdnngZkG-4I",
       "timestamp": "2026-09-23T06:01:15+0000",
       "metrics": {
-        "views": 344,
+        "views": 355,
         "likes": 5,
         "replies": 1,
         "reposts": 0,
@@ -42,7 +42,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DdoC97hm6Qf",
       "timestamp": "2026-09-23T10:01:13+0000",
       "metrics": {
-        "views": 192,
+        "views": 194,
         "likes": 3,
         "replies": 1,
         "reposts": 0,
@@ -57,7 +57,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DdoQuGYG4bg",
       "timestamp": "2026-09-23T12:01:23+0000",
       "metrics": {
-        "views": 4,
+        "views": 5,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -99,12 +99,27 @@
   ],
   "recent_posts": [
     {
+      "id": "18129331759689011",
+      "text": "Melbourne itu kota yang anehnya ga pernah bikin aku overwhelmed — padahal ramai.\nMungkin karena tiap blok punya sudut ke",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DdpfpzLD0k7",
+      "timestamp": "2026-09-23T23:31:07+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "18110055959157112",
       "text": "Jam 11 malam di Paris, duduk sendirian di depan bakery kecil yang udah tutup — dan nyadar kenapa kota ini terasa beda.\nB",
       "permalink": "https://www.threads.com/@iams_ichi/post/DdoedUjmxhL",
       "timestamp": "2026-09-23T14:01:25+0000",
       "metrics": {
-        "views": 93,
+        "views": 96,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -119,7 +134,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DdoQuGYG4bg",
       "timestamp": "2026-09-23T12:01:23+0000",
       "metrics": {
-        "views": 4,
+        "views": 5,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -134,7 +149,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DdoC97hm6Qf",
       "timestamp": "2026-09-23T10:01:13+0000",
       "metrics": {
-        "views": 192,
+        "views": 194,
         "likes": 3,
         "replies": 1,
         "reposts": 0,
@@ -149,7 +164,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Ddn1PL6m7Jn",
       "timestamp": "2026-09-23T08:01:14+0000",
       "metrics": {
-        "views": 14,
+        "views": 15,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -164,7 +179,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DdnngZkG-4I",
       "timestamp": "2026-09-23T06:01:15+0000",
       "metrics": {
-        "views": 344,
+        "views": 355,
         "likes": 5,
         "replies": 1,
         "reposts": 0,
@@ -224,22 +239,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Ddm3ZI_gThy",
       "timestamp": "2026-09-22T23:00:18+0000",
       "metrics": {
-        "views": 133,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18088655831676156",
-      "text": "Dulu mikir Bondi itu cuma pantai buat foto aesthetic terus pulang.\nTernyata yang bikin lama duduk di situ bukan ombaknya",
-      "permalink": "https://www.threads.com/@iams_ichi/post/Ddl5peqFgd2",
-      "timestamp": "2026-09-22T14:01:19+0000",
-      "metrics": {
-        "views": 7,
+        "views": 134,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
