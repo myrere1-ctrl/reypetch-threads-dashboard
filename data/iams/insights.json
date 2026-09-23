@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-09-22T22:18:04.452Z",
+  "updated_at": "2026-09-23T00:43:44.305Z",
   "profile": {
     "username": "iams_ichi",
-    "name": "iams",
+    "name": "I.petch",
     "biography": "🇦🇺\n🧠Psi +🧳Travel\nIt’s about the vibe and the feeling. \nThe names of the places? \nI sometimes forget ........\n✉️ cmo@coa.au",
-    "picture": "https://scontent-atl3-2.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=Y8NqhvcREFgQ7kNvwG5SJCB&_nc_oc=Adrd4cfMuPhefRBttVHDI3YYiGwunoLHJ0b0gSfKyB9xv4EorOTLl0VpDJaaCz0jkyU&_nc_zt=24&_nc_ht=scontent-atl3-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=UVsUmbw0ubMDSL06oUsZDg&_nc_tpa=Q5bMBQLKIAmrVOaieVKkwVHdfgAuTIcumh7kHQiDLduqu_AsrAz9k9jPo96gUvbncHxZqqINR2uQY1UIqg&oh=00_AQIct7h7_7RAfRGXnngSXlVlvKx-M_QGNc8qz7DpZPfu_w&oe=6AB8CA1E"
+    "picture": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=Y8NqhvcREFgQ7kNvwGeMlEc&_nc_oc=AdqSuagk5kwTPr3gEgIzX604DOz4dXy8scPrrFVMEaNHEWwmiwiNdDd_vV-bPnAMRoE&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=4G-R7aNfvPHPE3pmWPZ0bw&_nc_tpa=Q5bMBQK_qLXqzU8uTqmLCMssFj7kFLzkSzT9_AGFuWy9N29BO3pItuztGd0lZy0xx9p6ibbgi3Vqbo3x6g&oh=00_AQJatnpEcfHG5QRcdXmxYftE1pHKY_TghaMG11rH0PeFSA&oe=6AB9025E"
   },
   "summary": {
     "followers_count": 1364,
-    "views": 104,
+    "views": 401,
     "likes": 1,
     "replies": 1,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 27,
-    "engagement_rate": 25.96,
+    "engagement_total": 24,
+    "engagement_rate": 5.99,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -82,29 +82,59 @@
       "engagement": 3
     },
     {
-      "id": "18055619336590886",
-      "text": "Rumah di Australia(di Queensland) biasanya handle pintu kamar tidurnya bulet tidak pakai kunci. Ada yang bisa di kunci d",
-      "permalink": "https://www.threads.com/@iams_ichi/post/Dddfdl6Gtf7",
-      "timestamp": "2026-09-19T07:38:01+0000",
+      "id": "18112318916123022",
+      "text": "Pernah nyampe hotel malem-malem, charger ga masuk colokan, dan otak udah terlalu capek buat problem-solve — itu momen pa",
+      "permalink": "https://www.threads.com/@iams_ichi/post/Ddlr6aclRsI",
+      "timestamp": "2026-09-22T12:01:17+0000",
       "metrics": {
-        "views": 550,
+        "views": 2,
         "likes": 0,
-        "replies": 3,
+        "replies": 1,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 3
+      "engagement": 1
     }
   ],
   "recent_posts": [
+    {
+      "id": "18463241323136624",
+      "text": "Planning ke Jepang itu 80% otak, 20% koper.\nYang bikin trip ga chaos bukan itinerary sempurna — tapi tau mana yang worth",
+      "permalink": "https://www.threads.com/@iams_ichi/post/Ddm63FHj1K9",
+      "timestamp": "2026-09-22T23:31:08+0000",
+      "metrics": {
+        "views": 160,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "17899124496600941",
+      "text": "Yang lagi di Jepang be Safe ya 🙏",
+      "permalink": "https://www.threads.com/@iams_ichi/post/Ddm3ZI_gThy",
+      "timestamp": "2026-09-22T23:00:18+0000",
+      "metrics": {
+        "views": 117,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
     {
       "id": "18088655831676156",
       "text": "Dulu mikir Bondi itu cuma pantai buat foto aesthetic terus pulang.\nTernyata yang bikin lama duduk di situ bukan ombaknya",
       "permalink": "https://www.threads.com/@iams_ichi/post/Ddl5peqFgd2",
       "timestamp": "2026-09-22T14:01:19+0000",
       "metrics": {
-        "views": 3,
+        "views": 4,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -119,7 +149,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Ddlr6aclRsI",
       "timestamp": "2026-09-22T12:01:17+0000",
       "metrics": {
-        "views": 1,
+        "views": 2,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -164,7 +194,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DdlCt7_m8M4",
       "timestamp": "2026-09-22T06:01:19+0000",
       "metrics": {
-        "views": 6,
+        "views": 7,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -194,7 +224,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Ddkrj2fGs8X",
       "timestamp": "2026-09-22T02:38:25+0000",
       "metrics": {
-        "views": 11,
+        "views": 13,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -209,7 +239,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DdknP1rEV1U",
       "timestamp": "2026-09-22T02:01:17+0000",
       "metrics": {
-        "views": 67,
+        "views": 69,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -217,36 +247,6 @@
         "shares": 0
       },
       "engagement": 1
-    },
-    {
-      "id": "18163816354438356",
-      "text": "Trastevere itu unik — malamnya aku duduk di trattoria kecil, minta wine segelas, pura-pura ngerti menu Italia.\nSiangnya ",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DdkWEDoo7rc",
-      "timestamp": "2026-09-21T23:31:08+0000",
-      "metrics": {
-        "views": 29,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18559528855077398",
-      "text": "Di Hokkaido ada kawasan yang keliatan biasa dari luar — tapi begitu masuk gang belakangnya, beda banget vibenya.\nAku per",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DdjU2-YlGD1",
-      "timestamp": "2026-09-21T14:01:20+0000",
-      "metrics": {
-        "views": 8,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
     }
   ]
 }
