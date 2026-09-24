@@ -1,24 +1,39 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-09-24T19:18:32.316Z",
+  "updated_at": "2026-09-24T22:33:27.895Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=7wVgkiKd1CIQ7kNvwEOGNDE&_nc_oc=Ado2ChVIpyKEZ4yDddSDzaDLcduiRWIO6vQxlqj50naasN2H0kv9VdG_oZZlIo6WnYM&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=BYVu_nNUUDThBeZUMB9H-A&_nc_tpa=Q5bMBQIXHqz69fdj9O8f7VIte2Wh2lJQnJQv-sC0jWKsVNau-hamm85Wm8i3uSSWidkvqmwSDDwonJgynw&oh=00_AQKrBnlQqArfeFDBjTQxJK80Vo4UrL31mwnUJ57KNZxr4Q&oe=6ABB5E93"
+    "picture": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=7wVgkiKd1CIQ7kNvwF5sONz&_nc_oc=AdrPgyO61QWRPcN_EUiMafe2-tPc43IB9EIiTeQSinZxPMIwVG897Eg4d0492ViWq1g&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=qZpB2Wl29lRyDYINROC2_A&_nc_tpa=Q5bMBQIsjv3YHopFAsHewg_Inc0kE2uQFyxh2dbIM8udJU1mRIhvbSHIPaoZZHzKNrHyTbpQU9y9V34fGg&oh=00_AQIK2-zKUlaY_V4_g0oOlAScynbG9PBSgJEe46rHQ8FC2g&oe=6ABB5E93"
   },
   "summary": {
     "followers_count": 4,
-    "views": 216,
-    "likes": 2,
+    "views": 237,
+    "likes": 3,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 25,
-    "engagement_rate": 11.57,
+    "engagement_total": 28,
+    "engagement_rate": 11.81,
     "curiosity_score": null,
     "post_count": 25
   },
   "top_posts": [
+    {
+      "id": "18130534159762402",
+      "text": "Bangun sepertiga malam itu bukan soal jadi \"alim\" — aku bangun karena ga ada tempat lain yang lebih aman buat nangis sel",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Ddr6LeZgUXP",
+      "timestamp": "2026-09-24T22:01:24+0000",
+      "metrics": {
+        "views": 21,
+        "likes": 4,
+        "replies": 0,
+        "reposts": 1,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 5
+    },
     {
       "id": "18098116355423191",
       "text": "Unpopular opinion: sholat 5 waktu itu bukan \"rutinitas agama\" — tapi satu-satunya jeda yang beneran nyata buat aku di te",
@@ -78,24 +93,24 @@
         "shares": 0
       },
       "engagement": 2
-    },
-    {
-      "id": "18353760568168387",
-      "text": "Jarang yang ngerasa ikhlas itu ternyata bisa dilatih?\nAku baru tau dari Surah Al-Kahfi — baca rutin setiap Jumat, bukan ",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Ddl9GPDoDP8",
-      "timestamp": "2026-09-22T14:31:27+0000",
-      "metrics": {
-        "views": 126,
-        "likes": 2,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 2
     }
   ],
   "recent_posts": [
+    {
+      "id": "18130534159762402",
+      "text": "Bangun sepertiga malam itu bukan soal jadi \"alim\" — aku bangun karena ga ada tempat lain yang lebih aman buat nangis sel",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Ddr6LeZgUXP",
+      "timestamp": "2026-09-24T22:01:24+0000",
+      "metrics": {
+        "views": 21,
+        "likes": 4,
+        "replies": 0,
+        "reposts": 1,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 5
+    },
     {
       "id": "18043500353815961",
       "text": "Umroh itu bukan cuma soal tiket dan koper — aku baru sadar itu belakangan ini.\nYang paling berat disiapkan ternyata buka",
@@ -230,21 +245,6 @@
         "shares": 0
       },
       "engagement": 2
-    },
-    {
-      "id": "18074580125718994",
-      "text": "Malam ini aku nanya ke diri sendiri — selama nunggu jawaban doa, aku lebih sering prasangka baik atau prasangka buruk sa",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Ddoh4RAmynV",
-      "timestamp": "2026-09-23T14:31:20+0000",
-      "metrics": {
-        "views": 31,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
     }
   ]
 }
