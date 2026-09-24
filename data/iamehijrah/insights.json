@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-09-24T15:15:36.849Z",
+  "updated_at": "2026-09-24T19:18:32.316Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=7wVgkiKd1CIQ7kNvwHb-_HP&_nc_oc=AdpDqS4s-hJ8D8MWJNYKnSUhGWoIIo-NCxHlURz25mvEaP8FRNXLdsCyIxFiv-wn8u0&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=kfou-sGPLMCg8285sc_LIQ&_nc_tpa=Q5bMBQJKMw8cMNI_kzzpBhPpYFThgZwow-sod8UJtUohZ5RcnKnvsdDmYj8YWmxqSnwWUWXQWjeB2cVbKQ&oh=00_AQK9vghoAAqXIc4lwFJSjWmQaUV1auLF4CcxzLaHhe04fA&oe=6ABB2653"
+    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=7wVgkiKd1CIQ7kNvwEOGNDE&_nc_oc=Ado2ChVIpyKEZ4yDddSDzaDLcduiRWIO6vQxlqj50naasN2H0kv9VdG_oZZlIo6WnYM&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=BYVu_nNUUDThBeZUMB9H-A&_nc_tpa=Q5bMBQIXHqz69fdj9O8f7VIte2Wh2lJQnJQv-sC0jWKsVNau-hamm85Wm8i3uSSWidkvqmwSDDwonJgynw&oh=00_AQKrBnlQqArfeFDBjTQxJK80Vo4UrL31mwnUJ57KNZxr4Q&oe=6ABB5E93"
   },
   "summary": {
     "followers_count": 4,
-    "views": 108,
-    "likes": 0,
+    "views": 216,
+    "likes": 2,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 24,
-    "engagement_rate": 22.22,
+    "engagement_total": 25,
+    "engagement_rate": 11.57,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -35,12 +35,27 @@
       "engagement": 4
     },
     {
+      "id": "18043500353815961",
+      "text": "Umroh itu bukan cuma soal tiket dan koper — aku baru sadar itu belakangan ini.\nYang paling berat disiapkan ternyata buka",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdrQ_qMG9yb",
+      "timestamp": "2026-09-24T16:01:31+0000",
+      "metrics": {
+        "views": 105,
+        "likes": 2,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 2
+    },
+    {
       "id": "17950738332082923",
       "text": "Dulu aku mikir qadar itu artinya \"ya udah, mau gimana lagi.\"\nTernyata bukan pasrah yang mati — tapi percaya bahwa Allah ",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DdosOGYlgwq",
       "timestamp": "2026-09-23T16:01:41+0000",
       "metrics": {
-        "views": 109,
+        "views": 110,
         "likes": 2,
         "replies": 0,
         "reposts": 0,
@@ -78,14 +93,16 @@
         "shares": 0
       },
       "engagement": 2
-    },
+    }
+  ],
+  "recent_posts": [
     {
-      "id": "17896458495399243",
-      "text": "Jarang yang tau kalau sepertiga malam itu bukan soal \"kuat bangun\" — tapi soal SIAPA yang kamu temui di sana.\nAku pernah",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdkgaZtDt75",
-      "timestamp": "2026-09-22T01:01:32+0000",
+      "id": "18043500353815961",
+      "text": "Umroh itu bukan cuma soal tiket dan koper — aku baru sadar itu belakangan ini.\nYang paling berat disiapkan ternyata buka",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdrQ_qMG9yb",
+      "timestamp": "2026-09-24T16:01:31+0000",
       "metrics": {
-        "views": 28,
+        "views": 105,
         "likes": 2,
         "replies": 0,
         "reposts": 0,
@@ -93,16 +110,14 @@
         "shares": 0
       },
       "engagement": 2
-    }
-  ],
-  "recent_posts": [
+    },
     {
       "id": "18095383157389421",
       "text": "Ada satu hal yang jarang dibahas soal muhasabah — kita sering lebih keras menghakimi diri sendiri daripada yang Allah la",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DdrGq_LkUF6",
       "timestamp": "2026-09-24T14:31:19+0000",
       "metrics": {
-        "views": 14,
+        "views": 15,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -132,7 +147,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DdqyFejmyn1",
       "timestamp": "2026-09-24T11:31:25+0000",
       "metrics": {
-        "views": 59,
+        "views": 60,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -207,7 +222,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DdosOGYlgwq",
       "timestamp": "2026-09-23T16:01:41+0000",
       "metrics": {
-        "views": 109,
+        "views": 110,
         "likes": 2,
         "replies": 0,
         "reposts": 0,
@@ -230,21 +245,6 @@
         "shares": 0
       },
       "engagement": 0
-    },
-    {
-      "id": "18087921497238464",
-      "text": "Mukena yang ketinggalan di rumah itu paling nyesek pas lagi di jalan.\nSejak punya mukena traveling yang muat di tas keci",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdoZRWJkaKn",
-      "timestamp": "2026-09-23T13:16:07+0000",
-      "metrics": {
-        "views": 1,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
     }
   ]
 }
