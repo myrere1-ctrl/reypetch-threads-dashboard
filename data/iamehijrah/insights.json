@@ -1,46 +1,31 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-09-24T10:11:41.519Z",
+  "updated_at": "2026-09-24T15:15:36.849Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=avb-4_OYAasQ7kNvwF1JYbj&_nc_oc=Adry7zfZzz0Pgrn34RvyMmg5tmc9PssUGJkEDe4DB70FN6ViA7FKrkhTloVR5hx2VMw&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=X1suH8ZwD_A3Myg2HlTZqg&_nc_tpa=Q5bMBQIiIAjxpJuI37_wTFEFEGs_Fm5dTcfJJjqdKQBcs9ghdtMU2-mg1uhYlD79d8BnQOI4EZhKGqEAMw&oh=00_AQKu4NXtOL1MZKQJqjI1GxCLqjxXxw6zreK_P6LtqZlTTw&oe=6ABAB5D3"
+    "picture": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=7wVgkiKd1CIQ7kNvwHb-_HP&_nc_oc=AdpDqS4s-hJ8D8MWJNYKnSUhGWoIIo-NCxHlURz25mvEaP8FRNXLdsCyIxFiv-wn8u0&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=kfou-sGPLMCg8285sc_LIQ&_nc_tpa=Q5bMBQJKMw8cMNI_kzzpBhPpYFThgZwow-sod8UJtUohZ5RcnKnvsdDmYj8YWmxqSnwWUWXQWjeB2cVbKQ&oh=00_AQK9vghoAAqXIc4lwFJSjWmQaUV1auLF4CcxzLaHhe04fA&oe=6ABB2653"
   },
   "summary": {
     "followers_count": 4,
-    "views": 32,
+    "views": 108,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 40,
-    "engagement_rate": 125,
+    "engagement_total": 24,
+    "engagement_rate": 22.22,
     "curiosity_score": null,
     "post_count": 25
   },
   "top_posts": [
-    {
-      "id": "18090533003670807",
-      "text": "4 doa untuk orang tua yang aku usahain tiap hari (yang ke-3 paling bikin mewek):\n1. Doa setelah sholat — sebut nama mere",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdivGoSlWbT",
-      "timestamp": "2026-09-21T08:31:26+0000",
-      "metrics": {
-        "views": 274,
-        "likes": 14,
-        "replies": 0,
-        "reposts": 1,
-        "quotes": 0,
-        "shares": 3
-      },
-      "engagement": 15
-    },
     {
       "id": "18098116355423191",
       "text": "Unpopular opinion: sholat 5 waktu itu bukan \"rutinitas agama\" — tapi satu-satunya jeda yang beneran nyata buat aku di te",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DdoNR7AltDl",
       "timestamp": "2026-09-23T11:31:20+0000",
       "metrics": {
-        "views": 27,
+        "views": 28,
         "likes": 3,
         "replies": 0,
         "reposts": 1,
@@ -55,7 +40,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DdosOGYlgwq",
       "timestamp": "2026-09-23T16:01:41+0000",
       "metrics": {
-        "views": 108,
+        "views": 109,
         "likes": 2,
         "replies": 0,
         "reposts": 0,
@@ -93,9 +78,69 @@
         "shares": 0
       },
       "engagement": 2
+    },
+    {
+      "id": "17896458495399243",
+      "text": "Jarang yang tau kalau sepertiga malam itu bukan soal \"kuat bangun\" — tapi soal SIAPA yang kamu temui di sana.\nAku pernah",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdkgaZtDt75",
+      "timestamp": "2026-09-22T01:01:32+0000",
+      "metrics": {
+        "views": 28,
+        "likes": 2,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 2
     }
   ],
   "recent_posts": [
+    {
+      "id": "18095383157389421",
+      "text": "Ada satu hal yang jarang dibahas soal muhasabah — kita sering lebih keras menghakimi diri sendiri daripada yang Allah la",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdrGq_LkUF6",
+      "timestamp": "2026-09-24T14:31:19+0000",
+      "metrics": {
+        "views": 14,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "17987519535097874",
+      "text": "Sholat itu beda banget rasanya kalau badan kita nyaman dari awal.\nAku baru ngerasain ini pas ganti mukena putih yang bah",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Ddq8YnYm7kA",
+      "timestamp": "2026-09-24T13:01:25+0000",
+      "metrics": {
+        "views": 1,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
+      "id": "18058823078543474",
+      "text": "Ngerasa jauh dari Allah, tapi ga tau harus mulai dari mana?\nAku pernah di situ. Diem-dieman sama Allah berhari-hari, mal",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdqyFejmyn1",
+      "timestamp": "2026-09-24T11:31:25+0000",
+      "metrics": {
+        "views": 59,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
     {
       "id": "17887743501682785",
       "text": "Dhuha itu jangan ditunda — nanti keburu siang, keburu sibuk, keburu lupa.\nAku pernah skip berbulan-bulan karena ngerasa ",
@@ -162,7 +207,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DdosOGYlgwq",
       "timestamp": "2026-09-23T16:01:41+0000",
       "metrics": {
-        "views": 108,
+        "views": 109,
         "likes": 2,
         "replies": 0,
         "reposts": 0,
@@ -193,51 +238,6 @@
       "timestamp": "2026-09-23T13:16:07+0000",
       "metrics": {
         "views": 1,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "18098116355423191",
-      "text": "Unpopular opinion: sholat 5 waktu itu bukan \"rutinitas agama\" — tapi satu-satunya jeda yang beneran nyata buat aku di te",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdoNR7AltDl",
-      "timestamp": "2026-09-23T11:31:20+0000",
-      "metrics": {
-        "views": 27,
-        "likes": 3,
-        "replies": 0,
-        "reposts": 1,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 4
-    },
-    {
-      "id": "18112972030852768",
-      "text": "Sedekah itu bukan soal \"nunggu ada sisa\" — aku belajar itu pelan-pelan.\nDulu aku tahan-tahan, nunggu kondisi \"siap\". Sek",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Ddn4wRalk4K",
-      "timestamp": "2026-09-23T08:31:58+0000",
-      "metrics": {
-        "views": 16,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "17950828140271014",
-      "text": "Pernah kepikiran: gamis yang kamu pakai bisa bikin ibadah lebih khusyu — atau malah ganggu?\nAku baru ngeh ini pas di Mad",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdnkE7ukfNs",
-      "timestamp": "2026-09-23T05:31:18+0000",
-      "metrics": {
-        "views": 0,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
