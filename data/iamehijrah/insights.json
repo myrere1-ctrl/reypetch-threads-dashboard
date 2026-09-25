@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-09-25T13:56:45.351Z",
+  "updated_at": "2026-09-25T18:44:14.823Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=7wVgkiKd1CIQ7kNvwETMzWJ&_nc_oc=AdrmgWqJd15mwprwAbsiRL-TdJGGYBVU3oe5FWUI-gnJblq7RGQih44dmYTmFmMEenA&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=aoTyZlpRNr0FsCefRA1Grw&_nc_tpa=Q5bMBQKmXaiIoUVlUbvqI4ga3gbHdK4Gp6gZtBcnrr7y3nT6oqK-995RMQqz66qlC3-U6-eEczoapHDRGw&oh=00_AQIfktjR1SEAzxudQc1o9iTr1lHXOfM-6bSCx2e96-t1Qw&oe=6ABC3F93"
+    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzIifQ%3D%3D&_nc_ohc=7wVgkiKd1CIQ7kNvwE9d3cI&_nc_oc=Adrc9pgvIeG8VQwWu2Tw7K2OkpA7vE3KwM0R0NKbprVKtV9JHegytoHOYvZgnEq-6m8&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=z8uh_WXbrHwaUrf5v2z8vA&_nc_tpa=Q5bMBQJ8NE1fv2-NN_nUPpRrxMiNXPSUB2Ln4lrBr9FkMFWETnqBmEqg-4QjPzhCc378LrJjlDaw_5bVlg&oh=00_AQKnvynB-_UwAj8MW1PFdubRv4eJ9YKhrUo2Y2iIKTzN5w&oe=6ABC77D3"
   },
   "summary": {
     "followers_count": 4,
-    "views": 210,
-    "likes": 11,
+    "views": 350,
+    "likes": 12,
     "replies": 0,
     "reposts": 1,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 42,
-    "engagement_rate": 20,
+    "engagement_total": 40,
+    "engagement_rate": 11.43,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -25,7 +25,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DdtW4OVkatT",
       "timestamp": "2026-09-25T11:31:26+0000",
       "metrics": {
-        "views": 163,
+        "views": 176,
         "likes": 9,
         "replies": 0,
         "reposts": 1,
@@ -97,12 +97,42 @@
   ],
   "recent_posts": [
     {
+      "id": "18145685566561134",
+      "text": "Rindu Tanah Suci itu aneh — ga pernah ke sana, tapi dadanya sesak kayak kangen pulang.\nBelakangan aku makin sering bayan",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Ddt1yQtkajS",
+      "timestamp": "2026-09-25T16:01:29+0000",
+      "metrics": {
+        "views": 17,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "18436189030195284",
+      "text": "Takdir terbaik itu kadang datang lewat jalan yang paling kita takutin.\nAku sempet galau lama soal ini — kenapa doa aku k",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdtrfVsFD5f",
+      "timestamp": "2026-09-25T14:31:30+0000",
+      "metrics": {
+        "views": 113,
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
       "id": "18085846577303025",
       "text": "Sajadah empuk itu ternyata beda banget efeknya ke sholat aku.\nDulu pakai yang tipis, sujud rasanya ga betah lama-lama — ",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DdthMEgmwVa",
       "timestamp": "2026-09-25T13:01:30+0000",
       "metrics": {
-        "views": 2,
+        "views": 4,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -117,7 +147,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DdtW4OVkatT",
       "timestamp": "2026-09-25T11:31:26+0000",
       "metrics": {
-        "views": 163,
+        "views": 176,
         "likes": 9,
         "replies": 0,
         "reposts": 1,
@@ -208,36 +238,6 @@
       "timestamp": "2026-09-24T14:31:19+0000",
       "metrics": {
         "views": 15,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "17987519535097874",
-      "text": "Sholat itu beda banget rasanya kalau badan kita nyaman dari awal.\nAku baru ngerasain ini pas ganti mukena putih yang bah",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Ddq8YnYm7kA",
-      "timestamp": "2026-09-24T13:01:25+0000",
-      "metrics": {
-        "views": 1,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "18058823078543474",
-      "text": "Ngerasa jauh dari Allah, tapi ga tau harus mulai dari mana?\nAku pernah di situ. Diem-dieman sama Allah berhari-hari, mal",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdqyFejmyn1",
-      "timestamp": "2026-09-24T11:31:25+0000",
-      "metrics": {
-        "views": 62,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
