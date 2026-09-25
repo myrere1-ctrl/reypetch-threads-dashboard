@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-09-25T01:37:11.795Z",
+  "updated_at": "2026-09-25T07:57:36.590Z",
   "profile": {
     "username": "iams_ichi",
     "name": "I.petch",
     "biography": "🇦🇺\nCMO at COA.AU \nNo-Code App Builder\nIt’s about the vibe and the feeling. \nThe names of the places? \nI sometimes forget ... \ncmo@coa.au",
-    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=Y8NqhvcREFgQ7kNvwE3PSTQ&_nc_oc=Adqh4VRU5aiUTiKsepR1S6SiY-RLwukLJptMLq2lU80FqwXO7D9kvV3Mk3cmojpYdck&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=QRk9zyrnfHk6y7vw_nHZSw&_nc_tpa=Q5bMBQKLj4udJCzkt2rMyLLRepn7hsz2Me6qxnk7KVOA70UTcc2lFxo9O4TteiImXVoesLpI3lkBJl0wfA&oh=00_AQKwYpDXVAym1xnvkxvB4HAcnicXdD4q0ASwbm0WoA-7sA&oe=6ABBA55E"
+    "picture": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=Y8NqhvcREFgQ7kNvwHiC5Ra&_nc_oc=AdpikJ0XV9sLEGGQ2KOWmyTkBf506eGGtjkeMgw92UYsxDiumRuFRP4PRJjPjiaSEYg&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=u3wtxIt6ooFhF25QCwWzdQ&_nc_tpa=Q5bMBQITIB1nDdx41duyfoqM5W_32koG5CWq_qfDRcls3ylkXrFqFGA3CYprLGKBe15zohGvFrbvEmYzjA&oh=00_AQJa91y1BWvO0yQWpjbqmxxVhR-EAYBoZsub1D8UXDxCLg&oe=6ABC15DE"
   },
   "summary": {
     "followers_count": 1365,
-    "views": 7024,
-    "likes": 299,
-    "replies": 16,
-    "reposts": 31,
-    "quotes": 3,
+    "views": 336,
+    "likes": 22,
+    "replies": 0,
+    "reposts": 5,
+    "quotes": 0,
     "profile_views": null,
-    "engagement_total": 385,
-    "engagement_rate": 5.48,
+    "engagement_total": 583,
+    "engagement_rate": 173.51,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -27,29 +27,44 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DdqrTdBmog1",
       "timestamp": "2026-09-24T10:31:37+0000",
       "metrics": {
-        "views": 6452,
-        "likes": 299,
-        "replies": 14,
-        "reposts": 32,
-        "quotes": 3,
-        "shares": 5
+        "views": 8488,
+        "likes": 471,
+        "replies": 17,
+        "reposts": 50,
+        "quotes": 6,
+        "shares": 12
       },
-      "engagement": 348
+      "engagement": 544
     },
     {
-      "id": "18078555182358299",
-      "text": "Mitos: coffee di Australia itu mahal dan pretentious.\nRealita: justru di sini lo belajar bahwa kopi yang baik itu soal *",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DdnngZkG-4I",
-      "timestamp": "2026-09-23T06:01:15+0000",
+      "id": "17959752606215425",
+      "text": "Dulu mikir Paris itu destinasi buat orang yang suka keramaian — ramai, touristy, overwhelm.\nTernyata kota ini justru pal",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DdsEcZKDT0c",
+      "timestamp": "2026-09-24T23:31:04+0000",
       "metrics": {
-        "views": 470,
+        "views": 232,
         "likes": 7,
-        "replies": 5,
+        "replies": 2,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 12
+      "engagement": 9
+    },
+    {
+      "id": "17915114994259524",
+      "text": "Aku baru sadar — selama ini aku takut ke Jepang sendirian bukan karena bahasanya.\nTapi karena ngerasa ga ada yang bisa d",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DdsxGLGFdn2",
+      "timestamp": "2026-09-25T06:01:15+0000",
+      "metrics": {
+        "views": 153,
+        "likes": 4,
+        "replies": 1,
+        "reposts": 2,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 7
     },
     {
       "id": "18129331759689011",
@@ -80,31 +95,61 @@
         "shares": 0
       },
       "engagement": 4
+    }
+  ],
+  "recent_posts": [
+    {
+      "id": "17915114994259524",
+      "text": "Aku baru sadar — selama ini aku takut ke Jepang sendirian bukan karena bahasanya.\nTapi karena ngerasa ga ada yang bisa d",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DdsxGLGFdn2",
+      "timestamp": "2026-09-25T06:01:15+0000",
+      "metrics": {
+        "views": 153,
+        "likes": 4,
+        "replies": 1,
+        "reposts": 2,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 7
     },
     {
-      "id": "17959752606215425",
-      "text": "Dulu mikir Paris itu destinasi buat orang yang suka keramaian — ramai, touristy, overwhelm.\nTernyata kota ini justru pal",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DdsEcZKDT0c",
-      "timestamp": "2026-09-24T23:31:04+0000",
+      "id": "18115327286022396",
+      "text": "Transit panjang dengan dua kali ganti pesawat — dan koper cuma bisa aku \"percaya\" ke sistem.\nSekarang ada titik kecil ya",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DdsjXLijQyo",
+      "timestamp": "2026-09-25T04:01:15+0000",
       "metrics": {
-        "views": 175,
-        "likes": 2,
+        "views": 16,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
+      "id": "18126653740832244",
+      "text": "Orang-orang di Bondi Beach itu anehnya ga pernah terlihat buru-buru — padahal mereka semua jelas-jelas punya destinasi.\n",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DdsVoPqFKOv",
+      "timestamp": "2026-09-25T02:01:14+0000",
+      "metrics": {
+        "views": 66,
+        "likes": 0,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 2
-    }
-  ],
-  "recent_posts": [
+      "engagement": 0
+    },
     {
       "id": "18025676984698561",
       "text": "Fuel time ⛽️ \nBest pies is Australian pies 😋 — not the flaky pastry kind you imagine, the dense ones that wreck your lu",
       "permalink": "https://www.threads.com/@iams_ichi/post/DdsRs8hAYbN",
       "timestamp": "2026-09-25T01:26:24+0000",
       "metrics": {
-        "views": 0,
+        "views": 84,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -119,14 +164,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DdsEcZKDT0c",
       "timestamp": "2026-09-24T23:31:04+0000",
       "metrics": {
-        "views": 175,
-        "likes": 2,
-        "replies": 0,
+        "views": 232,
+        "likes": 7,
+        "replies": 2,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 2
+      "engagement": 9
     },
     {
       "id": "18152938705525599",
@@ -134,7 +179,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DdrvDStE7Mb",
       "timestamp": "2026-09-24T20:23:37+0000",
       "metrics": {
-        "views": 4,
+        "views": 6,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -149,7 +194,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DdrDQLYm9LQ",
       "timestamp": "2026-09-24T14:01:25+0000",
       "metrics": {
-        "views": 110,
+        "views": 111,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -164,7 +209,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Ddq8RyEjS5l",
       "timestamp": "2026-09-24T12:59:57+0000",
       "metrics": {
-        "views": 11,
+        "views": 12,
         "likes": 0,
         "replies": 2,
         "reposts": 0,
@@ -179,7 +224,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Ddq1gjIlZzi",
       "timestamp": "2026-09-24T12:01:20+0000",
       "metrics": {
-        "views": 6,
+        "views": 7,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -194,7 +239,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DdqtCUymg8m",
       "timestamp": "2026-09-24T10:46:46+0000",
       "metrics": {
-        "views": 152,
+        "views": 153,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -202,51 +247,6 @@
         "shares": 0
       },
       "engagement": 1
-    },
-    {
-      "id": "18117704228069489",
-      "text": "Australian weather:\n8am — freezing\n11am — summer\n3pm — storm\n6pm — jacket weather\n😁",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DdqrTdBmog1",
-      "timestamp": "2026-09-24T10:31:37+0000",
-      "metrics": {
-        "views": 6452,
-        "likes": 299,
-        "replies": 14,
-        "reposts": 32,
-        "quotes": 3,
-        "shares": 5
-      },
-      "engagement": 348
-    },
-    {
-      "id": "18165657991483169",
-      "text": "Mitos: Great Ocean Road itu wajib dikebut dalam sehari biar \"nggak rugi\".\nRealita: justru yang nge-rush malah pulang den",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DdqnxWSG6K1",
-      "timestamp": "2026-09-24T10:01:17+0000",
-      "metrics": {
-        "views": 3,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "18023503571926352",
-      "text": "Tokyo itu kota yang anehnya paling ga bikin aku overwhelmed — padahal stimulasinya probably salah satu yang terbesar di ",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DdqaCBYleDz",
-      "timestamp": "2026-09-24T08:01:14+0000",
-      "metrics": {
-        "views": 59,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
     }
   ]
 }
