@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-09-25T18:43:20.939Z",
+  "updated_at": "2026-09-25T22:29:33.372Z",
   "profile": {
     "username": "iams_ichi",
     "name": "I.petch",
     "biography": "🇦🇺\nCMO at COA.AU \nNo-Code App Builder\nIt’s about the vibe and the feeling. \nThe names of the places? \nI sometimes forget ... \ncmo@coa.au",
-    "picture": "https://scontent-lga3-3.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=kuOi5zCf2scQ7kNvwHV3RiF&_nc_oc=AdpwBxs1z_5BPBoaIjrKnE8eLpskTf85xvqfXBUFX4AqfwS27kmQpjQagGkbhRloAh0&_nc_zt=24&_nc_ht=scontent-lga3-3.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=9EPjvSar98BeSNtIgUYKjw&_nc_tpa=Q5bMBQIfO9XANtTBHotdNQKKLO1YlA8I11tQf5Wdlp9AE4L7bSctJ7dREQ6z3u5qCw2JXZ8UYdrNkGDwmw&oh=00_AQLhJLfALc81QrRqDGcgtTzF0HHuZa5H4cGrzaGA56hIJA&oe=6ABC865E"
+    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=kuOi5zCf2scQ7kNvwHoo4M6&_nc_oc=AdrSsxtdKKS1It7kaYX4PgaDLPMvVIncC_75bT1DAVXJdYoGoS_LkgVTG2CZb7NpeQY&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=ff1w2KKwP9f2X08Txt64Zg&_nc_tpa=Q5bMBQJAnk_ldZXBaTGJXqUyMrUG4Mk-KwOQQ9htKZK3vaBRCWi3_t4_1w_eY9AJHCfcXUCFfSmqURj0_A&oh=00_AQJbSqH_HkhYfeRetn-1sfWdzy1DTZryVodRKCC2rNs9xQ&oe=6ABCBE9E"
   },
   "summary": {
     "followers_count": 1366,
-    "views": 1869,
+    "views": 1948,
     "likes": 91,
-    "replies": 4,
+    "replies": 5,
     "reposts": 11,
     "quotes": 1,
     "profile_views": null,
-    "engagement_total": 642,
-    "engagement_rate": 34.35,
+    "engagement_total": 640,
+    "engagement_rate": 32.85,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -27,7 +27,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DdqrTdBmog1",
       "timestamp": "2026-09-24T10:31:37+0000",
       "metrics": {
-        "views": 9861,
+        "views": 9896,
         "likes": 521,
         "replies": 18,
         "reposts": 55,
@@ -42,7 +42,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DdsEcZKDT0c",
       "timestamp": "2026-09-24T23:31:04+0000",
       "metrics": {
-        "views": 325,
+        "views": 371,
         "likes": 13,
         "replies": 4,
         "reposts": 0,
@@ -99,6 +99,21 @@
   ],
   "recent_posts": [
     {
+      "id": "17992486629012239",
+      "text": "Surganya adventure traveling. Sneak peek campervan sleep over on beach ⛱️ 😊.",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DduXmg9kwFA",
+      "timestamp": "2026-09-25T20:57:44+0000",
+      "metrics": {
+        "views": 6,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "18164641477473076",
       "text": "Dulu mikir road trip itu soal seberapa jauh lo bisa nge-gas dalam sehari.\nTernyata bagian yang paling nginep di kepala j",
       "permalink": "https://www.threads.com/@iams_ichi/post/DdtoCppG9WB",
@@ -149,7 +164,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dds-02zGx-F",
       "timestamp": "2026-09-25T08:01:14+0000",
       "metrics": {
-        "views": 14,
+        "views": 15,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -224,7 +239,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DdsEcZKDT0c",
       "timestamp": "2026-09-24T23:31:04+0000",
       "metrics": {
-        "views": 325,
+        "views": 371,
         "likes": 13,
         "replies": 4,
         "reposts": 0,
@@ -232,21 +247,6 @@
         "shares": 1
       },
       "engagement": 17
-    },
-    {
-      "id": "18152938705525599",
-      "text": "Good 🌄 morning Kenny Shelby 🤗. Bright this morning",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DdrvDStE7Mb",
-      "timestamp": "2026-09-24T20:23:37+0000",
-      "metrics": {
-        "views": 6,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
     }
   ]
 }
