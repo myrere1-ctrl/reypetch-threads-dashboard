@@ -1,48 +1,33 @@
 {
   "account": "iams",
-  "updated_at": "2026-09-26T19:56:57.780Z",
+  "updated_at": "2026-09-26T22:57:52.515Z",
   "profile": {
     "username": "iams_ichi",
     "name": "I.petch",
     "biography": "🇦🇺\nCMO at COA.AU \nNo-Code App Builder\nIt’s about the vibe and the feeling. \nThe names of the places? \nI sometimes forget ... \ncmo@coa.au",
-    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=kuOi5zCf2scQ7kNvwGSnc66&_nc_oc=AdrBulwwc1aK_2VlpTKtxVPjtZSUfzy_EleC8X_voRrJ1Pr_vak-V2oxTbITI0s1uYw&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=xdodiIHm_ggXHaVR3Zz4TQ&_nc_tpa=Q5bMBQIIcuXrlL1YxXrffiqoOEPHUGHx-2f4UYHfIeAwVxfDzi7ziG0ZIkUnAOgM1buhMjfM82GylikCgw&oh=00_AQI5D3aYuEHFYaMDAyTfIhy7TYH-egyNz42nQqk9AqidPg&oe=6ABE101E"
+    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=kuOi5zCf2scQ7kNvwH2iEK7&_nc_oc=AdpxPcF1BP3OZ2RwB24HDFLPLtLe3zKBU_t4noSWG817Lfp0pj-I2IxLfOPDm4yHIyg&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=I64IAYyRm_FJ-ZQcc1E7Hw&_nc_tpa=Q5bMBQIaJOpYObW8ywm7jMxwflijIOStKkVgr84jPGtyqt0pKseN_xoXe_MRZ5Bdcc1Lfi_fVho1jhWKgA&oh=00_AQLo7A54fgGloTXlu8mm-KvSKOuyZABr8pZyUTMr8U4fVw&oe=6ABE101E"
   },
   "summary": {
     "followers_count": 1364,
-    "views": 2401,
+    "views": 2660,
     "likes": 31,
     "replies": 2,
     "reposts": 4,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 679,
-    "engagement_rate": 28.28,
+    "engagement_total": 74,
+    "engagement_rate": 2.78,
     "curiosity_score": null,
     "post_count": 25
   },
   "top_posts": [
-    {
-      "id": "18117704228069489",
-      "text": "Australian weather:\n8am — freezing\n11am — summer\n3pm — storm\n6pm — jacket weather\n😁",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DdqrTdBmog1",
-      "timestamp": "2026-09-24T10:31:37+0000",
-      "metrics": {
-        "views": 10043,
-        "likes": 524,
-        "replies": 18,
-        "reposts": 56,
-        "quotes": 7,
-        "shares": 12
-      },
-      "engagement": 605
-    },
     {
       "id": "18631879903039278",
       "text": "Solo traveler itu nggak se-\"healing\" yang kamu kira. Malah bisa bahaya kalau salah mindset. Unpopular opinion incoming. ",
       "permalink": "https://www.threads.com/@iams_ichi/post/DdvxRbMiJwU",
       "timestamp": "2026-09-26T09:59:59+0000",
       "metrics": {
-        "views": 1153,
+        "views": 1286,
         "likes": 23,
         "replies": 7,
         "reposts": 3,
@@ -95,16 +80,46 @@
         "shares": 0
       },
       "engagement": 3
+    },
+    {
+      "id": "17935931028383146",
+      "text": "Jujur . \nWeekday Senin s/d Jumat postingan disini 50-80% run automation with AI generate text, sisanya by Me(manual) ter",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DdvW8oKAUVH",
+      "timestamp": "2026-09-26T06:09:57+0000",
+      "metrics": {
+        "views": 1,
+        "likes": 0,
+        "replies": 2,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 2
     }
   ],
   "recent_posts": [
+    {
+      "id": "18129483517757933",
+      "text": "Social media is .... — it rewards distance more than it punishes feeling too much.",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DdxDqWZEwUA",
+      "timestamp": "2026-09-26T21:59:54+0000",
+      "metrics": {
+        "views": 4,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
     {
       "id": "18631879903039278",
       "text": "Solo traveler itu nggak se-\"healing\" yang kamu kira. Malah bisa bahaya kalau salah mindset. Unpopular opinion incoming. ",
       "permalink": "https://www.threads.com/@iams_ichi/post/DdvxRbMiJwU",
       "timestamp": "2026-09-26T09:59:59+0000",
       "metrics": {
-        "views": 1153,
+        "views": 1286,
         "likes": 23,
         "replies": 7,
         "reposts": 3,
@@ -134,7 +149,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DdvWX_PgIxs",
       "timestamp": "2026-09-26T06:04:57+0000",
       "metrics": {
-        "views": 190,
+        "views": 191,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -149,7 +164,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DdvWYC2AAhK",
       "timestamp": "2026-09-26T06:04:57+0000",
       "metrics": {
-        "views": 300,
+        "views": 301,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -232,21 +247,6 @@
         "shares": 0
       },
       "engagement": 2
-    },
-    {
-      "id": "17992486629012239",
-      "text": "Surganya adventure traveling. Sneak peek campervan sleep over on beach ⛱️ 😊.",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DduXmg9kwFA",
-      "timestamp": "2026-09-25T20:57:44+0000",
-      "metrics": {
-        "views": 8,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
     }
   ]
 }
