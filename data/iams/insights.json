@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-09-26T07:50:33.460Z",
+  "updated_at": "2026-09-26T13:12:46.115Z",
   "profile": {
     "username": "iams_ichi",
     "name": "I.petch",
     "biography": "🇦🇺\nCMO at COA.AU \nNo-Code App Builder\nIt’s about the vibe and the feeling. \nThe names of the places? \nI sometimes forget ... \ncmo@coa.au",
-    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=kuOi5zCf2scQ7kNvwEF0KfB&_nc_oc=AdrAPG3HcK31JEaOojdYyOBa6QA7Jeue8OXrjU48cqu1OX4ZMz2XfoB3GBndnxbZYOU&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=LSiQRa3i_0HRs0GwKPV5uA&_nc_tpa=Q5bMBQLr46n1bB629KI8Mo_YE3z1HKXYSuckHxZbHXmstfgKybG6qTvnQj-loG0CyywHV6jEFomLVVTZ9w&oh=00_AQKj-JQ8P4JbvS8SIKJxLQ_DU9HJIzf4qAo2ptYB5SMzeg&oe=6ABD675E"
+    "picture": "https://scontent-lga3-3.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=kuOi5zCf2scQ7kNvwHCUJMO&_nc_oc=AdrryhbgPBfzLGnnG3ydAO6Z2IVUwRjyg6GYzmV03wfOubDuxqGe8CHeJCg9r9TDtmw&_nc_zt=24&_nc_ht=scontent-lga3-3.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=QHqK0-e_m5fAgFoJv_-GQw&_nc_tpa=Q5bMBQKZcPmu_LMTM7hsizX9tRf7ZD2fDoMLDAuTyVlmja9AhMSszXpgTr58RNK6vc2cXXvWQ1DmHb07HA&oh=00_AQLEbT0pTqcm9JDPvOmg1F7sw9Eo4ZfZI_UqzM5eI6eenQ&oe=6ABD9F9E"
   },
   "summary": {
     "followers_count": 1366,
-    "views": 44,
-    "likes": 0,
+    "views": 914,
+    "likes": 7,
     "replies": 0,
-    "reposts": 0,
+    "reposts": 1,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 645,
-    "engagement_rate": 1465.91,
+    "engagement_total": 658,
+    "engagement_rate": 71.99,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -27,14 +27,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DdqrTdBmog1",
       "timestamp": "2026-09-24T10:31:37+0000",
       "metrics": {
-        "views": 9968,
-        "likes": 522,
+        "views": 10015,
+        "likes": 523,
         "replies": 18,
         "reposts": 56,
         "quotes": 7,
         "shares": 12
       },
-      "engagement": 603
+      "engagement": 604
     },
     {
       "id": "17959752606215425",
@@ -42,7 +42,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DdsEcZKDT0c",
       "timestamp": "2026-09-24T23:31:04+0000",
       "metrics": {
-        "views": 394,
+        "views": 395,
         "likes": 13,
         "replies": 4,
         "reposts": 0,
@@ -50,6 +50,21 @@
         "shares": 1
       },
       "engagement": 17
+    },
+    {
+      "id": "18631879903039278",
+      "text": "Solo traveler itu nggak se-\"healing\" yang kamu kira. Malah bisa bahaya kalau salah mindset. Unpopular opinion incoming. ",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DdvxRbMiJwU",
+      "timestamp": "2026-09-26T09:59:59+0000",
+      "metrics": {
+        "views": 415,
+        "likes": 7,
+        "replies": 5,
+        "reposts": 1,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 13
     },
     {
       "id": "17915114994259524",
@@ -80,6 +95,23 @@
         "shares": 0
       },
       "engagement": 3
+    }
+  ],
+  "recent_posts": [
+    {
+      "id": "18631879903039278",
+      "text": "Solo traveler itu nggak se-\"healing\" yang kamu kira. Malah bisa bahaya kalau salah mindset. Unpopular opinion incoming. ",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DdvxRbMiJwU",
+      "timestamp": "2026-09-26T09:59:59+0000",
+      "metrics": {
+        "views": 415,
+        "likes": 7,
+        "replies": 5,
+        "reposts": 1,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 13
     },
     {
       "id": "17935931028383146",
@@ -87,24 +119,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DdvW8oKAUVH",
       "timestamp": "2026-09-26T06:09:57+0000",
       "metrics": {
-        "views": 0,
-        "likes": 0,
-        "replies": 2,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 2
-    }
-  ],
-  "recent_posts": [
-    {
-      "id": "17935931028383146",
-      "text": "Jujur . \nWeekday Senin s/d Jumat postingan disini 50-80% run automation with AI generate text, sisanya by Me(manual) ter",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DdvW8oKAUVH",
-      "timestamp": "2026-09-26T06:09:57+0000",
-      "metrics": {
-        "views": 0,
+        "views": 1,
         "likes": 0,
         "replies": 2,
         "reposts": 0,
@@ -119,7 +134,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DdvWX_PgIxs",
       "timestamp": "2026-09-26T06:04:57+0000",
       "metrics": {
-        "views": 172,
+        "views": 185,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -134,7 +149,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DdvWYC2AAhK",
       "timestamp": "2026-09-26T06:04:57+0000",
       "metrics": {
-        "views": 270,
+        "views": 296,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -149,7 +164,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DdvVsE0AFlb",
       "timestamp": "2026-09-26T05:58:57+0000",
       "metrics": {
-        "views": 23,
+        "views": 35,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -164,7 +179,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DdvIEhVj0uQ",
       "timestamp": "2026-09-26T03:59:57+0000",
       "metrics": {
-        "views": 144,
+        "views": 146,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -209,7 +224,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DduiTm-gG57",
       "timestamp": "2026-09-25T22:29:58+0000",
       "metrics": {
-        "views": 11,
+        "views": 13,
         "likes": 0,
         "replies": 2,
         "reposts": 0,
@@ -225,21 +240,6 @@
       "timestamp": "2026-09-25T20:57:44+0000",
       "metrics": {
         "views": 8,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18164641477473076",
-      "text": "Dulu mikir road trip itu soal seberapa jauh lo bisa nge-gas dalam sehari.\nTernyata bagian yang paling nginep di kepala j",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DdtoCppG9WB",
-      "timestamp": "2026-09-25T14:01:23+0000",
-      "metrics": {
-        "views": 23,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
