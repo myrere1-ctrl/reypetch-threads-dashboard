@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-09-25T22:29:33.372Z",
+  "updated_at": "2026-09-26T01:40:13.939Z",
   "profile": {
     "username": "iams_ichi",
     "name": "I.petch",
     "biography": "🇦🇺\nCMO at COA.AU \nNo-Code App Builder\nIt’s about the vibe and the feeling. \nThe names of the places? \nI sometimes forget ... \ncmo@coa.au",
-    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=kuOi5zCf2scQ7kNvwHoo4M6&_nc_oc=AdrSsxtdKKS1It7kaYX4PgaDLPMvVIncC_75bT1DAVXJdYoGoS_LkgVTG2CZb7NpeQY&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=ff1w2KKwP9f2X08Txt64Zg&_nc_tpa=Q5bMBQJAnk_ldZXBaTGJXqUyMrUG4Mk-KwOQQ9htKZK3vaBRCWi3_t4_1w_eY9AJHCfcXUCFfSmqURj0_A&oh=00_AQJbSqH_HkhYfeRetn-1sfWdzy1DTZryVodRKCC2rNs9xQ&oe=6ABCBE9E"
+    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=kuOi5zCf2scQ7kNvwEfySI0&_nc_oc=Ado2bCsooZr3zm-bYuNT6TN1fE_eEo_ytH5F5qt8hzG286tQDh-icR4VG2SRkj62VtU&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=pujOJdTTb15xU-eQCr1DiA&_nc_tpa=Q5bMBQJSWsXycaLAFrD7Mt4fCdeAqxlT00bS5iwP64TtrPCtJVhqiHkaG1U__Uppn4wIDmPFcigEkfcffA&oh=00_AQKQ470jFi_2ty_tOCskMgcKubggKCvUcIjaXXU3fDfumw&oe=6ABCF6DE"
   },
   "summary": {
     "followers_count": 1366,
-    "views": 1948,
-    "likes": 91,
+    "views": 2021,
+    "likes": 92,
     "replies": 5,
-    "reposts": 11,
+    "reposts": 12,
     "quotes": 1,
     "profile_views": null,
-    "engagement_total": 640,
-    "engagement_rate": 32.85,
+    "engagement_total": 643,
+    "engagement_rate": 31.82,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -27,14 +27,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DdqrTdBmog1",
       "timestamp": "2026-09-24T10:31:37+0000",
       "metrics": {
-        "views": 9896,
-        "likes": 521,
+        "views": 9916,
+        "likes": 522,
         "replies": 18,
-        "reposts": 55,
+        "reposts": 56,
         "quotes": 7,
         "shares": 12
       },
-      "engagement": 601
+      "engagement": 603
     },
     {
       "id": "17959752606215425",
@@ -42,7 +42,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DdsEcZKDT0c",
       "timestamp": "2026-09-24T23:31:04+0000",
       "metrics": {
-        "views": 371,
+        "views": 393,
         "likes": 13,
         "replies": 4,
         "reposts": 0,
@@ -57,7 +57,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DdsxGLGFdn2",
       "timestamp": "2026-09-25T06:01:15+0000",
       "metrics": {
-        "views": 221,
+        "views": 223,
         "likes": 4,
         "replies": 1,
         "reposts": 2,
@@ -72,7 +72,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DdtaXurG5IA",
       "timestamp": "2026-09-25T12:01:55+0000",
       "metrics": {
-        "views": 19,
+        "views": 20,
         "likes": 2,
         "replies": 1,
         "reposts": 0,
@@ -87,7 +87,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Ddq8RyEjS5l",
       "timestamp": "2026-09-24T12:59:57+0000",
       "metrics": {
-        "views": 12,
+        "views": 13,
         "likes": 0,
         "replies": 2,
         "reposts": 0,
@@ -99,12 +99,27 @@
   ],
   "recent_posts": [
     {
+      "id": "18149710861551620",
+      "text": "Sanur has this way of hiding the best things — a small two-storey shophouse on the main road, outdoor seating, a name I'",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DduiTm-gG57",
+      "timestamp": "2026-09-25T22:29:58+0000",
+      "metrics": {
+        "views": 10,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
       "id": "17992486629012239",
       "text": "Surganya adventure traveling. Sneak peek campervan sleep over on beach ⛱️ 😊.",
       "permalink": "https://www.threads.com/@iams_ichi/post/DduXmg9kwFA",
       "timestamp": "2026-09-25T20:57:44+0000",
       "metrics": {
-        "views": 6,
+        "views": 8,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -119,7 +134,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DdtoCppG9WB",
       "timestamp": "2026-09-25T14:01:23+0000",
       "metrics": {
-        "views": 22,
+        "views": 23,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -134,7 +149,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DdtaXurG5IA",
       "timestamp": "2026-09-25T12:01:55+0000",
       "metrics": {
-        "views": 19,
+        "views": 20,
         "likes": 2,
         "replies": 1,
         "reposts": 0,
@@ -149,7 +164,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DdtMkHIoDTT",
       "timestamp": "2026-09-25T10:01:17+0000",
       "metrics": {
-        "views": 131,
+        "views": 133,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -164,7 +179,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dds-02zGx-F",
       "timestamp": "2026-09-25T08:01:14+0000",
       "metrics": {
-        "views": 15,
+        "views": 16,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -179,7 +194,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DdsxGLGFdn2",
       "timestamp": "2026-09-25T06:01:15+0000",
       "metrics": {
-        "views": 221,
+        "views": 223,
         "likes": 4,
         "replies": 1,
         "reposts": 2,
@@ -194,7 +209,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DdsjXLijQyo",
       "timestamp": "2026-09-25T04:01:15+0000",
       "metrics": {
-        "views": 17,
+        "views": 18,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -209,7 +224,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DdsVoPqFKOv",
       "timestamp": "2026-09-25T02:01:14+0000",
       "metrics": {
-        "views": 67,
+        "views": 68,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -224,7 +239,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DdsRs8hAYbN",
       "timestamp": "2026-09-25T01:26:24+0000",
       "metrics": {
-        "views": 84,
+        "views": 85,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -232,21 +247,6 @@
         "shares": 0
       },
       "engagement": 0
-    },
-    {
-      "id": "17959752606215425",
-      "text": "Dulu mikir Paris itu destinasi buat orang yang suka keramaian — ramai, touristy, overwhelm.\nTernyata kota ini justru pal",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DdsEcZKDT0c",
-      "timestamp": "2026-09-24T23:31:04+0000",
-      "metrics": {
-        "views": 371,
-        "likes": 13,
-        "replies": 4,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 1
-      },
-      "engagement": 17
     }
   ]
 }
