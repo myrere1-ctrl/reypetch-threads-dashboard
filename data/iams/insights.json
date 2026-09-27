@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-09-27T01:33:42.477Z",
+  "updated_at": "2026-09-27T08:20:22.833Z",
   "profile": {
     "username": "iams_ichi",
     "name": "I.petch",
     "biography": "🇦🇺\nCMO at COA.AU \nNo-Code App Builder\nIt’s about the vibe and the feeling. \nThe names of the places? \nI sometimes forget ... \ncmo@coa.au",
-    "picture": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=kuOi5zCf2scQ7kNvwGZ4-zl&_nc_oc=AdrFeXvPPPM2-TzxSTRxRAy6EeIYBOFtfOF9qzHaYwKrFIA_5O0mBGvomqEPvhUXhsw&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=-7R2v2NEPngi75bL8V6jlA&_nc_tpa=Q5bMBQJlW-gcKCRwVrI72rwSzPTPI5_e93S-Zhv7Y2SnRtJKUI-lOcGlDQWkUvd8dcACyqslGJnN3DFGcg&oh=00_AQLWuB3TJmWjRnY3hGmw1d9JDumZdHQNpMutSVrc294Cxg&oe=6ABE485E"
+    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=kuOi5zCf2scQ7kNvwHqighb&_nc_oc=AdqWn32jmF87EAb21vDLUtUiYedWUKnEsJskQx_qi1HUrbDz1LKTzY0RxTnnuVuRpUY&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=IGwdZaf40s6VAVCdKs2Ogw&_nc_tpa=Q5bMBQKb9Kdrf7E3rKu-NTfejEo7b0WJa7ZhoqI79qtkZpOAkLDDgDcPXQzM9NnKlRhBfB36sa4AYjlEkQ&oh=00_AQIrY5TH10R7BLBCahklXjwPlPJxqerW2ytv7dJYpldhhA&oe=6ABEB8DE"
   },
   "summary": {
     "followers_count": 1364,
-    "views": 2878,
-    "likes": 34,
-    "replies": 3,
-    "reposts": 5,
+    "views": 107,
+    "likes": 2,
+    "replies": 0,
+    "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 79,
-    "engagement_rate": 2.74,
+    "engagement_total": 91,
+    "engagement_rate": 85.05,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -27,14 +27,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DdvxRbMiJwU",
       "timestamp": "2026-09-26T09:59:59+0000",
       "metrics": {
-        "views": 1392,
-        "likes": 26,
+        "views": 1692,
+        "likes": 28,
         "replies": 8,
         "reposts": 4,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 38
+      "engagement": 40
     },
     {
       "id": "17959752606215425",
@@ -42,7 +42,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DdsEcZKDT0c",
       "timestamp": "2026-09-24T23:31:04+0000",
       "metrics": {
-        "views": 398,
+        "views": 399,
         "likes": 13,
         "replies": 4,
         "reposts": 0,
@@ -50,6 +50,21 @@
         "shares": 1
       },
       "engagement": 17
+    },
+    {
+      "id": "17981931062900580",
+      "text": "Ke Sydney 16 Juta+ ALL IN — Strategi Backpacker Realistis, Bukan Mimpi!\n\n1/ Teman gue baru balik dari Sydney. 2 minggu. ",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DdxnHEOmk3b",
+      "timestamp": "2026-09-27T03:09:40+0000",
+      "metrics": {
+        "views": 641,
+        "likes": 2,
+        "replies": 8,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 10
     },
     {
       "id": "17915114994259524",
@@ -80,31 +95,31 @@
         "shares": 0
       },
       "engagement": 3
-    },
+    }
+  ],
+  "recent_posts": [
     {
-      "id": "17935931028383146",
-      "text": "Jujur . \nWeekday Senin s/d Jumat postingan disini 50-80% run automation with AI generate text, sisanya by Me(manual) ter",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DdvW8oKAUVH",
-      "timestamp": "2026-09-26T06:09:57+0000",
+      "id": "17981931062900580",
+      "text": "Ke Sydney 16 Juta+ ALL IN — Strategi Backpacker Realistis, Bukan Mimpi!\n\n1/ Teman gue baru balik dari Sydney. 2 minggu. ",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DdxnHEOmk3b",
+      "timestamp": "2026-09-27T03:09:40+0000",
       "metrics": {
-        "views": 1,
-        "likes": 0,
-        "replies": 2,
+        "views": 641,
+        "likes": 2,
+        "replies": 8,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 2
-    }
-  ],
-  "recent_posts": [
+      "engagement": 10
+    },
     {
       "id": "18129483517757933",
       "text": "Social media is .... — it rewards distance more than it punishes feeling too much.",
       "permalink": "https://www.threads.com/@iams_ichi/post/DdxDqWZEwUA",
       "timestamp": "2026-09-26T21:59:54+0000",
       "metrics": {
-        "views": 7,
+        "views": 10,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -119,14 +134,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DdvxRbMiJwU",
       "timestamp": "2026-09-26T09:59:59+0000",
       "metrics": {
-        "views": 1392,
-        "likes": 26,
+        "views": 1692,
+        "likes": 28,
         "replies": 8,
         "reposts": 4,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 38
+      "engagement": 40
     },
     {
       "id": "17935931028383146",
@@ -134,7 +149,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DdvW8oKAUVH",
       "timestamp": "2026-09-26T06:09:57+0000",
       "metrics": {
-        "views": 1,
+        "views": 3,
         "likes": 0,
         "replies": 2,
         "reposts": 0,
@@ -149,7 +164,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DdvWX_PgIxs",
       "timestamp": "2026-09-26T06:04:57+0000",
       "metrics": {
-        "views": 196,
+        "views": 202,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -164,7 +179,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DdvWYC2AAhK",
       "timestamp": "2026-09-26T06:04:57+0000",
       "metrics": {
-        "views": 301,
+        "views": 304,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -179,7 +194,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DdvVsE0AFlb",
       "timestamp": "2026-09-26T05:58:57+0000",
       "metrics": {
-        "views": 35,
+        "views": 40,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -194,7 +209,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DdvIEhVj0uQ",
       "timestamp": "2026-09-26T03:59:57+0000",
       "metrics": {
-        "views": 148,
+        "views": 149,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -209,24 +224,9 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DdvDzjrmrRm",
       "timestamp": "2026-09-26T03:22:41+0000",
       "metrics": {
-        "views": 1,
-        "likes": 0,
+        "views": 3,
+        "likes": 1,
         "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18137426917626238",
-      "text": "Reflection Holiday Park Red Rocks - Coff Hbr.\nTerusan pantai yang seperti swimming pool tepat di depan pjntu masuk Refle",
-      "permalink": "https://www.threads.com/@iams_ichi/post/Ddu5vgAAfK8",
-      "timestamp": "2026-09-26T02:09:33+0000",
-      "metrics": {
-        "views": 1,
-        "likes": 0,
-        "replies": 1,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
@@ -234,19 +234,19 @@
       "engagement": 1
     },
     {
-      "id": "18149710861551620",
-      "text": "Sanur has this way of hiding the best things — a small two-storey shophouse on the main road, outdoor seating, a name I'",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DduiTm-gG57",
-      "timestamp": "2026-09-25T22:29:58+0000",
+      "id": "18137426917626238",
+      "text": "Reflection Holiday Park Red Rocks - Coff Hbr.\nTerusan pantai yang seperti swimming pool tepat di depan pjntu masuk Refle",
+      "permalink": "https://www.threads.com/@iams_ichi/post/Ddu5vgAAfK8",
+      "timestamp": "2026-09-26T02:09:33+0000",
       "metrics": {
-        "views": 13,
+        "views": 3,
         "likes": 0,
-        "replies": 2,
+        "replies": 1,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 2
+      "engagement": 1
     }
   ]
 }
