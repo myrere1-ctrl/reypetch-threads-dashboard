@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-09-27T14:08:58.736Z",
+  "updated_at": "2026-09-27T18:30:05.900Z",
   "profile": {
     "username": "iams_ichi",
     "name": "I.petch",
     "biography": "🇦🇺\nCMO at COA.AU \nNo-Code App Builder\nIt’s about the vibe and the feeling. \nThe names of the places? \nI sometimes forget ... \ncmo@coa.au",
-    "picture": "https://scontent-qro3-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=kuOi5zCf2scQ7kNvwFEgoUU&_nc_oc=Adp_JhgC0pcoGLZ0dQ6AtIb32S1HPoHgir6iahN3-LPfFOiivJpEFXk9yHdLecC6CRs&_nc_zt=24&_nc_ht=scontent-qro3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=UznYuV9UrXQG8nz-edeAEQ&_nc_tpa=Q5bMBQJeOInwB4Mykl1BG9EjMMm5-RGJoyLM4bDdUYNekDm0d4fvBxyROb0FMdVox-3EJ43bOx0NXzw0lw&oh=00_AQKZwnh1VRHOEgrR0WTeobCUVaptAG1TIwUm4ySwnP_Lzw&oe=6ABEF11E"
+    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=kuOi5zCf2scQ7kNvwGjw13A&_nc_oc=Adr7NJ8E9mrcejix8g6IYu_yNutWdqsJCv6X9aiDfBp2BgnOCmdA5Tn-3y_5L8MHqAE&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=HMuYoLNzmJ_jnnr3W-eE0A&_nc_tpa=Q5bMBQLJLGjL0P_D3ktOwizfJlGH7-W3a3A-4g6EOAT3Lwnj60OL6vnsnUCbwEN40u-gZZk3OJ3sHuuEkw&oh=00_AQK-kXil3TJ-qH2krenJLYjBgrPu99JvA962_vG1pDq0Kg&oe=6ABF295E"
   },
   "summary": {
     "followers_count": 1365,
-    "views": 832,
-    "likes": 7,
+    "views": 1098,
+    "likes": 8,
     "replies": 5,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 95,
-    "engagement_rate": 11.42,
+    "engagement_total": 96,
+    "engagement_rate": 8.74,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -27,7 +27,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DdvxRbMiJwU",
       "timestamp": "2026-09-26T09:59:59+0000",
       "metrics": {
-        "views": 1746,
+        "views": 1750,
         "likes": 29,
         "replies": 8,
         "reposts": 4,
@@ -57,14 +57,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DdxnHEOmk3b",
       "timestamp": "2026-09-27T03:09:40+0000",
       "metrics": {
-        "views": 842,
-        "likes": 4,
+        "views": 945,
+        "likes": 5,
         "replies": 9,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 13
+      "engagement": 14
     },
     {
       "id": "17915114994259524",
@@ -104,14 +104,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DdxnHEOmk3b",
       "timestamp": "2026-09-27T03:09:40+0000",
       "metrics": {
-        "views": 842,
-        "likes": 4,
+        "views": 945,
+        "likes": 5,
         "replies": 9,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 13
+      "engagement": 14
     },
     {
       "id": "18129483517757933",
@@ -134,7 +134,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DdvxRbMiJwU",
       "timestamp": "2026-09-26T09:59:59+0000",
       "metrics": {
-        "views": 1746,
+        "views": 1750,
         "likes": 29,
         "replies": 8,
         "reposts": 4,
@@ -194,7 +194,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DdvVsE0AFlb",
       "timestamp": "2026-09-26T05:58:57+0000",
       "metrics": {
-        "views": 43,
+        "views": 44,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
