@@ -27,6 +27,8 @@ const LABELS = {
     avoidLabel: (rules) => `HINDARI KETAT:\n${rules}`,
     outputLabel: 'PENTING - format output WAJIB persis pakai tag:',
     outputFooter: 'Gunakan pipe | untuk jeda baris. JANGAN pakai newline asli di dalam teks. JANGAN pakai quote dobel. JANGAN tulis apapun di luar tag.',
+    historyLanguageNote: '',
+    languageReminder: '',
     affiliateBuildLine: 'Buat 1 post Threads Bahasa Indonesia yang REKOMENDASIIN produk ini secara personal & natural (BUKAN iklan/brosur):',
     affiliateProductLabel: 'Produk',
     affiliateWhyLabel: 'Kenapa worth',
@@ -54,6 +56,8 @@ const LABELS = {
     avoidLabel: (rules) => `STRICTLY AVOID:\n${rules}`,
     outputLabel: 'IMPORTANT - output format MUST use exactly these tags:',
     outputFooter: 'Use a pipe | for line breaks. Do NOT use real newlines inside the text. Do NOT use double quotes. Do NOT write anything outside the tags.',
+    historyLanguageNote: ' (NOTE: these historical examples may be in a different language from before a recent voice switch — IGNORE their language entirely, they\'re only reference for topic/structure/facts.)',
+    languageReminder: 'LANGUAGE REMINDER: no matter what language any examples or history above are written in, your OUTPUT (the actual post text and CTA) MUST be written in English.',
     affiliateBuildLine: 'Write 1 Threads post in English that naturally & personally RECOMMENDS this product (NOT an ad/brochure):',
     affiliateProductLabel: 'Product',
     affiliateWhyLabel: "Why it's worth it",
@@ -115,7 +119,8 @@ function recentPostsBlock(config, recentPosts) {
     .slice(-12)
     .map((t, i) => `${i + 1}. "${(t || '').replace(/\n/g, ' ').slice(0, 160)}"`)
     .join('\n');
-  return `${L(config).recentHistory}\n${lines}`;
+  const t = L(config);
+  return `${t.recentHistory}${t.historyLanguageNote}\n${lines}`;
 }
 
 export function buildPrompt({ config, angle, product, destination, note = '', recentPosts = [] }) {
@@ -158,6 +163,8 @@ export function buildPrompt({ config, angle, product, destination, note = '', re
     '',
     config.antiPatterns ? t.avoidLabel(config.antiPatterns.map((r) => `- ${r}`).join('\n')) : '',
     '',
+    t.languageReminder,
+    t.languageReminder ? '' : null,
     t.outputLabel,
     `<teks>baris1|baris2|baris3</teks>`,
     `<cta>${pickRandom(config.ctaSamples)}</cta>`,
@@ -260,6 +267,8 @@ export function buildAffiliatePrompt({ config, item, recentPosts = [] }) {
     '',
     config.antiPatterns ? t.avoidLabel(config.antiPatterns.map((r) => `- ${r}`).join('\n')) : '',
     '',
+    t.languageReminder,
+    t.languageReminder ? '' : null,
     t.outputLabel,
     `<teks>baris1|baris2|baris3</teks>`,
     `<cta>${t.affiliateCtaExample}</cta>`,
