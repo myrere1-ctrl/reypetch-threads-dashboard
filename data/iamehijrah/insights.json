@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-09-27T22:21:21.585Z",
+  "updated_at": "2026-09-28T00:58:53.924Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-lga3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=ChOURel7bagQ7kNvwFOeYaU&_nc_oc=AdrYvZ4V84vcQTeGA4XSkQbwBqmGw73qrNNcPQawKH36oMuPrKKU4Dl1KJBArhp_WbM&_nc_zt=24&_nc_ht=scontent-lga3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=puJa77DJYujP-n2nEI3fzw&_nc_tpa=Q5bMBQIiY-CsjfV6sPu6xZVJTdPDSAmmJkJ3OR-7Oz1Zl5Nywzuqyz691mgiYJ1fpj1_Hn9aWz5iVvGo4w&oh=00_AQOR1pLfIuODYPE5Ez1M6z55-K7TWV6P47sl71ohEUgUYg&oe=6ABF5313"
+    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=ChOURel7bagQ7kNvwEg6i0w&_nc_oc=AdpLkHtc03OjzcUD33RhqqUMZmHt3z_5bR2cMdpIGLqv6Pol3RMbl8Yboutjq4syw9U&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=NjUX4rL-tFSyF4164CCXcQ&_nc_tpa=Q5bMBQLXHpQMg37JWSyYhdZ1uEmbFIu3FagIHFlhrK9Q1bJA-Mojfx4t-XBBx7FudFmHmcKG437z_yn97Q&oh=00_AQOXLdP2q7MWgjbK6XQAnag_MaIc9_rREEAyFVteKnM6_Q&oe=6ABF8B53"
   },
   "summary": {
     "followers_count": 6,
-    "views": 1220,
-    "likes": 23,
+    "views": 1301,
+    "likes": 24,
     "replies": 0,
     "reposts": 3,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 123,
-    "engagement_rate": 10.08,
+    "engagement_total": 124,
+    "engagement_rate": 9.53,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -25,7 +25,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DdwJTWDjHzu",
       "timestamp": "2026-09-26T13:29:57+0000",
       "metrics": {
-        "views": 1085,
+        "views": 1086,
         "likes": 9,
         "replies": 6,
         "reposts": 2,
@@ -33,6 +33,21 @@
         "shares": 1
       },
       "engagement": 17
+    },
+    {
+      "id": "17877097704631390",
+      "text": "7 Teknik Berdoa dalam Islam yang Bikin Kamu Lebih Fokus dari Meditasi Manapun (kebanyakan Muslim tidak tahu ini) \n\n1/ Ka",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdywYuUADms",
+      "timestamp": "2026-09-27T13:49:57+0000",
+      "metrics": {
+        "views": 305,
+        "likes": 7,
+        "replies": 7,
+        "reposts": 2,
+        "quotes": 0,
+        "shares": 1
+      },
+      "engagement": 16
     },
     {
       "id": "18090760397187940",
@@ -48,21 +63,6 @@
         "shares": 1
       },
       "engagement": 16
-    },
-    {
-      "id": "17877097704631390",
-      "text": "7 Teknik Berdoa dalam Islam yang Bikin Kamu Lebih Fokus dari Meditasi Manapun (kebanyakan Muslim tidak tahu ini) \n\n1/ Ka",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdywYuUADms",
-      "timestamp": "2026-09-27T13:49:57+0000",
-      "metrics": {
-        "views": 270,
-        "likes": 6,
-        "replies": 7,
-        "reposts": 2,
-        "quotes": 0,
-        "shares": 1
-      },
-      "engagement": 15
     },
     {
       "id": "18127907788692802",
@@ -102,7 +102,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Ddzoj3CmHWw",
       "timestamp": "2026-09-27T22:01:21+0000",
       "metrics": {
-        "views": 0,
+        "views": 50,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -132,14 +132,14 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DdywYuUADms",
       "timestamp": "2026-09-27T13:49:57+0000",
       "metrics": {
-        "views": 270,
-        "likes": 6,
+        "views": 305,
+        "likes": 7,
         "replies": 7,
         "reposts": 2,
         "quotes": 0,
         "shares": 1
       },
-      "engagement": 15
+      "engagement": 16
     },
     {
       "id": "18077451656397738",
