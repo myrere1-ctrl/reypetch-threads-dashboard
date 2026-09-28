@@ -1,31 +1,46 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-09-28T00:58:53.924Z",
+  "updated_at": "2026-09-28T07:03:44.236Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=ChOURel7bagQ7kNvwEg6i0w&_nc_oc=AdpLkHtc03OjzcUD33RhqqUMZmHt3z_5bR2cMdpIGLqv6Pol3RMbl8Yboutjq4syw9U&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=NjUX4rL-tFSyF4164CCXcQ&_nc_tpa=Q5bMBQLXHpQMg37JWSyYhdZ1uEmbFIu3FagIHFlhrK9Q1bJA-Mojfx4t-XBBx7FudFmHmcKG437z_yn97Q&oh=00_AQOXLdP2q7MWgjbK6XQAnag_MaIc9_rREEAyFVteKnM6_Q&oe=6ABF8B53"
+    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=ChOURel7bagQ7kNvwEMC-7y&_nc_oc=AdrgK6K_A6rQi4UIBvZUXA1WmsEUPNBm1Ijw_1HCKH0yfjPt1VM1eRgZaYSc7JOqoIw&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=K4tsHIz359pZsihdAG1zoA&_nc_tpa=Q5bMBQJjNktykeyXbu_RkDkk7OQZp8JUYoxhablKReKzwFnK0ZROrFehLs-82INICBirlpGDM0mv4bvbTw&oh=00_AQPOpb1tbN1Ema9mR0j-xoEMLwxSjtCeFy_3egwkts39qQ&oe=6ABFFBD3"
   },
   "summary": {
-    "followers_count": 6,
-    "views": 1301,
-    "likes": 24,
+    "followers_count": 7,
+    "views": 0,
+    "likes": 0,
     "replies": 0,
-    "reposts": 3,
+    "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 124,
-    "engagement_rate": 9.53,
+    "engagement_total": 128,
+    "engagement_rate": 0,
     "curiosity_score": null,
     "post_count": 25
   },
   "top_posts": [
+    {
+      "id": "17877097704631390",
+      "text": "7 Teknik Berdoa dalam Islam yang Bikin Kamu Lebih Fokus dari Meditasi Manapun (kebanyakan Muslim tidak tahu ini) \n\n1/ Ka",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdywYuUADms",
+      "timestamp": "2026-09-27T13:49:57+0000",
+      "metrics": {
+        "views": 334,
+        "likes": 9,
+        "replies": 7,
+        "reposts": 2,
+        "quotes": 0,
+        "shares": 1
+      },
+      "engagement": 18
+    },
     {
       "id": "17988427704026885",
       "text": "Doa 3 Detik yang Dibaca Rasulullah Setiap Malam\nKebanyakan Muslim Melupakannya \n1/ \nKamu tidur rata-rata 8 jam sehari. \n",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DdwJTWDjHzu",
       "timestamp": "2026-09-26T13:29:57+0000",
       "metrics": {
-        "views": 1086,
+        "views": 1088,
         "likes": 9,
         "replies": 6,
         "reposts": 2,
@@ -33,21 +48,6 @@
         "shares": 1
       },
       "engagement": 17
-    },
-    {
-      "id": "17877097704631390",
-      "text": "7 Teknik Berdoa dalam Islam yang Bikin Kamu Lebih Fokus dari Meditasi Manapun (kebanyakan Muslim tidak tahu ini) \n\n1/ Ka",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdywYuUADms",
-      "timestamp": "2026-09-27T13:49:57+0000",
-      "metrics": {
-        "views": 305,
-        "likes": 7,
-        "replies": 7,
-        "reposts": 2,
-        "quotes": 0,
-        "shares": 1
-      },
-      "engagement": 16
     },
     {
       "id": "18090760397187940",
@@ -97,12 +97,42 @@
   ],
   "recent_posts": [
     {
+      "id": "18136319458727819",
+      "text": "Diam-diam aku sering miss dzikir cuma karena lupa bawa tasbih.\nSekarang pakai cincin tasbih — kecil, dipakai aja, dan bi",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dd0cCx7kdSQ",
+      "timestamp": "2026-09-28T05:31:14+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
+      "id": "18209691835364583",
+      "text": "Kapan terakhir kamu sholat Dhuha bukan karena ngejar sesuatu — tapi cuma mau duduk bentar sama Allah?\nAku lagi muhasabah",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Ddz9LB1nROm",
+      "timestamp": "2026-09-28T01:01:30+0000",
+      "metrics": {
+        "views": 60,
+        "likes": 3,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 3
+    },
+    {
       "id": "18117448651964119",
       "text": "Kapan terakhir kamu berdoa khusus untuk orang tua — bukan sisipan, tapi beneran dihayati?\nAku nyadar tadi malam. Doaku u",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Ddzoj3CmHWw",
       "timestamp": "2026-09-27T22:01:21+0000",
       "metrics": {
-        "views": 50,
+        "views": 54,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -117,7 +147,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DdywYykk44J",
       "timestamp": "2026-09-27T13:49:58+0000",
       "metrics": {
-        "views": 130,
+        "views": 132,
         "likes": 2,
         "replies": 0,
         "reposts": 0,
@@ -132,14 +162,14 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DdywYuUADms",
       "timestamp": "2026-09-27T13:49:57+0000",
       "metrics": {
-        "views": 305,
-        "likes": 7,
+        "views": 334,
+        "likes": 9,
         "replies": 7,
         "reposts": 2,
         "quotes": 0,
         "shares": 1
       },
-      "engagement": 16
+      "engagement": 18
     },
     {
       "id": "18077451656397738",
@@ -147,7 +177,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DdyfrpxinoP",
       "timestamp": "2026-09-27T11:24:00+0000",
       "metrics": {
-        "views": 59,
+        "views": 61,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -162,7 +192,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DdyWENEkyOJ",
       "timestamp": "2026-09-27T09:59:58+0000",
       "metrics": {
-        "views": 166,
+        "views": 168,
         "likes": 8,
         "replies": 0,
         "reposts": 0,
@@ -177,7 +207,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DdyLw_9k434",
       "timestamp": "2026-09-27T08:29:58+0000",
       "metrics": {
-        "views": 166,
+        "views": 169,
         "likes": 3,
         "replies": 0,
         "reposts": 1,
@@ -192,7 +222,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Ddx7K-ViaLQ",
       "timestamp": "2026-09-27T06:04:58+0000",
       "metrics": {
-        "views": 115,
+        "views": 117,
         "likes": 4,
         "replies": 1,
         "reposts": 0,
@@ -207,7 +237,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DdxikclirlR",
       "timestamp": "2026-09-27T02:29:59+0000",
       "metrics": {
-        "views": 143,
+        "views": 144,
         "likes": 5,
         "replies": 1,
         "reposts": 0,
@@ -215,36 +245,6 @@
         "shares": 0
       },
       "engagement": 6
-    },
-    {
-      "id": "18019368284938284",
-      "text": "Jujur, dulu aku kira istighfar itu cuma buat pas abis dosa besar.\nTernyata aku salah paham sendiri.\nSekarang aku baca is",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdxYRILgTC9",
-      "timestamp": "2026-09-27T00:59:58+0000",
-      "metrics": {
-        "views": 116,
-        "likes": 1,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "18092560787653346",
-      "text": "Pernah nggak, pikiran lo udah muter-muter dari subuh padahal hari baru mulai?\nAku sering banget gitu. Sampe ngerasa cape",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdxSoYvmRpc",
-      "timestamp": "2026-09-27T00:10:43+0000",
-      "metrics": {
-        "views": 37,
-        "likes": 1,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
     }
   ]
 }
