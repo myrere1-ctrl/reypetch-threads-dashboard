@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-09-28T22:09:12.911Z",
+  "updated_at": "2026-09-29T02:04:42.300Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=ChOURel7bagQ7kNvwG_DOQh&_nc_oc=Adq71qzF3x-kSHIfWDnDh99akQOIdLuOf1h013DwxroqfGWEO6uaZD1DcBj3yU6NLIE&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=hkNHeIA3rOSVA3gZiD4WhQ&_nc_tpa=Q5bMBQKmn_lp7Nw19Wv8lK5dPSV48u9KyZx-p0OPIpSkPshfLojouXOqs_bXsl_3A3HV78Kb5rFoe_DyjA&oh=00_AQO9qNtDqh86Jvpi13dqERvXwSM-V5tX51catyYZ45wKdQ&oe=6AC0A493"
+    "picture": "https://scontent-qro3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=ChOURel7bagQ7kNvwEGGCWP&_nc_oc=AdrTHGsu_yFgCvB3uGOW6hgOpyzt5kjtwe8Ga6NKOtA57LD_7q-DgPUv-LDURk7PFdQ&_nc_zt=24&_nc_ht=scontent-qro3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=noQwkVWgDCtePtTx1QOGmw&_nc_tpa=Q5bMBQIk1W-00oLFOW2RGQ03o8K7ON8P44rVM57fsFuO6mKn6M5lleGS8trCaCCXEBSiRiPZzdR1nwqWxQ&oh=00_AQM_RKvtZWM6RfwcvrSfPRXjVi2VJy59ea-B4VAGOIH_Dw&oe=6AC0DCD3"
   },
   "summary": {
     "followers_count": 9,
-    "views": 338,
-    "likes": 5,
+    "views": 598,
+    "likes": 9,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 119,
-    "engagement_rate": 35.21,
+    "engagement_total": 116,
+    "engagement_rate": 19.4,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -25,7 +25,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DdywYuUADms",
       "timestamp": "2026-09-27T13:49:57+0000",
       "metrics": {
-        "views": 405,
+        "views": 406,
         "likes": 10,
         "replies": 7,
         "reposts": 2,
@@ -97,19 +97,34 @@
   ],
   "recent_posts": [
     {
-      "id": "17909796024520352",
-      "text": "Husnudzon sama Allah itu ternyata paling susah dilatih justru habis Subuh.\nPagi-pagi, pikiran masih jernih — tapi malah ",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dd2NXRplo7K",
-      "timestamp": "2026-09-28T22:01:27+0000",
+      "id": "18392631295200932",
+      "text": "Ada satu hal kecil yang menurutku bikin sholat 5 waktu lebih terjaga — tapi jarang disebut.\nBaca Surat Al-Mulk tiap mala",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dd2h-vvmn5Q",
+      "timestamp": "2026-09-29T01:01:35+0000",
       "metrics": {
-        "views": 0,
-        "likes": 1,
+        "views": 120,
+        "likes": 2,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 1
+      "engagement": 2
+    },
+    {
+      "id": "17909796024520352",
+      "text": "Husnudzon sama Allah itu ternyata paling susah dilatih justru habis Subuh.\nPagi-pagi, pikiran masih jernih — tapi malah ",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dd2NXRplo7K",
+      "timestamp": "2026-09-28T22:01:27+0000",
+      "metrics": {
+        "views": 137,
+        "likes": 2,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 2
     },
     {
       "id": "18095151188392423",
@@ -117,7 +132,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dd1kNFxCeyv",
       "timestamp": "2026-09-28T16:01:48+0000",
       "metrics": {
-        "views": 36,
+        "views": 37,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -230,21 +245,6 @@
         "shares": 0
       },
       "engagement": 0
-    },
-    {
-      "id": "18094438337402832",
-      "text": "Kalau malam ini lo tidur sama kepala penuh kekhawatiran — aku ngerti banget rasanya.\nCoba tutup hari sama Surah Al-Mulk ",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdywYykk44J",
-      "timestamp": "2026-09-27T13:49:58+0000",
-      "metrics": {
-        "views": 133,
-        "likes": 2,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 2
     }
   ]
 }
