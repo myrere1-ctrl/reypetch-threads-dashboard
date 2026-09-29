@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-09-29T08:42:35.163Z",
+  "updated_at": "2026-09-29T15:59:45.067Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-lga3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=ChOURel7bagQ7kNvwGOOMvu&_nc_oc=AdrH3INVPRS1808HcbcydzXC_nLOXVWQcMSeT3leiZgWUoN7DiRlas8pBWhcUVAufaE&_nc_zt=24&_nc_ht=scontent-lga3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=jn96r1_syPWTRkwbiDd-6A&_nc_tpa=Q5bMBQIyVi9OsHr86OMxuzBhxUuycSkprgjaUnjXDQ1RUGYYDcJ9qmGzjvbMMUsockIOBfXDd4C08j8quQ&oh=00_AQMKMApEdtpD92LpPuRjPmDxKJbu6pH1rysUf6HG7ixmpg&oe=6AC14D53"
+    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=ChOURel7bagQ7kNvwGVeucv&_nc_oc=AdqgOIjtF2P0vyGWmsOpjazt92pRwKcl7eJLuQ07U_S66MccwQ_GLDtsBaoBu8nQRrk&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=wIuAlB1RRZYm01nYPfwq2w&_nc_tpa=Q5bMBQI8LcyIekgYLMuMLXQrJXH3NABayk0Gff-FuUVqI1Fz4QCS7Jxds5l0njdsYmtzYDQFgsQJEhZrGA&oh=00_AQP2N9ICjo5xnABGXvbVCFlAX7NfV6eLL0W98CZ692xhog&oe=6AC1BDD3"
   },
   "summary": {
     "followers_count": 9,
-    "views": 4,
-    "likes": 0,
+    "views": 173,
+    "likes": 1,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 104,
-    "engagement_rate": 2600,
+    "engagement_total": 68,
+    "engagement_rate": 39.31,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -33,36 +33,6 @@
         "shares": 3
       },
       "engagement": 19
-    },
-    {
-      "id": "17988427704026885",
-      "text": "Doa 3 Detik yang Dibaca Rasulullah Setiap Malam\nKebanyakan Muslim Melupakannya \n1/ \nKamu tidur rata-rata 8 jam sehari. \n",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdwJTWDjHzu",
-      "timestamp": "2026-09-26T13:29:57+0000",
-      "metrics": {
-        "views": 1088,
-        "likes": 9,
-        "replies": 6,
-        "reposts": 2,
-        "quotes": 0,
-        "shares": 1
-      },
-      "engagement": 17
-    },
-    {
-      "id": "18090760397187940",
-      "text": "Pernah nggak sih lagi overthinking tengah malem, terus baca Al-Imran 139 yang artinya 'jangan bersedih, kamu lebih tingg",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Ddv_AVWCblm",
-      "timestamp": "2026-09-26T11:59:59+0000",
-      "metrics": {
-        "views": 393,
-        "likes": 15,
-        "replies": 0,
-        "reposts": 1,
-        "quotes": 0,
-        "shares": 1
-      },
-      "engagement": 16
     },
     {
       "id": "17992305555118526",
@@ -93,16 +63,76 @@
         "shares": 0
       },
       "engagement": 7
+    },
+    {
+      "id": "18096932210344066",
+      "text": "Overthinking level dewa tapi nggak ada yang bisa diajak ngobrol — pernah nggak di titik itu?\nAku pernah, dan satu hal ya",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DdxikclirlR",
+      "timestamp": "2026-09-27T02:29:59+0000",
+      "metrics": {
+        "views": 144,
+        "likes": 5,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 6
+    },
+    {
+      "id": "17960527425212066",
+      "text": "Plot twist: pas aku paling sibuk dan paling stress, itu justru waktu aku paling jarang dzikir.\nPadahal harusnya kebalik,",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Ddx7K-ViaLQ",
+      "timestamp": "2026-09-27T06:04:58+0000",
+      "metrics": {
+        "views": 117,
+        "likes": 4,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 5
     }
   ],
   "recent_posts": [
     {
-      "id": "18116840687047134",
-      "text": "Unpopular opinion: doa yang belum dijawab itu bukan tanda Allah diam — mungkin Dia lagi nahan sesuatu yang lebih baik da",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dd3VeZqm3to",
-      "timestamp": "2026-09-29T08:31:33+0000",
+      "id": "17870199522644284",
+      "text": "Lagi di titik yang rasanya semua jalan buntu dan pikiran ga bisa berhenti?\nAku pernah di fase itu — capek, ngerasa sendi",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dd3-qE-G_EH",
+      "timestamp": "2026-09-29T14:31:26+0000",
       "metrics": {
-        "views": 0,
+        "views": 86,
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
+      "id": "17980462296107896",
+      "text": "Ternyata dzikir panjang itu beneran beda rasanya kalau pegangannya nyaman.\nAku pake Tasbih Kokka Premium — pertama kali ",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dd30Xk8G0Pe",
+      "timestamp": "2026-09-29T13:01:30+0000",
+      "metrics": {
+        "views": 6,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
+      "id": "18147213457484058",
+      "text": "Qadar itu bukan pasrah buta — tapi percaya bahwa Allah tau yang aku ga tau.\nLagi persiapan Umroh, aku sering takut \"gima",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dd3qD85m_hu",
+      "timestamp": "2026-09-29T11:31:27+0000",
+      "metrics": {
+        "views": 23,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -110,6 +140,21 @@
         "shares": 0
       },
       "engagement": 0
+    },
+    {
+      "id": "18116840687047134",
+      "text": "Unpopular opinion: doa yang belum dijawab itu bukan tanda Allah diam — mungkin Dia lagi nahan sesuatu yang lebih baik da",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dd3VeZqm3to",
+      "timestamp": "2026-09-29T08:31:33+0000",
+      "metrics": {
+        "views": 41,
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
     },
     {
       "id": "18055426655641022",
@@ -147,7 +192,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dd2NXRplo7K",
       "timestamp": "2026-09-28T22:01:27+0000",
       "metrics": {
-        "views": 141,
+        "views": 142,
         "likes": 2,
         "replies": 0,
         "reposts": 0,
@@ -193,51 +238,6 @@
       "timestamp": "2026-09-28T13:01:30+0000",
       "metrics": {
         "views": 3,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "18229618726330324",
-      "text": "Muhasabah itu kadang datengnya ga direncanain — tiba-tiba aja nanya ke diri sendiri, \"ini hidupku udah beneran berubah, ",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dd1FQK3m8Gh",
-      "timestamp": "2026-09-28T11:31:19+0000",
-      "metrics": {
-        "views": 21,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18065390471777675",
-      "text": "Ikhlas itu kata yang gampang disebut, tapi susah banget dibuktiin ke diri sendiri.\nAku sering nanya — ini beneran lillah",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dd0wpvtm0zn",
-      "timestamp": "2026-09-28T08:31:18+0000",
-      "metrics": {
-        "views": 6,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18136319458727819",
-      "text": "Diam-diam aku sering miss dzikir cuma karena lupa bawa tasbih.\nSekarang pakai cincin tasbih — kecil, dipakai aja, dan bi",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dd0cCx7kdSQ",
-      "timestamp": "2026-09-28T05:31:14+0000",
-      "metrics": {
-        "views": 0,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
