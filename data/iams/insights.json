@@ -1,33 +1,48 @@
 {
   "account": "iams",
-  "updated_at": "2026-09-29T02:03:42.811Z",
+  "updated_at": "2026-09-29T08:41:33.948Z",
   "profile": {
     "username": "iams_ichi",
     "name": "I.petch",
     "biography": "🇦🇺\nCMO at COA.AU &\nNo-Code App Builder\nOnly Positive Vibes\nIt’s about the vibe and the feeling. \nThe names of the places? 🤔\ncmo@coa.au",
-    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=kOToZDfXutoQ7kNvwG9uV7J&_nc_oc=AdrSCQGhWCsxyqlB-HpHzdm7C4x227muCzwLVZWJMm792t5eHjK6JdC8CU3K3OTcqUY&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=FYEajwRdIXMPGQNjwBl0Qw&_nc_tpa=Q5bMBQIog21bcIvfOyoMYBGXBl3YgUoUEzta-fX8ua3ZXehZbTzxrQ6NTo99MTnLrUzUGX5YrfEWyE3khA&oh=00_AQOtxPvfQzXUOdMP0x6l7uGPEdcSlo6iLOJ5rwo9ACuT-w&oe=6AC0EB5E"
+    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=kOToZDfXutoQ7kNvwHoVqbX&_nc_oc=AdpB70D_e45JHe2ej9JVOtIRHIGLdCrRc9OSwu_WfgS5nsit93hBtFQeTcmanhNMbiI&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=hCxOoQE4mk5YacAw0TFGpg&_nc_tpa=Q5bMBQIt1_0I3cJgLZ0vPqREFNv0EarTAYUdLch_25ruSZwCWXKKhKTUISnBc3b7kBMg_pJGGpz0AWinsA&oh=00_AQP73mf_D8ypVW1SxrDPuqY133VxhItuT_th-VxgDLwokA&oe=6AC15BDE"
   },
   "summary": {
-    "followers_count": 1366,
-    "views": 876,
-    "likes": 10,
-    "replies": 2,
+    "followers_count": 1367,
+    "views": 1163,
+    "likes": 52,
+    "replies": 14,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 81,
-    "engagement_rate": 9.25,
+    "engagement_total": 166,
+    "engagement_rate": 14.27,
     "curiosity_score": null,
     "post_count": 25
   },
   "top_posts": [
+    {
+      "id": "17927225235179996",
+      "text": "It's 6pm in Brisbane and the river just turned gold.\nI sat here expecting to feel like a tourist. Instead I just feel...",
+      "permalink": "https://www.threads.com/@iams_ichi/post/Dd3ERV8lXa7",
+      "timestamp": "2026-09-29T06:01:14+0000",
+      "metrics": {
+        "views": 1271,
+        "likes": 65,
+        "replies": 21,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 86
+    },
     {
       "id": "18631879903039278",
       "text": "Solo traveler itu nggak se-\"healing\" yang kamu kira. Malah bisa bahaya kalau salah mindset. Unpopular opinion incoming. ",
       "permalink": "https://www.threads.com/@iams_ichi/post/DdvxRbMiJwU",
       "timestamp": "2026-09-26T09:59:59+0000",
       "metrics": {
-        "views": 1753,
+        "views": 1755,
         "likes": 29,
         "replies": 8,
         "reposts": 4,
@@ -57,7 +72,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dd0tNpsllQ0",
       "timestamp": "2026-09-28T08:01:16+0000",
       "metrics": {
-        "views": 165,
+        "views": 182,
         "likes": 5,
         "replies": 1,
         "reposts": 0,
@@ -80,31 +95,61 @@
         "shares": 0
       },
       "engagement": 4
-    },
+    }
+  ],
+  "recent_posts": [
     {
-      "id": "17948817117057630",
-      "text": "Aku baru sadar — selama ini aku nganggep Prancis itu soal Eiffel, soal foto, soal checklist.\nTernyata bagian yang paling",
-      "permalink": "https://www.threads.com/@iams_ichi/post/Ddzy03-EQnE",
-      "timestamp": "2026-09-27T23:31:04+0000",
+      "id": "18091766030187122",
+      "text": "Nobody told me that Montmartre at 7am — before the crowds — hits completely different.\nJust me, the cobblestones, and a ",
+      "permalink": "https://www.threads.com/@iams_ichi/post/Dd3SASFm3Wj",
+      "timestamp": "2026-09-29T08:01:13+0000",
       "metrics": {
-        "views": 188,
-        "likes": 2,
-        "replies": 2,
+        "views": 10,
+        "likes": 1,
+        "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 4
-    }
-  ],
-  "recent_posts": [
+      "engagement": 1
+    },
+    {
+      "id": "17927225235179996",
+      "text": "It's 6pm in Brisbane and the river just turned gold.\nI sat here expecting to feel like a tourist. Instead I just feel...",
+      "permalink": "https://www.threads.com/@iams_ichi/post/Dd3ERV8lXa7",
+      "timestamp": "2026-09-29T06:01:14+0000",
+      "metrics": {
+        "views": 1271,
+        "likes": 65,
+        "replies": 21,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 86
+    },
+    {
+      "id": "18117935306012269",
+      "text": "Used to board flights with my gadgets split across three pouches like a chaotic little tech museum.\nFound a backpack tha",
+      "permalink": "https://www.threads.com/@iams_ichi/post/Dd22ih5G6P0",
+      "timestamp": "2026-09-29T04:01:14+0000",
+      "metrics": {
+        "views": 47,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
     {
       "id": "18092963984158569",
       "text": "It's 9pm in Trastevere and I'm just... sitting on a cobblestone step doing nothing.\nNo map. No plan. Just the sound of s",
       "permalink": "https://www.threads.com/@iams_ichi/post/Dd2ozYtDpOq",
       "timestamp": "2026-09-29T02:01:13+0000",
       "metrics": {
-        "views": 0,
+        "views": 163,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -119,7 +164,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dd2ZLdzgY7n",
       "timestamp": "2026-09-28T23:48:24+0000",
       "metrics": {
-        "views": 0,
+        "views": 17,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -134,7 +179,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dd2XoFyAIyW",
       "timestamp": "2026-09-28T23:31:07+0000",
       "metrics": {
-        "views": 50,
+        "views": 62,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -149,7 +194,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dd1Wa1sEadQ",
       "timestamp": "2026-09-28T14:01:21+0000",
       "metrics": {
-        "views": 25,
+        "views": 36,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -164,7 +209,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dd1IsQmm6ng",
       "timestamp": "2026-09-28T12:01:23+0000",
       "metrics": {
-        "views": 58,
+        "views": 69,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -179,7 +224,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dd0683QFWsG",
       "timestamp": "2026-09-28T10:01:19+0000",
       "metrics": {
-        "views": 128,
+        "views": 138,
         "likes": 1,
         "replies": 1,
         "reposts": 0,
@@ -194,7 +239,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dd0tNpsllQ0",
       "timestamp": "2026-09-28T08:01:16+0000",
       "metrics": {
-        "views": 165,
+        "views": 182,
         "likes": 5,
         "replies": 1,
         "reposts": 0,
@@ -202,51 +247,6 @@
         "shares": 0
       },
       "engagement": 6
-    },
-    {
-      "id": "18048025850816237",
-      "text": "English is tidying things up for me —\n\nIndonesian has \"aku\" and \"kamu\" for close moments, \"lo\" and \"gue\" for casual ones",
-      "permalink": "https://www.threads.com/@iams_ichi/post/Dd0sVlMGpkA",
-      "timestamp": "2026-09-28T07:53:03+0000",
-      "metrics": {
-        "views": 19,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18132900869495248",
-      "text": "Australia on a budget is doable — just not the way most reels make it look.\n\nRule one: don't mess with your tourist visa",
-      "permalink": "https://www.threads.com/@iams_ichi/post/Dd0qqKhmrxT",
-      "timestamp": "2026-09-28T07:38:23+0000",
-      "metrics": {
-        "views": 167,
-        "likes": 1,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "17911980930283371",
-      "text": "📍Harry Bailey Library - Coffs Harbour in Yarrila Arts & Musejm Building",
-      "permalink": "https://www.threads.com/@iams_ichi/post/Dd0f-adCqRR",
-      "timestamp": "2026-09-28T06:05:02+0000",
-      "metrics": {
-        "views": 63,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
     }
   ]
 }
