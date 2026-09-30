@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-09-29T20:54:47.927Z",
+  "updated_at": "2026-09-30T00:34:57.742Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=ChOURel7bagQ7kNvwG3SSwN&_nc_oc=AdrWmIST9UklSgmtO1LGMfVZ-pE_sZMAWZ7UJe19iw7BbIZmpT4H21kI9LWzN_2PQf8&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=-n6uP0ZRDHbhqG4WuKlDKg&_nc_tpa=Q5bMBQL_dQr-na0TOXEUQS-Q07k_GucGKZ4Pw2FIXTOlQDhwFTnV0TqJe0pyIFo5GeRNCRYZAASvPIXYMw&oh=00_AQNEjP3t61BjDdZAo_8i7KXSDVs9d9rGi3Mfu7kMMlMPCA&oe=6AC1F613"
+    "picture": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=ChOURel7bagQ7kNvwHyTk5G&_nc_oc=AdpgIaITuFbXrugXf3BnvOlwOJUz_AWOEvfY9LdO6cMS3UyvGdw9t1-fpGRj559QEts&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=3x13Y18lhpakzjgjM9ZtHA&_nc_tpa=Q5bMBQLHMvOoy5v94DQTNyKFs8N-Z3XDM0voVCMgKcSmrVhnPl5tvKxPnUZo1W9LIQaWYKQd3ioEiAKcoQ&oh=00_AQP7jF5t9Xh3qRmaB3VmNXGh7G4SzWBFpI-3JE7NCXwSyw&oe=6AC22E53"
   },
   "summary": {
     "followers_count": 9,
-    "views": 198,
-    "likes": 3,
-    "replies": 0,
+    "views": 227,
+    "likes": 4,
+    "replies": 1,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 62,
-    "engagement_rate": 31.31,
+    "engagement_total": 63,
+    "engagement_rate": 27.75,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -97,6 +97,21 @@
   ],
   "recent_posts": [
     {
+      "id": "17960144031209581",
+      "text": "Pernah ga, lagi transfer sedekah kecil — terus tiba-tiba ngerasa lapang gitu?\nAku sering ngehindarin sedekah kalau lagi ",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dd4yKS0kUba",
+      "timestamp": "2026-09-29T22:01:28+0000",
+      "metrics": {
+        "views": 20,
+        "likes": 1,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 2
+    },
+    {
       "id": "18157845376507880",
       "text": "Nenek aku selalu bilang, kalau udah mentok banget — baca Doa Nabi Yunus.\nDulu aku pikir itu cuma buat orang yang ketimpa",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dd4I-NZm0m0",
@@ -117,7 +132,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dd3-qE-G_EH",
       "timestamp": "2026-09-29T14:31:26+0000",
       "metrics": {
-        "views": 123,
+        "views": 125,
         "likes": 2,
         "replies": 0,
         "reposts": 0,
@@ -230,21 +245,6 @@
         "shares": 0
       },
       "engagement": 0
-    },
-    {
-      "id": "18116016952797128",
-      "text": "Al-Waqiah tiap malam itu aku mulai bukan karena paham maknanya — tapi karena hati lagi takut banget soal rezeki.\nSekaran",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dd1Z4p0G_Hx",
-      "timestamp": "2026-09-28T14:31:37+0000",
-      "metrics": {
-        "views": 71,
-        "likes": 2,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 2
     }
   ]
 }
