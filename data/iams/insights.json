@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-09-29T20:53:57.197Z",
+  "updated_at": "2026-09-30T00:33:57.749Z",
   "profile": {
     "username": "iams_ichi",
     "name": "I.petch",
     "biography": "🇦🇺\nCMO at COA.AU &\nNo-Code App Builder\nOnly Positive Vibes\nIt’s about the vibe and the feeling. \nThe names of the places? 🤔\ncmo@coa.au",
-    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=kOToZDfXutoQ7kNvwE3v88z&_nc_oc=AdopJubYPm2veQbNMBbkPRhxkjLob0YtmLns5mJT4jSLe6675IPywwVauuNF6nbgkDE&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=yoyWqLaPREHwdABMpPYgWg&_nc_tpa=Q5bMBQI3tiUJWaVMl4a2BcmtJcB8b4ZpodjqYB3jp4dCgJW0bWfcOxvVvwaWKS2goGmA9fmVMWt2nyrx9Q&oh=00_AQPLhisyrUvQ5XBRJR7D7rTXiKDp3LIJebktq4jOWvLd_Q&oe=6AC2049E"
+    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=kOToZDfXutoQ7kNvwGmxHyx&_nc_oc=Adru9HJWdQNIhqWQYKWaQJ5TF6U8WNGOky8BHlDPVM8whni8xxPZ6MD5_ZaukdRUCzU&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=om8gP11YaoDJe3ANPpfpOQ&_nc_tpa=Q5bMBQJxC1_efw9kOikQR_Lbv9Ia25FDa7w2DFbIaWrMLzVysLxAoRXETG5yzbdZfvJOXWBnY_stE5qyUQ&oh=00_AQOcRN7pXB47gaTlpYwLbDPGHBuS_xIgcub3uvoN_1nQOQ&oe=6AC23CDE"
   },
   "summary": {
     "followers_count": 1370,
-    "views": 4346,
-    "likes": 172,
-    "replies": 28,
+    "views": 4948,
+    "likes": 205,
+    "replies": 29,
     "reposts": 0,
     "quotes": 1,
     "profile_views": null,
-    "engagement_total": 242,
-    "engagement_rate": 5.57,
+    "engagement_total": 277,
+    "engagement_rate": 5.6,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -27,14 +27,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dd3ERV8lXa7",
       "timestamp": "2026-09-29T06:01:14+0000",
       "metrics": {
-        "views": 3511,
-        "likes": 162,
-        "replies": 28,
+        "views": 3898,
+        "likes": 188,
+        "replies": 29,
         "reposts": 0,
         "quotes": 1,
         "shares": 0
       },
-      "engagement": 191
+      "engagement": 218
     },
     {
       "id": "18091766030187122",
@@ -42,14 +42,29 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dd3SASFm3Wj",
       "timestamp": "2026-09-29T08:01:13+0000",
       "metrics": {
-        "views": 314,
-        "likes": 21,
+        "views": 366,
+        "likes": 23,
         "replies": 4,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 25
+      "engagement": 27
+    },
+    {
+      "id": "18074716319726168",
+      "text": "Australian coffee culture hit different when I realized flat whites here aren't just a drink — they're basically a whole",
+      "permalink": "https://www.threads.com/@iams_ichi/post/Dd48bDzj9_j",
+      "timestamp": "2026-09-29T23:31:08+0000",
+      "metrics": {
+        "views": 87,
+        "likes": 4,
+        "replies": 2,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 6
     },
     {
       "id": "18114165544819720",
@@ -57,7 +72,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dd0tNpsllQ0",
       "timestamp": "2026-09-28T08:01:16+0000",
       "metrics": {
-        "views": 185,
+        "views": 186,
         "likes": 5,
         "replies": 1,
         "reposts": 0,
@@ -80,31 +95,31 @@
         "shares": 0
       },
       "engagement": 5
-    },
+    }
+  ],
+  "recent_posts": [
     {
-      "id": "18176254813443696",
-      "text": "Road trip itu ternyata bukan soal berapa banyak spot yang lo centang — tapi soal seberapa sering lo berani bilang \"udah,",
-      "permalink": "https://www.threads.com/@iams_ichi/post/Dd0EAiYDLOF",
-      "timestamp": "2026-09-28T02:01:12+0000",
+      "id": "18074716319726168",
+      "text": "Australian coffee culture hit different when I realized flat whites here aren't just a drink — they're basically a whole",
+      "permalink": "https://www.threads.com/@iams_ichi/post/Dd48bDzj9_j",
+      "timestamp": "2026-09-29T23:31:08+0000",
       "metrics": {
-        "views": 151,
-        "likes": 3,
-        "replies": 1,
+        "views": 87,
+        "likes": 4,
+        "replies": 2,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 4
-    }
-  ],
-  "recent_posts": [
+      "engagement": 6
+    },
     {
       "id": "18063505814518799",
       "text": "Europeans eat dinner at 9pm like it's completely normal — and honestly after two weeks here, so do I.\nTurns out your bod",
       "permalink": "https://www.threads.com/@iams_ichi/post/Dd37N7mnC4-",
       "timestamp": "2026-09-29T14:01:22+0000",
       "metrics": {
-        "views": 212,
+        "views": 222,
         "likes": 0,
         "replies": 2,
         "reposts": 0,
@@ -119,7 +134,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dd3tenlmyzu",
       "timestamp": "2026-09-29T12:01:19+0000",
       "metrics": {
-        "views": 8,
+        "views": 15,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -134,7 +149,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dd3fvVLnM0f",
       "timestamp": "2026-09-29T10:01:15+0000",
       "metrics": {
-        "views": 276,
+        "views": 283,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -149,14 +164,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dd3SASFm3Wj",
       "timestamp": "2026-09-29T08:01:13+0000",
       "metrics": {
-        "views": 314,
-        "likes": 21,
+        "views": 366,
+        "likes": 23,
         "replies": 4,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 25
+      "engagement": 27
     },
     {
       "id": "17927225235179996",
@@ -164,14 +179,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dd3ERV8lXa7",
       "timestamp": "2026-09-29T06:01:14+0000",
       "metrics": {
-        "views": 3511,
-        "likes": 162,
-        "replies": 28,
+        "views": 3898,
+        "likes": 188,
+        "replies": 29,
         "reposts": 0,
         "quotes": 1,
         "shares": 0
       },
-      "engagement": 191
+      "engagement": 218
     },
     {
       "id": "18117935306012269",
@@ -179,7 +194,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dd22ih5G6P0",
       "timestamp": "2026-09-29T04:01:14+0000",
       "metrics": {
-        "views": 63,
+        "views": 67,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -194,7 +209,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dd2ozYtDpOq",
       "timestamp": "2026-09-29T02:01:13+0000",
       "metrics": {
-        "views": 178,
+        "views": 181,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -209,7 +224,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dd2ZLdzgY7n",
       "timestamp": "2026-09-28T23:48:24+0000",
       "metrics": {
-        "views": 32,
+        "views": 34,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -224,7 +239,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dd2XoFyAIyW",
       "timestamp": "2026-09-28T23:31:07+0000",
       "metrics": {
-        "views": 70,
+        "views": 71,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -232,21 +247,6 @@
         "shares": 0
       },
       "engagement": 1
-    },
-    {
-      "id": "18021490766714103",
-      "text": "Gold Coast fed me a $4 fish taco at a beach shack and a $90 tasting menu in the same 24 hours.\nHonestly? Both hit differ",
-      "permalink": "https://www.threads.com/@iams_ichi/post/Dd1Wa1sEadQ",
-      "timestamp": "2026-09-28T14:01:21+0000",
-      "metrics": {
-        "views": 41,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
     }
   ]
 }
