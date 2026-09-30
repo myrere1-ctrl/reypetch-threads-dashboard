@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-09-30T00:33:57.749Z",
+  "updated_at": "2026-09-30T06:50:21.336Z",
   "profile": {
     "username": "iams_ichi",
     "name": "I.petch",
     "biography": "🇦🇺\nCMO at COA.AU &\nNo-Code App Builder\nOnly Positive Vibes\nIt’s about the vibe and the feeling. \nThe names of the places? 🤔\ncmo@coa.au",
-    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=kOToZDfXutoQ7kNvwGmxHyx&_nc_oc=Adru9HJWdQNIhqWQYKWaQJ5TF6U8WNGOky8BHlDPVM8whni8xxPZ6MD5_ZaukdRUCzU&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=om8gP11YaoDJe3ANPpfpOQ&_nc_tpa=Q5bMBQJxC1_efw9kOikQR_Lbv9Ia25FDa7w2DFbIaWrMLzVysLxAoRXETG5yzbdZfvJOXWBnY_stE5qyUQ&oh=00_AQOcRN7pXB47gaTlpYwLbDPGHBuS_xIgcub3uvoN_1nQOQ&oe=6AC23CDE"
+    "picture": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=kOToZDfXutoQ7kNvwHnZlWU&_nc_oc=Adr_fKZ3ckoZxkPSPqtXBPiP0mn5zNPwvqv6u2CyzkG-SrJwcIpG5BFPIFCZ6KnqwrI&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=RDnSHgfCODG9wCmvBTsNuQ&_nc_tpa=Q5bMBQLBPC-9odH6HwkPXsAhlv2TvnxUop4IWSfV0Ud7SFbqsYhOXdqGYw7U5JAJgOXu0RXo7cLXfH8eLA&oh=00_AQOxxRjPFZu0EvUUtWxEZIMlJlalyqQTdN_RUjwcfVuoqA&oe=6AC2751E"
   },
   "summary": {
     "followers_count": 1370,
-    "views": 4948,
-    "likes": 205,
-    "replies": 29,
+    "views": 6620,
+    "likes": 255,
+    "replies": 34,
     "reposts": 0,
     "quotes": 1,
     "profile_views": null,
-    "engagement_total": 277,
-    "engagement_rate": 5.6,
+    "engagement_total": 324,
+    "engagement_rate": 4.89,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -27,14 +27,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dd3ERV8lXa7",
       "timestamp": "2026-09-29T06:01:14+0000",
       "metrics": {
-        "views": 3898,
-        "likes": 188,
+        "views": 4522,
+        "likes": 220,
         "replies": 29,
         "reposts": 0,
         "quotes": 1,
         "shares": 0
       },
-      "engagement": 218
+      "engagement": 250
     },
     {
       "id": "18091766030187122",
@@ -42,14 +42,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dd3SASFm3Wj",
       "timestamp": "2026-09-29T08:01:13+0000",
       "metrics": {
-        "views": 366,
-        "likes": 23,
+        "views": 419,
+        "likes": 30,
         "replies": 4,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 27
+      "engagement": 34
     },
     {
       "id": "18074716319726168",
@@ -57,14 +57,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dd48bDzj9_j",
       "timestamp": "2026-09-29T23:31:08+0000",
       "metrics": {
-        "views": 87,
-        "likes": 4,
-        "replies": 2,
+        "views": 462,
+        "likes": 10,
+        "replies": 4,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 6
+      "engagement": 14
     },
     {
       "id": "18114165544819720",
@@ -72,7 +72,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dd0tNpsllQ0",
       "timestamp": "2026-09-28T08:01:16+0000",
       "metrics": {
-        "views": 186,
+        "views": 189,
         "likes": 5,
         "replies": 1,
         "reposts": 0,
@@ -82,36 +82,81 @@
       "engagement": 6
     },
     {
-      "id": "17948817117057630",
-      "text": "Aku baru sadar — selama ini aku nganggep Prancis itu soal Eiffel, soal foto, soal checklist.\nTernyata bagian yang paling",
-      "permalink": "https://www.threads.com/@iams_ichi/post/Ddzy03-EQnE",
-      "timestamp": "2026-09-27T23:31:04+0000",
+      "id": "18176254813443696",
+      "text": "Road trip itu ternyata bukan soal berapa banyak spot yang lo centang — tapi soal seberapa sering lo berani bilang \"udah,",
+      "permalink": "https://www.threads.com/@iams_ichi/post/Dd0EAiYDLOF",
+      "timestamp": "2026-09-28T02:01:12+0000",
       "metrics": {
-        "views": 196,
-        "likes": 2,
-        "replies": 3,
+        "views": 154,
+        "likes": 3,
+        "replies": 1,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 5
+      "engagement": 4
     }
   ],
   "recent_posts": [
+    {
+      "id": "18149399062543272",
+      "text": "Unpopular opinion: Barcelona is actually better when you skip the tourist trail entirely.\nI spent a whole afternoon just",
+      "permalink": "https://www.threads.com/@iams_ichi/post/Dd5pEA8kUd1",
+      "timestamp": "2026-09-30T06:01:12+0000",
+      "metrics": {
+        "views": 60,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "17870041011647099",
+      "text": "Hostel kitchens are chaotic at 7am — shared instant coffee, mystery mugs, someone's leftover smell.\nPulled out my OutIn ",
+      "permalink": "https://www.threads.com/@iams_ichi/post/Dd5bVvXkaxV",
+      "timestamp": "2026-09-30T04:01:17+0000",
+      "metrics": {
+        "views": 21,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
+      "id": "17994485340044841",
+      "text": "Everyone said navigating Tokyo alone is overwhelming — too many signs, too many options, no English.\nTurns out the city ",
+      "permalink": "https://www.threads.com/@iams_ichi/post/Dd5NqxhCQ3f",
+      "timestamp": "2026-09-30T02:01:49+0000",
+      "metrics": {
+        "views": 300,
+        "likes": 2,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 3
+    },
     {
       "id": "18074716319726168",
       "text": "Australian coffee culture hit different when I realized flat whites here aren't just a drink — they're basically a whole",
       "permalink": "https://www.threads.com/@iams_ichi/post/Dd48bDzj9_j",
       "timestamp": "2026-09-29T23:31:08+0000",
       "metrics": {
-        "views": 87,
-        "likes": 4,
-        "replies": 2,
+        "views": 462,
+        "likes": 10,
+        "replies": 4,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 6
+      "engagement": 14
     },
     {
       "id": "18063505814518799",
@@ -119,7 +164,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dd37N7mnC4-",
       "timestamp": "2026-09-29T14:01:22+0000",
       "metrics": {
-        "views": 222,
+        "views": 232,
         "likes": 0,
         "replies": 2,
         "reposts": 0,
@@ -134,7 +179,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dd3tenlmyzu",
       "timestamp": "2026-09-29T12:01:19+0000",
       "metrics": {
-        "views": 15,
+        "views": 24,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -149,7 +194,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dd3fvVLnM0f",
       "timestamp": "2026-09-29T10:01:15+0000",
       "metrics": {
-        "views": 283,
+        "views": 297,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -164,14 +209,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dd3SASFm3Wj",
       "timestamp": "2026-09-29T08:01:13+0000",
       "metrics": {
-        "views": 366,
-        "likes": 23,
+        "views": 419,
+        "likes": 30,
         "replies": 4,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 27
+      "engagement": 34
     },
     {
       "id": "17927225235179996",
@@ -179,14 +224,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dd3ERV8lXa7",
       "timestamp": "2026-09-29T06:01:14+0000",
       "metrics": {
-        "views": 3898,
-        "likes": 188,
+        "views": 4522,
+        "likes": 220,
         "replies": 29,
         "reposts": 0,
         "quotes": 1,
         "shares": 0
       },
-      "engagement": 218
+      "engagement": 250
     },
     {
       "id": "18117935306012269",
@@ -194,54 +239,9 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dd22ih5G6P0",
       "timestamp": "2026-09-29T04:01:14+0000",
       "metrics": {
-        "views": 67,
+        "views": 73,
         "likes": 0,
         "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "18092963984158569",
-      "text": "It's 9pm in Trastevere and I'm just... sitting on a cobblestone step doing nothing.\nNo map. No plan. Just the sound of s",
-      "permalink": "https://www.threads.com/@iams_ichi/post/Dd2ozYtDpOq",
-      "timestamp": "2026-09-29T02:01:13+0000",
-      "metrics": {
-        "views": 181,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18166960213473338",
-      "text": "9.44 am. Coffee time until library open",
-      "permalink": "https://www.threads.com/@iams_ichi/post/Dd2ZLdzgY7n",
-      "timestamp": "2026-09-28T23:48:24+0000",
-      "metrics": {
-        "views": 34,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18193549474396278",
-      "text": "It's 7am and I'm sitting in an onsen with mist rising around me and zero thoughts in my head.\nFor someone who's always m",
-      "permalink": "https://www.threads.com/@iams_ichi/post/Dd2XoFyAIyW",
-      "timestamp": "2026-09-28T23:31:07+0000",
-      "metrics": {
-        "views": 71,
-        "likes": 1,
-        "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
