@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-09-30T23:57:12.234Z",
+  "updated_at": "2026-10-01T06:08:10.401Z",
   "profile": {
     "username": "iams_ichi",
     "name": "I.petch",
     "biography": "🇦🇺\nCMO at COA.AU &\nNo-Code App Builder\nOnly Positive Vibes\nIt’s about the vibe and the feeling. \nThe names of the places? 🤔\ncmo@coa.au",
-    "picture": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=kOToZDfXutoQ7kNvwHLr4r0&_nc_oc=AdrgkdFLLRBjLnqsgJwVqBxuSi1PijPpVQniQuqSTljagrf173kzvo5F7w4If06-xlw&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=Q0Iag5yY06epr7Bq5WxO_w&_nc_tpa=Q5bMBQIeTM_SoNmtxfgNMB_fAfy6fI0BSaAGBsdV_VEqvA0P4Pt0AlVU6TRUyExGyiat6qvJ-tdPmNPIgg&oh=00_AQOAkSM2h8Li4i2zQeeEjYfdnlzSQpkqCo-tYB8CPv_xWg&oe=6AC38E5E"
+    "picture": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=kOToZDfXutoQ7kNvwErX56e&_nc_oc=AdoW93EalLGSDoLfwGhKFtkvGci72jaiUirlP_iqd2cggZkbXcrjA8Emb3dZciDCeO0&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=0nk3Z6BrX4KKdtFInGj7Cw&_nc_tpa=Q5bMBQIC2rpvpm_IQ68CpVdQCXDBPa0xXEGWqnQJd9_GtEIu9ns_2sWmT6wuMGHL8Z6UBD7Lu9azLHxplQ&oh=00_AQMHdq0pXIJmtiuZhSe4HkMjrDfwcRk5Epl-sDhVHG1Icg&oe=6AC3C69E"
   },
   "summary": {
     "followers_count": 1370,
-    "views": 918,
-    "likes": 13,
-    "replies": 3,
+    "views": 1923,
+    "likes": 37,
+    "replies": 11,
     "reposts": 1,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 335,
-    "engagement_rate": 36.49,
+    "engagement_total": 362,
+    "engagement_rate": 18.82,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -27,7 +27,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dd3ERV8lXa7",
       "timestamp": "2026-09-29T06:01:14+0000",
       "metrics": {
-        "views": 4557,
+        "views": 4563,
         "likes": 222,
         "replies": 29,
         "reposts": 0,
@@ -52,12 +52,27 @@
       "engagement": 34
     },
     {
+      "id": "18110583344137654",
+      "text": "I used to think Le Marais was just a trendy neighborhood — pretty streets, great falafel, very Instagrammable.\nTurns out",
+      "permalink": "https://www.threads.com/@iams_ichi/post/Dd7hNf1jgh5",
+      "timestamp": "2026-09-30T23:31:04+0000",
+      "metrics": {
+        "views": 657,
+        "likes": 23,
+        "replies": 4,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 1
+      },
+      "engagement": 27
+    },
+    {
       "id": "18074716319726168",
       "text": "Australian coffee culture hit different when I realized flat whites here aren't just a drink — they're basically a whole",
       "permalink": "https://www.threads.com/@iams_ichi/post/Dd48bDzj9_j",
       "timestamp": "2026-09-29T23:31:08+0000",
       "metrics": {
-        "views": 806,
+        "views": 811,
         "likes": 18,
         "replies": 4,
         "reposts": 1,
@@ -67,51 +82,111 @@
       "engagement": 23
     },
     {
-      "id": "18114165544819720",
-      "text": "Sat at Bondi for two hours doing absolutely nothing — no itinerary, no agenda, just watching people exist.\nTurns out the",
-      "permalink": "https://www.threads.com/@iams_ichi/post/Dd0tNpsllQ0",
-      "timestamp": "2026-09-28T08:01:16+0000",
+      "id": "17974943309935311",
+      "text": "I used to think Gold Coast was just a party beach — loud, touristy, not really for people like me.\nTurns out if you get ",
+      "permalink": "https://www.threads.com/@iams_ichi/post/Dd7yZNFmgvW",
+      "timestamp": "2026-10-01T02:01:13+0000",
       "metrics": {
-        "views": 189,
+        "views": 191,
         "likes": 5,
+        "replies": 3,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 8
+    }
+  ],
+  "recent_posts": [
+    {
+      "id": "17981836994900760",
+      "text": "At onsen, nobody talks. Like, genuinely nobody. Strangers soaking side by side in silence and it's not awkward — it's al",
+      "permalink": "https://www.threads.com/@iams_ichi/post/Dd8N26FFcfB",
+      "timestamp": "2026-10-01T06:01:13+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "18014347748953913",
+      "text": "Used to land already exhausted before the trip even started — neck stiff, mood gone.\nTurns out the Cabeau S3 was the fir",
+      "permalink": "https://www.threads.com/@iams_ichi/post/Dd8AISPIOEG",
+      "timestamp": "2026-10-01T04:01:14+0000",
+      "metrics": {
+        "views": 48,
+        "likes": 0,
         "replies": 1,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 6
+      "engagement": 1
     },
     {
-      "id": "18149399062543272",
-      "text": "Unpopular opinion: Barcelona is actually better when you skip the tourist trail entirely.\nI spent a whole afternoon just",
-      "permalink": "https://www.threads.com/@iams_ichi/post/Dd5pEA8kUd1",
-      "timestamp": "2026-09-30T06:01:12+0000",
+      "id": "18130883278734355",
+      "text": "📍Woolgoolga - strange lunch spot — you eat pizza outside and somehow forget to ask what the beach is called.\n\nNot about",
+      "permalink": "https://www.threads.com/@iams_ichi/post/Dd71_aomoD0",
+      "timestamp": "2026-10-01T02:32:06+0000",
       "metrics": {
-        "views": 206,
-        "likes": 2,
-        "replies": 2,
+        "views": 27,
+        "likes": 0,
+        "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 4
-    }
-  ],
-  "recent_posts": [
+      "engagement": 0
+    },
+    {
+      "id": "17974943309935311",
+      "text": "I used to think Gold Coast was just a party beach — loud, touristy, not really for people like me.\nTurns out if you get ",
+      "permalink": "https://www.threads.com/@iams_ichi/post/Dd7yZNFmgvW",
+      "timestamp": "2026-10-01T02:01:13+0000",
+      "metrics": {
+        "views": 191,
+        "likes": 5,
+        "replies": 3,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 8
+    },
+    {
+      "id": "17958291687233258",
+      "text": "Arrawarra Headland sits between two libraries — one 25 minutes out in Coffs Harbour(Harry Bailey Memorial Library), one ",
+      "permalink": "https://www.threads.com/@iams_ichi/post/Dd7nGd9I49S",
+      "timestamp": "2026-10-01T00:21:59+0000",
+      "metrics": {
+        "views": 16,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
     {
       "id": "18110583344137654",
       "text": "I used to think Le Marais was just a trendy neighborhood — pretty streets, great falafel, very Instagrammable.\nTurns out",
       "permalink": "https://www.threads.com/@iams_ichi/post/Dd7hNf1jgh5",
       "timestamp": "2026-09-30T23:31:04+0000",
       "metrics": {
-        "views": 0,
-        "likes": 2,
-        "replies": 0,
+        "views": 657,
+        "likes": 23,
+        "replies": 4,
         "reposts": 0,
         "quotes": 0,
-        "shares": 0
+        "shares": 1
       },
-      "engagement": 2
+      "engagement": 27
     },
     {
       "id": "17973049398186960",
@@ -119,7 +194,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dd7IWNCE1Qn",
       "timestamp": "2026-09-30T19:53:15+0000",
       "metrics": {
-        "views": 0,
+        "views": 2,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -134,7 +209,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dd6gA7KGyGP",
       "timestamp": "2026-09-30T14:01:22+0000",
       "metrics": {
-        "views": 80,
+        "views": 81,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -149,7 +224,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dd6SR6AGxpv",
       "timestamp": "2026-09-30T12:01:21+0000",
       "metrics": {
-        "views": 66,
+        "views": 67,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -164,7 +239,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dd6Ei-NmyUX",
       "timestamp": "2026-09-30T10:01:21+0000",
       "metrics": {
-        "views": 13,
+        "views": 14,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -172,81 +247,6 @@
         "shares": 0
       },
       "engagement": 0
-    },
-    {
-      "id": "17870224074643781",
-      "text": "My Sist yang tinggal di Helsinki (& married) sdh 12 tahun dari sejak kuliah di Glasgow tinggal di Europe bahasa Indonya ",
-      "permalink": "https://www.threads.com/@iams_ichi/post/Dd59lgoiC9J",
-      "timestamp": "2026-09-30T08:59:59+0000",
-      "metrics": {
-        "views": 56,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18095370572549018",
-      "text": "Everyone said sakura season is overrated — too crowded, too short, not worth building a trip around.\nTurns out the chaos",
-      "permalink": "https://www.threads.com/@iams_ichi/post/Dd52zYVm3yM",
-      "timestamp": "2026-09-30T08:01:15+0000",
-      "metrics": {
-        "views": 87,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "18149399062543272",
-      "text": "Unpopular opinion: Barcelona is actually better when you skip the tourist trail entirely.\nI spent a whole afternoon just",
-      "permalink": "https://www.threads.com/@iams_ichi/post/Dd5pEA8kUd1",
-      "timestamp": "2026-09-30T06:01:12+0000",
-      "metrics": {
-        "views": 206,
-        "likes": 2,
-        "replies": 2,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 4
-    },
-    {
-      "id": "17870041011647099",
-      "text": "Hostel kitchens are chaotic at 7am — shared instant coffee, mystery mugs, someone's leftover smell.\nPulled out my OutIn ",
-      "permalink": "https://www.threads.com/@iams_ichi/post/Dd5bVvXkaxV",
-      "timestamp": "2026-09-30T04:01:17+0000",
-      "metrics": {
-        "views": 23,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "17994485340044841",
-      "text": "Everyone said navigating Tokyo alone is overwhelming — too many signs, too many options, no English.\nTurns out the city ",
-      "permalink": "https://www.threads.com/@iams_ichi/post/Dd5NqxhCQ3f",
-      "timestamp": "2026-09-30T02:01:49+0000",
-      "metrics": {
-        "views": 327,
-        "likes": 2,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 3
     }
   ]
 }
