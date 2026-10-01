@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-10-01T13:31:36.368Z",
+  "updated_at": "2026-10-01T19:38:24.881Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=slH_Cl8fbocQ7kNvwGRnAqO&_nc_oc=Adrx0WJTuOJWzi1v07TBGpYLDrDOa8srFoMQcvOPi7u4FGSZXWEKN2Vu7XOMi_OFqPU&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=D1MKJ-X6Kf1rck9YH9f-bA&_nc_tpa=Q5bMBQLY1duOyUTvjgMl5SZQJIoBzuaAZWWeVuKdQCmQ_7rtUI1d7RkdmyAM-LQU6m4epDG1-V8nne3wFQ&oh=00_AQMBbx6m389uQmr0mLF7JmjQCzcxjKrN2N_URtUvOIzoLg&oe=6AC42893"
+    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=slH_Cl8fbocQ7kNvwEJMY-S&_nc_oc=AdoVNTH_2vuJOLK7LbR7setCwCfJnMsRY74mfQpAkTS7uWkzUpgqRcMkoImZzxyA8uw&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=ycAVXT8EG8ZgqpngOGUWHw&_nc_tpa=Q5bMBQIUMFcPKEy2qlLCa6DYcHm8HJDhuy38Sssv1FxAOQoZY5S4m7mgaahxjSOAGCRrnPvdlfjV6F0T-Q&oh=00_AQP5o1l6gwGsRlY741-cVRg7aJK8_96_B-HhxWg-SfOEnw&oe=6AC49913"
   },
   "summary": {
     "followers_count": 9,
-    "views": 356,
-    "likes": 9,
+    "views": 679,
+    "likes": 16,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 81,
-    "engagement_rate": 22.75,
+    "engagement_total": 85,
+    "engagement_rate": 12.52,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -55,7 +55,22 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dd8zon0mzDC",
       "timestamp": "2026-10-01T11:31:18+0000",
       "metrics": {
-        "views": 229,
+        "views": 281,
+        "likes": 7,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 7
+    },
+    {
+      "id": "17909361264542607",
+      "text": "Dulu aku mikir Doa Nabi Yunus itu cuma buat orang yang \"beneran susah\".\nTernyata aku yang paling butuh pas ngerasa biasa",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dd9IP53oGL0",
+      "timestamp": "2026-10-01T14:31:25+0000",
+      "metrics": {
+        "views": 243,
         "likes": 6,
         "replies": 0,
         "reposts": 0,
@@ -78,31 +93,46 @@
         "shares": 0
       },
       "engagement": 4
-    },
+    }
+  ],
+  "recent_posts": [
     {
-      "id": "18012307502760302",
-      "text": "Unpopular opinion: aku dulu pikir \"pasrah sama takdir\" itu artinya berhenti usaha.\nPadahal justru sebaliknya — makin aku",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dd8fClOm5pK",
-      "timestamp": "2026-10-01T08:31:20+0000",
+      "id": "17990640000048135",
+      "text": "Lagi di titik yang rasanya hati berat banget — tapi ga tau mau ngeluh ke siapa?\nAku pernah di situ. Diem-dieman sama dir",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dd9SmAPlMNB",
+      "timestamp": "2026-10-01T16:01:48+0000",
       "metrics": {
-        "views": 74,
-        "likes": 2,
+        "views": 38,
+        "likes": 0,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 2
-    }
-  ],
-  "recent_posts": [
+      "engagement": 0
+    },
+    {
+      "id": "17909361264542607",
+      "text": "Dulu aku mikir Doa Nabi Yunus itu cuma buat orang yang \"beneran susah\".\nTernyata aku yang paling butuh pas ngerasa biasa",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dd9IP53oGL0",
+      "timestamp": "2026-10-01T14:31:25+0000",
+      "metrics": {
+        "views": 243,
+        "likes": 6,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 6
+    },
     {
       "id": "17903885409598385",
       "text": "Aku baru sadar — kain ihram itu bukan cuma perlengkapan, tapi reminder.\nWaktu aku pegang pertama kali, langsung ngerasa.",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dd899qjm6BA",
       "timestamp": "2026-10-01T13:01:33+0000",
       "metrics": {
-        "views": 0,
+        "views": 3,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -117,14 +147,14 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dd8zon0mzDC",
       "timestamp": "2026-10-01T11:31:18+0000",
       "metrics": {
-        "views": 229,
-        "likes": 6,
+        "views": 281,
+        "likes": 7,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 6
+      "engagement": 7
     },
     {
       "id": "18012307502760302",
@@ -215,36 +245,6 @@
         "shares": 0
       },
       "engagement": 0
-    },
-    {
-      "id": "18177614752439414",
-      "text": "Persiapan Umroh yang bikin overthinking itu bukan ritualnya — tapi checklist perlengkapannya 😅\nDulu aku literally buka ",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dd6ZKQ5Fv5v",
-      "timestamp": "2026-09-30T13:01:29+0000",
-      "metrics": {
-        "views": 4,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "17936971881374822",
-      "text": "Nenek aku selalu bilang, niat Umroh itu jangan cuma diucap — harus \"dipegang\" tiap hari sampai berangkat.\nDulu aku angga",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dd6O2ffFYwd",
-      "timestamp": "2026-09-30T11:31:24+0000",
-      "metrics": {
-        "views": 469,
-        "likes": 30,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 31
     }
   ]
 }
