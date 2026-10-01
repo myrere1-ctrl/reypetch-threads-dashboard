@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-10-01T06:09:01.661Z",
+  "updated_at": "2026-10-01T13:31:36.368Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=slH_Cl8fbocQ7kNvwEhbrOs&_nc_oc=AdpeKeNc8mjxKw7WSxL11xag-_MeZLh05F0f_FvwOT46COl40M2vz22xnMyNRkJHLuE&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=MC1M9CWxtEB93w8NreiEyw&_nc_tpa=Q5bMBQJ7DVu7chLzsnJ_qq-Sy1we8JEPqzCIXprJHUfjON6RYzfFK_4jSMDdYJXNWqCY8EJfFpwTrZpiAQ&oh=00_AQPewVX_fOUDygBU62axiHncEvaMI4YDKKfMo8dIAx_Y2w&oe=6AC3B813"
+    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=slH_Cl8fbocQ7kNvwGRnAqO&_nc_oc=Adrx0WJTuOJWzi1v07TBGpYLDrDOa8srFoMQcvOPi7u4FGSZXWEKN2Vu7XOMi_OFqPU&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=D1MKJ-X6Kf1rck9YH9f-bA&_nc_tpa=Q5bMBQLY1duOyUTvjgMl5SZQJIoBzuaAZWWeVuKdQCmQ_7rtUI1d7RkdmyAM-LQU6m4epDG1-V8nne3wFQ&oh=00_AQMBbx6m389uQmr0mLF7JmjQCzcxjKrN2N_URtUvOIzoLg&oe=6AC42893"
   },
   "summary": {
     "followers_count": 9,
-    "views": 1010,
-    "likes": 34,
+    "views": 356,
+    "likes": 9,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 70,
-    "engagement_rate": 6.93,
+    "engagement_total": 81,
+    "engagement_rate": 22.75,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -25,14 +25,14 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dd6O2ffFYwd",
       "timestamp": "2026-09-30T11:31:24+0000",
       "metrics": {
-        "views": 458,
-        "likes": 28,
-        "replies": 0,
+        "views": 469,
+        "likes": 30,
+        "replies": 1,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 28
+      "engagement": 31
     },
     {
       "id": "18124398802675479",
@@ -40,7 +40,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dd5GwWTCWyT",
       "timestamp": "2026-09-30T01:01:26+0000",
       "metrics": {
-        "views": 202,
+        "views": 203,
         "likes": 15,
         "replies": 0,
         "reposts": 3,
@@ -50,12 +50,27 @@
       "engagement": 18
     },
     {
+      "id": "18109170236178723",
+      "text": "4 amalan yang aku lakuin tiap rindu Tanah Suci tiba-tiba nyerang:\n1. Sholawat — kayak ngirim salam ke tempat yang belum ",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dd8zon0mzDC",
+      "timestamp": "2026-10-01T11:31:18+0000",
+      "metrics": {
+        "views": 229,
+        "likes": 6,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 6
+    },
+    {
       "id": "17989014849049088",
       "text": "4 amalan yang aku andalin tiap pikiran lagi penuh banget:\n1. Istighfar — mulut sibuk, pikiran pelan-pelan ikut tenang\n2.",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dd7rkAZFGHS",
       "timestamp": "2026-10-01T01:01:31+0000",
       "metrics": {
-        "views": 259,
+        "views": 264,
         "likes": 4,
         "replies": 0,
         "reposts": 0,
@@ -65,27 +80,12 @@
       "engagement": 4
     },
     {
-      "id": "17960144031209581",
-      "text": "Pernah ga, lagi transfer sedekah kecil — terus tiba-tiba ngerasa lapang gitu?\nAku sering ngehindarin sedekah kalau lagi ",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dd4yKS0kUba",
-      "timestamp": "2026-09-29T22:01:28+0000",
+      "id": "18012307502760302",
+      "text": "Unpopular opinion: aku dulu pikir \"pasrah sama takdir\" itu artinya berhenti usaha.\nPadahal justru sebaliknya — makin aku",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dd8fClOm5pK",
+      "timestamp": "2026-10-01T08:31:20+0000",
       "metrics": {
-        "views": 23,
-        "likes": 1,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 2
-    },
-    {
-      "id": "17870199522644284",
-      "text": "Lagi di titik yang rasanya semua jalan buntu dan pikiran ga bisa berhenti?\nAku pernah di fase itu — capek, ngerasa sendi",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dd3-qE-G_EH",
-      "timestamp": "2026-09-29T14:31:26+0000",
-      "metrics": {
-        "views": 125,
+        "views": 74,
         "likes": 2,
         "replies": 0,
         "reposts": 0,
@@ -97,12 +97,57 @@
   ],
   "recent_posts": [
     {
+      "id": "17903885409598385",
+      "text": "Aku baru sadar — kain ihram itu bukan cuma perlengkapan, tapi reminder.\nWaktu aku pegang pertama kali, langsung ngerasa.",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dd899qjm6BA",
+      "timestamp": "2026-10-01T13:01:33+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
+      "id": "18109170236178723",
+      "text": "4 amalan yang aku lakuin tiap rindu Tanah Suci tiba-tiba nyerang:\n1. Sholawat — kayak ngirim salam ke tempat yang belum ",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dd8zon0mzDC",
+      "timestamp": "2026-10-01T11:31:18+0000",
+      "metrics": {
+        "views": 229,
+        "likes": 6,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 6
+    },
+    {
+      "id": "18012307502760302",
+      "text": "Unpopular opinion: aku dulu pikir \"pasrah sama takdir\" itu artinya berhenti usaha.\nPadahal justru sebaliknya — makin aku",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dd8fClOm5pK",
+      "timestamp": "2026-10-01T08:31:20+0000",
+      "metrics": {
+        "views": 74,
+        "likes": 2,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 2
+    },
+    {
       "id": "18065541200685338",
       "text": "Aku dulu kira nyiapin perlengkapan Umroh itu gampang — ternyata yang bikin pusing justru milih-milihnya 😅\nUjung-ujungny",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dd8KbnUFWIK",
       "timestamp": "2026-10-01T05:31:16+0000",
       "metrics": {
-        "views": 0,
+        "views": 4,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -117,7 +162,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dd7rkAZFGHS",
       "timestamp": "2026-10-01T01:01:31+0000",
       "metrics": {
-        "views": 259,
+        "views": 264,
         "likes": 4,
         "replies": 0,
         "reposts": 0,
@@ -132,7 +177,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dd7W9OTAbJz",
       "timestamp": "2026-09-30T22:01:28+0000",
       "metrics": {
-        "views": 79,
+        "views": 85,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -147,7 +192,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dd6tyWlG11V",
       "timestamp": "2026-09-30T16:01:42+0000",
       "metrics": {
-        "views": 130,
+        "views": 132,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -162,7 +207,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dd6jc3NmwMG",
       "timestamp": "2026-09-30T14:31:23+0000",
       "metrics": {
-        "views": 27,
+        "views": 28,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -177,7 +222,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dd6ZKQ5Fv5v",
       "timestamp": "2026-09-30T13:01:29+0000",
       "metrics": {
-        "views": 3,
+        "views": 4,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -192,59 +237,14 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dd6O2ffFYwd",
       "timestamp": "2026-09-30T11:31:24+0000",
       "metrics": {
-        "views": 458,
-        "likes": 28,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 28
-    },
-    {
-      "id": "18053825099803393",
-      "text": "Pernah ngerasa udah muhasabah — tapi makin diinget, makin sesak sendiri?\nAku pernah. Duduk diem, mikirn semua salah, ter",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dd56PrdFcDI",
-      "timestamp": "2026-09-30T08:31:20+0000",
-      "metrics": {
-        "views": 34,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "17885516394492238",
-      "text": "Kenapa dzikir panjang rasanya capek di tangan, tapi ga mau berhenti?\nItu yang aku rasain — sampai akhirnya pegang Tasbih",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dd5lo2DHIjs",
-      "timestamp": "2026-09-30T05:31:16+0000",
-      "metrics": {
-        "views": 2,
-        "likes": 0,
+        "views": 469,
+        "likes": 30,
         "replies": 1,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 1
-    },
-    {
-      "id": "18124398802675479",
-      "text": "Ibu aku pernah bilang, kalau ngerasa jauh dari Allah — jangan nunggu siap dulu baru balik.\nLangsung aja. Walaupun masih ",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dd5GwWTCWyT",
-      "timestamp": "2026-09-30T01:01:26+0000",
-      "metrics": {
-        "views": 202,
-        "likes": 15,
-        "replies": 0,
-        "reposts": 3,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 18
+      "engagement": 31
     }
   ]
 }
