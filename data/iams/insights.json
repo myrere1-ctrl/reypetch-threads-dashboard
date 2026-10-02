@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-10-02T12:50:11.964Z",
+  "updated_at": "2026-10-02T18:31:38.115Z",
   "profile": {
     "username": "iams_ichi",
     "name": "I.petch",
     "biography": "🇦🇺\nCMO at COA.AU &\nNo-Code App Builder\nOnly Positive Vibes\nIt’s about the vibe and the feeling. \nThe names of the places? 🤔\ncmo@coa.au",
-    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=8VxsoApshc8Q7kNvwEuzHhR&_nc_oc=AdqSc_Mwez4FuXRk1wN-ygXkg9HPjbysJsFc-uwAqAw1pZBGORutZ_RPVwJ-80xYZeA&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=XG_sOqJ-MM68rsHcwyQTpw&_nc_tpa=Q5bMBQJLfvqWNWniCakaVBFZUlo6XHhtt8lgZobO8McuYL-cIxEm8bCzmqmRIZKX0sBgaG5EYby42jFFyw&oh=00_AQNVIkFVFlTWWSIY-JB_HaEVxPYnOBgi618mkApAJRG5Iw&oe=6AC5889E"
+    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=8VxsoApshc8Q7kNvwGV9uba&_nc_oc=Adowe2vuNNtahFoAkDQTnVcNvO1e2b0ODqY43Beap_5o3OJgC7_wdjdU_oSaskZHUic&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=TfV6ngfdtoFaTHICJsaIMQ&_nc_tpa=Q5bMBQI7kAr3wr0n83Njv9oQkfy605NH19Zu40nImguE0eq7PGymni8zzb6i23a7Me3-hQVOijTKEeyWjg&oh=00_AQMZktFyL38VLCFLFjrGGeIIKjHS5PXi3l_u3ZXXLA2kFw&oe=6AC5C0DE"
   },
   "summary": {
     "followers_count": 1373,
-    "views": 946,
-    "likes": 17,
-    "replies": 2,
+    "views": 1527,
+    "likes": 26,
+    "replies": 6,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 169,
-    "engagement_rate": 17.86,
+    "engagement_total": 184,
+    "engagement_rate": 12.05,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -27,7 +27,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dd7hNf1jgh5",
       "timestamp": "2026-09-30T23:31:04+0000",
       "metrics": {
-        "views": 1864,
+        "views": 1867,
         "likes": 59,
         "replies": 14,
         "reposts": 1,
@@ -37,12 +37,27 @@
       "engagement": 74
     },
     {
+      "id": "17997757545008055",
+      "text": "I used to think Japanese people were cold — polite but distant, hard to connect with.\nTurns out they just show care diff",
+      "permalink": "https://www.threads.com/@iams_ichi/post/Dd-GA2fDTrA",
+      "timestamp": "2026-10-01T23:31:07+0000",
+      "metrics": {
+        "views": 1219,
+        "likes": 28,
+        "replies": 11,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 39
+    },
+    {
       "id": "17992458356846459",
       "text": "On an Australian road trip, nobody honks. Like, genuinely nobody.\nCut someone off by accident — they just… wave it off a",
       "permalink": "https://www.threads.com/@iams_ichi/post/Dd8bmJyG1b9",
       "timestamp": "2026-10-01T08:01:14+0000",
       "metrics": {
-        "views": 781,
+        "views": 785,
         "likes": 16,
         "replies": 15,
         "reposts": 0,
@@ -50,21 +65,6 @@
         "shares": 0
       },
       "engagement": 31
-    },
-    {
-      "id": "17997757545008055",
-      "text": "I used to think Japanese people were cold — polite but distant, hard to connect with.\nTurns out they just show care diff",
-      "permalink": "https://www.threads.com/@iams_ichi/post/Dd-GA2fDTrA",
-      "timestamp": "2026-10-01T23:31:07+0000",
-      "metrics": {
-        "views": 934,
-        "likes": 21,
-        "replies": 8,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 29
     },
     {
       "id": "17974943309935311",
@@ -87,24 +87,39 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dd_OH3em_Bc",
       "timestamp": "2026-10-02T10:01:14+0000",
       "metrics": {
-        "views": 268,
-        "likes": 5,
+        "views": 329,
+        "likes": 6,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 7
+    }
+  ],
+  "recent_posts": [
+    {
+      "id": "18633543274040604",
+      "text": "Unpopular opinion: Barcelona is actually better for introverts than extroverts.\nThe loud squares and busy Ramblas are fo",
+      "permalink": "https://www.threads.com/@iams_ichi/post/Dd_pl76m7MQ",
+      "timestamp": "2026-10-02T14:01:15+0000",
+      "metrics": {
+        "views": 74,
+        "likes": 1,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 5
-    }
-  ],
-  "recent_posts": [
+      "engagement": 1
+    },
     {
       "id": "18018808244931755",
       "text": "Used to land in a new country and spend the first 20 minutes hunting for the right adaptor like a panicked raccoon.\nTurn",
       "permalink": "https://www.threads.com/@iams_ichi/post/Dd_b24UFCpe",
       "timestamp": "2026-10-02T12:01:15+0000",
       "metrics": {
-        "views": 8,
+        "views": 16,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -119,14 +134,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dd_OH3em_Bc",
       "timestamp": "2026-10-02T10:01:14+0000",
       "metrics": {
-        "views": 268,
-        "likes": 5,
-        "replies": 0,
+        "views": 329,
+        "likes": 6,
+        "replies": 1,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 5
+      "engagement": 7
     },
     {
       "id": "18242057104315516",
@@ -134,7 +149,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dd_L8FWlqlL",
       "timestamp": "2026-10-02T09:41:36+0000",
       "metrics": {
-        "views": 18,
+        "views": 25,
         "likes": 1,
         "replies": 1,
         "reposts": 0,
@@ -149,7 +164,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dd_KO9nlrsb",
       "timestamp": "2026-10-02T09:26:42+0000",
       "metrics": {
-        "views": 18,
+        "views": 20,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -164,7 +179,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dd_JmUulhIW",
       "timestamp": "2026-10-02T09:21:09+0000",
       "metrics": {
-        "views": 32,
+        "views": 34,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -179,7 +194,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dd_AY0LllRq",
       "timestamp": "2026-10-02T08:01:12+0000",
       "metrics": {
-        "views": 20,
+        "views": 23,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -194,14 +209,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dd-ypyyFahO",
       "timestamp": "2026-10-02T06:01:11+0000",
       "metrics": {
-        "views": 407,
-        "likes": 1,
+        "views": 467,
+        "likes": 3,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 1
+      "engagement": 3
     },
     {
       "id": "18369201991240958",
@@ -209,7 +224,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dd-k64DEayy",
       "timestamp": "2026-10-02T04:01:12+0000",
       "metrics": {
-        "views": 15,
+        "views": 16,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -224,7 +239,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dd-XMFEGvU8",
       "timestamp": "2026-10-02T02:01:13+0000",
       "metrics": {
-        "views": 69,
+        "views": 71,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -232,21 +247,6 @@
         "shares": 0
       },
       "engagement": 0
-    },
-    {
-      "id": "17997757545008055",
-      "text": "I used to think Japanese people were cold — polite but distant, hard to connect with.\nTurns out they just show care diff",
-      "permalink": "https://www.threads.com/@iams_ichi/post/Dd-GA2fDTrA",
-      "timestamp": "2026-10-01T23:31:07+0000",
-      "metrics": {
-        "views": 934,
-        "likes": 21,
-        "replies": 8,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 29
     }
   ]
 }
