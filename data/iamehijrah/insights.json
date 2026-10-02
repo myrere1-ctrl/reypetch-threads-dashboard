@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-10-01T23:58:17.801Z",
+  "updated_at": "2026-10-02T05:52:31.148Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=slH_Cl8fbocQ7kNvwEgnDn1&_nc_oc=AdoB3jttDqx3fWeQEx1fSz2pagYyqnOE8HL61tmgUO_qm74urDdqfOB0UDcTaU7BFvU&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=imzw9z-ymC8UGY9TZFuL4A&_nc_tpa=Q5bMBQJSD7agaxrPEaughcogMdjn0t1RLyIYM5Nou-CzH5xA2CfVy0T-aWPiY5sA4JFP60fGEIX1F8w81g&oh=00_AQPaatEhYVFNX2CwfLrnb-iaBA_CyR7hzjethYhZTsIBIQ&oe=6AC4D153"
+    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=slH_Cl8fbocQ7kNvwFa_q1i&_nc_oc=AdqQwQCVO_03p2cO5lVt_BFQEoT0NPKCZEbTIo-MFS23ITWC9PDZ-t8OLjNl4aJY_SY&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=T_ffjs8XrXuwQ65sStjG7g&_nc_tpa=Q5bMBQJ4cA7uU5ltJV8OeMaKTpKACkkUe2pTAGvT4AKraFA8NutSO_I7CjsybcWYIKYCWMEGk-lBUEnaOw&oh=00_AQPqChpjz5vzO1pkYxCAmdN14ErWsdXmfxQB2iRbxtEovw&oe=6AC50993"
   },
   "summary": {
     "followers_count": 9,
-    "views": 882,
-    "likes": 20,
+    "views": 961,
+    "likes": 22,
     "replies": 0,
-    "reposts": 0,
+    "reposts": 2,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 89,
-    "engagement_rate": 10.09,
+    "engagement_rate": 9.26,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -26,13 +26,13 @@
       "timestamp": "2026-09-30T11:31:24+0000",
       "metrics": {
         "views": 469,
-        "likes": 30,
+        "likes": 29,
         "replies": 1,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 31
+      "engagement": 30
     },
     {
       "id": "18124398802675479",
@@ -55,7 +55,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dd8zon0mzDC",
       "timestamp": "2026-10-01T11:31:18+0000",
       "metrics": {
-        "views": 283,
+        "views": 285,
         "likes": 7,
         "replies": 0,
         "reposts": 0,
@@ -70,7 +70,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dd9IP53oGL0",
       "timestamp": "2026-10-01T14:31:25+0000",
       "metrics": {
-        "views": 243,
+        "views": 244,
         "likes": 6,
         "replies": 0,
         "reposts": 0,
@@ -85,31 +85,61 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dd97v4gAaeg",
       "timestamp": "2026-10-01T22:01:27+0000",
       "metrics": {
-        "views": 200,
-        "likes": 4,
+        "views": 206,
+        "likes": 5,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 4
+      "engagement": 5
     }
   ],
   "recent_posts": [
+    {
+      "id": "17971552284158751",
+      "text": "Tau ga, dulu aku kira kain ihram itu tinggal beli sembarangan — yang penting putih.\nEh ternyata salah pilih bahan, ribet",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dd-vPXsEdtu",
+      "timestamp": "2026-10-02T05:31:23+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
+      "id": "17993454800843716",
+      "text": "Kadang aku nanya ke diri sendiri — ini ngerjain sesuatu buat Allah, atau buat keliatan rajin?\nPertanyaan itu pelan-pelan",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dd-Qa6gmPVB",
+      "timestamp": "2026-10-02T01:02:04+0000",
+      "metrics": {
+        "views": 69,
+        "likes": 1,
+        "replies": 0,
+        "reposts": 2,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 3
+    },
     {
       "id": "17906634813330559",
       "text": "Unpopular opinion: bukan waktu yang kurang buat sholat — tapi prioritasnya yang belum bener.\nAku pernah \"sibuk\" tapi uju",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dd97v4gAaeg",
       "timestamp": "2026-10-01T22:01:27+0000",
       "metrics": {
-        "views": 200,
-        "likes": 4,
+        "views": 206,
+        "likes": 5,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 4
+      "engagement": 5
     },
     {
       "id": "17990640000048135",
@@ -132,7 +162,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dd9IP53oGL0",
       "timestamp": "2026-10-01T14:31:25+0000",
       "metrics": {
-        "views": 243,
+        "views": 244,
         "likes": 6,
         "replies": 0,
         "reposts": 0,
@@ -162,7 +192,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dd8zon0mzDC",
       "timestamp": "2026-10-01T11:31:18+0000",
       "metrics": {
-        "views": 283,
+        "views": 285,
         "likes": 7,
         "replies": 0,
         "reposts": 0,
@@ -207,7 +237,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dd7rkAZFGHS",
       "timestamp": "2026-10-01T01:01:31+0000",
       "metrics": {
-        "views": 264,
+        "views": 265,
         "likes": 4,
         "replies": 0,
         "reposts": 0,
@@ -215,36 +245,6 @@
         "shares": 0
       },
       "engagement": 4
-    },
-    {
-      "id": "18354167890175652",
-      "text": "Lagi ngerasa semua serba berat dan pikiran ga bisa diem?\nAku pernah di titik itu — pagi udah capek duluan sebelum hari m",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dd7W9OTAbJz",
-      "timestamp": "2026-09-30T22:01:28+0000",
-      "metrics": {
-        "views": 85,
-        "likes": 1,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "18123249592923435",
-      "text": "Jarang yang tau — istighfar itu bukan cuma buat ngerasa bersalah.\nAku mulai rutin baca istighfar justru pas lagi cemas, ",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dd6tyWlG11V",
-      "timestamp": "2026-09-30T16:01:42+0000",
-      "metrics": {
-        "views": 132,
-        "likes": 1,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
     }
   ]
 }
