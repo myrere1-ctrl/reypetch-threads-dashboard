@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-10-02T12:51:03.022Z",
+  "updated_at": "2026-10-02T18:32:24.002Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=slH_Cl8fbocQ7kNvwHGTyiH&_nc_oc=AdpMLVMuh3qosrYFGttkRsnS6rNoASlF5JMCFMPm17v1DEsjnlqFfRcs85UuIZWj2rQ&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=kdd-LN9X4svqE59uru0kDg&_nc_tpa=Q5bMBQLK75ezCovz0ZK-zYQzaYaMJbrCg0CXaxT9Bz_vQrmSv3wHnXPl12hv2_F47mECw2valLoESqoAtA&oh=00_AQO9dK0AI469KBLjmmewC8BjV6k8StwbLSxbNjfpH8lRwQ&oe=6AC57A13"
+    "picture": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=slH_Cl8fbocQ7kNvwG1zM2g&_nc_oc=AdqQaU2yyH7sdpjNeAld0sIizJOqOLI2uBNuMrQBhuYZY9bU774jucAxKikHh0FKSfI&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=JK8iAu_Ddv-fvEAKN_oZYg&_nc_tpa=Q5bMBQK72o3XMVOkFCoehtgUEDu46qGuHc8zw0ZTuJXsPsj6wfiJN3SkxyAR4WVLbemtuVYnZAn4z3BBJA&oh=00_AQNXuTw1tVBwXFQibBELYl9L11EJB4vv350YON9FaxF88w&oe=6AC5B253"
   },
   "summary": {
     "followers_count": 9,
-    "views": 322,
-    "likes": 2,
+    "views": 628,
+    "likes": 7,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 90,
-    "engagement_rate": 27.95,
+    "engagement_total": 93,
+    "engagement_rate": 14.81,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -80,12 +80,12 @@
       "engagement": 6
     },
     {
-      "id": "17906634813330559",
-      "text": "Unpopular opinion: bukan waktu yang kurang buat sholat — tapi prioritasnya yang belum bener.\nAku pernah \"sibuk\" tapi uju",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dd97v4gAaeg",
-      "timestamp": "2026-10-01T22:01:27+0000",
+      "id": "18496946167098456",
+      "text": "Lagi di titik yang rasanya kepala ga mau berhenti mikir, tapi hati malah makin kosong?\nAku pernah di situ. Dan yang pela",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dd_3Wx_m9cq",
+      "timestamp": "2026-10-02T16:01:32+0000",
       "metrics": {
-        "views": 208,
+        "views": 158,
         "likes": 5,
         "replies": 0,
         "reposts": 0,
@@ -97,12 +97,57 @@
   ],
   "recent_posts": [
     {
+      "id": "18496946167098456",
+      "text": "Lagi di titik yang rasanya kepala ga mau berhenti mikir, tapi hati malah makin kosong?\nAku pernah di situ. Dan yang pela",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dd_3Wx_m9cq",
+      "timestamp": "2026-10-02T16:01:32+0000",
+      "metrics": {
+        "views": 158,
+        "likes": 5,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 5
+    },
+    {
+      "id": "18129910270840287",
+      "text": "Lagi ngerasa kayak... habis. Bukan capek biasa, tapi capek yang susah dijelasin ke siapa-siapa.\nAku pernah di titik itu.",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dd_tCLyGwgJ",
+      "timestamp": "2026-10-02T14:31:21+0000",
+      "metrics": {
+        "views": 66,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "18198192154383438",
+      "text": "Salah satu hal yang aku nyesel pas awal nyiapin Umroh — ngeremehin soal baju.\nAku kira semua gamis itu sama aja. Ternyat",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dd_iwvFFU5N",
+      "timestamp": "2026-10-02T13:01:35+0000",
+      "metrics": {
+        "views": 65,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
       "id": "18091394552468998",
       "text": "Kalau lagi ngerasa rezeki seret, hati gelisah — coba tanya, sudah baca Al-Waqiah belum malam ini?\nBukan soal langsung ka",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dd_Yc3Vm4oe",
       "timestamp": "2026-10-02T11:31:29+0000",
       "metrics": {
-        "views": 116,
+        "views": 122,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -117,7 +162,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dd_D1DZFatV",
       "timestamp": "2026-10-02T08:31:16+0000",
       "metrics": {
-        "views": 194,
+        "views": 199,
         "likes": 2,
         "replies": 0,
         "reposts": 0,
@@ -200,51 +245,6 @@
         "shares": 0
       },
       "engagement": 6
-    },
-    {
-      "id": "17903885409598385",
-      "text": "Aku baru sadar — kain ihram itu bukan cuma perlengkapan, tapi reminder.\nWaktu aku pegang pertama kali, langsung ngerasa.",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dd899qjm6BA",
-      "timestamp": "2026-10-01T13:01:33+0000",
-      "metrics": {
-        "views": 3,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "18109170236178723",
-      "text": "4 amalan yang aku lakuin tiap rindu Tanah Suci tiba-tiba nyerang:\n1. Sholawat — kayak ngirim salam ke tempat yang belum ",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dd8zon0mzDC",
-      "timestamp": "2026-10-01T11:31:18+0000",
-      "metrics": {
-        "views": 288,
-        "likes": 7,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 7
-    },
-    {
-      "id": "18012307502760302",
-      "text": "Unpopular opinion: aku dulu pikir \"pasrah sama takdir\" itu artinya berhenti usaha.\nPadahal justru sebaliknya — makin aku",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dd8fClOm5pK",
-      "timestamp": "2026-10-01T08:31:20+0000",
-      "metrics": {
-        "views": 74,
-        "likes": 2,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 2
     }
   ]
 }
