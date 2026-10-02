@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-10-01T23:57:36.810Z",
+  "updated_at": "2026-10-02T05:51:43.185Z",
   "profile": {
     "username": "iams_ichi",
     "name": "I.petch",
     "biography": "🇦🇺\nCMO at COA.AU &\nNo-Code App Builder\nOnly Positive Vibes\nIt’s about the vibe and the feeling. \nThe names of the places? 🤔\ncmo@coa.au",
-    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=8VxsoApshc8Q7kNvwH-r1v3&_nc_oc=AdpOwOnxL9Rzwn5gRwEX1zO0bohN6kAThxY5q7AOj9mgF9D-gSjwcuw-CwL6MA6d4IM&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=JViV7arLmlVu0JMgaNCjLA&_nc_tpa=Q5bMBQIx5-9zTBExRfYAIwyVI6StUfDwOlqfSZx-CDPpwf7zedG8HF4uGhSKSTIUuJScAbLif3jWisGrPg&oh=00_AQOUFO3U2rbqUk2c1Xc-wE5m1SSDSHwjcSCxi8--Zbj5KA&oe=6AC4DFDE"
+    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=8VxsoApshc8Q7kNvwE-gTYf&_nc_oc=AdooNt5CEBUEGuN8-0A_rgPNETM151K8TkX0sk9j7YGICOwjYrpEUnxUuPs3H2g-8Jo&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=F6OLTfQFpV1DqgKw0mYlRA&_nc_tpa=Q5bMBQK9G-Db-ksDoe-Bg2AmuRbbf7-3cWyA1xYe0NxqZV3oH_TXQSmMNO1uTT3_d76sJlrum5BVdWnfMA&oh=00_AQPHLJMDKyyQxUenXy5HRc26bvCr_z0ZuEAPkfqylMqhjQ&oe=6AC5181E"
   },
   "summary": {
-    "followers_count": 1371,
-    "views": 2501,
-    "likes": 56,
-    "replies": 26,
+    "followers_count": 1373,
+    "views": 3289,
+    "likes": 68,
+    "replies": 34,
     "reposts": 1,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 194,
-    "engagement_rate": 7.76,
+    "engagement_total": 183,
+    "engagement_rate": 5.56,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -27,7 +27,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dd7hNf1jgh5",
       "timestamp": "2026-09-30T23:31:04+0000",
       "metrics": {
-        "views": 1853,
+        "views": 1859,
         "likes": 59,
         "replies": 14,
         "reposts": 1,
@@ -37,34 +37,19 @@
       "engagement": 74
     },
     {
-      "id": "18091766030187122",
-      "text": "Nobody told me that Montmartre at 7am — before the crowds — hits completely different.\nJust me, the cobblestones, and a ",
-      "permalink": "https://www.threads.com/@iams_ichi/post/Dd3SASFm3Wj",
-      "timestamp": "2026-09-29T08:01:13+0000",
-      "metrics": {
-        "views": 443,
-        "likes": 30,
-        "replies": 4,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 34
-    },
-    {
       "id": "17992458356846459",
       "text": "On an Australian road trip, nobody honks. Like, genuinely nobody.\nCut someone off by accident — they just… wave it off a",
       "permalink": "https://www.threads.com/@iams_ichi/post/Dd8bmJyG1b9",
       "timestamp": "2026-10-01T08:01:14+0000",
       "metrics": {
-        "views": 686,
-        "likes": 14,
-        "replies": 11,
+        "views": 750,
+        "likes": 16,
+        "replies": 15,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 25
+      "engagement": 31
     },
     {
       "id": "18074716319726168",
@@ -87,7 +72,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dd7yZNFmgvW",
       "timestamp": "2026-10-01T02:01:13+0000",
       "metrics": {
-        "views": 579,
+        "views": 608,
         "likes": 10,
         "replies": 8,
         "reposts": 0,
@@ -95,16 +80,31 @@
         "shares": 0
       },
       "engagement": 18
-    }
-  ],
-  "recent_posts": [
+    },
     {
       "id": "17997757545008055",
       "text": "I used to think Japanese people were cold — polite but distant, hard to connect with.\nTurns out they just show care diff",
       "permalink": "https://www.threads.com/@iams_ichi/post/Dd-GA2fDTrA",
       "timestamp": "2026-10-01T23:31:07+0000",
       "metrics": {
-        "views": 20,
+        "views": 589,
+        "likes": 11,
+        "replies": 6,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 17
+    }
+  ],
+  "recent_posts": [
+    {
+      "id": "18369201991240958",
+      "text": "Used to spend the first hour of every trip digging through my bag for one specific thing.\nBAGAIL 8 set packing cubes fix",
+      "permalink": "https://www.threads.com/@iams_ichi/post/Dd-k64DEayy",
+      "timestamp": "2026-10-02T04:01:12+0000",
+      "metrics": {
+        "views": 12,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -112,6 +112,36 @@
         "shares": 0
       },
       "engagement": 1
+    },
+    {
+      "id": "17874412545586351",
+      "text": "Nobody talks about Rue Crémieux until you accidentally walk down it at 8am before the influencers show up.\nJust you, the",
+      "permalink": "https://www.threads.com/@iams_ichi/post/Dd-XMFEGvU8",
+      "timestamp": "2026-10-02T02:01:13+0000",
+      "metrics": {
+        "views": 67,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "17997757545008055",
+      "text": "I used to think Japanese people were cold — polite but distant, hard to connect with.\nTurns out they just show care diff",
+      "permalink": "https://www.threads.com/@iams_ichi/post/Dd-GA2fDTrA",
+      "timestamp": "2026-10-01T23:31:07+0000",
+      "metrics": {
+        "views": 589,
+        "likes": 11,
+        "replies": 6,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 17
     },
     {
       "id": "18113472761020464",
@@ -164,14 +194,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dd8bmJyG1b9",
       "timestamp": "2026-10-01T08:01:14+0000",
       "metrics": {
-        "views": 686,
-        "likes": 14,
-        "replies": 11,
+        "views": 750,
+        "likes": 16,
+        "replies": 15,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 25
+      "engagement": 31
     },
     {
       "id": "17981836994900760",
@@ -194,7 +224,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dd8AISPIOEG",
       "timestamp": "2026-10-01T04:01:14+0000",
       "metrics": {
-        "views": 60,
+        "views": 61,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -217,36 +247,6 @@
         "shares": 0
       },
       "engagement": 0
-    },
-    {
-      "id": "17974943309935311",
-      "text": "I used to think Gold Coast was just a party beach — loud, touristy, not really for people like me.\nTurns out if you get ",
-      "permalink": "https://www.threads.com/@iams_ichi/post/Dd7yZNFmgvW",
-      "timestamp": "2026-10-01T02:01:13+0000",
-      "metrics": {
-        "views": 579,
-        "likes": 10,
-        "replies": 8,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 18
-    },
-    {
-      "id": "17958291687233258",
-      "text": "Arrawarra Headland sits between two libraries — one 25 minutes out in Coffs Harbour(Harry Bailey Memorial Library), one ",
-      "permalink": "https://www.threads.com/@iams_ichi/post/Dd7nGd9I49S",
-      "timestamp": "2026-10-01T00:21:59+0000",
-      "metrics": {
-        "views": 21,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
     }
   ]
 }
