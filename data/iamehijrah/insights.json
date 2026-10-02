@@ -1,20 +1,20 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-10-02T05:52:31.148Z",
+  "updated_at": "2026-10-02T12:51:03.022Z",
   "profile": {
     "username": "_iame.hijrah",
-    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=slH_Cl8fbocQ7kNvwFa_q1i&_nc_oc=AdqQwQCVO_03p2cO5lVt_BFQEoT0NPKCZEbTIo-MFS23ITWC9PDZ-t8OLjNl4aJY_SY&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=T_ffjs8XrXuwQ65sStjG7g&_nc_tpa=Q5bMBQJ4cA7uU5ltJV8OeMaKTpKACkkUe2pTAGvT4AKraFA8NutSO_I7CjsybcWYIKYCWMEGk-lBUEnaOw&oh=00_AQPqChpjz5vzO1pkYxCAmdN14ErWsdXmfxQB2iRbxtEovw&oe=6AC50993"
+    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=slH_Cl8fbocQ7kNvwHGTyiH&_nc_oc=AdpMLVMuh3qosrYFGttkRsnS6rNoASlF5JMCFMPm17v1DEsjnlqFfRcs85UuIZWj2rQ&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=kdd-LN9X4svqE59uru0kDg&_nc_tpa=Q5bMBQLK75ezCovz0ZK-zYQzaYaMJbrCg0CXaxT9Bz_vQrmSv3wHnXPl12hv2_F47mECw2valLoESqoAtA&oh=00_AQO9dK0AI469KBLjmmewC8BjV6k8StwbLSxbNjfpH8lRwQ&oe=6AC57A13"
   },
   "summary": {
     "followers_count": 9,
-    "views": 961,
-    "likes": 22,
+    "views": 322,
+    "likes": 2,
     "replies": 0,
-    "reposts": 2,
+    "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 89,
-    "engagement_rate": 9.26,
+    "engagement_total": 90,
+    "engagement_rate": 27.95,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -26,13 +26,13 @@
       "timestamp": "2026-09-30T11:31:24+0000",
       "metrics": {
         "views": 469,
-        "likes": 29,
+        "likes": 30,
         "replies": 1,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 30
+      "engagement": 31
     },
     {
       "id": "18124398802675479",
@@ -55,7 +55,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dd8zon0mzDC",
       "timestamp": "2026-10-01T11:31:18+0000",
       "metrics": {
-        "views": 285,
+        "views": 288,
         "likes": 7,
         "replies": 0,
         "reposts": 0,
@@ -85,7 +85,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dd97v4gAaeg",
       "timestamp": "2026-10-01T22:01:27+0000",
       "metrics": {
-        "views": 206,
+        "views": 208,
         "likes": 5,
         "replies": 0,
         "reposts": 0,
@@ -97,12 +97,42 @@
   ],
   "recent_posts": [
     {
+      "id": "18091394552468998",
+      "text": "Kalau lagi ngerasa rezeki seret, hati gelisah — coba tanya, sudah baca Al-Waqiah belum malam ini?\nBukan soal langsung ka",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dd_Yc3Vm4oe",
+      "timestamp": "2026-10-02T11:31:29+0000",
+      "metrics": {
+        "views": 116,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "18092191784403529",
+      "text": "Lagi overthinking soal Umroh — takut niatnya ga bener, takut hati belum siap, takut ini itu.\nAku pernah stuck di situ la",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dd_D1DZFatV",
+      "timestamp": "2026-10-02T08:31:16+0000",
+      "metrics": {
+        "views": 194,
+        "likes": 2,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 2
+    },
+    {
       "id": "17971552284158751",
       "text": "Tau ga, dulu aku kira kain ihram itu tinggal beli sembarangan — yang penting putih.\nEh ternyata salah pilih bahan, ribet",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dd-vPXsEdtu",
       "timestamp": "2026-10-02T05:31:23+0000",
       "metrics": {
-        "views": 0,
+        "views": 19,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -132,7 +162,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dd97v4gAaeg",
       "timestamp": "2026-10-01T22:01:27+0000",
       "metrics": {
-        "views": 206,
+        "views": 208,
         "likes": 5,
         "replies": 0,
         "reposts": 0,
@@ -192,7 +222,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dd8zon0mzDC",
       "timestamp": "2026-10-01T11:31:18+0000",
       "metrics": {
-        "views": 285,
+        "views": 288,
         "likes": 7,
         "replies": 0,
         "reposts": 0,
@@ -215,36 +245,6 @@
         "shares": 0
       },
       "engagement": 2
-    },
-    {
-      "id": "18065541200685338",
-      "text": "Aku dulu kira nyiapin perlengkapan Umroh itu gampang — ternyata yang bikin pusing justru milih-milihnya 😅\nUjung-ujungny",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dd8KbnUFWIK",
-      "timestamp": "2026-10-01T05:31:16+0000",
-      "metrics": {
-        "views": 4,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "17989014849049088",
-      "text": "4 amalan yang aku andalin tiap pikiran lagi penuh banget:\n1. Istighfar — mulut sibuk, pikiran pelan-pelan ikut tenang\n2.",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dd7rkAZFGHS",
-      "timestamp": "2026-10-01T01:01:31+0000",
-      "metrics": {
-        "views": 265,
-        "likes": 4,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 4
     }
   ]
 }
