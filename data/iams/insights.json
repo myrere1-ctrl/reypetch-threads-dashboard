@@ -1,48 +1,33 @@
 {
   "account": "iams",
-  "updated_at": "2026-10-03T08:16:49.514Z",
+  "updated_at": "2026-10-03T13:31:26.260Z",
   "profile": {
     "username": "iams_ichi",
     "name": "I.petch",
     "biography": "🇦🇺\nCMO at COA.AU &\nNo-Code App Builder\nOnly Positive Vibes\nIt’s about the vibe and the feeling. \nThe names of the places? 🤔\ncmo@coa.au",
-    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=8VxsoApshc8Q7kNvwEBMOAS&_nc_oc=AdprOVNlipT4vg6WpKbjBIQAsAxJe05TenD39LDlNHWFah38p9Am5EVfCOpkq6HMLEc&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=NoNWL-2rHJnqznqTCJHI9w&_nc_tpa=Q5bMBQIc_N-OQ3_dn88vPD7TW4PJWOSUITKSlRU1wTj7YoFrlSjipSueFuL4nEG2QfhyNcd_qjsVhP2JXg&oh=00_AQOjem8RQ3JgoA8tj70E0Ks1Ug93Y96w95yBYfJd4KnH7Q&oe=6AC6A1DE"
+    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=8VxsoApshc8Q7kNvwF64UJJ&_nc_oc=AdptPwhJ-RNMYbJfX9XZkziIujVNkbX84nX38MZWUkaXi3_SCqfKXEicGFyBEkvryvc&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=_mSkPgPmw1DuuQxJJX1rbg&_nc_tpa=Q5bMBQJwj52_xtecsKkLrNQKQdd6IuZDmmfcpmxOnrThsZAbZNj6JKJp61D6aZxVzD7SL6KyVR5ErGplHQ&oh=00_AQOqfpNXM2vVrxPd8J7keLtROJvv69EIx7clvPuFLHDwJA&oe=6AC6DA1E"
   },
   "summary": {
     "followers_count": 1373,
-    "views": 36,
-    "likes": 0,
+    "views": 1122,
+    "likes": 2,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 218,
-    "engagement_rate": 605.56,
+    "engagement_total": 150,
+    "engagement_rate": 13.37,
     "curiosity_score": null,
     "post_count": 25
   },
   "top_posts": [
-    {
-      "id": "18110583344137654",
-      "text": "I used to think Le Marais was just a trendy neighborhood — pretty streets, great falafel, very Instagrammable.\nTurns out",
-      "permalink": "https://www.threads.com/@iams_ichi/post/Dd7hNf1jgh5",
-      "timestamp": "2026-09-30T23:31:04+0000",
-      "metrics": {
-        "views": 1868,
-        "likes": 59,
-        "replies": 14,
-        "reposts": 1,
-        "quotes": 0,
-        "shares": 1
-      },
-      "engagement": 74
-    },
     {
       "id": "17997757545008055",
       "text": "I used to think Japanese people were cold — polite but distant, hard to connect with.\nTurns out they just show care diff",
       "permalink": "https://www.threads.com/@iams_ichi/post/Dd-GA2fDTrA",
       "timestamp": "2026-10-01T23:31:07+0000",
       "metrics": {
-        "views": 1507,
+        "views": 1510,
         "likes": 32,
         "replies": 11,
         "reposts": 0,
@@ -57,7 +42,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dd-ypyyFahO",
       "timestamp": "2026-10-02T06:01:11+0000",
       "metrics": {
-        "views": 1232,
+        "views": 1244,
         "likes": 14,
         "replies": 17,
         "reposts": 0,
@@ -72,7 +57,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dd8bmJyG1b9",
       "timestamp": "2026-10-01T08:01:14+0000",
       "metrics": {
-        "views": 798,
+        "views": 804,
         "likes": 16,
         "replies": 15,
         "reposts": 0,
@@ -87,7 +72,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dd7yZNFmgvW",
       "timestamp": "2026-10-01T02:01:13+0000",
       "metrics": {
-        "views": 613,
+        "views": 614,
         "likes": 10,
         "replies": 8,
         "reposts": 0,
@@ -95,16 +80,76 @@
         "shares": 0
       },
       "engagement": 18
+    },
+    {
+      "id": "18104658944354706",
+      "text": "They say Osaka is overwhelming — too loud, too crowded, too much for an introvert to actually enjoy.\nTurns out the chaos",
+      "permalink": "https://www.threads.com/@iams_ichi/post/Dd_OH3em_Bc",
+      "timestamp": "2026-10-02T10:01:14+0000",
+      "metrics": {
+        "views": 351,
+        "likes": 6,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 7
     }
   ],
   "recent_posts": [
+    {
+      "id": "17998940196001928",
+      "text": "I Found Australia's Most Underrated Coastal Gem — And Almost Kept It a Secret(Locals know)\n\n1/ There's a place in NSW wh",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DeBwMg-m5Zi",
+      "timestamp": "2026-10-03T09:36:54+0000",
+      "metrics": {
+        "views": 650,
+        "likes": 0,
+        "replies": 6,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 2
+      },
+      "engagement": 6
+    },
+    {
+      "id": "18130184168498176",
+      "text": "Jalan sore with Tully 📍Little Beach Red Rock NSW",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DeBvN1GG6PL",
+      "timestamp": "2026-10-03T09:28:20+0000",
+      "metrics": {
+        "views": 43,
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
+      "id": "17959905501224814",
+      "text": "I'm Marketing person. \nCurious about buat video AI yang orang suka(I build app too for marketing tools) \n\nIni keduanya d",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DeBra-NmngM",
+      "timestamp": "2026-10-03T08:55:11+0000",
+      "metrics": {
+        "views": 10,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
     {
       "id": "17871033132649245",
       "text": "Home sitteran di rumah seharga RP 20 Milyar an(AUD 1.7M) ini selama lebih 2 minggu nemenin Kenny and Shelby.l 🐕.\nRumah ",
       "permalink": "https://www.threads.com/@iams_ichi/post/DeBauI1Eu7a",
       "timestamp": "2026-10-03T06:41:07+0000",
       "metrics": {
-        "views": 31,
+        "views": 41,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -179,7 +224,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dd_OH3em_Bc",
       "timestamp": "2026-10-02T10:01:14+0000",
       "metrics": {
-        "views": 348,
+        "views": 351,
         "likes": 6,
         "replies": 1,
         "reposts": 0,
@@ -202,51 +247,6 @@
         "shares": 0
       },
       "engagement": 2
-    },
-    {
-      "id": "18196179643383689",
-      "text": "I want share sebagai orang marketing, jadi sudah berapa banyak yang telepon langsung dan nanya tentang Insurance Farm St",
-      "permalink": "https://www.threads.com/@iams_ichi/post/Dd_KO9nlrsb",
-      "timestamp": "2026-10-02T09:26:42+0000",
-      "metrics": {
-        "views": 21,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18112374326274019",
-      "text": "Gimana rasa home sitteran di Arrawara Headland  di rumah seharga AUD $1,7 juta ? \n\nSekarang sudah pindah home sitteran k",
-      "permalink": "https://www.threads.com/@iams_ichi/post/Dd_JmUulhIW",
-      "timestamp": "2026-10-02T09:21:09+0000",
-      "metrics": {
-        "views": 35,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "17975733201133379",
-      "text": "Nobody told me Place des Vosges at 7am is basically therapy.\nJust you, the arcades, the empty benches, and that quiet th",
-      "permalink": "https://www.threads.com/@iams_ichi/post/Dd_AY0LllRq",
-      "timestamp": "2026-10-02T08:01:12+0000",
-      "metrics": {
-        "views": 23,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
     }
   ]
 }
