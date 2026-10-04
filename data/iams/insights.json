@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-10-03T21:27:18.662Z",
+  "updated_at": "2026-10-04T00:45:25.358Z",
   "profile": {
     "username": "iams_ichi",
     "name": "I.petch",
     "biography": "🇦🇺\nCMO at COA.AU &\nNo-Code App Builder\nOnly Positive Vibes\nIt’s about the vibe and the feeling. \nThe names of the places? 🤔\ncmo@coa.au",
-    "picture": "https://scontent-atl3-2.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=8VxsoApshc8Q7kNvwFETtVl&_nc_oc=Adpd4kzH9EcyFD6D_GyFKEc2fQpPkLEGPTbwDsmblvnfY1OcedZHlF1iJLO5lbYcJaQ&_nc_zt=24&_nc_ht=scontent-atl3-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=urjAgoGgXkDYp6ZU4qCZVA&_nc_tpa=Q5bMBQLKMXMnII6a6sSnmUYPDCbb9YOwtttVbrHT5R8HdPkx54wRtbNWblChDk5G4RjKdkIfN-yKR3HBJw&oh=00_AQPOP8dVxTmK0FKPyhtKlX3WgdK0fTBlebImc6q_9ldEtg&oe=6AC74A9E"
+    "picture": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=8VxsoApshc8Q7kNvwGs-yDn&_nc_oc=AdpLJN_Kzk76u5K09BAh2tsQTtvmzEKdF6Pka3uWl7zBqAndyZRMXQa7EEjkwNKXLZo&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=LmglVcKwRjNDAXNqijN5ww&_nc_tpa=Q5bMBQL_1ya3-p7_1s-WiK9RXtO4xjrmweeGk-oEnRVTvtK0IujPoo3gmYksPg2LRbgRwuur7ga4IzStsA&oh=00_AQNF63FmOZyw12NAsGPa-8quwzoLQ2q0TPbHR9u_-Ia59g&oe=6AC782DE"
   },
   "summary": {
     "followers_count": 1373,
-    "views": 1487,
+    "views": 1609,
     "likes": 2,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 150,
-    "engagement_rate": 10.09,
+    "engagement_total": 133,
+    "engagement_rate": 8.27,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -42,7 +42,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dd-ypyyFahO",
       "timestamp": "2026-10-02T06:01:11+0000",
       "metrics": {
-        "views": 1248,
+        "views": 1251,
         "likes": 14,
         "replies": 17,
         "reposts": 0,
@@ -57,7 +57,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dd8bmJyG1b9",
       "timestamp": "2026-10-01T08:01:14+0000",
       "metrics": {
-        "views": 809,
+        "views": 814,
         "likes": 16,
         "replies": 15,
         "reposts": 0,
@@ -67,27 +67,12 @@
       "engagement": 31
     },
     {
-      "id": "17974943309935311",
-      "text": "I used to think Gold Coast was just a party beach — loud, touristy, not really for people like me.\nTurns out if you get ",
-      "permalink": "https://www.threads.com/@iams_ichi/post/Dd7yZNFmgvW",
-      "timestamp": "2026-10-01T02:01:13+0000",
-      "metrics": {
-        "views": 615,
-        "likes": 10,
-        "replies": 8,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 18
-    },
-    {
       "id": "18104658944354706",
       "text": "They say Osaka is overwhelming — too loud, too crowded, too much for an introvert to actually enjoy.\nTurns out the chaos",
       "permalink": "https://www.threads.com/@iams_ichi/post/Dd_OH3em_Bc",
       "timestamp": "2026-10-02T10:01:14+0000",
       "metrics": {
-        "views": 352,
+        "views": 353,
         "likes": 6,
         "replies": 1,
         "reposts": 0,
@@ -95,16 +80,46 @@
         "shares": 0
       },
       "engagement": 7
-    }
-  ],
-  "recent_posts": [
+    },
     {
       "id": "17998940196001928",
       "text": "I Found Australia's Most Underrated Coastal Gem — And Almost Kept It a Secret(Locals know)\n\n1/ There's a place in NSW wh",
       "permalink": "https://www.threads.com/@iams_ichi/post/DeBwMg-m5Zi",
       "timestamp": "2026-10-03T09:36:54+0000",
       "metrics": {
-        "views": 892,
+        "views": 961,
+        "likes": 0,
+        "replies": 6,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 2
+      },
+      "engagement": 6
+    }
+  ],
+  "recent_posts": [
+    {
+      "id": "18113970506023570",
+      "text": "\"Ketidaktahuan menyebabkan rasa takut, ketakutan menyebabkan kebencian, dan kebencian mengarah pada kekerasan.” - Ibnu S",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DeDQzpHgEBW",
+      "timestamp": "2026-10-03T23:41:06+0000",
+      "metrics": {
+        "views": 5,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
+      "id": "17998940196001928",
+      "text": "I Found Australia's Most Underrated Coastal Gem — And Almost Kept It a Secret(Locals know)\n\n1/ There's a place in NSW wh",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DeBwMg-m5Zi",
+      "timestamp": "2026-10-03T09:36:54+0000",
+      "metrics": {
+        "views": 961,
         "likes": 0,
         "replies": 6,
         "reposts": 0,
@@ -149,7 +164,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DeBauI1Eu7a",
       "timestamp": "2026-10-03T06:41:07+0000",
       "metrics": {
-        "views": 41,
+        "views": 42,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -224,7 +239,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dd_OH3em_Bc",
       "timestamp": "2026-10-02T10:01:14+0000",
       "metrics": {
-        "views": 352,
+        "views": 353,
         "likes": 6,
         "replies": 1,
         "reposts": 0,
@@ -232,21 +247,6 @@
         "shares": 0
       },
       "engagement": 7
-    },
-    {
-      "id": "18242057104315516",
-      "text": "Being a pet sitter is genuinely the ideal introvert job — free accommodation, zero small talk, and dogs to wake you up a",
-      "permalink": "https://www.threads.com/@iams_ichi/post/Dd_L8FWlqlL",
-      "timestamp": "2026-10-02T09:41:36+0000",
-      "metrics": {
-        "views": 31,
-        "likes": 1,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 2
     }
   ]
 }
