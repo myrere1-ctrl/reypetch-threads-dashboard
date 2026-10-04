@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-10-04T00:45:25.358Z",
+  "updated_at": "2026-10-04T07:01:09.385Z",
   "profile": {
     "username": "iams_ichi",
     "name": "I.petch",
     "biography": "🇦🇺\nCMO at COA.AU &\nNo-Code App Builder\nOnly Positive Vibes\nIt’s about the vibe and the feeling. \nThe names of the places? 🤔\ncmo@coa.au",
-    "picture": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=8VxsoApshc8Q7kNvwGs-yDn&_nc_oc=AdpLJN_Kzk76u5K09BAh2tsQTtvmzEKdF6Pka3uWl7zBqAndyZRMXQa7EEjkwNKXLZo&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=LmglVcKwRjNDAXNqijN5ww&_nc_tpa=Q5bMBQL_1ya3-p7_1s-WiK9RXtO4xjrmweeGk-oEnRVTvtK0IujPoo3gmYksPg2LRbgRwuur7ga4IzStsA&oh=00_AQNF63FmOZyw12NAsGPa-8quwzoLQ2q0TPbHR9u_-Ia59g&oe=6AC782DE"
+    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzIifQ%3D%3D&_nc_ohc=8VxsoApshc8Q7kNvwFvsCaD&_nc_oc=AdoNP1rSdMvk--h2x4KU8fjGMmG8NJS4jCJMAsMvFVyczBxdn7kwGQu_j0xhJK6nQEw&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=qaRzA_Xs19oABhd-NoS_ow&_nc_tpa=Q5bMBQK_wL9sYR1-9c2Yrmr2Fg6B028CrDBh7X_vxpmFVIXxd_teGzi4BBM5xF4d8ppAAD-pdqHXFot5hQ&oh=00_AQO6TLPRbUqvAC5cGFmO-D5pk7Wt5jW0Oi-nJK5cOHmhLA&oe=6AC7BB1E"
   },
   "summary": {
     "followers_count": 1373,
-    "views": 1609,
-    "likes": 2,
+    "views": 0,
+    "likes": 0,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 133,
-    "engagement_rate": 8.27,
+    "engagement_total": 103,
+    "engagement_rate": 0,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -42,24 +42,9 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dd-ypyyFahO",
       "timestamp": "2026-10-02T06:01:11+0000",
       "metrics": {
-        "views": 1251,
+        "views": 1253,
         "likes": 14,
         "replies": 17,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 31
-    },
-    {
-      "id": "17992458356846459",
-      "text": "On an Australian road trip, nobody honks. Like, genuinely nobody.\nCut someone off by accident — they just… wave it off a",
-      "permalink": "https://www.threads.com/@iams_ichi/post/Dd8bmJyG1b9",
-      "timestamp": "2026-10-01T08:01:14+0000",
-      "metrics": {
-        "views": 814,
-        "likes": 16,
-        "replies": 15,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
@@ -87,7 +72,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DeBwMg-m5Zi",
       "timestamp": "2026-10-03T09:36:54+0000",
       "metrics": {
-        "views": 961,
+        "views": 1018,
         "likes": 0,
         "replies": 6,
         "reposts": 0,
@@ -95,16 +80,91 @@
         "shares": 2
       },
       "engagement": 6
+    },
+    {
+      "id": "17929716033409728",
+      "text": "Introvert itu..kelihatan kalem dan diam padahal pikirannya sibuk, cuma dirinya dan Tuhan yang tahu 🤔.",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DeDnrlCGj_s",
+      "timestamp": "2026-10-04T03:00:59+0000",
+      "metrics": {
+        "views": 141,
+        "likes": 1,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 2
     }
   ],
   "recent_posts": [
+    {
+      "id": "18115831832045861",
+      "text": "NSW daylight saving started today — and just like that, Sydney is an hour ahead of Brisbane again.\n\nEvery first Sunday o",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DeECtuRmqJp",
+      "timestamp": "2026-10-04T06:57:12+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "18657392581016259",
+      "text": "AI relationships are real — and apparently more common than anyone wants to admit out loud 😅\n\nNot about loneliness. Mor",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DeD_gypmp9u",
+      "timestamp": "2026-10-04T06:29:13+0000",
+      "metrics": {
+        "views": 1,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
+      "id": "17929716033409728",
+      "text": "Introvert itu..kelihatan kalem dan diam padahal pikirannya sibuk, cuma dirinya dan Tuhan yang tahu 🤔.",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DeDnrlCGj_s",
+      "timestamp": "2026-10-04T03:00:59+0000",
+      "metrics": {
+        "views": 141,
+        "likes": 1,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 2
+    },
+    {
+      "id": "17948199927329918",
+      "text": "Why Arrawarra Headland Is Perfect for Caravanners\n\n12 kilometres north of Coffs Harbour Arrawarra Headland sits at a swe",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DeDndtiGmL8",
+      "timestamp": "2026-10-04T02:59:05+0000",
+      "metrics": {
+        "views": 8,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
     {
       "id": "18113970506023570",
       "text": "\"Ketidaktahuan menyebabkan rasa takut, ketakutan menyebabkan kebencian, dan kebencian mengarah pada kekerasan.” - Ibnu S",
       "permalink": "https://www.threads.com/@iams_ichi/post/DeDQzpHgEBW",
       "timestamp": "2026-10-03T23:41:06+0000",
       "metrics": {
-        "views": 5,
+        "views": 9,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -119,7 +179,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DeBwMg-m5Zi",
       "timestamp": "2026-10-03T09:36:54+0000",
       "metrics": {
-        "views": 961,
+        "views": 1018,
         "likes": 0,
         "replies": 6,
         "reposts": 0,
@@ -134,7 +194,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DeBvN1GG6PL",
       "timestamp": "2026-10-03T09:28:20+0000",
       "metrics": {
-        "views": 43,
+        "views": 45,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -149,7 +209,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DeBra-NmngM",
       "timestamp": "2026-10-03T08:55:11+0000",
       "metrics": {
-        "views": 10,
+        "views": 12,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -164,7 +224,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DeBauI1Eu7a",
       "timestamp": "2026-10-03T06:41:07+0000",
       "metrics": {
-        "views": 42,
+        "views": 43,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -187,66 +247,6 @@
         "shares": 0
       },
       "engagement": 1
-    },
-    {
-      "id": "18103757411010018",
-      "text": "Red Rock's back beach (Little Beach behind Reflections Red Rock Caravan Park) is quieter than it has any right to be.\n\nW",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DeAgw9EGh0_",
-      "timestamp": "2026-10-02T22:02:49+0000",
-      "metrics": {
-        "views": 10,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "18633543274040604",
-      "text": "Unpopular opinion: Barcelona is actually better for introverts than extroverts.\nThe loud squares and busy Ramblas are fo",
-      "permalink": "https://www.threads.com/@iams_ichi/post/Dd_pl76m7MQ",
-      "timestamp": "2026-10-02T14:01:15+0000",
-      "metrics": {
-        "views": 84,
-        "likes": 1,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "18018808244931755",
-      "text": "Used to land in a new country and spend the first 20 minutes hunting for the right adaptor like a panicked raccoon.\nTurn",
-      "permalink": "https://www.threads.com/@iams_ichi/post/Dd_b24UFCpe",
-      "timestamp": "2026-10-02T12:01:15+0000",
-      "metrics": {
-        "views": 22,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "18104658944354706",
-      "text": "They say Osaka is overwhelming — too loud, too crowded, too much for an introvert to actually enjoy.\nTurns out the chaos",
-      "permalink": "https://www.threads.com/@iams_ichi/post/Dd_OH3em_Bc",
-      "timestamp": "2026-10-02T10:01:14+0000",
-      "metrics": {
-        "views": 353,
-        "likes": 6,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 7
     }
   ]
 }
