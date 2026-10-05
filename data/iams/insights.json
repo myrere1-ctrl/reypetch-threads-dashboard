@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-10-04T21:37:53.018Z",
+  "updated_at": "2026-10-05T01:02:17.859Z",
   "profile": {
     "username": "iams_ichi",
     "name": "I.petch",
     "biography": "🇦🇺\nCMO at COA.AU &\nNo-Code App Builder\nOnly Positive Vibes\nIt’s about the vibe and the feeling. \nThe names of the places? 🤔\ncmo@coa.au",
-    "picture": "https://scontent-lga3-3.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=LNFuiKWwAwkQ7kNvwHZGRWw&_nc_oc=Adpnt8_gRYYP8v90VUsoCiIguhIqVnggai7fjTQkwNq1L-fBkxJnDHn9tmpJECUsXzI&_nc_zt=24&_nc_ht=scontent-lga3-3.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=F2gL9RkfQIakooh2V3Y0aA&_nc_tpa=Q5bMBQLK-t2NdY8w91bQxdll5apSKuvF5jgo4RebtoVfW9U_G8E8Y8jfJIQPrfJbn8AlQ--GerPx1eSiqQ&oh=00_AQN8jQnWT_wamQw_Ur6AZHCNQZ6mf0iNPamS4K9d_xCSHA&oe=6AC89C1E"
+    "picture": "https://scontent-atl3-2.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=LNFuiKWwAwkQ7kNvwGOnNkk&_nc_oc=AdrFY0GRV4zOEYdZ9ydg8I4JRIc1XveZP3Jd3U2yC3o7jHqRy__NttGusy9OogRLD8A&_nc_zt=24&_nc_ht=scontent-atl3-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=r6zl1OzlY2S9sFOZPWBLXA&_nc_tpa=Q5bMBQJi19seRBOsWigH2KuwJFLc2HQRqvSYY1KRQ0SxYZrSVeia8IolH6c04q2pTqV0atAGTx0ZB0TXYw&oh=00_AQOzh-iAi5DIvQ47iC7WZmwqPWoKLJLJaLzdL2MdBsxK-g&oe=6AC8D45E"
   },
   "summary": {
     "followers_count": 1372,
-    "views": 965,
+    "views": 1055,
     "likes": 7,
     "replies": 2,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 118,
-    "engagement_rate": 12.23,
+    "engagement_rate": 11.18,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -27,7 +27,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dd-GA2fDTrA",
       "timestamp": "2026-10-01T23:31:07+0000",
       "metrics": {
-        "views": 1516,
+        "views": 1518,
         "likes": 32,
         "replies": 11,
         "reposts": 0,
@@ -42,7 +42,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dd-ypyyFahO",
       "timestamp": "2026-10-02T06:01:11+0000",
       "metrics": {
-        "views": 1256,
+        "views": 1258,
         "likes": 14,
         "replies": 18,
         "reposts": 0,
@@ -57,7 +57,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DeEOGZGGkGZ",
       "timestamp": "2026-10-04T08:36:41+0000",
       "metrics": {
-        "views": 325,
+        "views": 331,
         "likes": 2,
         "replies": 8,
         "reposts": 0,
@@ -72,7 +72,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dd_OH3em_Bc",
       "timestamp": "2026-10-02T10:01:14+0000",
       "metrics": {
-        "views": 353,
+        "views": 354,
         "likes": 6,
         "replies": 1,
         "reposts": 0,
@@ -87,7 +87,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DeBwMg-m5Zi",
       "timestamp": "2026-10-03T09:36:54+0000",
       "metrics": {
-        "views": 1032,
+        "views": 1033,
         "likes": 0,
         "replies": 6,
         "reposts": 0,
@@ -99,12 +99,27 @@
   ],
   "recent_posts": [
     {
+      "id": "17993363481021284",
+      "text": "Kyoto had me eating kaiseki in a quiet tatami room for dinner — seven courses, zero rushing.\nThen the next morning, yudo",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DeF0ZTclO47",
+      "timestamp": "2026-10-04T23:31:05+0000",
+      "metrics": {
+        "views": 26,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "18061524428625913",
       "text": "Australia & Japan (2 Negara I ❤️ So Much)\nHere's why they're the TWO most satisfying countries on Earth — and why most t",
       "permalink": "https://www.threads.com/@iams_ichi/post/DeEOGZGGkGZ",
       "timestamp": "2026-10-04T08:36:41+0000",
       "metrics": {
-        "views": 325,
+        "views": 331,
         "likes": 2,
         "replies": 8,
         "reposts": 0,
@@ -119,7 +134,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DeEER0aGiM-",
       "timestamp": "2026-10-04T07:10:52+0000",
       "metrics": {
-        "views": 103,
+        "views": 104,
         "likes": 2,
         "replies": 0,
         "reposts": 0,
@@ -134,7 +149,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DeECtuRmqJp",
       "timestamp": "2026-10-04T06:57:12+0000",
       "metrics": {
-        "views": 293,
+        "views": 309,
         "likes": 2,
         "replies": 0,
         "reposts": 0,
@@ -149,7 +164,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DeD_gypmp9u",
       "timestamp": "2026-10-04T06:29:13+0000",
       "metrics": {
-        "views": 7,
+        "views": 8,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -164,7 +179,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DeDnrlCGj_s",
       "timestamp": "2026-10-04T03:00:59+0000",
       "metrics": {
-        "views": 157,
+        "views": 158,
         "likes": 1,
         "replies": 2,
         "reposts": 0,
@@ -179,7 +194,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DeDndtiGmL8",
       "timestamp": "2026-10-04T02:59:05+0000",
       "metrics": {
-        "views": 8,
+        "views": 9,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -194,7 +209,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DeDQzpHgEBW",
       "timestamp": "2026-10-03T23:41:06+0000",
       "metrics": {
-        "views": 9,
+        "views": 10,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -209,7 +224,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DeBwMg-m5Zi",
       "timestamp": "2026-10-03T09:36:54+0000",
       "metrics": {
-        "views": 1032,
+        "views": 1033,
         "likes": 0,
         "replies": 6,
         "reposts": 0,
@@ -224,7 +239,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DeBvN1GG6PL",
       "timestamp": "2026-10-03T09:28:20+0000",
       "metrics": {
-        "views": 46,
+        "views": 47,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -232,21 +247,6 @@
         "shares": 0
       },
       "engagement": 1
-    },
-    {
-      "id": "17959905501224814",
-      "text": "I'm Marketing person. \nCurious about buat video AI yang orang suka(I build app too for marketing tools) \n\nIni keduanya d",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DeBra-NmngM",
-      "timestamp": "2026-10-03T08:55:11+0000",
-      "metrics": {
-        "views": 17,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
     }
   ]
 }
