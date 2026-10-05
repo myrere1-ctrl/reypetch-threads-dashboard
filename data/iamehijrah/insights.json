@@ -1,21 +1,21 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-10-05T01:03:10.442Z",
+  "updated_at": "2026-10-05T07:11:55.719Z",
   "profile": {
     "username": "_iame.hijrah",
     "biography": "Hijrah Journey \nInbox ➡️Akses Safar AI",
-    "picture": "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=PDhMJ94osMYQ7kNvwGO1NK-&_nc_oc=AdrkDnffU4Jgyy8DuuuEK3XbCJCQ0A0G5w0aOKZ_hU6KjNuHnd94BNZKchTEytkXVqw&_nc_zt=24&_nc_ht=scontent-ord5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=-1BR77ifMyf6JkzAemUbNA&_nc_tpa=Q5bMBQKxOKWmro-U7-9QPeDOZhK-3E2_wqqKISgfpqH-lvQYGGRAtzuAr7OwHa5xNtddLdhKjBdq0Ec3cA&oh=00_AQOLaAbwIEj_rEEMJ04k7r_bqOP8pQJEGN497HbV4HPbWg&oe=6AC8C5D3"
+    "picture": "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=PDhMJ94osMYQ7kNvwF83h8_&_nc_oc=AdoCs77KRcWhGGRjYAK0HutZx93O8PWqkPPmLQnO3YaA3ejTM6u4qNhpRsTYBxlDZIo&_nc_zt=24&_nc_ht=scontent-ord5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=6Om93MgRUDSZGMTw2Egdjg&_nc_tpa=Q5bMBQJg4SNpJi4f7azxjLdL0PtfUKs_sdvfY4q00tYg5W2MwWwVUcy3HBeKEsmy1b_vPS1YrV_ixpAOHA&oh=00_AQORl6pFZITN49SU_0e4FQrk9IHB3lhhFIDjBwa9JHf0ww&oe=6AC93653"
   },
   "summary": {
     "followers_count": 9,
-    "views": 982,
-    "likes": 9,
+    "views": 0,
+    "likes": 0,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 49,
-    "engagement_rate": 4.99,
+    "engagement_rate": 0,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -98,12 +98,27 @@
   ],
   "recent_posts": [
     {
+      "id": "18116904764003042",
+      "text": "Pernah ga, sholat tapi pikiran kemana-mana — dan ternyata salah satunya karena gerah?\nAku baru nyadar, mukena yang adem ",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DeGdn9pm9L5",
+      "timestamp": "2026-10-05T05:31:22+0000",
+      "metrics": {
+        "views": 19,
+        "likes": 1,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 2
+    },
+    {
       "id": "18130790524783450",
       "text": "Dulu aku mikir takdir itu artinya pasrah aja — ga usah usaha keras, toh udah ditentuin.\nTernyata yang bikin tenang bukan",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DeF-vzBGMPN",
       "timestamp": "2026-10-05T01:01:33+0000",
       "metrics": {
-        "views": 0,
+        "views": 165,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -118,7 +133,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DeFqIqlgcY9",
       "timestamp": "2026-10-04T22:01:28+0000",
       "metrics": {
-        "views": 94,
+        "views": 101,
         "likes": 4,
         "replies": 0,
         "reposts": 0,
@@ -178,7 +193,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DeEefx2iiil",
       "timestamp": "2026-10-04T10:59:58+0000",
       "metrics": {
-        "views": 147,
+        "views": 148,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -231,21 +246,6 @@
         "shares": 0
       },
       "engagement": 0
-    },
-    {
-      "id": "18128954072506130",
-      "text": "Waktu antara Ashar sampai Maghrib tuh selalu punya nuansa tersendiri buat aku.\nEntah kenapa, langit sore bikin hati lebi",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DeEFWVtFcQp",
-      "timestamp": "2026-10-04T07:20:13+0000",
-      "metrics": {
-        "views": 72,
-        "likes": 1,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
     }
   ]
 }
