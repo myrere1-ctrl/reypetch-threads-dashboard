@@ -1,22 +1,22 @@
 {
   "account": "rrpetch",
-  "updated_at": "2026-10-05T01:02:36.699Z",
+  "updated_at": "2026-10-05T07:11:31.938Z",
   "profile": {
     "username": "rrpetch",
     "name": "rrp",
     "biography": "🇦🇺\nEveryone sees things differently—\nit's not a matter of right or wrong. \nSocial media a free forum 😉",
-    "picture": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/787903758_18124679617780392_3585522233816659706_n.jpg?_nc_cat=105&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=wKGL0sU6EvgQ7kNvwGBmeuE&_nc_oc=Adq4Bgpguy9bAJhAGK_Sg518XhP5jrs-VxwirKEt84XxFioy-YzRSVLrOZP41ys5iSk&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=4Yr9RtgNntgYKeXAHUJhCw&_nc_tpa=Q5bMBQLAg6h902gr0hvxH_LfM_84TyyGNhPrAZdInGfnFQ7WhiYK0OoQbKd4r9qh0AsfqV5FuCku0eWWwA&oh=00_AQPsbb5GzLLgo2tHbfZ8uosKYyfEpk20PAMgO2IPNVsFRg&oe=6AC8D6ED"
+    "picture": "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-19/787903758_18124679617780392_3585522233816659706_n.jpg?_nc_cat=105&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=wKGL0sU6EvgQ7kNvwFUKYNT&_nc_oc=Adqz4lLIVbk1612vKWNHiLmCwEQ59xrPo4ImRdlLC2m7b5uNiHqjKkbF2j5Z3beHx-I&_nc_zt=24&_nc_ht=scontent-lga3-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=JnBbWnSBaQaqmBKoCr50hg&_nc_tpa=Q5bMBQKUvehW0yZx5Mb8ngFx0gSEXRcfAhF3XqzlCNSNZkKfUt-58t9DNqXmlAvCL9-99H_uPgULweoeaA&oh=00_AQOuTblPPrXMTdwh9ugIWFKy-MmUofnhg1hzu0aVlom73Q&oe=6AC90F2D"
   },
   "summary": {
     "followers_count": 1,
-    "views": 3,
+    "views": 0,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 225,
-    "engagement_rate": 7500,
+    "engagement_rate": 0,
     "curiosity_score": null,
     "post_count": 12
   },
@@ -27,7 +27,7 @@
       "permalink": "https://www.threads.com/@rrpetch/post/DdiSWIXk8I4",
       "timestamp": "2026-09-21T04:19:37+0000",
       "metrics": {
-        "views": 22968,
+        "views": 22969,
         "likes": 25,
         "replies": 193,
         "reposts": 1,
