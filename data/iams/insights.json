@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-10-06T03:07:10.639Z",
+  "updated_at": "2026-10-06T10:31:26.651Z",
   "profile": {
     "username": "iams_ichi",
     "name": "I.petch",
     "biography": "🇦🇺\nCMO at COA.AU &\nNo-Code App Builder\nOnly Positive Vibes\nIt’s about the vibe and the feeling. \nThe names of the places? 🤔\ncmo@coa.au",
-    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=LNFuiKWwAwkQ7kNvwFyipOc&_nc_oc=AdqXOnIqKBLxF12xJJxlO0n0dSbzJm0YPDhQV_bo7Pm0Mz3g7tORDrWpp3myJ6KUkWU&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=YjwCW1M2HvxiyjwJkEcdRA&_nc_tpa=Q5bMBQJTnz6lRVpBGHkJlEL0Drn3f5vwGSOMXNPQ1C6p8Qi2wJ6aXDuLwXKjJ0ynuKsMgZD-piebiibapQ&oh=00_AQNRUwmpBC5KWgfG88snJ4Uop2y6mpTsZWSbLX5Uj6o9Sg&oe=6ACA25DE"
+    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=LNFuiKWwAwkQ7kNvwH-ecAA&_nc_oc=AdrpcZe3_tDvW0FUU5CMD113Vg7OxeeJ4tApEqm8w3hPZVT1nH6SqCbOrhzp470duRk&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=OTH7JR_WuiTwk5kPQoYqrA&_nc_tpa=Q5bMBQI583cf3-gCJ015mLzTy4pS6yuvamTZ90g4VIOeZCQBeGcv7-aCWOlH9L8ELCKarmzGXPcYP04vaA&oh=00_AQO8Y_dDUhrvCiSU0GSM0UUIb4QREi0c5Iq59z2_LwhRzQ&oe=6ACA965E"
   },
   "summary": {
-    "followers_count": 1376,
-    "views": 7204,
-    "likes": 249,
-    "replies": 82,
-    "reposts": 4,
-    "quotes": 1,
+    "followers_count": 1378,
+    "views": 4134,
+    "likes": 121,
+    "replies": 39,
+    "reposts": 3,
+    "quotes": 0,
     "profile_views": null,
-    "engagement_total": 389,
-    "engagement_rate": 5.4,
+    "engagement_total": 739,
+    "engagement_rate": 17.88,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -27,14 +27,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DeIZL7xmcxQ",
       "timestamp": "2026-10-05T23:31:05+0000",
       "metrics": {
-        "views": 4327,
-        "likes": 182,
-        "replies": 76,
-        "reposts": 1,
-        "quotes": 1,
+        "views": 12684,
+        "likes": 433,
+        "replies": 164,
+        "reposts": 5,
+        "quotes": 2,
         "shares": 0
       },
-      "engagement": 260
+      "engagement": 604
     },
     {
       "id": "18344976715262073",
@@ -42,14 +42,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DeGhDC-m75S",
       "timestamp": "2026-10-05T06:01:17+0000",
       "metrics": {
-        "views": 1641,
-        "likes": 80,
-        "replies": 4,
+        "views": 1802,
+        "likes": 86,
+        "replies": 5,
         "reposts": 3,
         "quotes": 0,
         "shares": 1
       },
-      "engagement": 87
+      "engagement": 94
     },
     {
       "id": "18061524428625913",
@@ -57,7 +57,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DeEOGZGGkGZ",
       "timestamp": "2026-10-04T08:36:41+0000",
       "metrics": {
-        "views": 352,
+        "views": 354,
         "likes": 2,
         "replies": 8,
         "reposts": 0,
@@ -72,7 +72,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DeBwMg-m5Zi",
       "timestamp": "2026-10-03T09:36:54+0000",
       "metrics": {
-        "views": 1037,
+        "views": 1038,
         "likes": 0,
         "replies": 6,
         "reposts": 0,
@@ -87,7 +87,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DeHX_HllnD4",
       "timestamp": "2026-10-05T14:01:20+0000",
       "metrics": {
-        "views": 214,
+        "views": 222,
         "likes": 2,
         "replies": 2,
         "reposts": 0,
@@ -99,12 +99,87 @@
   ],
   "recent_posts": [
     {
+      "id": "17941726869097748",
+      "text": "Tasmania is the first place that made me feel like the world actually slowed down for introverts.\nNo crowds forcing smal",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DeJhT4-mxK7",
+      "timestamp": "2026-10-06T10:01:17+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 2,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 2
+    },
+    {
+      "id": "18167187238485749",
+      "text": "Hokkaido in late autumn hit different — misty mountains, almost no tourists, and a bowl of miso ramen that genuinely mad",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DeJTklDlnlq",
+      "timestamp": "2026-10-06T08:01:15+0000",
+      "metrics": {
+        "views": 56,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "17969159147960866",
+      "text": "I used to think El Born was just another pretty neighborhood to pass through.\nTurns out it's the kind of place that quie",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DeJF1-4m5NW",
+      "timestamp": "2026-10-06T06:01:17+0000",
+      "metrics": {
+        "views": 33,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "18418183834153105",
+      "text": "Let's make Ice coffee 😋",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DeI49K2gGRi",
+      "timestamp": "2026-10-06T04:08:08+0000",
+      "metrics": {
+        "views": 12,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "17912147607552095",
+      "text": "Dragged a cheap hard-shell across six countries once — cracked handle by week two, wheel gone by week four.\nSwitched to ",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DeI4G2NFByw",
+      "timestamp": "2026-10-06T04:01:16+0000",
+      "metrics": {
+        "views": 20,
+        "likes": 1,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 2
+    },
+    {
       "id": "18104100050369692",
       "text": "They say sakura season is magical no matter when you show up — turns out timing within the season changes everything.\nA ",
       "permalink": "https://www.threads.com/@iams_ichi/post/DeIqXsSkaTi",
       "timestamp": "2026-10-06T02:01:15+0000",
       "metrics": {
-        "views": 83,
+        "views": 106,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -119,14 +194,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DeIZL7xmcxQ",
       "timestamp": "2026-10-05T23:31:05+0000",
       "metrics": {
-        "views": 4327,
-        "likes": 182,
-        "replies": 76,
-        "reposts": 1,
-        "quotes": 1,
+        "views": 12684,
+        "likes": 433,
+        "replies": 164,
+        "reposts": 5,
+        "quotes": 2,
         "shares": 0
       },
-      "engagement": 260
+      "engagement": 604
     },
     {
       "id": "18025274648704767",
@@ -134,7 +209,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DeHX_HllnD4",
       "timestamp": "2026-10-05T14:01:20+0000",
       "metrics": {
-        "views": 214,
+        "views": 222,
         "likes": 2,
         "replies": 2,
         "reposts": 0,
@@ -149,7 +224,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DeHKQK-m3vv",
       "timestamp": "2026-10-05T12:01:19+0000",
       "metrics": {
-        "views": 27,
+        "views": 34,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -164,7 +239,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DeG8g5pG0MS",
       "timestamp": "2026-10-05T10:01:17+0000",
       "metrics": {
-        "views": 203,
+        "views": 209,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -172,81 +247,6 @@
         "shares": 0
       },
       "engagement": 1
-    },
-    {
-      "id": "18631575871028262",
-      "text": "I used to think solo Europe trips required having everything figured out before you land.\nTurns out half the magic happe",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DeGuxsnm1cE",
-      "timestamp": "2026-10-05T08:01:15+0000",
-      "metrics": {
-        "views": 274,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "18344976715262073",
-      "text": "Melbourne gave me something I didn't expect — a city that actually lets you disappear into it.\nLaneway after laneway, no",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DeGhDC-m75S",
-      "timestamp": "2026-10-05T06:01:17+0000",
-      "metrics": {
-        "views": 1641,
-        "likes": 80,
-        "replies": 4,
-        "reposts": 3,
-        "quotes": 0,
-        "shares": 1
-      },
-      "engagement": 87
-    },
-    {
-      "id": "17992246071028406",
-      "text": "Lost my bag once at a connecting flight in Dubai — found out three hours later than I should have.\nNow I have an AirTag ",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DeGTTlODohw",
-      "timestamp": "2026-10-05T04:01:12+0000",
-      "metrics": {
-        "views": 41,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "18098568794453425",
-      "text": "Nobody tells you that Lyon hits different from Paris — quieter, less performative, and the food actually makes you stop ",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DeGFkr4gD8H",
-      "timestamp": "2026-10-05T02:01:13+0000",
-      "metrics": {
-        "views": 298,
-        "likes": 1,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 2
-    },
-    {
-      "id": "17993363481021284",
-      "text": "Kyoto had me eating kaiseki in a quiet tatami room for dinner — seven courses, zero rushing.\nThen the next morning, yudo",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DeF0ZTclO47",
-      "timestamp": "2026-10-04T23:31:05+0000",
-      "metrics": {
-        "views": 40,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
     }
   ]
 }
