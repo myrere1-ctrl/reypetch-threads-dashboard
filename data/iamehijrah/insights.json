@@ -1,21 +1,21 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-10-06T03:08:39.587Z",
+  "updated_at": "2026-10-06T10:32:13.145Z",
   "profile": {
     "username": "_iame.hijrah",
     "biography": "Hijrah Journey \nInbox ➡️Akses Safar AI",
-    "picture": "https://scontent-lga3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=PDhMJ94osMYQ7kNvwGEX7Zv&_nc_oc=AdpalnADB-QDNUTNPcs-nDIRa45BqAwh1Xa0wxFfK64vQFtnHIFautB6IyVThmFFgoA&_nc_zt=24&_nc_ht=scontent-lga3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=8rZ0iu5AjnKGnMxDksEUvQ&_nc_tpa=Q5bMBQKqqKWXtvZ1q4zisHLteALVhLH2vaUcT-RR4AOoUjbytLNuqn4kZ8vL8DEfketbfg5fWpKCahSA_g&oh=00_AQOlStG8L0JEjWL_7KF9SY50TCd2zEVPFkyw7jczlNwGaA&oe=6ACA4F93"
+    "picture": "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=PDhMJ94osMYQ7kNvwF_fX2x&_nc_oc=Adr3ozydjVojzvXIekVGOPpxIltKvSvoShhxUIaKXzV3coef9-f4oZeP30cMlck0S-U&_nc_zt=24&_nc_ht=scontent-ord5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=pe96LSEZ1P1ZEBGU_P_I7g&_nc_tpa=Q5bMBQJg3_hbXgUW3-g-qMjs43SMClK6-psLXvpa0JQIp_n1O0uWJZQzVF7wASUAAmA8IvBvT7FxkjfWhw&oh=00_AQOEvOfuRwN9UofB3Abwtp8V1__bnBp8iLRBMd9hlSm5-g&oe=6ACA87D3"
   },
   "summary": {
     "followers_count": 9,
-    "views": 750,
-    "likes": 21,
-    "replies": 1,
-    "reposts": 2,
+    "views": 10,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 51,
-    "engagement_rate": 6.8,
+    "engagement_rate": 510,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -41,7 +41,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DeIO_PWkUex",
       "timestamp": "2026-10-05T22:01:58+0000",
       "metrics": {
-        "views": 192,
+        "views": 197,
         "likes": 5,
         "replies": 1,
         "reposts": 1,
@@ -66,6 +66,21 @@
       "engagement": 6
     },
     {
+      "id": "17938600212383941",
+      "text": "Pernah ga, niat Umroh udah di mulut — tapi hati masih ga yakin siap?\nAku lagi di situ sekarang. Tiap habis Subuh, sebelu",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DeIjiCSlHk_",
+      "timestamp": "2026-10-06T01:01:28+0000",
+      "metrics": {
+        "views": 183,
+        "likes": 4,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 5
+    },
+    {
       "id": "17967491130400326",
       "text": "Nenek aku selalu bilang — kalau udah ga bisa ngapa-ngapain, diam dulu. Dzikir dulu. Biarkan Allah yang gerakin.\nDulu aku",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DeHlwB2kXl2",
@@ -79,38 +94,53 @@
         "shares": 0
       },
       "engagement": 5
-    },
+    }
+  ],
+  "recent_posts": [
     {
-      "id": "18496946167098456",
-      "text": "Lagi di titik yang rasanya kepala ga mau berhenti mikir, tapi hati malah makin kosong?\nAku pernah di situ. Dan yang pela",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dd_3Wx_m9cq",
-      "timestamp": "2026-10-02T16:01:32+0000",
+      "id": "18094809656406217",
+      "text": "Nenek aku selalu bilang, jangan tidur sebelum baca Ayat Kursi.\nDulu aku pikir itu kebiasaan orang tua aja — semacam ritu",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DeJXBo0m7Uh",
+      "timestamp": "2026-10-06T08:31:25+0000",
       "metrics": {
-        "views": 164,
-        "likes": 5,
+        "views": 7,
+        "likes": 0,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 5
-    }
-  ],
-  "recent_posts": [
+      "engagement": 0
+    },
+    {
+      "id": "17891695290682343",
+      "text": "Sajadah itu ternyata bisa bikin sholat beda banget rasanya.\nAku pake yang empuk dan ga gampang geser — dan entah kenapa ",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DeJCe9knCbb",
+      "timestamp": "2026-10-06T05:31:56+0000",
+      "metrics": {
+        "views": 9,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
     {
       "id": "17938600212383941",
       "text": "Pernah ga, niat Umroh udah di mulut — tapi hati masih ga yakin siap?\nAku lagi di situ sekarang. Tiap habis Subuh, sebelu",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DeIjiCSlHk_",
       "timestamp": "2026-10-06T01:01:28+0000",
       "metrics": {
-        "views": 153,
+        "views": 183,
         "likes": 4,
-        "replies": 0,
+        "replies": 1,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 4
+      "engagement": 5
     },
     {
       "id": "18097995281414770",
@@ -118,7 +148,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DeIO_PWkUex",
       "timestamp": "2026-10-05T22:01:58+0000",
       "metrics": {
-        "views": 192,
+        "views": 197,
         "likes": 5,
         "replies": 1,
         "reposts": 1,
@@ -216,36 +246,6 @@
         "shares": 0
       },
       "engagement": 2
-    },
-    {
-      "id": "18130790524783450",
-      "text": "Dulu aku mikir takdir itu artinya pasrah aja — ga usah usaha keras, toh udah ditentuin.\nTernyata yang bikin tenang bukan",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DeF-vzBGMPN",
-      "timestamp": "2026-10-05T01:01:33+0000",
-      "metrics": {
-        "views": 166,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18037414382894304",
-      "text": "Unpopular opinion: ikhlas itu bukan soal ga ngerasa apa-apa — tapi tetap jalan meski hati masih campur aduk.\nDulu aku ki",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DeFqIqlgcY9",
-      "timestamp": "2026-10-04T22:01:28+0000",
-      "metrics": {
-        "views": 101,
-        "likes": 4,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 4
     }
   ]
 }
