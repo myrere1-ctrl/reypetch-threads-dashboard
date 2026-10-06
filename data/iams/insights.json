@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-10-06T10:31:26.651Z",
+  "updated_at": "2026-10-06T17:16:59.800Z",
   "profile": {
     "username": "iams_ichi",
     "name": "I.petch",
     "biography": "🇦🇺\nCMO at COA.AU &\nNo-Code App Builder\nOnly Positive Vibes\nIt’s about the vibe and the feeling. \nThe names of the places? 🤔\ncmo@coa.au",
-    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=LNFuiKWwAwkQ7kNvwH-ecAA&_nc_oc=AdrpcZe3_tDvW0FUU5CMD113Vg7OxeeJ4tApEqm8w3hPZVT1nH6SqCbOrhzp470duRk&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=OTH7JR_WuiTwk5kPQoYqrA&_nc_tpa=Q5bMBQI583cf3-gCJ015mLzTy4pS6yuvamTZ90g4VIOeZCQBeGcv7-aCWOlH9L8ELCKarmzGXPcYP04vaA&oh=00_AQO8Y_dDUhrvCiSU0GSM0UUIb4QREi0c5Iq59z2_LwhRzQ&oe=6ACA965E"
+    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=LNFuiKWwAwkQ7kNvwGxvhOW&_nc_oc=AdoERbQLFeEeQY5Ak0b49BCzo5g6mHZR7vHTY0gsazUxiWCe07V5o-jTRyH3om8Kh8Y&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=qSkgaRRIA5pOKG-WOcSPRQ&_nc_tpa=Q5bMBQIoKln3ZacTBDiuPMhAw67Gbfot57fJ74KFe4Vg8GxJ2vnayWqLsiOCHehTy4MNKyd9nPbrAiyTBQ&oh=00_AQPLKAJPBQOJyX-MfXyXjDim69NMg8fkdLV7us2ZVoaOVQ&oe=6ACB06DE"
   },
   "summary": {
-    "followers_count": 1378,
-    "views": 4134,
-    "likes": 121,
-    "replies": 39,
-    "reposts": 3,
+    "followers_count": 1379,
+    "views": 8961,
+    "likes": 259,
+    "replies": 78,
+    "reposts": 4,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 739,
-    "engagement_rate": 17.88,
+    "engagement_total": 914,
+    "engagement_rate": 10.2,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -27,14 +27,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DeIZL7xmcxQ",
       "timestamp": "2026-10-05T23:31:05+0000",
       "metrics": {
-        "views": 12684,
-        "likes": 433,
-        "replies": 164,
-        "reposts": 5,
+        "views": 17021,
+        "likes": 567,
+        "replies": 202,
+        "reposts": 7,
         "quotes": 2,
-        "shares": 0
+        "shares": 3
       },
-      "engagement": 604
+      "engagement": 778
     },
     {
       "id": "18344976715262073",
@@ -42,7 +42,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DeGhDC-m75S",
       "timestamp": "2026-10-05T06:01:17+0000",
       "metrics": {
-        "views": 1802,
+        "views": 1808,
         "likes": 86,
         "replies": 5,
         "reposts": 3,
@@ -57,7 +57,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DeEOGZGGkGZ",
       "timestamp": "2026-10-04T08:36:41+0000",
       "metrics": {
-        "views": 354,
+        "views": 357,
         "likes": 2,
         "replies": 8,
         "reposts": 0,
@@ -72,7 +72,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DeBwMg-m5Zi",
       "timestamp": "2026-10-03T09:36:54+0000",
       "metrics": {
-        "views": 1038,
+        "views": 1040,
         "likes": 0,
         "replies": 6,
         "reposts": 0,
@@ -87,7 +87,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DeHX_HllnD4",
       "timestamp": "2026-10-05T14:01:20+0000",
       "metrics": {
-        "views": 222,
+        "views": 231,
         "likes": 2,
         "replies": 2,
         "reposts": 0,
@@ -99,19 +99,49 @@
   ],
   "recent_posts": [
     {
-      "id": "17941726869097748",
-      "text": "Tasmania is the first place that made me feel like the world actually slowed down for introverts.\nNo crowds forcing smal",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DeJhT4-mxK7",
-      "timestamp": "2026-10-06T10:01:17+0000",
+      "id": "18012943157988994",
+      "text": "Tokyo locals will queue for 45 minutes for a vending machine drink they could get anywhere else — and nobody questions i",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DeJ8x10IHMN",
+      "timestamp": "2026-10-06T14:01:21+0000",
       "metrics": {
-        "views": 0,
-        "likes": 2,
+        "views": 196,
+        "likes": 0,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 2
+      "engagement": 0
+    },
+    {
+      "id": "18005024765791173",
+      "text": "Used to think a small backpack meant choosing between looking cute or fitting everything.\nTurns out the Samsonite CUTE d",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DeJvC81m9yM",
+      "timestamp": "2026-10-06T12:01:19+0000",
+      "metrics": {
+        "views": 17,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
+      "id": "17941726869097748",
+      "text": "Tasmania is the first place that made me feel like the world actually slowed down for introverts.\nNo crowds forcing smal",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DeJhT4-mxK7",
+      "timestamp": "2026-10-06T10:01:17+0000",
+      "metrics": {
+        "views": 243,
+        "likes": 3,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 3
     },
     {
       "id": "18167187238485749",
@@ -119,7 +149,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DeJTklDlnlq",
       "timestamp": "2026-10-06T08:01:15+0000",
       "metrics": {
-        "views": 56,
+        "views": 70,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -134,7 +164,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DeJF1-4m5NW",
       "timestamp": "2026-10-06T06:01:17+0000",
       "metrics": {
-        "views": 33,
+        "views": 45,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -149,7 +179,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DeI49K2gGRi",
       "timestamp": "2026-10-06T04:08:08+0000",
       "metrics": {
-        "views": 12,
+        "views": 26,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -164,7 +194,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DeI4G2NFByw",
       "timestamp": "2026-10-06T04:01:16+0000",
       "metrics": {
-        "views": 20,
+        "views": 31,
         "likes": 1,
         "replies": 1,
         "reposts": 0,
@@ -179,7 +209,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DeIqXsSkaTi",
       "timestamp": "2026-10-06T02:01:15+0000",
       "metrics": {
-        "views": 106,
+        "views": 116,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -194,14 +224,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DeIZL7xmcxQ",
       "timestamp": "2026-10-05T23:31:05+0000",
       "metrics": {
-        "views": 12684,
-        "likes": 433,
-        "replies": 164,
-        "reposts": 5,
+        "views": 17021,
+        "likes": 567,
+        "replies": 202,
+        "reposts": 7,
         "quotes": 2,
-        "shares": 0
+        "shares": 3
       },
-      "engagement": 604
+      "engagement": 778
     },
     {
       "id": "18025274648704767",
@@ -209,7 +239,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DeHX_HllnD4",
       "timestamp": "2026-10-05T14:01:20+0000",
       "metrics": {
-        "views": 222,
+        "views": 231,
         "likes": 2,
         "replies": 2,
         "reposts": 0,
@@ -217,36 +247,6 @@
         "shares": 0
       },
       "engagement": 4
-    },
-    {
-      "id": "17895275166419359",
-      "text": "Dragged a cheap hard-shell across six countries once — cracked handle by week two, wheel gone by week four.\nSwitched to ",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DeHKQK-m3vv",
-      "timestamp": "2026-10-05T12:01:19+0000",
-      "metrics": {
-        "views": 34,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "18108827327522949",
-      "text": "They say Japan street food is overwhelming to navigate — too many stalls, no English, no idea what you're ordering.\nTurn",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DeG8g5pG0MS",
-      "timestamp": "2026-10-05T10:01:17+0000",
-      "metrics": {
-        "views": 209,
-        "likes": 1,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
     }
   ]
 }
