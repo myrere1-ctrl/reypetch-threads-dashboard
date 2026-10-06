@@ -1,21 +1,21 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-10-05T22:46:32.516Z",
+  "updated_at": "2026-10-06T03:08:39.587Z",
   "profile": {
     "username": "_iame.hijrah",
     "biography": "Hijrah Journey \nInbox ➡️Akses Safar AI",
-    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=PDhMJ94osMYQ7kNvwGqNDX1&_nc_oc=AdrZeHj9CPpqa2_UgiDr1V8UzcSlymXHynyuqtWn7iJfVv3aLmGrbs1xehP5qgFOVVE&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=r1hOx9TpepjhTHKV75Iuqw&_nc_tpa=Q5bMBQKRyDrLdx7__nQaxqlmUFVUeVMp2ewiXXOllnxKxsxQoG4kn1Sjt0NF1mq-mSrGx7MRjgT2fIiLAg&oh=00_AQMSBQSKsut9EiVV19f_dxi6HP5wqMczlI9TDsL9mKWfHw&oe=6ACA1753"
+    "picture": "https://scontent-lga3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=PDhMJ94osMYQ7kNvwGEX7Zv&_nc_oc=AdpalnADB-QDNUTNPcs-nDIRa45BqAwh1Xa0wxFfK64vQFtnHIFautB6IyVThmFFgoA&_nc_zt=24&_nc_ht=scontent-lga3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=8rZ0iu5AjnKGnMxDksEUvQ&_nc_tpa=Q5bMBQKqqKWXtvZ1q4zisHLteALVhLH2vaUcT-RR4AOoUjbytLNuqn4kZ8vL8DEfketbfg5fWpKCahSA_g&oh=00_AQOlStG8L0JEjWL_7KF9SY50TCd2zEVPFkyw7jczlNwGaA&oe=6ACA4F93"
   },
   "summary": {
     "followers_count": 9,
-    "views": 521,
-    "likes": 14,
-    "replies": 0,
-    "reposts": 1,
+    "views": 750,
+    "likes": 21,
+    "replies": 1,
+    "reposts": 2,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 45,
-    "engagement_rate": 8.64,
+    "engagement_total": 51,
+    "engagement_rate": 6.8,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -34,6 +34,21 @@
         "shares": 0
       },
       "engagement": 8
+    },
+    {
+      "id": "18097995281414770",
+      "text": "Pernah ga, ngerasa doa yang sama udah kamu ulang berkali-kali — tapi jawabannya kayak belum dateng-dateng?\nAku pernah di",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DeIO_PWkUex",
+      "timestamp": "2026-10-05T22:01:58+0000",
+      "metrics": {
+        "views": 192,
+        "likes": 5,
+        "replies": 1,
+        "reposts": 1,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 7
     },
     {
       "id": "18430136005197540",
@@ -56,7 +71,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DeHlwB2kXl2",
       "timestamp": "2026-10-05T16:01:37+0000",
       "metrics": {
-        "views": 119,
+        "views": 122,
         "likes": 4,
         "replies": 0,
         "reposts": 1,
@@ -79,6 +94,23 @@
         "shares": 0
       },
       "engagement": 5
+    }
+  ],
+  "recent_posts": [
+    {
+      "id": "17938600212383941",
+      "text": "Pernah ga, niat Umroh udah di mulut — tapi hati masih ga yakin siap?\nAku lagi di situ sekarang. Tiap habis Subuh, sebelu",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DeIjiCSlHk_",
+      "timestamp": "2026-10-06T01:01:28+0000",
+      "metrics": {
+        "views": 153,
+        "likes": 4,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 4
     },
     {
       "id": "18097995281414770",
@@ -86,31 +118,14 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DeIO_PWkUex",
       "timestamp": "2026-10-05T22:01:58+0000",
       "metrics": {
-        "views": 125,
-        "likes": 3,
-        "replies": 0,
+        "views": 192,
+        "likes": 5,
+        "replies": 1,
         "reposts": 1,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 4
-    }
-  ],
-  "recent_posts": [
-    {
-      "id": "18097995281414770",
-      "text": "Pernah ga, ngerasa doa yang sama udah kamu ulang berkali-kali — tapi jawabannya kayak belum dateng-dateng?\nAku pernah di",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DeIO_PWkUex",
-      "timestamp": "2026-10-05T22:01:58+0000",
-      "metrics": {
-        "views": 125,
-        "likes": 3,
-        "replies": 0,
-        "reposts": 1,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 4
+      "engagement": 7
     },
     {
       "id": "17967491130400326",
@@ -118,7 +133,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DeHlwB2kXl2",
       "timestamp": "2026-10-05T16:01:37+0000",
       "metrics": {
-        "views": 119,
+        "views": 122,
         "likes": 4,
         "replies": 0,
         "reposts": 1,
@@ -231,21 +246,6 @@
         "shares": 0
       },
       "engagement": 4
-    },
-    {
-      "id": "17994174744021451",
-      "text": "Ada waktu-waktu tertentu yang entah kenapa berasa lebih berat untuk ibadah.\nBukan males. Tapi kayak... hampa. Gerak tapi",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DeEsHSlAAsF",
-      "timestamp": "2026-10-04T12:58:57+0000",
-      "metrics": {
-        "views": 0,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
     }
   ]
 }
