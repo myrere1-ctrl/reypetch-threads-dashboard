@@ -1,21 +1,21 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-10-07T16:39:35.516Z",
+  "updated_at": "2026-10-07T22:05:22.476Z",
   "profile": {
     "username": "_iame.hijrah",
     "biography": "Hijrah Journey \nInbox ➡️Akses Safar AI",
-    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=H2Q0fsVckoIQ7kNvwF0EbDB&_nc_oc=AdqsdOI0uFSxBl6T8OPzeeKK-A5DRrRtnq4Pdoi0FOFZWvtPeFCieIbV3xi6fo1JGjc&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=yU8xWKi5k_3OYocybXJraQ&_nc_tpa=Q5bMBQKXbZu3PS4FMwxOM-U2MPMfxvU-0Xqxvjm3LN-jX18IBv9RGFA8admmF1WDsw8BGWGTKPZDKBS7_w&oh=00_AQOgG_Zc5j8SMta2t4NX1HQCuUYj_-VP9e-ZBMnBIl-xQw&oe=6ACC49D3"
+    "picture": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=H2Q0fsVckoIQ7kNvwEPWiZw&_nc_oc=Adp_tBp6SbCaCpv52nq1XeE_pHl9Btc84c3gAMDe1oC-bEkg_SymirRqGcLyMwi00DM&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=U03_nf-Unn83EaU41y8nOA&_nc_tpa=Q5bMBQKGI8MnCGdXs2Mgu3kM4rbBD7qYyVcLXybPXLL_R8rrtySlHOq68zPfUhMzBdwJQAsPJW_ck_Vg0Q&oh=00_AQPHi4e7LgJdjDoYi3TW4v6FOs0unA62kKbC4CgrN6Mczw&oe=6ACC8213"
   },
   "summary": {
     "followers_count": 9,
-    "views": 168,
+    "views": 170,
     "likes": 1,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 40,
-    "engagement_rate": 23.81,
+    "engagement_rate": 23.53,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -98,12 +98,27 @@
   ],
   "recent_posts": [
     {
+      "id": "18146683786572913",
+      "text": "Ada satu hal soal takdir yang lama banget aku salah paham.\nAku kira \"menerima qadar\" itu artinya diam dan pasrah doang. ",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DeNYhd7mTQV",
+      "timestamp": "2026-10-07T22:01:29+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "18073517924721837",
       "text": "Doa buat orang tua itu salah satu yang paling susah aku baca tanpa nangis.\nEntah kenapa, begitu nyebut nama mereka dalam",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DeMvV6DG4rf",
       "timestamp": "2026-10-07T16:01:38+0000",
       "metrics": {
-        "views": 4,
+        "views": 5,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -193,7 +208,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DeLIUnBlI3W",
       "timestamp": "2026-10-07T01:01:25+0000",
       "metrics": {
-        "views": 54,
+        "views": 55,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -231,21 +246,6 @@
         "shares": 0
       },
       "engagement": 0
-    },
-    {
-      "id": "18129913039767482",
-      "text": "Malam ini kamu lagi ngapain?\nAku nanya ke diri sendiri juga — udah jam segini, dan aku belum bener-bener \"hadir\".\nSepert",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DeKAOgKlOds",
-      "timestamp": "2026-10-06T14:31:26+0000",
-      "metrics": {
-        "views": 109,
-        "likes": 1,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
     }
   ]
 }
