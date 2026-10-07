@@ -1,21 +1,21 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-10-07T01:39:45.691Z",
+  "updated_at": "2026-10-07T08:51:18.440Z",
   "profile": {
     "username": "_iame.hijrah",
     "biography": "Hijrah Journey \nInbox ➡️Akses Safar AI",
-    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=H2Q0fsVckoIQ7kNvwEDopf2&_nc_oc=AdoWsSNH6bdRwykVkr-wT-yuk3fUayxII9MfOwx-C4BY5ssTqxv0wlpKS_De8KBZTlY&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=fGDKNBAqKO1gl68IGIp0PQ&_nc_tpa=Q5bMBQJ-pkDreCiBmI-E_SyvuzOA67zcDnPvNU7048IJY--xDscXxx5xkxY58f-z_SL6Yt0fZZMyrAt_YA&oh=00_AQOpKR9qlUSk-axDH9NmyxD9QNaXcAmGH0lyuV94_ELybw&oe=6ACB68D3"
+    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=H2Q0fsVckoIQ7kNvwHx7Mxf&_nc_oc=AdqaQiV0Cs9tIdTai3RXzZKiUE4XUOOFNBXI2pfSvd-Yl6FnWxMnxW6Gz9HbhrdEXzY&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=pXCAxREy3HWwcJxbhrgCDw&_nc_tpa=Q5bMBQIG2EdW5l4E1wOKG9tfZNfEtRecR3uBMXAEzKDNVwVhs9zMfzWvuF2Qk3DxJZdpsi2vcpU7dozNew&oh=00_AQNe6lOlZSEnSat1uyIQnvderbC-8S80mOQVkxLuMSz5Lw&oe=6ACBD953"
   },
   "summary": {
     "followers_count": 9,
-    "views": 417,
-    "likes": 2,
+    "views": 1,
+    "likes": 0,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 44,
-    "engagement_rate": 10.55,
+    "engagement_total": 47,
+    "engagement_rate": 4700,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -98,19 +98,49 @@
   ],
   "recent_posts": [
     {
-      "id": "17912682597287235",
-      "text": "Malam ini aku nanya ke diri sendiri — rindu Tanah Suci itu udah aku apain?\nAtau cuma jadi caption di hati, tapi ga perna",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DeLIUnBlI3W",
-      "timestamp": "2026-10-07T01:01:25+0000",
+      "id": "18081939182385018",
+      "text": "Lagi di titik yang rasanya semua buntu dan sesak banget?\nAku pernah — dan yang aku lakuin bukan mikir makin keras.\nAku u",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DeL70MXm41g",
+      "timestamp": "2026-10-07T08:31:23+0000",
       "metrics": {
-        "views": 26,
-        "likes": 0,
+        "views": 0,
+        "likes": 1,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 0
+      "engagement": 1
+    },
+    {
+      "id": "18139648429612703",
+      "text": "Dzikir pagi aku sering ilang di tengah jalan — udah niat 100x, tapi tiba-tiba lupa udah di angka berapa 😅\nSejak pake di",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DeLnNeGFpHV",
+      "timestamp": "2026-10-07T05:31:19+0000",
+      "metrics": {
+        "views": 32,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
+      "id": "17912682597287235",
+      "text": "Malam ini aku nanya ke diri sendiri — rindu Tanah Suci itu udah aku apain?\nAtau cuma jadi caption di hati, tapi ga perna",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DeLIUnBlI3W",
+      "timestamp": "2026-10-07T01:01:25+0000",
+      "metrics": {
+        "views": 53,
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
     },
     {
       "id": "18012106004970272",
@@ -118,7 +148,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DeKzun2oCGV",
       "timestamp": "2026-10-06T22:01:30+0000",
       "metrics": {
-        "views": 91,
+        "views": 94,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -216,36 +246,6 @@
         "shares": 0
       },
       "engagement": 1
-    },
-    {
-      "id": "17938600212383941",
-      "text": "Pernah ga, niat Umroh udah di mulut — tapi hati masih ga yakin siap?\nAku lagi di situ sekarang. Tiap habis Subuh, sebelu",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DeIjiCSlHk_",
-      "timestamp": "2026-10-06T01:01:28+0000",
-      "metrics": {
-        "views": 184,
-        "likes": 4,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 5
-    },
-    {
-      "id": "18097995281414770",
-      "text": "Pernah ga, ngerasa doa yang sama udah kamu ulang berkali-kali — tapi jawabannya kayak belum dateng-dateng?\nAku pernah di",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DeIO_PWkUex",
-      "timestamp": "2026-10-05T22:01:58+0000",
-      "metrics": {
-        "views": 197,
-        "likes": 5,
-        "replies": 1,
-        "reposts": 1,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 7
     }
   ]
 }
