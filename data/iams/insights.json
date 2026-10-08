@@ -1,40 +1,40 @@
 {
   "account": "iams",
-  "updated_at": "2026-10-08T09:08:34.505Z",
+  "updated_at": "2026-10-08T16:37:01.268Z",
   "profile": {
     "username": "iams_ichi",
     "name": "I.petch",
     "biography": "🇦🇺\nCMO at COA.AU &\nNo-Code App Builder\nOnly Positive Vibes\nIt’s about the vibe and the feeling. \nThe names of the places? 🤔\napp➡️cmo@coa.au",
-    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=XI7fZugD4gAQ7kNvwE2S06Y&_nc_oc=AdrxUTiBfqN7f30YxBWmnjxftx74PizC8JCkwxqF4YuIuopbfct6OMhLOiG_-E8Z1zU&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=9dLVfmd8vQ5VFoWmzLgIAQ&_nc_tpa=Q5bMBQKD1B9Tzw8V1OCsbiuoJvs_zJqOXfiecyf0XfSk5ktplZjTcCzkQtNbqObaqdhXJjehXhH96IVCMQ&oh=00_AQOwawkNau6LSjS-54GxuBr5R5Fq2Gw23AVt2yQxWWGbaw&oe=6ACD395E"
+    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=XI7fZugD4gAQ7kNvwEHWUCq&_nc_oc=AdocbKAilcFqPNrNoDcIHesnzBZx10PGgQMGYU703jf9fghCc28Xa6cuo2rLRKQJavw&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=8yYULLefuJFA4_-qX4NSAw&_nc_tpa=Q5bMBQKjC0RkTTJ0tvek0YgAH0-wv72boFFU1U2jK7BK-9FxUXHIHOesp1AUaP0wntsGUbXXYPF5Ceot4Q&oh=00_AQNyFIGPSz_jBNwOeyezWgq7diEYsjgMJ2r7_ymYq9B7zg&oe=6ACDA9DE"
   },
   "summary": {
-    "followers_count": 1381,
-    "views": 340,
-    "likes": 4,
-    "replies": 1,
-    "reposts": 0,
+    "followers_count": 1382,
+    "views": 1577,
+    "likes": 45,
+    "replies": 9,
+    "reposts": 2,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 966,
-    "engagement_rate": 284.12,
+    "engagement_total": 102,
+    "engagement_rate": 6.47,
     "curiosity_score": null,
     "post_count": 25
   },
   "top_posts": [
     {
-      "id": "18336436567260436",
-      "text": "Unpopular opinion: Brisbane is actually the most underrated city in Australia — and people skipping it for Sydney or Mel",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DeIZL7xmcxQ",
-      "timestamp": "2026-10-05T23:31:05+0000",
+      "id": "18228308674334103",
+      "text": "Unpopular opinion: Brisbane doesn't need to try harder to compete with Sydney or Melbourne — and that's exactly why it w",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DeOPbjMG3tV",
+      "timestamp": "2026-10-08T06:01:16+0000",
       "metrics": {
-        "views": 20467,
-        "likes": 667,
-        "replies": 233,
-        "reposts": 8,
-        "quotes": 2,
-        "shares": 5
+        "views": 802,
+        "likes": 43,
+        "replies": 9,
+        "reposts": 2,
+        "quotes": 0,
+        "shares": 0
       },
-      "engagement": 910
+      "engagement": 54
     },
     {
       "id": "18092805800689726",
@@ -42,29 +42,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DeMhlBym5g2",
       "timestamp": "2026-10-07T14:01:22+0000",
       "metrics": {
-        "views": 657,
-        "likes": 16,
-        "replies": 5,
+        "views": 871,
+        "likes": 20,
+        "replies": 6,
         "reposts": 1,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 22
-    },
-    {
-      "id": "18228308674334103",
-      "text": "Unpopular opinion: Brisbane doesn't need to try harder to compete with Sydney or Melbourne — and that's exactly why it w",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DeOPbjMG3tV",
-      "timestamp": "2026-10-08T06:01:16+0000",
-      "metrics": {
-        "views": 368,
-        "likes": 10,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 11
+      "engagement": 27
     },
     {
       "id": "17941726869097748",
@@ -82,29 +67,89 @@
       "engagement": 10
     },
     {
-      "id": "18025274648704767",
-      "text": "They say navigating Spain without Spanish is stressful — wrong orders, awkward silences, getting lost in translation.\nTu",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DeHX_HllnD4",
-      "timestamp": "2026-10-05T14:01:20+0000",
+      "id": "18008004068782955",
+      "text": "Everyone says Le Marais is too touristy now — skip it, move on.\nBut staying in one pocket of it for two full days? Compl",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DeNz9lyGuio",
+      "timestamp": "2026-10-08T02:01:14+0000",
       "metrics": {
-        "views": 233,
+        "views": 155,
         "likes": 2,
-        "replies": 2,
+        "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 4
+      "engagement": 2
+    },
+    {
+      "id": "17912147607552095",
+      "text": "Dragged a cheap hard-shell across six countries once — cracked handle by week two, wheel gone by week four.\nSwitched to ",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DeI4G2NFByw",
+      "timestamp": "2026-10-06T04:01:16+0000",
+      "metrics": {
+        "views": 36,
+        "likes": 1,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 2
     }
   ],
   "recent_posts": [
+    {
+      "id": "18095447450552092",
+      "text": "I used to think wandering El Born with no plan was wasting time.\nTurns out doing nothing on purpose is actually the whol",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DePGXbNEblH",
+      "timestamp": "2026-10-08T14:01:18+0000",
+      "metrics": {
+        "views": 92,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "18100450241297938",
+      "text": "Travelling with a laptop, a camera, and backup everything — my bag situation used to be chaos.\nSwitched to the Tomtoc an",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DeO4oo2IPdU",
+      "timestamp": "2026-10-08T12:01:19+0000",
+      "metrics": {
+        "views": 7,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
+      "id": "18117977347768112",
+      "text": "Standing in Arashiyama right now and the momiji is actually doing that thing you only see in photos.\nThe psychology term",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DeOq55sG-c3",
+      "timestamp": "2026-10-08T10:01:20+0000",
+      "metrics": {
+        "views": 316,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
     {
       "id": "17933116446146857",
       "text": "Spent a whole afternoon just wandering El Born with no plan — ended up at a random spot, ate patatas bravas at 4pm like ",
       "permalink": "https://www.threads.com/@iams_ichi/post/DeOdKbcG02e",
       "timestamp": "2026-10-08T08:01:15+0000",
       "metrics": {
-        "views": 34,
+        "views": 76,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -119,14 +164,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DeOPbjMG3tV",
       "timestamp": "2026-10-08T06:01:16+0000",
       "metrics": {
-        "views": 368,
-        "likes": 10,
-        "replies": 1,
-        "reposts": 0,
+        "views": 802,
+        "likes": 43,
+        "replies": 9,
+        "reposts": 2,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 11
+      "engagement": 54
     },
     {
       "id": "18116790575520086",
@@ -134,7 +179,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DeOBshOkWZV",
       "timestamp": "2026-10-08T04:01:15+0000",
       "metrics": {
-        "views": 67,
+        "views": 70,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -149,14 +194,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DeNz9lyGuio",
       "timestamp": "2026-10-08T02:01:14+0000",
       "metrics": {
-        "views": 147,
-        "likes": 0,
+        "views": 155,
+        "likes": 2,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 0
+      "engagement": 2
     },
     {
       "id": "17906458734566712",
@@ -164,7 +209,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DeNxXhkml1Y",
       "timestamp": "2026-10-08T01:38:02+0000",
       "metrics": {
-        "views": 7,
+        "views": 9,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -179,7 +224,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DeNiy6JGcvR",
       "timestamp": "2026-10-07T23:31:14+0000",
       "metrics": {
-        "views": 19,
+        "views": 20,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -194,59 +239,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DeMhlBym5g2",
       "timestamp": "2026-10-07T14:01:22+0000",
       "metrics": {
-        "views": 657,
-        "likes": 16,
-        "replies": 5,
+        "views": 871,
+        "likes": 20,
+        "replies": 6,
         "reposts": 1,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 22
-    },
-    {
-      "id": "18090681719294728",
-      "text": "Long-haul flights used to wreck me — I'd land somewhere new already exhausted before the trip even started.\nSwitched to ",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DeMT2ABkSkV",
-      "timestamp": "2026-10-07T12:01:22+0000",
-      "metrics": {
-        "views": 132,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "18412899307084460",
-      "text": "Paris hit different when I stopped trying to see everything and just... stayed in one arrondissement for two days.\nSame ",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DeMGG3sm7Nz",
-      "timestamp": "2026-10-07T10:01:18+0000",
-      "metrics": {
-        "views": 33,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18130628392744453",
-      "text": "Bondi Beach one afternoon: fish and chips on the sand, salt air, seagulls judging my life choices.\nThat same evening: a ",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DeL4XnrGxdT",
-      "timestamp": "2026-10-07T08:01:16+0000",
-      "metrics": {
-        "views": 17,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
+      "engagement": 27
     }
   ]
 }
