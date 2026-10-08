@@ -1,39 +1,54 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-10-08T09:09:18.863Z",
+  "updated_at": "2026-10-08T16:37:54.654Z",
   "profile": {
     "username": "_iame.hijrah",
     "biography": "Hijrah Journey \nInbox ➡️Akses Safar AI",
-    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=H2Q0fsVckoIQ7kNvwGIOoA_&_nc_oc=Adr496lAQ_jpTskg8xvKWp6JX-sNMK4jSqztdX6T7_6apvPGiNyXtOqyYhYs2FF8RjE&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=_k6ciEIT3sPo_ZqBJmQOBg&_nc_tpa=Q5bMBQJfTBHTBPmme2YSY3fbGH95JD2R0-8ev_0MxEgGhUmeXIoE7I5U0uDOKmoNho5wwYGH0a4_fPIl1w&oh=00_AQMoN03-L8j_wj1GDmUcURwUXNG3TGZzQBJQcy7pG3SuPQ&oe=6ACD2AD3"
+    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=H2Q0fsVckoIQ7kNvwGPyBO2&_nc_oc=Adoy2GbiCqznl9JMjIc7WF7ZBDpXO6UsB1Kr7gfZKRUGl8xks3-uak9EFD-U6W1_l08&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=5EJJWorr_XdVKJq-2ynTmw&_nc_tpa=Q5bMBQJCr-ogpZJdhYhAU56h-PRdzH44cBHCLJnk3iWEGYSvDY7aX-Mj-4N8NWLj_sRQ5UyRauclXAnJ-A&oh=00_AQMr90g4ePl1lDDbRA530lOqVAVKexw4gtFY4BzLAORDmA&oe=6ACD9B53"
   },
   "summary": {
     "followers_count": 9,
-    "views": 49,
-    "likes": 0,
+    "views": 297,
+    "likes": 12,
     "replies": 0,
-    "reposts": 0,
+    "reposts": 2,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 41,
-    "engagement_rate": 83.67,
+    "engagement_total": 49,
+    "engagement_rate": 16.5,
     "curiosity_score": null,
     "post_count": 25
   },
   "top_posts": [
     {
-      "id": "17978130903018873",
-      "text": "Ibu aku pernah bilang — kalau udah ga tau harus ngapain, baca Doa Nabi Yunus.\nDulu aku ga ngerti maksudnya. Sekarang, di",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DeHG0fkG2c4",
-      "timestamp": "2026-10-05T11:31:21+0000",
+      "id": "18129572633479012",
+      "text": "Ibu aku selalu bilang, \"Kalau kamu bingung sama jalan Allah, bukan berarti Allah salah jalan.\"\nDulu aku sering rebut sam",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DePUIRNINj1",
+      "timestamp": "2026-10-08T16:01:34+0000",
       "metrics": {
-        "views": 194,
-        "likes": 8,
+        "views": 0,
+        "likes": 5,
+        "replies": 0,
+        "reposts": 3,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 8
+    },
+    {
+      "id": "18076906043538684",
+      "text": "Nenek aku ga pernah skip dzikir pagi petang — bahkan pas sakit sekalipun.\nAku pernah nanya, \"Nek, ga capek?\"\nJawabnya si",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DeO1M8bm8X6",
+      "timestamp": "2026-10-08T11:31:18+0000",
+      "metrics": {
+        "views": 97,
+        "likes": 7,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 8
+      "engagement": 7
     },
     {
       "id": "18097995281414770",
@@ -79,31 +94,76 @@
         "shares": 0
       },
       "engagement": 5
+    }
+  ],
+  "recent_posts": [
+    {
+      "id": "18129572633479012",
+      "text": "Ibu aku selalu bilang, \"Kalau kamu bingung sama jalan Allah, bukan berarti Allah salah jalan.\"\nDulu aku sering rebut sam",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DePUIRNINj1",
+      "timestamp": "2026-10-08T16:01:34+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 5,
+        "replies": 0,
+        "reposts": 3,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 8
     },
     {
-      "id": "17938600212383941",
-      "text": "Pernah ga, niat Umroh udah di mulut — tapi hati masih ga yakin siap?\nAku lagi di situ sekarang. Tiap habis Subuh, sebelu",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DeIjiCSlHk_",
-      "timestamp": "2026-10-06T01:01:28+0000",
+      "id": "17955106758037336",
+      "text": "Syukur itu aku baru beneran ngerti pas di depan Ka'bah — nangis ga karuan, ga tau mau bilang apa, cuma rasa \"alhamdulill",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DePJ02DoJXs",
+      "timestamp": "2026-10-08T14:31:32+0000",
       "metrics": {
-        "views": 185,
-        "likes": 4,
+        "views": 34,
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
+      "id": "18103753181181275",
+      "text": "Aku ga nyangka sajadah bisa bikin aku betah sholat lebih lama.\nDulu alas sholat aku tipis dan kasar — baru rakaat pertam",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DeO_iP2Gzvp",
+      "timestamp": "2026-10-08T13:01:37+0000",
+      "metrics": {
+        "views": 2,
+        "likes": 0,
         "replies": 1,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 5
-    }
-  ],
-  "recent_posts": [
+      "engagement": 1
+    },
+    {
+      "id": "18076906043538684",
+      "text": "Nenek aku ga pernah skip dzikir pagi petang — bahkan pas sakit sekalipun.\nAku pernah nanya, \"Nek, ga capek?\"\nJawabnya si",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DeO1M8bm8X6",
+      "timestamp": "2026-10-08T11:31:18+0000",
+      "metrics": {
+        "views": 97,
+        "likes": 7,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 7
+    },
     {
       "id": "17901496182372242",
       "text": "Istighfar tuh aku sering salah pakai — cuma buat nutupin rasa bersalah sesaat, bukan beneran minta ampun dari hati.\nTapi",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DeOgnJOlbra",
       "timestamp": "2026-10-08T08:31:24+0000",
       "metrics": {
-        "views": 48,
+        "views": 61,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -186,66 +246,6 @@
         "shares": 0
       },
       "engagement": 0
-    },
-    {
-      "id": "17881613220626940",
-      "text": "Pernah dzikir di jalan tapi ga pegang tasbih dan akhirnya lupa hitungan?\nAku juga. Sekarang aku pake cincin tasbih — dip",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DeMavMiEbCl",
-      "timestamp": "2026-10-07T13:01:35+0000",
-      "metrics": {
-        "views": 0,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "18115576006998321",
-      "text": "4 waktu aku paling suka baca Sholawat — dan rasanya beda-beda:\n1. Habis sholat fardhu — kayak penutup yang bikin hati ad",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DeMQegAoLbv",
-      "timestamp": "2026-10-07T11:31:56+0000",
-      "metrics": {
-        "views": 2,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18081939182385018",
-      "text": "Lagi di titik yang rasanya semua buntu dan sesak banget?\nAku pernah — dan yang aku lakuin bukan mikir makin keras.\nAku u",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DeL70MXm41g",
-      "timestamp": "2026-10-07T08:31:23+0000",
-      "metrics": {
-        "views": 159,
-        "likes": 1,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "18139648429612703",
-      "text": "Dzikir pagi aku sering ilang di tengah jalan — udah niat 100x, tapi tiba-tiba lupa udah di angka berapa 😅\nSejak pake di",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DeLnNeGFpHV",
-      "timestamp": "2026-10-07T05:31:19+0000",
-      "metrics": {
-        "views": 33,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
     }
   ]
 }
