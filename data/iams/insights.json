@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-10-07T22:04:26.027Z",
+  "updated_at": "2026-10-08T02:03:30.483Z",
   "profile": {
     "username": "iams_ichi",
     "name": "I.petch",
-    "biography": "🇦🇺\nCMO at COA.AU &\nNo-Code App Builder\nOnly Positive Vibes\nIt’s about the vibe and the feeling. \nThe names of the places? 🤔\ncmo@coa.au",
-    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=XI7fZugD4gAQ7kNvwEbdoDf&_nc_oc=AdqWgzbGw1AhftuN3jl2A_OrOrADrU3BKvRa8cDH7jzmgimf8AV1htA93FdQoimBS1w&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=X-m0Pp62OBIm9rQWw_RQDA&_nc_tpa=Q5bMBQKP_HT_eFwdFE8Q643uFIoH_EaL5wy50nrYpnk9-CC433aEq-eBh_S_iwJEjg1KuFZFI6qFtp27Iw&oh=00_AQPYxAom4Gv5-_VMrUDk7Q-owzkFJJG0qIticmk99XM_3A&oe=6ACC909E"
+    "biography": "🇦🇺\nCMO at COA.AU &\nNo-Code App Builder\nOnly Positive Vibes\nIt’s about the vibe and the feeling. \nThe names of the places? 🤔\napp➡️cmo@coa.au",
+    "picture": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=XI7fZugD4gAQ7kNvwHWzaXa&_nc_oc=AdrnZpYAsJ86ayIEWwAfTEW32dphYhDTGOiocU96qCe2mZPveTJKKYaf7UpZqlbTAok&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=n9SdgejOK2QgwRKvGb13BQ&_nc_tpa=Q5bMBQK6XSQqPRmtE_9-BJPToMVEctfqTDS_n_2-yAN1uu2UKVKDRL1lzvJChCBVX_qLMeB24dDTePc1nQ&oh=00_AQOyncV89kXkyg533uync_ndg66paK47Sk71Qe6XwKhSAw&oe=6ACCC8DE"
   },
   "summary": {
     "followers_count": 1381,
-    "views": 584,
-    "likes": 3,
+    "views": 739,
+    "likes": 6,
     "replies": 0,
-    "reposts": 0,
+    "reposts": 1,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 1031,
-    "engagement_rate": 176.54,
+    "engagement_total": 1033,
+    "engagement_rate": 139.78,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -27,14 +27,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DeIZL7xmcxQ",
       "timestamp": "2026-10-05T23:31:05+0000",
       "metrics": {
-        "views": 20421,
-        "likes": 666,
+        "views": 20440,
+        "likes": 667,
         "replies": 233,
         "reposts": 8,
         "quotes": 2,
         "shares": 5
       },
-      "engagement": 909
+      "engagement": 910
     },
     {
       "id": "18344976715262073",
@@ -67,6 +67,21 @@
       "engagement": 10
     },
     {
+      "id": "18092805800689726",
+      "text": "I used to think Gold Coast was just Surfers Paradise + beach selfies + done.\nTurns out the quieter pockets — early morni",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DeMhlBym5g2",
+      "timestamp": "2026-10-07T14:01:22+0000",
+      "metrics": {
+        "views": 240,
+        "likes": 5,
+        "replies": 0,
+        "reposts": 1,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 6
+    },
+    {
       "id": "18025274648704767",
       "text": "They say navigating Spain without Spanish is stressful — wrong orders, awkward silences, getting lost in translation.\nTu",
       "permalink": "https://www.threads.com/@iams_ichi/post/DeHX_HllnD4",
@@ -80,6 +95,53 @@
         "shares": 0
       },
       "engagement": 4
+    }
+  ],
+  "recent_posts": [
+    {
+      "id": "18008004068782955",
+      "text": "Everyone says Le Marais is too touristy now — skip it, move on.\nBut staying in one pocket of it for two full days? Compl",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DeNz9lyGuio",
+      "timestamp": "2026-10-08T02:01:14+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "17906458734566712",
+      "text": "Morning walk to little beach with Tully 🤗",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DeNxXhkml1Y",
+      "timestamp": "2026-10-08T01:38:02+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "18114530468043055",
+      "text": "Onsen town hit different depending on how I ate that day.\nKaiseki course at a quiet inn one evening, convenience store o",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DeNiy6JGcvR",
+      "timestamp": "2026-10-07T23:31:14+0000",
+      "metrics": {
+        "views": 16,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
     },
     {
       "id": "18092805800689726",
@@ -87,31 +149,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DeMhlBym5g2",
       "timestamp": "2026-10-07T14:01:22+0000",
       "metrics": {
-        "views": 155,
-        "likes": 2,
+        "views": 240,
+        "likes": 5,
         "replies": 0,
-        "reposts": 0,
+        "reposts": 1,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 2
-    }
-  ],
-  "recent_posts": [
-    {
-      "id": "18092805800689726",
-      "text": "I used to think Gold Coast was just Surfers Paradise + beach selfies + done.\nTurns out the quieter pockets — early morni",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DeMhlBym5g2",
-      "timestamp": "2026-10-07T14:01:22+0000",
-      "metrics": {
-        "views": 155,
-        "likes": 2,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 2
+      "engagement": 6
     },
     {
       "id": "18090681719294728",
@@ -164,7 +209,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DeLqoUtFojq",
       "timestamp": "2026-10-07T06:01:12+0000",
       "metrics": {
-        "views": 60,
+        "views": 61,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -179,7 +224,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DeLc5c9jcWg",
       "timestamp": "2026-10-07T04:01:13+0000",
       "metrics": {
-        "views": 21,
+        "views": 22,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -194,7 +239,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DeLPKnGFu0E",
       "timestamp": "2026-10-07T02:01:14+0000",
       "metrics": {
-        "views": 101,
+        "views": 103,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -202,51 +247,6 @@
         "shares": 0
       },
       "engagement": 0
-    },
-    {
-      "id": "17887895817474604",
-      "text": "Barcelona locals eat dinner at 9pm like it's completely normal — and somehow by week two, so did I.\nYour body just... ad",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DeK9-_8mU0V",
-      "timestamp": "2026-10-06T23:31:06+0000",
-      "metrics": {
-        "views": 105,
-        "likes": 1,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "18012943157988994",
-      "text": "Tokyo locals will queue for 45 minutes for a vending machine drink they could get anywhere else — and nobody questions i",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DeJ8x10IHMN",
-      "timestamp": "2026-10-06T14:01:21+0000",
-      "metrics": {
-        "views": 225,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18005024765791173",
-      "text": "Used to think a small backpack meant choosing between looking cute or fitting everything.\nTurns out the Samsonite CUTE d",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DeJvC81m9yM",
-      "timestamp": "2026-10-06T12:01:19+0000",
-      "metrics": {
-        "views": 34,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
     }
   ]
 }
