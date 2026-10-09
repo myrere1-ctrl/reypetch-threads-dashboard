@@ -1,33 +1,48 @@
 {
   "account": "iams",
-  "updated_at": "2026-10-09T09:17:28.590Z",
+  "updated_at": "2026-10-09T16:21:48.175Z",
   "profile": {
     "username": "iams_ichi",
     "name": "I.petch",
     "biography": "🇦🇺\nCMO at COA.AU &\nNo-Code App Builder\nOnly Positive Vibes\nIt’s about the vibe and the feeling. \nThe names of the places? 🤔\napp➡️cmo@coa.au",
-    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=XI7fZugD4gAQ7kNvwENEi6O&_nc_oc=AdoLBtv_T5X1HAnp5_cgTRzTYkoa8r6MYd1DM_6hdkxlj0Du4wcOtk9v6k7f8LD612s&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=0nP6eHu5cmQz-3xnw4syYw&_nc_tpa=Q5bMBQJAXxmPd7iHU0YP9b5Tfjsg02WdYpzRP959dH5WZZZrqt1OQlOQ4z4DGWZH-Z1gasineSZsH4po-w&oh=00_AQPNPETou-P75e0IhGsxi9wGuY6NqfxY1Bv1jy5pO3ZPBA&oe=6ACE8ADE"
+    "picture": "https://scontent-qro3-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=XI7fZugD4gAQ7kNvwGP2CCs&_nc_oc=AdqyPJGn4QoUF7rJZgdRvcAM64khLYvwFo6xkA4Gf2c2YVs00S14KAphrNDNoAP2GLQ&_nc_zt=24&_nc_ht=scontent-qro3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=bacEouDYKr89n76Vx4OKjA&_nc_tpa=Q5bMBQIWvGHh66_aC7fWjWFHukD3EGWzpTYa2AiQyf0DxdACCn_Gn5HJxdcPfwIcsCmrXl7YcytI5cvpuw&oh=00_AQPGHjQrwtw8SB4AEgHrzsyzU4DT3gniJFokaxV2tfRJ5Q&oe=6ACEFB5E"
   },
   "summary": {
     "followers_count": 1382,
-    "views": 709,
-    "likes": 5,
-    "replies": 8,
+    "views": 4293,
+    "likes": 30,
+    "replies": 44,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 319,
-    "engagement_rate": 44.99,
+    "engagement_total": 369,
+    "engagement_rate": 8.6,
     "curiosity_score": null,
     "post_count": 25
   },
   "top_posts": [
+    {
+      "id": "18129136144890873",
+      "text": "Australians don't order a \"large coffee.\" They order a flat white, a long black, a magic — and they will look at you sid",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DeQHk9RnJ11",
+      "timestamp": "2026-10-08T23:31:08+0000",
+      "metrics": {
+        "views": 7123,
+        "likes": 55,
+        "replies": 118,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 173
+    },
     {
       "id": "18228308674334103",
       "text": "Unpopular opinion: Brisbane doesn't need to try harder to compete with Sydney or Melbourne — and that's exactly why it w",
       "permalink": "https://www.threads.com/@iams_ichi/post/DeOPbjMG3tV",
       "timestamp": "2026-10-08T06:01:16+0000",
       "metrics": {
-        "views": 2553,
+        "views": 2578,
         "likes": 134,
         "replies": 19,
         "reposts": 2,
@@ -37,27 +52,12 @@
       "engagement": 155
     },
     {
-      "id": "18129136144890873",
-      "text": "Australians don't order a \"large coffee.\" They order a flat white, a long black, a magic — and they will look at you sid",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DeQHk9RnJ11",
-      "timestamp": "2026-10-08T23:31:08+0000",
-      "metrics": {
-        "views": 4038,
-        "likes": 32,
-        "replies": 84,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 116
-    },
-    {
       "id": "18092805800689726",
       "text": "I used to think Gold Coast was just Surfers Paradise + beach selfies + done.\nTurns out the quieter pockets — early morni",
       "permalink": "https://www.threads.com/@iams_ichi/post/DeMhlBym5g2",
       "timestamp": "2026-10-07T14:01:22+0000",
       "metrics": {
-        "views": 876,
+        "views": 878,
         "likes": 20,
         "replies": 6,
         "reposts": 1,
@@ -67,19 +67,19 @@
       "engagement": 27
     },
     {
-      "id": "17941726869097748",
-      "text": "Tasmania is the first place that made me feel like the world actually slowed down for introverts.\nNo crowds forcing smal",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DeJhT4-mxK7",
-      "timestamp": "2026-10-06T10:01:17+0000",
+      "id": "18109559978074857",
+      "text": "Everyone says Hokkaido in winter is hard to navigate solo — too remote, too cold, too much to figure out.\nTurns out the ",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DeRrKsEG2t6",
+      "timestamp": "2026-10-09T14:01:22+0000",
       "metrics": {
-        "views": 339,
-        "likes": 8,
-        "replies": 2,
+        "views": 147,
+        "likes": 2,
+        "replies": 1,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 10
+      "engagement": 3
     },
     {
       "id": "18008004068782955",
@@ -87,7 +87,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DeNz9lyGuio",
       "timestamp": "2026-10-08T02:01:14+0000",
       "metrics": {
-        "views": 162,
+        "views": 164,
         "likes": 3,
         "replies": 0,
         "reposts": 0,
@@ -99,12 +99,57 @@
   ],
   "recent_posts": [
     {
+      "id": "18109559978074857",
+      "text": "Everyone says Hokkaido in winter is hard to navigate solo — too remote, too cold, too much to figure out.\nTurns out the ",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DeRrKsEG2t6",
+      "timestamp": "2026-10-09T14:01:22+0000",
+      "metrics": {
+        "views": 147,
+        "likes": 2,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 3
+    },
+    {
+      "id": "17911817880491143",
+      "text": "Hostel mornings hit different when you can't trust the communal coffee situation.\nPacked the OutIn Nano and made a prope",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DeRdbpOnOU0",
+      "timestamp": "2026-10-09T12:01:20+0000",
+      "metrics": {
+        "views": 6,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
+      "id": "18250041727308411",
+      "text": "Everyone said Sydney is overwhelming for solo travelers — too big, too spread out, hard to navigate alone.\nTurns out the",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DeRPs11G_hR",
+      "timestamp": "2026-10-09T10:01:21+0000",
+      "metrics": {
+        "views": 126,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "18120328522985638",
       "text": "Sakura season in Kyoto and I ate both ways — omakase counter watching petals fall through the window one night, convenie",
       "permalink": "https://www.threads.com/@iams_ichi/post/DeRB9gvlkfV",
       "timestamp": "2026-10-09T08:01:17+0000",
       "metrics": {
-        "views": 21,
+        "views": 28,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -119,7 +164,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DeQ0OY-Fb2C",
       "timestamp": "2026-10-09T06:01:15+0000",
       "metrics": {
-        "views": 64,
+        "views": 70,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -134,7 +179,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DeQmj5ElWR-",
       "timestamp": "2026-10-09T04:01:51+0000",
       "metrics": {
-        "views": 8,
+        "views": 14,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -149,7 +194,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DeQYwflFZ7J",
       "timestamp": "2026-10-09T02:01:14+0000",
       "metrics": {
-        "views": 127,
+        "views": 134,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -164,14 +209,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DeQHk9RnJ11",
       "timestamp": "2026-10-08T23:31:08+0000",
       "metrics": {
-        "views": 4038,
-        "likes": 32,
-        "replies": 84,
+        "views": 7123,
+        "likes": 55,
+        "replies": 118,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 116
+      "engagement": 173
     },
     {
       "id": "18095447450552092",
@@ -179,7 +224,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DePGXbNEblH",
       "timestamp": "2026-10-08T14:01:18+0000",
       "metrics": {
-        "views": 107,
+        "views": 109,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -194,7 +239,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DeO4oo2IPdU",
       "timestamp": "2026-10-08T12:01:19+0000",
       "metrics": {
-        "views": 15,
+        "views": 17,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -202,51 +247,6 @@
         "shares": 0
       },
       "engagement": 1
-    },
-    {
-      "id": "18117977347768112",
-      "text": "Standing in Arashiyama right now and the momiji is actually doing that thing you only see in photos.\nThe psychology term",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DeOq55sG-c3",
-      "timestamp": "2026-10-08T10:01:20+0000",
-      "metrics": {
-        "views": 329,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "17933116446146857",
-      "text": "Spent a whole afternoon just wandering El Born with no plan — ended up at a random spot, ate patatas bravas at 4pm like ",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DeOdKbcG02e",
-      "timestamp": "2026-10-08T08:01:15+0000",
-      "metrics": {
-        "views": 82,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18228308674334103",
-      "text": "Unpopular opinion: Brisbane doesn't need to try harder to compete with Sydney or Melbourne — and that's exactly why it w",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DeOPbjMG3tV",
-      "timestamp": "2026-10-08T06:01:16+0000",
-      "metrics": {
-        "views": 2553,
-        "likes": 134,
-        "replies": 19,
-        "reposts": 2,
-        "quotes": 0,
-        "shares": 2
-      },
-      "engagement": 155
     }
   ]
 }
