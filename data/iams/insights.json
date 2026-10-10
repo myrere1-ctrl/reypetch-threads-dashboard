@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-10-10T15:27:30.355Z",
+  "updated_at": "2026-10-10T20:09:44.287Z",
   "profile": {
     "username": "iams_ichi",
     "name": "I.petch",
     "biography": "🇦🇺\nCMO at COA.AU &\nNo-Code App Builder\nOnly Positive Vibes\nIt’s about the vibe and the feeling. \nThe names of the places? 🤔\napp➡️cmo@coa.au",
-    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=hQhjy7yeePoQ7kNvwEBSY4G&_nc_oc=AdoN2G_SMtxi7sZN0P-bHPiyaCamgkMcHN_3pfA4npLEj6M_ux2i03juCthN4n9-saA&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=AcWZU41oh6W92PD5iFRxyA&_nc_tpa=Q5bMBQIp1RfwN3Al0xeHtKtKoqBhTIhOW3Mk-n859biI6BcpAHN_h0NrX9S3yvyYkjujFykCCwaAbr7bIQ&oh=00_AQOkz6EDwOhN6VBOxmJzpKc1sz-hZtGR3EY_WAdlgCGiNg&oe=6AD0149E"
+    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzIifQ%3D%3D&_nc_ohc=hQhjy7yeePoQ7kNvwF9gb-g&_nc_oc=AdpkwVGHXYvglgEaUW2_9Ab-9V_79Nrmhbrm2p3AEWu1JKYB3uZ__WpcnpwpsGxbz48&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=6c6WRrARh3dPubSsxR7gtQ&_nc_tpa=Q5bMBQKUpqphB6rDJLR2CkSxbenMWgxCBcquVBuj-SudGdg3s87rfM9BT3jDYftdC2a14IfCGO68ofL0IQ&oh=00_AQOSoQ4M4hrosDF3CW-ozBWIFywfl2sP_Pu5Cs1sLiZULw&oe=6AD0851E"
   },
   "summary": {
     "followers_count": 1382,
-    "views": 4903,
-    "likes": 37,
-    "replies": 19,
-    "reposts": 6,
+    "views": 6317,
+    "likes": 51,
+    "replies": 20,
+    "reposts": 7,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 509,
-    "engagement_rate": 10.38,
+    "engagement_total": 522,
+    "engagement_rate": 8.26,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -27,7 +27,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DeQHk9RnJ11",
       "timestamp": "2026-10-08T23:31:08+0000",
       "metrics": {
-        "views": 9055,
+        "views": 9064,
         "likes": 72,
         "replies": 145,
         "reposts": 0,
@@ -52,12 +52,27 @@
       "engagement": 155
     },
     {
+      "id": "18210221215368747",
+      "text": "Rute Berburu Sunset Pesisir Pantai Terbaik di Sydney — View-nya Mahal, Modal Kartu Opal! \n\n1/ Kalau mau liat sunset di S",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DeT5qJRGiXo",
+      "timestamp": "2026-10-10T10:45:55+0000",
+      "metrics": {
+        "views": 2502,
+        "likes": 33,
+        "replies": 11,
+        "reposts": 7,
+        "quotes": 0,
+        "shares": 19
+      },
+      "engagement": 51
+    },
+    {
       "id": "18250041727308411",
       "text": "Everyone said Sydney is overwhelming for solo travelers — too big, too spread out, hard to navigate alone.\nTurns out the",
       "permalink": "https://www.threads.com/@iams_ichi/post/DeRPs11G_hR",
       "timestamp": "2026-10-09T10:01:21+0000",
       "metrics": {
-        "views": 1308,
+        "views": 1309,
         "likes": 31,
         "replies": 10,
         "reposts": 0,
@@ -65,21 +80,6 @@
         "shares": 0
       },
       "engagement": 41
-    },
-    {
-      "id": "18210221215368747",
-      "text": "Rute Berburu Sunset Pesisir Pantai Terbaik di Sydney — View-nya Mahal, Modal Kartu Opal! \n\n1/ Kalau mau liat sunset di S",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DeT5qJRGiXo",
-      "timestamp": "2026-10-10T10:45:55+0000",
-      "metrics": {
-        "views": 1689,
-        "likes": 22,
-        "replies": 10,
-        "reposts": 6,
-        "quotes": 0,
-        "shares": 15
-      },
-      "engagement": 38
     },
     {
       "id": "18092805800689726",
@@ -104,7 +104,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DeUCIW-DU1R",
       "timestamp": "2026-10-10T11:59:57+0000",
       "metrics": {
-        "views": 188,
+        "views": 189,
         "likes": 3,
         "replies": 0,
         "reposts": 0,
@@ -149,14 +149,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DeT5qJRGiXo",
       "timestamp": "2026-10-10T10:45:55+0000",
       "metrics": {
-        "views": 1689,
-        "likes": 22,
-        "replies": 10,
-        "reposts": 6,
+        "views": 2502,
+        "likes": 33,
+        "replies": 11,
+        "reposts": 7,
         "quotes": 0,
-        "shares": 15
+        "shares": 19
       },
-      "engagement": 38
+      "engagement": 51
     },
     {
       "id": "17937268191124200",
@@ -179,7 +179,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DeT4IF8Fjgl",
       "timestamp": "2026-10-10T10:32:32+0000",
       "metrics": {
-        "views": 658,
+        "views": 680,
         "likes": 3,
         "replies": 12,
         "reposts": 0,
@@ -224,7 +224,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DeRdbpOnOU0",
       "timestamp": "2026-10-09T12:01:20+0000",
       "metrics": {
-        "views": 14,
+        "views": 15,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -239,7 +239,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DeRPs11G_hR",
       "timestamp": "2026-10-09T10:01:21+0000",
       "metrics": {
-        "views": 1308,
+        "views": 1309,
         "likes": 31,
         "replies": 10,
         "reposts": 0,
