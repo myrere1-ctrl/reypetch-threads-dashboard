@@ -1,11 +1,11 @@
 {
   "account": "rrpetch",
-  "updated_at": "2026-10-10T01:48:56.934Z",
+  "updated_at": "2026-10-10T08:38:53.110Z",
   "profile": {
     "username": "rrpetch",
     "name": "rrp",
     "biography": "🇦🇺\nEveryone sees things differently—\nit's not a matter of right or wrong. \nSocial media a free forum 😉",
-    "picture": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/787903758_18124679617780392_3585522233816659706_n.jpg?_nc_cat=105&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=8znVzRP5FcEQ7kNvwEMHhXJ&_nc_oc=AdpBKG3WraOtXsrwawo47LQC4eky6ywOVDxQi2qkT_jhQlOBUZBgeOXb5QNNFu_UNjY&_nc_zt=24&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=DiA43e-LNSTHgt1FGd3aeA&_nc_tpa=Q5bMBQIvXkQdTXb3Yzud7wFaVyFbdeL2n7tx8Ydvz53Xns2hyL70wJzy7_ZCfDm4hY_JQY2G20pxtJf8JQ&oh=00_AQMjzBL63cGkfSg2UPDY2CALFelvBGQvbBlHJhssZEdDQw&oe=6ACF6E6D"
+    "picture": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/787903758_18124679617780392_3585522233816659706_n.jpg?_nc_cat=105&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=8znVzRP5FcEQ7kNvwElEcFf&_nc_oc=AdqB6DWOsQOCbpWF1sZn3pJ9uhle6Bhf0ATKgWTFepK4hKwzU-OamhKp7NPnyoCq2RM&_nc_zt=24&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=mn6DKTFBE-_PxWLVNtdqyQ&_nc_tpa=Q5bMBQLzz3-4Q2JnJHRvfxhdLvYvOCu0R_i-4yaZEnNgwZPT5AegRfoEv9Z1o2eFDOuvlRFv2U8HOVuxoQ&oh=00_AQNYRDSII7LqPPy8DjwzAaPuX0Sj7mjxiqiBwN_tQGkHcA&oe=6ACFDEED"
   },
   "summary": {
     "followers_count": 1,
@@ -15,27 +15,12 @@
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 225,
+    "engagement_total": 5,
     "engagement_rate": 0,
     "curiosity_score": null,
-    "post_count": 12
+    "post_count": 10
   },
   "top_posts": [
-    {
-      "id": "17868837126647750",
-      "text": "Australian coffee is strange — order a small and somehow it arrives full to the brim, mostly water.\n\nNot about caffeine.",
-      "permalink": "https://www.threads.com/@rrpetch/post/DdiSWIXk8I4",
-      "timestamp": "2026-09-21T04:19:37+0000",
-      "metrics": {
-        "views": 22975,
-        "likes": 25,
-        "replies": 193,
-        "reposts": 1,
-        "quotes": 1,
-        "shares": 1
-      },
-      "engagement": 220
-    },
     {
       "id": "18085641833298013",
       "text": "Japan is familiar to me — familiar enough that I started noticing the gaps.\n\nNo real beach culture. Fruit that costs mor",
@@ -82,12 +67,27 @@
       "engagement": 1
     },
     {
-      "id": "18435480007177227",
-      "text": "If this saves you from wasting $7.50 on a bad morning:\n🔖 Save this before your next Carrara Markets run.\n💬 Drop your g",
-      "permalink": "https://www.threads.com/@rrpetch/post/DdpWUI-Dh-e",
-      "timestamp": "2026-09-23T22:08:58+0000",
+      "id": "18114950087088698",
+      "text": "What separates the elite from the bad at a Sunday market? Discipline over speed.\nThe best spots dialed in their process ",
+      "permalink": "https://www.threads.com/@rrpetch/post/DdpWFZeCe6U",
+      "timestamp": "2026-09-23T22:06:58+0000",
       "metrics": {
-        "views": 113,
+        "views": 30,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "18129954347503771",
+      "text": "Now for the villain. Premium branding, premium price ($7.50), and a barista preaching about \"light roasts.\"\nIt tasted li",
+      "permalink": "https://www.threads.com/@rrpetch/post/DdpV2p3knoz",
+      "timestamp": "2026-09-23T22:04:57+0000",
+      "metrics": {
+        "views": 74,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -98,21 +98,6 @@
     }
   ],
   "recent_posts": [
-    {
-      "id": "18435480007177227",
-      "text": "If this saves you from wasting $7.50 on a bad morning:\n🔖 Save this before your next Carrara Markets run.\n💬 Drop your g",
-      "permalink": "https://www.threads.com/@rrpetch/post/DdpWUI-Dh-e",
-      "timestamp": "2026-09-23T22:08:58+0000",
-      "metrics": {
-        "views": 113,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
     {
       "id": "18114950087088698",
       "text": "What separates the elite from the bad at a Sunday market? Discipline over speed.\nThe best spots dialed in their process ",
@@ -247,6 +232,21 @@
         "shares": 0
       },
       "engagement": 1
+    },
+    {
+      "id": "18090737858371082",
+      "text": "Queensland hits different by car — windows down, coastline the whole way, no itinerary needed.\n\nNot about the destinatio",
+      "permalink": "https://www.threads.com/@rrpetch/post/DdimViWE89k",
+      "timestamp": "2026-09-21T07:14:18+0000",
+      "metrics": {
+        "views": 582,
+        "likes": 2,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 2
     }
   ]
 }
