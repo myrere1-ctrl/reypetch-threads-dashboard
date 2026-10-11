@@ -1,32 +1,47 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-10-11T06:00:34.922Z",
+  "updated_at": "2026-10-11T13:05:54.440Z",
   "profile": {
     "username": "_iame.hijrah",
     "biography": "Hijrah Journey \nInbox ➡️Akses Safar AI",
-    "picture": "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=pUp1WJ8eYtcQ7kNvwE3n6Rk&_nc_oc=AdpFoR6CvK0NYtOpLcIkd6o0NMH7WM4_9Su1D0QHtm3gow9IPxPwHhydobA_ARBeS9w&_nc_zt=24&_nc_ht=scontent-ord5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=IS8DV8xOFWtjY683HluYVg&_nc_tpa=Q5bMBQLgLC3kYvuUxpfVvFy6HrQ5lDMR2zAQ7AzqWVf5fKRN_UMoDx0z2ztG5a_PVAFvUnLvISgdKKOSKg&oh=00_AQMY459yzMP5Ne0HGGtyLPYE6UA6g0lSzfF9G-NyO2L2UQ&oe=6AD0E713"
+    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=pUp1WJ8eYtcQ7kNvwHIoazM&_nc_oc=AdpJe3b0u-2TMdT0-v-ze3bXO4WVzkAWr1fnoCEyoJCnmX7pgqNtteymkdv6Je-mSNA&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=M9DRj3TOePaqPp-8Zfhl7Q&_nc_tpa=Q5bMBQLwc5vD0ec-44G603cf9k9zoFlr6CHbquh51OqcOfSPLGMzJf1B1KnWgMy5Q0d3W0HU1AvRSzM6DQ&oh=00_AQNatYHLvjif5RI-Z2UJ0EINA-jHoadDDwkwxKqHs7IbDA&oe=6AD15793"
   },
   "summary": {
     "followers_count": 9,
-    "views": 2,
-    "likes": 0,
-    "replies": 0,
+    "views": 582,
+    "likes": 14,
+    "replies": 1,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 37,
-    "engagement_rate": 1850,
+    "engagement_total": 49,
+    "engagement_rate": 8.42,
     "curiosity_score": null,
     "post_count": 25
   },
   "top_posts": [
+    {
+      "id": "18176737252451700",
+      "text": "Ada satu doa yang katanya bagus banget dibaca bareng pasangan — meminta agar hati kita dan pasangan kita disatukan dalam",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DeWZMcPgTHm",
+      "timestamp": "2026-10-11T09:59:58+0000",
+      "metrics": {
+        "views": 198,
+        "likes": 8,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 9
+    },
     {
       "id": "18129572633479012",
       "text": "Ibu aku selalu bilang, \"Kalau kamu bingung sama jalan Allah, bukan berarti Allah salah jalan.\"\nDulu aku sering rebut sam",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DePUIRNINj1",
       "timestamp": "2026-10-08T16:01:34+0000",
       "metrics": {
-        "views": 145,
+        "views": 147,
         "likes": 6,
         "replies": 0,
         "reposts": 3,
@@ -66,44 +81,134 @@
       "engagement": 5
     },
     {
-      "id": "18102570440644182",
-      "text": "Nenek aku selalu bisik kalimat ini tiap kali keliatan panik atau ngerasa semua di luar kendali: \"La hawla wala quwwata i",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DeRZ_8GFf_z",
-      "timestamp": "2026-10-09T11:31:20+0000",
+      "id": "18124466210294498",
+      "text": "Doa yang paling sering aku panjatkan buat rumah tangga aku tuh sederhana banget — minta dijadiin pasangan yang bikin sat",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DeWPYR-m1MA",
+      "timestamp": "2026-10-11T08:34:12+0000",
       "metrics": {
-        "views": 200,
-        "likes": 3,
+        "views": 82,
+        "likes": 4,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 3
-    },
-    {
-      "id": "18104812532638345",
-      "text": "Sholawat itu aku baru nyadar — ga perlu nunggu momen khusus buat bacanya.\nTadi pagi, nyuci piring, kepala rame sendiri. ",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DeRFZyhG93N",
-      "timestamp": "2026-10-09T08:31:22+0000",
-      "metrics": {
-        "views": 157,
-        "likes": 3,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 3
+      "engagement": 4
     }
   ],
   "recent_posts": [
+    {
+      "id": "18106011257199556",
+      "text": "Sebelum tidur, aku suka berdoa buat rumah tangga aku dengan cara yang paling jujur — nggak pakai kata-kata indah, cuma b",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DeWtOJOk_qz",
+      "timestamp": "2026-10-11T12:54:57+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 2,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 2
+    },
+    {
+      "id": "18197839948354174",
+      "text": "Malam ini aku mau curhat sedikit — aku pernah di titik ngerasa rumah tangga aku stuck. Nggak ada yang salah, tapi nggak ",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DeWgDvXCXyx",
+      "timestamp": "2026-10-11T10:59:56+0000",
+      "metrics": {
+        "views": 25,
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
+      "id": "18188377246415989",
+      "text": "Hal yang nggak aku ekspektasikan waktu nikah: betapa pentingnya doa bersama.\nBukan yang formal banget — kadang cuma habi",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DeWdxbtAv-N",
+      "timestamp": "2026-10-11T10:39:58+0000",
+      "metrics": {
+        "views": 124,
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
+      "id": "17870893869645993",
+      "text": "Unpopular opinion: rumah tangga yang kelihatan baik-baik aja dari luar, belum tentu hatinya tenang juga.\nYang bikin tena",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DeWcoHUknoV",
+      "timestamp": "2026-10-11T10:29:57+0000",
+      "metrics": {
+        "views": 65,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "18176737252451700",
+      "text": "Ada satu doa yang katanya bagus banget dibaca bareng pasangan — meminta agar hati kita dan pasangan kita disatukan dalam",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DeWZMcPgTHm",
+      "timestamp": "2026-10-11T09:59:58+0000",
+      "metrics": {
+        "views": 198,
+        "likes": 8,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 9
+    },
+    {
+      "id": "18074264690482348",
+      "text": "Jujur, ada malam-malam yang aku ngerasa jadi istri yang capek banget — bukan capek fisik, tapi capek hati.\nDan aku baru ",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DeWPdXDG3Rg",
+      "timestamp": "2026-10-11T08:34:53+0000",
+      "metrics": {
+        "views": 74,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "18124466210294498",
+      "text": "Doa yang paling sering aku panjatkan buat rumah tangga aku tuh sederhana banget — minta dijadiin pasangan yang bikin sat",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DeWPYR-m1MA",
+      "timestamp": "2026-10-11T08:34:12+0000",
+      "metrics": {
+        "views": 82,
+        "likes": 4,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 4
+    },
     {
       "id": "18112596356324224",
       "text": "Sedekah itu aku dulu sering nundanya — nunggu \"nanti kalau udah cukup\".\nTapi habis Subuh tadi, entah kenapa kepikiran: \"",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DeR46yEG19a",
       "timestamp": "2026-10-09T16:01:31+0000",
       "metrics": {
-        "views": 27,
+        "views": 29,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -118,7 +223,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DeRunvFG8mU",
       "timestamp": "2026-10-09T14:31:32+0000",
       "metrics": {
-        "views": 6,
+        "views": 8,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -133,114 +238,9 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DeRkU0Vlcia",
       "timestamp": "2026-10-09T13:01:34+0000",
       "metrics": {
-        "views": 0,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "18102570440644182",
-      "text": "Nenek aku selalu bisik kalimat ini tiap kali keliatan panik atau ngerasa semua di luar kendali: \"La hawla wala quwwata i",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DeRZ_8GFf_z",
-      "timestamp": "2026-10-09T11:31:20+0000",
-      "metrics": {
-        "views": 200,
-        "likes": 3,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 3
-    },
-    {
-      "id": "18104812532638345",
-      "text": "Sholawat itu aku baru nyadar — ga perlu nunggu momen khusus buat bacanya.\nTadi pagi, nyuci piring, kepala rame sendiri. ",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DeRFZyhG93N",
-      "timestamp": "2026-10-09T08:31:22+0000",
-      "metrics": {
-        "views": 157,
-        "likes": 3,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 3
-    },
-    {
-      "id": "18097106348407666",
-      "text": "Pernah ga, kamu baru mulai sholat tapi pikirannya udah kemana-mana duluan?\nAku nyadar itu sering kejadian pas alas shola",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DeQwzqwFKwi",
-      "timestamp": "2026-10-09T05:31:23+0000",
-      "metrics": {
-        "views": 0,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "18023861396866819",
-      "text": "Surat Yasin itu aku biasanya baca pas momen berat aja — padahal bukan \"surat darurat\".\nSekarang aku coba baca lebih ruti",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DeQR7T6lCB4",
-      "timestamp": "2026-10-09T01:01:33+0000",
-      "metrics": {
-        "views": 61,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18126882145873451",
-      "text": "Persiapan Umroh itu bukan cuma soal paspor dan koper — tapi hati siap belum?\nAku inget betapa pengennya nangis pas perta",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DeP9U6QFtT_",
-      "timestamp": "2026-10-08T22:01:33+0000",
-      "metrics": {
         "views": 2,
         "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18129572633479012",
-      "text": "Ibu aku selalu bilang, \"Kalau kamu bingung sama jalan Allah, bukan berarti Allah salah jalan.\"\nDulu aku sering rebut sam",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DePUIRNINj1",
-      "timestamp": "2026-10-08T16:01:34+0000",
-      "metrics": {
-        "views": 145,
-        "likes": 6,
-        "replies": 0,
-        "reposts": 3,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 9
-    },
-    {
-      "id": "17955106758037336",
-      "text": "Syukur itu aku baru beneran ngerti pas di depan Ka'bah — nangis ga karuan, ga tau mau bilang apa, cuma rasa \"alhamdulill",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DePJ02DoJXs",
-      "timestamp": "2026-10-08T14:31:32+0000",
-      "metrics": {
-        "views": 35,
-        "likes": 1,
-        "replies": 0,
+        "replies": 1,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
