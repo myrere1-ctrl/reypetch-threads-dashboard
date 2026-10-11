@@ -1,21 +1,21 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-10-11T18:10:33.822Z",
+  "updated_at": "2026-10-11T22:08:26.059Z",
   "profile": {
     "username": "_iame.hijrah",
     "biography": "Hijrah Journey \nInbox ➡️Akses Safar AI",
-    "picture": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=pUp1WJ8eYtcQ7kNvwH3TLBd&_nc_oc=AdrSCpX852SDO4DhRf7SEYYZIkmsK9O71hiKYY04IjhfVEXrmf0YnMYJJs-MgmpoHlI&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=rPtXRP2c4NbYNNF9xxP4Hg&_nc_tpa=Q5bMBQIeUatIFXIRzDtcCovoDLslsT8XIKTFkZ4QUjlJNr1JScB7mgo5_wH9JvUKTjNJvRzt36shiQTJqg&oh=00_AQMn034RjPzUjvRUlnkVTsTmzXbX6lQeiRiLhiaKTiZX1Q&oe=6AD18FD3"
+    "picture": "https://scontent-atl3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=pUp1WJ8eYtcQ7kNvwEP5jZL&_nc_oc=AdrjDi67ke3kljRsTUuaezEnCTmPzEJnjbvN4sO6Iz3JrnJ1hcbqOPK25JbW3kffdCg&_nc_zt=24&_nc_ht=scontent-atl3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=VAq0YMQzW-OHUObJlVJhPw&_nc_tpa=Q5bMBQLQ9cPTmD-9A12xkqimd2q5qLwWYK0gQfStbusaap99qlOiB8s_Y-_n_cE1KdWow7SsoqeilfTgyw&oh=00_AQM35Hhd1rwbrxay851PU43I3lVYFMRSanTAGDnTJynCSA&oe=6AD1C813"
   },
   "summary": {
     "followers_count": 9,
-    "views": 918,
-    "likes": 33,
+    "views": 970,
+    "likes": 38,
     "replies": 2,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 66,
-    "engagement_rate": 7.19,
+    "engagement_total": 74,
+    "engagement_rate": 7.63,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -26,14 +26,14 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DeWZMcPgTHm",
       "timestamp": "2026-10-11T09:59:58+0000",
       "metrics": {
-        "views": 337,
-        "likes": 23,
+        "views": 380,
+        "likes": 30,
         "replies": 2,
         "reposts": 0,
         "quotes": 0,
         "shares": 2
       },
-      "engagement": 25
+      "engagement": 32
     },
     {
       "id": "18129572633479012",
@@ -98,12 +98,27 @@
   ],
   "recent_posts": [
     {
+      "id": "18105057014357549",
+      "text": "Nenek aku selalu ngingetin: \"Yasin itu bukan cuma buat yang udah pergi, tapi buat yang masih hidup juga.\"\nWaktu itu aku ",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DeXrsyAj8IW",
+      "timestamp": "2026-10-11T22:01:28+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
       "id": "18106011257199556",
       "text": "Sebelum tidur, aku suka berdoa buat rumah tangga aku dengan cara yang paling jujur — nggak pakai kata-kata indah, cuma b",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DeWtOJOk_qz",
       "timestamp": "2026-10-11T12:54:57+0000",
       "metrics": {
-        "views": 184,
+        "views": 186,
         "likes": 3,
         "replies": 0,
         "reposts": 0,
@@ -133,7 +148,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DeWdxbtAv-N",
       "timestamp": "2026-10-11T10:39:58+0000",
       "metrics": {
-        "views": 127,
+        "views": 129,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -163,14 +178,14 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DeWZMcPgTHm",
       "timestamp": "2026-10-11T09:59:58+0000",
       "metrics": {
-        "views": 337,
-        "likes": 23,
+        "views": 380,
+        "likes": 30,
         "replies": 2,
         "reposts": 0,
         "quotes": 0,
         "shares": 2
       },
-      "engagement": 25
+      "engagement": 32
     },
     {
       "id": "18074264690482348",
@@ -231,21 +246,6 @@
         "shares": 0
       },
       "engagement": 0
-    },
-    {
-      "id": "18108550070590564",
-      "text": "Tasbih mahal tuh beneran beda rasanya — atau cuma sugesti?\nAku dulu skeptis. Tapi sejak pegang Tasbih Kokka, dzikir panj",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DeRkU0Vlcia",
-      "timestamp": "2026-10-09T13:01:34+0000",
-      "metrics": {
-        "views": 2,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
     }
   ]
 }
