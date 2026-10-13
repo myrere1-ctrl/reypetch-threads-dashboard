@@ -13,9 +13,10 @@ export const config = {
   // (algoritma manual dirasa lebih bagus di weekend).
   weekdaysOnly: true,
 
-  // Slot index (dari array `slots` di atas) yang jadi affiliate post — min 2/hari.
-  // Sisanya tetap konten doa/refleksi murni. Produk dari data/iamehijrah/products.json (Shopee).
-  affiliateSlots: [2, 5], // 12.30 & 20.00 WIB
+  // PAUSED 2026-10-13 — "individual empire" phase: pure doa/refleksi dulu, ga ada
+  // post jualan gear sama sekali buat sementara (durasi: evaluasi ~4-6 minggu).
+  // Nilai asli: [2, 5] // 12.30 & 20.00 WIB — buat resume, balikin value ini.
+  affiliateSlots: [],
 
   // Template balasan komen (link + blurb) — dipilih random, voice lembut & hangat.
   // {blurb}/{link}/{name} otomatis diganti.
@@ -64,6 +65,12 @@ export const config = {
     { name: 'syukur_daily', mention: 'none', instruction: 'Observasi kecil sehari-hari yang jadi bahan syukur (masih bisa bangun, masih bisa sujud). Relatable, ga lebay. Ujung: rasa syukur tulus. TANPA sebut produk.' },
     { name: 'muhasabah_night', mention: 'none', instruction: 'Refleksi malam / self-check yang lembut & jujur (bukan menghakimi). Ngajak berhenti sejenak. Cocok untuk slot malam. TANPA sebut produk.' },
     { name: 'list_amalan', mention: 'none', instruction: 'Format LIST bernomor pendek (3-4 poin) dengan judul HOOK curiosity — mis. "3 amalan yang bikin hati lebih tenang (yang ke-2 sering dilupain)" atau "4 kebiasaan kecil sebelum tidur yang aku syukurin sekarang". Tiap poin 1 baris singkat: sebut amalan/surah/dzikir CUKUP NAMA-nya + kesan personal singkat. Gaya yang gampang di-save/share. WAJIB tetap: tanpa teks Arab, tanpa nomor ayat, tanpa "HR.", tanpa janji materi/hasil pasti. Framing pengalaman/ketenangan.' },
+  ],
+
+  // PAUSED 2026-10-13 — "individual empire" phase: fokus bangun identity/trust dulu,
+  // Safar AI ga disebut sama sekali buat sementara (durasi: evaluasi ~4-6 minggu).
+  // Buat resume: pindahin 2 object ini balik ke `angles` di atas.
+  pausedAngles: [
     { name: 'subtle_safar_umroh', mention: 'subtle', instruction: 'Cerita personal soal persiapan Umroh / rindu Tanah Suci (2-3 baris) — ABAIKAN topik rotasi kalau bukan soal Umroh, fokus ke Umroh. Lalu 1 baris natural sebut Safar AI sebagai app yang kamu pakai buat nemenin ibadah DI TANAH SUCI (panduan ritual/arah kiblat/jadwal shalat). "ada di bio" boleh. JANGAN list fitur, JANGAN hard-sell. JANGAN gambarkan Safar AI sebagai app baca Quran/murottal harian.' },
     { name: 'subtle_safar_tanahsuci', mention: 'subtle', instruction: 'Cerita/bayangan personal soal momen ibadah di Tanah Suci (Masjidil Haram/Nabawi, thawaf, rindu ke sana) 2-3 baris — WAJIB konteks Umroh/Tanah Suci, ABAIKAN topik rotasi kalau bukan itu. Lalu 1 baris natural sebut Safar AI sebagai app yang nemenin di sana (panduan ritual/kiblat/jadwal shalat). JANGAN kaitkan Safar AI dengan baca Quran/surat harian di rumah.' },
   ],

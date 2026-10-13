@@ -86,6 +86,12 @@ export const config = {
     { name: 'introvert_survival', mention: 'none', instruction: "An introvert's perspective on traveling: coping tips, small wins. Do NOT mention products." },
     { name: 'food_dichotomy', mention: 'none', instruction: 'Contrast "sometimes fine dining, sometimes street food" in a specific destination. Do NOT mention products.' },
     { name: 'observation_quirky', mention: 'none', instruction: 'A quirky observation about a destination (local habits, odd little things). Make people nod along. Do NOT mention products.' },
+  ],
+
+  // PAUSED 2026-10-13 — "individual empire" phase: fokus bangun identity/trust dulu,
+  // ga ada CTA jualan sama sekali buat sementara (durasi: evaluasi ~4-6 minggu).
+  // Buat resume: pindahin 2 object ini balik ke `angles` di atas.
+  pausedAngles: [
     { name: 'subtle_mention_tips', mention: 'subtle', instruction: 'Personal story + one natural line at the end. If the destination is JAPAN → mention "Tomodachi AI"; EUROPE (Paris/Rome/Barcelona) → "ViaAI" ("I use [App]"). Then invite a DM for the link — vary the phrasing, e.g. "DM me if you want it, follow first and I\'ll send it over". Do NOT say "link in bio" (not live anymore) and do NOT write any URL. If AUSTRALIA (no app yet) → skip the app mention entirely, just end with a normal organic CTA. Do NOT list features.' },
     { name: 'subtle_mention_planning', mention: 'subtle', instruction: 'A planning story/travel tips + one CTA line at the end. Japan/Europe can mention the app by name (Tomodachi AI/ViaAI) once, then invite a DM for the link (follow first) — vary the exact sentence every time, never repeat the same line. Do NOT say "link in bio". Australia: no app, just a normal organic CTA. ONE line only, don\'t sell features.' },
   ],
