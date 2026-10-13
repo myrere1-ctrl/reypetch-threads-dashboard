@@ -1,48 +1,33 @@
 {
   "account": "iams",
-  "updated_at": "2026-10-13T09:33:18.090Z",
+  "updated_at": "2026-10-13T17:39:46.016Z",
   "profile": {
     "username": "iams_ichi",
     "name": "I.petch",
     "biography": "🇦🇺\nCMO at COA.AU &\nNo-Code App Builder\nOnly Positive Vibes\nIt’s about the vibe and the feeling. \nThe names of the places? 🤔",
-    "picture": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=hQhjy7yeePoQ7kNvwG1ngz5&_nc_oc=Ado7VGmeTYUbDdFTNFlv9alEazR0gnUm7Q_ljqGeHn9A7t_uy7W2mAjDV6IJAWnLhDE&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=vlkhfxLXLcWpNIzWWH7IeA&_nc_tpa=Q5bMBQLunVHZfQ0p5fEXvuWkpQnyOjL3FdLCBwXI4SmhzCjWCTx3SqpY4nDBns2ej2pWqD0yFj7KqZj1aQ&oh=00_AQN5ACmokazKSqDOhdc-PEwEhSuhMo6bwcZ0iQkc7rfw9g&oe=6AD3D0DE"
+    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=QyN6HEzzRN8Q7kNvwH7VfqR&_nc_oc=Adr3fvlH4opIL4bvTGG7-BQMEL3XyWM2xQABav9_8kF05SIeirjh-u6kjVo8qrx2JOI&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=D_TQsa5fhUis3qsONlKavw&_nc_tpa=Q5bMBQLDQ-KB0BbC4v5T5uFx_PyH71W3XUkfHYAFX6eHipd-lVq0t2mBv2H8KO__W-xe9jx75p6eNucM2Q&oh=00_AQNuczxtssJX9f_Z0NqFV0w38N8O9iwEUQB432NgBqY2TQ&oe=6AD4415E"
   },
   "summary": {
-    "followers_count": 1383,
-    "views": 42,
-    "likes": 0,
+    "followers_count": 1384,
+    "views": 323,
+    "likes": 9,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 179,
-    "engagement_rate": 426.19,
+    "engagement_total": 77,
+    "engagement_rate": 23.84,
     "curiosity_score": null,
     "post_count": 25
   },
   "top_posts": [
-    {
-      "id": "18210221215368747",
-      "text": "Rute Berburu Sunset Pesisir Pantai Terbaik di Sydney — View-nya Mahal, Modal Kartu Opal! \n\n1/ Kalau mau liat sunset di S",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DeT5qJRGiXo",
-      "timestamp": "2026-10-10T10:45:55+0000",
-      "metrics": {
-        "views": 5327,
-        "likes": 56,
-        "replies": 15,
-        "reposts": 14,
-        "quotes": 1,
-        "shares": 38
-      },
-      "engagement": 86
-    },
     {
       "id": "18205015225373086",
       "text": "On the Great Ocean Road, there are no honking horns, no rushing pedestrians — just cars pulling over every 10 minutes be",
       "permalink": "https://www.threads.com/@iams_ichi/post/DeY-GfdIPAv",
       "timestamp": "2026-10-12T10:01:29+0000",
       "metrics": {
-        "views": 762,
+        "views": 782,
         "likes": 27,
         "replies": 2,
         "reposts": 0,
@@ -52,27 +37,12 @@
       "engagement": 29
     },
     {
-      "id": "18000276864041459",
-      "text": "Unpopular opinion: Aussies don't actually eat vegemite every single morning — that's mostly a tourist joke they enjoy pl",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DeT4IF8Fjgl",
-      "timestamp": "2026-10-10T10:32:32+0000",
-      "metrics": {
-        "views": 965,
-        "likes": 3,
-        "replies": 22,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 25
-    },
-    {
       "id": "18134012143655731",
       "text": "Everyone said Melbourne's coffee scene is intimidating — too many rules, too much judgment.\nTurns out locals will happil",
       "permalink": "https://www.threads.com/@iams_ichi/post/DeX19sCGSHa",
       "timestamp": "2026-10-11T23:31:09+0000",
       "metrics": {
-        "views": 671,
+        "views": 680,
         "likes": 14,
         "replies": 8,
         "reposts": 0,
@@ -82,12 +52,27 @@
       "engagement": 22
     },
     {
+      "id": "18469584175191772",
+      "text": "I just realized France didn't make me feel romantic — it made me feel slow, in the best way.\nParis forced me to stop per",
+      "permalink": "https://www.threads.com/@iams_ichi/post/Debi4xZlVU1",
+      "timestamp": "2026-10-13T10:01:24+0000",
+      "metrics": {
+        "views": 172,
+        "likes": 9,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 9
+    },
+    {
       "id": "17872942407639063",
       "text": "Jangan simpan postingan ini, buat sendiri di ChatGPT. Belajar punya aset sendiri! Tulis Text langsung di ChatGPT.\n\nBuat ",
       "permalink": "https://www.threads.com/@iams_ichi/post/DeV-TMjjzRh",
       "timestamp": "2026-10-11T06:04:57+0000",
       "metrics": {
-        "views": 554,
+        "views": 557,
         "likes": 4,
         "replies": 3,
         "reposts": 0,
@@ -95,9 +80,84 @@
         "shares": 1
       },
       "engagement": 7
+    },
+    {
+      "id": "18017952152936078",
+      "text": "First rule of home sitting in Australia — always read what the owner actually needs, not just what they say they need.\n'",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DeUCIW-DU1R",
+      "timestamp": "2026-10-10T11:59:57+0000",
+      "metrics": {
+        "views": 214,
+        "likes": 3,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 3
     }
   ],
   "recent_posts": [
+    {
+      "id": "18114384521113870",
+      "text": "I just realized Sydney doesn't let you stay in your head for long.\nThe harbor pulls you out. The light forces you presen",
+      "permalink": "https://www.threads.com/@iams_ichi/post/Deb-Wr1jmFy",
+      "timestamp": "2026-10-13T14:01:25+0000",
+      "metrics": {
+        "views": 10,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
+      "id": "18131892859755428",
+      "text": "Dulu aku kira bahagia itu soal pencapaian besar. Ternyata yang ngubah mood-ku justru hal kecil: jalan kaki pagi tanpa HP",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DebppjPjL6M",
+      "timestamp": "2026-10-13T10:59:57+0000",
+      "metrics": {
+        "views": 3,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "18469584175191772",
+      "text": "I just realized France didn't make me feel romantic — it made me feel slow, in the best way.\nParis forced me to stop per",
+      "permalink": "https://www.threads.com/@iams_ichi/post/Debi4xZlVU1",
+      "timestamp": "2026-10-13T10:01:24+0000",
+      "metrics": {
+        "views": 172,
+        "likes": 9,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 9
+    },
+    {
+      "id": "18125090689686888",
+      "text": "Tadi sore di Coles, aku dengan pede bilang \"thanks mate!\" ke kasir, terus dia jawab \"sama-sama kak\" dalam bahasa Indones",
+      "permalink": "https://www.threads.com/@iams_ichi/post/Debg2emET3V",
+      "timestamp": "2026-10-13T09:43:04+0000",
+      "metrics": {
+        "views": 25,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
     {
       "id": "18130128331693863",
       "text": "Sesi kerja hari ini pindah ke kafe kecil dekat rumah(home sitteran) flat white di tangan dan playlist lo-fi on repeat. A",
@@ -119,7 +179,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dear8oMmzGY",
       "timestamp": "2026-10-13T02:01:20+0000",
       "metrics": {
-        "views": 176,
+        "views": 177,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -179,7 +239,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DeY-GfdIPAv",
       "timestamp": "2026-10-12T10:01:29+0000",
       "metrics": {
-        "views": 762,
+        "views": 782,
         "likes": 27,
         "replies": 2,
         "reposts": 0,
@@ -187,66 +247,6 @@
         "shares": 0
       },
       "engagement": 29
-    },
-    {
-      "id": "17904149379665777",
-      "text": "Everyone said navigating Tokyo alone is overwhelming — too many train lines, too many exits, too much to figure out.\nTur",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DeYwWZrlT2K",
-      "timestamp": "2026-10-12T08:01:27+0000",
-      "metrics": {
-        "views": 339,
-        "likes": 1,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "18073779050757899",
-      "text": "Florence taught me that both extremes hit differently.\nWhite tablecloth pasta one night, lampredotto from a street cart ",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DeYinyOGyhE",
-      "timestamp": "2026-10-12T06:01:22+0000",
-      "metrics": {
-        "views": 23,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18127249475482368",
-      "text": "Repacking mid-trip used to mean dumping everything out on a hostel bed and hoping for the best.\nBAGAIL packing cubes fix",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DeYU4fTEeyD",
-      "timestamp": "2026-10-12T04:01:20+0000",
-      "metrics": {
-        "views": 18,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "18100358408067850",
-      "text": "It's 7am in Hokkaido and the snow outside is doing absolutely nothing for my motivation to leave this warm corner.\nBut s",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DeYHJUomiJa",
-      "timestamp": "2026-10-12T02:01:16+0000",
-      "metrics": {
-        "views": 63,
-        "likes": 1,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
     }
   ]
 }
