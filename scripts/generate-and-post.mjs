@@ -17,7 +17,12 @@ function pickContent({ config, slot }) {
   const dayIndex = Math.floor(now.getTime() / 86400000);
 
   let product;
-  if (config.themeMode === 'weekly') {
+  if (config.slotThemes?.length === config.slots.length) {
+    // Fixed per-slot destination (index-aligned ke `slots`) — bukan rotasi,
+    // biar komposisi harian selalu persis sama tiap hari (dipakai iams sejak 2026-10-13).
+    const slug = config.slotThemes[slot];
+    product = config.products.find((p) => p.slug === slug) || config.products[0];
+  } else if (config.themeMode === 'weekly') {
     // 1 week per product, rotate
     const offset = config.weekOffset || 0;
     const weekIndex = (Math.floor(dayIndex / 7) + offset) % config.products.length;
@@ -105,11 +110,16 @@ async function main() {
   const dayIndex = Math.floor(now.getTime() / 86400000);
   const affiliateSlots = config.affiliateSlots || [];
   const isAffiliateSlot = affiliateSlots.includes(slot);
+  // affiliateReplyOnly: konten utama TETAP generatePost normal (story/angle biasa),
+  // cuma REPLY-nya yang affiliate. Dipakai iams buat slot Australia (ga ada app
+  // buat di-plug di situ, jadi reply-nya link gear Amazon aja). Default false =
+  // perilaku lama persis (dedicated gear-pitch post) — iamehijrah/rrpetch ga kepengaruh.
+  const affiliateReplyOnly = !!config.affiliateReplyOnly;
 
   let post = null;
   let item = null;
 
-  if (isAffiliateSlot) {
+  if (isAffiliateSlot && !affiliateReplyOnly) {
     const products = await loadProducts(account);
     if (products.length) {
       const positionInSlots = affiliateSlots.indexOf(slot);
@@ -127,6 +137,17 @@ async function main() {
     console.log(`Slot ${slot} (${config.slots[slot]} WIB) · account: ${account}`);
     console.log('Pick:', { product: product.slug, destination });
     post = await generatePost({ apiKey, config, product, destination, recentPosts });
+  }
+
+  // affiliateReplyOnly: pilih item buat reply SETELAH konten utama digenerate
+  // (item belum ke-set di atas karena cabang dedicated-affiliate-post di-skip).
+  if (isAffiliateSlot && !item) {
+    const products = await loadProducts(account);
+    if (products.length) {
+      const positionInSlots = affiliateSlots.indexOf(slot);
+      item = pickAffiliateItem({ products, dayIndex, positionInSlots });
+      console.log('Affiliate reply produk:', item.name);
+    }
   }
 
   console.log('---');

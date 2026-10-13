@@ -601,7 +601,7 @@ BALAS HANYA JSON VALID berisi ${count} post. Gunakan pipe | untuk jeda baris dal
 
   // Slot times per account (iams = 5 posts/day, rrpetch = 10 posts/day)
   const SLOTS_PER_ACCOUNT = {
-    iams: ['06.30','09.00','11.00','13.00','15.00','17.00','19.00','21.00'],
+    iams: ['09.00','13.00','17.00','21.00'],
     rrpetch: ['06.00','07.30','09.00','10.30','12.00','13.30','15.00','17.00','19.00','21.00'],
     iamehijrah: ['05.00','08.00','12.30','15.30','18.30','20.00','21.30','23.00'],
   };
@@ -1066,10 +1066,10 @@ BALAS HANYA JSON VALID berisi ${count} post. Gunakan pipe | untuk jeda baris dal
         { value:'real_time_reactive', label:'Real-time reactive (at X time in Y...)', mention:'none', instr:'A reactive post about a situation: "At X time in Y, I just realized...". Do NOT mention products.' },
         { value:'subtle_mention_tips', label:'+ Subtle mention (app at the end)', mention:'subtle', instr:'Personal story + ONE natural line at the end. Do NOT list features.' },
       ],
-      formatRules: '- 2-4 short lines, punchy\n- Casual, natural first-person voice\n- Emoji SPARING at the end (max 2), not mid-sentence\n- "bestie" is fine when natural\n- Total characters MAX 450',
-      avoid: '"So many people..." / "Did you know..." openers (cliché), BROCHURE STYLE (listing features), hard-sell, closed yes/no CTAs, absolute price claims without context, NAMING A SPECIFIC BUSINESS (a particular restaurant/cafe/shop — the AI can\'t verify it\'s still open; keep it generic like "a small bakery around there"; street/area/public landmark names are fine).',
-      examples: '"Unpopular opinion: I\'d rather slow-travel 3 countries than rush through 10 just for the photos and come home exhausted. Quality over quantity, bestie"\n"I used to think solo traveling to Europe was only for rich people. Turns out it\'s more about proper planning. And yes, an introvert like me can survive it too 😅"',
-      subtleMode: 'SUBTLE MENTION — ONE natural line at the end mentioning the app that matches the topic: Japan → "I use Tomodachi AI, link in bio". Europe (Paris/Rome/Barcelona) → "I use ViaAI, link in bio". If the topic is AUSTRALIA or anything else with no matching app, do NOT invent or name any app — say something like "tips/spots are in my bio" instead. Do NOT list features.',
+      formatRules: '- 2-4 short lines, punchy\n- Casual, natural first-person voice\n- Emoji SPARING at the end (max 2), not mid-sentence\n- "bestie" is fine when natural\n- Total characters MAX 450\n- VARY opening & structure every post — don\'t default to the same "X, turns out Y" reversal every time. Mix in mid-scene openers, flat statements, questions, short lists.',
+      avoid: '"So many people..." / "Did you know..." / "Everyone says X..." openers (cliché, overused), BROCHURE STYLE (listing features), hard-sell, closed yes/no CTAs, absolute price claims without context, NAMING A SPECIFIC BUSINESS (a particular restaurant/cafe/shop — the AI can\'t verify it\'s still open; keep it generic like "a small bakery around there"; street/area/public landmark names are fine), "link in bio" (not accurate anymore — use the DM-gate CTA instead).',
+      examples: '"Unpopular opinion: I\'d rather slow-travel 3 countries than rush through 10 just for the photos and come home exhausted. Quality over quantity, bestie"\n"Conference small talk for three days straight and then — finally — a solo dinner where nobody expects me to perform. Best part of the whole trip, not even close."\n"Three days into Rome and I haven\'t once felt that solo-travel panic people warn you about. Credit goes to planning the boring stuff beforehand. I use ViaAI for that — DM me if you want it, follow first and I\'ll send it over."',
+      subtleMode: 'SUBTLE MENTION — ONE natural line at the end mentioning the app that matches the topic: Japan → "I use Tomodachi AI". Europe (Paris/Rome/Barcelona) → "I use ViaAI". Then invite a DM for the link — vary the phrasing, e.g. "DM me if you want it, follow first and I\'ll send it over". Do NOT say "link in bio" (not live anymore) and do NOT write any URL. If the topic is AUSTRALIA or anything else with no matching app, skip the app mention entirely — just end with a normal organic CTA. Do NOT list features.',
       pureMode: 'PURE STORY — do NOT mention any app (Tomodachi AI / ViaAI). Zero pitching.',
       safety: '',
     },

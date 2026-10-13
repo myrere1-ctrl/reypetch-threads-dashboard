@@ -8,17 +8,25 @@ export const config = {
   // Posts are written in English (switched from Indonesian on 2026-09-28).
   language: 'en',
 
-  postsPerDay: 8,
-  // WIB times, harus consistent dengan catchup script. 8x/hari, sebar seharian.
-  slots: ['06.30', '09.00', '11.00', '13.00', '15.00', '17.00', '19.00', '21.00'],
+  postsPerDay: 4,
+  // WIB times, harus consistent dengan catchup script. 4x/hari sejak 2026-10-13
+  // (turun dari 8x — komposisi tetap: 1 Jepang, 1 Eropa, 2 Australia tiap hari).
+  slots: ['09.00', '13.00', '17.00', '21.00'],
 
   // Bot cuma jalan Senin-Jumat. Sabtu-Minggu user posting manual sendiri
   // (algoritma manual dirasa lebih bagus di weekend).
   weekdaysOnly: true,
 
-  // Slot index (dari array `slots` di atas) yang jadi affiliate post — min 2/hari.
-  // Sisanya tetap konten murni. Produk dari data/iams/products.json (Amazon).
-  affiliateSlots: [2, 6], // 11.00 & 19.00 WIB
+  // Index-aligned ke `slots` di atas — destinasi TETAP per slot (bukan rotasi acak lagi),
+  // biar komposisi harian selalu persis: 1 Jepang, 1 Eropa, 2 Australia.
+  slotThemes: ['tomodachi-ai', 'australia', 'via-ai', 'australia'],
+
+  // Slot index (dari `slots`) yang dapat REPLY affiliate Amazon — ini slot Australia.
+  // affiliateReplyOnly=true → konten utama TETAP cerita/story normal (bukan post
+  // rekomendasi produk), cuma reply-nya yang affiliate. Alasan: Australia belum
+  // punya app buat di-plug, jadi reply-nya diisi link gear Amazon aja.
+  affiliateSlots: [1, 3], // 13.00 & 21.00 WIB (keduanya slot Australia)
+  affiliateReplyOnly: true,
 
   // Comment-reply templates (link + blurb) — picked at random, iams_ichi casual voice.
   // {blurb}/{link}/{name} are substituted automatically.
@@ -78,18 +86,24 @@ export const config = {
     { name: 'introvert_survival', mention: 'none', instruction: "An introvert's perspective on traveling: coping tips, small wins. Do NOT mention products." },
     { name: 'food_dichotomy', mention: 'none', instruction: 'Contrast "sometimes fine dining, sometimes street food" in a specific destination. Do NOT mention products.' },
     { name: 'observation_quirky', mention: 'none', instruction: 'A quirky observation about a destination (local habits, odd little things). Make people nod along. Do NOT mention products.' },
-    { name: 'subtle_mention_tips', mention: 'subtle', instruction: 'Personal story + one natural line at the end. If the destination is JAPAN → mention "Tomodachi AI"; EUROPE (Paris/Rome/Barcelona) → "ViaAI" ("I use [App], link in bio"). If AUSTRALIA (no app yet) → just say "tips/spots are in my bio" WITHOUT naming an app. Do NOT list features.' },
-    { name: 'subtle_mention_planning', mention: 'subtle', instruction: "A planning story/travel tips + one CTA line at the end. Japan/Europe can mention the app (Tomodachi/ViaAI); Australia just say \"tips in bio\". ONE line only, don't sell features." },
+    { name: 'subtle_mention_tips', mention: 'subtle', instruction: 'Personal story + one natural line at the end. If the destination is JAPAN → mention "Tomodachi AI"; EUROPE (Paris/Rome/Barcelona) → "ViaAI" ("I use [App]"). Then invite a DM for the link — vary the phrasing, e.g. "DM me if you want it, follow first and I\'ll send it over". Do NOT say "link in bio" (not live anymore) and do NOT write any URL. If AUSTRALIA (no app yet) → skip the app mention entirely, just end with a normal organic CTA. Do NOT list features.' },
+    { name: 'subtle_mention_planning', mention: 'subtle', instruction: 'A planning story/travel tips + one CTA line at the end. Japan/Europe can mention the app by name (Tomodachi AI/ViaAI) once, then invite a DM for the link (follow first) — vary the exact sentence every time, never repeat the same line. Do NOT say "link in bio". Australia: no app, just a normal organic CTA. ONE line only, don\'t sell features.' },
   ],
 
-  // Referensi few-shot dari post organik user iams_ichi (contoh yang WORK di audience-nya), diadaptasi ke Inggris.
+  // Referensi few-shot — MIX struktur sengaja (bukan cuma formula "X, turns out Y")
+  // biar model ga jatuh ke 1 formula doang. Diupdate 2026-10-13: CTA app-mention
+  // sekarang DM-gate (follow dulu), bukan "link in bio" lagi.
   fewShotExamples: [
     { angle: 'personal_reveal', text: "I used to think solo traveling to Europe was only for rich people or the super brave. Turns out after trying it myself, it's really more about proper planning. And yes, an introvert like me can actually survive it too 😅" },
     { angle: 'myth_busting', text: "The idea that solo travel is lonely? Lies. You actually meet people way easier — random folks at hostels or cafes. Especially in Europe, tons of solo travelers looking for someone to chat with too" },
     { angle: 'unpopular_opinion', text: "Unpopular opinion: I'd rather slow-travel 3 countries than rush through 10 just for the photos and come home exhausted. Quality over quantity, bestie" },
     { angle: 'hidden_gem_tip', text: "The stuff that's not on any itinerary but hits the hardest: getting lost in Rome's tiny alleys, stumbling on a random bakery in Barcelona with insanely good bread, sitting alone by the Seine eating a croissant. Sometimes getting lost is the whole point" },
-    { angle: 'subtle_mention_tips', text: "So many people ask how I solo travel Paris Rome Barcelona without panicking. Honestly I was nervous too at first, but I've got a full guide that actually works 🙌 check it here: LINK" },
-    { angle: 'subtle_mention_planning', text: "If you're planning a solo trip to Europe this year, seriously start prepping now. I've got recommendations for solo traveling Paris Rome and Barcelona that are super helpful for beginners. Link in bio" },
+    { angle: 'introvert_survival', text: "Conference small talk for three days straight and then — finally — a solo dinner where nobody expects me to perform. Best part of the whole trip, not even close." },
+    { angle: 'observation_quirky', text: "Convenience store onigiri at 2am, a vending machine for literally everything, and a clerk who still bows when you leave. Tokyo at night runs on a different kind of politeness." },
+    { angle: 'real_time_reactive', text: "Sitting in a café in El Born right now watching the owner argue with a delivery guy about tomatoes for a solid five minutes. This is the Barcelona nobody puts in the guidebook." },
+    { angle: 'food_dichotomy', text: "Lunch was a €3 bocadillo eaten standing at the counter. Dinner was a tasting menu I'd saved up for all month. Both felt equally right." },
+    { angle: 'subtle_mention_tips', text: "Three days into Rome and I haven't once felt that solo-travel panic people warn you about. Credit goes to planning the boring stuff beforehand. I use ViaAI for that — DM me if you want it, follow first and I'll send it over." },
+    { angle: 'subtle_mention_planning', text: "Packing list done, neighborhoods picked, backup plan for the one day it rains — that's what 'spontaneous' solo travel actually looks like behind the scenes. I use Tomodachi AI to sort all this before I land. Follow + DM me and I'll send it your way." },
   ],
 
   ctaSamples: [
@@ -110,6 +124,7 @@ export const config = {
     'Emoji SPARING at the end, not mid-sentence (max 2 emoji per post)',
     '"bestie" is fine when it feels natural',
     'Reference travel/food/psychology — iams_ichi vibes',
+    'VARY your opening & structure every post — do NOT default to the same "X, turns out Y" reversal every time. Mix it up: sometimes open mid-scene/in-the-moment, sometimes a flat direct statement, sometimes a question, sometimes a short list. Check the RECENT POST HISTORY below and actively avoid repeating whatever structure shows up most.',
   ],
 
   antiPatterns: [
@@ -125,13 +140,16 @@ export const config = {
     'ABSOLUTE FACTUAL CLAIMS without context (expensive/cheap/near/far) — makes it obvious it\'s a bot if another post contradicts it. Always give specific context.',
     'CONTRADICTING a previous post about the same fact (see POST HISTORY in the prompt).',
     "NAMING A SPECIFIC BUSINESS (a particular restaurant/cafe/shop/hotel) — the AI can't verify it's still open/exists. If you need to mention a place to eat/drink, keep it generic (\"a small bakery around there\"). Street/area/public landmark names are fine (stable, unlike small businesses).",
+    '"Everyone says/said X..." as an opener — overused in recent posts, avoid defaulting to it.',
+    'Using "I used to think X, turns out Y" as the ONLY structure — fine occasionally, but don\'t make every single post follow this exact formula.',
+    '"link in bio" — not accurate anymore, the app isn\'t distributed from the website. Use the DM-gate CTA instead (see angle instructions).',
   ],
 
   brandInfo:
-    'iams_ichi = a travel persona covering 3 themes: JAPAN (Tomodachi AI app), EUROPE/Paris-Rome-Barcelona (ViaAI app), and AUSTRALIA (travel — no app yet, pure content + later Amazon affiliate gear). Only mention the app for Japan/Europe, framed as "I use [App]" / "check [App] in bio" — like a friend sharing their favorite tools, NOT pitching. For Australia: pure experience content (affiliate gear recommendations are handled separately). If it doesn\'t fit the topic, skip the app mention entirely (a pure story is more valuable). NOTE: Umroh/Safar AI is NO LONGER on this account — it moved to @_iame.hijrah.',
+    'iams_ichi = a travel persona covering 3 themes: JAPAN (Tomodachi AI app, 1 post/day), EUROPE/Paris-Rome-Barcelona (ViaAI app, 1 post/day), and AUSTRALIA (travel story content, 2 posts/day — no app, reply gets an Amazon affiliate gear link instead since there\'s nothing to DM). Only mention the app for Japan/Europe, framed as "I use [App]" — like a friend sharing their favorite tool, NOT pitching. CTA for app mentions is DM-gate ("DM me, follow first") — reypetch-ai.com no longer distributes these apps directly, so "link in bio" is no longer accurate; Rey sends the link manually via DM. NOTE: Umroh/Safar AI is NOT on this account — it\'s on @_iame.hijrah.',
 
   voiceSignature: `- Smart + relatable solo traveler perspective
-- Frequently uses contrast/reversal ("used to think X, turns out Y")
+- Contrast/reversal ("used to think X, turns out Y") is ONE tool in the kit, not the default — mix in mid-scene openers, flat statements, questions, short lists too
 - Personal vulnerability is fine (introvert, planning-focused)
 - End emoji: 😉 😅 🔥 🥂 🍜 (sparing)
 - "bestie" is fine as a signature call-out`,
