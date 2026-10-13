@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-10-13T17:39:46.016Z",
+  "updated_at": "2026-10-13T22:54:57.741Z",
   "profile": {
     "username": "iams_ichi",
     "name": "I.petch",
     "biography": "🇦🇺\nCMO at COA.AU &\nNo-Code App Builder\nOnly Positive Vibes\nIt’s about the vibe and the feeling. \nThe names of the places? 🤔",
-    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=QyN6HEzzRN8Q7kNvwH7VfqR&_nc_oc=Adr3fvlH4opIL4bvTGG7-BQMEL3XyWM2xQABav9_8kF05SIeirjh-u6kjVo8qrx2JOI&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=D_TQsa5fhUis3qsONlKavw&_nc_tpa=Q5bMBQLDQ-KB0BbC4v5T5uFx_PyH71W3XUkfHYAFX6eHipd-lVq0t2mBv2H8KO__W-xe9jx75p6eNucM2Q&oh=00_AQNuczxtssJX9f_Z0NqFV0w38N8O9iwEUQB432NgBqY2TQ&oe=6AD4415E"
+    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=QyN6HEzzRN8Q7kNvwECPtfA&_nc_oc=AdpPItJ3tkSy4PVpWrGiyH1G5Li49Jj0dsw-CBGFAOgeesVZiGjZ6h1LhYADWw-ufQ8&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=ibERF-9sV-xEfxf8zVKmNA&_nc_tpa=Q5bMBQIqlxq2QWkJzBTq6t9NzR7Nu1JjlFuIwoGWXCydhFyxtY0tLyDtsTllyrSq7qX3qU_TNViV_MfixQ&oh=00_AQOlKWLiqkckwEBdmRYIz3CRHoU8qU7-0fazvMEuPD5izQ&oe=6AD4799E"
   },
   "summary": {
     "followers_count": 1384,
-    "views": 323,
-    "likes": 9,
+    "views": 503,
+    "likes": 13,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 77,
-    "engagement_rate": 23.84,
+    "engagement_total": 81,
+    "engagement_rate": 16.1,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -42,7 +42,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DeX19sCGSHa",
       "timestamp": "2026-10-11T23:31:09+0000",
       "metrics": {
-        "views": 680,
+        "views": 682,
         "likes": 14,
         "replies": 8,
         "reposts": 0,
@@ -57,14 +57,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Debi4xZlVU1",
       "timestamp": "2026-10-13T10:01:24+0000",
       "metrics": {
-        "views": 172,
-        "likes": 9,
+        "views": 199,
+        "likes": 11,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 9
+      "engagement": 11
     },
     {
       "id": "17872942407639063",
@@ -99,12 +99,42 @@
   ],
   "recent_posts": [
     {
+      "id": "18127312945896627",
+      "text": "Would you stay in a stranger's house for a work trip if it meant free accommodation and a golden retriever? Yes",
+      "permalink": "https://www.threads.com/@iams_ichi/post/Decx3ogGtxM",
+      "timestamp": "2026-10-13T21:31:01+0000",
+      "metrics": {
+        "views": 28,
+        "likes": 2,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 2
+    },
+    {
+      "id": "18113087435157407",
+      "text": "My alarm goes off at 4am and every single morning I negotiate with myself like I'm in a hostage situation. Today I won. ",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DecncrYEi7-",
+      "timestamp": "2026-10-13T19:59:57+0000",
+      "metrics": {
+        "views": 108,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "18114384521113870",
       "text": "I just realized Sydney doesn't let you stay in your head for long.\nThe harbor pulls you out. The light forces you presen",
       "permalink": "https://www.threads.com/@iams_ichi/post/Deb-Wr1jmFy",
       "timestamp": "2026-10-13T14:01:25+0000",
       "metrics": {
-        "views": 10,
+        "views": 13,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -134,14 +164,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Debi4xZlVU1",
       "timestamp": "2026-10-13T10:01:24+0000",
       "metrics": {
-        "views": 172,
-        "likes": 9,
+        "views": 199,
+        "likes": 11,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 9
+      "engagement": 11
     },
     {
       "id": "18125090689686888",
@@ -217,36 +247,6 @@
         "shares": 0
       },
       "engagement": 0
-    },
-    {
-      "id": "17951233656320626",
-      "text": "Landed in a new country and immediately couldn't charge anything — classic.\nOne adaptor that works everywhere fixed that",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DeZL0wIkcCF",
-      "timestamp": "2026-10-12T12:01:24+0000",
-      "metrics": {
-        "views": 3,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "18205015225373086",
-      "text": "On the Great Ocean Road, there are no honking horns, no rushing pedestrians — just cars pulling over every 10 minutes be",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DeY-GfdIPAv",
-      "timestamp": "2026-10-12T10:01:29+0000",
-      "metrics": {
-        "views": 782,
-        "likes": 27,
-        "replies": 2,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 29
     }
   ]
 }
