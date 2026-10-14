@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-10-13T22:54:57.741Z",
+  "updated_at": "2026-10-14T01:59:04.721Z",
   "profile": {
     "username": "iams_ichi",
     "name": "I.petch",
     "biography": "🇦🇺\nCMO at COA.AU &\nNo-Code App Builder\nOnly Positive Vibes\nIt’s about the vibe and the feeling. \nThe names of the places? 🤔",
-    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=QyN6HEzzRN8Q7kNvwECPtfA&_nc_oc=AdpPItJ3tkSy4PVpWrGiyH1G5Li49Jj0dsw-CBGFAOgeesVZiGjZ6h1LhYADWw-ufQ8&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=ibERF-9sV-xEfxf8zVKmNA&_nc_tpa=Q5bMBQIqlxq2QWkJzBTq6t9NzR7Nu1JjlFuIwoGWXCydhFyxtY0tLyDtsTllyrSq7qX3qU_TNViV_MfixQ&oh=00_AQOlKWLiqkckwEBdmRYIz3CRHoU8qU7-0fazvMEuPD5izQ&oe=6AD4799E"
+    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=QyN6HEzzRN8Q7kNvwGQ9WWt&_nc_oc=AdpomUk4Php6SgudYsNZQIRfMsyzXULtqgZd7fYWv_1nEAa-z1glcrg5xP0FjXwxHpo&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=jG2CjY1one4L39Kh9N9ESA&_nc_tpa=Q5bMBQLZzmAHyNzluPZ3Nzk1hOthE4E9Y5VxI9iRfd1OQN71JKbkNWFee2P0gmMDyC9zTgzxFGAUVhaCzQ&oh=00_AQPq1vg3UNvQNEYOsfFaAkb7w3yiAu9d3zvdajUxvxqAdQ&oe=6AD4B1DE"
   },
   "summary": {
     "followers_count": 1384,
-    "views": 503,
+    "views": 547,
     "likes": 13,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 81,
-    "engagement_rate": 16.1,
+    "engagement_total": 79,
+    "engagement_rate": 14.44,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -57,14 +57,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Debi4xZlVU1",
       "timestamp": "2026-10-13T10:01:24+0000",
       "metrics": {
-        "views": 199,
-        "likes": 11,
+        "views": 205,
+        "likes": 12,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 11
+      "engagement": 12
     },
     {
       "id": "17872942407639063",
@@ -72,7 +72,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DeV-TMjjzRh",
       "timestamp": "2026-10-11T06:04:57+0000",
       "metrics": {
-        "views": 557,
+        "views": 558,
         "likes": 4,
         "replies": 3,
         "reposts": 0,
@@ -82,29 +82,44 @@
       "engagement": 7
     },
     {
-      "id": "18017952152936078",
-      "text": "First rule of home sitting in Australia — always read what the owner actually needs, not just what they say they need.\n'",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DeUCIW-DU1R",
-      "timestamp": "2026-10-10T11:59:57+0000",
+      "id": "18127312945896627",
+      "text": "Would you stay in a stranger's house for a work trip if it meant free accommodation and a golden retriever? Yes",
+      "permalink": "https://www.threads.com/@iams_ichi/post/Decx3ogGtxM",
+      "timestamp": "2026-10-13T21:31:01+0000",
       "metrics": {
-        "views": 214,
-        "likes": 3,
+        "views": 35,
+        "likes": 2,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 3
+      "engagement": 2
     }
   ],
   "recent_posts": [
+    {
+      "id": "18349299214266954",
+      "text": "Growing up half Indonesian,  and tinggal di Aussie means I'll eat sambal on my toast and see nothing wrong with it. My A",
+      "permalink": "https://www.threads.com/@iams_ichi/post/Dec8DaCAvcw",
+      "timestamp": "2026-10-13T23:00:00+0000",
+      "metrics": {
+        "views": 23,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
     {
       "id": "18127312945896627",
       "text": "Would you stay in a stranger's house for a work trip if it meant free accommodation and a golden retriever? Yes",
       "permalink": "https://www.threads.com/@iams_ichi/post/Decx3ogGtxM",
       "timestamp": "2026-10-13T21:31:01+0000",
       "metrics": {
-        "views": 28,
+        "views": 35,
         "likes": 2,
         "replies": 0,
         "reposts": 0,
@@ -164,14 +179,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Debi4xZlVU1",
       "timestamp": "2026-10-13T10:01:24+0000",
       "metrics": {
-        "views": 199,
-        "likes": 11,
+        "views": 205,
+        "likes": 12,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 11
+      "engagement": 12
     },
     {
       "id": "18125090689686888",
@@ -225,21 +240,6 @@
       "timestamp": "2026-10-12T23:31:12+0000",
       "metrics": {
         "views": 23,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18151821190555732",
-      "text": "Sakura season quirky truth: nobody actually watches the blossoms.\nEveryone is watching everyone else watch the blossoms.",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DeZZjkKG-M1",
-      "timestamp": "2026-10-12T14:01:23+0000",
-      "metrics": {
-        "views": 123,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
