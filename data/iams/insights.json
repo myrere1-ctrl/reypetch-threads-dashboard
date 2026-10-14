@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-10-14T07:47:02.569Z",
+  "updated_at": "2026-10-14T13:50:25.180Z",
   "profile": {
     "username": "iams_ichi",
     "name": "I.petch",
     "biography": "🇦🇺\nCMO at COA.AU &\nNo-Code App Builder\nOnly Positive Vibes\nIt’s about the vibe and the feeling. \nThe names of the places? 🤔",
-    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=QyN6HEzzRN8Q7kNvwElA6JB&_nc_oc=Adpvh3LDn7PYaFgDlihWPS3cD96OSjRUNRC3d9R6NFfpQY_jA4cJwhRzPK2BHnq-LEQ&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=Eb6qUh3zl9qCyiGYAM7xEg&_nc_tpa=Q5bMBQIyIwHXZ8HiaalSUzWmJLlEQrCAD725ONKG6lty_R4PzpjQftiksoz66FWKACllw3Q0bMUW8TSQyA&oh=00_AQM7_ksPMVb303XXTIrcHnC8P7gGQk28IdMfSX3lB8kkZQ&oe=6AD4EA1E"
+    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=QyN6HEzzRN8Q7kNvwGLP7_m&_nc_oc=Adrvep1maGpxMzGgIUIq2N5iFr3rG3MQnk43vjaxMU89-xoczfTKKO55lNLJiuOF94Y&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=7NhyArNeeUQT384hiy_37A&_nc_tpa=Q5bMBQJIG_3e0reLi_aV9D1GueouuPBNCBLKi4W-xIF9B6iOl745G4CC1sVI6S_pnnHNra2k5eFVeliRsA&oh=00_AQMLEYGMYhEdSAE3hqNKrIThbST-0jWf-2lDFTSioNCDTA&oe=6AD55A9E"
   },
   "summary": {
     "followers_count": 1384,
-    "views": 167,
-    "likes": 0,
+    "views": 994,
+    "likes": 4,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 91,
-    "engagement_rate": 54.49,
+    "engagement_total": 95,
+    "engagement_rate": 9.56,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -42,7 +42,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DeX19sCGSHa",
       "timestamp": "2026-10-11T23:31:09+0000",
       "metrics": {
-        "views": 684,
+        "views": 685,
         "likes": 14,
         "replies": 8,
         "reposts": 0,
@@ -57,7 +57,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Debi4xZlVU1",
       "timestamp": "2026-10-13T10:01:24+0000",
       "metrics": {
-        "views": 227,
+        "views": 235,
         "likes": 13,
         "replies": 0,
         "reposts": 0,
@@ -72,7 +72,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DeV-TMjjzRh",
       "timestamp": "2026-10-11T06:04:57+0000",
       "metrics": {
-        "views": 560,
+        "views": 562,
         "likes": 4,
         "replies": 3,
         "reposts": 0,
@@ -87,7 +87,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dedsr0fDAy2",
       "timestamp": "2026-10-14T06:04:57+0000",
       "metrics": {
-        "views": 91,
+        "views": 248,
         "likes": 0,
         "replies": 5,
         "reposts": 0,
@@ -99,12 +99,42 @@
   ],
   "recent_posts": [
     {
+      "id": "18077597834726076",
+      "text": "Standing in a piazza in Rome at 2pm watching literally everyone just... stop.\nNo phones, no rushing. Just espresso and s",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DeeHq_8nPVJ",
+      "timestamp": "2026-10-14T10:01:19+0000",
+      "metrics": {
+        "views": 178,
+        "likes": 3,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 3
+    },
+    {
+      "id": "18145660303553182",
+      "text": "Small win today: I cooked a proper meal,  morning walk on the beach with Tully and replied to my messages before 8pm. Do",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DeeHlAfkXq_",
+      "timestamp": "2026-10-14T09:59:57+0000",
+      "metrics": {
+        "views": 213,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "18121588112005972",
       "text": "3 Perubahan Besar di Jepang Oktober 2026 \n\nKalau Kamu Tidak Tahu Ini, Liburanmu Bisa Berantakan \n\n1/ Jepang lagi cantik-",
       "permalink": "https://www.threads.com/@iams_ichi/post/Dedsr0fDAy2",
       "timestamp": "2026-10-14T06:04:57+0000",
       "metrics": {
-        "views": 91,
+        "views": 248,
         "likes": 0,
         "replies": 5,
         "reposts": 0,
@@ -119,14 +149,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DedsNdeG5yY",
       "timestamp": "2026-10-14T06:01:21+0000",
       "metrics": {
-        "views": 145,
-        "likes": 1,
+        "views": 262,
+        "likes": 2,
         "replies": 1,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 2
+      "engagement": 3
     },
     {
       "id": "18348342649264994",
@@ -134,7 +164,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DedQvHTGqaN",
       "timestamp": "2026-10-14T02:01:16+0000",
       "metrics": {
-        "views": 155,
+        "views": 159,
         "likes": 2,
         "replies": 0,
         "reposts": 0,
@@ -149,7 +179,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dec8DaCAvcw",
       "timestamp": "2026-10-13T23:00:00+0000",
       "metrics": {
-        "views": 28,
+        "views": 31,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -164,7 +194,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Decx3ogGtxM",
       "timestamp": "2026-10-13T21:31:01+0000",
       "metrics": {
-        "views": 38,
+        "views": 41,
         "likes": 2,
         "replies": 0,
         "reposts": 0,
@@ -179,7 +209,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DecncrYEi7-",
       "timestamp": "2026-10-13T19:59:57+0000",
       "metrics": {
-        "views": 110,
+        "views": 112,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -194,7 +224,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Deb-Wr1jmFy",
       "timestamp": "2026-10-13T14:01:25+0000",
       "metrics": {
-        "views": 21,
+        "views": 35,
         "likes": 2,
         "replies": 2,
         "reposts": 0,
@@ -209,37 +239,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DebppjPjL6M",
       "timestamp": "2026-10-13T10:59:57+0000",
       "metrics": {
-        "views": 3,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18469584175191772",
-      "text": "I just realized France didn't make me feel romantic — it made me feel slow, in the best way.\nParis forced me to stop per",
-      "permalink": "https://www.threads.com/@iams_ichi/post/Debi4xZlVU1",
-      "timestamp": "2026-10-13T10:01:24+0000",
-      "metrics": {
-        "views": 227,
-        "likes": 13,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 13
-    },
-    {
-      "id": "18125090689686888",
-      "text": "Tadi sore di Coles, aku dengan pede bilang \"thanks mate!\" ke kasir, terus dia jawab \"sama-sama kak\" dalam bahasa Indones",
-      "permalink": "https://www.threads.com/@iams_ichi/post/Debg2emET3V",
-      "timestamp": "2026-10-13T09:43:04+0000",
-      "metrics": {
-        "views": 25,
+        "views": 4,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
