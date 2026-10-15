@@ -1,21 +1,21 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-10-15T18:23:49.607Z",
+  "updated_at": "2026-10-15T22:27:39.211Z",
   "profile": {
     "username": "_iame.hijrah",
     "biography": "Hijrah Journey \nInbox ➡️Akses Safar AI",
-    "picture": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=zzfUhWBftboQ7kNvwGXHXvt&_nc_oc=AdrxJDEYSzKyJYbh8zMtAfVnR4jCA1kMoRyfZIw32eE6S5pbLrFgNmTEtilLzN2-SpI&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=fasDPaE9Zfcz60V_vFAM1g&_nc_tpa=Q5bMBQKY8b1px6IBoLuQBBR1pzoFzVZvI-lesGllzk8YFSRn4ACP_omohgFnqywMrqLn5Ckj41muQP-Xog&oh=00_AQNW9vqXbk9KER42wKRNhiHaDKIMt2-H96TlKPgDQA-Z5w&oe=6AD6D5D3"
+    "picture": "https://scontent-atl3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=zzfUhWBftboQ7kNvwHMLBAF&_nc_oc=Ado-rDEcVnaoJspSAZVN_vjDs0OomeDEWoZP9q7hWbRKySaK4VdHvqH9cZ3dQF4X190&_nc_zt=24&_nc_ht=scontent-atl3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=50Nh0RqLezyBOei3NYN_Sg&_nc_tpa=Q5bMBQJPViRB6-Wp6TPx8B_nAeTWs5jNY6OKoNH_7x0vAPIAVLpJLOW9JWymlZTRA3pCgZWkplip-SMkJw&oh=00_AQP2PKAQUWLVS1_jkU9xZhORPxY90pe5eVofsShjOobuXg&oe=6AD70E13"
   },
   "summary": {
     "followers_count": 8,
-    "views": 599,
+    "views": 616,
     "likes": 7,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 84,
-    "engagement_rate": 14.02,
+    "engagement_total": 85,
+    "engagement_rate": 13.8,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -98,12 +98,27 @@
   ],
   "recent_posts": [
     {
+      "id": "18426654565149070",
+      "text": "Udah berapa lama kita belum baca sholawat dengan beneran ngerasa?\nBukan cuma lisan, tapi hati ikut.\nAku nyadarnya malem ",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Deh-4Xrmb5K",
+      "timestamp": "2026-10-15T22:01:28+0000",
+      "metrics": {
+        "views": 11,
+        "likes": 2,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 2
+    },
+    {
       "id": "18129594262703342",
       "text": "Unpopular opinion: nunggu doa dikabulkan itu justru bagian yang Allah sengaja panjangkan — bukan karena Dia lupa, tapi k",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DehVtqClKmU",
       "timestamp": "2026-10-15T16:01:43+0000",
       "metrics": {
-        "views": 109,
+        "views": 111,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -118,7 +133,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DehLYU1laBi",
       "timestamp": "2026-10-15T14:31:26+0000",
       "metrics": {
-        "views": 232,
+        "views": 233,
         "likes": 2,
         "replies": 0,
         "reposts": 0,
@@ -178,7 +193,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DegNl97lMRI",
       "timestamp": "2026-10-15T05:31:32+0000",
       "metrics": {
-        "views": 138,
+        "views": 139,
         "likes": 6,
         "replies": 0,
         "reposts": 0,
@@ -231,21 +246,6 @@
         "shares": 0
       },
       "engagement": 7
-    },
-    {
-      "id": "18339155662276893",
-      "text": "Pernah ngerasa udah lama banget ga beneran \"ngobrol\" sama Allah?\nSholat jalan, tapi hati kayak kosong. Dzikir ada, tapi ",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Deeml0-lG4I",
-      "timestamp": "2026-10-14T14:31:29+0000",
-      "metrics": {
-        "views": 117,
-        "likes": 2,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 2
     }
   ]
 }
