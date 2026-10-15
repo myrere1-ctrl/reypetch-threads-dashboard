@@ -1,21 +1,21 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-10-15T07:34:11.829Z",
+  "updated_at": "2026-10-15T13:32:26.635Z",
   "profile": {
     "username": "_iame.hijrah",
     "biography": "Hijrah Journey \nInbox ➡️Akses Safar AI",
-    "picture": "https://scontent-dfw6-2.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=awRks_52Nz8Q7kNvwF_Mmqw&_nc_oc=AdqpT26Sd1D2M7VuQyTktn4WLeAqK1za-5awASwwvi0Azk-JOn5dv5cNcpeirT4h8Vc&_nc_zt=24&_nc_ht=scontent-dfw6-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=xGTjbY469t2S__ow4aUltA&_nc_tpa=Q5bMBQIcyvjv8NoR5AjZyIzTdDez8ycQUBhCgN7CJhAQ9VbnuzEx2ybT1_kMcBtuTIqR2mwsXmbB3pQCmg&oh=00_AQPG95LCigfGh9AG-_zorDgx_pJhPl701yY3_G5KutUPUg&oe=6AD66553"
+    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=awRks_52Nz8Q7kNvwG2UAXR&_nc_oc=AdrHPyQbm1IuiFUf_JFH3bNCCezRqhInChckyEc6gMULMwhUxq15EldEzvqIT9ZCbUM&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=89fE1mKyW-UgnBdY3t9WDw&_nc_tpa=Q5bMBQLOSxlGjsxpi2eoNrRC45DW1GLLRodOWIBmigZW8sIjRccwlzbWjX1o6m8bZauCIinyorssFCD2QA&oh=00_AQMIrCpmwfY-mW3YhEqo6n04g6VhZmpsa2Pyi06wddjpWg&oe=6AD69D93"
   },
   "summary": {
     "followers_count": 8,
-    "views": 3,
-    "likes": 0,
+    "views": 244,
+    "likes": 5,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 86,
-    "engagement_rate": 2866.67,
+    "engagement_total": 88,
+    "engagement_rate": 36.07,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -26,7 +26,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DeeR_xum-Dm",
       "timestamp": "2026-10-14T11:31:32+0000",
       "metrics": {
-        "views": 274,
+        "views": 277,
         "likes": 14,
         "replies": 0,
         "reposts": 1,
@@ -98,12 +98,57 @@
   ],
   "recent_posts": [
     {
+      "id": "17913184470540621",
+      "text": "Dulu aku mikir sholat 5 waktu itu soal \"asal kejar, asal jangan qadha\".\nTernyata yang bikin hari aku berantakan bukan so",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DehBGu0ILA_",
+      "timestamp": "2026-10-15T13:01:40+0000",
+      "metrics": {
+        "views": 40,
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
+      "id": "17961453059997133",
+      "text": "Lagi di titik yang rasanya semua ketutup — termasuk rezeki?\nAku pernah ngerasa kayak ada yang mandek. Udah usaha, tapi h",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Deg2xmvlnnP",
+      "timestamp": "2026-10-15T11:31:24+0000",
+      "metrics": {
+        "views": 49,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "18116941490471959",
+      "text": "Unpopular opinion: doa untuk orang tua itu paling gampang dilupain — justru karena kita ngerasa masih punya banyak waktu",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DegiL5SlmZN",
+      "timestamp": "2026-10-15T08:31:28+0000",
+      "metrics": {
+        "views": 143,
+        "likes": 4,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 4
+    },
+    {
       "id": "18480194002116554",
       "text": "Unpopular opinion: sabar itu bukan berarti diam nunggu — tapi aktif percaya sambil tetap jalan.\nDulu aku kira tawakal = ",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DegNl97lMRI",
       "timestamp": "2026-10-15T05:31:32+0000",
       "metrics": {
-        "views": 135,
+        "views": 138,
         "likes": 6,
         "replies": 0,
         "reposts": 0,
@@ -193,7 +238,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DeeR_xum-Dm",
       "timestamp": "2026-10-14T11:31:32+0000",
       "metrics": {
-        "views": 274,
+        "views": 277,
         "likes": 14,
         "replies": 0,
         "reposts": 1,
@@ -201,51 +246,6 @@
         "shares": 0
       },
       "engagement": 15
-    },
-    {
-      "id": "18132570337683379",
-      "text": "Nenek aku selalu bilang, syukur itu bukan nunggu keadaan bagus dulu baru bilang alhamdulillah.\nTapi justru diucap duluan",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Ded9YH_G9H3",
-      "timestamp": "2026-10-14T08:31:22+0000",
-      "metrics": {
-        "views": 37,
-        "likes": 1,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "18130735516765367",
-      "text": "Jarang yang tau — sepertiga malam itu bukan cuma soal bangun tidur. Ada satu doa yang aku biasain di sana: Doa Tahajjud.",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dedoxv4FjtT",
-      "timestamp": "2026-10-14T05:31:21+0000",
-      "metrics": {
-        "views": 174,
-        "likes": 8,
-        "replies": 0,
-        "reposts": 1,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 9
-    },
-    {
-      "id": "17940244482384363",
-      "text": "Dulu aku mikir dzikir pagi & petang itu optional — \"kalau sempet aja\".\nTernyata hari-hari yang aku skip itu terasa lebih",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DedJ5ZAGH7N",
-      "timestamp": "2026-10-14T01:01:31+0000",
-      "metrics": {
-        "views": 171,
-        "likes": 6,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 6
     }
   ]
 }
