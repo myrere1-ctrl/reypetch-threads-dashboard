@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-10-16T12:34:24.809Z",
+  "updated_at": "2026-10-16T17:30:57.377Z",
   "profile": {
     "username": "iams_ichi",
     "name": "I.petch",
     "biography": "🇦🇺\nCMO at COA.AU &\nNo-Code App Builder\nOnly Positive Vibes\nIt’s about the vibe and the feeling. \nThe names of the places? 🤔",
-    "picture": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=ELqvo9B6sioQ7kNvwGsPiqI&_nc_oc=Adr1Y5bCMS0j00KxZdBR2V0M7CwZFVEAjSXwKieWP0HML7oB3ex6CD7z96-Ysj3Kj2A&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=HraY92byOssF5EqFzJWo9A&_nc_tpa=Q5bMBQJquI16jqpmQ8O87kG3xvGSfqOSKOIeJVY7rkQfN1ZjtnncFc-mhanpUoGAl0IAyAs5qjsOjg0AEA&oh=00_AQOXRV9VGw2aoZfd4hsoJGwET50uX4CC8a9qKEYJu-CVyQ&oe=6AD7FD9E"
+    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=ELqvo9B6sioQ7kNvwG3CBV5&_nc_oc=AdqQ_z2Vehsvv6uZuYwy3D6patc6yZ4cL5Xnw6intyksWvsqL_G2-HmqkTucbkWdVXA&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=5uNTpJNkSOBIOzue0DqZHA&_nc_tpa=Q5bMBQIrjomCpU4lpE-CK8W6hawEN43j69uv2n2Nd7yYx1A5QavMBIjC6DBRF6iLoVhq6Q8DPyJZ7eR1bQ&oh=00_AQMAPU2BZ5Nndm3Fi7LFqIRFfWes-0M4aLh2HPRr0_RX7A&oe=6AD835DE"
   },
   "summary": {
     "followers_count": 1384,
-    "views": 617,
-    "likes": 4,
-    "replies": 3,
+    "views": 832,
+    "likes": 12,
+    "replies": 4,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 545,
-    "engagement_rate": 88.33,
+    "engagement_total": 556,
+    "engagement_rate": 66.83,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -27,7 +27,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DeejJqyDnjO",
       "timestamp": "2026-10-14T14:01:26+0000",
       "metrics": {
-        "views": 4937,
+        "views": 4952,
         "likes": 332,
         "replies": 84,
         "reposts": 2,
@@ -37,12 +37,27 @@
       "engagement": 418
     },
     {
+      "id": "18154626409529976",
+      "text": "Burleigh Heads over Surfers Paradise — every time.\nLess noise, fewer crowds, and a stretch of beach that actually lets y",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DehH9E8EbRM",
+      "timestamp": "2026-10-15T14:01:31+0000",
+      "metrics": {
+        "views": 1116,
+        "likes": 23,
+        "replies": 15,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 1
+      },
+      "engagement": 38
+    },
+    {
       "id": "18108731654207803",
       "text": "Spain taught me that disappearing mid-afternoon is not antisocial — it's just siesta.\nEveryone retreats. The whole count",
       "permalink": "https://www.threads.com/@iams_ichi/post/DegseT6lhg4",
       "timestamp": "2026-10-15T10:01:22+0000",
       "metrics": {
-        "views": 982,
+        "views": 986,
         "likes": 29,
         "replies": 8,
         "reposts": 1,
@@ -50,21 +65,6 @@
         "shares": 0
       },
       "engagement": 38
-    },
-    {
-      "id": "18154626409529976",
-      "text": "Burleigh Heads over Surfers Paradise — every time.\nLess noise, fewer crowds, and a stretch of beach that actually lets y",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DehH9E8EbRM",
-      "timestamp": "2026-10-15T14:01:31+0000",
-      "metrics": {
-        "views": 1049,
-        "likes": 21,
-        "replies": 15,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 1
-      },
-      "engagement": 36
     },
     {
       "id": "18469584175191772",
@@ -82,36 +82,51 @@
       "engagement": 13
     },
     {
-      "id": "18097342760649452",
-      "text": "Alasan Kenapa Melbourne Baru Aja Dinobatkan Jadi Kota Teramah di Dunia + Panduan Berburu Kopi Terbaiknya! 👇\n\n1/\nAda ala",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DegHQvyI5Jk",
-      "timestamp": "2026-10-15T04:35:40+0000",
+      "id": "17935851264402518",
+      "text": "I just realized Le Marais didn't feel like Paris to me — it felt like a neighborhood that forgot to perform.\nCobblestone",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DejRRbLkVkV",
+      "timestamp": "2026-10-16T10:01:25+0000",
       "metrics": {
-        "views": 434,
-        "likes": 0,
-        "replies": 6,
+        "views": 306,
+        "likes": 8,
+        "replies": 2,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 6
+      "engagement": 10
     }
   ],
   "recent_posts": [
+    {
+      "id": "18094451900671225",
+      "text": "I just realized the Great Ocean Road broke something open in me — not at the Twelve Apostles, but at a random pull-over ",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DejsvoYkRVX",
+      "timestamp": "2026-10-16T14:01:29+0000",
+      "metrics": {
+        "views": 35,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
     {
       "id": "17935851264402518",
       "text": "I just realized Le Marais didn't feel like Paris to me — it felt like a neighborhood that forgot to perform.\nCobblestone",
       "permalink": "https://www.threads.com/@iams_ichi/post/DejRRbLkVkV",
       "timestamp": "2026-10-16T10:01:25+0000",
       "metrics": {
-        "views": 237,
-        "likes": 2,
-        "replies": 0,
+        "views": 306,
+        "likes": 8,
+        "replies": 2,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 2
+      "engagement": 10
     },
     {
       "id": "18113601329036026",
@@ -119,7 +134,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dei1zQOltJa",
       "timestamp": "2026-10-16T06:01:21+0000",
       "metrics": {
-        "views": 13,
+        "views": 14,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -134,7 +149,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DeiaVVykSsZ",
       "timestamp": "2026-10-16T02:01:21+0000",
       "metrics": {
-        "views": 120,
+        "views": 121,
         "likes": 1,
         "replies": 1,
         "reposts": 0,
@@ -149,14 +164,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DehH9E8EbRM",
       "timestamp": "2026-10-15T14:01:31+0000",
       "metrics": {
-        "views": 1049,
-        "likes": 21,
+        "views": 1116,
+        "likes": 23,
         "replies": 15,
         "reposts": 0,
         "quotes": 0,
         "shares": 1
       },
-      "engagement": 36
+      "engagement": 38
     },
     {
       "id": "18108731654207803",
@@ -164,7 +179,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DegseT6lhg4",
       "timestamp": "2026-10-15T10:01:22+0000",
       "metrics": {
-        "views": 982,
+        "views": 986,
         "likes": 29,
         "replies": 8,
         "reposts": 1,
@@ -179,7 +194,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DegQ_-ckehP",
       "timestamp": "2026-10-15T06:01:18+0000",
       "metrics": {
-        "views": 239,
+        "views": 240,
         "likes": 2,
         "replies": 3,
         "reposts": 0,
@@ -224,7 +239,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DeejJqyDnjO",
       "timestamp": "2026-10-14T14:01:26+0000",
       "metrics": {
-        "views": 4937,
+        "views": 4952,
         "likes": 332,
         "replies": 84,
         "reposts": 2,
@@ -232,21 +247,6 @@
         "shares": 0
       },
       "engagement": 418
-    },
-    {
-      "id": "18077597834726076",
-      "text": "Standing in a piazza in Rome at 2pm watching literally everyone just... stop.\nNo phones, no rushing. Just espresso and s",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DeeHq_8nPVJ",
-      "timestamp": "2026-10-14T10:01:19+0000",
-      "metrics": {
-        "views": 216,
-        "likes": 3,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 3
     }
   ]
 }
