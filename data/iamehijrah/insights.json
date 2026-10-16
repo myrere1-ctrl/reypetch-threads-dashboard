@@ -1,21 +1,21 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-10-16T01:29:42.674Z",
+  "updated_at": "2026-10-16T07:19:54.915Z",
   "profile": {
     "username": "_iame.hijrah",
     "biography": "Hijrah Journey \nInbox ➡️Akses Safar AI",
-    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=zzfUhWBftboQ7kNvwEW87oe&_nc_oc=AdoJpWtX4UHNp_i9B_7HZQ1R3nwhj_rK9TSr_yMRhGzv1SZoH1La9KBYjrN9_WlLUrU&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=bie2FRjORm8mcl73eLTKWw&_nc_tpa=Q5bMBQLFyeipHU56DZIquZRDNGRhbsGhpvwHMIaRpvlzOPCi_TsIw0SOO7Z7_JAZ-XnUXS9QGmGuCtkL6Q&oh=00_AQPbS2A7amwfgdEDnxCww-vCCPd4Fx--1BJb2RfKMstV7g&oe=6AD74653"
+    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=zzfUhWBftboQ7kNvwHjm183&_nc_oc=AdovbK8UZNIK8KkNZMsZIoGTXLdaGkQFz8_FBcIeUKj63GFrfE_9icBFeQrn8Q92UwM&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=dIZvJbY4_d0G9C-uPwZQjg&_nc_tpa=Q5bMBQKSiAJq98s80196LJm8So_8R67iUkmcgQzSG1ZWXZY1wwBhu-0sgFKhfeHmmexXpRb9FMxYRk1QXA&oh=00_AQMKkuGz94Z4GvyDKcH8YGSy51ygjxu2TrasRU0PT33zKQ&oe=6AD7B6D3"
   },
   "summary": {
     "followers_count": 8,
-    "views": 739,
-    "likes": 13,
+    "views": 0,
+    "likes": 0,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 88,
-    "engagement_rate": 11.91,
+    "engagement_total": 85,
+    "engagement_rate": 0,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -98,12 +98,27 @@
   ],
   "recent_posts": [
     {
+      "id": "18032441552677313",
+      "text": "Jarang yang sadar — syukur itu bukan soal ngucap alhamdulillah pas senang. Tapi ngucapnya pas lagi berat, dan masih perc",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DeiyXitkWJv",
+      "timestamp": "2026-10-16T05:31:22+0000",
+      "metrics": {
+        "views": 77,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "18122599091515495",
       "text": "Ada satu waktu yang aku denger dari kecil tapi baru beneran aku coba pas udah kepepet banget.\nSepertiga malam terakhir —",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DeiTe_TiSfh",
       "timestamp": "2026-10-16T01:01:30+0000",
       "metrics": {
-        "views": 7,
+        "views": 41,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -148,7 +163,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DehLYU1laBi",
       "timestamp": "2026-10-15T14:31:26+0000",
       "metrics": {
-        "views": 236,
+        "views": 238,
         "likes": 2,
         "replies": 0,
         "reposts": 0,
@@ -193,7 +208,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DegiL5SlmZN",
       "timestamp": "2026-10-15T08:31:28+0000",
       "metrics": {
-        "views": 144,
+        "views": 145,
         "likes": 4,
         "replies": 0,
         "reposts": 0,
@@ -231,21 +246,6 @@
         "shares": 0
       },
       "engagement": 2
-    },
-    {
-      "id": "18358525498218948",
-      "text": "4 cara istighfar yang aku rasain beda banget efeknya — yang ke-3 sering aku skip padahal powerful:\n1. Istighfar pelan se",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DefaFvJEpX2",
-      "timestamp": "2026-10-14T22:01:30+0000",
-      "metrics": {
-        "views": 159,
-        "likes": 5,
-        "replies": 0,
-        "reposts": 2,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 7
     }
   ]
 }
