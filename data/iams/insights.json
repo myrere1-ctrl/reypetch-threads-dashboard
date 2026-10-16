@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-10-16T01:29:06.137Z",
+  "updated_at": "2026-10-16T07:19:17.533Z",
   "profile": {
     "username": "iams_ichi",
     "name": "I.petch",
     "biography": "🇦🇺\nCMO at COA.AU &\nNo-Code App Builder\nOnly Positive Vibes\nIt’s about the vibe and the feeling. \nThe names of the places? 🤔",
-    "picture": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=QyN6HEzzRN8Q7kNvwHsPm5x&_nc_oc=AdrSJJEMGOHBOaX6A9lXxqeMQWauksfY2FzvCjiy4U72JNIyvilCGnlvn2a1FlE09mA&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=5aEo_vF-MAH4zKd0l_yCNw&_nc_tpa=Q5bMBQKo2y4DSGetWrmlHQ2-2ZgHKVjLiwkwDh9PM2e2kHtNm7M5nM7jqHcZ1b2I8CxEGTFfQPJm3bxlZw&oh=00_AQP-Lk_EiGKT60T1sUZMdWvP7T8u3n9XDPSCDNEOSXiP-Q&oe=6AD754DE"
+    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=QyN6HEzzRN8Q7kNvwGBDiYf&_nc_oc=AdpfrWim4UFLviZUkf1wYPN5juavKXsKW32mKo1KaQZo7AhTeiPkypbO7nqPcrhFato&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=Jo6OI-yg0wAIQNUywk38kg&_nc_tpa=Q5bMBQL-kI3Y9EFuSCTcpvplvF4HVFNjnXkdKkvygKFcBH05JS0QinKbZWXwbLPxYsWdO8UP7MfdWZNLaA&oh=00_AQPRTvAv7OserBN_wifKtiMtnMepip6ykNk4KtzS1plmag&oe=6AD78D1E"
   },
   "summary": {
     "followers_count": 1385,
-    "views": 4064,
-    "likes": 145,
-    "replies": 35,
-    "reposts": 1,
+    "views": 7,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 548,
-    "engagement_rate": 13.48,
+    "engagement_total": 539,
+    "engagement_rate": 7700,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -27,14 +27,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DeejJqyDnjO",
       "timestamp": "2026-10-14T14:01:26+0000",
       "metrics": {
-        "views": 4884,
-        "likes": 330,
+        "views": 4904,
+        "likes": 332,
         "replies": 83,
         "reposts": 2,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 415
+      "engagement": 417
     },
     {
       "id": "18108731654207803",
@@ -42,29 +42,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DegseT6lhg4",
       "timestamp": "2026-10-15T10:01:22+0000",
       "metrics": {
-        "views": 833,
-        "likes": 24,
-        "replies": 5,
+        "views": 911,
+        "likes": 28,
+        "replies": 7,
         "reposts": 1,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 30
-    },
-    {
-      "id": "18205015225373086",
-      "text": "On the Great Ocean Road, there are no honking horns, no rushing pedestrians — just cars pulling over every 10 minutes be",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DeY-GfdIPAv",
-      "timestamp": "2026-10-12T10:01:29+0000",
-      "metrics": {
-        "views": 783,
-        "likes": 27,
-        "replies": 2,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 29
+      "engagement": 36
     },
     {
       "id": "18154626409529976",
@@ -72,14 +57,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DehH9E8EbRM",
       "timestamp": "2026-10-15T14:01:31+0000",
       "metrics": {
-        "views": 564,
-        "likes": 13,
-        "replies": 11,
+        "views": 832,
+        "likes": 20,
+        "replies": 14,
         "reposts": 0,
         "quotes": 0,
         "shares": 1
       },
-      "engagement": 24
+      "engagement": 34
     },
     {
       "id": "18469584175191772",
@@ -95,23 +80,68 @@
         "shares": 0
       },
       "engagement": 13
+    },
+    {
+      "id": "18097342760649452",
+      "text": "Alasan Kenapa Melbourne Baru Aja Dinobatkan Jadi Kota Teramah di Dunia + Panduan Berburu Kopi Terbaiknya! 👇\n\n1/\nAda ala",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DegHQvyI5Jk",
+      "timestamp": "2026-10-15T04:35:40+0000",
+      "metrics": {
+        "views": 433,
+        "likes": 0,
+        "replies": 6,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 6
     }
   ],
   "recent_posts": [
+    {
+      "id": "18113601329036026",
+      "text": "The Great Ocean Road doesn't hit hardest at the famous lookouts — it hits when you pull over nowhere specific, no sign, ",
+      "permalink": "https://www.threads.com/@iams_ichi/post/Dei1zQOltJa",
+      "timestamp": "2026-10-16T06:01:21+0000",
+      "metrics": {
+        "views": 12,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
+      "id": "18204529996375595",
+      "text": "Sinking into an onsen at 10pm, snow falling outside, nobody talking.\nThis is the loudest quiet I've ever felt. 😅\n\nHave ",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DeiaVVykSsZ",
+      "timestamp": "2026-10-16T02:01:21+0000",
+      "metrics": {
+        "views": 118,
+        "likes": 1,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 2
+    },
     {
       "id": "18154626409529976",
       "text": "Burleigh Heads over Surfers Paradise — every time.\nLess noise, fewer crowds, and a stretch of beach that actually lets y",
       "permalink": "https://www.threads.com/@iams_ichi/post/DehH9E8EbRM",
       "timestamp": "2026-10-15T14:01:31+0000",
       "metrics": {
-        "views": 564,
-        "likes": 13,
-        "replies": 11,
+        "views": 832,
+        "likes": 20,
+        "replies": 14,
         "reposts": 0,
         "quotes": 0,
         "shares": 1
       },
-      "engagement": 24
+      "engagement": 34
     },
     {
       "id": "18108731654207803",
@@ -119,14 +149,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DegseT6lhg4",
       "timestamp": "2026-10-15T10:01:22+0000",
       "metrics": {
-        "views": 833,
-        "likes": 24,
-        "replies": 5,
+        "views": 911,
+        "likes": 28,
+        "replies": 7,
         "reposts": 1,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 30
+      "engagement": 36
     },
     {
       "id": "18387445729238342",
@@ -134,7 +164,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DegQ_-ckehP",
       "timestamp": "2026-10-15T06:01:18+0000",
       "metrics": {
-        "views": 235,
+        "views": 238,
         "likes": 2,
         "replies": 3,
         "reposts": 0,
@@ -149,7 +179,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DegHQvyI5Jk",
       "timestamp": "2026-10-15T04:35:40+0000",
       "metrics": {
-        "views": 411,
+        "views": 433,
         "likes": 0,
         "replies": 6,
         "reposts": 0,
@@ -164,7 +194,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Def1iIBibCO",
       "timestamp": "2026-10-15T02:01:18+0000",
       "metrics": {
-        "views": 353,
+        "views": 355,
         "likes": 0,
         "replies": 2,
         "reposts": 0,
@@ -179,14 +209,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DeejJqyDnjO",
       "timestamp": "2026-10-14T14:01:26+0000",
       "metrics": {
-        "views": 4884,
-        "likes": 330,
+        "views": 4904,
+        "likes": 332,
         "replies": 83,
         "reposts": 2,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 415
+      "engagement": 417
     },
     {
       "id": "18077597834726076",
@@ -217,36 +247,6 @@
         "shares": 0
       },
       "engagement": 0
-    },
-    {
-      "id": "18121588112005972",
-      "text": "3 Perubahan Besar di Jepang Oktober 2026 \n\nKalau Kamu Tidak Tahu Ini, Liburanmu Bisa Berantakan \n\n1/ Jepang lagi cantik-",
-      "permalink": "https://www.threads.com/@iams_ichi/post/Dedsr0fDAy2",
-      "timestamp": "2026-10-14T06:04:57+0000",
-      "metrics": {
-        "views": 295,
-        "likes": 0,
-        "replies": 5,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 5
-    },
-    {
-      "id": "18113084738038457",
-      "text": "Tasmania has a reputation for being remote and hard to get around — and yeah, distances are real.\nBut slow is actually t",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DedsNdeG5yY",
-      "timestamp": "2026-10-14T06:01:21+0000",
-      "metrics": {
-        "views": 347,
-        "likes": 4,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 5
     }
   ]
 }
