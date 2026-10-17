@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-10-16T21:21:35.016Z",
+  "updated_at": "2026-10-17T00:35:11.333Z",
   "profile": {
     "username": "iams_ichi",
     "name": "I.petch",
     "biography": "🇦🇺\nCMO at COA.AU &\nNo-Code App Builder\nOnly Positive Vibes\nIt’s about the vibe and the feeling. \nThe names of the places? 🤔",
-    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=ELqvo9B6sioQ7kNvwHd4qXJ&_nc_oc=AdrZJkfTik_2LxahbPUQbV0MZsWo5CViwZOKqadQEJ9yTYLBFYmDihMl6qtvjw76MIA&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=PUAbdvyo-fvRtNwyqn4JCg&_nc_tpa=Q5bMBQLni7oO8f0gjCueqCFpuxzZiskk8xrwXYVSLH4tn7iga-5IO4ka6FE3SnCLl3qurSTtInWqdb_gig&oh=00_AQMkZJhknunOLD88Ogz3Dv-SCYbffcFoz4EBVeoz1-j9CQ&oe=6AD86E1E"
+    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=ELqvo9B6sioQ7kNvwEGAmx-&_nc_oc=Adqle5tB-ts1vpJC9YtvM3Wk1lqC9KsXF8j6fPWOwvw0c0oOVK4DL_dk8Y6y-TCJxxQ&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=ntzNFv4IOXLlA99iP5RDQA&_nc_tpa=Q5bMBQJ6fahUzVmvWh_jlxLJaEfZ_j8DeNzMaH4Uhtl4v_GGD1O5cDXdlYg13CI7JOuU2SDErA1y4vG71Q&oh=00_AQPYSt1GLg257Khc_2T93kB63N2e8VoqJrxUQ6jddZfxSA&oe=6AD8A65E"
   },
   "summary": {
     "followers_count": 1384,
-    "views": 1007,
-    "likes": 13,
-    "replies": 5,
+    "views": 1220,
+    "likes": 17,
+    "replies": 6,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 557,
-    "engagement_rate": 55.31,
+    "engagement_total": 563,
+    "engagement_rate": 46.15,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -27,14 +27,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DeejJqyDnjO",
       "timestamp": "2026-10-14T14:01:26+0000",
       "metrics": {
-        "views": 4964,
-        "likes": 332,
-        "replies": 84,
+        "views": 4971,
+        "likes": 334,
+        "replies": 85,
         "reposts": 2,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 418
+      "engagement": 421
     },
     {
       "id": "18154626409529976",
@@ -42,7 +42,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DehH9E8EbRM",
       "timestamp": "2026-10-15T14:01:31+0000",
       "metrics": {
-        "views": 1117,
+        "views": 1119,
         "likes": 23,
         "replies": 15,
         "reposts": 0,
@@ -67,6 +67,21 @@
       "engagement": 38
     },
     {
+      "id": "17935851264402518",
+      "text": "I just realized Le Marais didn't feel like Paris to me — it felt like a neighborhood that forgot to perform.\nCobblestone",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DejRRbLkVkV",
+      "timestamp": "2026-10-16T10:01:25+0000",
+      "metrics": {
+        "views": 475,
+        "likes": 11,
+        "replies": 2,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 13
+    },
+    {
       "id": "18469584175191772",
       "text": "I just realized France didn't make me feel romantic — it made me feel slow, in the best way.\nParis forced me to stop per",
       "permalink": "https://www.threads.com/@iams_ichi/post/Debi4xZlVU1",
@@ -80,21 +95,6 @@
         "shares": 0
       },
       "engagement": 13
-    },
-    {
-      "id": "17935851264402518",
-      "text": "I just realized Le Marais didn't feel like Paris to me — it felt like a neighborhood that forgot to perform.\nCobblestone",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DejRRbLkVkV",
-      "timestamp": "2026-10-16T10:01:25+0000",
-      "metrics": {
-        "views": 393,
-        "likes": 9,
-        "replies": 2,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 11
     }
   ],
   "recent_posts": [
@@ -104,7 +104,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DekbeubEwF-",
       "timestamp": "2026-10-16T20:49:18+0000",
       "metrics": {
-        "views": 46,
+        "views": 149,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -119,14 +119,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DejsvoYkRVX",
       "timestamp": "2026-10-16T14:01:29+0000",
       "metrics": {
-        "views": 43,
-        "likes": 0,
+        "views": 45,
+        "likes": 1,
         "replies": 1,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 1
+      "engagement": 2
     },
     {
       "id": "17935851264402518",
@@ -134,14 +134,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DejRRbLkVkV",
       "timestamp": "2026-10-16T10:01:25+0000",
       "metrics": {
-        "views": 393,
-        "likes": 9,
+        "views": 475,
+        "likes": 11,
         "replies": 2,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 11
+      "engagement": 13
     },
     {
       "id": "18113601329036026",
@@ -149,7 +149,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dei1zQOltJa",
       "timestamp": "2026-10-16T06:01:21+0000",
       "metrics": {
-        "views": 17,
+        "views": 18,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -179,7 +179,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DehH9E8EbRM",
       "timestamp": "2026-10-15T14:01:31+0000",
       "metrics": {
-        "views": 1117,
+        "views": 1119,
         "likes": 23,
         "replies": 15,
         "reposts": 0,
@@ -224,7 +224,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DegHQvyI5Jk",
       "timestamp": "2026-10-15T04:35:40+0000",
       "metrics": {
-        "views": 434,
+        "views": 435,
         "likes": 0,
         "replies": 6,
         "reposts": 0,
