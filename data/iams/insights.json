@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-10-17T05:40:52.903Z",
+  "updated_at": "2026-10-17T10:56:00.873Z",
   "profile": {
     "username": "iams_ichi",
     "name": "I.petch",
     "biography": "🇦🇺\nCMO at COA.AU &\nNo-Code App Builder\nOnly Positive Vibes\nIt’s about the vibe and the feeling. \nThe names of the places? 🤔",
-    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=ELqvo9B6sioQ7kNvwGJjAeZ&_nc_oc=AdqBQvMshkH1k8-L-kFAp-E-9lvzCrFYAkge6KxzOaBttg0WWT-FY9HLCaFlY5kqkPs&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=7ui50Ej9r_dFr0f5gXR3xA&_nc_tpa=Q5bMBQLAHfvIjHEHgMbeuAaqWhlLKbzh-gkPqAviQY50U4o_IN7s89NkmovdgDDLPyCbQ1fKTp2E60-MMg&oh=00_AQNDakERPmtHA5HQiCi1SDaBLAUyUJc0ag4KwNFOvsjrdA&oe=6AD8DE9E"
+    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=ELqvo9B6sioQ7kNvwHBjbkf&_nc_oc=AdqGV_mUaa72JI20_whPtnqde9vHaEhFPnF_noFAvBaR_mSVdFecXppV7QDqAvC_wqQ&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=HEgY8ga0ldTnpqsUQiSLuQ&_nc_tpa=Q5bMBQKMaiwfOLBkA8_AlX-uUCi_-3oQpjm_YYc7A3ga4o7YDF2EfGGzM4C65JH1YvU_ApCpXic_VyssPA&oh=00_AQO6hwCuYGobDEfsimmMgcn5O48pQxJx3GRmchjCGxVK5g&oe=6AD916DE"
   },
   "summary": {
     "followers_count": 1384,
-    "views": 1436,
-    "likes": 23,
-    "replies": 7,
+    "views": 751,
+    "likes": 7,
+    "replies": 4,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 569,
-    "engagement_rate": 39.62,
+    "engagement_total": 581,
+    "engagement_rate": 77.36,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -27,7 +27,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DeejJqyDnjO",
       "timestamp": "2026-10-14T14:01:26+0000",
       "metrics": {
-        "views": 4982,
+        "views": 4989,
         "likes": 334,
         "replies": 85,
         "reposts": 2,
@@ -42,7 +42,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DehH9E8EbRM",
       "timestamp": "2026-10-15T14:01:31+0000",
       "metrics": {
-        "views": 1124,
+        "views": 1126,
         "likes": 23,
         "replies": 15,
         "reposts": 0,
@@ -72,14 +72,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DejRRbLkVkV",
       "timestamp": "2026-10-16T10:01:25+0000",
       "metrics": {
-        "views": 583,
-        "likes": 13,
-        "replies": 2,
+        "views": 775,
+        "likes": 14,
+        "replies": 4,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 15
+      "engagement": 18
     },
     {
       "id": "18469584175191772",
@@ -99,12 +99,42 @@
   ],
   "recent_posts": [
     {
+      "id": "18107948023952212",
+      "text": "Nobody warns you that being an adult is mostly just staring into the fridge hoping dinner has magically appeared since t",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DeloOtnCdmY",
+      "timestamp": "2026-10-17T07:59:57+0000",
+      "metrics": {
+        "views": 317,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "18633520324055669",
+      "text": "Growing up half Indonesian, and tinggal di  Aussie means I'll eat sambal on my toast and see nothing wrong with it. My A",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DelgUtwo0gH",
+      "timestamp": "2026-10-17T06:50:52+0000",
+      "metrics": {
+        "views": 261,
+        "likes": 5,
+        "replies": 3,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 8
+    },
+    {
       "id": "18170527303485714",
       "text": "Unpopular opinion: Australians genuinely don't care about luxury flex — but they will spend real money on a good outdoor",
       "permalink": "https://www.threads.com/@iams_ichi/post/DekbeubEwF-",
       "timestamp": "2026-10-16T20:49:18+0000",
       "metrics": {
-        "views": 167,
+        "views": 184,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -119,14 +149,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DejsvoYkRVX",
       "timestamp": "2026-10-16T14:01:29+0000",
       "metrics": {
-        "views": 61,
-        "likes": 2,
+        "views": 83,
+        "likes": 4,
         "replies": 1,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 3
+      "engagement": 5
     },
     {
       "id": "17935851264402518",
@@ -134,14 +164,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DejRRbLkVkV",
       "timestamp": "2026-10-16T10:01:25+0000",
       "metrics": {
-        "views": 583,
-        "likes": 13,
-        "replies": 2,
+        "views": 775,
+        "likes": 14,
+        "replies": 4,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 15
+      "engagement": 18
     },
     {
       "id": "18113601329036026",
@@ -149,7 +179,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dei1zQOltJa",
       "timestamp": "2026-10-16T06:01:21+0000",
       "metrics": {
-        "views": 22,
+        "views": 26,
         "likes": 1,
         "replies": 2,
         "reposts": 0,
@@ -164,7 +194,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DeiaVVykSsZ",
       "timestamp": "2026-10-16T02:01:21+0000",
       "metrics": {
-        "views": 124,
+        "views": 127,
         "likes": 1,
         "replies": 1,
         "reposts": 0,
@@ -179,7 +209,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DehH9E8EbRM",
       "timestamp": "2026-10-15T14:01:31+0000",
       "metrics": {
-        "views": 1124,
+        "views": 1126,
         "likes": 23,
         "replies": 15,
         "reposts": 0,
@@ -217,36 +247,6 @@
         "shares": 0
       },
       "engagement": 5
-    },
-    {
-      "id": "18097342760649452",
-      "text": "Alasan Kenapa Melbourne Baru Aja Dinobatkan Jadi Kota Teramah di Dunia + Panduan Berburu Kopi Terbaiknya! 👇\n\n1/\nAda ala",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DegHQvyI5Jk",
-      "timestamp": "2026-10-15T04:35:40+0000",
-      "metrics": {
-        "views": 437,
-        "likes": 0,
-        "replies": 6,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 6
-    },
-    {
-      "id": "18014064845968293",
-      "text": "Japan street food has no judgment zone.\nEating alone, standing up, at a tiny stall — nobody looks at you weird.\nIt's act",
-      "permalink": "https://www.threads.com/@iams_ichi/post/Def1iIBibCO",
-      "timestamp": "2026-10-15T02:01:18+0000",
-      "metrics": {
-        "views": 357,
-        "likes": 0,
-        "replies": 2,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 2
     }
   ]
 }
