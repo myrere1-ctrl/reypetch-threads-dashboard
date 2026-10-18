@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-10-18T06:03:06.576Z",
+  "updated_at": "2026-10-18T11:22:06.398Z",
   "profile": {
     "username": "iams_ichi",
     "name": "I.petch",
     "biography": "🇦🇺\nCMO at COA.AU &\nNo-Code App Builder\nOnly Positive Vibes\nIt’s about the vibe and the feeling. \nThe names of the places? 🤔",
-    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=ELqvo9B6sioQ7kNvwH-tq5O&_nc_oc=AdquuJzeBsmdpDCLLMZ90xDBcwZQ2mOnse37jYV-DnpFLoR8qQMdt8frV3DcD9gy0RY&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=5hGjQKFafyXwkdO1VRdNxA&_nc_tpa=Q5bMBQJZeI7TJRHUIV0swKqkFcTINtjJ0WneHndTEWo3CDNV5JS-KqG_IfiQamHVfdK5m_c9QhuqdehjQQ&oh=00_AQMaYMa2Cp0ZiybtuZRbepNnAlG4e6oHwmYZhP8JvKCRzQ&oe=6ADA301E"
+    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=ELqvo9B6sioQ7kNvwGincLS&_nc_oc=Adr1OERbHi-6TbZKfj1_vxEHqBbtIdYILMw6t4SYEl5S-yuzmb683Ys30lrvsd-w1t8&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=Pa5R1aMXs78F6ENIaIWBvA&_nc_tpa=Q5bMBQJ0AWVl0hucfmA3Qe74StGt_kmt_Y5KGplBCwmd211_i6b8VjjaZRa_XhRnz8N3X3ICFcAeRSur2A&oh=00_AQPk32H9bKnTyBC9ZTlzf6trqARm2rnClPMYXy8SyccASg&oe=6ADA685E"
   },
   "summary": {
     "followers_count": 1385,
-    "views": 1623,
-    "likes": 21,
-    "replies": 6,
+    "views": 70,
+    "likes": 0,
+    "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 585,
-    "engagement_rate": 36.04,
+    "engagement_rate": 835.71,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -27,7 +27,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DeejJqyDnjO",
       "timestamp": "2026-10-14T14:01:26+0000",
       "metrics": {
-        "views": 5009,
+        "views": 5011,
         "likes": 334,
         "replies": 86,
         "reposts": 2,
@@ -57,7 +57,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DegseT6lhg4",
       "timestamp": "2026-10-15T10:01:22+0000",
       "metrics": {
-        "views": 1002,
+        "views": 1003,
         "likes": 29,
         "replies": 8,
         "reposts": 1,
@@ -72,7 +72,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DejRRbLkVkV",
       "timestamp": "2026-10-16T10:01:25+0000",
       "metrics": {
-        "views": 839,
+        "views": 843,
         "likes": 14,
         "replies": 4,
         "reposts": 0,
@@ -87,7 +87,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DelgUtwo0gH",
       "timestamp": "2026-10-17T06:50:52+0000",
       "metrics": {
-        "views": 447,
+        "views": 467,
         "likes": 13,
         "replies": 4,
         "reposts": 0,
@@ -99,12 +99,27 @@
   ],
   "recent_posts": [
     {
+      "id": "18177261004394037",
+      "text": "Grocery run turned into a 40 minute debate with myself about what to cook tonight 😂\n\nSome routines I build on purpose, ",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DeoTROuIwh6",
+      "timestamp": "2026-10-18T08:54:31+0000",
+      "metrics": {
+        "views": 19,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "18098776676639597",
       "text": "Australia introduce new 10-Year Multiple entry Visa which is designed for eligible citizens of 11 countries to visit for",
       "permalink": "https://www.threads.com/@iams_ichi/post/Denulpsm26L",
       "timestamp": "2026-10-18T03:34:00+0000",
       "metrics": {
-        "views": 373,
+        "views": 387,
         "likes": 3,
         "replies": 0,
         "reposts": 0,
@@ -134,7 +149,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DenONfygclK",
       "timestamp": "2026-10-17T22:51:05+0000",
       "metrics": {
-        "views": 15,
+        "views": 17,
         "likes": 0,
         "replies": 5,
         "reposts": 0,
@@ -179,7 +194,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DelgUtwo0gH",
       "timestamp": "2026-10-17T06:50:52+0000",
       "metrics": {
-        "views": 447,
+        "views": 467,
         "likes": 13,
         "replies": 4,
         "reposts": 0,
@@ -224,7 +239,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DejRRbLkVkV",
       "timestamp": "2026-10-16T10:01:25+0000",
       "metrics": {
-        "views": 839,
+        "views": 843,
         "likes": 14,
         "replies": 4,
         "reposts": 0,
@@ -232,21 +247,6 @@
         "shares": 0
       },
       "engagement": 18
-    },
-    {
-      "id": "18113601329036026",
-      "text": "The Great Ocean Road doesn't hit hardest at the famous lookouts — it hits when you pull over nowhere specific, no sign, ",
-      "permalink": "https://www.threads.com/@iams_ichi/post/Dei1zQOltJa",
-      "timestamp": "2026-10-16T06:01:21+0000",
-      "metrics": {
-        "views": 30,
-        "likes": 1,
-        "replies": 2,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 3
     }
   ]
 }
