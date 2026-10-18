@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-10-18T18:42:21.065Z",
+  "updated_at": "2026-10-18T21:34:45.226Z",
   "profile": {
     "username": "iams_ichi",
     "name": "I.petch",
     "biography": "🇦🇺\nCMO at COA.AU &\nNo-Code App Builder\nOnly Positive Vibes\nIt’s about the vibe and the feeling. \nThe names of the places? 🤔",
-    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=ELqvo9B6sioQ7kNvwHIm2HS&_nc_oc=Adp66-4LYRrHxhIG3gT35AnHfhoO9XLynejwnIAzmGpac9HpdBrsm7jmQXxKgKaJWCw&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=BQdsIxttj8K0Qzz3qFyEmA&_nc_tpa=Q5bMBQJe8K4ig4wxhvsnuYqDrsq1OA_a-Y8zp1U8txahPqI6xEwzVB55qe2rQY8My54-1VfforNP4h6uiQ&oh=00_AQOL7DIpoyiqf8FlemayQY-Iu5fYHq4qIT5vTdKj5lJ8sQ&oe=6ADAD8DE"
+    "picture": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=ELqvo9B6sioQ7kNvwE0JnLc&_nc_oc=Adp4v0KImnwdFgaJroHZKmTqim4PAqLSxV_w0G3wXzTc7o9WBGuj02UOuN1l_Ko-a5k&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=ZGX52StAb_iRtiZxOkz5_Q&_nc_tpa=Q5bMBQLkPBD1syBM97_oUXSPhtiV9V5LNsyMxyCKSoukNOAGksq8tPRrTi6EuGFo1yOgm6doGn3l9rLV-g&oh=00_AQP1r_3oAgO1kC_qZO-INSy83fLGJYIMDFeeQfK13yjGYA&oe=6ADB111E"
   },
   "summary": {
     "followers_count": 1385,
-    "views": 122,
+    "views": 272,
     "likes": 1,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 585,
-    "engagement_rate": 479.51,
+    "engagement_total": 583,
+    "engagement_rate": 214.34,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -72,7 +72,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DejRRbLkVkV",
       "timestamp": "2026-10-16T10:01:25+0000",
       "metrics": {
-        "views": 858,
+        "views": 860,
         "likes": 14,
         "replies": 4,
         "reposts": 0,
@@ -87,7 +87,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DelgUtwo0gH",
       "timestamp": "2026-10-17T06:50:52+0000",
       "metrics": {
-        "views": 468,
+        "views": 469,
         "likes": 13,
         "replies": 4,
         "reposts": 0,
@@ -98,6 +98,21 @@
     }
   ],
   "recent_posts": [
+    {
+      "id": "18097132496345227",
+      "text": "My morning routine is 40% coffee, 30% staring into space, and 30% convincing myself I have time for one more scroll befo",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DepYjqGkmv7",
+      "timestamp": "2026-10-18T18:59:58+0000",
+      "metrics": {
+        "views": 144,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
     {
       "id": "18177261004394037",
       "text": "Grocery run turned into a 40 minute debate with myself about what to cook tonight 😂\n\nSome routines I build on purpose, ",
@@ -119,7 +134,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Denulpsm26L",
       "timestamp": "2026-10-18T03:34:00+0000",
       "metrics": {
-        "views": 391,
+        "views": 394,
         "likes": 3,
         "replies": 0,
         "reposts": 0,
@@ -194,7 +209,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DelgUtwo0gH",
       "timestamp": "2026-10-17T06:50:52+0000",
       "metrics": {
-        "views": 468,
+        "views": 469,
         "likes": 13,
         "replies": 4,
         "reposts": 0,
@@ -232,21 +247,6 @@
         "shares": 0
       },
       "engagement": 7
-    },
-    {
-      "id": "17935851264402518",
-      "text": "I just realized Le Marais didn't feel like Paris to me — it felt like a neighborhood that forgot to perform.\nCobblestone",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DejRRbLkVkV",
-      "timestamp": "2026-10-16T10:01:25+0000",
-      "metrics": {
-        "views": 858,
-        "likes": 14,
-        "replies": 4,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 18
     }
   ]
 }
