@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-10-18T01:11:16.969Z",
+  "updated_at": "2026-10-18T06:03:06.576Z",
   "profile": {
     "username": "iams_ichi",
     "name": "I.petch",
     "biography": "🇦🇺\nCMO at COA.AU &\nNo-Code App Builder\nOnly Positive Vibes\nIt’s about the vibe and the feeling. \nThe names of the places? 🤔",
-    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=ELqvo9B6sioQ7kNvwExbl6a&_nc_oc=AdoXqFsmA0Ja9WJX1XuSL2igaQjIC6V67u-BU8DcIGNF7fMk8GuUwSO3lka1IHBItw8&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=zb2ZSB95I-RUraZKuAGG4w&_nc_tpa=Q5bMBQJqE7oYGzBcNmvITzrwnPRKqWbZgOGXlEgfQrdCBw0UAH5LzdObeqXrxtHI3xlnWeAx6BJ5hhGm-g&oh=00_AQOG9jxuZbnX1HQb_CtyzztulNnspuL91kJnnd76Qg9PqQ&oe=6AD9F7DE"
+    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=ELqvo9B6sioQ7kNvwH-tq5O&_nc_oc=AdquuJzeBsmdpDCLLMZ90xDBcwZQ2mOnse37jYV-DnpFLoR8qQMdt8frV3DcD9gy0RY&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=5hGjQKFafyXwkdO1VRdNxA&_nc_tpa=Q5bMBQJZeI7TJRHUIV0swKqkFcTINtjJ0WneHndTEWo3CDNV5JS-KqG_IfiQamHVfdK5m_c9QhuqdehjQQ&oh=00_AQMaYMa2Cp0ZiybtuZRbepNnAlG4e6oHwmYZhP8JvKCRzQ&oe=6ADA301E"
   },
   "summary": {
     "followers_count": 1385,
-    "views": 1168,
-    "likes": 17,
+    "views": 1623,
+    "likes": 21,
     "replies": 6,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 585,
-    "engagement_rate": 50.09,
+    "engagement_rate": 36.04,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -27,7 +27,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DeejJqyDnjO",
       "timestamp": "2026-10-14T14:01:26+0000",
       "metrics": {
-        "views": 5005,
+        "views": 5009,
         "likes": 334,
         "replies": 86,
         "reposts": 2,
@@ -72,7 +72,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DejRRbLkVkV",
       "timestamp": "2026-10-16T10:01:25+0000",
       "metrics": {
-        "views": 837,
+        "views": 839,
         "likes": 14,
         "replies": 4,
         "reposts": 0,
@@ -87,24 +87,39 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DelgUtwo0gH",
       "timestamp": "2026-10-17T06:50:52+0000",
       "metrics": {
-        "views": 397,
-        "likes": 12,
+        "views": 447,
+        "likes": 13,
         "replies": 4,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 16
+      "engagement": 17
     }
   ],
   "recent_posts": [
+    {
+      "id": "18098776676639597",
+      "text": "Australia introduce new 10-Year Multiple entry Visa which is designed for eligible citizens of 11 countries to visit for",
+      "permalink": "https://www.threads.com/@iams_ichi/post/Denulpsm26L",
+      "timestamp": "2026-10-18T03:34:00+0000",
+      "metrics": {
+        "views": 373,
+        "likes": 3,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 2
+      },
+      "engagement": 3
+    },
     {
       "id": "17990682803867508",
       "text": "Red Rock lagi hujan terus beberpa hari ini ...\n\nAnd We saw rainbow after jalan pagi di Big Beach belakang Reflection Red",
       "permalink": "https://www.threads.com/@iams_ichi/post/DenQD4jDzjI",
       "timestamp": "2026-10-17T23:09:24+0000",
       "metrics": {
-        "views": 10,
+        "views": 12,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -164,14 +179,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DelgUtwo0gH",
       "timestamp": "2026-10-17T06:50:52+0000",
       "metrics": {
-        "views": 397,
-        "likes": 12,
+        "views": 447,
+        "likes": 13,
         "replies": 4,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 16
+      "engagement": 17
     },
     {
       "id": "18170527303485714",
@@ -209,7 +224,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DejRRbLkVkV",
       "timestamp": "2026-10-16T10:01:25+0000",
       "metrics": {
-        "views": 837,
+        "views": 839,
         "likes": 14,
         "replies": 4,
         "reposts": 0,
@@ -232,21 +247,6 @@
         "shares": 0
       },
       "engagement": 3
-    },
-    {
-      "id": "18204529996375595",
-      "text": "Sinking into an onsen at 10pm, snow falling outside, nobody talking.\nThis is the loudest quiet I've ever felt. 😅\n\nHave ",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DeiaVVykSsZ",
-      "timestamp": "2026-10-16T02:01:21+0000",
-      "metrics": {
-        "views": 129,
-        "likes": 1,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 2
     }
   ]
 }
