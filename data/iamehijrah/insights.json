@@ -1,47 +1,32 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-10-19T10:55:25.594Z",
+  "updated_at": "2026-10-19T17:35:13.858Z",
   "profile": {
     "username": "_iame.hijrah",
     "biography": "Hijrah Journey \nInbox ➡️Akses Safar AI",
-    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=rCGkcqrO5I8Q7kNvwG0EugE&_nc_oc=Adp9FLMpb-TuSXfposJoHfNWWMk01fiqBF3epGCxCCptg8R_MpB6HnKQSRoKGr292kQ&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=cNXWWOOwhp2rDlvZglwVnA&_nc_tpa=Q5bMBQIotJFslgxW1lzq8T1phJLVLPkNDyldQy7-11bpcKH3oVB5grTgCVhyF_jWJjvNHOVJ7VXuI6IJkw&oh=00_AQNS0IMT48xVfMeDAgUeig7PKCnybvpt7mdlm0OXVjYKKA&oe=6ADBE393"
+    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=rCGkcqrO5I8Q7kNvwFWl8yi&_nc_oc=Adob0I0w-KlK671D-ihguaV1nON_NYNY9YXGioq-rg-HiaLh-tZWI0BXI1ya6y6McE4&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=3JZTUCZ_Q5CDjIHa3_fpMg&_nc_tpa=Q5bMBQLCQtLlTvYub2GHCJOTWhqaknzMg43zT7hQaVWqxGLrVeviHc1fJMMV-4dEHV2E8aE6Vz-ZHh1yNw&oh=00_AQNbWteFBduLZrmsGcAD_A8TDRbrdHbOHYbdP2cIL0sD0Q&oe=6ADC1BD3"
   },
   "summary": {
     "followers_count": 8,
-    "views": 164,
-    "likes": 4,
+    "views": 733,
+    "likes": 26,
     "replies": 0,
-    "reposts": 0,
+    "reposts": 2,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 87,
-    "engagement_rate": 53.05,
+    "engagement_total": 91,
+    "engagement_rate": 12.41,
     "curiosity_score": null,
     "post_count": 25
   },
   "top_posts": [
-    {
-      "id": "18354296128265094",
-      "text": "Nenek aku selalu bilang, husnudzon sama Allah itu bukan berarti naif — tapi milih percaya meski belum keliatan jalan kel",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DeeR_xum-Dm",
-      "timestamp": "2026-10-14T11:31:32+0000",
-      "metrics": {
-        "views": 278,
-        "likes": 14,
-        "replies": 0,
-        "reposts": 1,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 15
-    },
     {
       "id": "18026414162876005",
       "text": "Unpopular opinion: sholat Dhuha itu bukan soal rezekinya — tapi soal mood-nya.\nAku mulai Dhuha bukan ngejar materi. Tapi",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dejbka5HAca",
       "timestamp": "2026-10-16T11:31:22+0000",
       "metrics": {
-        "views": 206,
+        "views": 207,
         "likes": 11,
         "replies": 0,
         "reposts": 1,
@@ -49,6 +34,21 @@
         "shares": 0
       },
       "engagement": 12
+    },
+    {
+      "id": "18066645398527679",
+      "text": "Nenek aku selalu bilang, kalau pikiran udah ruwet banget — jangan tambah dipikirin, langsung wudhu.\nDulu aku anggap itu ",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DerJ9IOmz7B",
+      "timestamp": "2026-10-19T11:31:24+0000",
+      "metrics": {
+        "views": 113,
+        "likes": 7,
+        "replies": 0,
+        "reposts": 2,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 9
     },
     {
       "id": "18130547773723778",
@@ -98,19 +98,79 @@
   ],
   "recent_posts": [
     {
-      "id": "18113168944874637",
-      "text": "Pernah ngerasa sholat 5 waktu itu berat banget — bukan karena nggak mau, tapi karena cape dan ngerasa jauh?\nAku pernah d",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Deq1XUEm9ze",
-      "timestamp": "2026-10-19T08:31:28+0000",
+      "id": "18101456141555377",
+      "text": "Ibu aku pernah bilang, kalau kangen sama suatu tempat yang belum pernah kamu kunjungi — itu bukan kebetulan.\nBeliau bila",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dero4HBmh71",
+      "timestamp": "2026-10-19T16:01:35+0000",
       "metrics": {
-        "views": 162,
-        "likes": 4,
+        "views": 139,
+        "likes": 3,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 4
+      "engagement": 3
+    },
+    {
+      "id": "18070197257784527",
+      "text": "Ada satu hal soal takdir yang lama banget baru aku \"ngerti\" beneran.\nAku kira pasrah = nyerah. Ternyata pasrah itu justr",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DerekBylM2s",
+      "timestamp": "2026-10-19T14:31:28+0000",
+      "metrics": {
+        "views": 227,
+        "likes": 5,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 5
+    },
+    {
+      "id": "18104909429460518",
+      "text": "Nenek aku bilang, kalau doa belum dijawab — jangan berhenti, justru perbanyak sholawat di depannya.\nDulu aku bingung, ap",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DerUSKmG56O",
+      "timestamp": "2026-10-19T13:01:39+0000",
+      "metrics": {
+        "views": 82,
+        "likes": 6,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 6
+    },
+    {
+      "id": "18066645398527679",
+      "text": "Nenek aku selalu bilang, kalau pikiran udah ruwet banget — jangan tambah dipikirin, langsung wudhu.\nDulu aku anggap itu ",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DerJ9IOmz7B",
+      "timestamp": "2026-10-19T11:31:24+0000",
+      "metrics": {
+        "views": 113,
+        "likes": 7,
+        "replies": 0,
+        "reposts": 2,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 9
+    },
+    {
+      "id": "18113168944874637",
+      "text": "Pernah ngerasa sholat 5 waktu itu berat banget — bukan karena nggak mau, tapi karena cape dan ngerasa jauh?\nAku pernah d",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Deq1XUEm9ze",
+      "timestamp": "2026-10-19T08:31:28+0000",
+      "metrics": {
+        "views": 167,
+        "likes": 6,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 6
     },
     {
       "id": "17968170489195327",
@@ -186,66 +246,6 @@
         "shares": 0
       },
       "engagement": 1
-    },
-    {
-      "id": "17966802852199008",
-      "text": "Unpopular opinion: ngerasa jauh dari Allah itu bukan tanda kamu gagal hijrah — tapi tanda kamu masih peka.\nAku pernah ng",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dejl5UnkedM",
-      "timestamp": "2026-10-16T13:01:39+0000",
-      "metrics": {
-        "views": 161,
-        "likes": 3,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 3
-    },
-    {
-      "id": "18026414162876005",
-      "text": "Unpopular opinion: sholat Dhuha itu bukan soal rezekinya — tapi soal mood-nya.\nAku mulai Dhuha bukan ngejar materi. Tapi",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dejbka5HAca",
-      "timestamp": "2026-10-16T11:31:22+0000",
-      "metrics": {
-        "views": 206,
-        "likes": 11,
-        "replies": 0,
-        "reposts": 1,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 12
-    },
-    {
-      "id": "18020770040929493",
-      "text": "Habis Subuh itu, aku pernah ngerasa paling gampang husnudzon sama Allah.\nEntah kenapa — mungkin karena baru bangun, hati",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DejG9yOFcCu",
-      "timestamp": "2026-10-16T08:31:20+0000",
-      "metrics": {
-        "views": 179,
-        "likes": 1,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "18032441552677313",
-      "text": "Jarang yang sadar — syukur itu bukan soal ngucap alhamdulillah pas senang. Tapi ngucapnya pas lagi berat, dan masih perc",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DeiyXitkWJv",
-      "timestamp": "2026-10-16T05:31:22+0000",
-      "metrics": {
-        "views": 87,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
     }
   ]
 }
