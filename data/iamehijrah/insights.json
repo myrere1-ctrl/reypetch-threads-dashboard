@@ -1,21 +1,21 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-10-18T21:35:24.526Z",
+  "updated_at": "2026-10-19T00:15:47.254Z",
   "profile": {
     "username": "_iame.hijrah",
     "biography": "Hijrah Journey \nInbox ➡️Akses Safar AI",
-    "picture": "https://scontent-atl3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=rCGkcqrO5I8Q7kNvwGsCXOw&_nc_oc=AdpBAUM8zoxy1AjDakI8v46xoI4pEcuQsJBjhFZIdgBLgc7373jIcN2Ooy9ZR85iz98&_nc_zt=24&_nc_ht=scontent-atl3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=uLkGqhjvh-6718RyyEpnjg&_nc_tpa=Q5bMBQLKvYp_M8uaDk80--N9__eDBnQcfKty81tLhylgXnUCcMiILkVNEB1uYrbaO-QLtK5S8p7Ly8W9wg&oh=00_AQNOdUaZWaKpmxxp-xq72XoJNfTiA_UonuE_fLt8GnkW-w&oe=6ADB0293"
+    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=rCGkcqrO5I8Q7kNvwGUOowe&_nc_oc=AdpUiFQ3MxEo8mt4B9j2DPyYm6yj5DAJJ2kiqBiopxK95baJpfK0yZNP_6PbI8Tt-ZA&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=PaUaaPYyE416WdW95qmyXw&_nc_tpa=Q5bMBQJXAMaPDjZ0znM0_y0w2dM2mbATnXhPoPEj6Bw2JYQ0viju8GDg7VAS5RYIlNaXYLPauUgCFfamMA&oh=00_AQPZXFkN-KMpEofrOKJ8omtoRw1JF-STYQJyQjZ9ZKstRg&oe=6ADB3AD3"
   },
   "summary": {
     "followers_count": 8,
-    "views": 3,
-    "likes": 0,
+    "views": 308,
+    "likes": 7,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 89,
-    "engagement_rate": 2966.67,
+    "engagement_total": 95,
+    "engagement_rate": 30.84,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -66,6 +66,21 @@
       "engagement": 9
     },
     {
+      "id": "18130547773723778",
+      "text": "Ibu aku bilang, kalau ada hajat yang berat — bangun sepertiga malam, jangan langsung tidur lagi.\nDulu aku anggap itu sus",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DeptRlwGX1Q",
+      "timestamp": "2026-10-18T22:01:33+0000",
+      "metrics": {
+        "views": 301,
+        "likes": 7,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 7
+    },
+    {
       "id": "18358525498218948",
       "text": "4 cara istighfar yang aku rasain beda banget efeknya — yang ke-3 sering aku skip padahal powerful:\n1. Istighfar pelan se",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DefaFvJEpX2",
@@ -79,14 +94,16 @@
         "shares": 0
       },
       "engagement": 7
-    },
+    }
+  ],
+  "recent_posts": [
     {
-      "id": "17917216203467124",
-      "text": "3 hal yang bantu aku ngerti ikhlas — dan yang ke-2 itu yang paling sering aku skip:\n1. Doa Nabi Ibrahim — ngajarin aku m",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Deew6kqFOGF",
-      "timestamp": "2026-10-14T16:01:43+0000",
+      "id": "18130547773723778",
+      "text": "Ibu aku bilang, kalau ada hajat yang berat — bangun sepertiga malam, jangan langsung tidur lagi.\nDulu aku anggap itu sus",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DeptRlwGX1Q",
+      "timestamp": "2026-10-18T22:01:33+0000",
       "metrics": {
-        "views": 183,
+        "views": 301,
         "likes": 7,
         "replies": 0,
         "reposts": 0,
@@ -94,16 +111,14 @@
         "shares": 0
       },
       "engagement": 7
-    }
-  ],
-  "recent_posts": [
+    },
     {
       "id": "18128399662870669",
       "text": "Udah muhasabah belakangan ini, tapi kok makin ngerasa banyak yang kurang?\nAku juga. Dan biasanya di titik itu, aku malah",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dej6fnQGxIl",
       "timestamp": "2026-10-16T16:01:36+0000",
       "metrics": {
-        "views": 41,
+        "views": 42,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -118,7 +133,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DejwLrakSbA",
       "timestamp": "2026-10-16T14:31:31+0000",
       "metrics": {
-        "views": 150,
+        "views": 151,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -133,7 +148,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dejl5UnkedM",
       "timestamp": "2026-10-16T13:01:39+0000",
       "metrics": {
-        "views": 159,
+        "views": 160,
         "likes": 3,
         "replies": 0,
         "reposts": 0,
@@ -231,21 +246,6 @@
         "shares": 0
       },
       "engagement": 0
-    },
-    {
-      "id": "18132315286774808",
-      "text": "Lagi overthinking parah dan hati rasanya nggak bisa tenang sama sekali?\nAku pernah di titik itu — pikiran muter terus, d",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DehLYU1laBi",
-      "timestamp": "2026-10-15T14:31:26+0000",
-      "metrics": {
-        "views": 238,
-        "likes": 2,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 2
     }
   ]
 }
