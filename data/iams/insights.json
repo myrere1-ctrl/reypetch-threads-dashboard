@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-10-19T00:15:00.611Z",
+  "updated_at": "2026-10-19T04:53:28.896Z",
   "profile": {
     "username": "iams_ichi",
     "name": "I.petch",
     "biography": "🇦🇺\nCMO at COA.AU &\nNo-Code App Builder\nOnly Positive Vibes\nIt’s about the vibe and the feeling. \nThe names of the places? 🤔",
-    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=ELqvo9B6sioQ7kNvwEZNWtI&_nc_oc=Ado77DqTi3wj6HOGMODGK5rzvLTt2C0z7EsASA8WpIBq3yVx46EC5e2NlqXFjXf0G7U&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=5-Z_TepZDAnEjIFhcki1ZA&_nc_tpa=Q5bMBQJYe3dlsgEdZ8o778E8LoPSSY5wNV8PXf4xAaNNuqQq6on5If3oWuCSRevKwaLaY_eAA0TNsrwSuA&oh=00_AQPFRFDvdUCiDGoeih-pVO4iSDgEs6QWwE7l-VFbqBWZHg&oe=6ADB495E"
+    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=ELqvo9B6sioQ7kNvwGzqFk2&_nc_oc=AdqGLuypEPKKFGAg4rj_5x4_erOZBIIZyPaIsQ7sGstEY03duvFgilbjLzdrVosq668&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=neJC1DaAqm97iT13LxRSdA&_nc_tpa=Q5bMBQLt4Y-EIMMikveUoj8UyOZMCUESc2ZaITB2HBCVy3JadKLCCx5yXJYC6WHrZXG27GuPyEmHZ4pkjA&oh=00_AQPA3W84gNunRBKWO_FOwl71ml2Pl8tgwa1M2SVgD2mL2g&oe=6ADB819E"
   },
   "summary": {
     "followers_count": 1385,
-    "views": 290,
-    "likes": 1,
-    "replies": 0,
+    "views": 1981,
+    "likes": 34,
+    "replies": 8,
     "reposts": 0,
-    "quotes": 0,
+    "quotes": 1,
     "profile_views": null,
-    "engagement_total": 583,
-    "engagement_rate": 201.03,
+    "engagement_total": 624,
+    "engagement_rate": 31.5,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -35,6 +35,21 @@
         "shares": 0
       },
       "engagement": 422
+    },
+    {
+      "id": "18036129674853495",
+      "text": "Japan gave me the best introvert gift — socially acceptable silence.\nNobody fills the quiet here just to fill it. You're",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DeqItcdGqGA",
+      "timestamp": "2026-10-19T02:01:17+0000",
+      "metrics": {
+        "views": 1093,
+        "likes": 36,
+        "replies": 9,
+        "reposts": 0,
+        "quotes": 1,
+        "shares": 1
+      },
+      "engagement": 46
     },
     {
       "id": "18154626409529976",
@@ -72,7 +87,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DejRRbLkVkV",
       "timestamp": "2026-10-16T10:01:25+0000",
       "metrics": {
-        "views": 863,
+        "views": 864,
         "likes": 14,
         "replies": 4,
         "reposts": 0,
@@ -80,31 +95,61 @@
         "shares": 0
       },
       "engagement": 18
-    },
+    }
+  ],
+  "recent_posts": [
     {
-      "id": "18633520324055669",
-      "text": "Growing up half Indonesian, and tinggal di  Aussie means I'll eat sambal on my toast and see nothing wrong with it. My A",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DelgUtwo0gH",
-      "timestamp": "2026-10-17T06:50:52+0000",
+      "id": "18374067328215941",
+      "text": "iced coffee at 8am and again at 2pm is not a dependency it's a structured wellness routine and I will not be taking ques",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DeqPfPxgBPu",
+      "timestamp": "2026-10-19T02:59:58+0000",
       "metrics": {
-        "views": 470,
-        "likes": 13,
-        "replies": 4,
+        "views": 501,
+        "likes": 1,
+        "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 17
-    }
-  ],
-  "recent_posts": [
+      "engagement": 1
+    },
+    {
+      "id": "18036129674853495",
+      "text": "Japan gave me the best introvert gift — socially acceptable silence.\nNobody fills the quiet here just to fill it. You're",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DeqItcdGqGA",
+      "timestamp": "2026-10-19T02:01:17+0000",
+      "metrics": {
+        "views": 1093,
+        "likes": 36,
+        "replies": 9,
+        "reposts": 0,
+        "quotes": 1,
+        "shares": 1
+      },
+      "engagement": 46
+    },
+    {
+      "id": "18123164656986245",
+      "text": "genuine question — do you eat because you're hungry or because it's the time you normally eat? I've been paying attentio",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DeqBwWSgWpH",
+      "timestamp": "2026-10-19T00:59:58+0000",
+      "metrics": {
+        "views": 21,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
     {
       "id": "18097132496345227",
       "text": "My morning routine is 40% coffee, 30% staring into space, and 30% convincing myself I have time for one more scroll befo",
       "permalink": "https://www.threads.com/@iams_ichi/post/DepYjqGkmv7",
       "timestamp": "2026-10-18T18:59:58+0000",
       "metrics": {
-        "views": 144,
+        "views": 149,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -119,7 +164,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DeoTROuIwh6",
       "timestamp": "2026-10-18T08:54:31+0000",
       "metrics": {
-        "views": 19,
+        "views": 23,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -134,14 +179,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Denulpsm26L",
       "timestamp": "2026-10-18T03:34:00+0000",
       "metrics": {
-        "views": 396,
-        "likes": 3,
+        "views": 402,
+        "likes": 4,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 2
       },
-      "engagement": 3
+      "engagement": 4
     },
     {
       "id": "17990682803867508",
@@ -149,7 +194,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DenQD4jDzjI",
       "timestamp": "2026-10-17T23:09:24+0000",
       "metrics": {
-        "views": 13,
+        "views": 17,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -164,7 +209,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DenONfygclK",
       "timestamp": "2026-10-17T22:51:05+0000",
       "metrics": {
-        "views": 19,
+        "views": 21,
         "likes": 0,
         "replies": 5,
         "reposts": 0,
@@ -202,51 +247,6 @@
         "shares": 0
       },
       "engagement": 0
-    },
-    {
-      "id": "18633520324055669",
-      "text": "Growing up half Indonesian, and tinggal di  Aussie means I'll eat sambal on my toast and see nothing wrong with it. My A",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DelgUtwo0gH",
-      "timestamp": "2026-10-17T06:50:52+0000",
-      "metrics": {
-        "views": 470,
-        "likes": 13,
-        "replies": 4,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 17
-    },
-    {
-      "id": "18170527303485714",
-      "text": "Unpopular opinion: Australians genuinely don't care about luxury flex — but they will spend real money on a good outdoor",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DekbeubEwF-",
-      "timestamp": "2026-10-16T20:49:18+0000",
-      "metrics": {
-        "views": 201,
-        "likes": 1,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "18094451900671225",
-      "text": "I just realized the Great Ocean Road broke something open in me — not at the Twelve Apostles, but at a random pull-over ",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DejsvoYkRVX",
-      "timestamp": "2026-10-16T14:01:29+0000",
-      "metrics": {
-        "views": 103,
-        "likes": 6,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 7
     }
   ]
 }
