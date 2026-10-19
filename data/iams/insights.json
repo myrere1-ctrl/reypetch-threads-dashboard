@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-10-19T04:53:28.896Z",
+  "updated_at": "2026-10-19T10:54:42.635Z",
   "profile": {
     "username": "iams_ichi",
     "name": "I.petch",
     "biography": "🇦🇺\nCMO at COA.AU &\nNo-Code App Builder\nOnly Positive Vibes\nIt’s about the vibe and the feeling. \nThe names of the places? 🤔",
-    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=ELqvo9B6sioQ7kNvwGzqFk2&_nc_oc=AdqGLuypEPKKFGAg4rj_5x4_erOZBIIZyPaIsQ7sGstEY03duvFgilbjLzdrVosq668&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=neJC1DaAqm97iT13LxRSdA&_nc_tpa=Q5bMBQLt4Y-EIMMikveUoj8UyOZMCUESc2ZaITB2HBCVy3JadKLCCx5yXJYC6WHrZXG27GuPyEmHZ4pkjA&oh=00_AQPA3W84gNunRBKWO_FOwl71ml2Pl8tgwa1M2SVgD2mL2g&oe=6ADB819E"
+    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=ELqvo9B6sioQ7kNvwEC8WTs&_nc_oc=Ado_ribCnHd_xpkX0q_QzWyK9wvpKvpyJypMI3CkihITpD1FzhuBd4dtf2gHVcu9Lss&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=JBlXvDXuBTflE0wqmJvoKA&_nc_tpa=Q5bMBQLb6XGK5pDHkwFR2OTa8bduSfMPQXDgN9W3uyf2BAkUkEMQnELMgAMo2aZ1L7UUS62q0DNlSuOVjQ&oh=00_AQOhxQyvWLW_ROHa9Y6BfNxFQsvUd4_sfcocuNX5N8px3A&oe=6ADBB9DE"
   },
   "summary": {
-    "followers_count": 1385,
-    "views": 1981,
-    "likes": 34,
+    "followers_count": 1386,
+    "views": 1383,
+    "likes": 43,
     "replies": 8,
-    "reposts": 0,
-    "quotes": 1,
+    "reposts": 1,
+    "quotes": 0,
     "profile_views": null,
-    "engagement_total": 624,
-    "engagement_rate": 31.5,
+    "engagement_total": 707,
+    "engagement_rate": 51.12,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -27,7 +27,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DeejJqyDnjO",
       "timestamp": "2026-10-14T14:01:26+0000",
       "metrics": {
-        "views": 5015,
+        "views": 5022,
         "likes": 334,
         "replies": 86,
         "reposts": 2,
@@ -42,14 +42,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DeqItcdGqGA",
       "timestamp": "2026-10-19T02:01:17+0000",
       "metrics": {
-        "views": 1093,
-        "likes": 36,
-        "replies": 9,
-        "reposts": 0,
+        "views": 2203,
+        "likes": 103,
+        "replies": 20,
+        "reposts": 1,
         "quotes": 1,
         "shares": 1
       },
-      "engagement": 46
+      "engagement": 125
     },
     {
       "id": "18154626409529976",
@@ -87,7 +87,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DejRRbLkVkV",
       "timestamp": "2026-10-16T10:01:25+0000",
       "metrics": {
-        "views": 864,
+        "views": 865,
         "likes": 14,
         "replies": 4,
         "reposts": 0,
@@ -99,19 +99,49 @@
   ],
   "recent_posts": [
     {
+      "id": "18111704864464814",
+      "text": "On a train from Florence to Venice right now and a stranger just offered me half her focaccia without saying a word.\nEur",
+      "permalink": "https://www.threads.com/@iams_ichi/post/Deq_pM7luM3",
+      "timestamp": "2026-10-19T10:01:17+0000",
+      "metrics": {
+        "views": 418,
+        "likes": 3,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 4
+    },
+    {
+      "id": "18041702246639508",
+      "text": "Standing at Surfers Paradise beach at 7am and it's already loud.\nThe Gold Coast doesn't do quiet mornings — it skips str",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DeqkMDdjqS5",
+      "timestamp": "2026-10-19T06:01:22+0000",
+      "metrics": {
+        "views": 331,
+        "likes": 2,
+        "replies": 2,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 4
+    },
+    {
       "id": "18374067328215941",
       "text": "iced coffee at 8am and again at 2pm is not a dependency it's a structured wellness routine and I will not be taking ques",
       "permalink": "https://www.threads.com/@iams_ichi/post/DeqPfPxgBPu",
       "timestamp": "2026-10-19T02:59:58+0000",
       "metrics": {
-        "views": 501,
-        "likes": 1,
+        "views": 522,
+        "likes": 2,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 1
+      "engagement": 2
     },
     {
       "id": "18036129674853495",
@@ -119,14 +149,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DeqItcdGqGA",
       "timestamp": "2026-10-19T02:01:17+0000",
       "metrics": {
-        "views": 1093,
-        "likes": 36,
-        "replies": 9,
-        "reposts": 0,
+        "views": 2203,
+        "likes": 103,
+        "replies": 20,
+        "reposts": 1,
         "quotes": 1,
         "shares": 1
       },
-      "engagement": 46
+      "engagement": 125
     },
     {
       "id": "18123164656986245",
@@ -134,7 +164,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DeqBwWSgWpH",
       "timestamp": "2026-10-19T00:59:58+0000",
       "metrics": {
-        "views": 21,
+        "views": 25,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -149,7 +179,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DepYjqGkmv7",
       "timestamp": "2026-10-18T18:59:58+0000",
       "metrics": {
-        "views": 149,
+        "views": 155,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -164,7 +194,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DeoTROuIwh6",
       "timestamp": "2026-10-18T08:54:31+0000",
       "metrics": {
-        "views": 23,
+        "views": 25,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -179,7 +209,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Denulpsm26L",
       "timestamp": "2026-10-18T03:34:00+0000",
       "metrics": {
-        "views": 402,
+        "views": 405,
         "likes": 4,
         "replies": 0,
         "reposts": 0,
@@ -194,7 +224,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DenQD4jDzjI",
       "timestamp": "2026-10-17T23:09:24+0000",
       "metrics": {
-        "views": 17,
+        "views": 19,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -209,7 +239,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DenONfygclK",
       "timestamp": "2026-10-17T22:51:05+0000",
       "metrics": {
-        "views": 21,
+        "views": 23,
         "likes": 0,
         "replies": 5,
         "reposts": 0,
@@ -217,36 +247,6 @@
         "shares": 0
       },
       "engagement": 5
-    },
-    {
-      "id": "17952878553272071",
-      "text": "Sunday morning reset: long black, beach walk, phone left in the car. Honestly the only time my brain goes quiet enough t",
-      "permalink": "https://www.threads.com/@iams_ichi/post/Dem6oPMgUzM",
-      "timestamp": "2026-10-17T19:59:58+0000",
-      "metrics": {
-        "views": 33,
-        "likes": 1,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "18107948023952212",
-      "text": "Nobody warns you that being an adult is mostly just staring into the fridge hoping dinner has magically appeared since t",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DeloOtnCdmY",
-      "timestamp": "2026-10-17T07:59:57+0000",
-      "metrics": {
-        "views": 330,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
     }
   ]
 }
