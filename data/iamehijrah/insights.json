@@ -1,21 +1,21 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-10-19T00:15:47.254Z",
+  "updated_at": "2026-10-19T04:54:10.579Z",
   "profile": {
     "username": "_iame.hijrah",
     "biography": "Hijrah Journey \nInbox ➡️Akses Safar AI",
-    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=rCGkcqrO5I8Q7kNvwGUOowe&_nc_oc=AdpUiFQ3MxEo8mt4B9j2DPyYm6yj5DAJJ2kiqBiopxK95baJpfK0yZNP_6PbI8Tt-ZA&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=PaUaaPYyE416WdW95qmyXw&_nc_tpa=Q5bMBQJXAMaPDjZ0znM0_y0w2dM2mbATnXhPoPEj6Bw2JYQ0viju8GDg7VAS5RYIlNaXYLPauUgCFfamMA&oh=00_AQPZXFkN-KMpEofrOKJ8omtoRw1JF-STYQJyQjZ9ZKstRg&oe=6ADB3AD3"
+    "picture": "https://scontent-dfw6-2.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=rCGkcqrO5I8Q7kNvwEXFNCx&_nc_oc=AdpQXKvsdf5cbwFl9sc26RSM_8Q-wZxGWfv8m8HMYguqaLQsM57B76kxTR-9riunV6o&_nc_zt=24&_nc_ht=scontent-dfw6-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=Arys7glKeEX5a5mdJapjQw&_nc_tpa=Q5bMBQIVRs8E8Fj6luErvMk8mQCv2ivCjuvG1xIaFynCrocRtYN-YnujURPWZilOeOb_jxP12gFmzVp4cA&oh=00_AQPtZT8enl-3BJT5sVRjPkRA5-lWFNbBffTNhZ0iMA6FnQ&oe=6ADB7313"
   },
   "summary": {
     "followers_count": 8,
-    "views": 308,
-    "likes": 7,
+    "views": 446,
+    "likes": 9,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 95,
-    "engagement_rate": 30.84,
+    "engagement_total": 97,
+    "engagement_rate": 21.75,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -71,7 +71,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DeptRlwGX1Q",
       "timestamp": "2026-10-18T22:01:33+0000",
       "metrics": {
-        "views": 301,
+        "views": 307,
         "likes": 7,
         "replies": 0,
         "reposts": 0,
@@ -98,12 +98,27 @@
   ],
   "recent_posts": [
     {
+      "id": "18107658986193257",
+      "text": "Ada satu doa yang aku baru \"beneran ngerti\" artinya setelah dewasa — padahal udah hafal dari kecil.\nDoa untuk orang tua.",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DeqB3KLoFUz",
+      "timestamp": "2026-10-19T01:01:26+0000",
+      "metrics": {
+        "views": 132,
+        "likes": 2,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 2
+    },
+    {
       "id": "18130547773723778",
       "text": "Ibu aku bilang, kalau ada hajat yang berat — bangun sepertiga malam, jangan langsung tidur lagi.\nDulu aku anggap itu sus",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DeptRlwGX1Q",
       "timestamp": "2026-10-18T22:01:33+0000",
       "metrics": {
-        "views": 301,
+        "views": 307,
         "likes": 7,
         "replies": 0,
         "reposts": 0,
@@ -231,21 +246,6 @@
         "shares": 0
       },
       "engagement": 6
-    },
-    {
-      "id": "18129594262703342",
-      "text": "Unpopular opinion: nunggu doa dikabulkan itu justru bagian yang Allah sengaja panjangkan — bukan karena Dia lupa, tapi k",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DehVtqClKmU",
-      "timestamp": "2026-10-15T16:01:43+0000",
-      "metrics": {
-        "views": 111,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
     }
   ]
 }
