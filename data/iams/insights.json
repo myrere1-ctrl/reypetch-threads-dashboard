@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-10-20T07:43:57.561Z",
+  "updated_at": "2026-10-20T13:39:32.312Z",
   "profile": {
     "username": "iams_ichi",
     "name": "I.petch",
     "biography": "🇦🇺\nCMO at COA.AU &\nNo-Code App Builder\nOnly Positive Vibes\nIt’s about the vibe and the feeling. \nThe names of the places? 🤔",
-    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=OO6D5gxGs28Q7kNvwEmlcL9&_nc_oc=AdqWaVtKzlgXQV62TwctTPcC43yFN24tye3v2owTwu9x6WR3q_HRMhIZPPbA6v-D1eA&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=qm3Ul8vmeNSVGxV2SUxZPA&_nc_tpa=Q5bMBQJIdV8XrNIrpQXcWeCpFE4ztTdUiY9Y8eDkJRG6k3W2iXLXSYsARafGLau3txgFIl5ZH78DKYv8Og&oh=00_AQNx5CkIp5f8r2fOl6_l2yQvd1AVlDYmFHFh4Dt4ESMQOg&oe=6ADCD31E"
+    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=OO6D5gxGs28Q7kNvwFZ53dp&_nc_oc=Adpn6qhQ2qqGd2R-hiE2lBRig9bia5qIMpyvUalMCIJ0gDZRGHdrfl_TmYFSTiGQMkw&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=P1ppooDMIspdJ6JoH8vH4w&_nc_tpa=Q5bMBQKhsbvjfwVDixRRHhCRDQsV7_q0Ua9E904La-TDQBYJDSZuL2xrikAVZ0tvi8exoHpMDTN-ENu80A&oh=00_AQPd6b9tTh8wk9xzCiYqu_raS4iW6dLEqvkGKkbtarXnFA&oe=6ADD439E"
   },
   "summary": {
     "followers_count": 1388,
-    "views": 57,
-    "likes": 0,
-    "replies": 0,
+    "views": 1460,
+    "likes": 30,
+    "replies": 15,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 456,
-    "engagement_rate": 800,
+    "engagement_total": 494,
+    "engagement_rate": 33.84,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -27,7 +27,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DeqItcdGqGA",
       "timestamp": "2026-10-19T02:01:17+0000",
       "metrics": {
-        "views": 3860,
+        "views": 3879,
         "likes": 176,
         "replies": 25,
         "reposts": 6,
@@ -42,14 +42,29 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Deq_pM7luM3",
       "timestamp": "2026-10-19T10:01:17+0000",
       "metrics": {
-        "views": 1162,
-        "likes": 43,
+        "views": 1197,
+        "likes": 45,
         "replies": 5,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 48
+      "engagement": 50
+    },
+    {
+      "id": "17917197072261551",
+      "text": "Walked into the Salamanca Market in Hobart at 8am and it just... stopped me.\nLocals, fog still sitting on the water, nob",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DerbH7nFC_q",
+      "timestamp": "2026-10-19T14:01:24+0000",
+      "metrics": {
+        "views": 1154,
+        "likes": 29,
+        "replies": 11,
+        "reposts": 1,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 41
     },
     {
       "id": "18154626409529976",
@@ -57,7 +72,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DehH9E8EbRM",
       "timestamp": "2026-10-15T14:01:31+0000",
       "metrics": {
-        "views": 1132,
+        "views": 1133,
         "likes": 23,
         "replies": 15,
         "reposts": 0,
@@ -80,38 +95,38 @@
         "shares": 0
       },
       "engagement": 38
-    },
-    {
-      "id": "17917197072261551",
-      "text": "Walked into the Salamanca Market in Hobart at 8am and it just... stopped me.\nLocals, fog still sitting on the water, nob",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DerbH7nFC_q",
-      "timestamp": "2026-10-19T14:01:24+0000",
-      "metrics": {
-        "views": 755,
-        "likes": 20,
-        "replies": 9,
-        "reposts": 1,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 30
     }
   ],
   "recent_posts": [
+    {
+      "id": "18086824124316448",
+      "text": "Canal Saint-Martin on a Tuesday afternoon — no tour groups, just locals sitting on the iron bridges with takeaway coffee",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DetkdLJlXTZ",
+      "timestamp": "2026-10-20T10:01:27+0000",
+      "metrics": {
+        "views": 319,
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
     {
       "id": "17947405638356599",
       "text": "The Great Ocean Road has these random roadside stops with no signs, no names, no crowds.\nJust a pull-off, a cliff edge, ",
       "permalink": "https://www.threads.com/@iams_ichi/post/DetI90zEX_N",
       "timestamp": "2026-10-20T06:01:14+0000",
       "metrics": {
-        "views": 367,
-        "likes": 3,
+        "views": 491,
+        "likes": 6,
         "replies": 1,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 4
+      "engagement": 7
     },
     {
       "id": "18106860536251014",
@@ -119,14 +134,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DesthEiAOm6",
       "timestamp": "2026-10-20T02:01:23+0000",
       "metrics": {
-        "views": 372,
-        "likes": 2,
-        "replies": 7,
+        "views": 747,
+        "likes": 16,
+        "replies": 20,
         "reposts": 0,
         "quotes": 0,
-        "shares": 0
+        "shares": 1
       },
-      "engagement": 9
+      "engagement": 36
     },
     {
       "id": "17917197072261551",
@@ -134,14 +149,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DerbH7nFC_q",
       "timestamp": "2026-10-19T14:01:24+0000",
       "metrics": {
-        "views": 755,
-        "likes": 20,
-        "replies": 9,
+        "views": 1154,
+        "likes": 29,
+        "replies": 11,
         "reposts": 1,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 30
+      "engagement": 41
     },
     {
       "id": "18111704864464814",
@@ -149,14 +164,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Deq_pM7luM3",
       "timestamp": "2026-10-19T10:01:17+0000",
       "metrics": {
-        "views": 1162,
-        "likes": 43,
+        "views": 1197,
+        "likes": 45,
         "replies": 5,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 48
+      "engagement": 50
     },
     {
       "id": "18041702246639508",
@@ -164,7 +179,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DeqkMDdjqS5",
       "timestamp": "2026-10-19T06:01:22+0000",
       "metrics": {
-        "views": 574,
+        "views": 576,
         "likes": 4,
         "replies": 5,
         "reposts": 0,
@@ -179,7 +194,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DeqPfPxgBPu",
       "timestamp": "2026-10-19T02:59:58+0000",
       "metrics": {
-        "views": 554,
+        "views": 556,
         "likes": 2,
         "replies": 0,
         "reposts": 0,
@@ -194,7 +209,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DeqItcdGqGA",
       "timestamp": "2026-10-19T02:01:17+0000",
       "metrics": {
-        "views": 3860,
+        "views": 3879,
         "likes": 176,
         "replies": 25,
         "reposts": 6,
@@ -209,7 +224,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DeqBwWSgWpH",
       "timestamp": "2026-10-19T00:59:58+0000",
       "metrics": {
-        "views": 44,
+        "views": 46,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -224,22 +239,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DepYjqGkmv7",
       "timestamp": "2026-10-18T18:59:58+0000",
       "metrics": {
-        "views": 170,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18177261004394037",
-      "text": "Grocery run turned into a 40 minute debate with myself about what to cook tonight 😂\n\nSome routines I build on purpose, ",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DeoTROuIwh6",
-      "timestamp": "2026-10-18T08:54:31+0000",
-      "metrics": {
-        "views": 38,
+        "views": 172,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
