@@ -1,21 +1,21 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-10-20T01:55:35.093Z",
+  "updated_at": "2026-10-20T07:44:37.480Z",
   "profile": {
     "username": "_iame.hijrah",
     "biography": "Hijrah Journey \nInbox ➡️Akses Safar AI",
-    "picture": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=rCGkcqrO5I8Q7kNvwGaX8WO&_nc_oc=AdrE_5KY-vFX4_5Pn4uCXcsZexINPAnhak7yFTh-wDzKTLmNbQsyBukvF0YVeV-9TL8&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=6OmgfXiYaMx_CHjDMwDjlQ&_nc_tpa=Q5bMBQLx-YWUqV9aPYfLrTEDvBmQVYJKPBpQs4zlc4Fv0T5oJbT3h5aNfuUS3d-QG-iIeYpR3HyOtDqTAQ&oh=00_AQN7e5fYLv0c0YvL0RAloVvB7jrRNTtSljHOBuxq4NEO6g&oe=6ADC8C53"
+    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=rCGkcqrO5I8Q7kNvwFPFP1Y&_nc_oc=Adr0-5lFXkQFDkYeWOHATcdFAfE1F2d3gOnKWyPlRZIyFiWQg23Ed51tnJCu0ABlpVk&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=v6VPvvEivGKYzxdIlT1Oyw&_nc_tpa=Q5bMBQKlXPiOe9LZv5jYqLQOUcZdrQZsb7-t_yQrsuYPst2I5wgWH2NSkjEJ26ZihomdPI7gU5F8C0gzcg&oh=00_AQN19qXICgnDayIgdrS8UmxUw3awol-NnZ35IwO79Y0CJw&oe=6ADCFCD3"
   },
   "summary": {
     "followers_count": 8,
-    "views": 894,
-    "likes": 30,
-    "replies": 1,
-    "reposts": 2,
+    "views": 12,
+    "likes": 1,
+    "replies": 0,
+    "reposts": 0,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 81,
-    "engagement_rate": 9.06,
+    "engagement_rate": 675,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -26,7 +26,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dejbka5HAca",
       "timestamp": "2026-10-16T11:31:22+0000",
       "metrics": {
-        "views": 207,
+        "views": 208,
         "likes": 11,
         "replies": 0,
         "reposts": 1,
@@ -86,7 +86,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Deq1XUEm9ze",
       "timestamp": "2026-10-19T08:31:28+0000",
       "metrics": {
-        "views": 168,
+        "views": 171,
         "likes": 6,
         "replies": 0,
         "reposts": 0,
@@ -98,12 +98,27 @@
   ],
   "recent_posts": [
     {
+      "id": "18135455503661791",
+      "text": "Malam ini, kamu sholat Dhuha terakhir kapan?\nAku nanya ke diri sendiri juga — jujur, kadang aku skip tanpa alasan yang j",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DetFiy7EevN",
+      "timestamp": "2026-10-20T05:31:20+0000",
+      "metrics": {
+        "views": 154,
+        "likes": 2,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 2
+    },
+    {
       "id": "17864008014693749",
       "text": "Malam ini jujur deh — kamu lagi husnudzon sama Allah, atau sebenernya lagi was-was?\nAku nanya ke diri sendiri juga.\nHusn",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DesmrIziVei",
       "timestamp": "2026-10-20T01:01:35+0000",
       "metrics": {
-        "views": 142,
+        "views": 184,
         "likes": 2,
         "replies": 0,
         "reposts": 0,
@@ -133,7 +148,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dero4HBmh71",
       "timestamp": "2026-10-19T16:01:35+0000",
       "metrics": {
-        "views": 147,
+        "views": 150,
         "likes": 4,
         "replies": 1,
         "reposts": 0,
@@ -148,7 +163,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DerekBylM2s",
       "timestamp": "2026-10-19T14:31:28+0000",
       "metrics": {
-        "views": 232,
+        "views": 233,
         "likes": 5,
         "replies": 0,
         "reposts": 0,
@@ -193,7 +208,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Deq1XUEm9ze",
       "timestamp": "2026-10-19T08:31:28+0000",
       "metrics": {
-        "views": 168,
+        "views": 171,
         "likes": 6,
         "replies": 0,
         "reposts": 0,
@@ -231,21 +246,6 @@
         "shares": 0
       },
       "engagement": 2
-    },
-    {
-      "id": "18130547773723778",
-      "text": "Ibu aku bilang, kalau ada hajat yang berat — bangun sepertiga malam, jangan langsung tidur lagi.\nDulu aku anggap itu sus",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DeptRlwGX1Q",
-      "timestamp": "2026-10-18T22:01:33+0000",
-      "metrics": {
-        "views": 309,
-        "likes": 7,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 7
     }
   ]
 }
