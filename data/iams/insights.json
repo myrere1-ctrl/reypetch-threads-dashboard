@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-10-20T13:39:32.312Z",
+  "updated_at": "2026-10-20T18:31:58.158Z",
   "profile": {
     "username": "iams_ichi",
     "name": "I.petch",
     "biography": "🇦🇺\nCMO at COA.AU &\nNo-Code App Builder\nOnly Positive Vibes\nIt’s about the vibe and the feeling. \nThe names of the places? 🤔",
-    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=OO6D5gxGs28Q7kNvwFZ53dp&_nc_oc=Adpn6qhQ2qqGd2R-hiE2lBRig9bia5qIMpyvUalMCIJ0gDZRGHdrfl_TmYFSTiGQMkw&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=P1ppooDMIspdJ6JoH8vH4w&_nc_tpa=Q5bMBQKhsbvjfwVDixRRHhCRDQsV7_q0Ua9E904La-TDQBYJDSZuL2xrikAVZ0tvi8exoHpMDTN-ENu80A&oh=00_AQPd6b9tTh8wk9xzCiYqu_raS4iW6dLEqvkGKkbtarXnFA&oe=6ADD439E"
+    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=OO6D5gxGs28Q7kNvwHG96EA&_nc_oc=Adqp_OT--pS_or5gGQkZpIzO0ixWaiwBRg6yZENYzO5AzirOVm2HH1qAzdElvS1yt1Q&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=c60yw0CuGmjOPs9nDf9JVA&_nc_tpa=Q5bMBQKWYBEyjScWiUX76GGsMfAAqAjxw5W8_BG51XSATcXyhB4n3qFy-ztG1h-Un82Z3BVQkAFo5LDraA&oh=00_AQPr58YYWopOIUa89rFT89rrm4rgYENFZ5Ag9GNSgY55MA&oe=6ADD7BDE"
   },
   "summary": {
     "followers_count": 1388,
-    "views": 1460,
-    "likes": 30,
-    "replies": 15,
+    "views": 3363,
+    "likes": 64,
+    "replies": 29,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 494,
-    "engagement_rate": 33.84,
+    "engagement_total": 540,
+    "engagement_rate": 16.06,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -27,7 +27,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DeqItcdGqGA",
       "timestamp": "2026-10-19T02:01:17+0000",
       "metrics": {
-        "views": 3879,
+        "views": 3883,
         "likes": 176,
         "replies": 25,
         "reposts": 6,
@@ -37,12 +37,27 @@
       "engagement": 209
     },
     {
+      "id": "18106860536251014",
+      "text": "Unpopular opinion: Tokyo is actually a terrible city for spontaneous travel.\nEverything is so good, so specific, so inte",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DesthEiAOm6",
+      "timestamp": "2026-10-20T02:01:23+0000",
+      "metrics": {
+        "views": 1890,
+        "likes": 45,
+        "replies": 32,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 1
+      },
+      "engagement": 77
+    },
+    {
       "id": "18111704864464814",
       "text": "On a train from Florence to Venice right now and a stranger just offered me half her focaccia without saying a word.\nEur",
       "permalink": "https://www.threads.com/@iams_ichi/post/Deq_pM7luM3",
       "timestamp": "2026-10-19T10:01:17+0000",
       "metrics": {
-        "views": 1197,
+        "views": 1201,
         "likes": 45,
         "replies": 5,
         "reposts": 0,
@@ -57,7 +72,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DerbH7nFC_q",
       "timestamp": "2026-10-19T14:01:24+0000",
       "metrics": {
-        "views": 1154,
+        "views": 1170,
         "likes": 29,
         "replies": 11,
         "reposts": 1,
@@ -72,7 +87,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DehH9E8EbRM",
       "timestamp": "2026-10-15T14:01:31+0000",
       "metrics": {
-        "views": 1133,
+        "views": 1134,
         "likes": 23,
         "replies": 15,
         "reposts": 0,
@@ -80,31 +95,31 @@
         "shares": 1
       },
       "engagement": 38
-    },
-    {
-      "id": "18108731654207803",
-      "text": "Spain taught me that disappearing mid-afternoon is not antisocial — it's just siesta.\nEveryone retreats. The whole count",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DegseT6lhg4",
-      "timestamp": "2026-10-15T10:01:22+0000",
-      "metrics": {
-        "views": 1005,
-        "likes": 29,
-        "replies": 8,
-        "reposts": 1,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 38
     }
   ],
   "recent_posts": [
+    {
+      "id": "18108775259577191",
+      "text": "Everyone told me Australians take their coffee seriously — I thought it was just national pride talking.\nFirst flat whit",
+      "permalink": "https://www.threads.com/@iams_ichi/post/Det_7MrkZpo",
+      "timestamp": "2026-10-20T14:01:30+0000",
+      "metrics": {
+        "views": 439,
+        "likes": 6,
+        "replies": 4,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 10
+    },
     {
       "id": "18086824124316448",
       "text": "Canal Saint-Martin on a Tuesday afternoon — no tour groups, just locals sitting on the iron bridges with takeaway coffee",
       "permalink": "https://www.threads.com/@iams_ichi/post/DetkdLJlXTZ",
       "timestamp": "2026-10-20T10:01:27+0000",
       "metrics": {
-        "views": 319,
+        "views": 341,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -119,7 +134,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DetI90zEX_N",
       "timestamp": "2026-10-20T06:01:14+0000",
       "metrics": {
-        "views": 491,
+        "views": 504,
         "likes": 6,
         "replies": 1,
         "reposts": 0,
@@ -134,14 +149,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DesthEiAOm6",
       "timestamp": "2026-10-20T02:01:23+0000",
       "metrics": {
-        "views": 747,
-        "likes": 16,
-        "replies": 20,
+        "views": 1890,
+        "likes": 45,
+        "replies": 32,
         "reposts": 0,
         "quotes": 0,
         "shares": 1
       },
-      "engagement": 36
+      "engagement": 77
     },
     {
       "id": "17917197072261551",
@@ -149,7 +164,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DerbH7nFC_q",
       "timestamp": "2026-10-19T14:01:24+0000",
       "metrics": {
-        "views": 1154,
+        "views": 1170,
         "likes": 29,
         "replies": 11,
         "reposts": 1,
@@ -164,7 +179,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Deq_pM7luM3",
       "timestamp": "2026-10-19T10:01:17+0000",
       "metrics": {
-        "views": 1197,
+        "views": 1201,
         "likes": 45,
         "replies": 5,
         "reposts": 0,
@@ -179,7 +194,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DeqkMDdjqS5",
       "timestamp": "2026-10-19T06:01:22+0000",
       "metrics": {
-        "views": 576,
+        "views": 580,
         "likes": 4,
         "replies": 5,
         "reposts": 0,
@@ -194,7 +209,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DeqPfPxgBPu",
       "timestamp": "2026-10-19T02:59:58+0000",
       "metrics": {
-        "views": 556,
+        "views": 558,
         "likes": 2,
         "replies": 0,
         "reposts": 0,
@@ -209,7 +224,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DeqItcdGqGA",
       "timestamp": "2026-10-19T02:01:17+0000",
       "metrics": {
-        "views": 3879,
+        "views": 3883,
         "likes": 176,
         "replies": 25,
         "reposts": 6,
@@ -224,22 +239,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DeqBwWSgWpH",
       "timestamp": "2026-10-19T00:59:58+0000",
       "metrics": {
-        "views": 46,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18097132496345227",
-      "text": "My morning routine is 40% coffee, 30% staring into space, and 30% convincing myself I have time for one more scroll befo",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DepYjqGkmv7",
-      "timestamp": "2026-10-18T18:59:58+0000",
-      "metrics": {
-        "views": 172,
+        "views": 48,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
