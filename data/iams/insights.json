@@ -1,48 +1,33 @@
 {
   "account": "iams",
-  "updated_at": "2026-10-20T01:54:49.870Z",
+  "updated_at": "2026-10-20T07:43:57.561Z",
   "profile": {
     "username": "iams_ichi",
     "name": "I.petch",
     "biography": "🇦🇺\nCMO at COA.AU &\nNo-Code App Builder\nOnly Positive Vibes\nIt’s about the vibe and the feeling. \nThe names of the places? 🤔",
-    "picture": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=OO6D5gxGs28Q7kNvwHgg0cN&_nc_oc=AdrPmsQ-n5cPgTGLXemMaX-T6KoqnMtpd-rhEXqWNN5DhVuLHLJ3Q0-92lY4nBBitJc&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=e0HiTtPYF_xn4RoDl-L8Bg&_nc_tpa=Q5bMBQJGC4Vp1mLosfsUVsZeoVg13SZAsuLWNfOQtT7qELPntxuR3Hv1qRkXk-eOKgH0MUAk5RO6pc3Tag&oh=00_AQPJ1j9jPQs-PrgX_JYrxv57aUpkLNbTG92jVMnLgdUuUA&oe=6ADC9ADE"
+    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=OO6D5gxGs28Q7kNvwEmlcL9&_nc_oc=AdqWaVtKzlgXQV62TwctTPcC43yFN24tye3v2owTwu9x6WR3q_HRMhIZPPbA6v-D1eA&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=qm3Ul8vmeNSVGxV2SUxZPA&_nc_tpa=Q5bMBQJIdV8XrNIrpQXcWeCpFE4ztTdUiY9Y8eDkJRG6k3W2iXLXSYsARafGLau3txgFIl5ZH78DKYv8Og&oh=00_AQNx5CkIp5f8r2fOl6_l2yQvd1AVlDYmFHFh4Dt4ESMQOg&oe=6ADCD31E"
   },
   "summary": {
     "followers_count": 1388,
-    "views": 4298,
-    "likes": 162,
-    "replies": 22,
-    "reposts": 6,
-    "quotes": 1,
+    "views": 57,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
     "profile_views": null,
-    "engagement_total": 840,
-    "engagement_rate": 19.54,
+    "engagement_total": 456,
+    "engagement_rate": 800,
     "curiosity_score": null,
     "post_count": 25
   },
   "top_posts": [
-    {
-      "id": "18148506532560234",
-      "text": "Unpopular opinion: Melbourne is more interesting than Sydney — and I will die on this hill.\nThe laneways, the coffee cul",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DeejJqyDnjO",
-      "timestamp": "2026-10-14T14:01:26+0000",
-      "metrics": {
-        "views": 5029,
-        "likes": 334,
-        "replies": 86,
-        "reposts": 2,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 422
-    },
     {
       "id": "18036129674853495",
       "text": "Japan gave me the best introvert gift — socially acceptable silence.\nNobody fills the quiet here just to fill it. You're",
       "permalink": "https://www.threads.com/@iams_ichi/post/DeqItcdGqGA",
       "timestamp": "2026-10-19T02:01:17+0000",
       "metrics": {
-        "views": 3800,
+        "views": 3860,
         "likes": 176,
         "replies": 25,
         "reposts": 6,
@@ -57,14 +42,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Deq_pM7luM3",
       "timestamp": "2026-10-19T10:01:17+0000",
       "metrics": {
-        "views": 1103,
-        "likes": 34,
-        "replies": 4,
+        "views": 1162,
+        "likes": 43,
+        "replies": 5,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 38
+      "engagement": 48
     },
     {
       "id": "18154626409529976",
@@ -95,23 +80,68 @@
         "shares": 0
       },
       "engagement": 38
-    }
-  ],
-  "recent_posts": [
+    },
     {
       "id": "17917197072261551",
       "text": "Walked into the Salamanca Market in Hobart at 8am and it just... stopped me.\nLocals, fog still sitting on the water, nob",
       "permalink": "https://www.threads.com/@iams_ichi/post/DerbH7nFC_q",
       "timestamp": "2026-10-19T14:01:24+0000",
       "metrics": {
-        "views": 280,
-        "likes": 9,
-        "replies": 5,
+        "views": 755,
+        "likes": 20,
+        "replies": 9,
+        "reposts": 1,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 30
+    }
+  ],
+  "recent_posts": [
+    {
+      "id": "17947405638356599",
+      "text": "The Great Ocean Road has these random roadside stops with no signs, no names, no crowds.\nJust a pull-off, a cliff edge, ",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DetI90zEX_N",
+      "timestamp": "2026-10-20T06:01:14+0000",
+      "metrics": {
+        "views": 367,
+        "likes": 3,
+        "replies": 1,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 14
+      "engagement": 4
+    },
+    {
+      "id": "18106860536251014",
+      "text": "Unpopular opinion: Tokyo is actually a terrible city for spontaneous travel.\nEverything is so good, so specific, so inte",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DesthEiAOm6",
+      "timestamp": "2026-10-20T02:01:23+0000",
+      "metrics": {
+        "views": 372,
+        "likes": 2,
+        "replies": 7,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 9
+    },
+    {
+      "id": "17917197072261551",
+      "text": "Walked into the Salamanca Market in Hobart at 8am and it just... stopped me.\nLocals, fog still sitting on the water, nob",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DerbH7nFC_q",
+      "timestamp": "2026-10-19T14:01:24+0000",
+      "metrics": {
+        "views": 755,
+        "likes": 20,
+        "replies": 9,
+        "reposts": 1,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 30
     },
     {
       "id": "18111704864464814",
@@ -119,14 +149,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Deq_pM7luM3",
       "timestamp": "2026-10-19T10:01:17+0000",
       "metrics": {
-        "views": 1103,
-        "likes": 34,
-        "replies": 4,
+        "views": 1162,
+        "likes": 43,
+        "replies": 5,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 38
+      "engagement": 48
     },
     {
       "id": "18041702246639508",
@@ -134,14 +164,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DeqkMDdjqS5",
       "timestamp": "2026-10-19T06:01:22+0000",
       "metrics": {
-        "views": 509,
+        "views": 574,
         "likes": 4,
-        "replies": 4,
+        "replies": 5,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 8
+      "engagement": 9
     },
     {
       "id": "18374067328215941",
@@ -149,7 +179,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DeqPfPxgBPu",
       "timestamp": "2026-10-19T02:59:58+0000",
       "metrics": {
-        "views": 547,
+        "views": 554,
         "likes": 2,
         "replies": 0,
         "reposts": 0,
@@ -164,7 +194,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DeqItcdGqGA",
       "timestamp": "2026-10-19T02:01:17+0000",
       "metrics": {
-        "views": 3800,
+        "views": 3860,
         "likes": 176,
         "replies": 25,
         "reposts": 6,
@@ -179,7 +209,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DeqBwWSgWpH",
       "timestamp": "2026-10-19T00:59:58+0000",
       "metrics": {
-        "views": 39,
+        "views": 44,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -194,7 +224,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DepYjqGkmv7",
       "timestamp": "2026-10-18T18:59:58+0000",
       "metrics": {
-        "views": 165,
+        "views": 170,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -209,37 +239,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DeoTROuIwh6",
       "timestamp": "2026-10-18T08:54:31+0000",
       "metrics": {
-        "views": 34,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18098776676639597",
-      "text": "Australia introduce new 10-Year Multiple entry Visa which is designed for eligible citizens of 11 countries to visit for",
-      "permalink": "https://www.threads.com/@iams_ichi/post/Denulpsm26L",
-      "timestamp": "2026-10-18T03:34:00+0000",
-      "metrics": {
-        "views": 414,
-        "likes": 4,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 2
-      },
-      "engagement": 4
-    },
-    {
-      "id": "17990682803867508",
-      "text": "Red Rock lagi hujan terus beberpa hari ini ...\n\nAnd We saw rainbow after jalan pagi di Big Beach belakang Reflection Red",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DenQD4jDzjI",
-      "timestamp": "2026-10-17T23:09:24+0000",
-      "metrics": {
-        "views": 22,
+        "views": 38,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
