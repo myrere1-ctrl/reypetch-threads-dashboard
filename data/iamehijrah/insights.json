@@ -1,21 +1,21 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-10-20T13:40:14.963Z",
+  "updated_at": "2026-10-20T18:32:42.042Z",
   "profile": {
     "username": "_iame.hijrah",
     "biography": "Hijrah Journey \nInbox ➡️Akses Safar AI",
-    "picture": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=rCGkcqrO5I8Q7kNvwFpJc6c&_nc_oc=AdqRAKN_V5ZbxeJ2QuE4DiuWCkyuTDV8YjMayj7uMShse_91pEg925fvbrFKYROVJlc&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=5mgjnp4OWXFuKJSTu3yrAg&_nc_tpa=Q5bMBQJ4EhP-O87BV1s1ml8gEZgSwsDMhwDa1k9yscavF2xpPqJudDQ035Pa3zbfk1BAExNwU18LfWKanA&oh=00_AQMOCC0y58eYYjyrjM-XHUmhM3w70gr22dUWX5Vpe8vopw&oe=6ADD3513"
+    "picture": "https://scontent-atl3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=rCGkcqrO5I8Q7kNvwEm4XTt&_nc_oc=AdqOj4Pmh5RqSGAqUDHlFC9Wq81wY9FklBEe3ZbSOcMxqKkGxVWlTe1Ipk6UZJaLtUM&_nc_zt=24&_nc_ht=scontent-atl3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=whzI0S_-sW2h4m-tqtCXng&_nc_tpa=Q5bMBQKiKXhGcj_MQsBuV2zgmActRCSUwuuAHlfbmYdyea8Zx-uUF3d1_VH9T1h1WmEAuFmVK70EF85MQQ&oh=00_AQPGcrZPNwVwplUYWPX4u-cFJDlR49tyZqpoMJIVzN8KPA&oe=6ADD6D53"
   },
   "summary": {
     "followers_count": 8,
-    "views": 245,
-    "likes": 8,
+    "views": 449,
+    "likes": 18,
     "replies": 0,
     "reposts": 1,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 79,
-    "engagement_rate": 32.24,
+    "engagement_total": 86,
+    "engagement_rate": 19.15,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -51,6 +51,21 @@
       "engagement": 10
     },
     {
+      "id": "18115959701040805",
+      "text": "Nenek aku nggak pernah sekalipun skip Al-Waqiah habis Maghrib — bahkan waktu beliau sakit pun, tetap dibaca pelan-pelan.",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DeuNreYFjkS",
+      "timestamp": "2026-10-20T16:01:39+0000",
+      "metrics": {
+        "views": 169,
+        "likes": 9,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 9
+    },
+    {
       "id": "18130547773723778",
       "text": "Ibu aku bilang, kalau ada hajat yang berat — bangun sepertiga malam, jangan langsung tidur lagi.\nDulu aku anggap itu sus",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DeptRlwGX1Q",
@@ -71,22 +86,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Detuw_mGwdd",
       "timestamp": "2026-10-20T11:31:32+0000",
       "metrics": {
-        "views": 135,
-        "likes": 6,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 6
-    },
-    {
-      "id": "18104909429460518",
-      "text": "Nenek aku bilang, kalau doa belum dijawab — jangan berhenti, justru perbanyak sholawat di depannya.\nDulu aku bingung, ap",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DerUSKmG56O",
-      "timestamp": "2026-10-19T13:01:39+0000",
-      "metrics": {
-        "views": 82,
+        "views": 139,
         "likes": 6,
         "replies": 0,
         "reposts": 0,
@@ -98,12 +98,42 @@
   ],
   "recent_posts": [
     {
+      "id": "18115959701040805",
+      "text": "Nenek aku nggak pernah sekalipun skip Al-Waqiah habis Maghrib — bahkan waktu beliau sakit pun, tetap dibaca pelan-pelan.",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DeuNreYFjkS",
+      "timestamp": "2026-10-20T16:01:39+0000",
+      "metrics": {
+        "views": 169,
+        "likes": 9,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 9
+    },
+    {
+      "id": "17897504628674190",
+      "text": "Kalau besok kamu berangkat Umroh — kamu yakin hatimu udah siap, atau cuma badan yang mau berangkat?\nAku muhasabah soal i",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DeuDWlGILqX",
+      "timestamp": "2026-10-20T14:31:25+0000",
+      "metrics": {
+        "views": 8,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "18110196188228460",
       "text": "Ibu aku selalu bilang, kalau lagi muhasabah jangan cuma hitung dosa — hitung juga nikmat yang kamu lupa syukuri.\nDulu ak",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Det5GZylqqx",
       "timestamp": "2026-10-20T13:01:49+0000",
       "metrics": {
-        "views": 42,
+        "views": 89,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -118,7 +148,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Detuw_mGwdd",
       "timestamp": "2026-10-20T11:31:32+0000",
       "metrics": {
-        "views": 135,
+        "views": 139,
         "likes": 6,
         "replies": 0,
         "reposts": 0,
@@ -148,7 +178,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DetFiy7EevN",
       "timestamp": "2026-10-20T05:31:20+0000",
       "metrics": {
-        "views": 162,
+        "views": 163,
         "likes": 2,
         "replies": 0,
         "reposts": 0,
@@ -208,22 +238,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DerekBylM2s",
       "timestamp": "2026-10-19T14:31:28+0000",
       "metrics": {
-        "views": 235,
-        "likes": 5,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 5
-    },
-    {
-      "id": "18104909429460518",
-      "text": "Nenek aku bilang, kalau doa belum dijawab — jangan berhenti, justru perbanyak sholawat di depannya.\nDulu aku bingung, ap",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DerUSKmG56O",
-      "timestamp": "2026-10-19T13:01:39+0000",
-      "metrics": {
-        "views": 82,
+        "views": 237,
         "likes": 6,
         "replies": 0,
         "reposts": 0,
@@ -231,21 +246,6 @@
         "shares": 0
       },
       "engagement": 6
-    },
-    {
-      "id": "18066645398527679",
-      "text": "Nenek aku selalu bilang, kalau pikiran udah ruwet banget — jangan tambah dipikirin, langsung wudhu.\nDulu aku anggap itu ",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DerJ9IOmz7B",
-      "timestamp": "2026-10-19T11:31:24+0000",
-      "metrics": {
-        "views": 117,
-        "likes": 8,
-        "replies": 0,
-        "reposts": 2,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 10
     }
   ]
 }
