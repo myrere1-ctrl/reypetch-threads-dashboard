@@ -1,21 +1,21 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-10-20T18:32:42.042Z",
+  "updated_at": "2026-10-20T22:24:44.414Z",
   "profile": {
     "username": "_iame.hijrah",
     "biography": "Hijrah Journey \nInbox ➡️Akses Safar AI",
-    "picture": "https://scontent-atl3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=rCGkcqrO5I8Q7kNvwEm4XTt&_nc_oc=AdqOj4Pmh5RqSGAqUDHlFC9Wq81wY9FklBEe3ZbSOcMxqKkGxVWlTe1Ipk6UZJaLtUM&_nc_zt=24&_nc_ht=scontent-atl3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=whzI0S_-sW2h4m-tqtCXng&_nc_tpa=Q5bMBQKiKXhGcj_MQsBuV2zgmActRCSUwuuAHlfbmYdyea8Zx-uUF3d1_VH9T1h1WmEAuFmVK70EF85MQQ&oh=00_AQPGcrZPNwVwplUYWPX4u-cFJDlR49tyZqpoMJIVzN8KPA&oe=6ADD6D53"
+    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=rCGkcqrO5I8Q7kNvwEdul4G&_nc_oc=AdqvPNTZlAZRrI4_Sz5R5C2Q1EZvgOmAuac6J6Yist2W8LH3SjSJLKbjDyanZ_xZFH8&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=rpDGNY20EqHV1w4dtuA5jw&_nc_tpa=Q5bMBQJAbx7Adq4D_1-02DeQYxZEPQPpaUk5ACEsxAGRW3VOaRzR5Eugx80pzBh8p3kYvQYxa8BuLunO1w&oh=00_AQNquC8bcEl3ZvlLId7Padz1GEBtWv1K1sC_DBwgSu08fg&oe=6ADDA593"
   },
   "summary": {
     "followers_count": 8,
-    "views": 449,
+    "views": 463,
     "likes": 18,
     "replies": 0,
     "reposts": 1,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 86,
-    "engagement_rate": 19.15,
+    "engagement_rate": 18.57,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -56,7 +56,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DeuNreYFjkS",
       "timestamp": "2026-10-20T16:01:39+0000",
       "metrics": {
-        "views": 169,
+        "views": 185,
         "likes": 9,
         "replies": 0,
         "reposts": 0,
@@ -98,12 +98,27 @@
   ],
   "recent_posts": [
     {
+      "id": "18128193475843402",
+      "text": "Malam ini, kamu udah sempat berhenti dan ngitung nikmat — atau langsung collapse kecapekan?\nAku nanya ke diri sendiri ju",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Deu23VIksZw",
+      "timestamp": "2026-10-20T22:01:33+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "18115959701040805",
       "text": "Nenek aku nggak pernah sekalipun skip Al-Waqiah habis Maghrib — bahkan waktu beliau sakit pun, tetap dibaca pelan-pelan.",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DeuNreYFjkS",
       "timestamp": "2026-10-20T16:01:39+0000",
       "metrics": {
-        "views": 169,
+        "views": 185,
         "likes": 9,
         "replies": 0,
         "reposts": 0,
@@ -231,21 +246,6 @@
         "shares": 0
       },
       "engagement": 5
-    },
-    {
-      "id": "18070197257784527",
-      "text": "Ada satu hal soal takdir yang lama banget baru aku \"ngerti\" beneran.\nAku kira pasrah = nyerah. Ternyata pasrah itu justr",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DerekBylM2s",
-      "timestamp": "2026-10-19T14:31:28+0000",
-      "metrics": {
-        "views": 237,
-        "likes": 6,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 6
     }
   ]
 }
