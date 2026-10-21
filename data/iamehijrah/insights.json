@@ -1,21 +1,21 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-10-21T01:42:35.827Z",
+  "updated_at": "2026-10-21T07:48:45.266Z",
   "profile": {
     "username": "_iame.hijrah",
     "biography": "Hijrah Journey \nInbox ➡️Akses Safar AI",
-    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=rCGkcqrO5I8Q7kNvwFaY9jE&_nc_oc=AdrRC-ihCmfyCEU9oI1Rnv7gAEMQkyJsDrHulAiBLuuLWqGEAYHDdWt_G8b3uRiiyEc&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=7g5SFROhmnOLPZD3J-2naA&_nc_tpa=Q5bMBQJYA5MZfllJPAWGNZBpD_Pk5F9SGOUN7kHs741UJmPKtEWoA_4xdPHOtCuLZfUXeb19oFO0pcfHVw&oh=00_AQPrQbWqhqvArH1QSHo-BJkW7gMhWnkb8iu2nXFDy0nkug&oe=6ADDDDD3"
+    "picture": "https://scontent-dfw6-2.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=rCGkcqrO5I8Q7kNvwGcaSJe&_nc_oc=AdpF9g40-KrnuDanRhGuasGGaYUviiUTM4yH_vbRKp8n4RTjFVukzNXD3it9EsCEkTc&_nc_zt=24&_nc_ht=scontent-dfw6-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=Sf2cYpMWd7gPB7KJ-nbeyg&_nc_tpa=Q5bMBQLOZDPMHaK9-MTkZSz8GR3UVoP3dcsB_blo8aIV2qc48IUm5KtDNCydUvFhrISC8HoSg2VbEJOo4g&oh=00_AQNj5yqr9sHPvHas7Ug-WsnPYwP6Wpi5O8R-nyPkjNdB5g&oe=6ADE4E53"
   },
   "summary": {
     "followers_count": 8,
-    "views": 526,
-    "likes": 20,
+    "views": 3,
+    "likes": 0,
     "replies": 0,
-    "reposts": 1,
+    "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 82,
-    "engagement_rate": 15.59,
+    "engagement_total": 83,
+    "engagement_rate": 2766.67,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -41,7 +41,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DeuNreYFjkS",
       "timestamp": "2026-10-20T16:01:39+0000",
       "metrics": {
-        "views": 196,
+        "views": 201,
         "likes": 10,
         "replies": 0,
         "reposts": 0,
@@ -86,7 +86,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Detuw_mGwdd",
       "timestamp": "2026-10-20T11:31:32+0000",
       "metrics": {
-        "views": 139,
+        "views": 141,
         "likes": 6,
         "replies": 0,
         "reposts": 0,
@@ -98,12 +98,27 @@
   ],
   "recent_posts": [
     {
+      "id": "18092514767209436",
+      "text": "Pernah nggak, sholat tapi rasanya kayak cuma gugur kewajiban — hadir tapi hati ke mana-mana?\nAku pernah di fase itu. Sho",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DevqVdbleQk",
+      "timestamp": "2026-10-21T05:31:18+0000",
+      "metrics": {
+        "views": 82,
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
       "id": "18140250130611053",
       "text": "Ada satu hal soal sedekah yang dulu aku salah paham banget.\nAku kira sedekah itu urusan \"kalau sudah lebih\". Ternyata ju",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DevLdHGlcof",
       "timestamp": "2026-10-21T01:01:27+0000",
       "metrics": {
-        "views": 23,
+        "views": 38,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -133,7 +148,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DeuNreYFjkS",
       "timestamp": "2026-10-20T16:01:39+0000",
       "metrics": {
-        "views": 196,
+        "views": 201,
         "likes": 10,
         "replies": 0,
         "reposts": 0,
@@ -178,7 +193,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Detuw_mGwdd",
       "timestamp": "2026-10-20T11:31:32+0000",
       "metrics": {
-        "views": 139,
+        "views": 141,
         "likes": 6,
         "replies": 0,
         "reposts": 0,
@@ -193,7 +208,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DetaJaqm4O6",
       "timestamp": "2026-10-20T08:31:22+0000",
       "metrics": {
-        "views": 3,
+        "views": 4,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -231,21 +246,6 @@
         "shares": 0
       },
       "engagement": 3
-    },
-    {
-      "id": "18101915801639177",
-      "text": "Unpopular opinion: sabar itu bukan soal nggak ngeluh — tapi soal ke siapa kamu ngeluhnya.\nAku pernah kira orang yang sab",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DesSEr8j5D9",
-      "timestamp": "2026-10-19T22:01:35+0000",
-      "metrics": {
-        "views": 3,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
     }
   ]
 }
