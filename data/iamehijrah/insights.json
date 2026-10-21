@@ -1,21 +1,21 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-10-21T18:45:36.478Z",
+  "updated_at": "2026-10-21T22:28:16.661Z",
   "profile": {
     "username": "_iame.hijrah",
     "biography": "Hijrah Journey \nInbox ➡️Akses Safar AI",
-    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=21NfU7s39YEQ7kNvwEWnMnb&_nc_oc=Adpm9CjrcckBhN-056kv15lirU3Ag0akMOPz3hG94FLd0l2aAheVLHo2ajJ6oeED1cg&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=22QpO0P-BSaVR5AF2qberg&_nc_tpa=Q5bMBQLQ_RVdM9iAhR9T8DFCMd5cQRu9Kw7BvY4xvBa71Jff8Krfekw2Lf_eGb9Bk108CAO6-EpdCtTE3g&oh=00_AQMxW4lbix6OSHNYw0NIfmJI_vJz1oYroihxJb8xf1vQfA&oe=6ADEBED3"
+    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=21NfU7s39YEQ7kNvwGX-du1&_nc_oc=AdqtKOIA5luix6yQiScbHEf7wu409TatVYJTQ4R6NwQrYbmRKZQ48ATUqJvKKeKdptg&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=4P98LbaT_VE-qpn2GEyo1w&_nc_tpa=Q5bMBQLrQ0Q87hUdk-uTP9KwU5aHfZnyUcVFzoQ8S6re8DhpiTDZLjrkIZGe4cbSLmHFMQzm8EtwbScyJw&oh=00_AQMrV_epXFP9_6OdGcrLZo7PclhYKR_kZxpP2z7AR3_8pA&oe=6ADEF713"
   },
   "summary": {
     "followers_count": 8,
-    "views": 501,
+    "views": 520,
     "likes": 10,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 76,
-    "engagement_rate": 15.17,
+    "engagement_total": 80,
+    "engagement_rate": 15.38,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -98,12 +98,27 @@
   ],
   "recent_posts": [
     {
+      "id": "18024011009923685",
+      "text": "4 doa buat orang tua yang aku mulai rutinin — yang ke-3 bikin aku nangis sendiri:\n1. Doa Sapu Jagad — selalu sisipkan na",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dexbsp-iXEZ",
+      "timestamp": "2026-10-21T22:01:52+0000",
+      "metrics": {
+        "views": 14,
+        "likes": 4,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 4
+    },
+    {
       "id": "18194369569394646",
       "text": "Kamu udah baca Surat Yasin hari ini — atau cuma inget waktu ada yang meninggal?\nDulu aku juga gitu. Yasin rasanya \"buat ",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dewydm4lV0Y",
       "timestamp": "2026-10-21T16:01:33+0000",
       "metrics": {
-        "views": 105,
+        "views": 108,
         "likes": 3,
         "replies": 0,
         "reposts": 0,
@@ -133,7 +148,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dewd4Dvm1im",
       "timestamp": "2026-10-21T13:01:40+0000",
       "metrics": {
-        "views": 166,
+        "views": 168,
         "likes": 3,
         "replies": 0,
         "reposts": 0,
@@ -231,21 +246,6 @@
         "shares": 0
       },
       "engagement": 11
-    },
-    {
-      "id": "17897504628674190",
-      "text": "Kalau besok kamu berangkat Umroh — kamu yakin hatimu udah siap, atau cuma badan yang mau berangkat?\nAku muhasabah soal i",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DeuDWlGILqX",
-      "timestamp": "2026-10-20T14:31:25+0000",
-      "metrics": {
-        "views": 8,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
     }
   ]
 }
