@@ -1,33 +1,48 @@
 {
   "account": "iams",
-  "updated_at": "2026-10-21T01:41:55.880Z",
+  "updated_at": "2026-10-21T07:48:08.188Z",
   "profile": {
     "username": "iams_ichi",
     "name": "I.petch",
     "biography": "🇦🇺\nCMO at COA.AU &\nNo-Code App Builder\nOnly Positive Vibes\nIt’s about the vibe and the feeling. \nThe names of the places? 🤔",
-    "picture": "https://scontent-dfw6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=OO6D5gxGs28Q7kNvwEs-o2S&_nc_oc=AdopzD_tGNzJE2lPf--VBmbGx8QjL407pBN4C_tbbnx4KS7INylVVXXOQiXmaWtyTPI&_nc_zt=24&_nc_ht=scontent-dfw6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=yxWxtumQ86sMmQ8ZlCI42A&_nc_tpa=Q5bMBQIM-Ubf4O3IIILp-fmRP75ggtOfEqrGSbZqbNZY5jKC5CurDBdTRAIsOlY78YoJd5arBeppd55X3Q&oh=00_AQNOnKQeYMw4NBYBecsi3XReEnCZw4IzsDAvBKxAP8pT2w&oe=6ADDEC5E"
+    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=OO6D5gxGs28Q7kNvwH-AMMg&_nc_oc=AdqtOUYgcplvDyNNd1IzZ61VCtaCpdDJj05-o8ezgdtjnWCPt8iZr90Uu3n1HJvFvwM&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=GN22ATqFwYnmi0JdJ_vPeQ&_nc_tpa=Q5bMBQLFn9udknfdxmnpcawXDWS2M47HKCQJLESBXcQ9v8uuL0VBUfqakRtXMOEmT1eh_OIYDZ9G68ddLA&oh=00_AQMeBTya8TlxApM7w2ZmbpkgBUuFKKDMyu5_GF_qtEPRzw&oe=6ADE5CDE"
   },
   "summary": {
-    "followers_count": 1389,
-    "views": 7571,
-    "likes": 179,
-    "replies": 51,
-    "reposts": 1,
+    "followers_count": 1391,
+    "views": 1017,
+    "likes": 38,
+    "replies": 6,
+    "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 690,
-    "engagement_rate": 9.11,
+    "engagement_total": 873,
+    "engagement_rate": 85.84,
     "curiosity_score": null,
     "post_count": 25
   },
   "top_posts": [
+    {
+      "id": "18108775259577191",
+      "text": "Everyone told me Australians take their coffee seriously — I thought it was just national pride talking.\nFirst flat whit",
+      "permalink": "https://www.threads.com/@iams_ichi/post/Det_7MrkZpo",
+      "timestamp": "2026-10-20T14:01:30+0000",
+      "metrics": {
+        "views": 4574,
+        "likes": 274,
+        "replies": 35,
+        "reposts": 2,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 311
+    },
     {
       "id": "18036129674853495",
       "text": "Japan gave me the best introvert gift — socially acceptable silence.\nNobody fills the quiet here just to fill it. You're",
       "permalink": "https://www.threads.com/@iams_ichi/post/DeqItcdGqGA",
       "timestamp": "2026-10-19T02:01:17+0000",
       "metrics": {
-        "views": 3887,
+        "views": 3892,
         "likes": 176,
         "replies": 25,
         "reposts": 6,
@@ -42,29 +57,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DesthEiAOm6",
       "timestamp": "2026-10-20T02:01:23+0000",
       "metrics": {
-        "views": 4139,
-        "likes": 91,
+        "views": 4361,
+        "likes": 92,
         "replies": 40,
         "reposts": 1,
         "quotes": 0,
         "shares": 5
       },
-      "engagement": 132
-    },
-    {
-      "id": "18108775259577191",
-      "text": "Everyone told me Australians take their coffee seriously — I thought it was just national pride talking.\nFirst flat whit",
-      "permalink": "https://www.threads.com/@iams_ichi/post/Det_7MrkZpo",
-      "timestamp": "2026-10-20T14:01:30+0000",
-      "metrics": {
-        "views": 1851,
-        "likes": 86,
-        "replies": 18,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 104
+      "engagement": 133
     },
     {
       "id": "18111704864464814",
@@ -72,7 +72,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Deq_pM7luM3",
       "timestamp": "2026-10-19T10:01:17+0000",
       "metrics": {
-        "views": 1212,
+        "views": 1215,
         "likes": 45,
         "replies": 6,
         "reposts": 0,
@@ -87,7 +87,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DerbH7nFC_q",
       "timestamp": "2026-10-19T14:01:24+0000",
       "metrics": {
-        "views": 1181,
+        "views": 1188,
         "likes": 29,
         "replies": 11,
         "reposts": 1,
@@ -99,19 +99,49 @@
   ],
   "recent_posts": [
     {
+      "id": "17898993579655664",
+      "text": "Brisbane gets written off as the city you pass through on the way to Gold Coast or Noosa.\nSpent three days there thinkin",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DevtxgznHbh",
+      "timestamp": "2026-10-21T06:01:20+0000",
+      "metrics": {
+        "views": 568,
+        "likes": 14,
+        "replies": 5,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 19
+    },
+    {
+      "id": "18079952777619895",
+      "text": "I just realized Osaka hit different because nobody there is performing for tourists — they're just living.\nTakoyashi at ",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DevSTHYgDHZ",
+      "timestamp": "2026-10-21T02:01:16+0000",
+      "metrics": {
+        "views": 1655,
+        "likes": 20,
+        "replies": 11,
+        "reposts": 0,
+        "quotes": 1,
+        "shares": 0
+      },
+      "engagement": 32
+    },
+    {
       "id": "18108775259577191",
       "text": "Everyone told me Australians take their coffee seriously — I thought it was just national pride talking.\nFirst flat whit",
       "permalink": "https://www.threads.com/@iams_ichi/post/Det_7MrkZpo",
       "timestamp": "2026-10-20T14:01:30+0000",
       "metrics": {
-        "views": 1851,
-        "likes": 86,
-        "replies": 18,
-        "reposts": 0,
+        "views": 4574,
+        "likes": 274,
+        "replies": 35,
+        "reposts": 2,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 104
+      "engagement": 311
     },
     {
       "id": "18086824124316448",
@@ -119,7 +149,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DetkdLJlXTZ",
       "timestamp": "2026-10-20T10:01:27+0000",
       "metrics": {
-        "views": 369,
+        "views": 383,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -134,7 +164,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DetI90zEX_N",
       "timestamp": "2026-10-20T06:01:14+0000",
       "metrics": {
-        "views": 557,
+        "views": 588,
         "likes": 6,
         "replies": 1,
         "reposts": 0,
@@ -149,14 +179,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DesthEiAOm6",
       "timestamp": "2026-10-20T02:01:23+0000",
       "metrics": {
-        "views": 4139,
-        "likes": 91,
+        "views": 4361,
+        "likes": 92,
         "replies": 40,
         "reposts": 1,
         "quotes": 0,
         "shares": 5
       },
-      "engagement": 132
+      "engagement": 133
     },
     {
       "id": "17917197072261551",
@@ -164,7 +194,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DerbH7nFC_q",
       "timestamp": "2026-10-19T14:01:24+0000",
       "metrics": {
-        "views": 1181,
+        "views": 1188,
         "likes": 29,
         "replies": 11,
         "reposts": 1,
@@ -179,7 +209,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Deq_pM7luM3",
       "timestamp": "2026-10-19T10:01:17+0000",
       "metrics": {
-        "views": 1212,
+        "views": 1215,
         "likes": 45,
         "replies": 6,
         "reposts": 0,
@@ -194,7 +224,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DeqkMDdjqS5",
       "timestamp": "2026-10-19T06:01:22+0000",
       "metrics": {
-        "views": 586,
+        "views": 587,
         "likes": 4,
         "replies": 5,
         "reposts": 0,
@@ -217,36 +247,6 @@
         "shares": 0
       },
       "engagement": 2
-    },
-    {
-      "id": "18036129674853495",
-      "text": "Japan gave me the best introvert gift — socially acceptable silence.\nNobody fills the quiet here just to fill it. You're",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DeqItcdGqGA",
-      "timestamp": "2026-10-19T02:01:17+0000",
-      "metrics": {
-        "views": 3887,
-        "likes": 176,
-        "replies": 25,
-        "reposts": 6,
-        "quotes": 2,
-        "shares": 1
-      },
-      "engagement": 209
-    },
-    {
-      "id": "18123164656986245",
-      "text": "genuine question — do you eat because you're hungry or because it's the time you normally eat? I've been paying attentio",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DeqBwWSgWpH",
-      "timestamp": "2026-10-19T00:59:58+0000",
-      "metrics": {
-        "views": 52,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
     }
   ]
 }
