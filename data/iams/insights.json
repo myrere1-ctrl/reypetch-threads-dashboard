@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-10-20T22:24:01.826Z",
+  "updated_at": "2026-10-21T01:41:55.880Z",
   "profile": {
     "username": "iams_ichi",
     "name": "I.petch",
     "biography": "🇦🇺\nCMO at COA.AU &\nNo-Code App Builder\nOnly Positive Vibes\nIt’s about the vibe and the feeling. \nThe names of the places? 🤔",
-    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=OO6D5gxGs28Q7kNvwH3oxiW&_nc_oc=AdpBQ6YRtOXXZKMNZHdgcDSAcbPyeU6bClnVFGAMCq3rmjJJ3IdW789iF3KmofYPelE&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=RAgy35ESYiqfgNyfIDzeTA&_nc_tpa=Q5bMBQIF50mPoyfYn4_WlPK2FbR85SEe0mF1DrQ1MeHBEFv08SrJdL6BnQAvgnODW45WVo3l80SK-qX32A&oh=00_AQOSNeVRjk9tl4aZOJwwtbioJpzQTTuMTgV9NqSgd5hCvQ&oe=6ADDB41E"
+    "picture": "https://scontent-dfw6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=OO6D5gxGs28Q7kNvwEs-o2S&_nc_oc=AdopzD_tGNzJE2lPf--VBmbGx8QjL407pBN4C_tbbnx4KS7INylVVXXOQiXmaWtyTPI&_nc_zt=24&_nc_ht=scontent-dfw6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=yxWxtumQ86sMmQ8ZlCI42A&_nc_tpa=Q5bMBQIM-Ubf4O3IIILp-fmRP75ggtOfEqrGSbZqbNZY5jKC5CurDBdTRAIsOlY78YoJd5arBeppd55X3Q&oh=00_AQNOnKQeYMw4NBYBecsi3XReEnCZw4IzsDAvBKxAP8pT2w&oe=6ADDEC5E"
   },
   "summary": {
-    "followers_count": 1388,
-    "views": 5521,
-    "likes": 104,
-    "replies": 41,
-    "reposts": 0,
+    "followers_count": 1389,
+    "views": 7571,
+    "likes": 179,
+    "replies": 51,
+    "reposts": 1,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 598,
-    "engagement_rate": 10.83,
+    "engagement_total": 690,
+    "engagement_rate": 9.11,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -27,7 +27,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DeqItcdGqGA",
       "timestamp": "2026-10-19T02:01:17+0000",
       "metrics": {
-        "views": 3886,
+        "views": 3887,
         "likes": 176,
         "replies": 25,
         "reposts": 6,
@@ -42,14 +42,29 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DesthEiAOm6",
       "timestamp": "2026-10-20T02:01:23+0000",
       "metrics": {
-        "views": 3292,
-        "likes": 68,
-        "replies": 37,
+        "views": 4139,
+        "likes": 91,
+        "replies": 40,
+        "reposts": 1,
+        "quotes": 0,
+        "shares": 5
+      },
+      "engagement": 132
+    },
+    {
+      "id": "18108775259577191",
+      "text": "Everyone told me Australians take their coffee seriously — I thought it was just national pride talking.\nFirst flat whit",
+      "permalink": "https://www.threads.com/@iams_ichi/post/Det_7MrkZpo",
+      "timestamp": "2026-10-20T14:01:30+0000",
+      "metrics": {
+        "views": 1851,
+        "likes": 86,
+        "replies": 18,
         "reposts": 0,
         "quotes": 0,
-        "shares": 3
+        "shares": 0
       },
-      "engagement": 105
+      "engagement": 104
     },
     {
       "id": "18111704864464814",
@@ -57,7 +72,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Deq_pM7luM3",
       "timestamp": "2026-10-19T10:01:17+0000",
       "metrics": {
-        "views": 1208,
+        "views": 1212,
         "likes": 45,
         "replies": 6,
         "reposts": 0,
@@ -72,7 +87,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DerbH7nFC_q",
       "timestamp": "2026-10-19T14:01:24+0000",
       "metrics": {
-        "views": 1177,
+        "views": 1181,
         "likes": 29,
         "replies": 11,
         "reposts": 1,
@@ -80,21 +95,6 @@
         "shares": 0
       },
       "engagement": 41
-    },
-    {
-      "id": "18108775259577191",
-      "text": "Everyone told me Australians take their coffee seriously — I thought it was just national pride talking.\nFirst flat whit",
-      "permalink": "https://www.threads.com/@iams_ichi/post/Det_7MrkZpo",
-      "timestamp": "2026-10-20T14:01:30+0000",
-      "metrics": {
-        "views": 1074,
-        "likes": 28,
-        "replies": 11,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 39
     }
   ],
   "recent_posts": [
@@ -104,14 +104,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Det_7MrkZpo",
       "timestamp": "2026-10-20T14:01:30+0000",
       "metrics": {
-        "views": 1074,
-        "likes": 28,
-        "replies": 11,
+        "views": 1851,
+        "likes": 86,
+        "replies": 18,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 39
+      "engagement": 104
     },
     {
       "id": "18086824124316448",
@@ -119,7 +119,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DetkdLJlXTZ",
       "timestamp": "2026-10-20T10:01:27+0000",
       "metrics": {
-        "views": 356,
+        "views": 369,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -134,7 +134,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DetI90zEX_N",
       "timestamp": "2026-10-20T06:01:14+0000",
       "metrics": {
-        "views": 533,
+        "views": 557,
         "likes": 6,
         "replies": 1,
         "reposts": 0,
@@ -149,14 +149,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DesthEiAOm6",
       "timestamp": "2026-10-20T02:01:23+0000",
       "metrics": {
-        "views": 3292,
-        "likes": 68,
-        "replies": 37,
-        "reposts": 0,
+        "views": 4139,
+        "likes": 91,
+        "replies": 40,
+        "reposts": 1,
         "quotes": 0,
-        "shares": 3
+        "shares": 5
       },
-      "engagement": 105
+      "engagement": 132
     },
     {
       "id": "17917197072261551",
@@ -164,7 +164,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DerbH7nFC_q",
       "timestamp": "2026-10-19T14:01:24+0000",
       "metrics": {
-        "views": 1177,
+        "views": 1181,
         "likes": 29,
         "replies": 11,
         "reposts": 1,
@@ -179,7 +179,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Deq_pM7luM3",
       "timestamp": "2026-10-19T10:01:17+0000",
       "metrics": {
-        "views": 1208,
+        "views": 1212,
         "likes": 45,
         "replies": 6,
         "reposts": 0,
@@ -194,7 +194,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DeqkMDdjqS5",
       "timestamp": "2026-10-19T06:01:22+0000",
       "metrics": {
-        "views": 585,
+        "views": 586,
         "likes": 4,
         "replies": 5,
         "reposts": 0,
@@ -209,7 +209,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DeqPfPxgBPu",
       "timestamp": "2026-10-19T02:59:58+0000",
       "metrics": {
-        "views": 561,
+        "views": 562,
         "likes": 2,
         "replies": 0,
         "reposts": 0,
@@ -224,7 +224,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DeqItcdGqGA",
       "timestamp": "2026-10-19T02:01:17+0000",
       "metrics": {
-        "views": 3886,
+        "views": 3887,
         "likes": 176,
         "replies": 25,
         "reposts": 6,
@@ -239,7 +239,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DeqBwWSgWpH",
       "timestamp": "2026-10-19T00:59:58+0000",
       "metrics": {
-        "views": 51,
+        "views": 52,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
