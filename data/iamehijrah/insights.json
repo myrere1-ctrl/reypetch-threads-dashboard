@@ -1,25 +1,40 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-10-22T13:55:07.794Z",
+  "updated_at": "2026-10-22T18:38:53.076Z",
   "profile": {
     "username": "_iame.hijrah",
     "biography": "Hijrah Journey \nInbox ➡️Akses Safar AI",
-    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=21NfU7s39YEQ7kNvwGFzLKr&_nc_oc=Adpi7FVp-bLYYIjNi7KRuBwL3BalTRDiE75MTy85siXfHj3e2wOjmgj12hi508Ql7NE&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=TzYtVT5bFw-MzonhSd6GTQ&_nc_tpa=Q5bMBQKD71iUFoHdxC2jjFE7SvkGvRbl0rFXm4yIkN8oINCSIm6_6nXdOGWdPz_ou2YfyrFHhhS0OWEl4g&oh=00_AQMj04wlzmL5g0JGnKp0C47teLIHrhJn-CWOuMnEF_St4g&oe=6ADFD813"
+    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=21NfU7s39YEQ7kNvwEgDMN_&_nc_oc=Ado3cFGc6kFtny6f4FYhmsIIuLZqpt6nMtNbkkpqJYhfWULG55Etf1unTnGxk-xnueI&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=QGn-ERAQ-qSEflyi-OA8oA&_nc_tpa=Q5bMBQLOF12PDqpUfpGTdzd0vbviqEXrgEpw56ax__f5mUJ0aRXgxxz-j7dDa7oLAZe45FBDXE-ncqU9iQ&oh=00_AQPjYkcBGsEqctegeje1w0htO0u7W1RVAtkqnRGKJ07EYQ&oe=6AE01053"
   },
   "summary": {
     "followers_count": 8,
-    "views": 274,
-    "likes": 3,
+    "views": 841,
+    "likes": 36,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 63,
-    "engagement_rate": 22.99,
+    "engagement_total": 80,
+    "engagement_rate": 9.51,
     "curiosity_score": null,
     "post_count": 25
   },
   "top_posts": [
+    {
+      "id": "18017192660748415",
+      "text": "4 amalan yang aku kembaliin waktu ngerasa hidup lagi berat banget (yang ke-2 sering aku skip):\n1. Al-Waqiah — tiap habis",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DezM8KooO4A",
+      "timestamp": "2026-10-22T14:31:25+0000",
+      "metrics": {
+        "views": 434,
+        "likes": 26,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 26
+    },
     {
       "id": "18115959701040805",
       "text": "Nenek aku nggak pernah sekalipun skip Al-Waqiah habis Maghrib — bahkan waktu beliau sakit pun, tetap dibaca pelan-pelan.",
@@ -51,34 +66,19 @@
       "engagement": 6
     },
     {
-      "id": "18070197257784527",
-      "text": "Ada satu hal soal takdir yang lama banget baru aku \"ngerti\" beneran.\nAku kira pasrah = nyerah. Ternyata pasrah itu justr",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DerekBylM2s",
-      "timestamp": "2026-10-19T14:31:28+0000",
+      "id": "17954927586038402",
+      "text": "Aku sadar, niat Umroh itu gampang diucap — tapi susah dijaga.\nHabis Subuh kemarin aku duduk sebentar, diam. Tanya ke dir",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DezCqh6IGe3",
+      "timestamp": "2026-10-22T13:01:37+0000",
       "metrics": {
-        "views": 238,
-        "likes": 6,
+        "views": 219,
+        "likes": 5,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 6
-    },
-    {
-      "id": "18104909429460518",
-      "text": "Nenek aku bilang, kalau doa belum dijawab — jangan berhenti, justru perbanyak sholawat di depannya.\nDulu aku bingung, ap",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DerUSKmG56O",
-      "timestamp": "2026-10-19T13:01:39+0000",
-      "metrics": {
-        "views": 85,
-        "likes": 6,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 6
+      "engagement": 5
     },
     {
       "id": "18101456141555377",
@@ -98,19 +98,49 @@
   ],
   "recent_posts": [
     {
-      "id": "17954927586038402",
-      "text": "Aku sadar, niat Umroh itu gampang diucap — tapi susah dijaga.\nHabis Subuh kemarin aku duduk sebentar, diam. Tanya ke dir",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DezCqh6IGe3",
-      "timestamp": "2026-10-22T13:01:37+0000",
+      "id": "17882101488630531",
+      "text": "Kata nenek aku, kalau mau tidur jangan lupa Ayat Kursi — apapun yang terjadi hari itu.\nDulu aku anggap itu kebiasaan ora",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DezXQXOlga8",
+      "timestamp": "2026-10-22T16:01:33+0000",
       "metrics": {
-        "views": 60,
-        "likes": 4,
+        "views": 16,
+        "likes": 1,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 4
+      "engagement": 1
+    },
+    {
+      "id": "18017192660748415",
+      "text": "4 amalan yang aku kembaliin waktu ngerasa hidup lagi berat banget (yang ke-2 sering aku skip):\n1. Al-Waqiah — tiap habis",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DezM8KooO4A",
+      "timestamp": "2026-10-22T14:31:25+0000",
+      "metrics": {
+        "views": 434,
+        "likes": 26,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 26
+    },
+    {
+      "id": "17954927586038402",
+      "text": "Aku sadar, niat Umroh itu gampang diucap — tapi susah dijaga.\nHabis Subuh kemarin aku duduk sebentar, diam. Tanya ke dir",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DezCqh6IGe3",
+      "timestamp": "2026-10-22T13:01:37+0000",
+      "metrics": {
+        "views": 219,
+        "likes": 5,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 5
     },
     {
       "id": "18156075970516151",
@@ -193,14 +223,14 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dewydm4lV0Y",
       "timestamp": "2026-10-21T16:01:33+0000",
       "metrics": {
-        "views": 108,
-        "likes": 3,
+        "views": 109,
+        "likes": 4,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 3
+      "engagement": 4
     },
     {
       "id": "18464552998188666",
@@ -209,36 +239,6 @@
       "timestamp": "2026-10-21T14:31:22+0000",
       "metrics": {
         "views": 2,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "17900398437607230",
-      "text": "4 amalan yang bantu aku lebih damai soal takdir (yang ke-3 sering aku skip tanpa sadar)\n1. Tawakkal — bukan pasrah bodo ",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dewd4Dvm1im",
-      "timestamp": "2026-10-21T13:01:40+0000",
-      "metrics": {
-        "views": 175,
-        "likes": 3,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 3
-    },
-    {
-      "id": "18118319023975559",
-      "text": "Masih nunggu doa yang belum dijawab — kamu juga?\nTadi pagi bangun, masih bisa sujud, masih bisa minta.\nItu sendiri udah ",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DewTjD4G_vA",
-      "timestamp": "2026-10-21T11:31:25+0000",
-      "metrics": {
-        "views": 5,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
