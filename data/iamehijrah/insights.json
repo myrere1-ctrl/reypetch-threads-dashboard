@@ -1,21 +1,21 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-10-22T01:37:21.957Z",
+  "updated_at": "2026-10-22T07:44:34.280Z",
   "profile": {
     "username": "_iame.hijrah",
     "biography": "Hijrah Journey \nInbox ➡️Akses Safar AI",
-    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzIifQ%3D%3D&_nc_ohc=21NfU7s39YEQ7kNvwHLhHGk&_nc_oc=AdoDYdGENN9SiNEgQfaM4tLEOZGbY3RgkMiGrLcOBSmWJmG0nGG6HBNwAvK0YcSIhvk&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=2MH98ZB6_CFkkJ_XfH2Qnw&_nc_tpa=Q5bMBQKOuQ0fgVoXWdutQOcc-Mo54Bo03_Vg_NEQfBGoUDAkAmTy45PWf6m9YcRdryNR1662VwRhBj1CLA&oh=00_AQN6MPo2VDVahHGAK4-ul72EqW133UTebbt6S5wpPkkniA&oe=6ADF2F53"
+    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=21NfU7s39YEQ7kNvwHuU9aZ&_nc_oc=AdpJTLPy2iPk5JftC2T9fvDX42RymKDKpJPkiEAzp_fNtseGwN8146YRJuDn-_--Xt8&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=-BhEF2_DcR-lenHiRl5BNA&_nc_tpa=Q5bMBQJ7RTvrP4qDQPSVSBMAzQWxmtLhpD_93ebmN2KsQNqh5nFuTdDgPTYMo5xVDG_Vnxhw1aQM6dqlcw&oh=00_AQMyIalB7fpRVDtlvNhH50xCugx8-k-wlprZu2bYOhN_qQ&oe=6ADF9FD3"
   },
   "summary": {
     "followers_count": 8,
-    "views": 665,
-    "likes": 14,
+    "views": 11,
+    "likes": 1,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 73,
-    "engagement_rate": 10.98,
+    "engagement_total": 75,
+    "engagement_rate": 681.82,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -98,12 +98,27 @@
   ],
   "recent_posts": [
     {
+      "id": "17905816179598323",
+      "text": "Ada satu amalan yang aku lakuin pas ngerasa paling jauh dari Allah — dan rasanya beda banget.\nBukan amalan berat. Cuma i",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DeyPJG_FPxE",
+      "timestamp": "2026-10-22T05:31:24+0000",
+      "metrics": {
+        "views": 122,
+        "likes": 3,
+        "replies": 0,
+        "reposts": 1,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 4
+    },
+    {
       "id": "18096267554123963",
       "text": "Lagi di titik yang kerasa buntu banget — semua usaha kayak nggak ke mana-mana?\nAku pernah di fase itu. Overthinking tiap",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DexwQNpHfOR",
       "timestamp": "2026-10-22T01:01:29+0000",
       "metrics": {
-        "views": 20,
+        "views": 37,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -118,7 +133,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dexbsp-iXEZ",
       "timestamp": "2026-10-21T22:01:52+0000",
       "metrics": {
-        "views": 123,
+        "views": 124,
         "likes": 4,
         "replies": 0,
         "reposts": 0,
@@ -163,7 +178,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dewd4Dvm1im",
       "timestamp": "2026-10-21T13:01:40+0000",
       "metrics": {
-        "views": 171,
+        "views": 172,
         "likes": 3,
         "replies": 0,
         "reposts": 0,
@@ -231,21 +246,6 @@
         "shares": 0
       },
       "engagement": 0
-    },
-    {
-      "id": "18128193475843402",
-      "text": "Malam ini, kamu udah sempat berhenti dan ngitung nikmat — atau langsung collapse kecapekan?\nAku nanya ke diri sendiri ju",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Deu23VIksZw",
-      "timestamp": "2026-10-20T22:01:33+0000",
-      "metrics": {
-        "views": 29,
-        "likes": 1,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
     }
   ]
 }
