@@ -1,21 +1,21 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-10-23T13:35:41.851Z",
+  "updated_at": "2026-10-23T18:29:05.117Z",
   "profile": {
     "username": "_iame.hijrah",
     "biography": "Hijrah Journey \nInbox ➡️Akses Safar AI",
-    "picture": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=21NfU7s39YEQ7kNvwHD1Mhx&_nc_oc=AdpwIoKHOF1Xy4xrmreH-8L0AV0X7x-KmNkaurbCR9YIv5UHWK9SOEDgDsFs-MEm9n8&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=o3_5uNIQRTngilkAKsSa7A&_nc_tpa=Q5bMBQIY2l160cyzDs-vTObio67zdveI33_Hn_LMlKSWZhFYK8ivngajJ8ZKvUXhCcNboLdv9hxJrYcqhA&oh=00_AQO-uaDpFsCy3KeAyXIRCPFCmO-qpaZvYq44fUs4b4sA0g&oe=6AE12993"
+    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=21NfU7s39YEQ7kNvwE6raCW&_nc_oc=AdoJPZHmoAOVB4yIBIBCb-OggMDp2a3uXgb4_OOb7qpBGFVwOceQSKFZNS3ZALTScik&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=2pjtLvBKam2hjZjtcsDWWg&_nc_tpa=Q5bMBQJmSYqECEMTAOkmMf-sKsrjyY7WdTbw_ZUY3QGf0g5y7aL6566g-pU45CAat9z0cFE9eonryB9Vfg&oh=00_AQOLo-Fh0o2JcO74Ws1NwshypJBUtAVF2nBT8ncNKYjkRA&oe=6AE161D3"
   },
   "summary": {
     "followers_count": 8,
-    "views": 323,
-    "likes": 10,
+    "views": 622,
+    "likes": 20,
     "replies": 0,
-    "reposts": 0,
+    "reposts": 1,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 95,
-    "engagement_rate": 29.41,
+    "engagement_total": 102,
+    "engagement_rate": 16.4,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -26,14 +26,14 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DezM8KooO4A",
       "timestamp": "2026-10-22T14:31:25+0000",
       "metrics": {
-        "views": 531,
+        "views": 538,
         "likes": 32,
         "replies": 0,
-        "reposts": 0,
+        "reposts": 1,
         "quotes": 0,
         "shares": 1
       },
-      "engagement": 32
+      "engagement": 33
     },
     {
       "id": "18115959701040805",
@@ -41,7 +41,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DeuNreYFjkS",
       "timestamp": "2026-10-20T16:01:39+0000",
       "metrics": {
-        "views": 213,
+        "views": 214,
         "likes": 11,
         "replies": 0,
         "reposts": 0,
@@ -51,12 +51,27 @@
       "engagement": 11
     },
     {
+      "id": "18129404738496625",
+      "text": "Rindu Masjidil Haram itu aneh — belum pernah ke sana, tapi rindunya nyata banget.\nKayak ada yang kosong, tapi gatau haru",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/De1nfsdG3Wr",
+      "timestamp": "2026-10-23T13:01:56+0000",
+      "metrics": {
+        "views": 161,
+        "likes": 10,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 10
+    },
+    {
       "id": "18116928704106314",
       "text": "Mama aku selalu bilang, kalau ngerasa hidup lagi nggak adil — baca istighfar, terus husnudzon sama Allah.\nDulu aku angga",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/De0Ad0xmyRn",
       "timestamp": "2026-10-22T22:01:39+0000",
       "metrics": {
-        "views": 339,
+        "views": 347,
         "likes": 9,
         "replies": 0,
         "reposts": 0,
@@ -66,27 +81,12 @@
       "engagement": 9
     },
     {
-      "id": "18129404738496625",
-      "text": "Rindu Masjidil Haram itu aneh — belum pernah ke sana, tapi rindunya nyata banget.\nKayak ada yang kosong, tapi gatau haru",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/De1nfsdG3Wr",
-      "timestamp": "2026-10-23T13:01:56+0000",
-      "metrics": {
-        "views": 78,
-        "likes": 8,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 8
-    },
-    {
       "id": "17954927586038402",
       "text": "Aku sadar, niat Umroh itu gampang diucap — tapi susah dijaga.\nHabis Subuh kemarin aku duduk sebentar, diam. Tanya ke dir",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DezCqh6IGe3",
       "timestamp": "2026-10-22T13:01:37+0000",
       "metrics": {
-        "views": 232,
+        "views": 233,
         "likes": 5,
         "replies": 0,
         "reposts": 0,
@@ -98,19 +98,49 @@
   ],
   "recent_posts": [
     {
-      "id": "18129404738496625",
-      "text": "Rindu Masjidil Haram itu aneh — belum pernah ke sana, tapi rindunya nyata banget.\nKayak ada yang kosong, tapi gatau haru",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/De1nfsdG3Wr",
-      "timestamp": "2026-10-23T13:01:56+0000",
+      "id": "17979063666121463",
+      "text": "Malam ini kamu lagi ngerasa terjebak — tapi gatau harus ngomong apa?\nAku pernah di titik itu. Dan yang aku lakuin cuma s",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/De18FQaIOlf",
+      "timestamp": "2026-10-23T16:01:49+0000",
       "metrics": {
-        "views": 78,
-        "likes": 8,
+        "views": 5,
+        "likes": 0,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 8
+      "engagement": 0
+    },
+    {
+      "id": "18104278760366886",
+      "text": "Nenek aku selalu bilang, kalau ada yang lagi sakit atau baru pergi — bacain Yasin.\nDulu aku ngerasa itu tradisi aja. Sek",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/De1xvUnG4WB",
+      "timestamp": "2026-10-23T14:31:26+0000",
+      "metrics": {
+        "views": 113,
+        "likes": 4,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 4
+    },
+    {
+      "id": "18129404738496625",
+      "text": "Rindu Masjidil Haram itu aneh — belum pernah ke sana, tapi rindunya nyata banget.\nKayak ada yang kosong, tapi gatau haru",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/De1nfsdG3Wr",
+      "timestamp": "2026-10-23T13:01:56+0000",
+      "metrics": {
+        "views": 161,
+        "likes": 10,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 10
     },
     {
       "id": "18348396748253982",
@@ -118,7 +148,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/De1dIaekbMq",
       "timestamp": "2026-10-23T11:31:22+0000",
       "metrics": {
-        "views": 67,
+        "views": 76,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -133,7 +163,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/De1IiuDlYLA",
       "timestamp": "2026-10-23T08:31:27+0000",
       "metrics": {
-        "views": 131,
+        "views": 135,
         "likes": 3,
         "replies": 0,
         "reposts": 0,
@@ -148,7 +178,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/De0z7LsDjDt",
       "timestamp": "2026-10-23T05:31:18+0000",
       "metrics": {
-        "views": 29,
+        "views": 30,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -163,7 +193,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/De0VDYYFD0C",
       "timestamp": "2026-10-23T01:01:31+0000",
       "metrics": {
-        "views": 95,
+        "views": 96,
         "likes": 4,
         "replies": 0,
         "reposts": 0,
@@ -178,7 +208,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/De0Ad0xmyRn",
       "timestamp": "2026-10-22T22:01:39+0000",
       "metrics": {
-        "views": 339,
+        "views": 347,
         "likes": 9,
         "replies": 0,
         "reposts": 0,
@@ -193,7 +223,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DezXQXOlga8",
       "timestamp": "2026-10-22T16:01:33+0000",
       "metrics": {
-        "views": 16,
+        "views": 17,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -208,44 +238,14 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DezM8KooO4A",
       "timestamp": "2026-10-22T14:31:25+0000",
       "metrics": {
-        "views": 531,
+        "views": 538,
         "likes": 32,
         "replies": 0,
-        "reposts": 0,
+        "reposts": 1,
         "quotes": 0,
         "shares": 1
       },
-      "engagement": 32
-    },
-    {
-      "id": "17954927586038402",
-      "text": "Aku sadar, niat Umroh itu gampang diucap — tapi susah dijaga.\nHabis Subuh kemarin aku duduk sebentar, diam. Tanya ke dir",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DezCqh6IGe3",
-      "timestamp": "2026-10-22T13:01:37+0000",
-      "metrics": {
-        "views": 232,
-        "likes": 5,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 5
-    },
-    {
-      "id": "18156075970516151",
-      "text": "4 hal kecil yang aku jadiin muhasabah tiap malam (yang ke-2 sering aku lewatin)\n1. Istighfar — inget salah apa hari ini,",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dey4WsioKYg",
-      "timestamp": "2026-10-22T11:31:31+0000",
-      "metrics": {
-        "views": 42,
-        "likes": 1,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
+      "engagement": 33
     }
   ]
 }
