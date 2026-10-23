@@ -1,21 +1,21 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-10-23T07:42:18.933Z",
+  "updated_at": "2026-10-23T13:35:41.851Z",
   "profile": {
     "username": "_iame.hijrah",
     "biography": "Hijrah Journey \nInbox ➡️Akses Safar AI",
-    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=21NfU7s39YEQ7kNvwGAkV_K&_nc_oc=AdpOKSXX2Y4dIncFQfoe8YOL4oII4lP9tHfP8BxpCRS3ZIJWHYrKp6zp8-sfx_GmCF4&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=MYhtyZxVYj-NyHaYRIpA8A&_nc_tpa=Q5bMBQKmEMSIVVZEjXnUZ8Vzjrw0nR4BHJzpxlFLM-_XCR0-VV793KqaymC4EtkzIKXdZ_XhKmyjuWmxuQ&oh=00_AQMr_fa4Bnxn1-_r9o3bRcMv1Bc2zS5BtvkHJ_NGGIRuCw&oe=6AE0F153"
+    "picture": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=21NfU7s39YEQ7kNvwHD1Mhx&_nc_oc=AdpwIoKHOF1Xy4xrmreH-8L0AV0X7x-KmNkaurbCR9YIv5UHWK9SOEDgDsFs-MEm9n8&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=o3_5uNIQRTngilkAKsSa7A&_nc_tpa=Q5bMBQIY2l160cyzDs-vTObio67zdveI33_Hn_LMlKSWZhFYK8ivngajJ8ZKvUXhCcNboLdv9hxJrYcqhA&oh=00_AQO-uaDpFsCy3KeAyXIRCPFCmO-qpaZvYq44fUs4b4sA0g&oe=6AE12993"
   },
   "summary": {
     "followers_count": 8,
-    "views": 2,
-    "likes": 0,
+    "views": 323,
+    "likes": 10,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 90,
-    "engagement_rate": 4500,
+    "engagement_total": 95,
+    "engagement_rate": 29.41,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -26,14 +26,14 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DezM8KooO4A",
       "timestamp": "2026-10-22T14:31:25+0000",
       "metrics": {
-        "views": 503,
-        "likes": 31,
+        "views": 531,
+        "likes": 32,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 1
       },
-      "engagement": 31
+      "engagement": 32
     },
     {
       "id": "18115959701040805",
@@ -56,7 +56,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/De0Ad0xmyRn",
       "timestamp": "2026-10-22T22:01:39+0000",
       "metrics": {
-        "views": 331,
+        "views": 339,
         "likes": 9,
         "replies": 0,
         "reposts": 0,
@@ -66,19 +66,19 @@
       "engagement": 9
     },
     {
-      "id": "18112387888893021",
-      "text": "Tau nggak, ada satu amalan yang justru paling susah dilakuin bukan karena beratnya — tapi karena kita nggak sadar kita b",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Detuw_mGwdd",
-      "timestamp": "2026-10-20T11:31:32+0000",
+      "id": "18129404738496625",
+      "text": "Rindu Masjidil Haram itu aneh — belum pernah ke sana, tapi rindunya nyata banget.\nKayak ada yang kosong, tapi gatau haru",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/De1nfsdG3Wr",
+      "timestamp": "2026-10-23T13:01:56+0000",
       "metrics": {
-        "views": 141,
-        "likes": 6,
+        "views": 78,
+        "likes": 8,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 6
+      "engagement": 8
     },
     {
       "id": "17954927586038402",
@@ -86,7 +86,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DezCqh6IGe3",
       "timestamp": "2026-10-22T13:01:37+0000",
       "metrics": {
-        "views": 226,
+        "views": 232,
         "likes": 5,
         "replies": 0,
         "reposts": 0,
@@ -98,12 +98,57 @@
   ],
   "recent_posts": [
     {
+      "id": "18129404738496625",
+      "text": "Rindu Masjidil Haram itu aneh — belum pernah ke sana, tapi rindunya nyata banget.\nKayak ada yang kosong, tapi gatau haru",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/De1nfsdG3Wr",
+      "timestamp": "2026-10-23T13:01:56+0000",
+      "metrics": {
+        "views": 78,
+        "likes": 8,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 8
+    },
+    {
+      "id": "18348396748253982",
+      "text": "Kalau malam ini kamu lagi nanya \"kenapa harus ini yang terjadi sama aku?\" — aku pernah banget di sana.\nDulu aku pikir ta",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/De1dIaekbMq",
+      "timestamp": "2026-10-23T11:31:22+0000",
+      "metrics": {
+        "views": 67,
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
+      "id": "18494734969129246",
+      "text": "Kenapa doa yang paling tulus justru sering muncul pas habis Subuh, waktu masih setengah ngantuk?\nAku sering ngerasa gitu",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/De1IiuDlYLA",
+      "timestamp": "2026-10-23T08:31:27+0000",
+      "metrics": {
+        "views": 131,
+        "likes": 3,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 3
+    },
+    {
       "id": "17912856060513407",
       "text": "Kenapa cemas paling kerasa pas sepertiga malam — pas yang lain udah tidur, tapi kamu malah makin sumpek sendiri?\nAku ser",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/De0z7LsDjDt",
       "timestamp": "2026-10-23T05:31:18+0000",
       "metrics": {
-        "views": 28,
+        "views": 29,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -118,7 +163,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/De0VDYYFD0C",
       "timestamp": "2026-10-23T01:01:31+0000",
       "metrics": {
-        "views": 93,
+        "views": 95,
         "likes": 4,
         "replies": 0,
         "reposts": 0,
@@ -133,7 +178,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/De0Ad0xmyRn",
       "timestamp": "2026-10-22T22:01:39+0000",
       "metrics": {
-        "views": 331,
+        "views": 339,
         "likes": 9,
         "replies": 0,
         "reposts": 0,
@@ -163,14 +208,14 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DezM8KooO4A",
       "timestamp": "2026-10-22T14:31:25+0000",
       "metrics": {
-        "views": 503,
-        "likes": 31,
+        "views": 531,
+        "likes": 32,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 1
       },
-      "engagement": 31
+      "engagement": 32
     },
     {
       "id": "17954927586038402",
@@ -178,7 +223,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DezCqh6IGe3",
       "timestamp": "2026-10-22T13:01:37+0000",
       "metrics": {
-        "views": 226,
+        "views": 232,
         "likes": 5,
         "replies": 0,
         "reposts": 0,
@@ -201,51 +246,6 @@
         "shares": 0
       },
       "engagement": 1
-    },
-    {
-      "id": "17938208379127053",
-      "text": "Dulu aku mikir ikhlas itu soal nggak mengharapkan apapun — sekali niat lillah, selesai.\nTernyata lebih susah dari itu. I",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DeyjvdBlZAp",
-      "timestamp": "2026-10-22T08:31:24+0000",
-      "metrics": {
-        "views": 80,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "17905816179598323",
-      "text": "Ada satu amalan yang aku lakuin pas ngerasa paling jauh dari Allah — dan rasanya beda banget.\nBukan amalan berat. Cuma i",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DeyPJG_FPxE",
-      "timestamp": "2026-10-22T05:31:24+0000",
-      "metrics": {
-        "views": 159,
-        "likes": 3,
-        "replies": 0,
-        "reposts": 1,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 4
-    },
-    {
-      "id": "18096267554123963",
-      "text": "Lagi di titik yang kerasa buntu banget — semua usaha kayak nggak ke mana-mana?\nAku pernah di fase itu. Overthinking tiap",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DexwQNpHfOR",
-      "timestamp": "2026-10-22T01:01:29+0000",
-      "metrics": {
-        "views": 37,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
     }
   ]
 }
