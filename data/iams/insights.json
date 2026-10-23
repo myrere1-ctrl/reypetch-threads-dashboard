@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-10-23T13:35:00.153Z",
+  "updated_at": "2026-10-23T18:28:27.599Z",
   "profile": {
     "username": "iams_ichi",
     "name": "I.petch",
     "biography": "🇦🇺\nCMO at COA.AU &\nNo-Code App Builder\nOnly Positive Vibes\nIt’s about the vibe and the feeling. \nThe names of the places? 🤔",
-    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=GexGn8hsXgIQ7kNvwGzcseb&_nc_oc=AdqC9bPtwF5J-Dl61x2pQo1PJLH9o0USTKrpDZ-2XNj0uWsOguWk1kJZrLkO7wYdeOg&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=YS8OBGLHmOQt1H3o_k66WA&_nc_tpa=Q5bMBQJjRp7j5jj_NFY46PxOP7RIeG8mWNp3tXQjfQKHCSPuN7eXCYQseg34ydg5YR8v4R7NVwbDmqEeyg&oh=00_AQPvYSv1KNO1kCnBwA2XFFCn-rYNnqWnz38xNPqrDFkyfA&oe=6AE1381E"
+    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=GexGn8hsXgIQ7kNvwE9nGVq&_nc_oc=AdplvKyyhRWnEPvQ9pEcOs-6wnGxp89Dq5CiiapFHGrCcnLWguflZNLIi6n1ihNht0g&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=onl2OnLIY8XrUpV1HTBvaw&_nc_tpa=Q5bMBQJ4Ckf5bGtzKquqnR9pFSdis-1NnKRx6C8nXODGaPSeh220glNhu3TuexHmxHYBJN1YskGP-OVpYg&oh=00_AQND5lEed_Hmp9w6RWuueMfaKIg7ioTwbvvClq6dbOKUbw&oe=6AE1705E"
   },
   "summary": {
     "followers_count": 1394,
-    "views": 248,
-    "likes": 3,
+    "views": 341,
+    "likes": 6,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 1287,
-    "engagement_rate": 518.95,
+    "engagement_rate": 377.42,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -27,7 +27,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Det_7MrkZpo",
       "timestamp": "2026-10-20T14:01:30+0000",
       "metrics": {
-        "views": 13813,
+        "views": 13818,
         "likes": 583,
         "replies": 77,
         "reposts": 2,
@@ -72,7 +72,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DevSTHYgDHZ",
       "timestamp": "2026-10-21T02:01:16+0000",
       "metrics": {
-        "views": 3536,
+        "views": 3540,
         "likes": 55,
         "replies": 20,
         "reposts": 1,
@@ -99,12 +99,27 @@
   ],
   "recent_posts": [
     {
+      "id": "17991844245098317",
+      "text": "Unpopular opinion: Melbourne is actually wasted on people who stick to the main streets.\nThe city makes sense in a lanew",
+      "permalink": "https://www.threads.com/@iams_ichi/post/De1uS-9Gzdy",
+      "timestamp": "2026-10-23T14:01:22+0000",
+      "metrics": {
+        "views": 48,
+        "likes": 3,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 4
+    },
+    {
       "id": "17876001120635502",
       "text": "I just realized I've been chasing the \"French girl\" fantasy in Paris for years — the effortless aesthetic, the slow morn",
       "permalink": "https://www.threads.com/@iams_ichi/post/De1S01wkfp6",
       "timestamp": "2026-10-23T10:01:20+0000",
       "metrics": {
-        "views": 123,
+        "views": 130,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -134,7 +149,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/De0b5dLjvDw",
       "timestamp": "2026-10-23T02:01:21+0000",
       "metrics": {
-        "views": 59,
+        "views": 60,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -149,7 +164,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DezJhHpGxh2",
       "timestamp": "2026-10-22T14:01:30+0000",
       "metrics": {
-        "views": 65,
+        "views": 67,
         "likes": 1,
         "replies": 1,
         "reposts": 0,
@@ -164,7 +179,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DeyuCwPnNk4",
       "timestamp": "2026-10-22T10:01:27+0000",
       "metrics": {
-        "views": 695,
+        "views": 697,
         "likes": 24,
         "replies": 3,
         "reposts": 0,
@@ -232,21 +247,6 @@
         "shares": 0
       },
       "engagement": 2
-    },
-    {
-      "id": "17898993579655664",
-      "text": "Brisbane gets written off as the city you pass through on the way to Gold Coast or Noosa.\nSpent three days there thinkin",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DevtxgznHbh",
-      "timestamp": "2026-10-21T06:01:20+0000",
-      "metrics": {
-        "views": 1697,
-        "likes": 36,
-        "replies": 8,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 44
     }
   ]
 }
