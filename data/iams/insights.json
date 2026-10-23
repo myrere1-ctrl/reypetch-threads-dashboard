@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-10-23T07:41:38.791Z",
+  "updated_at": "2026-10-23T13:35:00.153Z",
   "profile": {
     "username": "iams_ichi",
     "name": "I.petch",
     "biography": "🇦🇺\nCMO at COA.AU &\nNo-Code App Builder\nOnly Positive Vibes\nIt’s about the vibe and the feeling. \nThe names of the places? 🤔",
-    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=GexGn8hsXgIQ7kNvwH1eozK&_nc_oc=AdpQsuCaGwpoOo9yTZ9O7-sDQOA2Wjxcs_J4JFZVV1uiOW8Sq0dYUMRx297oA1JwZaY&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=dsza8vzLjr6bY3WUZogxMA&_nc_tpa=Q5bMBQJ_GXWsAsRkscQHMWDrMaN9BASJN9nyeRmLYQp1QF0YNtp3JySYaFKS86e2DZz_htyflw_5MIKr2Q&oh=00_AQNMJYd--h83bLVsYWpZkPzcJhoUx6RfL61svGbOM4cfdQ&oe=6AE0C79E"
+    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=GexGn8hsXgIQ7kNvwGzcseb&_nc_oc=AdqC9bPtwF5J-Dl61x2pQo1PJLH9o0USTKrpDZ-2XNj0uWsOguWk1kJZrLkO7wYdeOg&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=YS8OBGLHmOQt1H3o_k66WA&_nc_tpa=Q5bMBQJjRp7j5jj_NFY46PxOP7RIeG8mWNp3tXQjfQKHCSPuN7eXCYQseg34ydg5YR8v4R7NVwbDmqEeyg&oh=00_AQPvYSv1KNO1kCnBwA2XFFCn-rYNnqWnz38xNPqrDFkyfA&oe=6AE1381E"
   },
   "summary": {
     "followers_count": 1394,
-    "views": 16,
-    "likes": 0,
+    "views": 248,
+    "likes": 3,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 1284,
-    "engagement_rate": 8025,
+    "engagement_total": 1287,
+    "engagement_rate": 518.95,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -27,7 +27,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Det_7MrkZpo",
       "timestamp": "2026-10-20T14:01:30+0000",
       "metrics": {
-        "views": 13807,
+        "views": 13813,
         "likes": 583,
         "replies": 77,
         "reposts": 2,
@@ -42,7 +42,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DeqItcdGqGA",
       "timestamp": "2026-10-19T02:01:17+0000",
       "metrics": {
-        "views": 3928,
+        "views": 3930,
         "likes": 176,
         "replies": 25,
         "reposts": 6,
@@ -72,7 +72,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DevSTHYgDHZ",
       "timestamp": "2026-10-21T02:01:16+0000",
       "metrics": {
-        "views": 3534,
+        "views": 3536,
         "likes": 55,
         "replies": 20,
         "reposts": 1,
@@ -99,19 +99,34 @@
   ],
   "recent_posts": [
     {
+      "id": "17876001120635502",
+      "text": "I just realized I've been chasing the \"French girl\" fantasy in Paris for years — the effortless aesthetic, the slow morn",
+      "permalink": "https://www.threads.com/@iams_ichi/post/De1S01wkfp6",
+      "timestamp": "2026-10-23T10:01:20+0000",
+      "metrics": {
+        "views": 123,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "18212443465362314",
       "text": "Unpopular opinion: Tasmania is actually wasted on people who only do the highlights reel.\nThe real thing is a random gra",
       "permalink": "https://www.threads.com/@iams_ichi/post/De03XT7DsWo",
       "timestamp": "2026-10-23T06:01:21+0000",
       "metrics": {
-        "views": 56,
-        "likes": 2,
+        "views": 72,
+        "likes": 5,
         "replies": 1,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 3
+      "engagement": 6
     },
     {
       "id": "18110324081218958",
@@ -119,7 +134,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/De0b5dLjvDw",
       "timestamp": "2026-10-23T02:01:21+0000",
       "metrics": {
-        "views": 57,
+        "views": 59,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -134,7 +149,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DezJhHpGxh2",
       "timestamp": "2026-10-22T14:01:30+0000",
       "metrics": {
-        "views": 62,
+        "views": 65,
         "likes": 1,
         "replies": 1,
         "reposts": 0,
@@ -149,7 +164,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DeyuCwPnNk4",
       "timestamp": "2026-10-22T10:01:27+0000",
       "metrics": {
-        "views": 652,
+        "views": 695,
         "likes": 24,
         "replies": 3,
         "reposts": 0,
@@ -164,7 +179,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DeySkVelLPp",
       "timestamp": "2026-10-22T06:01:20+0000",
       "metrics": {
-        "views": 170,
+        "views": 171,
         "likes": 2,
         "replies": 1,
         "reposts": 1,
@@ -179,7 +194,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dex3GfQDuOq",
       "timestamp": "2026-10-22T02:01:20+0000",
       "metrics": {
-        "views": 167,
+        "views": 168,
         "likes": 2,
         "replies": 0,
         "reposts": 0,
@@ -194,7 +209,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DewktopG42q",
       "timestamp": "2026-10-21T14:01:25+0000",
       "metrics": {
-        "views": 54,
+        "views": 55,
         "likes": 1,
         "replies": 1,
         "reposts": 0,
@@ -224,7 +239,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DevtxgznHbh",
       "timestamp": "2026-10-21T06:01:20+0000",
       "metrics": {
-        "views": 1696,
+        "views": 1697,
         "likes": 36,
         "replies": 8,
         "reposts": 0,
@@ -232,21 +247,6 @@
         "shares": 0
       },
       "engagement": 44
-    },
-    {
-      "id": "18079952777619895",
-      "text": "I just realized Osaka hit different because nobody there is performing for tourists — they're just living.\nTakoyashi at ",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DevSTHYgDHZ",
-      "timestamp": "2026-10-21T02:01:16+0000",
-      "metrics": {
-        "views": 3534,
-        "likes": 55,
-        "replies": 20,
-        "reposts": 1,
-        "quotes": 1,
-        "shares": 0
-      },
-      "engagement": 77
     }
   ]
 }
