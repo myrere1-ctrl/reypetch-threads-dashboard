@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-10-25T06:17:32.805Z",
+  "updated_at": "2026-10-25T11:47:13.597Z",
   "profile": {
     "username": "iams_ichi",
     "name": "I.petch",
     "biography": "🇦🇺\nCMO at COA.AU &\nNo-Code App Builder\nOnly Positive Vibes\nIt’s about the vibe and the feeling. \nThe names of the places? 🤔",
-    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=GexGn8hsXgIQ7kNvwHQzEu0&_nc_oc=AdrJUiz3iMETT-N95WZDD4gANKxNgFacB7eBRhAbqfClkRUPVglGIeFg9eMQnsM1Ix4&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=E3RO3xSKjHNM3EaAL5OrsA&_nc_tpa=Q5bMBQJal1khyHIKJsX_wv01-uoaS59CgQuIDvyqAZ4HMFcUuc_yWWWC6Uv8aRGnntHa_Z3Q1lQ2EuzH3Q&oh=00_AQOp22tehEYJZsl22w_YsJF0S_7uZxOiBfHS5nYHAeXTpQ&oe=6AE36A9E"
+    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=XNhL36Z6gNUQ7kNvwFvfTMh&_nc_oc=Adq4z1e0xFPMiP51jSkshZeGtH6eqI1CPiTRzQNhgL8nNK-RxCXY-f-xuK_GAuOYbLA&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=dIvqVqy77Cip89wPLpFR7g&_nc_tpa=Q5bMBQLnzgYk_0Qxf3ZCCHGigqyHnnqpsrTJnjV4lJVJtHHo2tZKmLRuQbxgEaRKZGwIViav0GUmqFy4lg&oh=00_AQPoaWb-6gARENiJy2LdFjiHIC46_FNaKDLLOu6Lx2KHnw&oe=6AE3A2DE"
   },
   "summary": {
     "followers_count": 1394,
-    "views": 122,
-    "likes": 1,
-    "replies": 0,
-    "reposts": 0,
+    "views": 916,
+    "likes": 19,
+    "replies": 2,
+    "reposts": 1,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 1293,
-    "engagement_rate": 1059.84,
+    "engagement_total": 1112,
+    "engagement_rate": 121.4,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -27,7 +27,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Det_7MrkZpo",
       "timestamp": "2026-10-20T14:01:30+0000",
       "metrics": {
-        "views": 13850,
+        "views": 13854,
         "likes": 583,
         "replies": 77,
         "reposts": 2,
@@ -37,27 +37,12 @@
       "engagement": 663
     },
     {
-      "id": "18036129674853495",
-      "text": "Japan gave me the best introvert gift — socially acceptable silence.\nNobody fills the quiet here just to fill it. You're",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DeqItcdGqGA",
-      "timestamp": "2026-10-19T02:01:17+0000",
-      "metrics": {
-        "views": 3941,
-        "likes": 176,
-        "replies": 25,
-        "reposts": 6,
-        "quotes": 2,
-        "shares": 1
-      },
-      "engagement": 209
-    },
-    {
       "id": "18106860536251014",
       "text": "Unpopular opinion: Tokyo is actually a terrible city for spontaneous travel.\nEverything is so good, so specific, so inte",
       "permalink": "https://www.threads.com/@iams_ichi/post/DesthEiAOm6",
       "timestamp": "2026-10-20T02:01:23+0000",
       "metrics": {
-        "views": 4411,
+        "views": 4412,
         "likes": 93,
         "replies": 40,
         "reposts": 1,
@@ -72,7 +57,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DevSTHYgDHZ",
       "timestamp": "2026-10-21T02:01:16+0000",
       "metrics": {
-        "views": 3556,
+        "views": 3557,
         "likes": 55,
         "replies": 20,
         "reposts": 1,
@@ -95,16 +80,61 @@
         "shares": 0
       },
       "engagement": 51
+    },
+    {
+      "id": "17898993579655664",
+      "text": "Brisbane gets written off as the city you pass through on the way to Gold Coast or Noosa.\nSpent three days there thinkin",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DevtxgznHbh",
+      "timestamp": "2026-10-21T06:01:20+0000",
+      "metrics": {
+        "views": 1705,
+        "likes": 36,
+        "replies": 8,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 44
     }
   ],
   "recent_posts": [
+    {
+      "id": "18435418738145537",
+      "text": "Unpopular opinion: Australians genuinely don't care about luxury flex — but they will spend real money on a good outdoor",
+      "permalink": "https://www.threads.com/@iams_ichi/post/De6Z0ZVgfeM",
+      "timestamp": "2026-10-25T09:38:05+0000",
+      "metrics": {
+        "views": 707,
+        "likes": 19,
+        "replies": 4,
+        "reposts": 1,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 24
+    },
+    {
+      "id": "18119046979796166",
+      "text": "How To Read Travel Advisories Like A Threat Analyst (And Ignore The Internet’s Hype) \n\n1/ A viral thread claims the US, ",
+      "permalink": "https://www.threads.com/@iams_ichi/post/De6ZOmXI4xb",
+      "timestamp": "2026-10-25T09:32:55+0000",
+      "metrics": {
+        "views": 42,
+        "likes": 0,
+        "replies": 4,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 4
+    },
     {
       "id": "18113736899138488",
       "text": "Lazy Saturday for Daisy 🐾",
       "permalink": "https://www.threads.com/@iams_ichi/post/De2ZwmIE2ZL",
       "timestamp": "2026-10-23T20:20:36+0000",
       "metrics": {
-        "views": 21,
+        "views": 23,
         "likes": 2,
         "replies": 0,
         "reposts": 0,
@@ -119,7 +149,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/De2Ueg7E8_g",
       "timestamp": "2026-10-23T19:34:26+0000",
       "metrics": {
-        "views": 5,
+        "views": 7,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -134,7 +164,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/De1uS-9Gzdy",
       "timestamp": "2026-10-23T14:01:22+0000",
       "metrics": {
-        "views": 58,
+        "views": 59,
         "likes": 5,
         "replies": 1,
         "reposts": 0,
@@ -149,7 +179,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/De1S01wkfp6",
       "timestamp": "2026-10-23T10:01:20+0000",
       "metrics": {
-        "views": 142,
+        "views": 143,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -164,7 +194,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/De03XT7DsWo",
       "timestamp": "2026-10-23T06:01:21+0000",
       "metrics": {
-        "views": 84,
+        "views": 85,
         "likes": 6,
         "replies": 1,
         "reposts": 0,
@@ -209,7 +239,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DeyuCwPnNk4",
       "timestamp": "2026-10-22T10:01:27+0000",
       "metrics": {
-        "views": 710,
+        "views": 714,
         "likes": 24,
         "replies": 3,
         "reposts": 0,
@@ -217,36 +247,6 @@
         "shares": 0
       },
       "engagement": 27
-    },
-    {
-      "id": "17908418157333319",
-      "text": "Everyone said Bondi is overhyped and packed — and yeah, at noon it is.\nBut 7am? It's just locals doing ocean swims like ",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DeySkVelLPp",
-      "timestamp": "2026-10-22T06:01:20+0000",
-      "metrics": {
-        "views": 173,
-        "likes": 2,
-        "replies": 1,
-        "reposts": 1,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 4
-    },
-    {
-      "id": "18085988129710243",
-      "text": "It's 6am in Kyoto and the temple path is completely empty.\nThe fog is still sitting between the torii gates and I genuin",
-      "permalink": "https://www.threads.com/@iams_ichi/post/Dex3GfQDuOq",
-      "timestamp": "2026-10-22T02:01:20+0000",
-      "metrics": {
-        "views": 168,
-        "likes": 2,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 2
     }
   ]
 }
