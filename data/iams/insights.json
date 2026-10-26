@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-10-25T22:39:14.769Z",
+  "updated_at": "2026-10-26T01:19:43.710Z",
   "profile": {
     "username": "iams_ichi",
     "name": "I.petch",
     "biography": "🇦🇺\nCMO at COA.AU &\nNo-Code App Builder\nOnly Positive Vibes\nIt’s about the vibe and the feeling. \nThe names of the places? 🤔",
-    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=XNhL36Z6gNUQ7kNvwGPNm4T&_nc_oc=AdpmvZqQRMpMRVm_rSHSEzv1TuazMs1qbzlvq1xZCNisTHg5WILNd63R6uQYkGKJBZw&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=NYxZcVc4x7ZKv67kh9zPmQ&_nc_tpa=Q5bMBQL8ZtBPusRiO3SSezwORt8C_RCHTqqK6KPGGkHu_4IFjiwarLPrRKpvoZ1wiVZu_ZgSMSoomyA-pw&oh=00_AQNItKV6G8sQWIhp7AgH6gttCzk0xlk5HlQ9D8i-eLZCWQ&oe=6AE44B9E"
+    "picture": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=XNhL36Z6gNUQ7kNvwEdMPSo&_nc_oc=AdohELq_9uxKIUd4Ukr0Eob46RHr4u-eHPw8zabDXgQZfnBODQ15EAUB5H_4Z2zlwDs&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=e5rzPz26RfBfl0NY5faD8w&_nc_tpa=Q5bMBQIMwfMUsHdLqhdHxeQaZXTSIu5pQu9_YREtoKjjOV75LB8GcVSVjAkadZyIc5ww_ofPJP-Ek7iI1g&oh=00_AQN-IMyYf2qfw6ObNOzlS-c1i6E138L71UYBHEtiKN3HaA&oe=6AE483DE"
   },
   "summary": {
     "followers_count": 1394,
-    "views": 1611,
-    "likes": 33,
+    "views": 1750,
+    "likes": 36,
     "replies": 4,
     "reposts": 1,
-    "quotes": 0,
+    "quotes": 1,
     "profile_views": null,
-    "engagement_total": 1127,
-    "engagement_rate": 69.96,
+    "engagement_total": 1132,
+    "engagement_rate": 64.69,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -27,7 +27,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Det_7MrkZpo",
       "timestamp": "2026-10-20T14:01:30+0000",
       "metrics": {
-        "views": 13863,
+        "views": 13864,
         "likes": 583,
         "replies": 77,
         "reposts": 2,
@@ -82,19 +82,19 @@
       "engagement": 51
     },
     {
-      "id": "17898993579655664",
-      "text": "Brisbane gets written off as the city you pass through on the way to Gold Coast or Noosa.\nSpent three days there thinkin",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DevtxgznHbh",
-      "timestamp": "2026-10-21T06:01:20+0000",
+      "id": "18435418738145537",
+      "text": "Unpopular opinion: Australians genuinely don't care about luxury flex — but they will spend real money on a good outdoor",
+      "permalink": "https://www.threads.com/@iams_ichi/post/De6Z0ZVgfeM",
+      "timestamp": "2026-10-25T09:38:05+0000",
       "metrics": {
-        "views": 1709,
-        "likes": 36,
-        "replies": 8,
-        "reposts": 0,
-        "quotes": 0,
+        "views": 1442,
+        "likes": 37,
+        "replies": 6,
+        "reposts": 1,
+        "quotes": 1,
         "shares": 0
       },
-      "engagement": 44
+      "engagement": 45
     }
   ],
   "recent_posts": [
@@ -104,7 +104,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/De7nlztk40f",
       "timestamp": "2026-10-25T20:57:40+0000",
       "metrics": {
-        "views": 2,
+        "views": 3,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -119,14 +119,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/De6Z0ZVgfeM",
       "timestamp": "2026-10-25T09:38:05+0000",
       "metrics": {
-        "views": 1351,
-        "likes": 33,
+        "views": 1442,
+        "likes": 37,
         "replies": 6,
         "reposts": 1,
-        "quotes": 0,
+        "quotes": 1,
         "shares": 0
       },
-      "engagement": 40
+      "engagement": 45
     },
     {
       "id": "18119046979796166",
@@ -134,7 +134,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/De6ZOmXI4xb",
       "timestamp": "2026-10-25T09:32:55+0000",
       "metrics": {
-        "views": 45,
+        "views": 46,
         "likes": 0,
         "replies": 4,
         "reposts": 0,
