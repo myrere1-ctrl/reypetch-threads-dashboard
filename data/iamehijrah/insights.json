@@ -1,21 +1,21 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-10-26T06:31:01.481Z",
+  "updated_at": "2026-10-26T14:24:08.301Z",
   "profile": {
     "username": "_iame.hijrah",
     "biography": "Hijrah Journey \nInbox ➡️Akses Safar AI",
-    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=7Fjedy7gvMsQ7kNvwGfAOzx&_nc_oc=Adr6f4wDTk6AjQGSLJ2ypOkmiFM7kA1fAtWaCIsPYf32hiIPrkjQol-HBwiBW0Uh0tY&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=VLWjxHnV0aeJgSKggOse6Q&_nc_tpa=Q5bMBQJOOTu8Sfixfklyg-uBGMgmg93iYaLVLIPtsnRJb_LkEgC2HQ_jQxOWLshi7FEDwkUNJUe7DE7fFQ&oh=00_AQPtKInPWs2G4zGzQh0VBqG27JLDabYdqqX0C0GALUkCtw&oe=6AE4AD93"
+    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=7Fjedy7gvMsQ7kNvwEr_mg3&_nc_oc=AdphVRnBG43ekes1F5lBE8qzYHh1vaV5j2TzLPpuD22fc7iun6HHmvJAgWBS4VgNnjg&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=y8uJZs-zLfLYv1FAt4zRYw&_nc_tpa=Q5bMBQKqC5P6y-n9axq_xmvN86_32iYoPboUSSkDi5sBDgPOuu3tbjz6HEoD-XQe4gH8ozZxyTzbH9gnrw&oh=00_AQN8kUZ6Q8O44cWZ74p3NXPmbiHqptU3U5D828XbMdueeQ&oe=6AE51E13"
   },
   "summary": {
     "followers_count": 8,
-    "views": 508,
-    "likes": 42,
-    "replies": 1,
-    "reposts": 4,
+    "views": 251,
+    "likes": 8,
+    "replies": 0,
+    "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 137,
-    "engagement_rate": 26.97,
+    "engagement_total": 145,
+    "engagement_rate": 57.77,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -26,14 +26,14 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/De7u1Kgj-u9",
       "timestamp": "2026-10-25T22:01:28+0000",
       "metrics": {
-        "views": 411,
-        "likes": 40,
+        "views": 439,
+        "likes": 47,
         "replies": 1,
         "reposts": 4,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 45
+      "engagement": 52
     },
     {
       "id": "18017192660748415",
@@ -41,7 +41,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DezM8KooO4A",
       "timestamp": "2026-10-22T14:31:25+0000",
       "metrics": {
-        "views": 548,
+        "views": 550,
         "likes": 32,
         "replies": 0,
         "reposts": 1,
@@ -98,6 +98,51 @@
   ],
   "recent_posts": [
     {
+      "id": "18014874584973309",
+      "text": "Lagi di titik semua kerasa berat dan pikiran ga mau berhenti?\nAku pernah banget di sana — capek, takut, tapi ga tau haru",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/De9V2CEm95M",
+      "timestamp": "2026-10-26T13:01:36+0000",
+      "metrics": {
+        "views": 79,
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
+      "id": "18133177594826965",
+      "text": "Lagi di titik semua kerasa buntu — rezeki seret, usaha kayak muter di tempat?\nAku pernah di situ. Dan yang akhirnya biki",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/De9Lg__EWl9",
+      "timestamp": "2026-10-26T11:31:22+0000",
+      "metrics": {
+        "views": 143,
+        "likes": 4,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 4
+    },
+    {
+      "id": "18128671970505181",
+      "text": "Udah niat umroh, tapi kok hati masih belum bener-bener siap?\nAku ngerasain itu habis Subuh tadi — duduk sebentar, inget-",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/De827nDmwzO",
+      "timestamp": "2026-10-26T08:31:30+0000",
+      "metrics": {
+        "views": 1,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "18071019434759316",
       "text": "Muhasabah itu bukan selalu soal nangis atau ngerasa gagal.\nKadang cukup duduk sebentar, inget — hari ini masih dikasih n",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/De8iT-bjqwN",
@@ -118,7 +163,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/De8DbuGDt0I",
       "timestamp": "2026-10-26T01:01:30+0000",
       "metrics": {
-        "views": 58,
+        "views": 62,
         "likes": 2,
         "replies": 0,
         "reposts": 0,
@@ -133,14 +178,14 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/De7u1Kgj-u9",
       "timestamp": "2026-10-25T22:01:28+0000",
       "metrics": {
-        "views": 411,
-        "likes": 40,
+        "views": 439,
+        "likes": 47,
         "replies": 1,
         "reposts": 4,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 45
+      "engagement": 52
     },
     {
       "id": "17979063666121463",
@@ -201,51 +246,6 @@
         "shares": 0
       },
       "engagement": 1
-    },
-    {
-      "id": "18494734969129246",
-      "text": "Kenapa doa yang paling tulus justru sering muncul pas habis Subuh, waktu masih setengah ngantuk?\nAku sering ngerasa gitu",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/De1IiuDlYLA",
-      "timestamp": "2026-10-23T08:31:27+0000",
-      "metrics": {
-        "views": 139,
-        "likes": 3,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 3
-    },
-    {
-      "id": "17912856060513407",
-      "text": "Kenapa cemas paling kerasa pas sepertiga malam — pas yang lain udah tidur, tapi kamu malah makin sumpek sendiri?\nAku ser",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/De0z7LsDjDt",
-      "timestamp": "2026-10-23T05:31:18+0000",
-      "metrics": {
-        "views": 30,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18129769931308739",
-      "text": "Sholat 5 waktu — aku sering anggap remeh pas lagi aman-aman aja.\nTapi pas lagi paling susah, paling capek, paling hopele",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/De0VDYYFD0C",
-      "timestamp": "2026-10-23T01:01:31+0000",
-      "metrics": {
-        "views": 98,
-        "likes": 4,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 4
     }
   ]
 }
