@@ -1,21 +1,21 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-10-27T19:29:49.714Z",
+  "updated_at": "2026-10-27T23:52:01.079Z",
   "profile": {
     "username": "_iame.hijrah",
     "biography": "Hijrah Journey \nInbox ➡️Akses Safar AI",
-    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=ww7fGhGRxKwQ7kNvwG3gcQC&_nc_oc=Adp3Nprz7UIGOXPUQHrvjKBt_OL_YQaOZZ-Lb5A8E41pv3joq_UiZppoV9LCTa1IN7g&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=ZeACVX--tKgAdw9XSjwzgA&_nc_tpa=Q5bMBQIpLP6EHA3P8utkcvBHfeq9HzvGy62-PmTQbVFXQxtTO9wvURcX7g-DNQYR29aQ7IE4KjES0LaZ0w&oh=00_AQPA6DNxW9kz4wFdWE7EK22qsUS9bwjuM3XcCz_U7PkZvw&oe=6AE6E013"
+    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=ww7fGhGRxKwQ7kNvwGBQLc9&_nc_oc=Adq547ojKBmfkpm1DGV_vkoXYVLGo_ZgvSaxu15hzTRnBv1JkrFz8tS-T4Dsj7ufSt8&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=FDnh5uIjygjezw5gSN62sQ&_nc_tpa=Q5bMBQLHXMAJC8HTJnQLBm6ZlsuXJkZ_UGuNQlUE61aNCaf6nxSKyv_WeWCiOSt8no8Xs2CFxIMMoJ90mw&oh=00_AQQdJhv8igk7N7jsayuHJ9xmInsQj8ZyRiidxO2SRbMI7w&oe=6AE71853"
   },
   "summary": {
     "followers_count": 8,
-    "views": 774,
+    "views": 846,
     "likes": 21,
     "replies": 1,
     "reposts": 2,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 129,
-    "engagement_rate": 16.67,
+    "engagement_total": 128,
+    "engagement_rate": 15.13,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -86,7 +86,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/De_bt9_lSTt",
       "timestamp": "2026-10-27T08:31:25+0000",
       "metrics": {
-        "views": 192,
+        "views": 195,
         "likes": 7,
         "replies": 0,
         "reposts": 1,
@@ -98,17 +98,32 @@
   ],
   "recent_posts": [
     {
+      "id": "18107665717967037",
+      "text": "Overthinking tengah malam, tapi masih bisa narik napas panjang dan bilang alhamdulillah — itu udah lebih dari cukup sebe",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DfA4bmkm6ns",
+      "timestamp": "2026-10-27T22:01:34+0000",
+      "metrics": {
+        "views": 54,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "18119903777591726",
       "text": "4 kalimat yang aku ulang tiap kali ngerasa habis — dan La Hawla Wala Quwwata Illa Billah selalu nomor satu:\n1. La Hawla ",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DfAPccdkcx5",
       "timestamp": "2026-10-27T16:03:24+0000",
       "metrics": {
-        "views": 128,
+        "views": 137,
         "likes": 1,
         "replies": 0,
         "reposts": 1,
         "quotes": 0,
-        "shares": 0
+        "shares": 1
       },
       "engagement": 2
     },
@@ -133,7 +148,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/De_6o1blkTg",
       "timestamp": "2026-10-27T13:01:36+0000",
       "metrics": {
-        "views": 175,
+        "views": 176,
         "likes": 6,
         "replies": 0,
         "reposts": 0,
@@ -148,7 +163,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/De_wUCSmwYA",
       "timestamp": "2026-10-27T11:31:23+0000",
       "metrics": {
-        "views": 137,
+        "views": 138,
         "likes": 4,
         "replies": 1,
         "reposts": 0,
@@ -163,7 +178,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/De_bt9_lSTt",
       "timestamp": "2026-10-27T08:31:25+0000",
       "metrics": {
-        "views": 192,
+        "views": 195,
         "likes": 7,
         "replies": 0,
         "reposts": 1,
@@ -224,21 +239,6 @@
       "timestamp": "2026-10-26T16:01:37+0000",
       "metrics": {
         "views": 31,
-        "likes": 1,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "18140142778554380",
-      "text": "Istighfar itu paling beda rasanya pas mau tidur — bukan karena \"harus\", tapi karena hari ini pasti ada yang kurang, ada ",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/De9gHuPkWfI",
-      "timestamp": "2026-10-26T14:31:26+0000",
-      "metrics": {
-        "views": 44,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
