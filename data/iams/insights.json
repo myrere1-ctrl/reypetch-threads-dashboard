@@ -1,55 +1,40 @@
 {
   "account": "iams",
-  "updated_at": "2026-10-27T06:24:26.576Z",
+  "updated_at": "2026-10-27T13:21:14.320Z",
   "profile": {
     "username": "iams_ichi",
     "name": "I.petch",
     "biography": "🇦🇺\nCMO at COA.AU &\nNo-Code App Builder\nOnly Positive Vibes\nIt’s about the vibe and the feeling. \nThe names of the places? 🤔",
-    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=XNhL36Z6gNUQ7kNvwGwaZC6&_nc_oc=Adqeh3QMofix5B6lt9MLXt8DK9uazGFSL8nZTl7DJcPia5gJo_xLSUtcw-Xxn45LuxE&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=LfElG9vvo6CCtJTrup2u7w&_nc_tpa=Q5bMBQJu66dcZmrP5wFxIpRSSHwXGjIVWlYHHXmy_mjUrSbQCtxshkuToCNrhBY1xgITpcP2GFfJKe5xrQ&oh=00_AQOxgpMELfhjbCsFR3YMNktRGL5McwB4T2t5_AAgMlAEUQ&oe=6AE60D9E"
+    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=XNhL36Z6gNUQ7kNvwF2AV3K&_nc_oc=AdqLsHlBP990JY7xy8K_0KEmdA37pGJ3iMYooKn0M2sqrESXLwDXyuGUIyEnXTlIg-w&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=FPfGGGoWW6VBerHC9FqFlg&_nc_tpa=Q5bMBQK-GfFZLO4VNxai_Vun2sHtKNNCNBHATl0YFfNlXMMKDG8zC29KG85vFi9Z6EyIKe49WYwSqA2m2Q&oh=00_AQN5rsK8GA49A7oEeZktuHpsnbofb7fWzJtngD2PF-qCgA&oe=6AE67E1E"
   },
   "summary": {
     "followers_count": 1397,
-    "views": 3276,
-    "likes": 115,
-    "replies": 34,
-    "reposts": 3,
-    "quotes": 0,
+    "views": 2096,
+    "likes": 77,
+    "replies": 5,
+    "reposts": 1,
+    "quotes": 2,
     "profile_views": null,
-    "engagement_total": 1068,
-    "engagement_rate": 32.6,
+    "engagement_total": 501,
+    "engagement_rate": 23.9,
     "curiosity_score": null,
     "post_count": 25
   },
   "top_posts": [
-    {
-      "id": "18108775259577191",
-      "text": "Everyone told me Australians take their coffee seriously — I thought it was just national pride talking.\nFirst flat whit",
-      "permalink": "https://www.threads.com/@iams_ichi/post/Det_7MrkZpo",
-      "timestamp": "2026-10-20T14:01:30+0000",
-      "metrics": {
-        "views": 13886,
-        "likes": 584,
-        "replies": 77,
-        "reposts": 2,
-        "quotes": 1,
-        "shares": 1
-      },
-      "engagement": 664
-    },
     {
       "id": "17892091278460272",
       "text": "Brisbane has a reputation for being the \"boring stopover\" between Sydney and the Gold Coast.\nSpent two full days there e",
       "permalink": "https://www.threads.com/@iams_ichi/post/De9cs1jkU6M",
       "timestamp": "2026-10-26T14:01:32+0000",
       "metrics": {
-        "views": 1949,
-        "likes": 94,
-        "replies": 23,
-        "reposts": 3,
-        "quotes": 0,
+        "views": 3654,
+        "likes": 148,
+        "replies": 27,
+        "reposts": 4,
+        "quotes": 2,
         "shares": 0
       },
-      "engagement": 120
+      "engagement": 181
     },
     {
       "id": "18079952777619895",
@@ -57,7 +42,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DevSTHYgDHZ",
       "timestamp": "2026-10-21T02:01:16+0000",
       "metrics": {
-        "views": 3563,
+        "views": 3565,
         "likes": 55,
         "replies": 20,
         "reposts": 1,
@@ -72,7 +57,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/De6Z0ZVgfeM",
       "timestamp": "2026-10-25T09:38:05+0000",
       "metrics": {
-        "views": 1791,
+        "views": 1794,
         "likes": 44,
         "replies": 7,
         "reposts": 2,
@@ -80,6 +65,21 @@
         "shares": 0
       },
       "engagement": 54
+    },
+    {
+      "id": "18112182554165513",
+      "text": "Melbourne myth: the laneway coffee culture is ~aesthetic~ but overhyped.\nNope. There's something genuinely different abo",
+      "permalink": "https://www.threads.com/@iams_ichi/post/De_KjiQFaMO",
+      "timestamp": "2026-10-27T06:01:26+0000",
+      "metrics": {
+        "views": 740,
+        "likes": 43,
+        "replies": 2,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 45
     },
     {
       "id": "17898993579655664",
@@ -99,29 +99,14 @@
   ],
   "recent_posts": [
     {
-      "id": "18112182554165513",
-      "text": "Melbourne myth: the laneway coffee culture is ~aesthetic~ but overhyped.\nNope. There's something genuinely different abo",
-      "permalink": "https://www.threads.com/@iams_ichi/post/De_KjiQFaMO",
-      "timestamp": "2026-10-27T06:01:26+0000",
+      "id": "18116316578117816",
+      "text": "Dinner in Trastevere: pasta cacio e pepe at a trattoria so small it had maybe six tables.\nEarlier that day: supplì eaten",
+      "permalink": "https://www.threads.com/@iams_ichi/post/De_mBxvFrFC",
+      "timestamp": "2026-10-27T10:01:31+0000",
       "metrics": {
-        "views": 2,
-        "likes": 11,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 12
-    },
-    {
-      "id": "18108542627629431",
-      "text": "Autumn leaves in Japan and I spent the first hour just… standing there. Not photographing. Not moving. Just watching peo",
-      "permalink": "https://www.threads.com/@iams_ichi/post/De-vExKmpZy",
-      "timestamp": "2026-10-27T02:01:19+0000",
-      "metrics": {
-        "views": 117,
-        "likes": 0,
-        "replies": 1,
+        "views": 66,
+        "likes": 1,
+        "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
@@ -129,12 +114,42 @@
       "engagement": 1
     },
     {
+      "id": "18112182554165513",
+      "text": "Melbourne myth: the laneway coffee culture is ~aesthetic~ but overhyped.\nNope. There's something genuinely different abo",
+      "permalink": "https://www.threads.com/@iams_ichi/post/De_KjiQFaMO",
+      "timestamp": "2026-10-27T06:01:26+0000",
+      "metrics": {
+        "views": 740,
+        "likes": 43,
+        "replies": 2,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 45
+    },
+    {
+      "id": "18108542627629431",
+      "text": "Autumn leaves in Japan and I spent the first hour just… standing there. Not photographing. Not moving. Just watching peo",
+      "permalink": "https://www.threads.com/@iams_ichi/post/De-vExKmpZy",
+      "timestamp": "2026-10-27T02:01:19+0000",
+      "metrics": {
+        "views": 137,
+        "likes": 1,
+        "replies": 2,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 3
+    },
+    {
       "id": "18070307372785318",
       "text": "Watching someone treat a quiet space like a phone booth is a specific kind of secondhand embarrassment 😬\n\nNot about the",
       "permalink": "https://www.threads.com/@iams_ichi/post/De-hUOVAS4L",
       "timestamp": "2026-10-27T00:01:15+0000",
       "metrics": {
-        "views": 94,
+        "views": 113,
         "likes": 0,
         "replies": 2,
         "reposts": 0,
@@ -149,14 +164,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/De9cs1jkU6M",
       "timestamp": "2026-10-26T14:01:32+0000",
       "metrics": {
-        "views": 1949,
-        "likes": 94,
-        "replies": 23,
-        "reposts": 3,
-        "quotes": 0,
+        "views": 3654,
+        "likes": 148,
+        "replies": 27,
+        "reposts": 4,
+        "quotes": 2,
         "shares": 0
       },
-      "engagement": 120
+      "engagement": 181
     },
     {
       "id": "18287140291288044",
@@ -164,7 +179,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/De9BNwPFUnl",
       "timestamp": "2026-10-26T10:01:21+0000",
       "metrics": {
-        "views": 35,
+        "views": 39,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -179,7 +194,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/De8lwRlGxRP",
       "timestamp": "2026-10-26T06:01:24+0000",
       "metrics": {
-        "views": 650,
+        "views": 658,
         "likes": 21,
         "replies": 14,
         "reposts": 0,
@@ -194,7 +209,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/De8KSeDG3Tt",
       "timestamp": "2026-10-26T02:01:23+0000",
       "metrics": {
-        "views": 50,
+        "views": 51,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -209,7 +224,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/De7nlztk40f",
       "timestamp": "2026-10-25T20:57:40+0000",
       "metrics": {
-        "views": 18,
+        "views": 19,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -224,7 +239,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/De6Z0ZVgfeM",
       "timestamp": "2026-10-25T09:38:05+0000",
       "metrics": {
-        "views": 1791,
+        "views": 1794,
         "likes": 44,
         "replies": 7,
         "reposts": 2,
@@ -232,21 +247,6 @@
         "shares": 0
       },
       "engagement": 54
-    },
-    {
-      "id": "18119046979796166",
-      "text": "How To Read Travel Advisories Like A Threat Analyst (And Ignore The Internet’s Hype) \n\n1/ A viral thread claims the US, ",
-      "permalink": "https://www.threads.com/@iams_ichi/post/De6ZOmXI4xb",
-      "timestamp": "2026-10-25T09:32:55+0000",
-      "metrics": {
-        "views": 48,
-        "likes": 0,
-        "replies": 4,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 4
     }
   ]
 }
