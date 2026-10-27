@@ -1,21 +1,21 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-10-27T06:25:08.800Z",
+  "updated_at": "2026-10-27T13:21:58.212Z",
   "profile": {
     "username": "_iame.hijrah",
     "biography": "Hijrah Journey \nInbox ➡️Akses Safar AI",
-    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=7Fjedy7gvMsQ7kNvwFV8H1a&_nc_oc=AdqfvqMxS2CfS5aUd8hhjsWg7sTaFZ9cP2w2xefwDxwAyQ0S2QF5cGZwrweg3uo5GwM&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=YQ-Rdj9dUYiDQkcZkmVMCw&_nc_tpa=Q5bMBQJXaULY4p9YVFYrkJJB_-qlJfzSwEnsLIxJ-Y9ghqsAsESw0n2xmmh0544F2noGhN-N4maF38h93w&oh=00_AQPMSFQ7VnqY7I5hTgblyWrxqna9Us5_rTFHCM2ON_-vHA&oe=6AE5FF13"
+    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=7Fjedy7gvMsQ7kNvwHvOrl4&_nc_oc=Adov5S7zyDhoUu7yzCBYLhj96VlfVBv-L0U-JEkaEPY_xhyA2OM6KwZQkJMyPBe3IHQ&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=paLAa-cKmqNmXjr7kPHkNw&_nc_tpa=Q5bMBQLHMNDjvsiFb0yc92vaq71iFjcjFP5A_pzq5m7qjM0GBw3lgu6Zvj1fWANELLBtNRyiuSlcKtG9MA&oh=00_AQOBn3bYJN25O9wocFp0-htWlDa__4ZFd9888goHOSPoWg&oe=6AE66F93"
   },
   "summary": {
     "followers_count": 8,
-    "views": 579,
-    "likes": 24,
-    "replies": 0,
-    "reposts": 0,
+    "views": 389,
+    "likes": 11,
+    "replies": 1,
+    "reposts": 1,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 148,
-    "engagement_rate": 25.56,
+    "engagement_total": 160,
+    "engagement_rate": 41.13,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -41,7 +41,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DezM8KooO4A",
       "timestamp": "2026-10-22T14:31:25+0000",
       "metrics": {
-        "views": 551,
+        "views": 553,
         "likes": 32,
         "replies": 0,
         "reposts": 1,
@@ -56,7 +56,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/De-oPTUEYYi",
       "timestamp": "2026-10-27T01:01:36+0000",
       "metrics": {
-        "views": 168,
+        "views": 185,
         "likes": 10,
         "replies": 0,
         "reposts": 0,
@@ -98,12 +98,57 @@
   ],
   "recent_posts": [
     {
+      "id": "18438585490198470",
+      "text": "Dulu aku mikir Doa Nabi Yunus itu cuma buat yang lagi kena musibah besar — bukan buat aku yang \"cuma\" lagi overthinking ",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/De_6o1blkTg",
+      "timestamp": "2026-10-27T13:01:36+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 5,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 5
+    },
+    {
+      "id": "18217205626361441",
+      "text": "Jarang yang ngomongin ini, tapi Surat Yasin buat aku bukan cuma dibaca pas ada orang meninggal.\nAku mulai biasa baca pel",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/De_wUCSmwYA",
+      "timestamp": "2026-10-27T11:31:23+0000",
+      "metrics": {
+        "views": 126,
+        "likes": 4,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 5
+    },
+    {
+      "id": "17869878777658578",
+      "text": "Ada satu hal yang aku lakuin tiap kali rindu Tanah Suci dateng tiba-tiba — bukan scroll foto Ka'bah, bukan dengerin muro",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/De_bt9_lSTt",
+      "timestamp": "2026-10-27T08:31:25+0000",
+      "metrics": {
+        "views": 182,
+        "likes": 6,
+        "replies": 0,
+        "reposts": 1,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 7
+    },
+    {
       "id": "18078515288483643",
       "text": "Pernah nggak, lagi capek banget ngelawan sesuatu — terus tiba-tiba nyadar, mungkin ini udah takdir terbaiknya?\nAku perna",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/De_HIOFFMvI",
       "timestamp": "2026-10-27T05:31:30+0000",
       "metrics": {
-        "views": 42,
+        "views": 53,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -118,7 +163,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/De-oPTUEYYi",
       "timestamp": "2026-10-27T01:01:36+0000",
       "metrics": {
-        "views": 168,
+        "views": 185,
         "likes": 10,
         "replies": 0,
         "reposts": 0,
@@ -133,7 +178,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/De-TpfLkVj7",
       "timestamp": "2026-10-26T22:01:41+0000",
       "metrics": {
-        "views": 4,
+        "views": 5,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -201,51 +246,6 @@
         "shares": 0
       },
       "engagement": 4
-    },
-    {
-      "id": "18128671970505181",
-      "text": "Udah niat umroh, tapi kok hati masih belum bener-bener siap?\nAku ngerasain itu habis Subuh tadi — duduk sebentar, inget-",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/De827nDmwzO",
-      "timestamp": "2026-10-26T08:31:30+0000",
-      "metrics": {
-        "views": 1,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18071019434759316",
-      "text": "Muhasabah itu bukan selalu soal nangis atau ngerasa gagal.\nKadang cukup duduk sebentar, inget — hari ini masih dikasih n",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/De8iT-bjqwN",
-      "timestamp": "2026-10-26T05:31:19+0000",
-      "metrics": {
-        "views": 23,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18107860661220607",
-      "text": "Unpopular opinion: ikhlas itu bukan soal nggak ngerasa sakit — tapi tetap jalan meski sakit.\nAku lama banget salah paham",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/De8DbuGDt0I",
-      "timestamp": "2026-10-26T01:01:30+0000",
-      "metrics": {
-        "views": 62,
-        "likes": 2,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 2
     }
   ]
 }
