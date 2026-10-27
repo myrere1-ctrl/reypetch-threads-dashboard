@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-10-27T00:34:33.353Z",
+  "updated_at": "2026-10-27T06:24:26.576Z",
   "profile": {
     "username": "iams_ichi",
     "name": "I.petch",
     "biography": "🇦🇺\nCMO at COA.AU &\nNo-Code App Builder\nOnly Positive Vibes\nIt’s about the vibe and the feeling. \nThe names of the places? 🤔",
-    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=XNhL36Z6gNUQ7kNvwE4TMzs&_nc_oc=AdoIEgwbKTei-SHGNdnuvG1TvvVY2P4yq_Ne9wOPCJv8mczQhePMsysphONDdUPsqvQ&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=IhBVH1K7SfDKdCx5TtrXfg&_nc_tpa=Q5bMBQJwNH_qEshJ93L731wN-FvcuS2nBa3OfXuwTPpFrtlLKi6tJ2we853cg2DTrRVFVo_5IJT0xQhfBw&oh=00_AQNmrJgiAI3uD8fS51YuwqgIDHau8RHK0zP0elJHhpjqQA&oe=6AE5D55E"
+    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=XNhL36Z6gNUQ7kNvwGwaZC6&_nc_oc=Adqeh3QMofix5B6lt9MLXt8DK9uazGFSL8nZTl7DJcPia5gJo_xLSUtcw-Xxn45LuxE&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=LfElG9vvo6CCtJTrup2u7w&_nc_tpa=Q5bMBQJu66dcZmrP5wFxIpRSSHwXGjIVWlYHHXmy_mjUrSbQCtxshkuToCNrhBY1xgITpcP2GFfJKe5xrQ&oh=00_AQOxgpMELfhjbCsFR3YMNktRGL5McwB4T2t5_AAgMlAEUQ&oe=6AE60D9E"
   },
   "summary": {
     "followers_count": 1397,
-    "views": 1523,
-    "likes": 45,
-    "replies": 16,
-    "reposts": 1,
+    "views": 3276,
+    "likes": 115,
+    "replies": 34,
+    "reposts": 3,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 980,
-    "engagement_rate": 64.35,
+    "engagement_total": 1068,
+    "engagement_rate": 32.6,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -27,7 +27,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Det_7MrkZpo",
       "timestamp": "2026-10-20T14:01:30+0000",
       "metrics": {
-        "views": 13883,
+        "views": 13886,
         "likes": 584,
         "replies": 77,
         "reposts": 2,
@@ -37,12 +37,27 @@
       "engagement": 664
     },
     {
+      "id": "17892091278460272",
+      "text": "Brisbane has a reputation for being the \"boring stopover\" between Sydney and the Gold Coast.\nSpent two full days there e",
+      "permalink": "https://www.threads.com/@iams_ichi/post/De9cs1jkU6M",
+      "timestamp": "2026-10-26T14:01:32+0000",
+      "metrics": {
+        "views": 1949,
+        "likes": 94,
+        "replies": 23,
+        "reposts": 3,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 120
+    },
+    {
       "id": "18079952777619895",
       "text": "I just realized Osaka hit different because nobody there is performing for tourists — they're just living.\nTakoyashi at ",
       "permalink": "https://www.threads.com/@iams_ichi/post/DevSTHYgDHZ",
       "timestamp": "2026-10-21T02:01:16+0000",
       "metrics": {
-        "views": 3562,
+        "views": 3563,
         "likes": 55,
         "replies": 20,
         "reposts": 1,
@@ -57,7 +72,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/De6Z0ZVgfeM",
       "timestamp": "2026-10-25T09:38:05+0000",
       "metrics": {
-        "views": 1784,
+        "views": 1791,
         "likes": 44,
         "replies": 7,
         "reposts": 2,
@@ -65,21 +80,6 @@
         "shares": 0
       },
       "engagement": 54
-    },
-    {
-      "id": "17892091278460272",
-      "text": "Brisbane has a reputation for being the \"boring stopover\" between Sydney and the Gold Coast.\nSpent two full days there e",
-      "permalink": "https://www.threads.com/@iams_ichi/post/De9cs1jkU6M",
-      "timestamp": "2026-10-26T14:01:32+0000",
-      "metrics": {
-        "views": 748,
-        "likes": 32,
-        "replies": 11,
-        "reposts": 1,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 44
     },
     {
       "id": "17898993579655664",
@@ -99,19 +99,49 @@
   ],
   "recent_posts": [
     {
+      "id": "18112182554165513",
+      "text": "Melbourne myth: the laneway coffee culture is ~aesthetic~ but overhyped.\nNope. There's something genuinely different abo",
+      "permalink": "https://www.threads.com/@iams_ichi/post/De_KjiQFaMO",
+      "timestamp": "2026-10-27T06:01:26+0000",
+      "metrics": {
+        "views": 2,
+        "likes": 11,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 12
+    },
+    {
+      "id": "18108542627629431",
+      "text": "Autumn leaves in Japan and I spent the first hour just… standing there. Not photographing. Not moving. Just watching peo",
+      "permalink": "https://www.threads.com/@iams_ichi/post/De-vExKmpZy",
+      "timestamp": "2026-10-27T02:01:19+0000",
+      "metrics": {
+        "views": 117,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
       "id": "18070307372785318",
       "text": "Watching someone treat a quiet space like a phone booth is a specific kind of secondhand embarrassment 😬\n\nNot about the",
       "permalink": "https://www.threads.com/@iams_ichi/post/De-hUOVAS4L",
       "timestamp": "2026-10-27T00:01:15+0000",
       "metrics": {
-        "views": 11,
+        "views": 94,
         "likes": 0,
-        "replies": 0,
+        "replies": 2,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 0
+      "engagement": 2
     },
     {
       "id": "17892091278460272",
@@ -119,14 +149,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/De9cs1jkU6M",
       "timestamp": "2026-10-26T14:01:32+0000",
       "metrics": {
-        "views": 748,
-        "likes": 32,
-        "replies": 11,
-        "reposts": 1,
+        "views": 1949,
+        "likes": 94,
+        "replies": 23,
+        "reposts": 3,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 44
+      "engagement": 120
     },
     {
       "id": "18287140291288044",
@@ -134,7 +164,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/De9BNwPFUnl",
       "timestamp": "2026-10-26T10:01:21+0000",
       "metrics": {
-        "views": 28,
+        "views": 35,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -149,14 +179,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/De8lwRlGxRP",
       "timestamp": "2026-10-26T06:01:24+0000",
       "metrics": {
-        "views": 549,
-        "likes": 18,
-        "replies": 11,
+        "views": 650,
+        "likes": 21,
+        "replies": 14,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 29
+      "engagement": 35
     },
     {
       "id": "17906485032596715",
@@ -164,7 +194,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/De8KSeDG3Tt",
       "timestamp": "2026-10-26T02:01:23+0000",
       "metrics": {
-        "views": 46,
+        "views": 50,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -179,7 +209,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/De7nlztk40f",
       "timestamp": "2026-10-25T20:57:40+0000",
       "metrics": {
-        "views": 14,
+        "views": 18,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -194,7 +224,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/De6Z0ZVgfeM",
       "timestamp": "2026-10-25T09:38:05+0000",
       "metrics": {
-        "views": 1784,
+        "views": 1791,
         "likes": 44,
         "replies": 7,
         "reposts": 2,
@@ -217,36 +247,6 @@
         "shares": 0
       },
       "engagement": 4
-    },
-    {
-      "id": "18113736899138488",
-      "text": "Lazy Saturday for Daisy 🐾",
-      "permalink": "https://www.threads.com/@iams_ichi/post/De2ZwmIE2ZL",
-      "timestamp": "2026-10-23T20:20:36+0000",
-      "metrics": {
-        "views": 26,
-        "likes": 2,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 2
-    },
-    {
-      "id": "17909784510563786",
-      "text": "This is Daisy 🥰",
-      "permalink": "https://www.threads.com/@iams_ichi/post/De2Ueg7E8_g",
-      "timestamp": "2026-10-23T19:34:26+0000",
-      "metrics": {
-        "views": 10,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
     }
   ]
 }
