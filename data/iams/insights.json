@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-10-29T02:33:05.822Z",
+  "updated_at": "2026-10-29T10:10:49.015Z",
   "profile": {
     "username": "iams_ichi",
     "name": "I.petch",
     "biography": "🇦🇺\nCMO at COA.AU &\nNo-Code App Builder\nOnly Positive Vibes\nIt’s about the vibe and the feeling. \nThe names of the places? 🤔",
-    "picture": "https://scontent-atl3-2.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=QwIc82K5qhcQ7kNvwEMY4Z8&_nc_oc=Adre8YhZybIcB5xzRleifcKkrdazsNjnoZ7YlhWhCNlwTEbRwCvFZNoS9IbwJZcX370&_nc_zt=24&_nc_ht=scontent-atl3-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=9wf_8jFWLTSEG2NwZGR-KA&_nc_tpa=Q5bMBQJn35kU30ootiSRB2BMRHZWBRStKK9t0wDYn-POvEGRTN9hPR0oZ2Ka8z_a2GB7E2_ywyVUqSzH7Q&oh=00_AQRpEFIo8Av5LFCX9VBcM3saO79fVf28yWEiRTCDiC1OqA&oe=6AE8785E"
+    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=QwIc82K5qhcQ7kNvwG6KWnZ&_nc_oc=AdoBj-yBUxZk8OOaIOAxaLlBz3NE-6hlS49J2uKIkeWsY0HIiBhBymFQ8iI8ynBl2fQ&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=eraZU-_6BDJFZRjp85ReRw&_nc_tpa=Q5bMBQLnqSQWEy8yLqwFDxSETggRSJIpqt-7_Ow6pwQsaOJJRvSWYT49ZvmczroDQ2osMUdlsyB8hEq1Qg&oh=00_AQRN22rRJsAq0GcoPBrwbiqVoW5SDPPXZPnQYx5TH1ewlw&oe=6AE8E8DE"
   },
   "summary": {
     "followers_count": 1399,
-    "views": 923,
-    "likes": 53,
-    "replies": 6,
+    "views": 21,
+    "likes": 0,
+    "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 488,
-    "engagement_rate": 52.87,
+    "engagement_total": 465,
+    "engagement_rate": 2214.29,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -27,7 +27,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/De9cs1jkU6M",
       "timestamp": "2026-10-26T14:01:32+0000",
       "metrics": {
-        "views": 3986,
+        "views": 3993,
         "likes": 165,
         "replies": 28,
         "reposts": 4,
@@ -57,7 +57,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DfBT3nLiUdJ",
       "timestamp": "2026-10-28T02:01:20+0000",
       "metrics": {
-        "views": 678,
+        "views": 682,
         "likes": 53,
         "replies": 4,
         "reposts": 0,
@@ -72,7 +72,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/De6Z0ZVgfeM",
       "timestamp": "2026-10-25T09:38:05+0000",
       "metrics": {
-        "views": 1804,
+        "views": 1806,
         "likes": 44,
         "replies": 7,
         "reposts": 2,
@@ -99,12 +99,42 @@
   ],
   "recent_posts": [
     {
+      "id": "18078802706423905",
+      "text": "Everyone told me solo Europe trips are overwhelming — too much to plan, too easy to get lost.\nSpent three weeks navigati",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DfEvm1QG8cF",
+      "timestamp": "2026-10-29T10:01:24+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 2,
+        "replies": 2,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 4
+    },
+    {
+      "id": "18131592067696545",
+      "text": "I just realized the Great Ocean Road doesn't care if you rush it.\nEvery overlook I tried to \"quickly check\" ended up kee",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DfEUIeRlZUI",
+      "timestamp": "2026-10-29T06:01:20+0000",
+      "metrics": {
+        "views": 84,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
       "id": "17945621580357956",
       "text": "Tokyo taught me that both count.\nMidnight ramen at a tiny counter, ¥800, slurping alone under fluorescent lights.\nNext n",
       "permalink": "https://www.threads.com/@iams_ichi/post/DfD4qXSGkov",
       "timestamp": "2026-10-29T02:01:18+0000",
       "metrics": {
-        "views": 18,
+        "views": 24,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -134,7 +164,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DfCKzTxlgaI",
       "timestamp": "2026-10-28T10:01:20+0000",
       "metrics": {
-        "views": 74,
+        "views": 75,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -149,14 +179,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DfBvVw0lje7",
       "timestamp": "2026-10-28T06:01:21+0000",
       "metrics": {
-        "views": 383,
-        "likes": 10,
+        "views": 404,
+        "likes": 11,
         "replies": 6,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 16
+      "engagement": 17
     },
     {
       "id": "18100188572536098",
@@ -164,7 +194,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DfBT3nLiUdJ",
       "timestamp": "2026-10-28T02:01:20+0000",
       "metrics": {
-        "views": 678,
+        "views": 682,
         "likes": 53,
         "replies": 4,
         "reposts": 0,
@@ -217,36 +247,6 @@
         "shares": 0
       },
       "engagement": 69
-    },
-    {
-      "id": "18108542627629431",
-      "text": "Autumn leaves in Japan and I spent the first hour just… standing there. Not photographing. Not moving. Just watching peo",
-      "permalink": "https://www.threads.com/@iams_ichi/post/De-vExKmpZy",
-      "timestamp": "2026-10-27T02:01:19+0000",
-      "metrics": {
-        "views": 150,
-        "likes": 1,
-        "replies": 2,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 3
-    },
-    {
-      "id": "18070307372785318",
-      "text": "Watching someone treat a quiet space like a phone booth is a specific kind of secondhand embarrassment 😬\n\nNot about the",
-      "permalink": "https://www.threads.com/@iams_ichi/post/De-hUOVAS4L",
-      "timestamp": "2026-10-27T00:01:15+0000",
-      "metrics": {
-        "views": 134,
-        "likes": 0,
-        "replies": 2,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 2
     }
   ]
 }
