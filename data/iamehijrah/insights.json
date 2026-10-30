@@ -1,32 +1,47 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-10-30T08:46:11.650Z",
+  "updated_at": "2026-10-30T16:01:17.758Z",
   "profile": {
     "username": "_iame.hijrah",
     "biography": "Hijrah Journey \nInbox ➡️Akses Safar AI",
-    "picture": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=ww7fGhGRxKwQ7kNvwFMMgL8&_nc_oc=AdpJJIfl8HFZX1m0SZCjs7o9JeNOpnEY2ekfuX6ySejWIFN-UsUQYVVqVJCFy_lu68c&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=SGrWPCXz03TCJqJTxHW7SQ&_nc_tpa=Q5bMBQL3xKOf-4tDmr1FpZggErPwOBAGgFTaNI907mWX8jbiIJTSUCiLLJvefgJXcJ03H1gFfk2uqfkhnA&oh=00_AQT-FNUyUjBgjrhitqMJ_qBoMZ26s4RmlQiM7N3p5poItQ&oe=6AEA2BD3"
+    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=OPSz7okZInwQ7kNvwGi5j2z&_nc_oc=Adous8N2gB9393urlRa3WjuOFFC6O95VbOADPepdwzofrLeiF2KntGf8Vfkt9fmUQ7I&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=gl9RObk8djrj5Qzi2zwvlw&_nc_tpa=Q5bMBQIp9gM0RJNYXxSkFlSHZ0NiQl9baguAgSCcfMjue3gYZaRISh3Gy3PqbagZ2jcM4PCsHkoUKseB1g&oh=00_AQS716AgCv3DgQBGZL28Zj8MlpMUZxrzOG5zmOJzoGI-Hw&oe=6AEA9C53"
   },
   "summary": {
     "followers_count": 8,
-    "views": 38,
-    "likes": 0,
+    "views": 444,
+    "likes": 7,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 89,
-    "engagement_rate": 234.21,
+    "engagement_total": 74,
+    "engagement_rate": 16.67,
     "curiosity_score": null,
     "post_count": 25
   },
   "top_posts": [
+    {
+      "id": "18469383712187434",
+      "text": "Ibu aku ga pernah skip Al-Waqiah, bahkan waktu lagi sakit sekalipun.\nDulu aku anggep itu kebiasaan orang tua aja — sampa",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DfG1fUyAOxv",
+      "timestamp": "2026-10-30T05:31:18+0000",
+      "metrics": {
+        "views": 219,
+        "likes": 12,
+        "replies": 0,
+        "reposts": 1,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 13
+    },
     {
       "id": "18208674691369986",
       "text": "Lagi di titik semua ketutup — rezeki, peluang, arah hidup?\nAku pernah di fase itu. Capek nunggu, capek ngerasa cukup usa",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DfCAgVZG8A2",
       "timestamp": "2026-10-28T08:31:21+0000",
       "metrics": {
-        "views": 210,
+        "views": 211,
         "likes": 11,
         "replies": 1,
         "reposts": 1,
@@ -36,27 +51,12 @@
       "engagement": 13
     },
     {
-      "id": "18469383712187434",
-      "text": "Ibu aku ga pernah skip Al-Waqiah, bahkan waktu lagi sakit sekalipun.\nDulu aku anggep itu kebiasaan orang tua aja — sampa",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DfG1fUyAOxv",
-      "timestamp": "2026-10-30T05:31:18+0000",
-      "metrics": {
-        "views": 203,
-        "likes": 10,
-        "replies": 0,
-        "reposts": 1,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 11
-    },
-    {
       "id": "18135378250739019",
       "text": "Unpopular opinion: nunggu doa dikabulkan itu justru bagian dari jawabannya.\nDulu aku pikir kalau belum ada hasil, berart",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DfGCBJcD6xl",
       "timestamp": "2026-10-29T22:01:32+0000",
       "metrics": {
-        "views": 216,
+        "views": 226,
         "likes": 11,
         "replies": 0,
         "reposts": 0,
@@ -66,19 +66,19 @@
       "engagement": 11
     },
     {
-      "id": "17869878777658578",
-      "text": "Ada satu hal yang aku lakuin tiap kali rindu Tanah Suci dateng tiba-tiba — bukan scroll foto Ka'bah, bukan dengerin muro",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/De_bt9_lSTt",
-      "timestamp": "2026-10-27T08:31:25+0000",
+      "id": "17909859582570865",
+      "text": "4 hal yang aku siapin sebelum Umroh — bukan soal koper:\n1. Niat — ditulis ulang, biar jelas ini pergi buat siapa\n2. Taub",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DfGWn-gFV41",
+      "timestamp": "2026-10-30T01:01:35+0000",
       "metrics": {
-        "views": 199,
+        "views": 157,
         "likes": 7,
         "replies": 0,
-        "reposts": 1,
+        "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 8
+      "engagement": 7
     },
     {
       "id": "18445443232131144",
@@ -86,7 +86,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DfFOgcvoD2m",
       "timestamp": "2026-10-29T14:31:25+0000",
       "metrics": {
-        "views": 164,
+        "views": 167,
         "likes": 7,
         "replies": 0,
         "reposts": 0,
@@ -98,12 +98,57 @@
   ],
   "recent_posts": [
     {
+      "id": "18100329170432542",
+      "text": "Pernah ga kebangun jam 3 pagi dan tiba-tiba semua beban dateng sekaligus?\nAku sering. Bukannya tenang, malah overthinkin",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DfHzTGEESfn",
+      "timestamp": "2026-10-30T14:31:23+0000",
+      "metrics": {
+        "views": 64,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "18646877755045773",
+      "text": "Pernah bangun pagi tapi hati udah capek duluan sebelum hari mulai?\nAku sering begitu. Kepala langsung muter, semua kekha",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DfHpBUNmzzZ",
+      "timestamp": "2026-10-30T13:01:35+0000",
+      "metrics": {
+        "views": 86,
+        "likes": 2,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 2
+    },
+    {
+      "id": "17974077735168487",
+      "text": "Dulu aku mikir istighfar itu buat yang abis dosa besar — yang \"ngerasa bersalah banget\" gitu.\nTernyata aku salah. Istigh",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DfHesrZG9Eb",
+      "timestamp": "2026-10-30T11:31:23+0000",
+      "metrics": {
+        "views": 34,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "18134517520775056",
       "text": "Ayat Kursi itu aku baru beneran \"paham\" bukan waktu ngaji — tapi waktu lagi sendirian dan takut banget.\nSejak itu aku ga",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DfHKGBaHAhy",
       "timestamp": "2026-10-30T08:31:21+0000",
       "metrics": {
-        "views": 0,
+        "views": 184,
         "likes": 2,
         "replies": 0,
         "reposts": 0,
@@ -118,14 +163,14 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DfG1fUyAOxv",
       "timestamp": "2026-10-30T05:31:18+0000",
       "metrics": {
-        "views": 203,
-        "likes": 10,
+        "views": 219,
+        "likes": 12,
         "replies": 0,
         "reposts": 1,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 11
+      "engagement": 13
     },
     {
       "id": "17909859582570865",
@@ -133,14 +178,14 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DfGWn-gFV41",
       "timestamp": "2026-10-30T01:01:35+0000",
       "metrics": {
-        "views": 151,
-        "likes": 6,
+        "views": 157,
+        "likes": 7,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 6
+      "engagement": 7
     },
     {
       "id": "18135378250739019",
@@ -148,7 +193,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DfGCBJcD6xl",
       "timestamp": "2026-10-29T22:01:32+0000",
       "metrics": {
-        "views": 216,
+        "views": 226,
         "likes": 11,
         "replies": 0,
         "reposts": 0,
@@ -178,7 +223,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DfFOgcvoD2m",
       "timestamp": "2026-10-29T14:31:25+0000",
       "metrics": {
-        "views": 164,
+        "views": 167,
         "likes": 7,
         "replies": 0,
         "reposts": 0,
@@ -194,51 +239,6 @@
       "timestamp": "2026-10-29T13:01:42+0000",
       "metrics": {
         "views": 63,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18113565128144738",
-      "text": "Pernah ga ngerasa terpuruk banget, sampe ga tau mau ngomong apa ke Allah?\nAku pernah. Diem, kosong, ngerasa jauh.\nDi tit",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DfE56Csm2xx",
-      "timestamp": "2026-10-29T11:31:25+0000",
-      "metrics": {
-        "views": 5,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "17978516625141397",
-      "text": "Surat Yasin itu aku baca tiap Jumat — tapi lama banget sampe sadar betapa banyak yang Allah tahan dari aku tanpa aku tah",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DfElS6clrSe",
-      "timestamp": "2026-10-29T08:31:18+0000",
-      "metrics": {
-        "views": 118,
-        "likes": 2,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 2
-    },
-    {
-      "id": "18080148446396068",
-      "text": "3 amalan yang aku ulang-ulang tiap kali rindu Tanah Suci muncul tiba-tiba:\n1. Shalawat — kayak ngirim peluk ke tempat ya",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DfEQsxAETLp",
-      "timestamp": "2026-10-29T05:31:21+0000",
-      "metrics": {
-        "views": 0,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
