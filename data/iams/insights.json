@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-10-31T00:52:27.556Z",
+  "updated_at": "2026-10-31T07:05:06.352Z",
   "profile": {
     "username": "iams_ichi",
     "name": "I.petch",
     "biography": "🇦🇺\nCMO at COA.AU &\nNo-Code App Builder\nOnly Positive Vibes\nIt’s about the vibe and the feeling. \nThe names of the places? 🤔",
-    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=QwIc82K5qhcQ7kNvwF4M5a5&_nc_oc=Adr4nEwFwLEfN7MuvYlhfig5ayX27SmAKLQEMynMMSvPxbKsfi91pG5hxk9kC218yY8&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=aUARxpgezxb87ufHpsR1kQ&_nc_tpa=Q5bMBQJJSMDTTcQON6z7wFBzXdLGwlpmP7zIXgyjl4fWaa1ah2SqsDXdbTLMTWVZJGZk1m50Q8G4kcAlEA&oh=00_AQSVjHnpq4Dd36Aol8hXV3AI0jGNTTvLlh5WcuTu69QiBw&oe=6AEB1B5E"
+    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=QwIc82K5qhcQ7kNvwGNbj9T&_nc_oc=AdpyaJvo3lmhSUyioH6au8ZgTSdXJ1NJRt7rZ06LZUzeCaDMQpXZ1VMEJq4tOq5VQoM&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=UVSrvkmD8SI2uM2RUbTvSw&_nc_tpa=Q5bMBQJ_RZj5h5s9cJyCBifmx4RNyaapvxy5OW1qbzH1akbjqN6iOc3jRoY8fIEp49l367ylKx4To5RcPw&oh=00_AQQrt036qe9t7LvNQYHh4LTRppNYZzSsO0n9WQRL7L28NA&oe=6AEB539E"
   },
   "summary": {
     "followers_count": 1402,
-    "views": 2665,
-    "likes": 128,
-    "replies": 7,
+    "views": 0,
+    "likes": 0,
+    "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 689,
-    "engagement_rate": 25.85,
+    "engagement_total": 699,
+    "engagement_rate": 0,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -27,7 +27,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/De9cs1jkU6M",
       "timestamp": "2026-10-26T14:01:32+0000",
       "metrics": {
-        "views": 4016,
+        "views": 4019,
         "likes": 165,
         "replies": 28,
         "reposts": 4,
@@ -42,14 +42,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DfFLEY5kYHT",
       "timestamp": "2026-10-29T14:01:23+0000",
       "metrics": {
-        "views": 1373,
-        "likes": 81,
+        "views": 1392,
+        "likes": 82,
         "replies": 6,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 87
+      "engagement": 88
     },
     {
       "id": "18129176845837866",
@@ -57,14 +57,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DfG47nVkV3r",
       "timestamp": "2026-10-30T06:01:22+0000",
       "metrics": {
-        "views": 1348,
-        "likes": 68,
+        "views": 1567,
+        "likes": 77,
         "replies": 8,
-        "reposts": 0,
+        "reposts": 1,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 76
+      "engagement": 86
     },
     {
       "id": "18112182554165513",
@@ -99,19 +99,34 @@
   ],
   "recent_posts": [
     {
+      "id": "17915777163497566",
+      "text": "Back home .. Eight street. Harbourtown FO",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DfJimYAEhLS",
+      "timestamp": "2026-10-31T06:43:47+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "18103299020529338",
       "text": "Road tripping solo through Australia sounds like an extrovert's dream — big skies, random stops, talking to strangers at",
       "permalink": "https://www.threads.com/@iams_ichi/post/DfHv4INFBH6",
       "timestamp": "2026-10-30T14:01:30+0000",
       "metrics": {
-        "views": 295,
-        "likes": 11,
+        "views": 356,
+        "likes": 12,
         "replies": 4,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 15
+      "engagement": 16
     },
     {
       "id": "17909909286327143",
@@ -119,7 +134,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DfHUZrGkXfV",
       "timestamp": "2026-10-30T10:01:27+0000",
       "metrics": {
-        "views": 238,
+        "views": 245,
         "likes": 3,
         "replies": 0,
         "reposts": 0,
@@ -134,14 +149,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DfG47nVkV3r",
       "timestamp": "2026-10-30T06:01:22+0000",
       "metrics": {
-        "views": 1348,
-        "likes": 68,
+        "views": 1567,
+        "likes": 77,
         "replies": 8,
-        "reposts": 0,
+        "reposts": 1,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 76
+      "engagement": 86
     },
     {
       "id": "18106472891646535",
@@ -149,7 +164,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DfGddGLjT-Z",
       "timestamp": "2026-10-30T02:01:17+0000",
       "metrics": {
-        "views": 84,
+        "views": 86,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -164,14 +179,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DfFLEY5kYHT",
       "timestamp": "2026-10-29T14:01:23+0000",
       "metrics": {
-        "views": 1373,
-        "likes": 81,
+        "views": 1392,
+        "likes": 82,
         "replies": 6,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 87
+      "engagement": 88
     },
     {
       "id": "18078802706423905",
@@ -232,21 +247,6 @@
         "shares": 0
       },
       "engagement": 2
-    },
-    {
-      "id": "18349869334249119",
-      "text": "El Born has this unspoken rule: walk slowly or get silently judged by the locals.\nNobody rushes. Not to the bakery. Not ",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DfCKzTxlgaI",
-      "timestamp": "2026-10-28T10:01:20+0000",
-      "metrics": {
-        "views": 80,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
     }
   ]
 }
