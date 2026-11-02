@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-11-02T07:45:58.633Z",
+  "updated_at": "2026-11-02T18:31:22.562Z",
   "profile": {
     "username": "iams_ichi",
     "name": "I.petch",
     "biography": "🇦🇺\nCMO at COA.AU &\nNo-Code App Builder\nOnly Positive Vibes\nIt’s about the vibe and the feeling. \nThe names of the places? 🤔",
-    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=akC81AcbxIQQ7kNvwF0YidA&_nc_oc=Adp6YRJ6ilqwGbJn3dQ4S4MERMH06oSs1-zttjEjlAU1tzBiz13hSDAcnzd9tiHrsUM&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=h0r0aDzOrFtX3K_xyT2eIQ&_nc_tpa=Q5bMBQLR1zM3UmAQeG7U_ikhFSH9t0lFqbhMQP_KTwWhM1ShXX00h_k2tAoRId5CGKd73mG7BJwctTIlhA&oh=00_AQQId7e4RGIWGc2OoJyPNP5fQBtJOPrUoAPXeSKxqBCXmA&oe=6AEDF69E"
+    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=akC81AcbxIQQ7kNvwGWsbMf&_nc_oc=AdoAt0hvN8EaiWnaJwQaN6zy9lqF3vlK5ObU_OWY4olv_YX6qRkxNMwfTOYZE7Nlwes&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=rFh-VqPL8SHDsAIOr6Hp9g&_nc_tpa=Q5bMBQI_-XU8sBgkOUERc4SdsGJNF-0xVm4n7KyeWkx_znAFS4eXGyx6R9CSUZah6izOWRpU6vP0E7kRPA&oh=00_AQSz8R0N5yV3tMB1fXSA2IFxqxuv431tI6NDYAXNmgwsSQ&oe=6AEE9F5E"
   },
   "summary": {
     "followers_count": 1401,
-    "views": 729,
-    "likes": 526,
-    "replies": 89,
-    "reposts": 5,
-    "quotes": 2,
+    "views": 574,
+    "likes": 22,
+    "replies": 3,
+    "reposts": 0,
+    "quotes": 0,
     "profile_views": null,
-    "engagement_total": 622,
-    "engagement_rate": 85.32,
+    "engagement_total": 647,
+    "engagement_rate": 112.72,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -27,7 +27,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/De9cs1jkU6M",
       "timestamp": "2026-10-26T14:01:32+0000",
       "metrics": {
-        "views": 4028,
+        "views": 4031,
         "likes": 165,
         "replies": 28,
         "reposts": 4,
@@ -42,7 +42,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DfFLEY5kYHT",
       "timestamp": "2026-10-29T14:01:23+0000",
       "metrics": {
-        "views": 1428,
+        "views": 1431,
         "likes": 82,
         "replies": 6,
         "reposts": 0,
@@ -57,7 +57,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DfG47nVkV3r",
       "timestamp": "2026-10-30T06:01:22+0000",
       "metrics": {
-        "views": 1614,
+        "views": 1618,
         "likes": 78,
         "replies": 8,
         "reposts": 1,
@@ -99,19 +99,34 @@
   ],
   "recent_posts": [
     {
+      "id": "18115495588848941",
+      "text": "French cafés don't do \"to-go\" energy — even if you order a coffee, they expect you to sit with it.\nNobody is rushing. Th",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DfPCyWslaHt",
+      "timestamp": "2026-11-02T10:01:25+0000",
+      "metrics": {
+        "views": 453,
+        "likes": 21,
+        "replies": 3,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 24
+    },
+    {
       "id": "18187111243422070",
       "text": "I used to think flat whites were just lattes with a rebrand.\nAustralians will correct you so fast and honestly? they're ",
       "permalink": "https://www.threads.com/@iams_ichi/post/DfOnVqdEY-d",
       "timestamp": "2026-11-02T06:01:34+0000",
       "metrics": {
-        "views": 368,
-        "likes": 0,
+        "views": 446,
+        "likes": 1,
         "replies": 2,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 2
+      "engagement": 3
     },
     {
       "id": "18470474173138839",
@@ -119,7 +134,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DfOL2bUmt7e",
       "timestamp": "2026-11-02T02:01:22+0000",
       "metrics": {
-        "views": 151,
+        "views": 156,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -134,7 +149,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DfLgFrxj_ZQ",
       "timestamp": "2026-11-01T00:59:57+0000",
       "metrics": {
-        "views": 4,
+        "views": 5,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -224,7 +239,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DfG47nVkV3r",
       "timestamp": "2026-10-30T06:01:22+0000",
       "metrics": {
-        "views": 1614,
+        "views": 1618,
         "likes": 78,
         "replies": 8,
         "reposts": 1,
@@ -232,21 +247,6 @@
         "shares": 0
       },
       "engagement": 87
-    },
-    {
-      "id": "18106472891646535",
-      "text": "Osaka, 7pm: standing at a Dotonbori stall, takoyaki burning my fingers, eating over a paper tray while people push past ",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DfGddGLjT-Z",
-      "timestamp": "2026-10-30T02:01:17+0000",
-      "metrics": {
-        "views": 88,
-        "likes": 1,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
     }
   ]
 }
