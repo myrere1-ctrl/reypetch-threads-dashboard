@@ -1,21 +1,21 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-11-03T01:40:41.157Z",
+  "updated_at": "2026-11-03T09:42:24.093Z",
   "profile": {
     "username": "_iame.hijrah",
     "biography": "Hijrah Journey \nInbox ➡️Akses Safar AI",
-    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&ig_cache_key=GHPulixGDYKQ0TVAAKrnbOIoMBtnbmNDAQAB2402400j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=e3TAUUbPEQwQ7kNvwE1Ze1J&_nc_oc=AdobfdfwTd6pCUSxQo6hoz-RXPtm0pcFl_dZ9AmvQu7arbbii3GYr0Vxdr0lIvCXMfo&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=BJVCQcZ57XaZQqyEyoVPsw&_nc_tpa=Q5bMBQJJlYClFkRr-fbFYPOJHx0qIr6zuo6mvLZvPM-LaQKmXZm7hpYGBod-cDb0OP9u6mzAmiDCEOvNCw&oh=00_AQT6lkS_z0--_Xjne9hiSW9kyR7Fh_9UoUhn1hIMn8JdMw&oe=6AEF0153"
+    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&ig_cache_key=GHPulixGDYKQ0TVAAKrnbOIoMBtnbmNDAQAB2402400j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=e3TAUUbPEQwQ7kNvwELLKmm&_nc_oc=Adq9LdV-l0GUJpQRSaBp-h_8kkDAvXWrVwqXT_Oy4Wji2946z17nrO92kqMsMk84V90&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=4gQvp3ea8FqWnUGBXiCd6w&_nc_tpa=Q5bMBQIonsKgDRHhHuKqP0tBx5SAZu_OdzDGo_GB4xWSxPVUvaajWbT20ZkcNBrCEQiUtorzE_neOpshCA&oh=00_AQSL96JpMfOCfgy_2dIjTebxmV7mvkWfHII6iasT2b15Bg&oe=6AEF71D3"
   },
   "summary": {
     "followers_count": 10,
-    "views": 1993,
-    "likes": 19,
+    "views": 74,
+    "likes": 1,
     "replies": 0,
-    "reposts": 2,
+    "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 130,
-    "engagement_rate": 6.52,
+    "engagement_total": 132,
+    "engagement_rate": 178.38,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -26,7 +26,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DfMkwR_kfUi",
       "timestamp": "2026-11-01T10:59:58+0000",
       "metrics": {
-        "views": 4857,
+        "views": 4861,
         "likes": 30,
         "replies": 9,
         "reposts": 6,
@@ -98,12 +98,72 @@
   ],
   "recent_posts": [
     {
+      "id": "18214442062366500",
+      "text": "Dzikir pagi & petang itu aku akui — sering bolong.\nBukan karena ga tau pentingnya, tapi habis Subuh langsung kegeret not",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DfRdRWWkd-G",
+      "timestamp": "2026-11-03T08:31:20+0000",
+      "metrics": {
+        "views": 64,
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
+      "id": "18354250471284231",
+      "text": "Kenapa istighfar kerasa \"hampa\" padahal udah rutin dibaca?\nAku ngerasa itu lama banget. Ternyata yang beda bukan jumlahn",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DfRIrLgFT_4",
+      "timestamp": "2026-11-03T05:31:21+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "18169485628492034",
+      "text": "Dulu aku kira Ayat Kursi itu \"cukup\" dibaca sekali sebelum tidur — ritual malam, udah.\nTernyata yang aku rasain beda ban",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DfQ1xNzoFLT",
+      "timestamp": "2026-11-03T02:46:09+0000",
+      "metrics": {
+        "views": 76,
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
+      "id": "18147731848606347",
+      "text": "Al-Waqiah itu aku baca tadi malam — dan tiba-tiba nyadar, aku masih dikasih mata buat baca, napas buat hidup, hati buat ",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DfQ0E2XDfYG",
+      "timestamp": "2026-11-03T02:31:21+0000",
+      "metrics": {
+        "views": 102,
+        "likes": 3,
+        "replies": 1,
+        "reposts": 1,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 5
+    },
+    {
       "id": "18644498911048572",
       "text": "4 amalan yang aku andelin waktu lagi struggle sabar (yang ke-3 sering aku skip padahal penting banget):\n1. Tawakaltu — d",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DfPXak9oMtv",
       "timestamp": "2026-11-02T13:01:40+0000",
       "metrics": {
-        "views": 221,
+        "views": 223,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -118,7 +178,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DfPNFNgkcXA",
       "timestamp": "2026-11-02T11:31:23+0000",
       "metrics": {
-        "views": 153,
+        "views": 155,
         "likes": 3,
         "replies": 0,
         "reposts": 0,
@@ -133,7 +193,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DfO4f_OlWZv",
       "timestamp": "2026-11-02T08:31:31+0000",
       "metrics": {
-        "views": 146,
+        "views": 150,
         "likes": 2,
         "replies": 0,
         "reposts": 0,
@@ -148,7 +208,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DfOj42FFj6j",
       "timestamp": "2026-11-02T05:31:24+0000",
       "metrics": {
-        "views": 125,
+        "views": 126,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -179,66 +239,6 @@
       "timestamp": "2026-11-01T22:01:32+0000",
       "metrics": {
         "views": 28,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "17991592863052465",
-      "text": "Seorang Badui Minta 1 Doa ke Rasulullah ﷺ — Isinya 5 Permintaan Terbesar Manusia\n\n1/ Seorang Arab Badui datang ke Rasulu",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DfMkwR_kfUi",
-      "timestamp": "2026-11-01T10:59:58+0000",
-      "metrics": {
-        "views": 4857,
-        "likes": 30,
-        "replies": 9,
-        "reposts": 6,
-        "quotes": 1,
-        "shares": 7
-      },
-      "engagement": 46
-    },
-    {
-      "id": "18107548427346876",
-      "text": "Ibu 3x Lebih Tinggi dari Ayah — Tapi Bagaimana Kalau Ibumu \"Jahat\"?\n\nIslam Punya Jawaban yang Bikin Kamu Tercengang \n\n1/",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DfLZYMvE9YD",
-      "timestamp": "2026-11-01T00:01:19+0000",
-      "metrics": {
-        "views": 1295,
-        "likes": 18,
-        "replies": 7,
-        "reposts": 2,
-        "quotes": 0,
-        "shares": 5
-      },
-      "engagement": 27
-    },
-    {
-      "id": "18423692200158741",
-      "text": "Malam ini aku nanya ke diri sendiri — berapa banyak nikmat yang aku notice hari ini vs yang aku keluhkan?\nJujur, sering ",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DfH9oYyFGLW",
-      "timestamp": "2026-10-30T16:01:40+0000",
-      "metrics": {
-        "views": 25,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18100329170432542",
-      "text": "Pernah ga kebangun jam 3 pagi dan tiba-tiba semua beban dateng sekaligus?\nAku sering. Bukannya tenang, malah overthinkin",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DfHzTGEESfn",
-      "timestamp": "2026-10-30T14:31:23+0000",
-      "metrics": {
-        "views": 67,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
