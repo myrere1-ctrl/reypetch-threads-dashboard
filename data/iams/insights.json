@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-11-03T17:54:53.380Z",
+  "updated_at": "2026-11-03T23:29:43.726Z",
   "profile": {
     "username": "iams_ichi",
     "name": "I.petch",
     "biography": "🇦🇺\nCMO at COA.AU &\nNo-Code App Builder\nOnly Positive Vibes\nIt’s about the vibe and the feeling. \nThe names of the places? 🤔",
-    "picture": "https://scontent-lga3-3.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s240x240_tt6&_nc_cat=102&ig_cache_key=GP7jVy3SUhQ8xp4-AMBIEGSqJAN4bmNDAQAB2402400j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=MAv3Svwjz2AQ7kNvwEgyXq0&_nc_oc=AdqBcuPJZunA6oneDBLs9l6ORrmIjxpqqg7BaXyGg_cM0_Fn_x86sBNQCUhvnfTeN1E&_nc_zt=24&_nc_ht=scontent-lga3-3.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=rwqo7mELdyC3BtdzmXyZfQ&_nc_tpa=Q5bMBQLInViAuIAnyfiHqGnH8apsagGLbfGTuFmef6Y3vFfqkQDoZYu35oL5S4RXCgPQhNXhjJaOvO_-lQ&oh=00_AQTa6nwbbNeVm_cqbQ3WIDgb-7rksNZmo3x9N5y1f-W2vA&oe=6AEFF0DE"
+    "picture": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s240x240_tt6&_nc_cat=102&ig_cache_key=GP7jVy3SUhQ8xp4-AMBIEGSqJAN4bmNDAQAB2402400j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=MAv3Svwjz2AQ7kNvwHUVtc-&_nc_oc=AdpE2tcVSm01Yy0PePIhme7gnFlHdDXOd6xczXuujjSuV0W_10svHDevfkaQtwxm7tg&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=n1XJCLmSGEvSJz3iFt6LfQ&_nc_tpa=Q5bMBQLUyF9sQGjJhl3on-hqJRSFpR2mPtMr1Rp76LnwTNCce2I-pxLvTlQuVC4ZGNu9JNX69uEPaJz4ag&oh=00_AQQpBwN3B_N5pYkn4TQYKavG5dKZ0RHe9JT9vH7GY1xZbg&oe=6AF0291E"
   },
   "summary": {
     "followers_count": 1401,
-    "views": 2553,
-    "likes": 120,
-    "replies": 31,
+    "views": 3265,
+    "likes": 159,
+    "replies": 43,
     "reposts": 0,
     "quotes": 1,
     "profile_views": null,
-    "engagement_total": 644,
-    "engagement_rate": 25.23,
+    "engagement_total": 695,
+    "engagement_rate": 21.29,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -27,14 +27,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DfRMHVUFYk1",
       "timestamp": "2026-11-03T06:01:24+0000",
       "metrics": {
-        "views": 2860,
-        "likes": 138,
-        "replies": 26,
+        "views": 3239,
+        "likes": 157,
+        "replies": 27,
         "reposts": 0,
         "quotes": 1,
         "shares": 0
       },
-      "engagement": 165
+      "engagement": 185
     },
     {
       "id": "17999891436029870",
@@ -42,7 +42,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DfFLEY5kYHT",
       "timestamp": "2026-10-29T14:01:23+0000",
       "metrics": {
-        "views": 1433,
+        "views": 1434,
         "likes": 83,
         "replies": 6,
         "reposts": 0,
@@ -57,7 +57,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DfG47nVkV3r",
       "timestamp": "2026-10-30T06:01:22+0000",
       "metrics": {
-        "views": 1628,
+        "views": 1629,
         "likes": 78,
         "replies": 8,
         "reposts": 1,
@@ -67,12 +67,27 @@
       "engagement": 87
     },
     {
+      "id": "18128275135896318",
+      "text": "Unpopular opinion: Italy is actually better when you skip the famous piazzas and just eat where there's no English menu ",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DfRnkTKEayS",
+      "timestamp": "2026-11-03T10:01:19+0000",
+      "metrics": {
+        "views": 1076,
+        "likes": 49,
+        "replies": 28,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 77
+    },
+    {
       "id": "18115495588848941",
       "text": "French cafés don't do \"to-go\" energy — even if you order a coffee, they expect you to sit with it.\nNobody is rushing. Th",
       "permalink": "https://www.threads.com/@iams_ichi/post/DfPCyWslaHt",
       "timestamp": "2026-11-02T10:01:25+0000",
       "metrics": {
-        "views": 869,
+        "views": 871,
         "likes": 57,
         "replies": 18,
         "reposts": 0,
@@ -80,21 +95,6 @@
         "shares": 0
       },
       "engagement": 75
-    },
-    {
-      "id": "18078802706423905",
-      "text": "Everyone told me solo Europe trips are overwhelming — too much to plan, too easy to get lost.\nSpent three weeks navigati",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DfEvm1QG8cF",
-      "timestamp": "2026-10-29T10:01:24+0000",
-      "metrics": {
-        "views": 941,
-        "likes": 45,
-        "replies": 12,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 57
     }
   ],
   "recent_posts": [
@@ -104,7 +104,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DfSDDpQFQue",
       "timestamp": "2026-11-03T14:01:29+0000",
       "metrics": {
-        "views": 14,
+        "views": 17,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -119,14 +119,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DfRnkTKEayS",
       "timestamp": "2026-11-03T10:01:19+0000",
       "metrics": {
-        "views": 813,
-        "likes": 30,
-        "replies": 16,
+        "views": 1076,
+        "likes": 49,
+        "replies": 28,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 46
+      "engagement": 77
     },
     {
       "id": "18140051974631213",
@@ -134,14 +134,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DfRMHVUFYk1",
       "timestamp": "2026-11-03T06:01:24+0000",
       "metrics": {
-        "views": 2860,
-        "likes": 138,
-        "replies": 26,
+        "views": 3239,
+        "likes": 157,
+        "replies": 27,
         "reposts": 0,
         "quotes": 1,
         "shares": 0
       },
-      "engagement": 165
+      "engagement": 185
     },
     {
       "id": "17915789907499019",
@@ -149,7 +149,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DfQ0DlplUh-",
       "timestamp": "2026-11-03T02:31:10+0000",
       "metrics": {
-        "views": 183,
+        "views": 186,
         "likes": 4,
         "replies": 0,
         "reposts": 0,
@@ -164,7 +164,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DfPCyWslaHt",
       "timestamp": "2026-11-02T10:01:25+0000",
       "metrics": {
-        "views": 869,
+        "views": 871,
         "likes": 57,
         "replies": 18,
         "reposts": 0,
@@ -224,7 +224,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DfLUObUk50X",
       "timestamp": "2026-10-31T23:16:17+0000",
       "metrics": {
-        "views": 40,
+        "views": 41,
         "likes": 1,
         "replies": 7,
         "reposts": 0,
