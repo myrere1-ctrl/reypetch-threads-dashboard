@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-11-03T09:41:44.306Z",
+  "updated_at": "2026-11-03T17:54:53.380Z",
   "profile": {
     "username": "iams_ichi",
     "name": "I.petch",
     "biography": "🇦🇺\nCMO at COA.AU &\nNo-Code App Builder\nOnly Positive Vibes\nIt’s about the vibe and the feeling. \nThe names of the places? 🤔",
-    "picture": "https://scontent-dfw6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s240x240_tt6&_nc_cat=102&ig_cache_key=GP7jVy3SUhQ8xp4-AMBIEGSqJAN4bmNDAQAB2402400j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=akC81AcbxIQQ7kNvwFZ0ld0&_nc_oc=Adr2gDTzWfYHMlQK1rhRfmHCfF7NFCcjnadPC0T1k3k8Pt66pY426G-Et0mkk11S6hM&_nc_zt=24&_nc_ht=scontent-dfw6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=BmGJSQWaogb5LIqndYFd2w&_nc_tpa=Q5bMBQKiu90Cg5sg2OANfjo_WuFLeKmb8iF_VGtYpGADWAGV6MLSYmFyF610C--GimzuK2IN6GWQhQfwyQ&oh=00_AQQOme4BP2T-ScDQkobxuYNDZ1C0t9BfBvI4BS9rX-KDEQ&oe=6AEF805E"
+    "picture": "https://scontent-lga3-3.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s240x240_tt6&_nc_cat=102&ig_cache_key=GP7jVy3SUhQ8xp4-AMBIEGSqJAN4bmNDAQAB2402400j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=MAv3Svwjz2AQ7kNvwEgyXq0&_nc_oc=AdqBcuPJZunA6oneDBLs9l6ORrmIjxpqqg7BaXyGg_cM0_Fn_x86sBNQCUhvnfTeN1E&_nc_zt=24&_nc_ht=scontent-lga3-3.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=rwqo7mELdyC3BtdzmXyZfQ&_nc_tpa=Q5bMBQLInViAuIAnyfiHqGnH8apsagGLbfGTuFmef6Y3vFfqkQDoZYu35oL5S4RXCgPQhNXhjJaOvO_-lQ&oh=00_AQTa6nwbbNeVm_cqbQ3WIDgb-7rksNZmo3x9N5y1f-W2vA&oe=6AEFF0DE"
   },
   "summary": {
-    "followers_count": 1402,
-    "views": 445,
-    "likes": 22,
-    "replies": 6,
+    "followers_count": 1401,
+    "views": 2553,
+    "likes": 120,
+    "replies": 31,
     "reposts": 0,
-    "quotes": 0,
+    "quotes": 1,
     "profile_views": null,
-    "engagement_total": 595,
-    "engagement_rate": 133.71,
+    "engagement_total": 644,
+    "engagement_rate": 25.23,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -27,14 +27,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DfRMHVUFYk1",
       "timestamp": "2026-11-03T06:01:24+0000",
       "metrics": {
-        "views": 1690,
-        "likes": 72,
-        "replies": 23,
+        "views": 2860,
+        "likes": 138,
+        "replies": 26,
         "reposts": 0,
-        "quotes": 0,
+        "quotes": 1,
         "shares": 0
       },
-      "engagement": 95
+      "engagement": 165
     },
     {
       "id": "17999891436029870",
@@ -57,7 +57,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DfG47nVkV3r",
       "timestamp": "2026-10-30T06:01:22+0000",
       "metrics": {
-        "views": 1626,
+        "views": 1628,
         "likes": 78,
         "replies": 8,
         "reposts": 1,
@@ -72,46 +72,76 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DfPCyWslaHt",
       "timestamp": "2026-11-02T10:01:25+0000",
       "metrics": {
-        "views": 816,
-        "likes": 56,
-        "replies": 15,
+        "views": 869,
+        "likes": 57,
+        "replies": 18,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 71
+      "engagement": 75
     },
     {
-      "id": "18112182554165513",
-      "text": "Melbourne myth: the laneway coffee culture is ~aesthetic~ but overhyped.\nNope. There's something genuinely different abo",
-      "permalink": "https://www.threads.com/@iams_ichi/post/De_KjiQFaMO",
-      "timestamp": "2026-10-27T06:01:26+0000",
+      "id": "18078802706423905",
+      "text": "Everyone told me solo Europe trips are overwhelming — too much to plan, too easy to get lost.\nSpent three weeks navigati",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DfEvm1QG8cF",
+      "timestamp": "2026-10-29T10:01:24+0000",
       "metrics": {
-        "views": 1135,
-        "likes": 65,
-        "replies": 4,
+        "views": 941,
+        "likes": 45,
+        "replies": 12,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 69
+      "engagement": 57
     }
   ],
   "recent_posts": [
+    {
+      "id": "17977690311156378",
+      "text": "The Twelve Apostles don't look real in person — like someone forgot to tell the rocks they're supposed to be geology and",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DfSDDpQFQue",
+      "timestamp": "2026-11-03T14:01:29+0000",
+      "metrics": {
+        "views": 14,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
+      "id": "18128275135896318",
+      "text": "Unpopular opinion: Italy is actually better when you skip the famous piazzas and just eat where there's no English menu ",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DfRnkTKEayS",
+      "timestamp": "2026-11-03T10:01:19+0000",
+      "metrics": {
+        "views": 813,
+        "likes": 30,
+        "replies": 16,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 46
+    },
     {
       "id": "18140051974631213",
       "text": "Australian drivers on a road trip will wave at you from the opposite lane — a stranger, a truck, a tractor, doesn't matt",
       "permalink": "https://www.threads.com/@iams_ichi/post/DfRMHVUFYk1",
       "timestamp": "2026-11-03T06:01:24+0000",
       "metrics": {
-        "views": 1690,
-        "likes": 72,
-        "replies": 23,
+        "views": 2860,
+        "likes": 138,
+        "replies": 26,
         "reposts": 0,
-        "quotes": 0,
+        "quotes": 1,
         "shares": 0
       },
-      "engagement": 95
+      "engagement": 165
     },
     {
       "id": "17915789907499019",
@@ -119,7 +149,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DfQ0DlplUh-",
       "timestamp": "2026-11-03T02:31:10+0000",
       "metrics": {
-        "views": 179,
+        "views": 183,
         "likes": 4,
         "replies": 0,
         "reposts": 0,
@@ -134,14 +164,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DfPCyWslaHt",
       "timestamp": "2026-11-02T10:01:25+0000",
       "metrics": {
-        "views": 816,
-        "likes": 56,
-        "replies": 15,
+        "views": 869,
+        "likes": 57,
+        "replies": 18,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 71
+      "engagement": 75
     },
     {
       "id": "18187111243422070",
@@ -149,7 +179,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DfOnVqdEY-d",
       "timestamp": "2026-11-02T06:01:34+0000",
       "metrics": {
-        "views": 493,
+        "views": 494,
         "likes": 1,
         "replies": 4,
         "reposts": 0,
@@ -209,7 +239,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DfLOWBjkxMr",
       "timestamp": "2026-10-31T22:24:54+0000",
       "metrics": {
-        "views": 828,
+        "views": 829,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -217,36 +247,6 @@
         "shares": 0
       },
       "engagement": 1
-    },
-    {
-      "id": "17915777163497566",
-      "text": "Back home .. Eight street. Harbourtown FO",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DfJimYAEhLS",
-      "timestamp": "2026-10-31T06:43:47+0000",
-      "metrics": {
-        "views": 9,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18103299020529338",
-      "text": "Road tripping solo through Australia sounds like an extrovert's dream — big skies, random stops, talking to strangers at",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DfHv4INFBH6",
-      "timestamp": "2026-10-30T14:01:30+0000",
-      "metrics": {
-        "views": 410,
-        "likes": 15,
-        "replies": 5,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 20
     }
   ]
 }
