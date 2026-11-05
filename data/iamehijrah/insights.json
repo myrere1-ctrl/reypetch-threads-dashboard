@@ -1,21 +1,21 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-11-04T21:58:56.603Z",
+  "updated_at": "2026-11-05T02:34:41.953Z",
   "profile": {
     "username": "_iame.hijrah",
     "biography": "Hijrah Journey \nInbox ➡️Akses Safar AI",
-    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&ig_cache_key=GHPulixGDYKQ0TVAAKrnbOIoMBtnbmNDAQAB2402400j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=e3TAUUbPEQwQ7kNvwEStQrC&_nc_oc=AdrD9HKMuvVYGrO22ikZDou3Jj4flxsIOcjRv6_EN0tPwOWZ9zEknko4IuwHF2PRUIU&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=WVatG5iaaDyE6knj7wWC5g&_nc_tpa=Q5bMBQLWIx0_BEpU4ehY2V6uxseGExzvbki952rnrxiPIQtPDc1oGokAOg08yhbrc3ivqfUUXGick9ETmw&oh=00_AQTVdAXfarEjZFDtebu_zeTCMSUpBRd9eKaUenBMv08Azg&oe=6AF16C13"
+    "picture": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&ig_cache_key=GHPulixGDYKQ0TVAAKrnbOIoMBtnbmNDAQAB2402400j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=e3TAUUbPEQwQ7kNvwEAk2uD&_nc_oc=AdprwoFYIGvcKA-vzG6ywR9VBXLAaNXJsOk4Fhv8E8xdZQc7ppm0skruRSTXlOZEMgc&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=BtjvmI6ppDOmY9dJIQ6Naw&_nc_tpa=Q5bMBQKhlO-7EndwC65wLLHVV0UL59lhQ1RSa87jSUkQKIW4vA5xNNc2gIN27YZqpC0Mu8E2Y2-ACiACmQ&oh=00_AQQg4EJ9amzB9ZhEdOmjNbxOtZsUFMEfPw5ES7H78lOW_Q&oe=6AF1A453"
   },
   "summary": {
     "followers_count": 10,
-    "views": 663,
-    "likes": 13,
+    "views": 728,
+    "likes": 16,
     "replies": 1,
     "reposts": 1,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 125,
-    "engagement_rate": 18.85,
+    "engagement_total": 100,
+    "engagement_rate": 13.74,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -36,21 +36,6 @@
       "engagement": 46
     },
     {
-      "id": "18107548427346876",
-      "text": "Ibu 3x Lebih Tinggi dari Ayah — Tapi Bagaimana Kalau Ibumu \"Jahat\"?\n\nIslam Punya Jawaban yang Bikin Kamu Tercengang \n\n1/",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DfLZYMvE9YD",
-      "timestamp": "2026-11-01T00:01:19+0000",
-      "metrics": {
-        "views": 1296,
-        "likes": 18,
-        "replies": 7,
-        "reposts": 2,
-        "quotes": 0,
-        "shares": 5
-      },
-      "engagement": 27
-    },
-    {
       "id": "17998607085017038",
       "text": "Unpopular opinion: husnudzon sama Allah itu bukan berarti ga boleh nangis atau ngerasa berat.\nAku dulu salah ngerti. Mik",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DfSGezZldpy",
@@ -66,12 +51,27 @@
       "engagement": 21
     },
     {
+      "id": "17883838251629519",
+      "text": "4 kalimat pendek yang aku ulang tiap kali ngerasa udah ga kuat:\n1. La hawla wala quwwata illa billah — pengakuan bahwa a",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DfUCFFsm8Hp",
+      "timestamp": "2026-11-04T08:31:26+0000",
+      "metrics": {
+        "views": 353,
+        "likes": 5,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 6
+    },
+    {
       "id": "18413911780089237",
       "text": "Kapan terakhir kali kamu doain orang tua habis Subuh — bukan buru-buru, tapi beneran berhenti dan nyebut nama mereka?\nAk",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DfUhAbZG68t",
       "timestamp": "2026-11-04T13:01:41+0000",
       "metrics": {
-        "views": 122,
+        "views": 123,
         "likes": 4,
         "replies": 0,
         "reposts": 1,
@@ -81,15 +81,15 @@
       "engagement": 5
     },
     {
-      "id": "17883838251629519",
-      "text": "4 kalimat pendek yang aku ulang tiap kali ngerasa udah ga kuat:\n1. La hawla wala quwwata illa billah — pengakuan bahwa a",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DfUCFFsm8Hp",
-      "timestamp": "2026-11-04T08:31:26+0000",
+      "id": "18147731848606347",
+      "text": "Al-Waqiah itu aku baca tadi malam — dan tiba-tiba nyadar, aku masih dikasih mata buat baca, napas buat hidup, hati buat ",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DfQ0E2XDfYG",
+      "timestamp": "2026-11-03T02:31:21+0000",
       "metrics": {
-        "views": 336,
-        "likes": 4,
+        "views": 106,
+        "likes": 3,
         "replies": 1,
-        "reposts": 0,
+        "reposts": 1,
         "quotes": 0,
         "shares": 0
       },
@@ -98,12 +98,42 @@
   ],
   "recent_posts": [
     {
+      "id": "17884491477533635",
+      "text": "Nenek aku selalu bilang, kalau hati lagi kerasa berat tanpa tau sebabnya — perbanyak istighfar.\nDulu aku kira istighfar ",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DfVzYC2lU3Q",
+      "timestamp": "2026-11-05T01:01:26+0000",
+      "metrics": {
+        "views": 35,
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
+      "id": "18102607079531345",
+      "text": "Kapan terakhir kamu baca Surat Yasin dengan pelan — bukan ngejar khatam, tapi beneran ngerasain?\nAku baru lakuin tadi ma",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DfVexprIEE5",
+      "timestamp": "2026-11-04T22:01:28+0000",
+      "metrics": {
+        "views": 6,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "18090683624264931",
       "text": "Unpopular opinion: sholat 5 waktu yang \"asal kelar\" justru bikin aku makin hampa — bukan makin tenang.\nDulu aku bangga b",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DfU1lJ0kUKl",
       "timestamp": "2026-11-04T16:01:28+0000",
       "metrics": {
-        "views": 159,
+        "views": 162,
         "likes": 4,
         "replies": 0,
         "reposts": 0,
@@ -133,7 +163,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DfUhAbZG68t",
       "timestamp": "2026-11-04T13:01:41+0000",
       "metrics": {
-        "views": 122,
+        "views": 123,
         "likes": 4,
         "replies": 0,
         "reposts": 1,
@@ -163,14 +193,14 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DfUCFFsm8Hp",
       "timestamp": "2026-11-04T08:31:26+0000",
       "metrics": {
-        "views": 336,
-        "likes": 4,
+        "views": 353,
+        "likes": 5,
         "replies": 1,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 5
+      "engagement": 6
     },
     {
       "id": "18132514885691169",
@@ -178,7 +208,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DfTtfGcjj71",
       "timestamp": "2026-11-04T05:31:33+0000",
       "metrics": {
-        "views": 116,
+        "views": 118,
         "likes": 2,
         "replies": 0,
         "reposts": 0,
@@ -216,36 +246,6 @@
         "shares": 0
       },
       "engagement": 1
-    },
-    {
-      "id": "18113700593603098",
-      "text": "Sholat Dhuha itu aku lakuin tadi — dan baru nyadar, masih dikasih pagi, masih bisa gerak, masih bisa sujud tanpa hambata",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DfSQzcdlshb",
-      "timestamp": "2026-11-03T16:01:37+0000",
-      "metrics": {
-        "views": 0,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "17998607085017038",
-      "text": "Unpopular opinion: husnudzon sama Allah itu bukan berarti ga boleh nangis atau ngerasa berat.\nAku dulu salah ngerti. Mik",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DfSGezZldpy",
-      "timestamp": "2026-11-03T14:31:25+0000",
-      "metrics": {
-        "views": 322,
-        "likes": 20,
-        "replies": 0,
-        "reposts": 1,
-        "quotes": 0,
-        "shares": 3
-      },
-      "engagement": 21
     }
   ]
 }
