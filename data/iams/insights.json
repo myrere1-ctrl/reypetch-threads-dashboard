@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-11-06T00:24:44.541Z",
+  "updated_at": "2026-11-06T07:59:42.103Z",
   "profile": {
     "username": "iams_ichi",
     "name": "I.petch",
     "biography": "🇦🇺\nCMO at COA.AU &\nNo-Code App Builder\nOnly Positive Vibes\nIt’s about the vibe and the feeling. \nThe names of the places? 🤔",
-    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s240x240_tt6&_nc_cat=102&ig_cache_key=GP7jVy3SUhQ8xp4-AMBIEGSqJAN4bmNDAQAB2402400j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=MAv3Svwjz2AQ7kNvwFfWwSK&_nc_oc=Ado42x0tZjrnFjtXSAAieSSVDJY8XCYjihU3KWR5bAIm9HH8Twd1aOr0j8rNcS4_8Hk&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=agrkVSXIe2ZQfRNiYBW5rw&_nc_tpa=Q5bMBQKpyYnJhkW6F2K7KcJfz25qJuaP2aAhMjR5dqa7cK_rzv6vBwyI0ZWV0oiDxfHLSH1fcS4sGgfeqg&oh=00_AQQ4iWTzNceLCSffH8SVw3edmTo2dshzauc_QT38Gj3q7Q&oe=6AF3045E"
+    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&ig_cache_key=GP7jVy3SUhQ8xp4-AMBIEGSqJAN4bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=MAv3Svwjz2AQ7kNvwF0BBpV&_nc_oc=Ado_4Fj7Hd24ubiNeFEQ6ayG4Ghhj-f9NoSfdr48ImApr1NTXL5wExMNF96dumv6DDo&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=j9NP7LpIkUijH5Hj41Hnzw&_nc_tpa=Q5bMBQIbv3vLwW7YhYgQnNGypLp2KWv4WR_4yKBhSuVI6JAyEyCZAxqZ8epzmvgjqB_26LyQSK87BJkVDg&oh=00_AQTXV2k_0CscZ-UZm7cgD9yHW5C0-4JRXcovKW5WvBsRIg&oe=6AF374DE"
   },
   "summary": {
-    "followers_count": 1401,
-    "views": 431,
-    "likes": 16,
-    "replies": 4,
-    "reposts": 0,
-    "quotes": 0,
+    "followers_count": 1402,
+    "views": 1501,
+    "likes": 54,
+    "replies": 21,
+    "reposts": 2,
+    "quotes": 1,
     "profile_views": null,
-    "engagement_total": 708,
-    "engagement_rate": 164.27,
+    "engagement_total": 617,
+    "engagement_rate": 41.11,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -27,14 +27,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DfRMHVUFYk1",
       "timestamp": "2026-11-03T06:01:24+0000",
       "metrics": {
-        "views": 3770,
+        "views": 3778,
         "likes": 193,
-        "replies": 41,
+        "replies": 45,
         "reposts": 0,
         "quotes": 1,
         "shares": 0
       },
-      "engagement": 235
+      "engagement": 239
     },
     {
       "id": "18128275135896318",
@@ -42,7 +42,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DfRnkTKEayS",
       "timestamp": "2026-11-03T10:01:19+0000",
       "metrics": {
-        "views": 1237,
+        "views": 1239,
         "likes": 57,
         "replies": 35,
         "reposts": 0,
@@ -50,21 +50,6 @@
         "shares": 0
       },
       "engagement": 92
-    },
-    {
-      "id": "17999891436029870",
-      "text": "Found a tiny café tucked in a Melbourne laneway, ordered without making eye contact, sat in the corner with my flat whit",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DfFLEY5kYHT",
-      "timestamp": "2026-10-29T14:01:23+0000",
-      "metrics": {
-        "views": 1434,
-        "likes": 83,
-        "replies": 6,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 89
     },
     {
       "id": "18129176845837866",
@@ -87,7 +72,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DfPCyWslaHt",
       "timestamp": "2026-11-02T10:01:25+0000",
       "metrics": {
-        "views": 887,
+        "views": 889,
         "likes": 57,
         "replies": 18,
         "reposts": 0,
@@ -95,23 +80,68 @@
         "shares": 0
       },
       "engagement": 75
-    }
-  ],
-  "recent_posts": [
+    },
     {
       "id": "18126964000918191",
       "text": "Three days in the bush with no signal and I genuinely forgot to be anxious about anything.\nNo small talk. No performance",
       "permalink": "https://www.threads.com/@iams_ichi/post/DfXMqfTG2a3",
       "timestamp": "2026-11-05T14:01:38+0000",
       "metrics": {
-        "views": 109,
-        "likes": 9,
-        "replies": 3,
+        "views": 381,
+        "likes": 22,
+        "replies": 8,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 12
+      "engagement": 30
+    }
+  ],
+  "recent_posts": [
+    {
+      "id": "18079579340424342",
+      "text": "Dinner in Fitzroy: a degustation where each plate came with a paragraph of explanation.\nNext morning: a banh mi from a w",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DfY6fcGkaup",
+      "timestamp": "2026-11-06T06:01:21+0000",
+      "metrics": {
+        "views": 251,
+        "likes": 6,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 7
+    },
+    {
+      "id": "18019890734957219",
+      "text": "I just realized I've never once felt lonely eating alone in Japan.\nSomething about ramen counters and solo seats at the ",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DfYfBncG9Aa",
+      "timestamp": "2026-11-06T02:01:19+0000",
+      "metrics": {
+        "views": 365,
+        "likes": 14,
+        "replies": 4,
+        "reposts": 2,
+        "quotes": 1,
+        "shares": 0
+      },
+      "engagement": 21
+    },
+    {
+      "id": "18126964000918191",
+      "text": "Three days in the bush with no signal and I genuinely forgot to be anxious about anything.\nNo small talk. No performance",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DfXMqfTG2a3",
+      "timestamp": "2026-11-05T14:01:38+0000",
+      "metrics": {
+        "views": 381,
+        "likes": 22,
+        "replies": 8,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 30
     },
     {
       "id": "18102269321532437",
@@ -119,14 +149,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DfWxKaBINgL",
       "timestamp": "2026-11-05T10:01:20+0000",
       "metrics": {
-        "views": 153,
-        "likes": 4,
+        "views": 167,
+        "likes": 5,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 4
+      "engagement": 5
     },
     {
       "id": "18182699431431707",
@@ -134,14 +164,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DfWVsSxFcs9",
       "timestamp": "2026-11-05T06:01:17+0000",
       "metrics": {
-        "views": 308,
-        "likes": 1,
-        "replies": 3,
+        "views": 331,
+        "likes": 2,
+        "replies": 5,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 4
+      "engagement": 7
     },
     {
       "id": "18024625826941593",
@@ -149,7 +179,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DfV6Ow5lJTf",
       "timestamp": "2026-11-05T02:01:19+0000",
       "metrics": {
-        "views": 100,
+        "views": 107,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -164,14 +194,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DfUn2qSG4S8",
       "timestamp": "2026-11-04T14:01:30+0000",
       "metrics": {
-        "views": 52,
+        "views": 61,
         "likes": 0,
-        "replies": 1,
+        "replies": 2,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 1
+      "engagement": 2
     },
     {
       "id": "18116455640040202",
@@ -179,7 +209,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DfUMX64ESNz",
       "timestamp": "2026-11-04T10:01:24+0000",
       "metrics": {
-        "views": 206,
+        "views": 212,
         "likes": 4,
         "replies": 0,
         "reposts": 0,
@@ -194,7 +224,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DfTw6ElG39a",
       "timestamp": "2026-11-04T06:01:23+0000",
       "metrics": {
-        "views": 76,
+        "views": 79,
         "likes": 2,
         "replies": 1,
         "reposts": 0,
@@ -209,7 +239,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DfTVcBdGprN",
       "timestamp": "2026-11-04T02:01:21+0000",
       "metrics": {
-        "views": 25,
+        "views": 27,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -217,36 +247,6 @@
         "shares": 0
       },
       "engagement": 0
-    },
-    {
-      "id": "17977690311156378",
-      "text": "The Twelve Apostles don't look real in person — like someone forgot to tell the rocks they're supposed to be geology and",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DfSDDpQFQue",
-      "timestamp": "2026-11-03T14:01:29+0000",
-      "metrics": {
-        "views": 18,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "18128275135896318",
-      "text": "Unpopular opinion: Italy is actually better when you skip the famous piazzas and just eat where there's no English menu ",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DfRnkTKEayS",
-      "timestamp": "2026-11-03T10:01:19+0000",
-      "metrics": {
-        "views": 1237,
-        "likes": 57,
-        "replies": 35,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 92
     }
   ]
 }
