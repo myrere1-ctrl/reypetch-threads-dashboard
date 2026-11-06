@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-11-05T18:49:54.827Z",
+  "updated_at": "2026-11-06T00:24:44.541Z",
   "profile": {
     "username": "iams_ichi",
     "name": "I.petch",
     "biography": "🇦🇺\nCMO at COA.AU &\nNo-Code App Builder\nOnly Positive Vibes\nIt’s about the vibe and the feeling. \nThe names of the places? 🤔",
-    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s240x240_tt6&_nc_cat=102&ig_cache_key=GP7jVy3SUhQ8xp4-AMBIEGSqJAN4bmNDAQAB2402400j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=MAv3Svwjz2AQ7kNvwHaaaBe&_nc_oc=AdqSoC5v6GlVS-6YB83-cBA_sE3DsMtNYdmKwth_JGenegGb-6AJX64AfFMN3s3w4ww&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=1LzxZIXGzwNoSIm-EbJ9vA&_nc_tpa=Q5bMBQIvu6EXIMRXOgIwiSxeQ6J14j7CIffoUZiAMTXe2uYv_zA8pg9nGyB6nugLBRVRWgCgsli7jvH0aA&oh=00_AQQrdMyGN2wwluVZlppbiwUMcS6ZAkIurtpvx6pfIiZ2qg&oe=6AF293DE"
+    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s240x240_tt6&_nc_cat=102&ig_cache_key=GP7jVy3SUhQ8xp4-AMBIEGSqJAN4bmNDAQAB2402400j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=MAv3Svwjz2AQ7kNvwFfWwSK&_nc_oc=Ado42x0tZjrnFjtXSAAieSSVDJY8XCYjihU3KWR5bAIm9HH8Twd1aOr0j8rNcS4_8Hk&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=agrkVSXIe2ZQfRNiYBW5rw&_nc_tpa=Q5bMBQKpyYnJhkW6F2K7KcJfz25qJuaP2aAhMjR5dqa7cK_rzv6vBwyI0ZWV0oiDxfHLSH1fcS4sGgfeqg&oh=00_AQQ4iWTzNceLCSffH8SVw3edmTo2dshzauc_QT38Gj3q7Q&oe=6AF3045E"
   },
   "summary": {
-    "followers_count": 1400,
-    "views": 296,
-    "likes": 4,
-    "replies": 2,
+    "followers_count": 1401,
+    "views": 431,
+    "likes": 16,
+    "replies": 4,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 695,
-    "engagement_rate": 234.8,
+    "engagement_total": 708,
+    "engagement_rate": 164.27,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -27,7 +27,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DfRMHVUFYk1",
       "timestamp": "2026-11-03T06:01:24+0000",
       "metrics": {
-        "views": 3763,
+        "views": 3770,
         "likes": 193,
         "replies": 41,
         "reposts": 0,
@@ -42,7 +42,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DfRnkTKEayS",
       "timestamp": "2026-11-03T10:01:19+0000",
       "metrics": {
-        "views": 1234,
+        "views": 1237,
         "likes": 57,
         "replies": 35,
         "reposts": 0,
@@ -104,14 +104,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DfXMqfTG2a3",
       "timestamp": "2026-11-05T14:01:38+0000",
       "metrics": {
-        "views": 53,
-        "likes": 1,
-        "replies": 1,
+        "views": 109,
+        "likes": 9,
+        "replies": 3,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 2
+      "engagement": 12
     },
     {
       "id": "18102269321532437",
@@ -119,14 +119,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DfWxKaBINgL",
       "timestamp": "2026-11-05T10:01:20+0000",
       "metrics": {
-        "views": 141,
-        "likes": 2,
+        "views": 153,
+        "likes": 4,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 2
+      "engagement": 4
     },
     {
       "id": "18182699431431707",
@@ -134,7 +134,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DfWVsSxFcs9",
       "timestamp": "2026-11-05T06:01:17+0000",
       "metrics": {
-        "views": 299,
+        "views": 308,
         "likes": 1,
         "replies": 3,
         "reposts": 0,
@@ -149,14 +149,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DfV6Ow5lJTf",
       "timestamp": "2026-11-05T02:01:19+0000",
       "metrics": {
-        "views": 96,
-        "likes": 0,
+        "views": 100,
+        "likes": 1,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 0
+      "engagement": 1
     },
     {
       "id": "18113361788233192",
@@ -164,7 +164,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DfUn2qSG4S8",
       "timestamp": "2026-11-04T14:01:30+0000",
       "metrics": {
-        "views": 51,
+        "views": 52,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -179,7 +179,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DfUMX64ESNz",
       "timestamp": "2026-11-04T10:01:24+0000",
       "metrics": {
-        "views": 205,
+        "views": 206,
         "likes": 4,
         "replies": 0,
         "reposts": 0,
@@ -194,7 +194,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DfTw6ElG39a",
       "timestamp": "2026-11-04T06:01:23+0000",
       "metrics": {
-        "views": 74,
+        "views": 76,
         "likes": 2,
         "replies": 1,
         "reposts": 0,
@@ -209,7 +209,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DfTVcBdGprN",
       "timestamp": "2026-11-04T02:01:21+0000",
       "metrics": {
-        "views": 24,
+        "views": 25,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -224,7 +224,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DfSDDpQFQue",
       "timestamp": "2026-11-03T14:01:29+0000",
       "metrics": {
-        "views": 17,
+        "views": 18,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -239,7 +239,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DfRnkTKEayS",
       "timestamp": "2026-11-03T10:01:19+0000",
       "metrics": {
-        "views": 1234,
+        "views": 1237,
         "likes": 57,
         "replies": 35,
         "reposts": 0,
