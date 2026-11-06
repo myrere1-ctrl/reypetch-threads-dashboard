@@ -1,40 +1,25 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-11-06T16:00:31.417Z",
+  "updated_at": "2026-11-06T21:37:24.015Z",
   "profile": {
     "username": "_iame.hijrah",
     "biography": "Hijrah Journey \nInbox ➡️Akses Safar AI",
-    "picture": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&ig_cache_key=GHPulixGDYKQ0TVAAKrnbOIoMBtnbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=OyyWdZPEor4Q7kNvwH4Wxk6&_nc_oc=AdpTxpsmKlwVtG6mEksNzPEY3rfhHmXzsBN6BRy4QxJMhMx8yKu6OXpXo8ZM2KCpntA&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=TfqmFdPN-zYL770Ne6FyLw&_nc_tpa=Q5bMBQJIB57vDTHUh16cHtBlPusLc8gQJMEKxa9OOkt3EP7fJeGXp3xHjLfvezJbdk_zqKTk2eQCA_k2NA&oh=00_AQTBZg__q2Aplk04WQXG3ZDdgd9fI_kyLNf-17JG25d-Ug&oe=6AF3D6D3"
+    "picture": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&ig_cache_key=GHPulixGDYKQ0TVAAKrnbOIoMBtnbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=OyyWdZPEor4Q7kNvwFSQD28&_nc_oc=AdoZ5a2rZvWT4RDtEtDyjgsm4Y3Ft_8aaYIi722QhJdT3fSzVnSHyUF8WmBmFuVEoAY&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=XnLcpqSc7D902sV9ykllMw&_nc_tpa=Q5bMBQIp4E9H9i8jKoBc3zH4rKMvcj7HGtrFpjbXSE5ykBIWdcdKywyRdtvH-fdfrQX7kiLn9FDGDwcNMg&oh=00_AQQMDZlKRD6FXydgJyZj-4vF3TnnErwYNhruxvyyr5h8LQ&oe=6AF40F13"
   },
   "summary": {
     "followers_count": 10,
-    "views": 160,
-    "likes": 4,
+    "views": 281,
+    "likes": 5,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 69,
-    "engagement_rate": 43.13,
+    "engagement_total": 49,
+    "engagement_rate": 17.44,
     "curiosity_score": null,
     "post_count": 25
   },
   "top_posts": [
-    {
-      "id": "17998607085017038",
-      "text": "Unpopular opinion: husnudzon sama Allah itu bukan berarti ga boleh nangis atau ngerasa berat.\nAku dulu salah ngerti. Mik",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DfSGezZldpy",
-      "timestamp": "2026-11-03T14:31:25+0000",
-      "metrics": {
-        "views": 322,
-        "likes": 20,
-        "replies": 0,
-        "reposts": 1,
-        "quotes": 0,
-        "shares": 3
-      },
-      "engagement": 21
-    },
     {
       "id": "18179039410448582",
       "text": "Unpopular opinion: Dhuha yang aku kerjain buru-buru itu rasanya lebih capek daripada ga sholat sama sekali.\nKarena aku c",
@@ -94,16 +79,46 @@
         "shares": 0
       },
       "engagement": 5
+    },
+    {
+      "id": "18413911780089237",
+      "text": "Kapan terakhir kali kamu doain orang tua habis Subuh — bukan buru-buru, tapi beneran berhenti dan nyebut nama mereka?\nAk",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DfUhAbZG68t",
+      "timestamp": "2026-11-04T13:01:41+0000",
+      "metrics": {
+        "views": 123,
+        "likes": 4,
+        "replies": 0,
+        "reposts": 1,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 5
     }
   ],
   "recent_posts": [
+    {
+      "id": "18214270669362626",
+      "text": "Dulu aku mikir doa saat cemas itu harus panjang, harus fokus, harus tenang dulu — baru \"layak\" diucapkan.\nTernyata justr",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DfZ_LV-lnz-",
+      "timestamp": "2026-11-06T16:01:31+0000",
+      "metrics": {
+        "views": 116,
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
     {
       "id": "18382243789241217",
       "text": "4 hal yang aku lakuin biar sholat 5 waktu ga cuma jadi rutinitas:\n1. Taruh sajadah di tempat yang kelihatan — biar ga ad",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DfZ035flDe4",
       "timestamp": "2026-11-06T14:31:28+0000",
       "metrics": {
-        "views": 43,
+        "views": 47,
         "likes": 3,
         "replies": 0,
         "reposts": 0,
@@ -133,7 +148,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DfZgQXaEX2-",
       "timestamp": "2026-11-06T11:31:23+0000",
       "metrics": {
-        "views": 21,
+        "views": 22,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -231,21 +246,6 @@
         "shares": 0
       },
       "engagement": 12
-    },
-    {
-      "id": "17979037062138714",
-      "text": "Jujur, seberapa sering kamu curiga sama rencana Allah — bukan secara sadar, tapi dalam hati?\nAku nyadar sendiri. Minta y",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DfXFzg4Do4B",
-      "timestamp": "2026-11-05T13:01:44+0000",
-      "metrics": {
-        "views": 99,
-        "likes": 3,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 3
     }
   ]
 }
