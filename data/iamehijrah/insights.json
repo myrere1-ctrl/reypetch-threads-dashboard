@@ -1,21 +1,21 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-11-06T08:00:20.433Z",
+  "updated_at": "2026-11-06T16:00:31.417Z",
   "profile": {
     "username": "_iame.hijrah",
     "biography": "Hijrah Journey \nInbox ➡️Akses Safar AI",
-    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&ig_cache_key=GHPulixGDYKQ0TVAAKrnbOIoMBtnbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=OyyWdZPEor4Q7kNvwFrqOfU&_nc_oc=AdoQ_j61FPJN9KoSdF8Z9H7NlqOxbeD5sa0GgLG5WzptjWL3yFJyvMVkDjpRSlLLxA4&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=FtmssA8mw4qvcb33_HYlDg&_nc_tpa=Q5bMBQKx_5dJerS60v3Pag54qZKi-dxTYVRYVzaltNO29TlhZB2myIrDfA-gCMw-vKigP3W-lf1xmnQIDQ&oh=00_AQRgJASTVTq4KZyFefZE-x6rdyGQdDXrw5jFj4nbJMHdpA&oe=6AF36653"
+    "picture": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&ig_cache_key=GHPulixGDYKQ0TVAAKrnbOIoMBtnbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=OyyWdZPEor4Q7kNvwH4Wxk6&_nc_oc=AdpTxpsmKlwVtG6mEksNzPEY3rfhHmXzsBN6BRy4QxJMhMx8yKu6OXpXo8ZM2KCpntA&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=TfqmFdPN-zYL770Ne6FyLw&_nc_tpa=Q5bMBQJIB57vDTHUh16cHtBlPusLc8gQJMEKxa9OOkt3EP7fJeGXp3xHjLfvezJbdk_zqKTk2eQCA_k2NA&oh=00_AQTBZg__q2Aplk04WQXG3ZDdgd9fI_kyLNf-17JG25d-Ug&oe=6AF3D6D3"
   },
   "summary": {
     "followers_count": 10,
-    "views": 0,
-    "likes": 0,
+    "views": 160,
+    "likes": 4,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 66,
-    "engagement_rate": 0,
+    "engagement_total": 69,
+    "engagement_rate": 43.13,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -41,7 +41,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DfXQLLsEZWE",
       "timestamp": "2026-11-05T14:32:20+0000",
       "metrics": {
-        "views": 314,
+        "views": 318,
         "likes": 12,
         "replies": 0,
         "reposts": 0,
@@ -98,12 +98,72 @@
   ],
   "recent_posts": [
     {
+      "id": "18382243789241217",
+      "text": "4 hal yang aku lakuin biar sholat 5 waktu ga cuma jadi rutinitas:\n1. Taruh sajadah di tempat yang kelihatan — biar ga ad",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DfZ035flDe4",
+      "timestamp": "2026-11-06T14:31:28+0000",
+      "metrics": {
+        "views": 43,
+        "likes": 3,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 3
+    },
+    {
+      "id": "18158852569514602",
+      "text": "Malam ini, jujur deh — kapan terakhir kamu sedekah bukan karena ada \"momennya\"?\nAku nyadar, sedekahku selama ini sering ",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DfZqk12EfyV",
+      "timestamp": "2026-11-06T13:01:30+0000",
+      "metrics": {
+        "views": 20,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "18141538753619019",
+      "text": "Kapan terakhir kamu berdoa buat orang tua — bukan karena ada momen, tapi just because?\nHari ini aku ngeliat ibu lagi dud",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DfZgQXaEX2-",
+      "timestamp": "2026-11-06T11:31:23+0000",
+      "metrics": {
+        "views": 21,
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
+      "id": "17978888120932760",
+      "text": "Dulu aku mikir sabar itu soal nahan — nahan nangis, nahan protes, nahan nanya \"kenapa aku?\"\nTernyata sabar itu bukan soa",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DfZLp1Alo_K",
+      "timestamp": "2026-11-06T08:31:17+0000",
+      "metrics": {
+        "views": 70,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "17953317126316991",
       "text": "Lagi di titik yang kerasa buntu dari semua arah?\nAku biasanya langsung overthinking — nyari solusi, nyari jalan, makin c",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DfY3ES8Ft-m",
       "timestamp": "2026-11-06T05:31:24+0000",
       "metrics": {
-        "views": 49,
+        "views": 50,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -163,7 +223,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DfXQLLsEZWE",
       "timestamp": "2026-11-05T14:32:20+0000",
       "metrics": {
-        "views": 314,
+        "views": 318,
         "likes": 12,
         "replies": 0,
         "reposts": 0,
@@ -178,7 +238,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DfXFzg4Do4B",
       "timestamp": "2026-11-05T13:01:44+0000",
       "metrics": {
-        "views": 97,
+        "views": 99,
         "likes": 3,
         "replies": 0,
         "reposts": 0,
@@ -186,66 +246,6 @@
         "shares": 0
       },
       "engagement": 3
-    },
-    {
-      "id": "18042361433839430",
-      "text": "Lagi di titik semua kerasa buntu — dan entah kenapa susah bilang alhamdulillah?\nAku pernah di sana. Syukur itu terasa be",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DfW7dtfEap2",
-      "timestamp": "2026-11-05T11:31:21+0000",
-      "metrics": {
-        "views": 62,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18107980208355885",
-      "text": "Jarang orang tau kalau sepertiga malam itu justru paling pas buat nangis yang ga ada orang liat.\nAku mulai rutinin Doa I",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DfWm4yrlmvH",
-      "timestamp": "2026-11-05T08:31:33+0000",
-      "metrics": {
-        "views": 126,
-        "likes": 1,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "18118211615037295",
-      "text": "Dzikir pagi itu aku sering anggap formalitas — baca, kelar, lanjut scroll.\nSampai suatu pagi aku pelan-pelinin, dan nyad",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DfWSQtrlTOv",
-      "timestamp": "2026-11-05T05:31:19+0000",
-      "metrics": {
-        "views": 22,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "17884491477533635",
-      "text": "Nenek aku selalu bilang, kalau hati lagi kerasa berat tanpa tau sebabnya — perbanyak istighfar.\nDulu aku kira istighfar ",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DfVzYC2lU3Q",
-      "timestamp": "2026-11-05T01:01:26+0000",
-      "metrics": {
-        "views": 37,
-        "likes": 1,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
     }
   ]
 }
