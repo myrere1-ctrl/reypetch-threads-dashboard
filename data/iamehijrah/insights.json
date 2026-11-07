@@ -1,21 +1,21 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-11-07T08:56:25.323Z",
+  "updated_at": "2026-11-07T15:45:59.732Z",
   "profile": {
     "username": "_iame.hijrah",
     "biography": "Hijrah Journey \nInbox ➡️Akses Safar AI",
-    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&ig_cache_key=GHPulixGDYKQ0TVAAKrnbOIoMBtnbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=OyyWdZPEor4Q7kNvwERfTSJ&_nc_oc=AdoiC5qj4FgK6TiR30_Q_Ep3_YdlQCoH8PcFLed5y8gs-6yqYrhmak8Qw4yLPBc4yLs&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=m6k2_pCUX5i8_PP6f_jnsg&_nc_tpa=Q5bMBQIBpelkliZkmdm6yWm-jEIJ45EImb2Kd0gVTj2bsbmjMMMb_i64DGInpvY7DrJXNjrg3pDu0R5Gwg&oh=00_AQQFQk6uGp3kuaRGKei1sG0ILJpwI2KppN4iDNetq3oPzQ&oe=6AF4B7D3"
+    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&ig_cache_key=GHPulixGDYKQ0TVAAKrnbOIoMBtnbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=OyyWdZPEor4Q7kNvwHLtwlT&_nc_oc=AdphG5SJbu3IdXUtckMg2DzGmwWCszWMf-9G4Q6C0GFfXC1btUmu9O4xJsfWWCr8QwY&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=l8DLQ4CEJQOzvMfCF27QcQ&_nc_tpa=Q5bMBQIvdZK5djO7pgON0UGaWKvf1wB3FqZg0XOavYOzn-_b4TOC96fNQbSvENh1oPxG74-CEH4CV85nIA&oh=00_AQT1EmbzD671PkDqO0od9opR7J8TXSdynFbmaMoYKLF0iA&oe=6AF52853"
   },
   "summary": {
     "followers_count": 10,
-    "views": 19,
-    "likes": 0,
+    "views": 298,
+    "likes": 8,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 55,
-    "engagement_rate": 289.47,
+    "engagement_total": 53,
+    "engagement_rate": 17.79,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -36,17 +36,17 @@
       "engagement": 12
     },
     {
-      "id": "17883838251629519",
-      "text": "4 kalimat pendek yang aku ulang tiap kali ngerasa udah ga kuat:\n1. La hawla wala quwwata illa billah — pengakuan bahwa a",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DfUCFFsm8Hp",
-      "timestamp": "2026-11-04T08:31:26+0000",
+      "id": "17954488845325668",
+      "text": "Baru sadar kenapa Ibu selalu bilang jangan lupa baca Ayat Kursi sebelum tidur, bahkan pas lagi traveling.\nDi Osaka, aku ",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DfcIYySCRWD",
+      "timestamp": "2026-11-07T11:59:56+0000",
       "metrics": {
-        "views": 369,
-        "likes": 6,
-        "replies": 1,
+        "views": 178,
+        "likes": 8,
+        "replies": 0,
         "reposts": 0,
-        "quotes": 1,
-        "shares": 1
+        "quotes": 0,
+        "shares": 0
       },
       "engagement": 8
     },
@@ -56,7 +56,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DfblaXznaQ4",
       "timestamp": "2026-11-07T06:54:19+0000",
       "metrics": {
-        "views": 98,
+        "views": 121,
         "likes": 0,
         "replies": 7,
         "reposts": 0,
@@ -86,7 +86,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DfU1lJ0kUKl",
       "timestamp": "2026-11-04T16:01:28+0000",
       "metrics": {
-        "views": 169,
+        "views": 171,
         "likes": 5,
         "replies": 0,
         "reposts": 0,
@@ -98,12 +98,57 @@
   ],
   "recent_posts": [
     {
+      "id": "17954488845325668",
+      "text": "Baru sadar kenapa Ibu selalu bilang jangan lupa baca Ayat Kursi sebelum tidur, bahkan pas lagi traveling.\nDi Osaka, aku ",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DfcIYySCRWD",
+      "timestamp": "2026-11-07T11:59:56+0000",
+      "metrics": {
+        "views": 178,
+        "likes": 8,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 8
+    },
+    {
+      "id": "18146872738515179",
+      "text": "Aku buat app simple untuk Aku pakai ruqyah mandiri sendiri, karena Aku GA suka ribet 😊. Yang mau coba bisa cek link sak",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dfb8FmpGeQw",
+      "timestamp": "2026-11-07T10:12:28+0000",
+      "metrics": {
+        "views": 56,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "18138371695659442",
+      "text": "Hot take: kita sering nyari ketenangan di tempat yang salah.\nIbu aku orangnya sederhana banget, tapi aku nggak pernah li",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dfbzyj4gKCk",
+      "timestamp": "2026-11-07T08:59:57+0000",
+      "metrics": {
+        "views": 2,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "17944365975372388",
       "text": "Temen-temen Jepang aku tanya, 'kamu berdoa untuk apa waktu traveling?' — dan aku diam sebentar.\nIbu pernah bilang, baca ",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dfbs7VSgqN9",
       "timestamp": "2026-11-07T07:59:59+0000",
       "metrics": {
-        "views": 2,
+        "views": 3,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -118,7 +163,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DfblaXznaQ4",
       "timestamp": "2026-11-07T06:54:19+0000",
       "metrics": {
-        "views": 98,
+        "views": 121,
         "likes": 0,
         "replies": 7,
         "reposts": 0,
@@ -133,7 +178,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DfZ_LV-lnz-",
       "timestamp": "2026-11-06T16:01:31+0000",
       "metrics": {
-        "views": 117,
+        "views": 119,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -201,51 +246,6 @@
         "shares": 0
       },
       "engagement": 0
-    },
-    {
-      "id": "17953317126316991",
-      "text": "Lagi di titik yang kerasa buntu dari semua arah?\nAku biasanya langsung overthinking — nyari solusi, nyari jalan, makin c",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DfY3ES8Ft-m",
-      "timestamp": "2026-11-06T05:31:24+0000",
-      "metrics": {
-        "views": 50,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18473797948141943",
-      "text": "Unpopular opinion: sholawat yang aku baca cepet-cepet itu rasanya ga nyampe ke mana-mana — cuma bunyi di mulut, ga di ha",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DfYYK1skadO",
-      "timestamp": "2026-11-06T01:01:27+0000",
-      "metrics": {
-        "views": 1,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "17924510640221250",
-      "text": "Unpopular opinion: Ayat Kursi yang aku baca tiap malam itu lama banget cuma jadi ritual — bukan perlindungan.\nBaca, kela",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DfYDkp8oOjs",
-      "timestamp": "2026-11-05T22:01:27+0000",
-      "metrics": {
-        "views": 105,
-        "likes": 5,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 5
     }
   ]
 }
