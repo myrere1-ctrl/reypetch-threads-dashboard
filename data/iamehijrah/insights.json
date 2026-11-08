@@ -1,21 +1,21 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-11-08T06:18:54.371Z",
+  "updated_at": "2026-11-08T13:40:44.078Z",
   "profile": {
     "username": "_iame.hijrah",
     "biography": "Hijrah Journey \nInbox ➡️Akses Safar AI",
-    "picture": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&ig_cache_key=GHPulixGDYKQ0TVAAKrnbOIoMBtnbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=OyyWdZPEor4Q7kNvwFTkrGX&_nc_oc=AdpaXldAvd0j7IflC8xu_zcJ5w5C6EiL8AB47FwJzfxNEbRk0U2t8rrbL94CBEDY_KA&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=YmS4d7ikHVUSPB7a2k0Y7g&_nc_tpa=Q5bMBQJ_sk6VdPf1ULA9cHtMyYadUNEbHdUeYB6pR8i-rSrnNCfjrzdMUAj4E-ppRcSsGgAZxW4TBWPVEQ&oh=00_AQQmqsLonh-9YdBOS88l3y1y94bPYBTUiMDkqqdRKbLU4w&oe=6AF5D113"
+    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&ig_cache_key=GHPulixGDYKQ0TVAAKrnbOIoMBtnbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=OyyWdZPEor4Q7kNvwFmt292&_nc_oc=AdroyaW5_UgrOXRgg6DDOPRWMs6nxDUrvQ9BshwXwB81g7srf2ZEtnHHcw6zZ1_y_L4&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=zHxIfDzRrntDO-tX90OfFA&_nc_tpa=Q5bMBQJoQtTSRGqe9v5Y6XW_KJti2d-zgXFH74Ks1gxBxzKdh8xQYSlBMThKW5G6VI15TMLZWVCSrvrssg&oh=00_AQRbxp8Cf6O0_23-4buOY6j6mpAXV4RmrndB8iCAzfw3UA&oe=6AF64193"
   },
   "summary": {
     "followers_count": 10,
-    "views": 309,
-    "likes": 8,
+    "views": 2,
+    "likes": 0,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 53,
-    "engagement_rate": 17.15,
+    "engagement_rate": 2650,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -56,7 +56,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DfblaXznaQ4",
       "timestamp": "2026-11-07T06:54:19+0000",
       "metrics": {
-        "views": 127,
+        "views": 128,
         "likes": 0,
         "replies": 7,
         "reposts": 0,
@@ -97,6 +97,21 @@
     }
   ],
   "recent_posts": [
+    {
+      "id": "18100839743372111",
+      "text": "Nenek aku nggak pernah takut ngomongin maut — dan itu yang bikin aku respek banget sama beliau.\nBeliau bilang, 'biasain ",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DfetMBiCv3N",
+      "timestamp": "2026-11-08T11:59:59+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
     {
       "id": "17954488845325668",
       "text": "Baru sadar kenapa Ibu selalu bilang jangan lupa baca Ayat Kursi sebelum tidur, bahkan pas lagi traveling.\nDi Osaka, aku ",
@@ -163,7 +178,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DfblaXznaQ4",
       "timestamp": "2026-11-07T06:54:19+0000",
       "metrics": {
-        "views": 127,
+        "views": 128,
         "likes": 0,
         "replies": 7,
         "reposts": 0,
@@ -231,21 +246,6 @@
         "shares": 0
       },
       "engagement": 1
-    },
-    {
-      "id": "17978888120932760",
-      "text": "Dulu aku mikir sabar itu soal nahan — nahan nangis, nahan protes, nahan nanya \"kenapa aku?\"\nTernyata sabar itu bukan soa",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DfZLp1Alo_K",
-      "timestamp": "2026-11-06T08:31:17+0000",
-      "metrics": {
-        "views": 70,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
     }
   ]
 }
