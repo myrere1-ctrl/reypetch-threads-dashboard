@@ -1,21 +1,21 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-11-08T18:53:42.675Z",
+  "updated_at": "2026-11-08T22:58:07.754Z",
   "profile": {
     "username": "_iame.hijrah",
     "biography": "Hijrah Journey \nInbox ➡️Akses Safar AI",
-    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&ig_cache_key=GHPulixGDYKQ0TVAAKrnbOIoMBtnbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=6365YjaP1F0Q7kNvwFUqXUw&_nc_oc=AdovRoWm_lrpTgR4F_HR-E8xjMfHH0opp2IKZkEIGctE-IbaTbdVBLeTWVySAdRcOrs&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=IiC0riGDA61RH4nrasVQsw&_nc_tpa=Q5bMBQLJmlG2GLc9vss3omyYwETXaD1DKJAg7NCkWKqHy9rjK5df2XlMlfz_iIR1kysV-ppCHkuVWFIE1g&oh=00_AQSngSqHJ_oGg7gl03IFdOFOgaZtK_BtPlMhV2DwFkKgBA&oe=6AF6B213"
+    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&ig_cache_key=GHPulixGDYKQ0TVAAKrnbOIoMBtnbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=6365YjaP1F0Q7kNvwElLsml&_nc_oc=Adpqg-nvcpDJAxVF03Zoc_yisrMiRd48d4XB6lk4v2P6c_o5_TcSDQgynK2DOnL9PXI&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=-OfqzfhrCGdnJjfuGqHZBQ&_nc_tpa=Q5bMBQKns_t0oheR1XkIgBuNZ5utjrvyYTIIlZS2vX8KbS4gb2M4bXsZ1LNq4NXF7W16x4CgtJc7QDgPzw&oh=00_AQRJDfjEwZWkOFc_e2VIwU6D0YBstxnhnEwlpJ-OUAWWZA&oe=6AF6EA53"
   },
   "summary": {
     "followers_count": 10,
-    "views": 3,
+    "views": 4,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 53,
-    "engagement_rate": 1766.67,
+    "engagement_total": 48,
+    "engagement_rate": 1200,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -97,6 +97,21 @@
     }
   ],
   "recent_posts": [
+    {
+      "id": "18088562438311112",
+      "text": "Unpopular opinion: sholawat itu bukan soal berapa ratus kali kamu baca — tapi seberapa hadir kamu waktu bacanya.\nDulu ak",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dffx926n0LM",
+      "timestamp": "2026-11-08T22:01:32+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
     {
       "id": "18100839743372111",
       "text": "Nenek aku nggak pernah takut ngomongin maut — dan itu yang bikin aku respek banget sama beliau.\nBeliau bilang, 'biasain ",
@@ -231,21 +246,6 @@
         "shares": 0
       },
       "engagement": 0
-    },
-    {
-      "id": "18141538753619019",
-      "text": "Kapan terakhir kamu berdoa buat orang tua — bukan karena ada momen, tapi just because?\nHari ini aku ngeliat ibu lagi dud",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DfZgQXaEX2-",
-      "timestamp": "2026-11-06T11:31:23+0000",
-      "metrics": {
-        "views": 23,
-        "likes": 1,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
     }
   ]
 }
