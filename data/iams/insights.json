@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-11-09T11:49:05.980Z",
+  "updated_at": "2026-11-09T22:30:11.611Z",
   "profile": {
     "username": "iams_ichi",
     "name": "I.petch",
     "biography": "🇦🇺\nCMO at COA.AU &\nNo-Code App Builder\nOnly Positive Vibes\nIt’s about the vibe and the feeling. \nThe names of the places? 🤔",
-    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&ig_cache_key=GP7jVy3SUhQ8xp4-AMBIEGSqJAN4bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=0C-thRo2vt8Q7kNvwHuggTP&_nc_oc=AdqsORwfPkVuF3QJWcW1-YXPXqoHpOEV-LKXWTUqP2s2Jixon8HGbCODOOXLw-4WL9Y&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=BG3AIEYrxXIt7i66lTBQKA&_nc_tpa=Q5bMBQIDMk5-i6gPhH_vLTfcjoW80v7S4Bg3ptJvc1wzqhJxNdAdiZNHjs9dmNqdbwl2X7LTkih89M_V0A&oh=00_AQSUEYG74vmWN_xQp3eSPUgv8tJ7aW0IH5EBDAFk07-ing&oe=6AF7A19E"
+    "picture": "https://scontent-dfw6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&ig_cache_key=GP7jVy3SUhQ8xp4-AMBIEGSqJAN4bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=0C-thRo2vt8Q7kNvwGGvtY2&_nc_oc=AdqovUUjJge8GnqB09fjNwHRH8P6OiGeVYeMUTcLXdAOGyE2Im4OcNzH7UJVxlsXoXg&_nc_zt=24&_nc_ht=scontent-dfw6-1.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=-naA-NMI669OKwaxfsUPYw&_nc_tpa=Q5bMBQKaK6IiEFMF1dqTXE0tl_zHBZWZMt6R1lqqfvP6R9D4KnHHWx9OOHQJz2tKIlU2lZboooN3oYfm5w&oh=00_AQSJK2vsI6aewbdxl7xua5BuMGsUTTXdLYTKrDorhrQFcg&oe=6AF8121E"
   },
   "summary": {
     "followers_count": 1403,
-    "views": 364,
-    "likes": 8,
-    "replies": 6,
+    "views": 804,
+    "likes": 17,
+    "replies": 8,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 596,
-    "engagement_rate": 163.74,
+    "engagement_total": 607,
+    "engagement_rate": 75.5,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -27,7 +27,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DfRMHVUFYk1",
       "timestamp": "2026-11-03T06:01:24+0000",
       "metrics": {
-        "views": 3797,
+        "views": 3799,
         "likes": 194,
         "replies": 45,
         "reposts": 0,
@@ -87,7 +87,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DfYfBncG9Aa",
       "timestamp": "2026-11-06T02:01:19+0000",
       "metrics": {
-        "views": 660,
+        "views": 664,
         "likes": 23,
         "replies": 16,
         "reposts": 2,
@@ -99,19 +99,34 @@
   ],
   "recent_posts": [
     {
+      "id": "18450320041133050",
+      "text": "Gold Coast has approximately 400 cafes and somehow I have a regular at three of them.\nNot because the coffee is life-cha",
+      "permalink": "https://www.threads.com/@iams_ichi/post/Dfhf0rgGyMH",
+      "timestamp": "2026-11-09T14:01:28+0000",
+      "metrics": {
+        "views": 144,
+        "likes": 4,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 5
+    },
+    {
       "id": "18108670496220599",
       "text": "Paris is loud and crowded and everyone performs confidence like it's mandatory.\nI found my reset in a boulangerie just o",
       "permalink": "https://www.threads.com/@iams_ichi/post/DfhEWhWFUlp",
       "timestamp": "2026-11-09T10:01:25+0000",
       "metrics": {
-        "views": 264,
-        "likes": 5,
-        "replies": 4,
+        "views": 459,
+        "likes": 9,
+        "replies": 6,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 9
+      "engagement": 15
     },
     {
       "id": "18068910203632564",
@@ -119,7 +134,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dfgo6IEG3Gl",
       "timestamp": "2026-11-09T06:01:36+0000",
       "metrics": {
-        "views": 204,
+        "views": 216,
         "likes": 2,
         "replies": 1,
         "reposts": 0,
@@ -134,14 +149,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DfgNbRREXZ4",
       "timestamp": "2026-11-09T02:01:29+0000",
       "metrics": {
-        "views": 399,
-        "likes": 7,
+        "views": 461,
+        "likes": 8,
         "replies": 2,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 9
+      "engagement": 10
     },
     {
       "id": "18438459634198581",
@@ -194,7 +209,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DfZxbiUFe2N",
       "timestamp": "2026-11-06T14:01:23+0000",
       "metrics": {
-        "views": 198,
+        "views": 200,
         "likes": 10,
         "replies": 3,
         "reposts": 0,
@@ -232,21 +247,6 @@
         "shares": 0
       },
       "engagement": 18
-    },
-    {
-      "id": "18019890734957219",
-      "text": "I just realized I've never once felt lonely eating alone in Japan.\nSomething about ramen counters and solo seats at the ",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DfYfBncG9Aa",
-      "timestamp": "2026-11-06T02:01:19+0000",
-      "metrics": {
-        "views": 660,
-        "likes": 23,
-        "replies": 16,
-        "reposts": 2,
-        "quotes": 1,
-        "shares": 0
-      },
-      "engagement": 42
     }
   ]
 }
