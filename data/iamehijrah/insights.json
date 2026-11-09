@@ -1,21 +1,21 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-11-08T22:58:07.754Z",
+  "updated_at": "2026-11-09T02:44:45.264Z",
   "profile": {
     "username": "_iame.hijrah",
     "biography": "Hijrah Journey \nInbox ➡️Akses Safar AI",
-    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&ig_cache_key=GHPulixGDYKQ0TVAAKrnbOIoMBtnbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=6365YjaP1F0Q7kNvwElLsml&_nc_oc=Adpqg-nvcpDJAxVF03Zoc_yisrMiRd48d4XB6lk4v2P6c_o5_TcSDQgynK2DOnL9PXI&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=-OfqzfhrCGdnJjfuGqHZBQ&_nc_tpa=Q5bMBQKns_t0oheR1XkIgBuNZ5utjrvyYTIIlZS2vX8KbS4gb2M4bXsZ1LNq4NXF7W16x4CgtJc7QDgPzw&oh=00_AQRJDfjEwZWkOFc_e2VIwU6D0YBstxnhnEwlpJ-OUAWWZA&oe=6AF6EA53"
+    "picture": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&ig_cache_key=GHPulixGDYKQ0TVAAKrnbOIoMBtnbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=6365YjaP1F0Q7kNvwGjUwAP&_nc_oc=AdruoUBsbr_4QnqIB3y_2kYu6MB-PwILUao19ugNfiK1Olc62MGyZJduW1uPhs4ykdU&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=V9WIwrS5lr3gSQNQe5jYeA&_nc_tpa=Q5bMBQJF9JgpvZVr7WGbRhkw6tU1D9aJF_ljA75m0fXUKcxiZyo2Zs0G2AJCDGUA9BBYdq34nyZ1qW7G1w&oh=00_AQS0D7GNO1nwvYVLufnU0_QvCmRt_-Q9em9BY_WFL0-h5g&oe=6AF6EA53"
   },
   "summary": {
     "followers_count": 10,
-    "views": 4,
-    "likes": 0,
+    "views": 172,
+    "likes": 1,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 48,
-    "engagement_rate": 1200,
+    "engagement_total": 49,
+    "engagement_rate": 28.49,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -41,7 +41,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DfcIYySCRWD",
       "timestamp": "2026-11-07T11:59:56+0000",
       "metrics": {
-        "views": 181,
+        "views": 183,
         "likes": 8,
         "replies": 0,
         "reposts": 0,
@@ -86,7 +86,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DfU1lJ0kUKl",
       "timestamp": "2026-11-04T16:01:28+0000",
       "metrics": {
-        "views": 171,
+        "views": 172,
         "likes": 5,
         "replies": 0,
         "reposts": 0,
@@ -98,12 +98,27 @@
   ],
   "recent_posts": [
     {
+      "id": "17947042092369052",
+      "text": "Dulu aku mikir tahajjud itu \"khusus\" buat yang udah alim — yang hidupnya beres, dosanya dikit, bacaannya bagus.\nTernyata",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DfgGj0RFt8r",
+      "timestamp": "2026-11-09T01:01:28+0000",
+      "metrics": {
+        "views": 158,
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
       "id": "18088562438311112",
       "text": "Unpopular opinion: sholawat itu bukan soal berapa ratus kali kamu baca — tapi seberapa hadir kamu waktu bacanya.\nDulu ak",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dffx926n0LM",
       "timestamp": "2026-11-08T22:01:32+0000",
       "metrics": {
-        "views": 0,
+        "views": 1,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -133,7 +148,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DfcIYySCRWD",
       "timestamp": "2026-11-07T11:59:56+0000",
       "metrics": {
-        "views": 181,
+        "views": 183,
         "likes": 8,
         "replies": 0,
         "reposts": 0,
@@ -231,21 +246,6 @@
         "shares": 0
       },
       "engagement": 3
-    },
-    {
-      "id": "18158852569514602",
-      "text": "Malam ini, jujur deh — kapan terakhir kamu sedekah bukan karena ada \"momennya\"?\nAku nyadar, sedekahku selama ini sering ",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DfZqk12EfyV",
-      "timestamp": "2026-11-06T13:01:30+0000",
-      "metrics": {
-        "views": 20,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
     }
   ]
 }
