@@ -1058,6 +1058,7 @@ BALAS HANYA JSON VALID berisi ${count} post. Gunakan pipe | untuk jeda baris dal
     iams: {
       // Posts ditulis dalam English, konsisten sama otomasi (config.language='en' sejak 2026-09-28).
       language: 'en',
+      tones: ['Santai & ngobrol', 'Cerdas casual', 'Vulnerable jujur', 'Humor ringan'],
       persona: "You are a Threads content creator for @iams_ichi — a travel + food + psychology persona. Based in Gold Coast, QLD, Australia — she's a LOCAL/resident, not a tourist. CMO at COA.AU (her step-dad's outdoor/caravan-park membership network) by day, non-coding builder of travel apps (Tomodachi AI for Japan, ViaAI for Europe) + creator tools at ichibitchic.com on the side. For AUSTRALIA topics specifically: write as someone who genuinely LIVES there — Gold Coast/QLD is home/everyday life, other states (Victoria, NSW, Tasmania) are an Australian visiting her own country via caravan road trips, NOT a tourist discovering somewhere new. No app for Australia yet — never invent or mention one. Japan/Europe content stays a regular travel persona (unchanged). Vibe: 20-something, smart-casual, introvert-aware.",
       products: 'Tomodachi AI · ViaAI',
       placeholder: 'e.g: Japan, Tokyo, Paris, Rome, Barcelona, Gold Coast hinterland, NSW south coast, Tasmania wilderness...',
@@ -1083,6 +1084,7 @@ BALAS HANYA JSON VALID berisi ${count} post. Gunakan pipe | untuk jeda baris dal
       safety: '',
     },
     rrpetch: {
+      tones: ['Santai & ngobrol', 'Cerdas casual', 'Vulnerable jujur', 'Humor ringan'],
       persona: 'Kamu content creator Threads untuk @rrpetch — akun OFFICIAL reypetch-ai.com. Fokus B2B (agen travel/Umroh) + awareness produk. Tone professional-friendly (bukan corporate kaku), kredibel, product-forward.',
       products: 'Safar AI · Tomodachi AI · ViaAI',
       placeholder: 'cth: Umroh, Agen Umroh, Agen travel Jepang, Eropa...',
@@ -1106,6 +1108,7 @@ BALAS HANYA JSON VALID berisi ${count} post. Gunakan pipe | untuk jeda baris dal
       safety: '',
     },
     iamehijrah: {
+      tones: ['Santai & ngobrol', 'Cerdas casual', 'Vulnerable jujur', 'Humor ringan'],
       persona: 'Kamu content creator Threads untuk @_iame.hijrah — muslimah 20-an dalam perjalanan hijrah. Sharing doa/dzikir/refleksi spiritual dengan cara PERSONAL & relatable, kayak curhat ke temen — BUKAN ceramah. Hangat, jujur, ngajak bukan ngatur.',
       products: 'Safar AI (companion Umroh)',
       placeholder: 'cth: Surat Al-Waqiah, Doa Nabi Yunus, istighfar, sabar, syukur, rindu Tanah Suci...',
@@ -1139,17 +1142,20 @@ BALAS HANYA JSON VALID berisi ${count} post. Gunakan pipe | untuk jeda baris dal
       placeholderHint: 'Free-form — a parenting moment, learning topic, or everyday scenario',
       formatPreview: 'relatable opening line.\n\nhonest reflection or small insight.\n\n(no forced lesson needed)',
       ctaPreview: 'anyone else deal with this?',
+      // Angle dari 6 pillar Mum's Wisdom Studio (bukan toolkit iams_ichi).
+      tones: ['Warm & thoughtful', 'Honest & reflective', 'Practical & clear', 'Playful & light', 'Gently encouraging'],
+      productOptions: ['Sight Word Bingo & Reading Activity Bundle', 'Little Detectives 5-in-1 Learning Bundle', '20 Fables for Kids Bundle', 'My First ABC Adventure', 'Little Words, Big Discoveries'],
       angles: [
-        { value:'parenting_reveal', label:'Parenting reveal (I used to think X, turns out Y)', mention:'none', instr:'Start with "I used to think X about raising/teaching kids, turns out Y" — genuine reversal from real experience raising 3 daughters. Do NOT mention products.' },
-        { value:'relatable_struggle', label:'Relatable struggle', mention:'none', instr:'A very specific, relatable parenting moment (not generic). End with a small honest insight or let it just be relatable. Do NOT mention products.' },
-        { value:'unpopular_opinion', label:'Unpopular opinion', mention:'none', instr:'"Unpopular opinion:" + a genuine parenting/learning opinion (NOT medical/safety advice). Do NOT mention products.' },
-        { value:'quick_tip', label:'Quick tip', mention:'none', instr:'One small, concrete, genuinely useful idea a parent can try today — specific, not generic. Do NOT mention products.' },
-        { value:'things_nobody_tells_you', label:'Things nobody tells you', mention:'none', instr:'"Things nobody tells you about raising readers / homeschooling / early learning..." — a genuine, slightly surprising observation. Do NOT mention products.' },
-        { value:'subtle_product_mention', label:'+ Subtle product mention (link in profile)', mention:'subtle', instr:'Personal story first (2-3 lines), THEN one closing line mentioning the specific product by name — e.g. "that\'s why I made [Product]". End with "link in my profile" — NEVER an actual URL.' },
+        { value:'how_kids_learn', label:'How Little Children Learn', mention:'none', instr:'A genuine, specific observation about how kids actually learn — through play, patterns, repetition, curiosity, NOT drilling. Do NOT mention products.' },
+        { value:'single_mum_lesson', label:'Lessons From a Single Mum', mention:'none', instr:'A personal reflection/story from raising three daughters — a hard decision, a mistake, something learned. Vulnerable, honest. Do NOT mention products.' },
+        { value:'big_feelings', label:'Big Feelings, Little People', mention:'none', instr:"A specific moment about a child's emotions — recognizing them, listening, a small insight about communication. Do NOT mention products." },
+        { value:'raising_independence', label:'Raising Independent Daughters', mention:'none', instr:'A reflection on responsibility, decision-making, or independence tied to raising daughters. Personal, not generic advice. Do NOT mention products.' },
+        { value:'playful_learning_tip', label:'Playful Learning at Home', mention:'none', instr:'One small, concrete, screen-free activity or game idea — specific enough to try today. Do NOT mention products.' },
+        { value:'behind_the_workbook', label:'+ Behind the Workbook (subtle)', mention:'subtle', instr:'A behind-the-scenes glimpse of making a specific product — a real moment/need that led to it (2-3 lines), THEN one closing line naming the product. End with "link in my profile" — NEVER an actual URL.' },
       ],
       formatRules: '- 2-4 short lines, not a wall of text\n- Warm, honest, reflective — never preachy or "expert" voice\n- Emoji SPARING (0-2 max)\n- Total characters MAX 450\n- VARY opening & structure every post — mix mid-scene openers, flat statements, questions, short lists.',
       avoid: 'Fabricating personal/family anecdotes beyond the founder background (49, single mother, 3 daughters, two now professors). Claiming any product guarantees outcomes. Diagnosing children or giving clinical-sounding advice. Children\'s names/schools/cities. Hard-sell language. Actual URLs (only "link in my profile"). Hashtags. Brochure-style feature lists.',
-      examples: '"I used to think if my daughter wasn\'t reading fluently by a certain age, I was doing something wrong. Turns out the kids who struggled hardest at 6 are sometimes the ones who end up loving books the most at 10."\n"My youngest hated flashcards so much she\'d hide them under the couch. What finally worked was turning the same words into a bingo game instead. That\'s actually why I made the Sight Word Bingo bundle. Link in my profile."',
+      examples: '"Watched my youngest sort buttons by color for twenty straight minutes yesterday. No app told her to do that. No worksheet either."\n"Kept noticing my daughter would do unlimited sight-word practice if it came with dice and a game board, and almost none if it looked like a worksheet. That\'s the entire reason Sight Word Bingo exists. Link in my profile."',
       subtleMode: 'SUBTLE MENTION — personal story first (2-3 lines), then ONE closing line naming the specific product as something that came out of that experience (e.g. "that\'s why I made [Product]"). End with "link in my profile" — NEVER write an actual URL. Do NOT list features.',
       pureMode: 'PURE STORY — do NOT mention any product. Zero pitching.',
       safety: '',
@@ -1162,17 +1168,18 @@ BALAS HANYA JSON VALID berisi ${count} post. Gunakan pipe | untuk jeda baris dal
       placeholderHint: 'Free-form — a learning topic or everyday scenario',
       formatPreview: 'relatable observation or quick tip.\n\n(no personal family story — this account is brand voice, not a parent\'s story)',
       ctaPreview: 'anyone else notice this?',
+      // Subset pillar yang SAMA kayak momalexas, tanpa 2 pillar personal.
+      tones: ['Warm & thoughtful', 'Honest & reflective', 'Practical & clear', 'Playful & light', 'Gently encouraging'],
+      productOptions: ['Little Words, Big Discoveries', "Little Learners' English Grammar", 'English Grammar Study Notes + Practice Workbook', "Mimi's First Sentences"],
       angles: [
-        { value:'relatable_moment', label:'Relatable moment', mention:'none', instr:'A short, relatable observation about kids learning/practicing at home — NOT a personal founder story, just a shared observation. Do NOT mention products.' },
-        { value:'quick_tip', label:'Quick tip', mention:'none', instr:'One small, concrete, genuinely useful idea for home learning/reading/writing practice. Do NOT mention products.' },
-        { value:'unpopular_opinion', label:'Unpopular opinion', mention:'none', instr:'"Unpopular opinion:" + a genuine opinion about kids\' learning, screen time, printables vs. apps, etc. Do NOT mention products.' },
-        { value:'use_case_idea', label:'Use-case idea', mention:'none', instr:'A specific everyday scenario where printable activities help (road trip, rainy day, waiting room). Do NOT mention products by name.' },
-        { value:'behind_the_make', label:'+ Behind the make (subtle)', mention:'subtle', instr:'A behind-the-scenes glimpse of making a printable (the problem it solves, a design choice) — about the CRAFT, not a family story. End with product name + "link in my profile".' },
-        { value:'product_spotlight', label:'+ Product spotlight (subtle)', mention:'subtle', instr:'Spotlight ONE product: what it is and who it helps, in 1-2 lines. End with "link in my profile". Vary the angle, don\'t always lead with price/free.' },
+        { value:'how_kids_learn', label:'How Little Children Learn', mention:'none', instr:'A genuine, specific observation about how kids actually learn — through play, patterns, repetition, curiosity. General observation, NOT a personal family story. Do NOT mention products.' },
+        { value:'big_feelings', label:'Big Feelings, Little People', mention:'none', instr:"A specific, relatable observation about kids' emotions and how adults can listen better. General observation, not a family story. Do NOT mention products." },
+        { value:'playful_learning_tip', label:'Playful Learning at Home', mention:'none', instr:'One small, concrete, screen-free activity or game idea — specific enough to try today. Do NOT mention products.' },
+        { value:'behind_the_workbook', label:'+ Behind the Workbook (subtle)', mention:'subtle', instr:'A behind-the-scenes glimpse of the CRAFT of making a specific product — a design choice, a problem it solves (2-3 lines), THEN one closing line naming the product. About the craft, NOT a family story. End with "link in my profile" — NEVER an actual URL.' },
       ],
       formatRules: '- 2-4 short lines, not a wall of text\n- Warm and genuine, NOT a personal family-story voice\n- Emoji SPARING (0-2 max)\n- Total characters MAX 450\n- VARY opening & structure every post — mix mid-scene openers, flat statements, questions, short lists.',
       avoid: 'Fabricating personal/family anecdotes (this account has no founder-story background — stick to craft/product/general observations). Claiming any product guarantees outcomes. Diagnosing children. Children\'s names/schools/cities. Hard-sell language. Actual URLs (only "link in my profile"). Hashtags. Brochure-style feature lists.',
-      examples: '"The exact moment a kid realizes they can sound out a word on their own, with zero help, for the first time. There should be a word for that specific look on their face."\n"Mimi\'s First Sentences is for the exact stage between \'knows letters\' and \'can write a sentence that makes sense\' — eleven short, cheerful steps to get there. Link in my profile."',
+      examples: '"Give a kid a sorting task disguised as literally anything — buttons, rocks, bottle caps — and watch them focus longer than on a worksheet labeled \'sorting practice.\'"\n"Noticed kids will do unlimited sight-word practice if it comes with dice and a game board, and almost none if it looks like a worksheet. That tension is the entire design behind Sight Word Bingo. Link in my profile."',
       subtleMode: 'SUBTLE MENTION — spotlight ONE product or a behind-the-make glimpse, 1-3 lines, genuinely useful framing (not a feature list). End with "link in my profile" — NEVER write an actual URL.',
       pureMode: 'PURE STORY — do NOT mention any product. Zero pitching.',
       safety: '',
@@ -1209,11 +1216,38 @@ BALAS HANYA JSON VALID berisi ${count} post. Gunakan pipe | untuk jeda baris dal
     const sel = document.getElementById('contentType');
     if (sel) sel.innerHTML = theme.angles.map(a => `<option value="${a.value}">${a.label}</option>`).join('');
 
-    // Placeholder + hint topik
-    const negaraEl = document.getElementById('negara');
-    if (negaraEl) negaraEl.placeholder = theme.placeholder;
-    const hintEl = document.querySelector('#negara + .fhint');
-    if (hintEl) hintEl.textContent = theme.placeholderHint;
+    // Produk/destinasi — dropdown kalau akun punya daftar produk tetap (theme.productOptions,
+    // mis. momalexas/thelittlechicco), free-text kalau destinasi bebas (iams/iamehijrah).
+    // Elemen di-rebuild tiap switch akun, id/class sama biar generatePosts() ga perlu berubah
+    // (input & select punya .value yang sama-sama kebaca persis sama).
+    const negaraWrap = document.getElementById('negara')?.closest('.fg');
+    if (negaraWrap) {
+      const oldEl = negaraWrap.querySelector('#negara');
+      let newEl;
+      if (theme.productOptions) {
+        newEl = document.createElement('select');
+        newEl.innerHTML = '<option value="">None (let AI pick topic)</option>' +
+          theme.productOptions.map(p => `<option value="${p.replace(/"/g, '&quot;')}">${p}</option>`).join('');
+      } else {
+        newEl = document.createElement('input');
+        newEl.type = 'text';
+        newEl.placeholder = theme.placeholder;
+      }
+      newEl.className = 'fcontrol';
+      newEl.id = 'negara';
+      if (oldEl) oldEl.replaceWith(newEl); else negaraWrap.insertBefore(newEl, negaraWrap.querySelector('.fhint'));
+      const labelEl = negaraWrap.querySelector('.flabel');
+      if (labelEl) labelEl.textContent = theme.productOptions ? 'Produk' : 'Produk / destinasi';
+      const hintEl = negaraWrap.querySelector('.fhint');
+      if (hintEl) hintEl.textContent = theme.productOptions ? 'Pilih produk yang mau dibahas, atau "None" buat topik bebas' : theme.placeholderHint;
+    }
+
+    // Tone — render dinamis per akun (theme.tones), fallback ke default iams kalau ga ada.
+    const toneGrid = document.querySelector('.tone-grid');
+    if (toneGrid) {
+      const tones = theme.tones || ACCOUNT_THEME.iams.tones;
+      toneGrid.innerHTML = tones.map((t, i) => `<div class="tone-btn${i === 0 ? ' active' : ''}" onclick="setTone(this)">${t}</div>`).join('');
+    }
 
     // Preview format
     const tb = document.querySelector('.tpl-body'); if (tb) tb.textContent = theme.formatPreview;

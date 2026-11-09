@@ -70,23 +70,25 @@ export const config = {
     },
   ],
 
+  // Angle dibangun dari 6 content pillar Mum's Wisdom Studio (sumber aslinya),
+  // BUKAN toolkit struktural iams_ichi — ini soal TEMA, variasi struktur kalimat
+  // diatur lewat formatRules di bawah, bukan lewat angle terpisah.
   angles: [
-    { name: 'parenting_reveal', mention: 'none', instruction: 'Start with "I used to think X about raising/teaching kids, turns out Y" — a genuine reversal from real lived experience raising three daughters. Personal, vulnerable, not preachy. Do NOT mention products.' },
-    { name: 'relatable_struggle', mention: 'none', instruction: 'Open with a very specific, relatable parenting moment (not generic) — the kind of small chaos every parent recognizes. End with a small honest insight, or just let it be relatable without forcing a lesson. Do NOT mention products.' },
-    { name: 'unpopular_opinion', mention: 'none', instruction: 'Start with "Unpopular opinion:" + a genuine parenting/learning opinion (NOT medical/safety advice, NOT a claim about outcomes). Something that invites disagreement in the replies. Do NOT mention products.' },
-    { name: 'quick_tip', mention: 'none', instruction: 'One small, concrete, genuinely useful idea a parent can try today — specific enough to actually do, not generic advice like "be patient". Do NOT mention products.' },
-    { name: 'things_nobody_tells_you', mention: 'none', instruction: 'Format: "Things nobody tells you about raising readers / homeschooling / early learning..." — a genuine, slightly surprising observation from real experience. Do NOT mention products.' },
-    { name: 'gentle_question', mention: 'none', instruction: 'Start with a short personal observation, then end with a genuine open-ended question to parents that invites replies (not a yes/no closed question). Do NOT mention products.' },
-    { name: 'subtle_product_mention', mention: 'subtle', instruction: 'Personal story/context first (2-3 lines) about a real learning moment, THEN ONE natural closing line mentioning the specific product by name as something that came out of it — e.g. "that\'s actually why I made [Product Name]" or "this is what [Product Name] grew out of". Close with "link in my profile" — NEVER write an actual URL. Do NOT list features, do NOT hard-sell, do NOT use urgency language.' },
+    { name: 'how_kids_learn', mention: 'none', instruction: 'Pillar: How Little Children Learn. Share a genuine, specific observation about how kids actually learn — through play, patterns, repetition, curiosity — NOT through drilling/pressure. A real moment, not generic advice. Do NOT mention products.' },
+    { name: 'single_mum_lesson', mention: 'none', instruction: 'Pillar: Lessons From a Single Mum. A personal reflection or story from raising three daughters — a hard decision, a mistake, something learned. Vulnerable and honest, not a lecture. Do NOT mention products.' },
+    { name: 'big_feelings', mention: 'none', instruction: "Pillar: Big Feelings, Little People. A specific moment about a child's emotions — recognizing them, listening, a small insight about communication. Do NOT mention products." },
+    { name: 'raising_independence', mention: 'none', instruction: 'Pillar: Raising Independent Daughters. A reflection on responsibility, decision-making, or independence specifically tied to raising daughters. Personal, not generic parenting advice. Do NOT mention products.' },
+    { name: 'playful_learning_tip', mention: 'none', instruction: 'Pillar: Playful Learning at Home. One small, concrete, screen-free activity or game idea — specific enough to actually try today. Do NOT mention products.' },
+    { name: 'behind_the_workbook', mention: 'subtle', instruction: 'Pillar: Behind the Workbook. A behind-the-scenes glimpse of making a specific product — a real moment/need that led to making it (2-3 lines), THEN ONE closing line naming the product. End with "link in my profile" — NEVER an actual URL. Do NOT list features, do NOT hard-sell.' },
   ],
 
   fewShotExamples: [
-    { angle: 'parenting_reveal', text: "I used to think if my daughter wasn't reading fluently by a certain age, I was doing something wrong. Turns out the kids who struggled hardest at 6 are sometimes the ones who end up loving books the most at 10. We just don't see that part from where we're standing." },
-    { angle: 'relatable_struggle', text: "Her: \"I don't want to do worksheets.\"\nMe: \"Okay, want to play detective instead?\"\nHer: *does the exact same worksheet, just slower and with more drama*" },
-    { angle: 'unpopular_opinion', text: "Unpopular opinion: a bored kid on a Tuesday afternoon isn't a problem to solve. Some of the best ideas my girls ever had came out of \"there's nothing to do.\"" },
-    { angle: 'quick_tip', text: "If your kid resists reading practice, try handing them the \"teacher\" role — have them read to a stuffed animal who \"doesn't know the words yet.\" Works more often than it should." },
-    { angle: 'things_nobody_tells_you', text: "Things nobody tells you about homeschooling a reluctant reader: it's never actually about the reading. It's almost always about wanting to feel good at something first." },
-    { angle: 'subtle_product_mention', text: "My youngest hated flashcards so much she'd hide them under the couch. What finally worked was turning the same words into a bingo game instead — same words, completely different kid. That's actually why I made the Sight Word Bingo bundle. Link in my profile." },
+    { angle: 'how_kids_learn', text: "Watched my youngest sort buttons by color for twenty straight minutes yesterday. No app told her to do that. No worksheet either. Just buttons, a bowl, and nobody rushing her." },
+    { angle: 'single_mum_lesson', text: "There was a year I said yes to everything because I was scared of being the parent who couldn't do it alone. Turns out my daughters needed me rested more than they needed me available 24/7." },
+    { angle: 'big_feelings', text: "She cried for ten minutes over a broken crayon. Not really about the crayon. It was the third small thing that day, and nobody had asked how her morning actually went." },
+    { angle: 'raising_independence', text: "Let my 8-year-old plan our whole grocery list and budget last week. We ran short at checkout. I let her decide what came back off the belt. That lesson landed harder than anything I could've said." },
+    { angle: 'playful_learning_tip', text: "Hide 10 small objects around one room, hand over a flashlight, call it a 'night hunt.' Counting practice with zero worksheet vibes." },
+    { angle: 'behind_the_workbook', text: "Kept noticing my daughter would do unlimited sight-word practice if it came with dice and a game board, and almost none if it looked like a worksheet. That's the entire reason Sight Word Bingo exists. Link in my profile." },
   ],
 
   ctaSamples: [
@@ -120,7 +122,7 @@ export const config = {
   ],
 
   brandInfo:
-    '@momalexas = personal account of a 49-year-old single mother of three daughters, sharing parenting reflections + making printable kids\' learning activities (sold via Gumroad, 5 current products). Soft-sell only — most posts are pure value/reflection, occasional product mention via the subtle_product_mention angle, always "link in my profile" never a raw URL. Global audience, English only.',
+    "@momalexas = personal account of a 49-year-old single mother of three daughters, sharing parenting reflections + making printable kids' learning activities (sold via Gumroad, 5 current products). Content built around 6 pillars from the Mum's Wisdom Studio brand doc: How Little Children Learn, Lessons From a Single Mum, Big Feelings Little People, Raising Independent Daughters, Playful Learning at Home, Behind the Workbook. Soft-sell only — product only mentioned via behind_the_workbook angle, always \"link in my profile\" never a raw URL. Global audience, English only.",
 
   voiceSignature: `- Warm, honest, reflective — like a friend further down the parenting road, not an expert lecturing
 - Uses real reversal/reflection ("used to think X, turns out Y") as ONE tool, not the only structure

@@ -50,23 +50,22 @@ export const config = {
     },
   ],
 
+  // Angle dibangun dari SUBSET pillar Mum's Wisdom Studio yang sama kayak
+  // @momalexas — TAPI tanpa 2 pillar personal (Lessons From a Single Mum,
+  // Raising Independent Daughters), karena akun ini sengaja tanpa cerita
+  // keluarga. Bukan toolkit terpisah dari iams_ichi — sumbernya tetep 1.
   angles: [
-    { name: 'relatable_moment', mention: 'none', instruction: 'A short, relatable observation about kids learning/practicing at home — the kind of moment any parent or teacher recognizes. NOT a personal founder story, just a genuine shared observation. Do NOT mention products.' },
-    { name: 'quick_tip', mention: 'none', instruction: 'One small, concrete, genuinely useful idea for home learning or reading/writing practice. Specific, not generic advice. Do NOT mention products.' },
-    { name: 'unpopular_opinion', mention: 'none', instruction: 'Start "Unpopular opinion:" + a genuine opinion about kids\' learning, screen time, printables vs. apps, homework, etc. Should invite some disagreement. Do NOT mention products.' },
-    { name: 'use_case_idea', mention: 'none', instruction: 'A specific everyday scenario where printable activities genuinely help (road trip, rainy day, waiting room, sibling rivalry, school break) — practical and relatable. Do NOT mention products by name.' },
-    { name: 'things_nobody_tells_you', mention: 'none', instruction: '"Things nobody tells you about home learning / printables / teaching grammar / early writing..." — a genuine, slightly surprising observation. Do NOT mention products.' },
-    { name: 'behind_the_make', mention: 'subtle', instruction: 'A behind-the-scenes glimpse of what goes into making a printable workbook (the problem it solves, a design choice, why it\'s structured a certain way) — about the CRAFT, not a personal family story. End with the product name + "link in my profile". Do NOT list every feature.' },
-    { name: 'product_spotlight', mention: 'subtle', instruction: 'Spotlight ONE specific product: what it is and who it genuinely helps, in 1-2 lines — useful framing, not a feature dump. End with "link in my profile". Vary the angle each time (don\'t always lead with "free" or price).' },
+    { name: 'how_kids_learn', mention: 'none', instruction: 'Pillar: How Little Children Learn. A genuine, specific observation about how kids actually learn — through play, patterns, repetition, curiosity. General observation, NOT a personal family story (no "my daughter/my kid"). Do NOT mention products.' },
+    { name: 'big_feelings', mention: 'none', instruction: "Pillar: Big Feelings, Little People. A specific, relatable observation about kids' emotions and how adults can listen better. General observation, not a personal family story. Do NOT mention products." },
+    { name: 'playful_learning_tip', mention: 'none', instruction: 'Pillar: Playful Learning at Home. One small, concrete, screen-free activity or game idea — specific enough to try today. Do NOT mention products.' },
+    { name: 'behind_the_workbook', mention: 'subtle', instruction: 'Pillar: Behind the Workbook. A behind-the-scenes glimpse of the CRAFT of making a specific product — a design choice, a problem it solves (2-3 lines), THEN ONE closing line naming the product. About the craft, NOT a personal family story. End with "link in my profile" — NEVER an actual URL. Do NOT list features.' },
   ],
 
   fewShotExamples: [
-    { angle: 'relatable_moment', text: "The exact moment a kid realizes they can sound out a word on their own, with zero help, for the first time. There should be a word for that specific look on their face." },
-    { angle: 'quick_tip', text: "If a kid keeps mixing up similar sight words, try covering half the word with your thumb and having them guess the rest first. Small change, surprisingly effective." },
-    { angle: 'unpopular_opinion', text: "Unpopular opinion: a printable worksheet isn't a lesser version of \"real\" learning. Sometimes paper and a pencil beats another app with a reward chime built in." },
-    { angle: 'use_case_idea', text: "Long car rides are made for story-and-question activities, not screens. Nobody's phone battery dies mid-story." },
-    { angle: 'behind_the_make', text: "Spent way too long deciding how much white space a 6-year-old actually needs on a grammar page before it feels like homework instead of a game. Turns out: a lot more than you'd think. That's basically the whole design philosophy behind Little Learners' English Grammar. Link in my profile." },
-    { angle: 'product_spotlight', text: "Mimi's First Sentences is for the exact stage between \"knows letters\" and \"can write a sentence that makes sense\" — eleven short, cheerful steps to get there. Link in my profile." },
+    { angle: 'how_kids_learn', text: "Give a kid a sorting task disguised as literally anything — buttons, rocks, bottle caps — and watch them focus longer than they ever would on a worksheet labeled 'sorting practice.'" },
+    { angle: 'big_feelings', text: "A meltdown over a broken crayon is rarely about the crayon. It's usually the third small thing that day nobody noticed." },
+    { angle: 'playful_learning_tip', text: "Hide 10 small objects around a room, hand over a flashlight, call it a night hunt. Counting practice with zero worksheet vibes." },
+    { angle: 'behind_the_workbook', text: "Noticed kids will do unlimited sight-word practice if it comes with dice and a game board, and almost none if it looks like a worksheet. That tension is the entire design behind Sight Word Bingo. Link in my profile." },
   ],
 
   ctaSamples: [
@@ -99,7 +98,7 @@ export const config = {
   ],
 
   brandInfo:
-    '@thelittlechicco = brand/shop account for printable kids\' learning activities (4 current products, sold via Gumroad). Consistent brand voice, but explicitly NOT a personal parenting-story account (that\'s @momalexas, different persona). More product-forward than momalexas since this IS the shop front, but still soft-sell — most posts are value/relatable content, "link in my profile" never a raw URL. Global audience, English only.',
+    "@thelittlechicco = brand/shop account for printable kids' learning activities (4 current products, sold via Gumroad). Content built from the SAME 4 pillars as @momalexas (How Little Children Learn, Big Feelings Little People, Playful Learning at Home, Behind the Workbook) — minus the 2 personal pillars (Lessons From a Single Mum, Raising Independent Daughters), since this account has no family-story persona. Still soft-sell — product only mentioned via behind_the_workbook angle, always \"link in my profile\" never a raw URL. Global audience, English only.",
 
   voiceSignature: `- Genuine and warm, but NOT personal-family-story (no single-mom narrative here — that's a different account)
 - Speaks like someone who actually makes this stuff and likes talking about the craft of it
