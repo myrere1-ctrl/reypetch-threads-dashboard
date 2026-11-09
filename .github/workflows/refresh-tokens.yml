@@ -106,3 +106,63 @@ jobs:
             git pull --rebase
             git push
           fi
+
+  refresh-momalexas:
+    runs-on: ubuntu-latest
+    needs: refresh-iamehijrah
+    if: always()
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - run: npm install --no-audit --no-fund
+
+      - name: Refresh momalexas token
+        env:
+          THREADS_ACCESS_TOKEN: ${{ secrets.MOMALEXAS_THREADS_ACCESS_TOKEN }}
+          GH_PAT_REPO_SECRETS: ${{ secrets.GH_PAT_REPO_SECRETS }}
+        run: node scripts/refresh-token.mjs --account=momalexas ${{ inputs.force == 'true' && '--force' || '' }}
+
+      - name: Commit token metadata
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/momalexas/token-meta.json
+          if git diff --staged --quiet; then
+            echo "No metadata changes"
+          else
+            git commit -m "chore(momalexas): refresh threads token metadata"
+            git pull --rebase
+            git push
+          fi
+
+  refresh-thelittlechicco:
+    runs-on: ubuntu-latest
+    needs: refresh-momalexas
+    if: always()
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - run: npm install --no-audit --no-fund
+
+      - name: Refresh thelittlechicco token
+        env:
+          THREADS_ACCESS_TOKEN: ${{ secrets.THELITTLECHICCO_THREADS_ACCESS_TOKEN }}
+          GH_PAT_REPO_SECRETS: ${{ secrets.GH_PAT_REPO_SECRETS }}
+        run: node scripts/refresh-token.mjs --account=thelittlechicco ${{ inputs.force == 'true' && '--force' || '' }}
+
+      - name: Commit token metadata
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/thelittlechicco/token-meta.json
+          if git diff --staged --quiet; then
+            echo "No metadata changes"
+          else
+            git commit -m "chore(thelittlechicco): refresh threads token metadata"
+            git pull --rebase
+            git push
+          fi
