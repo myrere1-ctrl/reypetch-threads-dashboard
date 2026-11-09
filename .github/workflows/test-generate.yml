@@ -12,8 +12,10 @@ on:
           - iams
           - rrpetch
           - iamehijrah
+          - momalexas
+          - thelittlechicco
       slot:
-        description: 'Slot index (0-7 iams, 0-9 rrpetch, 0-7 iamehijrah)'
+        description: 'Slot index (0-3 iams, 0-9 rrpetch, 0-7 iamehijrah, 0-1 momalexas, 0-5 thelittlechicco)'
         required: true
         default: '0'
 
@@ -33,6 +35,6 @@ jobs:
       - name: Dry-run generate
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          THREADS_ACCESS_TOKEN: ${{ inputs.account == 'iams' && secrets.IAMS_THREADS_ACCESS_TOKEN || inputs.account == 'iamehijrah' && secrets.IAMEHIJRAH_THREADS_ACCESS_TOKEN || secrets.RRPETCH_THREADS_ACCESS_TOKEN }}
-          THREADS_USER_ID: ${{ inputs.account == 'iams' && secrets.IAMS_THREADS_USER_ID || inputs.account == 'iamehijrah' && secrets.IAMEHIJRAH_THREADS_USER_ID || secrets.RRPETCH_THREADS_USER_ID }}
+          THREADS_ACCESS_TOKEN: ${{ inputs.account == 'iams' && secrets.IAMS_THREADS_ACCESS_TOKEN || inputs.account == 'iamehijrah' && secrets.IAMEHIJRAH_THREADS_ACCESS_TOKEN || inputs.account == 'momalexas' && secrets.MOMALEXAS_THREADS_ACCESS_TOKEN || inputs.account == 'thelittlechicco' && secrets.THELITTLECHICCO_THREADS_ACCESS_TOKEN || secrets.RRPETCH_THREADS_ACCESS_TOKEN }}
+          THREADS_USER_ID: ${{ inputs.account == 'iams' && secrets.IAMS_THREADS_USER_ID || inputs.account == 'iamehijrah' && secrets.IAMEHIJRAH_THREADS_USER_ID || inputs.account == 'momalexas' && secrets.MOMALEXAS_THREADS_USER_ID || inputs.account == 'thelittlechicco' && secrets.THELITTLECHICCO_THREADS_USER_ID || secrets.RRPETCH_THREADS_USER_ID }}
         run: node scripts/generate-and-post.mjs --account=${{ inputs.account }} --slot=${{ inputs.slot }} --dry-run

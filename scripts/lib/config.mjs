@@ -1,7 +1,7 @@
 import path from 'node:path';
 import { pathToFileURL } from 'node:url';
 
-const VALID_ACCOUNTS = ['iams', 'rrpetch', 'iamehijrah'];
+const VALID_ACCOUNTS = ['iams', 'rrpetch', 'iamehijrah', 'momalexas', 'thelittlechicco'];
 
 export async function loadAccountConfig(account) {
   if (!VALID_ACCOUNTS.includes(account)) {
@@ -18,7 +18,7 @@ export function parseAccountArg() {
   }
   const env = process.env.ACCOUNT;
   if (env) return env;
-  throw new Error('Missing --account=<iams|rrpetch|iamehijrah> or ACCOUNT env var');
+  throw new Error(`Missing --account=<${VALID_ACCOUNTS.join('|')}> or ACCOUNT env var`);
 }
 
 export function dataPath(account, file) {

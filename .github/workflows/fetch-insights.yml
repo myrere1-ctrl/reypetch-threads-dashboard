@@ -1,7 +1,8 @@
-name: Fetch Insights (both accounts)
+name: Fetch Insights (all accounts)
 
 # Repo public → Actions unlimited gratis, jadi schedule aman diaktifkan.
-# Tiap jam fetch insights buat iams + rrpetch (followers/views/engagement).
+# Tiap jam fetch insights (followers/views/engagement) buat semua akun, chained
+# via needs: + if: always() biar 1 akun gagal ga nge-skip akun-akun setelahnya.
 on:
   schedule:
     - cron: '20 * * * *'
@@ -37,6 +38,7 @@ jobs:
   insights-rrpetch:
     runs-on: ubuntu-latest
     needs: insights-iams
+    if: always()
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
@@ -61,6 +63,7 @@ jobs:
   insights-iamehijrah:
     runs-on: ubuntu-latest
     needs: insights-rrpetch
+    if: always()
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
@@ -78,6 +81,56 @@ jobs:
           git add data/iamehijrah/insights.json
           if ! git diff --staged --quiet; then
             git commit -m "data(iamehijrah): update insights"
+            git pull --rebase
+            git push
+          fi
+
+  insights-momalexas:
+    runs-on: ubuntu-latest
+    needs: insights-iamehijrah
+    if: always()
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Fetch momalexas insights
+        env:
+          THREADS_ACCESS_TOKEN: ${{ secrets.MOMALEXAS_THREADS_ACCESS_TOKEN }}
+          THREADS_USER_ID: ${{ secrets.MOMALEXAS_THREADS_USER_ID }}
+        run: node scripts/fetch-insights.mjs --account=momalexas
+      - name: Commit momalexas insights
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/momalexas/insights.json
+          if ! git diff --staged --quiet; then
+            git commit -m "data(momalexas): update insights"
+            git pull --rebase
+            git push
+          fi
+
+  insights-thelittlechicco:
+    runs-on: ubuntu-latest
+    needs: insights-momalexas
+    if: always()
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Fetch thelittlechicco insights
+        env:
+          THREADS_ACCESS_TOKEN: ${{ secrets.THELITTLECHICCO_THREADS_ACCESS_TOKEN }}
+          THREADS_USER_ID: ${{ secrets.THELITTLECHICCO_THREADS_USER_ID }}
+        run: node scripts/fetch-insights.mjs --account=thelittlechicco
+      - name: Commit thelittlechicco insights
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/thelittlechicco/insights.json
+          if ! git diff --staged --quiet; then
+            git commit -m "data(thelittlechicco): update insights"
             git pull --rebase
             git push
           fi

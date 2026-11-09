@@ -166,6 +166,10 @@
         -->
         <button id="accBtnIamehijrah" onclick="switchAccount('iamehijrah')" class="acc-btn" style="flex:1;padding:8px 10px;border-radius:8px;border:1px solid var(--border);background:var(--card);color:var(--muted);font-size:12px;font-weight:500;cursor:pointer;font-family:inherit">iame.hijrah</button>
       </div>
+      <div style="display:flex;gap:6px;margin-top:6px">
+        <button id="accBtnMomalexas" onclick="switchAccount('momalexas')" class="acc-btn" style="flex:1;padding:8px 10px;border-radius:8px;border:1px solid var(--border);background:var(--card);color:var(--muted);font-size:12px;font-weight:500;cursor:pointer;font-family:inherit">momalexas</button>
+        <button id="accBtnThelittlechicco" onclick="switchAccount('thelittlechicco')" class="acc-btn" style="flex:1;padding:8px 10px;border-radius:8px;border:1px solid var(--border);background:var(--card);color:var(--muted);font-size:12px;font-weight:500;cursor:pointer;font-family:inherit">thelittlechicco</button>
+      </div>
     </div>
     <nav class="sidebar-nav">
       <div class="nav-label">Menu</div>
@@ -604,6 +608,8 @@ BALAS HANYA JSON VALID berisi ${count} post. Gunakan pipe | untuk jeda baris dal
     iams: ['09.00','13.00','17.00','21.00'],
     rrpetch: ['06.00','07.30','09.00','10.30','12.00','13.30','15.00','17.00','19.00','21.00'],
     iamehijrah: ['05.00','08.00','12.30','15.30','18.30','20.00','21.30','23.00'],
+    momalexas: ['00.00','21.00'],
+    thelittlechicco: ['00.00','03.00','06.00','15.00','19.00','21.00'],
   };
   const times = [...SLOTS_PER_ACCOUNT.iams]; // COPY (bukan referensi!) — Default; switched dynamically
 
@@ -1043,6 +1049,8 @@ BALAS HANYA JSON VALID berisi ${count} post. Gunakan pipe | untuk jeda baris dal
     iams: { username: 'iams_ichi', threadsUrl: 'https://www.threads.net/@iams_ichi', label: 'Personal (iams_ichi)' },
     rrpetch: { username: 'rrpetch', threadsUrl: 'https://www.threads.net/@rrpetch', label: 'Official (rrpetch)' },
     iamehijrah: { username: '_iame.hijrah', threadsUrl: 'https://www.threads.net/@_iame.hijrah', label: 'Hijrah (iame.hijrah)' },
+    momalexas: { username: 'momalexas', threadsUrl: 'https://www.threads.net/@momalexas', label: 'Kids printables (momalexas)' },
+    thelittlechicco: { username: 'thelittlechicco', threadsUrl: 'https://www.threads.net/@thelittlechicco', label: 'Shop (thelittlechicco)' },
   };
 
   // ============ PER-ACCOUNT GENERATE THEME (biar generator ikut persona akun) ============
@@ -1122,6 +1130,52 @@ BALAS HANYA JSON VALID berisi ${count} post. Gunakan pipe | untuk jeda baris dal
       examples: '"Nenek aku selalu bilang, jangan tinggalin Al-Waqiah tiap malam. Dulu aku iya-iya aja. Sekarang tiap habis Maghrib aku baca — bukan karena takut kekurangan, tapi hati jadi lebih tenang. InsyaAllah cukup itu 🤍"\n"Unpopular opinion: makin sibuk ngejar dunia, aku malah makin gampang cemas. Baru berasa penuh lagi pas mulai jaga sholat 5 waktu beneran."',
       subtleMode: 'SUBTLE (Umroh only) — sebut Safar AI 1 baris sebagai app yang nemenin ibadah DI TANAH SUCI (ritual/kiblat/jadwal shalat), "ada di bio" boleh. JANGAN gambarkan sebagai app baca Quran harian.',
       pureMode: 'PURE STORY — murni refleksi/doa personal. JANGAN sebut produk apapun.',
+    },
+    momalexas: {
+      language: 'en',
+      persona: "You are the Threads voice for @momalexas — a 49-year-old single mother of three daughters, sharing what she's learned raising them (two are now professors in Europe — background only, never proof a method works). She also makes printable kids' learning activities (worksheets, workbooks) sold on Gumroad. Warm, honest, reflective — never preachy, never an 'expert' lecturing. Global audience, mostly US/Canada parents and homeschoolers.",
+      products: 'Sight Word Bingo Bundle · Little Detectives Bundle · 20 Fables Bundle · My First ABC Adventure (free) · Little Words, Big Discoveries (free)',
+      placeholder: 'e.g: bedtime reading, sibling rivalry, rainy day activity, sight words, homeschool...',
+      placeholderHint: 'Free-form — a parenting moment, learning topic, or everyday scenario',
+      formatPreview: 'relatable opening line.\n\nhonest reflection or small insight.\n\n(no forced lesson needed)',
+      ctaPreview: 'anyone else deal with this?',
+      angles: [
+        { value:'parenting_reveal', label:'Parenting reveal (I used to think X, turns out Y)', mention:'none', instr:'Start with "I used to think X about raising/teaching kids, turns out Y" — genuine reversal from real experience raising 3 daughters. Do NOT mention products.' },
+        { value:'relatable_struggle', label:'Relatable struggle', mention:'none', instr:'A very specific, relatable parenting moment (not generic). End with a small honest insight or let it just be relatable. Do NOT mention products.' },
+        { value:'unpopular_opinion', label:'Unpopular opinion', mention:'none', instr:'"Unpopular opinion:" + a genuine parenting/learning opinion (NOT medical/safety advice). Do NOT mention products.' },
+        { value:'quick_tip', label:'Quick tip', mention:'none', instr:'One small, concrete, genuinely useful idea a parent can try today — specific, not generic. Do NOT mention products.' },
+        { value:'things_nobody_tells_you', label:'Things nobody tells you', mention:'none', instr:'"Things nobody tells you about raising readers / homeschooling / early learning..." — a genuine, slightly surprising observation. Do NOT mention products.' },
+        { value:'subtle_product_mention', label:'+ Subtle product mention (link in profile)', mention:'subtle', instr:'Personal story first (2-3 lines), THEN one closing line mentioning the specific product by name — e.g. "that\'s why I made [Product]". End with "link in my profile" — NEVER an actual URL.' },
+      ],
+      formatRules: '- 2-4 short lines, not a wall of text\n- Warm, honest, reflective — never preachy or "expert" voice\n- Emoji SPARING (0-2 max)\n- Total characters MAX 450\n- VARY opening & structure every post — mix mid-scene openers, flat statements, questions, short lists.',
+      avoid: 'Fabricating personal/family anecdotes beyond the founder background (49, single mother, 3 daughters, two now professors). Claiming any product guarantees outcomes. Diagnosing children or giving clinical-sounding advice. Children\'s names/schools/cities. Hard-sell language. Actual URLs (only "link in my profile"). Hashtags. Brochure-style feature lists.',
+      examples: '"I used to think if my daughter wasn\'t reading fluently by a certain age, I was doing something wrong. Turns out the kids who struggled hardest at 6 are sometimes the ones who end up loving books the most at 10."\n"My youngest hated flashcards so much she\'d hide them under the couch. What finally worked was turning the same words into a bingo game instead. That\'s actually why I made the Sight Word Bingo bundle. Link in my profile."',
+      subtleMode: 'SUBTLE MENTION — personal story first (2-3 lines), then ONE closing line naming the specific product as something that came out of that experience (e.g. "that\'s why I made [Product]"). End with "link in my profile" — NEVER write an actual URL. Do NOT list features.',
+      pureMode: 'PURE STORY — do NOT mention any product. Zero pitching.',
+      safety: '',
+    },
+    thelittlechicco: {
+      language: 'en',
+      persona: "You are the Threads voice for @thelittlechicco — a small shop making printable learning activities for kids (worksheets, workbooks, English/reading practice). NOT a personal parenting-story account — no single-mom narrative, no family anecdotes (that's a different account). Genuinely enthusiastic about turning screen time into hands-on print-at-home learning, speaking to parents/homeschoolers/teachers. Warm and real, not corporate. Global audience, mostly US/Canada.",
+      products: "Little Words, Big Discoveries (free) · Little Learners' English Grammar · English Grammar Study Notes + Practice Workbook · Mimi's First Sentences",
+      placeholder: 'e.g: grammar practice, sentence writing, road trip activity, ESL at home...',
+      placeholderHint: 'Free-form — a learning topic or everyday scenario',
+      formatPreview: 'relatable observation or quick tip.\n\n(no personal family story — this account is brand voice, not a parent\'s story)',
+      ctaPreview: 'anyone else notice this?',
+      angles: [
+        { value:'relatable_moment', label:'Relatable moment', mention:'none', instr:'A short, relatable observation about kids learning/practicing at home — NOT a personal founder story, just a shared observation. Do NOT mention products.' },
+        { value:'quick_tip', label:'Quick tip', mention:'none', instr:'One small, concrete, genuinely useful idea for home learning/reading/writing practice. Do NOT mention products.' },
+        { value:'unpopular_opinion', label:'Unpopular opinion', mention:'none', instr:'"Unpopular opinion:" + a genuine opinion about kids\' learning, screen time, printables vs. apps, etc. Do NOT mention products.' },
+        { value:'use_case_idea', label:'Use-case idea', mention:'none', instr:'A specific everyday scenario where printable activities help (road trip, rainy day, waiting room). Do NOT mention products by name.' },
+        { value:'behind_the_make', label:'+ Behind the make (subtle)', mention:'subtle', instr:'A behind-the-scenes glimpse of making a printable (the problem it solves, a design choice) — about the CRAFT, not a family story. End with product name + "link in my profile".' },
+        { value:'product_spotlight', label:'+ Product spotlight (subtle)', mention:'subtle', instr:'Spotlight ONE product: what it is and who it helps, in 1-2 lines. End with "link in my profile". Vary the angle, don\'t always lead with price/free.' },
+      ],
+      formatRules: '- 2-4 short lines, not a wall of text\n- Warm and genuine, NOT a personal family-story voice\n- Emoji SPARING (0-2 max)\n- Total characters MAX 450\n- VARY opening & structure every post — mix mid-scene openers, flat statements, questions, short lists.',
+      avoid: 'Fabricating personal/family anecdotes (this account has no founder-story background — stick to craft/product/general observations). Claiming any product guarantees outcomes. Diagnosing children. Children\'s names/schools/cities. Hard-sell language. Actual URLs (only "link in my profile"). Hashtags. Brochure-style feature lists.',
+      examples: '"The exact moment a kid realizes they can sound out a word on their own, with zero help, for the first time. There should be a word for that specific look on their face."\n"Mimi\'s First Sentences is for the exact stage between \'knows letters\' and \'can write a sentence that makes sense\' — eleven short, cheerful steps to get there. Link in my profile."',
+      subtleMode: 'SUBTLE MENTION — spotlight ONE product or a behind-the-make glimpse, 1-3 lines, genuinely useful framing (not a feature list). End with "link in my profile" — NEVER write an actual URL.',
+      pureMode: 'PURE STORY — do NOT mention any product. Zero pitching.',
+      safety: '',
     },
   };
 
