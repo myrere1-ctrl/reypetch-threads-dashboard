@@ -1,40 +1,25 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-11-09T22:30:50.467Z",
+  "updated_at": "2026-11-10T04:41:12.299Z",
   "profile": {
     "username": "_iame.hijrah",
     "biography": "Hijrah Journey \nInbox ➡️Akses Safar AI",
-    "picture": "https://scontent-atl3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&ig_cache_key=GHPulixGDYKQ0TVAAKrnbOIoMBtnbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=6365YjaP1F0Q7kNvwEiQINM&_nc_oc=AdqDiU0EiIPMBeqR1k7KctrqmIdP50G2BJApyvXa1Bt0Cli58bbqvIrgQsDaYb7JkHc&_nc_zt=24&_nc_ht=scontent-atl3-1.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=w4k2GMVniz1ewUhoIMoVEA&_nc_tpa=Q5bMBQIVqbXDfGH2ldaD2rMoZB32VTzmWS69WGh5OYVWst1wBiKOrMSVRTbvxnDEkQT5A62EO0dcH6-BfQ&oh=00_AQRcyJ-zN9OVbJedvdWqTREVt35LUWqFFnWnAgBazUqCkg&oe=6AF80393"
+    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&ig_cache_key=GHPulixGDYKQ0TVAAKrnbOIoMBtnbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=6365YjaP1F0Q7kNvwE5D3Y-&_nc_oc=AdrGhgPInLhAPDPUTJnnygI935yFY2c0Iq8MUUVgy7tplU3wDyAoI7iEz1XzzB_NQqI&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=J5p-_3O03HIDoHxKPZTKBQ&_nc_tpa=Q5bMBQKSzEv6v9tm9wUSd7QeSvWdJG9_4k0iLhZikJPsbLK240kzhhcY7805cp0F1H5AD5kYVQ9NZ8916w&oh=00_AQSWY6TYsgeK2bgGqkli1JGWQ4Rkkb13Hv4z3IDhmnPc3g&oe=6AF87413"
   },
   "summary": {
     "followers_count": 10,
-    "views": 430,
+    "views": 555,
     "likes": 3,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 43,
-    "engagement_rate": 10,
+    "engagement_total": 31,
+    "engagement_rate": 5.59,
     "curiosity_score": null,
     "post_count": 25
   },
   "top_posts": [
-    {
-      "id": "18179039410448582",
-      "text": "Unpopular opinion: Dhuha yang aku kerjain buru-buru itu rasanya lebih capek daripada ga sholat sama sekali.\nKarena aku c",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DfXQLLsEZWE",
-      "timestamp": "2026-11-05T14:32:20+0000",
-      "metrics": {
-        "views": 319,
-        "likes": 12,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 12
-    },
     {
       "id": "17954488845325668",
       "text": "Baru sadar kenapa Ibu selalu bilang jangan lupa baca Ayat Kursi sebelum tidur, bahkan pas lagi traveling.\nDi Osaka, aku ",
@@ -86,7 +71,22 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DfgGj0RFt8r",
       "timestamp": "2026-11-09T01:01:28+0000",
       "metrics": {
-        "views": 182,
+        "views": 183,
+        "likes": 3,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 3
+    },
+    {
+      "id": "18382243789241217",
+      "text": "4 hal yang aku lakuin biar sholat 5 waktu ga cuma jadi rutinitas:\n1. Taruh sajadah di tempat yang kelihatan — biar ga ad",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DfZ035flDe4",
+      "timestamp": "2026-11-06T14:31:28+0000",
+      "metrics": {
+        "views": 47,
         "likes": 3,
         "replies": 0,
         "reposts": 0,
@@ -97,6 +97,21 @@
     }
   ],
   "recent_posts": [
+    {
+      "id": "17885074194652013",
+      "text": "Nenek aku selalu bilang: kalau udah ngerasa mau habis, itu saatnya banyak-banyak istighfar dan serahin semuanya ke Allah",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DfirXD5ka3q",
+      "timestamp": "2026-11-10T01:01:31+0000",
+      "metrics": {
+        "views": 117,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
     {
       "id": "18638734483063889",
       "text": "Dzikir pagi itu bukan soal panjang pendeknya — tapi soal nyadar dulu bahwa kita masih hidup dan dikasih hari baru.\nAku p",
@@ -118,7 +133,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DfhtkBnlTSu",
       "timestamp": "2026-11-09T16:01:31+0000",
       "metrics": {
-        "views": 112,
+        "views": 114,
         "likes": 2,
         "replies": 0,
         "reposts": 0,
@@ -193,7 +208,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DfgllVkgBFF",
       "timestamp": "2026-11-09T05:32:33+0000",
       "metrics": {
-        "views": 98,
+        "views": 100,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -208,7 +223,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DfgGj0RFt8r",
       "timestamp": "2026-11-09T01:01:28+0000",
       "metrics": {
-        "views": 182,
+        "views": 183,
         "likes": 3,
         "replies": 0,
         "reposts": 0,
@@ -224,21 +239,6 @@
       "timestamp": "2026-11-08T22:01:32+0000",
       "metrics": {
         "views": 1,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18100839743372111",
-      "text": "Nenek aku nggak pernah takut ngomongin maut — dan itu yang bikin aku respek banget sama beliau.\nBeliau bilang, 'biasain ",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DfetMBiCv3N",
-      "timestamp": "2026-11-08T11:59:59+0000",
-      "metrics": {
-        "views": 0,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
