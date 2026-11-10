@@ -1,23 +1,23 @@
 {
   "account": "thelittlechicco",
-  "updated_at": "2026-11-09T22:31:40.768Z",
+  "updated_at": "2026-11-10T04:42:01.537Z",
   "profile": {
     "username": "thelittlechicco",
-    "biography": "Mom of Alexa | Little Chic\n🌈Printable detective games \n& 🧩puzzles for ages 3-9 \nFree Case #0 ⤵️",
-    "picture": "https://scontent-lga3-1.cdninstagram.com/v/t51.82787-19/858088504_18111221842951330_744590156036230358_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ig_cache_key=GDhkJTOivGVwD1hAANbMyknNUFUKbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=mUwvUwJslB4Q7kNvwEBwdgG&_nc_oc=AdrYH2U2QtFUR74FWQ9OBKirOGsEgitmY6Snx-TgvHQ2e5DFzuBrsxstEmShEETAEfQ&_nc_zt=24&_nc_ht=scontent-lga3-1.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=z9QxVf4wAePxLnEMccBoqw&_nc_tpa=Q5bMBQJiHwQzGU13hKFl_ViIIdCb1nBINWWSdd79010KwrGCgCJcHssjCRV9qOTe8sZJdreGekTLViMrlg&oh=00_AQRQvtycpF9uziqH9gDblnZNlNkL9F1vORys9QAGvqCxtA&oe=6AF818FF"
+    "biography": "The Little Chic Co. \nYou don’t need to be a teacher to explore English with your child. \n💛 Grab my FREE illustrated parent guide and activity PDF ⬇️",
+    "picture": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/858088504_18111221842951330_744590156036230358_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ig_cache_key=GDhkJTOivGVwD1hAANbMyknNUFUKbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=mUwvUwJslB4Q7kNvwFGqkUz&_nc_oc=AdqqEXxS2DWxJc7e_F-4Rw2O81L8zzulJqGzzmjz4jU36OjFy-GqwJKHG5oLUuVsQTI&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=9ByGR0w-mn7aYOdWJEwGWQ&_nc_tpa=Q5bMBQJ7LzMxXbv7rgmEMsJu-8PKxq78fnYa7DYYMQVAtgDpcg3n-UedCupvLAUdNHNq5LIbKY69kcMxSA&oh=00_AQSRmKMLOz2zxTcAGQUU3ixIRWBBH_vv8_NGEb5jqeytBQ&oe=6AF8897F"
   },
   "summary": {
     "followers_count": 3,
-    "views": 0,
+    "views": 72,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 14,
-    "engagement_rate": 0,
+    "engagement_rate": 19.44,
     "curiosity_score": null,
-    "post_count": 21
+    "post_count": 22
   },
   "top_posts": [
     {
@@ -36,12 +36,27 @@
       "engagement": 14
     },
     {
+      "id": "18116927210035116",
+      "text": "Repetition gets a bad reputation — but kids who ask to hear the same story seven nights in a row aren't being stubborn.\n",
+      "permalink": "https://www.threads.com/@thelittlechicco/post/DfidnBEI2It",
+      "timestamp": "2026-11-09T23:01:22+0000",
+      "metrics": {
+        "views": 18,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "18132630391798401",
       "text": "Early writing is tricky to sequence — too much too soon and kids freeze, too little and they coast.\nThe whole structure ",
       "permalink": "https://www.threads.com/@thelittlechicco/post/DfiaKLIIwAA",
       "timestamp": "2026-11-09T22:31:13+0000",
       "metrics": {
-        "views": 0,
+        "views": 24,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -56,7 +71,7 @@
       "permalink": "https://www.threads.com/@thelittlechicco/post/DfiY277ln9M",
       "timestamp": "2026-11-09T22:19:51+0000",
       "metrics": {
-        "views": 0,
+        "views": 30,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -79,14 +94,16 @@
         "shares": 0
       },
       "engagement": 0
-    },
+    }
+  ],
+  "recent_posts": [
     {
-      "id": "18134992456783455",
-      "text": "Coloring Page for Ages 3–5 | Free Printable",
-      "permalink": "https://www.threads.com/@thelittlechicco/post/DfZV65kk9rG",
-      "timestamp": "2026-11-06T10:00:28+0000",
+      "id": "18116927210035116",
+      "text": "Repetition gets a bad reputation — but kids who ask to hear the same story seven nights in a row aren't being stubborn.\n",
+      "permalink": "https://www.threads.com/@thelittlechicco/post/DfidnBEI2It",
+      "timestamp": "2026-11-09T23:01:22+0000",
       "metrics": {
-        "views": 1,
+        "views": 18,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -94,16 +111,14 @@
         "shares": 0
       },
       "engagement": 0
-    }
-  ],
-  "recent_posts": [
+    },
     {
       "id": "18132630391798401",
       "text": "Early writing is tricky to sequence — too much too soon and kids freeze, too little and they coast.\nThe whole structure ",
       "permalink": "https://www.threads.com/@thelittlechicco/post/DfiaKLIIwAA",
       "timestamp": "2026-11-09T22:31:13+0000",
       "metrics": {
-        "views": 0,
+        "views": 24,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -118,7 +133,7 @@
       "permalink": "https://www.threads.com/@thelittlechicco/post/DfiY277ln9M",
       "timestamp": "2026-11-09T22:19:51+0000",
       "metrics": {
-        "views": 0,
+        "views": 30,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -224,21 +239,6 @@
       "timestamp": "2026-11-05T07:04:44+0000",
       "metrics": {
         "views": 74,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18083465438413085",
-      "text": "Lunch is done, energy is… a lot 😅 That's our favourite time for a puzzle break! A printable puzzle gives busy little mi",
-      "permalink": "https://www.threads.com/@thelittlechicco/post/DfV2uiZgvFV",
-      "timestamp": "2026-11-05T01:30:11+0000",
-      "metrics": {
-        "views": 12,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
