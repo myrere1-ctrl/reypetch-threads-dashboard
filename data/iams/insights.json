@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-11-10T04:40:33.000Z",
+  "updated_at": "2026-11-10T13:35:36.448Z",
   "profile": {
     "username": "iams_ichi",
     "name": "I.petch",
     "biography": "🇦🇺\nCMO at COA.AU &\nNo-Code App Builder\nOnly Positive Vibes\nIt’s about the vibe and the feeling. \nThe names of the places? 🤔",
-    "picture": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&ig_cache_key=GP7jVy3SUhQ8xp4-AMBIEGSqJAN4bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=0C-thRo2vt8Q7kNvwH6hLZN&_nc_oc=AdqcLWQvkZoO-HR3_GUtuQetOLKzGMCulqzzxHc1HrQtNLYYBSIvhc4H1kmFvM1mens&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=ZEBoX0Noh_IqeII_5NpoxQ&_nc_tpa=Q5bMBQJCHNfMMiEq-BfuLfIrsvY1msxLUOP-5gYoBoIzgRXqHBeiQNzfMVbC2ljHP4ww7L2Yd6xpKrbYoA&oh=00_AQRhmZ1xQ4eZxsurnyNC8uX3ABGxFIleG6E3RtQurfq4NQ&oe=6AF8829E"
+    "picture": "https://scontent-sea5-2.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&ig_cache_key=GP7jVy3SUhQ8xp4-AMBIEGSqJAN4bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=0C-thRo2vt8Q7kNvwFYlMsl&_nc_oc=Adq56mpk-Nqf_Zab3TrsD9zkGvnjiKuxv80h7KDl5y7FCb8fV3riPVLcYVbwwOLNoJ0&_nc_zt=24&_nc_ht=scontent-sea5-2.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=cMu5OUv4oA-xMsNauGbpOw&_nc_tpa=Q5bMBQIB0bwYzYQN_4xnHFyDxxGd2Zf43Z-UFb2EoB2EQmTpH2tkAZUMIjYpMdrNuN1dofLJk6m2e-Nf6g&oh=00_AQT8wbMPUkgKOUAV-y97d8u9Ntsf0aas6d0WkksOzp6s0g&oe=6AF8F31E"
   },
   "summary": {
     "followers_count": 1403,
-    "views": 976,
-    "likes": 22,
-    "replies": 8,
+    "views": 72,
+    "likes": 2,
+    "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 607,
-    "engagement_rate": 62.19,
+    "engagement_total": 533,
+    "engagement_rate": 740.28,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -52,21 +52,6 @@
       "engagement": 92
     },
     {
-      "id": "18115495588848941",
-      "text": "French cafés don't do \"to-go\" energy — even if you order a coffee, they expect you to sit with it.\nNobody is rushing. Th",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DfPCyWslaHt",
-      "timestamp": "2026-11-02T10:01:25+0000",
-      "metrics": {
-        "views": 891,
-        "likes": 57,
-        "replies": 18,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 75
-    },
-    {
       "id": "18126964000918191",
       "text": "Three days in the bush with no signal and I genuinely forgot to be anxious about anything.\nNo small talk. No performance",
       "permalink": "https://www.threads.com/@iams_ichi/post/DfXMqfTG2a3",
@@ -95,23 +80,68 @@
         "shares": 0
       },
       "engagement": 42
+    },
+    {
+      "id": "18079579340424342",
+      "text": "Dinner in Fitzroy: a degustation where each plate came with a paragraph of explanation.\nNext morning: a banh mi from a w",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DfY6fcGkaup",
+      "timestamp": "2026-11-06T06:01:21+0000",
+      "metrics": {
+        "views": 506,
+        "likes": 15,
+        "replies": 3,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 18
     }
   ],
   "recent_posts": [
+    {
+      "id": "18076664318732413",
+      "text": "Romans eat lunch like it's a sacred ritual and dinner like it's a second job.\nNobody eats before 8:30pm. Nobody. And som",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DfjpJHokWQD",
+      "timestamp": "2026-11-10T10:01:24+0000",
+      "metrics": {
+        "views": 12,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "17915275620558433",
+      "text": "Property check near Hervey Bay yesterday — servo pie on the highway at noon.\nSat-down seafood at a waterfront place that",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DfjNreQlR3i",
+      "timestamp": "2026-11-10T06:01:24+0000",
+      "metrics": {
+        "views": 16,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
     {
       "id": "18017004842756158",
       "text": "Hokkaido in winter: everyone's bundled up, roads are iced over, and somehow the convenience store is still the warmest, ",
       "permalink": "https://www.threads.com/@iams_ichi/post/DfiyNcvG71e",
       "timestamp": "2026-11-10T02:01:22+0000",
       "metrics": {
-        "views": 96,
-        "likes": 2,
+        "views": 107,
+        "likes": 3,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 2
+      "engagement": 3
     },
     {
       "id": "18450320041133050",
@@ -119,14 +149,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dfhf0rgGyMH",
       "timestamp": "2026-11-09T14:01:28+0000",
       "metrics": {
-        "views": 165,
-        "likes": 6,
+        "views": 205,
+        "likes": 7,
         "replies": 1,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 7
+      "engagement": 8
     },
     {
       "id": "18108670496220599",
@@ -134,14 +164,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DfhEWhWFUlp",
       "timestamp": "2026-11-09T10:01:25+0000",
       "metrics": {
-        "views": 478,
+        "views": 510,
         "likes": 9,
-        "replies": 6,
+        "replies": 8,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 15
+      "engagement": 17
     },
     {
       "id": "18068910203632564",
@@ -149,7 +179,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dfgo6IEG3Gl",
       "timestamp": "2026-11-09T06:01:36+0000",
       "metrics": {
-        "views": 218,
+        "views": 219,
         "likes": 2,
         "replies": 1,
         "reposts": 0,
@@ -217,36 +247,6 @@
         "shares": 0
       },
       "engagement": 6
-    },
-    {
-      "id": "17867259186695605",
-      "text": "Checked a property near Bundaberg yesterday — lunch was fish and chips from a servo, eaten in the car watching cows.\nDin",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DfZxbiUFe2N",
-      "timestamp": "2026-11-06T14:01:23+0000",
-      "metrics": {
-        "views": 200,
-        "likes": 10,
-        "replies": 3,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 13
-    },
-    {
-      "id": "18580631785075269",
-      "text": "Trastevere at 7pm: cacio e pepe at a tiny place with no sign out front, candles melting onto the tablecloth.\nTwo nights ",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DfZV-Jrm6oR",
-      "timestamp": "2026-11-06T10:01:27+0000",
-      "metrics": {
-        "views": 74,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
     }
   ]
 }
