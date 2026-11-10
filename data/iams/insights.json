@@ -1,41 +1,26 @@
 {
   "account": "iams",
-  "updated_at": "2026-11-10T13:35:36.448Z",
+  "updated_at": "2026-11-10T20:53:55.037Z",
   "profile": {
     "username": "iams_ichi",
     "name": "I.petch",
     "biography": "🇦🇺\nCMO at COA.AU &\nNo-Code App Builder\nOnly Positive Vibes\nIt’s about the vibe and the feeling. \nThe names of the places? 🤔",
-    "picture": "https://scontent-sea5-2.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&ig_cache_key=GP7jVy3SUhQ8xp4-AMBIEGSqJAN4bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=0C-thRo2vt8Q7kNvwFYlMsl&_nc_oc=Adq56mpk-Nqf_Zab3TrsD9zkGvnjiKuxv80h7KDl5y7FCb8fV3riPVLcYVbwwOLNoJ0&_nc_zt=24&_nc_ht=scontent-sea5-2.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=cMu5OUv4oA-xMsNauGbpOw&_nc_tpa=Q5bMBQIB0bwYzYQN_4xnHFyDxxGd2Zf43Z-UFb2EoB2EQmTpH2tkAZUMIjYpMdrNuN1dofLJk6m2e-Nf6g&oh=00_AQT8wbMPUkgKOUAV-y97d8u9Ntsf0aas6d0WkksOzp6s0g&oe=6AF8F31E"
+    "picture": "https://scontent-lga3-3.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&ig_cache_key=GP7jVy3SUhQ8xp4-AMBIEGSqJAN4bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=0C-thRo2vt8Q7kNvwGwDzGU&_nc_oc=AdqP_XfYYU9gdXb1aBUBxM4hHC-8eXryVTw1bBEG5XtipM10CTL3ORt5P5xLukn8vCU&_nc_zt=24&_nc_ht=scontent-lga3-3.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=YFB7BeZP2x31flW_Y3T7sw&_nc_tpa=Q5bMBQK6cy16e9G0l0lA-cpTO5RRfFWW-ah3KNDBV29E2rH6PzNXKEyDyuXhCjbly9Cdv_ziiA3_-ws8oA&oh=00_AQRXvWAEy7YG6E3U7lAbPMKwcj-I01-m5A5CiTCA9AMHiA&oe=6AF9639E"
   },
   "summary": {
     "followers_count": 1403,
-    "views": 72,
-    "likes": 2,
+    "views": 125,
+    "likes": 4,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 533,
-    "engagement_rate": 740.28,
+    "engagement_total": 296,
+    "engagement_rate": 236.8,
     "curiosity_score": null,
     "post_count": 25
   },
   "top_posts": [
-    {
-      "id": "18140051974631213",
-      "text": "Australian drivers on a road trip will wave at you from the opposite lane — a stranger, a truck, a tractor, doesn't matt",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DfRMHVUFYk1",
-      "timestamp": "2026-11-03T06:01:24+0000",
-      "metrics": {
-        "views": 3799,
-        "likes": 194,
-        "replies": 45,
-        "reposts": 0,
-        "quotes": 1,
-        "shares": 0
-      },
-      "engagement": 240
-    },
     {
       "id": "18128275135896318",
       "text": "Unpopular opinion: Italy is actually better when you skip the famous piazzas and just eat where there's no English menu ",
@@ -95,16 +80,46 @@
         "shares": 0
       },
       "engagement": 18
+    },
+    {
+      "id": "18108670496220599",
+      "text": "Paris is loud and crowded and everyone performs confidence like it's mandatory.\nI found my reset in a boulangerie just o",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DfhEWhWFUlp",
+      "timestamp": "2026-11-09T10:01:25+0000",
+      "metrics": {
+        "views": 510,
+        "likes": 9,
+        "replies": 8,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 17
     }
   ],
   "recent_posts": [
+    {
+      "id": "17896191309434817",
+      "text": "6pm, halfway along the coastline path between Burleigh and Miami, and the light just did that thing.\nGolden, low, hittin",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DfkEmreGxrj",
+      "timestamp": "2026-11-10T14:01:21+0000",
+      "metrics": {
+        "views": 20,
+        "likes": 1,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 2
+    },
     {
       "id": "18076664318732413",
       "text": "Romans eat lunch like it's a sacred ritual and dinner like it's a second job.\nNobody eats before 8:30pm. Nobody. And som",
       "permalink": "https://www.threads.com/@iams_ichi/post/DfjpJHokWQD",
       "timestamp": "2026-11-10T10:01:24+0000",
       "metrics": {
-        "views": 12,
+        "views": 13,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -134,14 +149,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DfiyNcvG71e",
       "timestamp": "2026-11-10T02:01:22+0000",
       "metrics": {
-        "views": 107,
-        "likes": 3,
+        "views": 112,
+        "likes": 4,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 3
+      "engagement": 4
     },
     {
       "id": "18450320041133050",
@@ -194,7 +209,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DfgNbRREXZ4",
       "timestamp": "2026-11-09T02:01:29+0000",
       "metrics": {
-        "views": 476,
+        "views": 477,
         "likes": 9,
         "replies": 2,
         "reposts": 0,
@@ -232,21 +247,6 @@
         "shares": 0
       },
       "engagement": 1
-    },
-    {
-      "id": "18118682261326723",
-      "text": "You don't need an itinerary for a weekend away. We wandered Coffs with zero plans and found a hidden beach, great fish a",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DfazJMTAZ8t",
-      "timestamp": "2026-11-06T23:35:28+0000",
-      "metrics": {
-        "views": 118,
-        "likes": 5,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 6
     }
   ]
 }
