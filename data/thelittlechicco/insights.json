@@ -1,14 +1,14 @@
 {
   "account": "thelittlechicco",
-  "updated_at": "2026-11-10T20:55:22.781Z",
+  "updated_at": "2026-11-11T01:19:39.777Z",
   "profile": {
     "username": "thelittlechicco",
     "biography": "The Little Chic Co. \nYou don’t need to be a teacher to explore English with your child. \n💛 Grab my FREE illustrated parent guide and activity PDF ⬇️",
-    "picture": "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/858088504_18111221842951330_744590156036230358_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ig_cache_key=GDhkJTOivGVwD1hAANbMyknNUFUKbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=mUwvUwJslB4Q7kNvwEVu29B&_nc_oc=AdqWwCh8rQ7TkGBgOBHGm6nMA2WKKZxv463Co8QOHQVWCDsro0oc2L-1c2IDcXx11fA&_nc_zt=24&_nc_ht=scontent-ord5-1.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=ERKc9_Jq-r8fH-L1rQxRjw&_nc_tpa=Q5bMBQLG-J9-aScqhYqAQ2ruAeFOZ3EzVXkTw7Xp0ngol0_03jelCrfy3Lqpcj_CBIkOvYhBnpLBsvmMyg&oh=00_AQSBa5-nKlAzspU8mLhh_FjttdFIZ31sb-ThbXSahXk9ig&oe=6AF96A7F"
+    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/858088504_18111221842951330_744590156036230358_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ig_cache_key=GDhkJTOivGVwD1hAANbMyknNUFUKbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=mUwvUwJslB4Q7kNvwG8uBJE&_nc_oc=AdrUyYiIWyQ6RtawmYyon2vJv8H8Q6J1As75_H-ElmI5zLzQsIwmXkCb3WliAK5VBRU&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=SWMKxRGUJPIJlpiJWLWJNw&_nc_tpa=Q5bMBQL-LNsjjw9C-0rfK7IgL51aD4quG7h2nBPEao8V0ejCaIidvtokTOPgK9QDe2t4V1v081SFQeINEA&oh=00_AQR_WPqVm3zaQ715A4XybPPT7rVa1P1sm2_kuXajXtT6Jw&oe=6AF9A2BF"
   },
   "summary": {
     "followers_count": 3,
-    "views": 144,
+    "views": 155,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
@@ -20,6 +20,21 @@
     "post_count": 25
   },
   "top_posts": [
+    {
+      "id": "18015340241976429",
+      "text": "ESL grammar is tricky to sequence — not because the rules are hard, but because the order you introduce them matters mor",
+      "permalink": "https://www.threads.com/@thelittlechicco/post/DflCaCWmqb9",
+      "timestamp": "2026-11-10T23:01:23+0000",
+      "metrics": {
+        "views": 10,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
     {
       "id": "18646074271049102",
       "text": "Say a color, an animal, a food — back and forth, faster each round.\nNo reading required. No prep. Just pattern-building ",
@@ -41,7 +56,7 @@
       "permalink": "https://www.threads.com/@thelittlechicco/post/DfkjvXzDKdm",
       "timestamp": "2026-11-10T18:32:52+0000",
       "metrics": {
-        "views": 6,
+        "views": 7,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -79,14 +94,16 @@
         "shares": 0
       },
       "engagement": 0
-    },
+    }
+  ],
+  "recent_posts": [
     {
-      "id": "18095552864185446",
-      "text": "Something clicks differently when a child hears a new word inside a song, a game, or a rhyme — versus just being told wh",
-      "permalink": "https://www.threads.com/@thelittlechicco/post/DfkEoCjG-xP",
-      "timestamp": "2026-11-10T14:01:32+0000",
+      "id": "18015340241976429",
+      "text": "ESL grammar is tricky to sequence — not because the rules are hard, but because the order you introduce them matters mor",
+      "permalink": "https://www.threads.com/@thelittlechicco/post/DflCaCWmqb9",
+      "timestamp": "2026-11-10T23:01:23+0000",
       "metrics": {
-        "views": 1,
+        "views": 10,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -94,9 +111,7 @@
         "shares": 0
       },
       "engagement": 0
-    }
-  ],
-  "recent_posts": [
+    },
     {
       "id": "18646074271049102",
       "text": "Say a color, an animal, a food — back and forth, faster each round.\nNo reading required. No prep. Just pattern-building ",
@@ -118,7 +133,7 @@
       "permalink": "https://www.threads.com/@thelittlechicco/post/DfkjvXzDKdm",
       "timestamp": "2026-11-10T18:32:52+0000",
       "metrics": {
-        "views": 6,
+        "views": 7,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -224,21 +239,6 @@
       "timestamp": "2026-11-09T23:01:22+0000",
       "metrics": {
         "views": 18,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18132630391798401",
-      "text": "Early writing is tricky to sequence — too much too soon and kids freeze, too little and they coast.\nThe whole structure ",
-      "permalink": "https://www.threads.com/@thelittlechicco/post/DfiaKLIIwAA",
-      "timestamp": "2026-11-09T22:31:13+0000",
-      "metrics": {
-        "views": 24,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
