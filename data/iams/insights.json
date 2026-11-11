@@ -1,41 +1,26 @@
 {
   "account": "iams",
-  "updated_at": "2026-11-11T01:18:05.378Z",
+  "updated_at": "2026-11-11T07:50:13.621Z",
   "profile": {
     "username": "iams_ichi",
     "name": "I.petch",
     "biography": "🇦🇺\nCMO at COA.AU &\nNo-Code App Builder\nOnly Positive Vibes\nIt’s about the vibe and the feeling. \nThe names of the places? 🤔",
-    "picture": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&ig_cache_key=GP7jVy3SUhQ8xp4-AMBIEGSqJAN4bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=0C-thRo2vt8Q7kNvwHdjqWo&_nc_oc=AdqZsX8aEjygDY65hp5BAeUCpi_5XI55IjHD5slwQt-hLRJMlv40ygTgr1yiRsdyDaM&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=D9_oaC9VOMe56v1yN8zIPw&_nc_tpa=Q5bMBQJS4b_w2UFh5i8O5y7HabGnNtNh1rEnOmY474-XWllDKqkYtMbTtL43y0Q5i0wmdtSGWENkzTY7sg&oh=00_AQROiOt16n8IvNv23pJqKaOlNIonAy-D936wQcqw_7rapg&oe=6AF99BDE"
+    "picture": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ig_cache_key=GP7jVy3SUhQ8xp4-AMBIEGSqJAN4bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=0C-thRo2vt8Q7kNvwEyZ6h-&_nc_oc=AdrCUXDAaRl-P-pKj5FcNnWMNoMt6H-g3NUwyQT0HmxN_DgCt8PbcyOllc9AQCpOKJk&_nc_zt=24&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=7Irq2bUyqGSMkI_PWYWc8Q&_nc_tpa=Q5bMBQKj64plOgRH0RB5Hs0pRziHvYC9yH9rG9omC4XFY7qr0HCHC_bIYyYNSNKgeYplfnSJKVBY2U4TJw&oh=00_AQS3gknmaRcTZ5uG-jw8pNmBnJ8gLoA1i0lLTtwqXPKaKA&oe=6AFA0C5E"
   },
   "summary": {
     "followers_count": 1403,
-    "views": 150,
-    "likes": 5,
+    "views": 286,
+    "likes": 7,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 297,
-    "engagement_rate": 198,
+    "engagement_total": 207,
+    "engagement_rate": 72.38,
     "curiosity_score": null,
     "post_count": 25
   },
   "top_posts": [
-    {
-      "id": "18128275135896318",
-      "text": "Unpopular opinion: Italy is actually better when you skip the famous piazzas and just eat where there's no English menu ",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DfRnkTKEayS",
-      "timestamp": "2026-11-03T10:01:19+0000",
-      "metrics": {
-        "views": 1246,
-        "likes": 57,
-        "replies": 35,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 92
-    },
     {
       "id": "18126964000918191",
       "text": "Three days in the bush with no signal and I genuinely forgot to be anxious about anything.\nNo small talk. No performance",
@@ -95,9 +80,54 @@
         "shares": 0
       },
       "engagement": 17
+    },
+    {
+      "id": "17867259186695605",
+      "text": "Checked a property near Bundaberg yesterday — lunch was fish and chips from a servo, eaten in the car watching cows.\nDin",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DfZxbiUFe2N",
+      "timestamp": "2026-11-06T14:01:23+0000",
+      "metrics": {
+        "views": 200,
+        "likes": 10,
+        "replies": 3,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 13
     }
   ],
   "recent_posts": [
+    {
+      "id": "18373607365211539",
+      "text": "Dinner at a rooftop restaurant on Broadbeach, proper menu, proper prices.\nNext afternoon: fish tacos from a window shack",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DflydVZnGAn",
+      "timestamp": "2026-11-11T06:01:16+0000",
+      "metrics": {
+        "views": 27,
+        "likes": 1,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 2
+    },
+    {
+      "id": "18139387177727218",
+      "text": "Everyone told me Japanese street food is intimidating if you don't speak the language.\nStood in front of a takoyaki stal",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DflW_ZEiXh9",
+      "timestamp": "2026-11-11T02:01:15+0000",
+      "metrics": {
+        "views": 77,
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
     {
       "id": "17896191309434817",
       "text": "6pm, halfway along the coastline path between Burleigh and Miami, and the light just did that thing.\nGolden, low, hittin",
@@ -194,7 +224,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dfgo6IEG3Gl",
       "timestamp": "2026-11-09T06:01:36+0000",
       "metrics": {
-        "views": 220,
+        "views": 221,
         "likes": 2,
         "replies": 1,
         "reposts": 0,
@@ -209,7 +239,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DfgNbRREXZ4",
       "timestamp": "2026-11-09T02:01:29+0000",
       "metrics": {
-        "views": 477,
+        "views": 478,
         "likes": 9,
         "replies": 2,
         "reposts": 0,
@@ -217,36 +247,6 @@
         "shares": 0
       },
       "engagement": 11
-    },
-    {
-      "id": "18438459634198581",
-      "text": "Sebagai orang 1/2 Indo always sambel \n📍Woolgoolga( Solitary)",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DfbeePDo57V",
-      "timestamp": "2026-11-07T05:53:41+0000",
-      "metrics": {
-        "views": 50,
-        "likes": 1,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "18122502149287327",
-      "text": "Coffs Harbour is quieter than people assume — and I keep ending up back here anyway. Almost two months home-sitting in W",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DfbdpP1I1L_",
-      "timestamp": "2026-11-07T05:46:27+0000",
-      "metrics": {
-        "views": 309,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
     }
   ]
 }
