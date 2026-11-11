@@ -1,47 +1,32 @@
 {
   "account": "momalexas",
-  "updated_at": "2026-11-11T07:51:15.366Z",
+  "updated_at": "2026-11-11T16:19:48.177Z",
   "profile": {
     "username": "momalexas",
     "biography": "Mom of Alexa | Little Chic\nFREE ABC WORKSHEETS! \n💗 A–Z letter tracing and handwriting practice for preschoolers. ⤵️",
-    "picture": "https://scontent-sea5-2.cdninstagram.com/v/t51.82787-19/863909215_18139653901622407_2117382295371030649_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=107&ig_cache_key=GF81fjOHnCdL63FAAHmgSrH6c2IdbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=ZfGJ-tMPFW4Q7kNvwG1_gw8&_nc_oc=AdrDOm7JTiROJJZxWuEvSalT5XpNTGAMPfOxH4jnza-z6HVPqLJDj-55IKPWM9YPoas&_nc_zt=24&_nc_ht=scontent-sea5-2.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=lOqewyulVW2t6X8wrRGJ2g&_nc_tpa=Q5bMBQJz_uC5FOa14hkkFftn352Gnfd7AsVELkdcbZfWp3Jp30dHpZcaepr3Wt1C5gnwuoFHDrMltNlQYw&oh=00_AQRgD-yQqKLqpgBDMGdldh74-5_VfxrM8LEhhoYi33lz_Q&oe=6AFA079D"
+    "picture": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/863909215_18139653901622407_2117382295371030649_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=107&ig_cache_key=GF81fjOHnCdL63FAAHmgSrH6c2IdbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=ZfGJ-tMPFW4Q7kNvwG7V6Wq&_nc_oc=AdpvJ6gPw8DD-gVffL1YCDWugN2vrb_q-xTRqV4gHAW5kiDk_0KtsoyKvB_dgGX6Ex8&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=FB2Pc6MfHjPpom7QVFsvJw&_nc_tpa=Q5bMBQLZtPW0k7o6t87nauKBiwrjBIpX3IGL6Q7c8DD2Ot2SWMckiytj8wPYnLDnub9YJp1hmPN4GAgXeQ&oh=00_AQQgaGyAgS0JByc9F1Td9_lMGL92dJHL5HWgscEIS99GeA&oe=6AFA781D"
   },
   "summary": {
-    "followers_count": 92,
-    "views": 1383,
-    "likes": 8,
+    "followers_count": 93,
+    "views": 962,
+    "likes": 3,
     "replies": 0,
-    "reposts": 1,
+    "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 76,
-    "engagement_rate": 5.5,
+    "engagement_total": 52,
+    "engagement_rate": 5.41,
     "curiosity_score": null,
     "post_count": 25
   },
   "top_posts": [
-    {
-      "id": "18065564774529500",
-      "text": "Phonics: Match Letter Sound, Beginning Sound, Missing Letters, Rhyme-Time, Read and Connect.",
-      "permalink": "https://www.threads.com/@momalexas/post/DfXhLbtj0kQ",
-      "timestamp": "2026-11-05T17:00:22+0000",
-      "metrics": {
-        "views": 3925,
-        "likes": 18,
-        "replies": 1,
-        "reposts": 7,
-        "quotes": 0,
-        "shares": 75
-      },
-      "engagement": 26
-    },
     {
       "id": "17908662513595210",
       "text": "Get the free worksheet! A cute, easy-to-print counting & coloring pages for ages 3–5 to build creativity and fine motor ",
       "permalink": "https://www.threads.com/@momalexas/post/DfaaiWWjBy2",
       "timestamp": "2026-11-06T20:00:03+0000",
       "metrics": {
-        "views": 928,
+        "views": 932,
         "likes": 9,
         "replies": 0,
         "reposts": 0,
@@ -56,7 +41,7 @@
       "permalink": "https://www.threads.com/@momalexas/post/Dfg2lJ7gLX9",
       "timestamp": "2026-11-09T08:00:32+0000",
       "metrics": {
-        "views": 1362,
+        "views": 1368,
         "likes": 6,
         "replies": 0,
         "reposts": 2,
@@ -71,7 +56,7 @@
       "permalink": "https://www.threads.com/@momalexas/post/DfcWNrpjBHL",
       "timestamp": "2026-11-07T14:00:45+0000",
       "metrics": {
-        "views": 900,
+        "views": 904,
         "likes": 5,
         "replies": 0,
         "reposts": 2,
@@ -86,7 +71,7 @@
       "permalink": "https://www.threads.com/@momalexas/post/DfecCfhidDE",
       "timestamp": "2026-11-08T09:30:08+0000",
       "metrics": {
-        "views": 1294,
+        "views": 1300,
         "likes": 6,
         "replies": 0,
         "reposts": 0,
@@ -94,16 +79,91 @@
         "shares": 13
       },
       "engagement": 7
+    },
+    {
+      "id": "18242306344317372",
+      "text": "FREE ABC WORKSHEETS! 💗 A–Z letter tracing and handwriting practice for preschoolers. Download your copy from The Little",
+      "permalink": "https://www.threads.com/@momalexas/post/Dfj22leCnKS",
+      "timestamp": "2026-11-10T12:00:39+0000",
+      "metrics": {
+        "views": 846,
+        "likes": 5,
+        "replies": 0,
+        "reposts": 1,
+        "quotes": 0,
+        "shares": 1
+      },
+      "engagement": 6
     }
   ],
   "recent_posts": [
+    {
+      "id": "18150875560570193",
+      "text": "Grab a handful of small objects from around the house — a spoon, a sock, a leaf, a coin.\nTake turns giving one-word clue",
+      "permalink": "https://www.threads.com/@momalexas/post/DfmpbDKFih-",
+      "timestamp": "2026-11-11T14:01:33+0000",
+      "metrics": {
+        "views": 8,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "18415281568093316",
+      "text": "Print. Color. Hang on the fridge. 🎄\n\nThis FREE-spirited Christmas coloring page is perfect for little hands aged 4–6.\n\n",
+      "permalink": "https://www.threads.com/@momalexas/post/Dfmbpczjxj7",
+      "timestamp": "2026-11-11T12:00:38+0000",
+      "metrics": {
+        "views": 3,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "18117426077043573",
+      "text": "Pencil grip + letter practice = one cute page.\n\nTrace the letter D... for Doctor! 🩺\n\nThis tracing worksheet sneaks in h",
+      "permalink": "https://www.threads.com/@momalexas/post/DfmN5npE6zn",
+      "timestamp": "2026-11-11T10:00:31+0000",
+      "metrics": {
+        "views": 261,
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 1
+      },
+      "engagement": 1
+    },
+    {
+      "id": "18127503004931653",
+      "text": "Print this tonight. Done in 5 minutes. 🖨️\n\nThis FREE matching activity helps your little one connect letters A–E to rea",
+      "permalink": "https://www.threads.com/@momalexas/post/DfmAIHKiMNc",
+      "timestamp": "2026-11-11T08:00:10+0000",
+      "metrics": {
+        "views": 273,
+        "likes": 2,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 1
+      },
+      "engagement": 2
+    },
     {
       "id": "18362779585216451",
       "text": "Pick a short fable and read it together — then ask: what would YOU have done if you were the fox? The crow? The ant?\nKid",
       "permalink": "https://www.threads.com/@momalexas/post/DfkZNnAIHYV",
       "timestamp": "2026-11-10T17:01:26+0000",
       "metrics": {
-        "views": 23,
+        "views": 28,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -118,7 +178,7 @@
       "permalink": "https://www.threads.com/@momalexas/post/DfkEoTdkfmi",
       "timestamp": "2026-11-10T14:01:34+0000",
       "metrics": {
-        "views": 32,
+        "views": 37,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -133,7 +193,7 @@
       "permalink": "https://www.threads.com/@momalexas/post/Dfj22leCnKS",
       "timestamp": "2026-11-10T12:00:39+0000",
       "metrics": {
-        "views": 709,
+        "views": 846,
         "likes": 5,
         "replies": 0,
         "reposts": 1,
@@ -148,7 +208,7 @@
       "permalink": "https://www.threads.com/@momalexas/post/DfjknpvCbXa",
       "timestamp": "2026-11-10T09:21:19+0000",
       "metrics": {
-        "views": 344,
+        "views": 368,
         "likes": 2,
         "replies": 0,
         "reposts": 0,
@@ -163,7 +223,7 @@
       "permalink": "https://www.threads.com/@momalexas/post/DfiYLsCjzTQ",
       "timestamp": "2026-11-09T22:13:57+0000",
       "metrics": {
-        "views": 79,
+        "views": 84,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -178,70 +238,10 @@
       "permalink": "https://www.threads.com/@momalexas/post/DfiJ-jiEmH8",
       "timestamp": "2026-11-09T20:09:16+0000",
       "metrics": {
-        "views": 373,
+        "views": 379,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "18116399423177053",
-      "text": "Struggling to keep your toddler interested in writing? Try these cute pastel ABC tracing pages! 💕 FREE printable on Gum",
-      "permalink": "https://www.threads.com/@momalexas/post/DfhEXDSjeRJ",
-      "timestamp": "2026-11-09T10:00:57+0000",
-      "metrics": {
-        "views": 392,
-        "likes": 2,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 2
-    },
-    {
-      "id": "18144900970715555",
-      "text": "Need preschool learning activities? Download our FREE A–Z alphabet worksheets for letter tracing, uppercase and lowercas",
-      "permalink": "https://www.threads.com/@momalexas/post/Dfg2lJ7gLX9",
-      "timestamp": "2026-11-09T08:00:32+0000",
-      "metrics": {
-        "views": 1362,
-        "likes": 6,
-        "replies": 0,
-        "reposts": 2,
-        "quotes": 0,
-        "shares": 5
-      },
-      "engagement": 8
-    },
-    {
-      "id": "18136247200809530",
-      "text": "Your child's first reading lesson might be a cereal box.\n\nWords are everywhere: signs, snacks, the side of the bus. At b",
-      "permalink": "https://www.threads.com/@momalexas/post/Dff3awjEton",
-      "timestamp": "2026-11-08T22:48:37+0000",
-      "metrics": {
-        "views": 100,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "17909825370333550",
-      "text": "Need preschool learning activities? Download our FREE A–Z alphabet worksheets for letter tracing, uppercase and lowercas",
-      "permalink": "https://www.threads.com/@momalexas/post/DffkOp2iDph",
-      "timestamp": "2026-11-08T20:00:57+0000",
-      "metrics": {
-        "views": 148,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 1,
         "quotes": 0,
         "shares": 0
       },
