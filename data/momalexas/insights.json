@@ -1,21 +1,21 @@
 {
   "account": "momalexas",
-  "updated_at": "2026-11-12T03:55:33.579Z",
+  "updated_at": "2026-11-12T12:56:52.255Z",
   "profile": {
     "username": "momalexas",
     "biography": "Mom of Alexa | Little Chic\nFREE ABC WORKSHEETS! \n💗 A–Z letter tracing and handwriting practice for preschoolers. ⤵️",
-    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/863909215_18139653901622407_2117382295371030649_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ig_cache_key=GF81fjOHnCdL63FAAHmgSrH6c2IdbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=ZfGJ-tMPFW4Q7kNvwHFP7UN&_nc_oc=AdqUtZhoDsvjMzgHruS1ENHGU1ae41L0IuK8KJIzKVnVr1GnPamvxCF76vvkNpife0c&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=K207pA2p3wRNoAjuXyUpyA&_nc_tpa=Q5bMBQJt4Qnl1CrgU7bsOIV_sB7q2qoDYXjPUatX3M3jATF8vEaLyaLmZewsDFt2pL-LaN9bjViDZ5evIQ&oh=00_AQRSVlXwuIjtHUBQXog5h8zFLg167nS0UQB9yo1moShkcQ&oe=6AFB20DD"
+    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/863909215_18139653901622407_2117382295371030649_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ig_cache_key=GF81fjOHnCdL63FAAHmgSrH6c2IdbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=2M_roYeaQEEQ7kNvwGmpITs&_nc_oc=AdrZqp_llk3rN2nUwY3MHS9ZPymcwnH4fnv7wKa-5u-txwItRxrC13AcTKXmjZswR4E&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=QZCJe30LRQgZOsE-lCY-yA&_nc_tpa=Q5bMBQJaPuIRVDBFQh6mMaF-X58KExcswaa5De5Hyrg7ikcgsInhaSf8YUhKtH98qywIZd1RkF82u-4UsA&oh=00_AQTfYRrrS299w0Gdod3bDHSe-Q0LicLqwq3pUwz6LaMPqg&oe=6AFB915D"
   },
   "summary": {
     "followers_count": 93,
-    "views": 1171,
-    "likes": 8,
+    "views": 316,
+    "likes": 2,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 48,
-    "engagement_rate": 4.1,
+    "engagement_total": 49,
+    "engagement_rate": 15.51,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -56,7 +56,7 @@
       "permalink": "https://www.threads.com/@momalexas/post/DfecCfhidDE",
       "timestamp": "2026-11-08T09:30:08+0000",
       "metrics": {
-        "views": 1300,
+        "views": 1301,
         "likes": 6,
         "replies": 0,
         "reposts": 0,
@@ -86,24 +86,54 @@
       "permalink": "https://www.threads.com/@momalexas/post/DfmN5npE6zn",
       "timestamp": "2026-11-11T10:00:31+0000",
       "metrics": {
-        "views": 358,
-        "likes": 3,
+        "views": 428,
+        "likes": 4,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 1
       },
-      "engagement": 3
+      "engagement": 4
     }
   ],
   "recent_posts": [
+    {
+      "id": "18135761588509213",
+      "text": "Beginning Letter Sound Matching Worksheet for Ages 4–6 | Free Printable\n\nGet the free worksheet! A cute, easy-to-print b",
+      "permalink": "https://www.threads.com/@momalexas/post/Dfoyuk0kp1z",
+      "timestamp": "2026-11-12T10:00:48+0000",
+      "metrics": {
+        "views": 131,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "18139637971653136",
+      "text": "Get the free worksheet! A cute, easy-to-print beginning letter sound matching worksheet for ages 4–6 to build letter sou",
+      "permalink": "https://www.threads.com/@momalexas/post/DfomGdQkqHk",
+      "timestamp": "2026-11-12T08:10:28+0000",
+      "metrics": {
+        "views": 147,
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 1
+      },
+      "engagement": 1
+    },
     {
       "id": "18110438036219304",
       "text": "My daughter once spent a whole afternoon just tracing letters in spilled flour on the counter.\nNot because I asked. Beca",
       "permalink": "https://www.threads.com/@momalexas/post/Dfm_rtemtPG",
       "timestamp": "2026-11-11T17:16:04+0000",
       "metrics": {
-        "views": 12,
+        "views": 13,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -118,7 +148,7 @@
       "permalink": "https://www.threads.com/@momalexas/post/Dfm-AQpnKKB",
       "timestamp": "2026-11-11T17:01:23+0000",
       "metrics": {
-        "views": 8,
+        "views": 10,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -133,7 +163,7 @@
       "permalink": "https://www.threads.com/@momalexas/post/DfmpbDKFih-",
       "timestamp": "2026-11-11T14:01:33+0000",
       "metrics": {
-        "views": 9,
+        "views": 11,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -148,7 +178,7 @@
       "permalink": "https://www.threads.com/@momalexas/post/Dfmbpczjxj7",
       "timestamp": "2026-11-11T12:00:38+0000",
       "metrics": {
-        "views": 5,
+        "views": 6,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -163,14 +193,14 @@
       "permalink": "https://www.threads.com/@momalexas/post/DfmN5npE6zn",
       "timestamp": "2026-11-11T10:00:31+0000",
       "metrics": {
-        "views": 358,
-        "likes": 3,
+        "views": 428,
+        "likes": 4,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 1
       },
-      "engagement": 3
+      "engagement": 4
     },
     {
       "id": "18127503004931653",
@@ -178,7 +208,7 @@
       "permalink": "https://www.threads.com/@momalexas/post/DfmAIHKiMNc",
       "timestamp": "2026-11-11T08:00:10+0000",
       "metrics": {
-        "views": 356,
+        "views": 389,
         "likes": 3,
         "replies": 0,
         "reposts": 0,
@@ -216,36 +246,6 @@
         "shares": 0
       },
       "engagement": 0
-    },
-    {
-      "id": "18242306344317372",
-      "text": "FREE ABC WORKSHEETS! 💗 A–Z letter tracing and handwriting practice for preschoolers. Download your copy from The Little",
-      "permalink": "https://www.threads.com/@momalexas/post/Dfj22leCnKS",
-      "timestamp": "2026-11-10T12:00:39+0000",
-      "metrics": {
-        "views": 849,
-        "likes": 5,
-        "replies": 0,
-        "reposts": 1,
-        "quotes": 0,
-        "shares": 1
-      },
-      "engagement": 6
-    },
-    {
-      "id": "17979275088136176",
-      "text": "Who said learning can't be adorable? 🌷 Explore our pastel alphabet workbook with cute 2D illustrations. Get your FREE A",
-      "permalink": "https://www.threads.com/@momalexas/post/DfjknpvCbXa",
-      "timestamp": "2026-11-10T09:21:19+0000",
-      "metrics": {
-        "views": 368,
-        "likes": 2,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 2
-      },
-      "engagement": 2
     }
   ]
 }
