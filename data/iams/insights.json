@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-11-12T12:55:39.447Z",
+  "updated_at": "2026-11-12T20:55:59.115Z",
   "profile": {
     "username": "iams_ichi",
     "name": "I.petch",
     "biography": "🇦🇺\nCMO at COA.AU &\nNo-Code App Builder\nOnly Positive Vibes\nIt’s about the vibe and the feeling. \nThe names of the places? 🤔",
-    "picture": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ig_cache_key=GP7jVy3SUhQ8xp4-AMBIEGSqJAN4bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=2mOaqX8Rs84Q7kNvwHQzAE7&_nc_oc=AdqvceCQsPcN_X12r8JrAvtFWwHvlWJw6TuB_bYGdW7xLVIjATsjxJk7K3zBcudYf9E&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=-Bvlk5wL3idn94woz2eJrw&_nc_tpa=Q5bMBQKFRzQyviOO5FPrPFM_IhAt-vxlbsejRy7-g2nbkW6vuIPaya97qfgwuoJ99x_Q0sGeYz1X_dqPhg&oh=00_AQScfHkLkzZMfGfv92RFA0jjBfzvkVr-q7YEhucWOuTvHg&oe=6AFB961E"
+    "picture": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ig_cache_key=GP7jVy3SUhQ8xp4-AMBIEGSqJAN4bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=2mOaqX8Rs84Q7kNvwEdTJFy&_nc_oc=Adq0tSGlAhlea4G3RNxSqpp9Eovzf9-R3OzutHEpWAcrGj9HPDy8g7amBlOGUw0gZY8&_nc_zt=24&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=wPTdsfZ5FgldRveKLn2KMw&_nc_tpa=Q5bMBQJ-7kT1br4GLyjQZrMhIY6c97AoN6Aw5h3_yljCy5xO5GSTKrcOYq-ob1xS_66xQICbaO4uI4vA9w&oh=00_AQSPwmmp1T_870XbgyNc3cmK7Ejf8UBGb055Su2ez7vLdA&oe=6AFC069E"
   },
   "summary": {
     "followers_count": 1403,
-    "views": 58,
-    "likes": 1,
-    "replies": 0,
+    "views": 400,
+    "likes": 7,
+    "replies": 2,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 213,
-    "engagement_rate": 367.24,
+    "engagement_total": 215,
+    "engagement_rate": 53.75,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -59,12 +59,12 @@
       "metrics": {
         "views": 512,
         "likes": 9,
-        "replies": 10,
+        "replies": 12,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 19
+      "engagement": 21
     },
     {
       "id": "18079579340424342",
@@ -99,12 +99,27 @@
   ],
   "recent_posts": [
     {
+      "id": "18073196900772259",
+      "text": "I just realized I spent years lowkey dismissing Melbourne as \"just another city\" because I live near the beach and figur",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DfpOM_TFkFK",
+      "timestamp": "2026-11-12T14:01:25+0000",
+      "metrics": {
+        "views": 261,
+        "likes": 7,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 1
+      },
+      "engagement": 8
+    },
+    {
       "id": "18289800547291279",
       "text": "France taught me that disappearing mid-trip is not rude — it's survival.\nFound a quiet corner in a Lyon boulangerie, ord",
       "permalink": "https://www.threads.com/@iams_ichi/post/DfoyuKnEQ5R",
       "timestamp": "2026-11-12T10:01:18+0000",
       "metrics": {
-        "views": 17,
+        "views": 23,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -119,7 +134,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DfoXQqgEdJm",
       "timestamp": "2026-11-12T06:01:20+0000",
       "metrics": {
-        "views": 119,
+        "views": 127,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -134,7 +149,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Dfn7ym7DdJb",
       "timestamp": "2026-11-12T02:01:18+0000",
       "metrics": {
-        "views": 9,
+        "views": 10,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -149,7 +164,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DfmpaB-FfRN",
       "timestamp": "2026-11-11T14:01:25+0000",
       "metrics": {
-        "views": 93,
+        "views": 94,
         "likes": 0,
         "replies": 2,
         "reposts": 0,
@@ -164,7 +179,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DfmN71XnMbo",
       "timestamp": "2026-11-11T10:01:22+0000",
       "metrics": {
-        "views": 309,
+        "views": 313,
         "likes": 8,
         "replies": 1,
         "reposts": 0,
@@ -194,7 +209,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DflW_ZEiXh9",
       "timestamp": "2026-11-11T02:01:15+0000",
       "metrics": {
-        "views": 82,
+        "views": 84,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -232,21 +247,6 @@
         "shares": 0
       },
       "engagement": 0
-    },
-    {
-      "id": "17915275620558433",
-      "text": "Property check near Hervey Bay yesterday — servo pie on the highway at noon.\nSat-down seafood at a waterfront place that",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DfjNreQlR3i",
-      "timestamp": "2026-11-10T06:01:24+0000",
-      "metrics": {
-        "views": 17,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
     }
   ]
 }
