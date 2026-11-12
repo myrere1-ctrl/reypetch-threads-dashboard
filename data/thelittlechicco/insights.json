@@ -1,21 +1,21 @@
 {
   "account": "thelittlechicco",
-  "updated_at": "2026-11-11T22:56:12.984Z",
+  "updated_at": "2026-11-12T03:55:58.794Z",
   "profile": {
     "username": "thelittlechicco",
     "biography": "The Little Chic Co. \nYou don’t need to be a teacher to explore English with your child. \n💛 Grab my FREE illustrated parent guide and activity PDF ⬇️",
-    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/858088504_18111221842951330_744590156036230358_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ig_cache_key=GDhkJTOivGVwD1hAANbMyknNUFUKbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=mUwvUwJslB4Q7kNvwGGSFki&_nc_oc=AdpLgZGksxgb8TRdLt9sLdpkWww8S8m2uHhQdlc6Al6N8b48KKbbLFlCXdOr5VTpFAY&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=ymqcUiW_pPBSKHP9X64ywg&_nc_tpa=Q5bMBQJ0M1aGJldz57sG8mor8nriV39QMfDBs78ndA8ydUkqqZxlauvNAnUTqXM7QQpk_efuRRICjzcvag&oh=00_AQRcibcDhikR2kZpd3c8xETvdmyamslTO_-tG6r9MxoczA&oe=6AFABBFF"
+    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/858088504_18111221842951330_744590156036230358_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ig_cache_key=GDhkJTOivGVwD1hAANbMyknNUFUKbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=bmyT3WOGFvIQ7kNvwHPEVu0&_nc_oc=AdqQ8-WpEVxhCftTGf5mITQFHt1yAWPM1duGFwFRwluWIOJZ55eQQ82wM43BApQvL9A&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=vOS-zYg0izTsqIgh6-rDOw&_nc_tpa=Q5bMBQLvAUiomt6ABrW4OfHs1Eb6MJpXILULKGrQrdhTiZb7SQEO5IHzq91_4RaNLSjWWrO3nUpeLqAiNQ&oh=00_AQSKiP11Sm7rAPNHoRxZPQSuJXMamaqyaOD_rfyEb7NUMg&oe=6AFAF43F"
   },
   "summary": {
     "followers_count": 3,
-    "views": 158,
+    "views": 193,
     "likes": 1,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 1,
-    "engagement_rate": 0.63,
+    "engagement_rate": 0.52,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -26,7 +26,7 @@
       "permalink": "https://www.threads.com/@thelittlechicco/post/DfnSmj8ie52",
       "timestamp": "2026-11-11T20:01:23+0000",
       "metrics": {
-        "views": 38,
+        "views": 40,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -34,6 +34,21 @@
         "shares": 0
       },
       "engagement": 1
+    },
+    {
+      "id": "17890035684622162",
+      "text": "Grammar sticks better when a kid doesn't realize they're doing grammar.\nThey're thinking about the pattern, the sequence",
+      "permalink": "https://www.threads.com/@thelittlechicco/post/DfnnNp7jsqG",
+      "timestamp": "2026-11-11T23:01:30+0000",
+      "metrics": {
+        "views": 32,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
     },
     {
       "id": "18135095176770157",
@@ -79,14 +94,16 @@
         "shares": 0
       },
       "engagement": 0
-    },
+    }
+  ],
+  "recent_posts": [
     {
-      "id": "17943737583373424",
-      "text": "When a child says \"I don't want to do this anymore,\" they're not always rejecting the activity.\nSometimes they're tellin",
-      "permalink": "https://www.threads.com/@thelittlechicco/post/DfmbrOEGz0_",
-      "timestamp": "2026-11-11T12:01:25+0000",
+      "id": "17890035684622162",
+      "text": "Grammar sticks better when a kid doesn't realize they're doing grammar.\nThey're thinking about the pattern, the sequence",
+      "permalink": "https://www.threads.com/@thelittlechicco/post/DfnnNp7jsqG",
+      "timestamp": "2026-11-11T23:01:30+0000",
       "metrics": {
-        "views": 27,
+        "views": 32,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -94,16 +111,14 @@
         "shares": 0
       },
       "engagement": 0
-    }
-  ],
-  "recent_posts": [
+    },
     {
       "id": "18182791747432572",
       "text": "Grammar starts to stick when kids aren't thinking about grammar at all.\nThey're thinking about the puzzle, the pattern, ",
       "permalink": "https://www.threads.com/@thelittlechicco/post/DfnSmj8ie52",
       "timestamp": "2026-11-11T20:01:23+0000",
       "metrics": {
-        "views": 38,
+        "views": 40,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -222,21 +237,6 @@
       "text": "Say a color, an animal, a food — back and forth, faster each round.\nNo reading required. No prep. Just pattern-building ",
       "permalink": "https://www.threads.com/@thelittlechicco/post/Dfktzw_j2-Z",
       "timestamp": "2026-11-10T20:01:26+0000",
-      "metrics": {
-        "views": 9,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "17903365950608639",
-      "text": "English worksheet",
-      "permalink": "https://www.threads.com/@thelittlechicco/post/DfkjvXzDKdm",
-      "timestamp": "2026-11-10T18:32:52+0000",
       "metrics": {
         "views": 9,
         "likes": 0,
