@@ -1,41 +1,26 @@
 {
   "account": "iams",
-  "updated_at": "2026-11-13T01:56:35.681Z",
+  "updated_at": "2026-11-13T09:43:04.332Z",
   "profile": {
     "username": "iams_ichi",
     "name": "I.petch",
     "biography": "🇦🇺\nCMO at COA.AU &\nNo-Code App Builder\nOnly Positive Vibes\nIt’s about the vibe and the feeling. \nThe names of the places? 🤔",
-    "picture": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ig_cache_key=GP7jVy3SUhQ8xp4-AMBIEGSqJAN4bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=2mOaqX8Rs84Q7kNvwENKXZ3&_nc_oc=AdrPglp_UM7ZMoEjRN0DJ5E5FJYCP4j_XzIq54VfvCJoo5pLYzQfEvLuETTDjmg-ZwU&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=FzI-keOGKO541VRl0WySHw&_nc_tpa=Q5bMBQIkoJheqOgJCGj1mPiuhciR3TL2RuTEvuInXedk_eGqd239TEHHzzSBrYZdsHtJyQWnWByUKm7kng&oh=00_AQSKdR-q9DFXzhF7qfwjcttlWg3ALJY2Mjj3H9bG85uAXw&oe=6AFC3EDE"
+    "picture": "https://scontent-lga3-3.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ig_cache_key=GP7jVy3SUhQ8xp4-AMBIEGSqJAN4bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=2mOaqX8Rs84Q7kNvwGIb3-V&_nc_oc=AdohWchconA99rQpGzqs1MHMM3xTYncX2am7-8_2w9BapE73v_edglLZm0MprkgnLVk&_nc_zt=24&_nc_ht=scontent-lga3-3.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=dh671yAr9dq8rt5dGUtJFA&_nc_tpa=Q5bMBQIjzN6Rcc-k2h8dN0yr1Dix7YuejbhZyOunQ-mT-2GwOy9kogKD1EFlhxflkrbg99Z6-Lu0U0rodQ&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQSaFhBcUkg-paftKeBYz4xSyfuelzmZtYH8XyFctFUAvg&oe=6AFCAF5E"
   },
   "summary": {
     "followers_count": 1403,
-    "views": 684,
-    "likes": 22,
-    "replies": 5,
+    "views": 17,
+    "likes": 0,
+    "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 230,
-    "engagement_rate": 33.63,
+    "engagement_total": 177,
+    "engagement_rate": 1041.18,
     "curiosity_score": null,
     "post_count": 25
   },
   "top_posts": [
-    {
-      "id": "18126964000918191",
-      "text": "Three days in the bush with no signal and I genuinely forgot to be anxious about anything.\nNo small talk. No performance",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DfXMqfTG2a3",
-      "timestamp": "2026-11-05T14:01:38+0000",
-      "metrics": {
-        "views": 517,
-        "likes": 31,
-        "replies": 22,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 53
-    },
     {
       "id": "18019890734957219",
       "text": "I just realized I've never once felt lonely eating alone in Japan.\nSomething about ramen counters and solo seats at the ",
@@ -52,6 +37,21 @@
       "engagement": 42
     },
     {
+      "id": "18073196900772259",
+      "text": "I just realized I spent years lowkey dismissing Melbourne as \"just another city\" because I live near the beach and figur",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DfpOM_TFkFK",
+      "timestamp": "2026-11-12T14:01:25+0000",
+      "metrics": {
+        "views": 573,
+        "likes": 22,
+        "replies": 2,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 1
+      },
+      "engagement": 24
+    },
+    {
       "id": "18108670496220599",
       "text": "Paris is loud and crowded and everyone performs confidence like it's mandatory.\nI found my reset in a boulangerie just o",
       "permalink": "https://www.threads.com/@iams_ichi/post/DfhEWhWFUlp",
@@ -59,27 +59,12 @@
       "metrics": {
         "views": 514,
         "likes": 9,
-        "replies": 13,
+        "replies": 14,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 22
-    },
-    {
-      "id": "18073196900772259",
-      "text": "I just realized I spent years lowkey dismissing Melbourne as \"just another city\" because I live near the beach and figur",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DfpOM_TFkFK",
-      "timestamp": "2026-11-12T14:01:25+0000",
-      "metrics": {
-        "views": 463,
-        "likes": 19,
-        "replies": 2,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 1
-      },
-      "engagement": 21
+      "engagement": 23
     },
     {
       "id": "18079579340424342",
@@ -95,23 +80,68 @@
         "shares": 0
       },
       "engagement": 18
+    },
+    {
+      "id": "17867259186695605",
+      "text": "Checked a property near Bundaberg yesterday — lunch was fish and chips from a servo, eaten in the car watching cows.\nDin",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DfZxbiUFe2N",
+      "timestamp": "2026-11-06T14:01:23+0000",
+      "metrics": {
+        "views": 200,
+        "likes": 10,
+        "replies": 3,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 13
     }
   ],
   "recent_posts": [
+    {
+      "id": "18083977976352183",
+      "text": "$6 cold brew from a tiny window on Burleigh, eaten — drunk? — sitting on the curb.\nAn hour later, walking into a proper ",
+      "permalink": "https://www.threads.com/@iams_ichi/post/Dfq8EqFm4hR",
+      "timestamp": "2026-11-13T06:01:28+0000",
+      "metrics": {
+        "views": 9,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
+      "id": "17993658845864504",
+      "text": "Sakura season sounds chaotic — crowds, queues, everyone chasing the same park.\nTurned up anyway. Spent most of it wander",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DfqgpOMDWQ7",
+      "timestamp": "2026-11-13T02:01:48+0000",
+      "metrics": {
+        "views": 11,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
     {
       "id": "18073196900772259",
       "text": "I just realized I spent years lowkey dismissing Melbourne as \"just another city\" because I live near the beach and figur",
       "permalink": "https://www.threads.com/@iams_ichi/post/DfpOM_TFkFK",
       "timestamp": "2026-11-12T14:01:25+0000",
       "metrics": {
-        "views": 463,
-        "likes": 19,
+        "views": 573,
+        "likes": 22,
         "replies": 2,
         "reposts": 0,
         "quotes": 0,
         "shares": 1
       },
-      "engagement": 21
+      "engagement": 24
     },
     {
       "id": "18289800547291279",
@@ -179,7 +209,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DfmN71XnMbo",
       "timestamp": "2026-11-11T10:01:22+0000",
       "metrics": {
-        "views": 314,
+        "views": 315,
         "likes": 8,
         "replies": 1,
         "reposts": 0,
@@ -209,7 +239,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DflW_ZEiXh9",
       "timestamp": "2026-11-11T02:01:15+0000",
       "metrics": {
-        "views": 86,
+        "views": 87,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -217,36 +247,6 @@
         "shares": 0
       },
       "engagement": 1
-    },
-    {
-      "id": "17896191309434817",
-      "text": "6pm, halfway along the coastline path between Burleigh and Miami, and the light just did that thing.\nGolden, low, hittin",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DfkEmreGxrj",
-      "timestamp": "2026-11-10T14:01:21+0000",
-      "metrics": {
-        "views": 25,
-        "likes": 2,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 3
-    },
-    {
-      "id": "18076664318732413",
-      "text": "Romans eat lunch like it's a sacred ritual and dinner like it's a second job.\nNobody eats before 8:30pm. Nobody. And som",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DfjpJHokWQD",
-      "timestamp": "2026-11-10T10:01:24+0000",
-      "metrics": {
-        "views": 15,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
     }
   ]
 }
