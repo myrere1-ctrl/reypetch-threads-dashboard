@@ -1,21 +1,21 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-11-12T20:56:49.217Z",
+  "updated_at": "2026-11-13T01:57:10.550Z",
   "profile": {
     "username": "_iame.hijrah",
     "biography": "Hijrah Journey \nInbox ➡️Akses Safar AI",
-    "picture": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ig_cache_key=GHPulixGDYKQ0TVAAKrnbOIoMBtnbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=2BQn8xw1fiAQ7kNvwEW-dzP&_nc_oc=Adr8QDw1Isgc5Ci9acBEhfcsHnExPlNNYhlTeTWMhBqWFSzJlXhWRGIqzFUf9_mgtGs&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=Eg8wrufP-cdP1aUitdIFmg&_nc_tpa=Q5bMBQJdBhMqvz2T5Fz-KoHr2G5vvFJ2Bp2zqPMyzdVPIghikme9tw2oGkGaq_S9iPU83cMJjuI4tbAC_g&oh=00_AQQ4QehZ5gB64IhVjA--kd9dlT6sAkolsX5yUjdxHlvdGg&oe=6AFBF813"
+    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ig_cache_key=GHPulixGDYKQ0TVAAKrnbOIoMBtnbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=2BQn8xw1fiAQ7kNvwENnHGJ&_nc_oc=AdpUdXsIlQNTKz8vQOhoPTyDnv46txPyFSiPk4vmgv4B7kvW5mI_2oKoXH0G-7-vzQ8&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=Wj-R9-L544XHMQ1x1D5xIw&_nc_tpa=Q5bMBQKtNDrujd2AtQdfoZoSzY1_tXU71Slov-7D33Jpm2axchWU9kH8Cetk56qM_xT6YXXlJz_vWHLjYw&oh=00_AQQdw6ojDbZzJGHTIUmWaA-HhCdIwiQ-t1DicplYBEwaRw&oe=6AFC3053"
   },
   "summary": {
     "followers_count": 10,
-    "views": 491,
+    "views": 680,
     "likes": 8,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 107,
-    "engagement_rate": 21.79,
+    "engagement_total": 105,
+    "engagement_rate": 15.44,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -56,7 +56,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DfkSYu5oM6A",
       "timestamp": "2026-11-10T16:01:47+0000",
       "metrics": {
-        "views": 291,
+        "views": 293,
         "likes": 10,
         "replies": 0,
         "reposts": 0,
@@ -98,6 +98,36 @@
   ],
   "recent_posts": [
     {
+      "id": "18161811112511601",
+      "text": "Pernah ngerasa semua yang kamu rencana buyar, dan otak langsung nyalahin diri sendiri?\nAku di sini juga. Dan yang paling",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DfqZ2zVlPmJ",
+      "timestamp": "2026-11-13T01:02:29+0000",
+      "metrics": {
+        "views": 89,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "18001289246825906",
+      "text": "Sabar itu bukan diam nunggu — tapi aktif percaya sambil tetap jalan.\nAku baru nyadar ini habis Subuh tadi, waktu lagi du",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DfqFJIwFF7E",
+      "timestamp": "2026-11-12T22:01:30+0000",
+      "metrics": {
+        "views": 43,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "17912045946663457",
       "text": "Ada satu amalan yang katanya bisa bikin rindu Tanah Suci makin terasa — bukan cuma nostalgia, tapi kangen yang nyambung ",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dfpb-3KFZH4",
@@ -133,7 +163,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DfpHW6bjtKn",
       "timestamp": "2026-11-12T13:01:37+0000",
       "metrics": {
-        "views": 102,
+        "views": 103,
         "likes": 2,
         "replies": 0,
         "reposts": 0,
@@ -148,7 +178,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Dfo9CASlh__",
       "timestamp": "2026-11-12T11:31:22+0000",
       "metrics": {
-        "views": 42,
+        "views": 44,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -208,7 +238,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DfngYdHFCyI",
       "timestamp": "2026-11-11T22:01:47+0000",
       "metrics": {
-        "views": 147,
+        "views": 148,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -216,36 +246,6 @@
         "shares": 0
       },
       "engagement": 0
-    },
-    {
-      "id": "18107378915309524",
-      "text": "4 hal yang aku coba siapin sebelum Umroh — bukan soal koper (yang ke-3 susah banget):\n1. Niat — dikembalikan pelan-pelan",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dfm3LkpGn18",
-      "timestamp": "2026-11-11T16:01:46+0000",
-      "metrics": {
-        "views": 92,
-        "likes": 3,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 3
-    },
-    {
-      "id": "17880097695568092",
-      "text": "Pernah ngerasa udah muhasabah, tapi yang kamu hitung cuma kesalahan orang lain?\nAku juga pernah. Niatnya introspeksi, uj",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dfms3IjHCw6",
-      "timestamp": "2026-11-11T14:31:36+0000",
-      "metrics": {
-        "views": 159,
-        "likes": 1,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
     }
   ]
 }
