@@ -1,21 +1,21 @@
 {
   "account": "thelittlechicco",
-  "updated_at": "2026-11-13T01:58:06.652Z",
+  "updated_at": "2026-11-13T09:45:18.377Z",
   "profile": {
     "username": "thelittlechicco",
     "biography": "The Little Chic Co. \nYou don’t need to be a teacher to explore English with your child. \n💛 Grab my FREE illustrated parent guide and activity PDF ⬇️",
-    "picture": "https://scontent-dfw6-2.cdninstagram.com/v/t51.82787-19/858088504_18111221842951330_744590156036230358_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ig_cache_key=GDhkJTOivGVwD1hAANbMyknNUFUKbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=bmyT3WOGFvIQ7kNvwGyhVvG&_nc_oc=Ado67BThmFtqRjpRiD3gsIfLGKGSBE2ws0PXggoVTSK6JOW9xWrtDJpPHSinqzWns0w&_nc_zt=24&_nc_ht=scontent-dfw6-2.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=8GkJQulYWGwJvBCT0eiI5w&_nc_tpa=Q5bMBQItEpgBppYdrsAsDOccY7Z2sHAQJMIdYnnzwn5FnRkYZTFF3J-icIs9azP0lLZ-T1l2h1wH7chVOw&oh=00_AQTUGI2xKzwQzhfUiXJ20cLYrcNYYvi6oJWgkXxJ_cZyJg&oe=6AFC45BF"
+    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/858088504_18111221842951330_744590156036230358_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ig_cache_key=GDhkJTOivGVwD1hAANbMyknNUFUKbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=bmyT3WOGFvIQ7kNvwFwcTHx&_nc_oc=AdqzApq5Q86S5JgWLR9flu1zGDF_k0dnsqQGXcZAMq-_vwzjNFATcDyZCOtBdqE54oU&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=99-ucftfyPl2qkyR_svcLQ&_nc_tpa=Q5bMBQIu5s9YI3hi_YK4KkKR1VJguZ1njQUTx9W4JG6gaisH4CUCGi8Vhq3YNsvg5uv-pOVhY5F0m713VA&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQSbyQdn6VJowx8zmmN5cOk4LrejEE9mtYsmgUTRmVGfIA&oe=6AFCB63F"
   },
   "summary": {
     "followers_count": 3,
-    "views": 108,
+    "views": 0,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 1,
-    "engagement_rate": 0.93,
+    "engagement_rate": 0,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -34,6 +34,21 @@
         "shares": 0
       },
       "engagement": 1
+    },
+    {
+      "id": "18360240235169834",
+      "text": "Say a sentence out loud — but swap one word for the silliest replacement you can think of.\nAsk them to fix it. Then let ",
+      "permalink": "https://www.threads.com/@thelittlechicco/post/DfrJzTjFRDq",
+      "timestamp": "2026-11-13T08:01:27+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
     },
     {
       "id": "18126624139717059",
@@ -79,14 +94,16 @@
         "shares": 0
       },
       "engagement": 0
-    },
+    }
+  ],
+  "recent_posts": [
     {
-      "id": "17974220676192811",
-      "text": "Sequencing grammar topics is one of the quieter design challenges — get it wrong and nothing lands, even if the explanat",
-      "permalink": "https://www.threads.com/@thelittlechicco/post/DfpONRlIItT",
-      "timestamp": "2026-11-12T14:01:29+0000",
+      "id": "18360240235169834",
+      "text": "Say a sentence out loud — but swap one word for the silliest replacement you can think of.\nAsk them to fix it. Then let ",
+      "permalink": "https://www.threads.com/@thelittlechicco/post/DfrJzTjFRDq",
+      "timestamp": "2026-11-13T08:01:27+0000",
       "metrics": {
-        "views": 43,
+        "views": 0,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -94,9 +111,7 @@
         "shares": 0
       },
       "engagement": 0
-    }
-  ],
-  "recent_posts": [
+    },
     {
       "id": "18126624139717059",
       "text": "Tape a sentence strip to the floor. Read it together — then walk on each word as you say it out loud.\nSuddenly the sente",
@@ -224,21 +239,6 @@
       "timestamp": "2026-11-12T07:12:21+0000",
       "metrics": {
         "views": 0,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "17890035684622162",
-      "text": "Grammar sticks better when a kid doesn't realize they're doing grammar.\nThey're thinking about the pattern, the sequence",
-      "permalink": "https://www.threads.com/@thelittlechicco/post/DfnnNp7jsqG",
-      "timestamp": "2026-11-11T23:01:30+0000",
-      "metrics": {
-        "views": 32,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
