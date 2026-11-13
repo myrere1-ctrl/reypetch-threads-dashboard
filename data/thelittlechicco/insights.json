@@ -1,21 +1,21 @@
 {
   "account": "thelittlechicco",
-  "updated_at": "2026-11-12T20:57:49.478Z",
+  "updated_at": "2026-11-13T01:58:06.652Z",
   "profile": {
     "username": "thelittlechicco",
     "biography": "The Little Chic Co. \nYou don’t need to be a teacher to explore English with your child. \n💛 Grab my FREE illustrated parent guide and activity PDF ⬇️",
-    "picture": "https://scontent-lga3-3.cdninstagram.com/v/t51.82787-19/858088504_18111221842951330_744590156036230358_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ig_cache_key=GDhkJTOivGVwD1hAANbMyknNUFUKbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=bmyT3WOGFvIQ7kNvwGZGICB&_nc_oc=Adqd4yRxZfPxk19By-xmTIJfiM7kGNAWHgLhRsR7wTsqYM0K3KC3qUANpaFrAI3RDyE&_nc_zt=24&_nc_ht=scontent-lga3-3.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=aRBnma0MPVBjBV1zSi6PAg&_nc_tpa=Q5bMBQISCBJzcpf9sVUcEAR1iYFk5pBAmNB0Td2bIP41YtPKj-H32Gp9z7wpcRpFAiPC0LGJ9TTW5qWjaQ&oh=00_AQS6gDrIK36Q18WqolqJ839IFQmFZSZ-BzS7BNLFaDQYbQ&oe=6AFC0D7F"
+    "picture": "https://scontent-dfw6-2.cdninstagram.com/v/t51.82787-19/858088504_18111221842951330_744590156036230358_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ig_cache_key=GDhkJTOivGVwD1hAANbMyknNUFUKbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=bmyT3WOGFvIQ7kNvwGyhVvG&_nc_oc=Ado67BThmFtqRjpRiD3gsIfLGKGSBE2ws0PXggoVTSK6JOW9xWrtDJpPHSinqzWns0w&_nc_zt=24&_nc_ht=scontent-dfw6-2.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=8GkJQulYWGwJvBCT0eiI5w&_nc_tpa=Q5bMBQItEpgBppYdrsAsDOccY7Z2sHAQJMIdYnnzwn5FnRkYZTFF3J-icIs9azP0lLZ-T1l2h1wH7chVOw&oh=00_AQTUGI2xKzwQzhfUiXJ20cLYrcNYYvi6oJWgkXxJ_cZyJg&oe=6AFC45BF"
   },
   "summary": {
     "followers_count": 3,
-    "views": 87,
+    "views": 108,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 1,
-    "engagement_rate": 1.15,
+    "engagement_rate": 0.93,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -34,6 +34,21 @@
         "shares": 0
       },
       "engagement": 1
+    },
+    {
+      "id": "18126624139717059",
+      "text": "Tape a sentence strip to the floor. Read it together — then walk on each word as you say it out loud.\nSuddenly the sente",
+      "permalink": "https://www.threads.com/@thelittlechicco/post/DfqL_ZzGqaN",
+      "timestamp": "2026-11-12T23:01:21+0000",
+      "metrics": {
+        "views": 21,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
     },
     {
       "id": "18002569371047411",
@@ -79,14 +94,16 @@
         "shares": 0
       },
       "engagement": 0
-    },
+    }
+  ],
+  "recent_posts": [
     {
-      "id": "18435344410144767",
-      "text": "Write three nouns on sticky notes — a person, a place, a thing.\nTake turns pulling one from each pile and building a sen",
-      "permalink": "https://www.threads.com/@thelittlechicco/post/DfpAduvG2VM",
-      "timestamp": "2026-11-12T12:01:22+0000",
+      "id": "18126624139717059",
+      "text": "Tape a sentence strip to the floor. Read it together — then walk on each word as you say it out loud.\nSuddenly the sente",
+      "permalink": "https://www.threads.com/@thelittlechicco/post/DfqL_ZzGqaN",
+      "timestamp": "2026-11-12T23:01:21+0000",
       "metrics": {
-        "views": 0,
+        "views": 21,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -94,9 +111,7 @@
         "shares": 0
       },
       "engagement": 0
-    }
-  ],
-  "recent_posts": [
+    },
     {
       "id": "18002569371047411",
       "text": "When a kid shuts down mid-task, the instinct is to push through or problem-solve out loud.\nSometimes the most useful thi",
@@ -231,21 +246,6 @@
         "shares": 0
       },
       "engagement": 0
-    },
-    {
-      "id": "18182791747432572",
-      "text": "Grammar starts to stick when kids aren't thinking about grammar at all.\nThey're thinking about the puzzle, the pattern, ",
-      "permalink": "https://www.threads.com/@thelittlechicco/post/DfnSmj8ie52",
-      "timestamp": "2026-11-11T20:01:23+0000",
-      "metrics": {
-        "views": 40,
-        "likes": 1,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
     }
   ]
 }
