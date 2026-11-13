@@ -1,48 +1,33 @@
 {
   "account": "iams",
-  "updated_at": "2026-11-13T09:43:04.332Z",
+  "updated_at": "2026-11-13T17:52:08.286Z",
   "profile": {
     "username": "iams_ichi",
     "name": "I.petch",
     "biography": "🇦🇺\nCMO at COA.AU &\nNo-Code App Builder\nOnly Positive Vibes\nIt’s about the vibe and the feeling. \nThe names of the places? 🤔",
-    "picture": "https://scontent-lga3-3.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ig_cache_key=GP7jVy3SUhQ8xp4-AMBIEGSqJAN4bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=2mOaqX8Rs84Q7kNvwGIb3-V&_nc_oc=AdohWchconA99rQpGzqs1MHMM3xTYncX2am7-8_2w9BapE73v_edglLZm0MprkgnLVk&_nc_zt=24&_nc_ht=scontent-lga3-3.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=dh671yAr9dq8rt5dGUtJFA&_nc_tpa=Q5bMBQIjzN6Rcc-k2h8dN0yr1Dix7YuejbhZyOunQ-mT-2GwOy9kogKD1EFlhxflkrbg99Z6-Lu0U0rodQ&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQSaFhBcUkg-paftKeBYz4xSyfuelzmZtYH8XyFctFUAvg&oe=6AFCAF5E"
+    "picture": "https://scontent-lga3-3.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ig_cache_key=GP7jVy3SUhQ8xp4-AMBIEGSqJAN4bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=2mOaqX8Rs84Q7kNvwEMk2QG&_nc_oc=AdrVlDAHNZ_Zt0oCTHjhXQ843jR0KiD7tCNVRjtm2DrbfrejREPxD5idVp67WyHmSbk&_nc_zt=24&_nc_ht=scontent-lga3-3.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=_KLH_TEBjn7be56HLW3-9g&_nc_tpa=Q5bMBQJ66EeQBGaTfB-HEHaenXWxc4x3L-czqMB7GRhi7hvMnnwKocvGquwo42UCYXZavcfCb0gt_foYmg&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQTbri4jCX58ObTXsFc45H-Jb-uojm6Z6n5AEpRhF-kLxg&oe=6AFD1FDE"
   },
   "summary": {
-    "followers_count": 1403,
-    "views": 17,
-    "likes": 0,
-    "replies": 0,
+    "followers_count": 1402,
+    "views": 123,
+    "likes": 1,
+    "replies": 4,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 177,
-    "engagement_rate": 1041.18,
+    "engagement_total": 122,
+    "engagement_rate": 99.19,
     "curiosity_score": null,
     "post_count": 25
   },
   "top_posts": [
-    {
-      "id": "18019890734957219",
-      "text": "I just realized I've never once felt lonely eating alone in Japan.\nSomething about ramen counters and solo seats at the ",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DfYfBncG9Aa",
-      "timestamp": "2026-11-06T02:01:19+0000",
-      "metrics": {
-        "views": 670,
-        "likes": 23,
-        "replies": 16,
-        "reposts": 2,
-        "quotes": 1,
-        "shares": 0
-      },
-      "engagement": 42
-    },
     {
       "id": "18073196900772259",
       "text": "I just realized I spent years lowkey dismissing Melbourne as \"just another city\" because I live near the beach and figur",
       "permalink": "https://www.threads.com/@iams_ichi/post/DfpOM_TFkFK",
       "timestamp": "2026-11-12T14:01:25+0000",
       "metrics": {
-        "views": 573,
+        "views": 598,
         "likes": 22,
         "replies": 2,
         "reposts": 0,
@@ -57,7 +42,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DfhEWhWFUlp",
       "timestamp": "2026-11-09T10:01:25+0000",
       "metrics": {
-        "views": 514,
+        "views": 515,
         "likes": 9,
         "replies": 14,
         "reposts": 0,
@@ -65,21 +50,6 @@
         "shares": 0
       },
       "engagement": 23
-    },
-    {
-      "id": "18079579340424342",
-      "text": "Dinner in Fitzroy: a degustation where each plate came with a paragraph of explanation.\nNext morning: a banh mi from a w",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DfY6fcGkaup",
-      "timestamp": "2026-11-06T06:01:21+0000",
-      "metrics": {
-        "views": 507,
-        "likes": 15,
-        "replies": 3,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 18
     },
     {
       "id": "17867259186695605",
@@ -95,9 +65,69 @@
         "shares": 0
       },
       "engagement": 13
+    },
+    {
+      "id": "18118741072806167",
+      "text": "Kyoto has this unspoken rule where nobody makes eye contact on the street — but the second you step into a small machiya",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DfgNbRREXZ4",
+      "timestamp": "2026-11-09T02:01:29+0000",
+      "metrics": {
+        "views": 480,
+        "likes": 9,
+        "replies": 2,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 11
+    },
+    {
+      "id": "18101064353098055",
+      "text": "Unpopular opinion: Barcelona is wasted on people who only have 3 days.\nYou need at least one slow morning with nowhere t",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DfmN71XnMbo",
+      "timestamp": "2026-11-11T10:01:22+0000",
+      "metrics": {
+        "views": 316,
+        "likes": 8,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 9
     }
   ],
   "recent_posts": [
+    {
+      "id": "18134535199816240",
+      "text": "NSW south coast towns have this unspoken rule: the scruffier the fish and chip shop looks, the longer the local queue ou",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DfrzCa0EaI9",
+      "timestamp": "2026-11-13T14:01:47+0000",
+      "metrics": {
+        "views": 7,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
+      "id": "18200291881394588",
+      "text": "Everyone says Italy is expensive if you sit down at a café. Technically true — but only if you don't know how it actuall",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DfrXhwRlu_v",
+      "timestamp": "2026-11-13T10:01:22+0000",
+      "metrics": {
+        "views": 34,
+        "likes": 0,
+        "replies": 4,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 4
+    },
     {
       "id": "18083977976352183",
       "text": "$6 cold brew from a tiny window on Burleigh, eaten — drunk? — sitting on the curb.\nAn hour later, walking into a proper ",
@@ -134,7 +164,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DfpOM_TFkFK",
       "timestamp": "2026-11-12T14:01:25+0000",
       "metrics": {
-        "views": 573,
+        "views": 598,
         "likes": 22,
         "replies": 2,
         "reposts": 0,
@@ -209,7 +239,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DfmN71XnMbo",
       "timestamp": "2026-11-11T10:01:22+0000",
       "metrics": {
-        "views": 315,
+        "views": 316,
         "likes": 8,
         "replies": 1,
         "reposts": 0,
@@ -217,36 +247,6 @@
         "shares": 0
       },
       "engagement": 9
-    },
-    {
-      "id": "18373607365211539",
-      "text": "Dinner at a rooftop restaurant on Broadbeach, proper menu, proper prices.\nNext afternoon: fish tacos from a window shack",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DflydVZnGAn",
-      "timestamp": "2026-11-11T06:01:16+0000",
-      "metrics": {
-        "views": 32,
-        "likes": 1,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 2
-    },
-    {
-      "id": "18139387177727218",
-      "text": "Everyone told me Japanese street food is intimidating if you don't speak the language.\nStood in front of a takoyaki stal",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DflW_ZEiXh9",
-      "timestamp": "2026-11-11T02:01:15+0000",
-      "metrics": {
-        "views": 87,
-        "likes": 1,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
     }
   ]
 }
