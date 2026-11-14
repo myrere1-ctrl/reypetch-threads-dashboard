@@ -1,21 +1,21 @@
 {
   "account": "thelittlechicco",
-  "updated_at": "2026-11-14T14:19:14.029Z",
+  "updated_at": "2026-11-14T19:18:29.091Z",
   "profile": {
     "username": "thelittlechicco",
     "biography": "The Little Chic Co. \nYou don’t need to be a teacher to explore English with your child. \n💛 Grab my FREE illustrated parent guide and activity PDF ⬇️",
-    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/858088504_18111221842951330_744590156036230358_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ig_cache_key=GDhkJTOivGVwD1hAANbMyknNUFUKbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=bmyT3WOGFvIQ7kNvwFjuXBv&_nc_oc=AdoUBXwzmcEft4QpTRwX1VhHECOHI886pqVI3xziocN3SW7HEnjeLn4ix_Kg75zsCnU&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=CbdtCTmSt3WJ4RUi-ZHrbg&_nc_tpa=Q5bMBQLLV3c2b_6oo-Ar83-Gy0gkfKVSpzsg_gKowAgPbg2SbVyaXUCFleqe5cdYKkikYVlTGa9uD21-YQ&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQSqVRsiwoy6Phs83XA_I34s2m9c8WGyO7gdNNx5j9Z_6g&oe=6AFE3FFF"
+    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/858088504_18111221842951330_744590156036230358_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ig_cache_key=GDhkJTOivGVwD1hAANbMyknNUFUKbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=bmyT3WOGFvIQ7kNvwEXJjBy&_nc_oc=Adr8mfxYG53is0Q5ADmaphaVYWuStxztfqXi0HC54Ph9M8cZ_GjV3uRp8Qmxyh-e-lw&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=x-mXcK0UHbgfLapIoi9yYA&_nc_tpa=Q5bMBQLJ-hEHsDDkrcR6VLTRFlRSKSrH2ljjIeJXZy3rAVne_y1xClSfwqp_2AiC4ngQeVbbUt6qkpavwA&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQRHAWS74fk2f2a3NqXr12MjYGPK_0DMeLlK7uKY1K23_w&oe=6AFE783F"
   },
   "summary": {
     "followers_count": 3,
-    "views": 53,
-    "likes": 0,
+    "views": 130,
+    "likes": 1,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 2,
-    "engagement_rate": 3.77,
+    "engagement_rate": 1.54,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -26,7 +26,7 @@
       "permalink": "https://www.threads.com/@thelittlechicco/post/DfuXzKhFatk",
       "timestamp": "2026-11-14T14:01:29+0000",
       "metrics": {
-        "views": 0,
+        "views": 41,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -51,12 +51,27 @@
       "engagement": 1
     },
     {
+      "id": "18134725021783358",
+      "text": "Kids learn sentences the same way they learn a room — by moving through them, not analyzing them from the doorway.\nRepet",
+      "permalink": "https://www.threads.com/@thelittlechicco/post/DfusaJ4mvnv",
+      "timestamp": "2026-11-14T17:01:34+0000",
+      "metrics": {
+        "views": 34,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "17925670755221981",
       "text": "A kid who goes quiet during a tutoring session isn't always lost.\nSometimes they're just carrying something heavy that w",
       "permalink": "https://www.threads.com/@thelittlechicco/post/DfuKD4oEbTm",
       "timestamp": "2026-11-14T12:01:28+0000",
       "metrics": {
-        "views": 36,
+        "views": 37,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -79,14 +94,16 @@
         "shares": 0
       },
       "engagement": 0
-    },
+    }
+  ],
+  "recent_posts": [
     {
-      "id": "18141957418626699",
-      "text": "Pick a room. Any room. Name three things you can see — out loud, one sentence each.\nThat's a full week of vocabulary pra",
-      "permalink": "https://www.threads.com/@thelittlechicco/post/DfswyZJFYs5",
-      "timestamp": "2026-11-13T23:01:21+0000",
+      "id": "18134725021783358",
+      "text": "Kids learn sentences the same way they learn a room — by moving through them, not analyzing them from the doorway.\nRepet",
+      "permalink": "https://www.threads.com/@thelittlechicco/post/DfusaJ4mvnv",
+      "timestamp": "2026-11-14T17:01:34+0000",
       "metrics": {
-        "views": 15,
+        "views": 34,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -94,16 +111,14 @@
         "shares": 0
       },
       "engagement": 0
-    }
-  ],
-  "recent_posts": [
+    },
     {
       "id": "18017869736971633",
       "text": "The tricky part of designing for early English learners isn't the vocabulary — it's the pacing.\nIntroduce too much at on",
       "permalink": "https://www.threads.com/@thelittlechicco/post/DfuXzKhFatk",
       "timestamp": "2026-11-14T14:01:29+0000",
       "metrics": {
-        "views": 0,
+        "views": 41,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -118,7 +133,7 @@
       "permalink": "https://www.threads.com/@thelittlechicco/post/DfuKD4oEbTm",
       "timestamp": "2026-11-14T12:01:28+0000",
       "metrics": {
-        "views": 36,
+        "views": 37,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -224,21 +239,6 @@
       "timestamp": "2026-11-13T08:01:27+0000",
       "metrics": {
         "views": 0,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18126624139717059",
-      "text": "Tape a sentence strip to the floor. Read it together — then walk on each word as you say it out loud.\nSuddenly the sente",
-      "permalink": "https://www.threads.com/@thelittlechicco/post/DfqL_ZzGqaN",
-      "timestamp": "2026-11-12T23:01:21+0000",
-      "metrics": {
-        "views": 21,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
