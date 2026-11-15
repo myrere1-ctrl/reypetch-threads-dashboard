@@ -1,21 +1,21 @@
 {
   "account": "thelittlechicco",
-  "updated_at": "2026-11-15T02:50:30.328Z",
+  "updated_at": "2026-11-15T11:14:41.614Z",
   "profile": {
     "username": "thelittlechicco",
     "biography": "The Little Chic Co. \nYou don’t need to be a teacher to explore English with your child. \n💛 Grab my FREE illustrated parent guide and activity PDF ⬇️",
-    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/858088504_18111221842951330_744590156036230358_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ig_cache_key=GDhkJTOivGVwD1hAANbMyknNUFUKbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=rd3qB9x4_w8Q7kNvwE5-c1g&_nc_oc=AdoLP4iU7H63h0HU9N937rhRdEN0PpYwAX5qaAESayZ0lBRqGKIht61lu_vi7RWjxoA&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=qe8C1P5qXXL4GyZqoOizIA&_nc_tpa=Q5bMBQJQlpFC_mwHIeIgl9vYGmZJM1_74VVTVQ97cXvs2sA8GVggX_4SvCzQf88dcpAaKIKd8h0pNtoarQ&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQTkWjovTRW7nM7VFeBFCDZyQCEkLkOZjuNqAxIGQioaRw&oe=6AFEE8BF"
+    "picture": "https://scontent-sea5-2.cdninstagram.com/v/t51.82787-19/858088504_18111221842951330_744590156036230358_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ig_cache_key=GDhkJTOivGVwD1hAANbMyknNUFUKbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=rd3qB9x4_w8Q7kNvwGwcfIq&_nc_oc=AdoU8FpTxA0-K8Mksc0QkoMdjY6m6bW5wI_CbUca_JHp3ScX1znxohZt_Ix0xJgQf0g&_nc_zt=24&_nc_ht=scontent-sea5-2.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=gr3gvcan-LDv9V2GTkynbQ&_nc_tpa=Q5bMBQKWZvM2m49uLL1c6CGTzOzqskj2okYldGnVIlDpiOny3rTaYBRDXZo924NnW6XBP8EbONNJ4HBRsg&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQRZrCTtxONrXH9YDKFRrTc934JLoSVmK8KHV3k4773GJw&oe=6AFF593F"
   },
   "summary": {
     "followers_count": 3,
-    "views": 200,
-    "likes": 1,
+    "views": 46,
+    "likes": 0,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 2,
-    "engagement_rate": 1,
+    "engagement_rate": 4.35,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -51,6 +51,21 @@
       "engagement": 1
     },
     {
+      "id": "17994954513084920",
+      "text": "Sentences click differently when kids build them instead of copy them.\nThere's something that happens mid-attempt — a sm",
+      "permalink": "https://www.threads.com/@thelittlechicco/post/DfwTZFWGzMo",
+      "timestamp": "2026-11-15T08:01:26+0000",
+      "metrics": {
+        "views": 46,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "18107737229362298",
       "text": "A kid who argues that their answer is right — even when it isn't — is sometimes less wrong than they look.\nThey understo",
       "permalink": "https://www.threads.com/@thelittlechicco/post/DfvVl44IEXo",
@@ -79,14 +94,16 @@
         "shares": 0
       },
       "engagement": 0
-    },
+    }
+  ],
+  "recent_posts": [
     {
-      "id": "18134725021783358",
-      "text": "Kids learn sentences the same way they learn a room — by moving through them, not analyzing them from the doorway.\nRepet",
-      "permalink": "https://www.threads.com/@thelittlechicco/post/DfusaJ4mvnv",
-      "timestamp": "2026-11-14T17:01:34+0000",
+      "id": "17994954513084920",
+      "text": "Sentences click differently when kids build them instead of copy them.\nThere's something that happens mid-attempt — a sm",
+      "permalink": "https://www.threads.com/@thelittlechicco/post/DfwTZFWGzMo",
+      "timestamp": "2026-11-15T08:01:26+0000",
       "metrics": {
-        "views": 34,
+        "views": 46,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -94,9 +111,7 @@
         "shares": 0
       },
       "engagement": 0
-    }
-  ],
-  "recent_posts": [
+    },
     {
       "id": "18107737229362298",
       "text": "A kid who argues that their answer is right — even when it isn't — is sometimes less wrong than they look.\nThey understo",
@@ -193,7 +208,7 @@
       "permalink": "https://www.threads.com/@thelittlechicco/post/DfswyZJFYs5",
       "timestamp": "2026-11-13T23:01:21+0000",
       "metrics": {
-        "views": 15,
+        "views": 16,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -224,21 +239,6 @@
       "timestamp": "2026-11-13T17:01:55+0000",
       "metrics": {
         "views": 18,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18098403197135930",
-      "text": "A kid who cries over getting a letter wrong isn't being dramatic.\nThey're telling you that trying felt risky — and the r",
-      "permalink": "https://www.threads.com/@thelittlechicco/post/DfrzGMQEVon",
-      "timestamp": "2026-11-13T14:02:17+0000",
-      "metrics": {
-        "views": 22,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
