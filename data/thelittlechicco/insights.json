@@ -1,21 +1,21 @@
 {
   "account": "thelittlechicco",
-  "updated_at": "2026-11-15T22:59:28.007Z",
+  "updated_at": "2026-11-16T02:52:36.444Z",
   "profile": {
     "username": "thelittlechicco",
     "biography": "The Little Chic Co. \nYou don’t need to be a teacher to explore English with your child. \n💛 Grab my FREE illustrated parent guide and activity PDF ⬇️",
-    "picture": "https://scontent-dfw6-2.cdninstagram.com/v/t51.82787-19/858088504_18111221842951330_744590156036230358_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ig_cache_key=GDhkJTOivGVwD1hAANbMyknNUFUKbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=rd3qB9x4_w8Q7kNvwGpgzxi&_nc_oc=Ado9-OnlvG1Mday8MGkctO4t-Mrs1uzYQIbU__f8ReartgOsBxi8FVsevcDW42h_Y38&_nc_zt=24&_nc_ht=scontent-dfw6-2.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=bvp0RRZHrEVDaf9BpMzFjw&_nc_tpa=Q5bMBQLRjyb6oU1DfNVicbtThGAiHLCGRrujkFNS2RiwVg3Ap7Ui8mZJM3k1_H2u1QoblU9-FFkSpQYBCw&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQSFbkwRGlrEaMWhcw_6DkA_eTkVzJseCRjLytPSYQRowA&oe=6B0001FF"
+    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/858088504_18111221842951330_744590156036230358_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ig_cache_key=GDhkJTOivGVwD1hAANbMyknNUFUKbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=rd3qB9x4_w8Q7kNvwHhXNC8&_nc_oc=AdqEAV4lhbpqgF4XQKwCBlN4M5itepjmX8VxjWk4-3ab4bB4hA-R4eUASYRYSyKnUAw&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=brvtaqxvxcPif4Rr-iEh2Q&_nc_tpa=Q5bMBQLJ7ndMuzdQGrqfEMc3cmGtkGL8IsbjUEjKNm9XoglIkxnuDNCHxP9Y3H6LXFVsk08y2QCjajwtUQ&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQS_1ZwxMgDdDCEUnm2ynaUOxCTKnx1-CKAy7QPLjGSMTw&oe=6B003A3F"
   },
   "summary": {
     "followers_count": 3,
-    "views": 144,
+    "views": 162,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 1,
-    "engagement_rate": 0.69,
+    "engagement_rate": 0.62,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -34,6 +34,21 @@
         "shares": 0
       },
       "engagement": 1
+    },
+    {
+      "id": "17936506977421814",
+      "text": "A kid who cries over something that seems small is usually not crying about that thing.\nThey've been holding it since br",
+      "permalink": "https://www.threads.com/@thelittlechicco/post/Dfx6Y4UCfyL",
+      "timestamp": "2026-11-15T23:01:30+0000",
+      "metrics": {
+        "views": 18,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
     },
     {
       "id": "18118786694022080",
@@ -79,14 +94,16 @@
         "shares": 0
       },
       "engagement": 0
-    },
+    }
+  ],
+  "recent_posts": [
     {
-      "id": "18160247716519830",
-      "text": "When a kid shuts down after one wrong answer, they're not being sensitive.\nThey're telling you the stakes felt higher th",
-      "permalink": "https://www.threads.com/@thelittlechicco/post/Dfwu20jFgW_",
-      "timestamp": "2026-11-15T12:01:26+0000",
+      "id": "17936506977421814",
+      "text": "A kid who cries over something that seems small is usually not crying about that thing.\nThey've been holding it since br",
+      "permalink": "https://www.threads.com/@thelittlechicco/post/Dfx6Y4UCfyL",
+      "timestamp": "2026-11-15T23:01:30+0000",
       "metrics": {
-        "views": 0,
+        "views": 18,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -94,9 +111,7 @@
         "shares": 0
       },
       "engagement": 0
-    }
-  ],
-  "recent_posts": [
+    },
     {
       "id": "18118786694022080",
       "text": "Say a word. They repeat it in a sentence. Then they say a word — you use it in a sentence.\nBack and forth, no paper need",
@@ -231,21 +246,6 @@
         "shares": 0
       },
       "engagement": 1
-    },
-    {
-      "id": "17925670755221981",
-      "text": "A kid who goes quiet during a tutoring session isn't always lost.\nSometimes they're just carrying something heavy that w",
-      "permalink": "https://www.threads.com/@thelittlechicco/post/DfuKD4oEbTm",
-      "timestamp": "2026-11-14T12:01:28+0000",
-      "metrics": {
-        "views": 37,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
     }
   ]
 }
