@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-11-16T02:51:10.959Z",
+  "updated_at": "2026-11-16T11:43:08.850Z",
   "profile": {
     "username": "iams_ichi",
     "name": "I.petch",
     "biography": "🇦🇺\nCMO at COA.AU &\nNo-Code App Builder\nOnly Positive Vibes\nIt’s about the vibe and the feeling. \nThe names of the places? 🤔",
-    "picture": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ig_cache_key=GP7jVy3SUhQ8xp4-AMBIEGSqJAN4bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=DZ1C56YoT5wQ7kNvwGkrkuH&_nc_oc=AdqtuWi6k9IE2CsP9KjPF7VHsbSBn2-mCJCVBvLOi3-OOS7wGxCdKdlRqllpFHIP4lk&_nc_zt=24&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=N5lO4Cs04AJRWy7LDjue3w&_nc_tpa=Q5bMBQJd1SchOTG0_d23KTew9w9qcpuWGfwA5A541Fzyxmnhlj8KbKOf_8ZRug-tz4RZDcUfrZYOA1fotQ&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQSNhN0g7FNG0GeW8xbnwBkVsabiO3h5NKfGGeGpZKRGSQ&oe=6B00335E"
+    "picture": "https://scontent-dfw6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ig_cache_key=GP7jVy3SUhQ8xp4-AMBIEGSqJAN4bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=DZ1C56YoT5wQ7kNvwGTWsML&_nc_oc=AdrfAle25m2RZerV8sQe17EBrcbWtmIYYiuf5Agr3ENY5CrJlbj_qRvoQ-lwPYxEpXE&_nc_zt=24&_nc_ht=scontent-dfw6-1.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=g_gSi8vHqzqcLOaoFZqKJA&_nc_tpa=Q5bMBQIDpagJqh5LOC5wN1Ok8Wn5_fdzQ_uFy5_WYZJAl4J76lIx6qHUUJgft1XmzLWZBK7V8Ef_w49tuA&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQT5VKyRjreXVr60IVvUjqehTtidvargnXt0XfsQCJR-Rg&oe=6B00A3DE"
   },
   "summary": {
     "followers_count": 1402,
-    "views": 99,
-    "likes": 1,
+    "views": 23,
+    "likes": 0,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 124,
-    "engagement_rate": 125.25,
+    "engagement_total": 108,
+    "engagement_rate": 469.57,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -52,21 +52,6 @@
       "engagement": 24
     },
     {
-      "id": "17867259186695605",
-      "text": "Checked a property near Bundaberg yesterday — lunch was fish and chips from a servo, eaten in the car watching cows.\nDin",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DfZxbiUFe2N",
-      "timestamp": "2026-11-06T14:01:23+0000",
-      "metrics": {
-        "views": 200,
-        "likes": 10,
-        "replies": 3,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 13
-    },
-    {
       "id": "18118741072806167",
       "text": "Kyoto has this unspoken rule where nobody makes eye contact on the street — but the second you step into a small machiya",
       "permalink": "https://www.threads.com/@iams_ichi/post/DfgNbRREXZ4",
@@ -95,16 +80,31 @@
         "shares": 0
       },
       "engagement": 9
+    },
+    {
+      "id": "18450320041133050",
+      "text": "Gold Coast has approximately 400 cafes and somehow I have a regular at three of them.\nNot because the coffee is life-cha",
+      "permalink": "https://www.threads.com/@iams_ichi/post/Dfhf0rgGyMH",
+      "timestamp": "2026-11-09T14:01:28+0000",
+      "metrics": {
+        "views": 207,
+        "likes": 7,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 8
     }
   ],
   "recent_posts": [
     {
-      "id": "18123506005952700",
-      "text": "Unpopular opinion: Tokyo is actually better for introverts than most European cities.\nThe city is loud but it never dema",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DfyO_DVDUKz",
-      "timestamp": "2026-11-16T02:01:26+0000",
+      "id": "18076023758742022",
+      "text": "Everyone told me Trastevere at night was a tourist trap — overcrowded, overpriced, skip it.\nSpent an evening just wander",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DfzF6Rfkagd",
+      "timestamp": "2026-11-16T10:01:22+0000",
       "metrics": {
-        "views": 55,
+        "views": 9,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -112,6 +112,36 @@
         "shares": 0
       },
       "engagement": 0
+    },
+    {
+      "id": "18399684289161245",
+      "text": "Pulled into a farm stay outside Melbourne for work — checking it out for COA.\nSat on the verandah for twenty minutes bef",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DfyqcQZDnJa",
+      "timestamp": "2026-11-16T06:01:20+0000",
+      "metrics": {
+        "views": 5,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
+      "id": "18123506005952700",
+      "text": "Unpopular opinion: Tokyo is actually better for introverts than most European cities.\nThe city is loud but it never dema",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DfyO_DVDUKz",
+      "timestamp": "2026-11-16T02:01:26+0000",
+      "metrics": {
+        "views": 98,
+        "likes": 2,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 2
     },
     {
       "id": "18134535199816240",
@@ -217,36 +247,6 @@
         "shares": 0
       },
       "engagement": 1
-    },
-    {
-      "id": "18438245758198698",
-      "text": "Slipping into an onsen at 10pm, snow falling outside, completely alone in the water.\nThat specific silence hit different",
-      "permalink": "https://www.threads.com/@iams_ichi/post/Dfn7ym7DdJb",
-      "timestamp": "2026-11-12T02:01:18+0000",
-      "metrics": {
-        "views": 13,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18115834664608120",
-      "text": "I just realized I spent three hours driving through the Grampians genuinely forgetting I had somewhere to be.\nThat hasn'",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DfmpaB-FfRN",
-      "timestamp": "2026-11-11T14:01:25+0000",
-      "metrics": {
-        "views": 97,
-        "likes": 0,
-        "replies": 2,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 2
     }
   ]
 }
