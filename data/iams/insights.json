@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-11-15T22:57:59.890Z",
+  "updated_at": "2026-11-16T02:51:10.959Z",
   "profile": {
     "username": "iams_ichi",
     "name": "I.petch",
     "biography": "🇦🇺\nCMO at COA.AU &\nNo-Code App Builder\nOnly Positive Vibes\nIt’s about the vibe and the feeling. \nThe names of the places? 🤔",
-    "picture": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ig_cache_key=GP7jVy3SUhQ8xp4-AMBIEGSqJAN4bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=DZ1C56YoT5wQ7kNvwFyViu9&_nc_oc=Adqwb4GkZrwVqGgqhQ7nBNs6gmnzsx96Uc30HO7UM4kHE7WrsdXi1o95TdQXvIYrKHU&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=m-Ax0G-i_aPyF2xyB3rN7g&_nc_tpa=Q5bMBQJ1QbSr47EnOqAaR7uDZ5yKUDlbeF1Hai-1KIrhWPPYBZeF55E6x74jwwc4-9WxTXHIHE9BnjE4Kw&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQTVwzukSz3MIhXt1J3JXgC7XHFpxf6qx6ZF7v7uC9Vcrw&oe=6AFFFB1E"
+    "picture": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ig_cache_key=GP7jVy3SUhQ8xp4-AMBIEGSqJAN4bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=DZ1C56YoT5wQ7kNvwGkrkuH&_nc_oc=AdqtuWi6k9IE2CsP9KjPF7VHsbSBn2-mCJCVBvLOi3-OOS7wGxCdKdlRqllpFHIP4lk&_nc_zt=24&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=N5lO4Cs04AJRWy7LDjue3w&_nc_tpa=Q5bMBQJd1SchOTG0_d23KTew9w9qcpuWGfwA5A541Fzyxmnhlj8KbKOf_8ZRug-tz4RZDcUfrZYOA1fotQ&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQSNhN0g7FNG0GeW8xbnwBkVsabiO3h5NKfGGeGpZKRGSQ&oe=6B00335E"
   },
   "summary": {
     "followers_count": 1402,
-    "views": 34,
+    "views": 99,
     "likes": 1,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 124,
-    "engagement_rate": 364.71,
+    "engagement_rate": 125.25,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -98,6 +98,21 @@
     }
   ],
   "recent_posts": [
+    {
+      "id": "18123506005952700",
+      "text": "Unpopular opinion: Tokyo is actually better for introverts than most European cities.\nThe city is loud but it never dema",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DfyO_DVDUKz",
+      "timestamp": "2026-11-16T02:01:26+0000",
+      "metrics": {
+        "views": 55,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
     {
       "id": "18134535199816240",
       "text": "NSW south coast towns have this unspoken rule: the scruffier the fish and chip shop looks, the longer the local queue ou",
@@ -232,21 +247,6 @@
         "shares": 0
       },
       "engagement": 2
-    },
-    {
-      "id": "18101064353098055",
-      "text": "Unpopular opinion: Barcelona is wasted on people who only have 3 days.\nYou need at least one slow morning with nowhere t",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DfmN71XnMbo",
-      "timestamp": "2026-11-11T10:01:22+0000",
-      "metrics": {
-        "views": 316,
-        "likes": 8,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 9
     }
   ]
 }
