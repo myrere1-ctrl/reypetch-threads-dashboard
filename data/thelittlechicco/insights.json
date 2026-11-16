@@ -1,21 +1,21 @@
 {
   "account": "thelittlechicco",
-  "updated_at": "2026-11-16T02:52:36.444Z",
+  "updated_at": "2026-11-16T11:44:41.649Z",
   "profile": {
     "username": "thelittlechicco",
     "biography": "The Little Chic Co. \nYou don’t need to be a teacher to explore English with your child. \n💛 Grab my FREE illustrated parent guide and activity PDF ⬇️",
-    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/858088504_18111221842951330_744590156036230358_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ig_cache_key=GDhkJTOivGVwD1hAANbMyknNUFUKbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=rd3qB9x4_w8Q7kNvwHhXNC8&_nc_oc=AdqEAV4lhbpqgF4XQKwCBlN4M5itepjmX8VxjWk4-3ab4bB4hA-R4eUASYRYSyKnUAw&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=brvtaqxvxcPif4Rr-iEh2Q&_nc_tpa=Q5bMBQLJ7ndMuzdQGrqfEMc3cmGtkGL8IsbjUEjKNm9XoglIkxnuDNCHxP9Y3H6LXFVsk08y2QCjajwtUQ&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQS_1ZwxMgDdDCEUnm2ynaUOxCTKnx1-CKAy7QPLjGSMTw&oe=6B003A3F"
+    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/910384646_18119299813951330_5086466759080467333_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ig_cache_key=GAZeQzZiR-08aF9AAIXb0nCRwpZGbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=7sqc_gcqgLAQ7kNvwEFwLoO&_nc_oc=Adpdfg8obIK_ispoAWJlgaXJyPVfd9pXA1GU1YKqT_uKJVHEks7eziYi9ovmuijgDRQ&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=kEWlu5bTlxOkIYXeRyk3iA&_nc_tpa=Q5bMBQJkqqe2zuHSEa55HUd9HUUry_xM3oTi214kPtGlGcPm7rmc3VUPHYNMzR7-WK3BFVU0pL4YU8l24Q&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQQFJuB8zmApI18YGEjA9HwHVxwjA-dmKChMkzI7IqL5Kw&oe=6B00B98A"
   },
   "summary": {
     "followers_count": 3,
-    "views": 162,
+    "views": 38,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 1,
-    "engagement_rate": 0.62,
+    "engagement_rate": 2.63,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -34,6 +34,21 @@
         "shares": 0
       },
       "engagement": 1
+    },
+    {
+      "id": "17919318795465452",
+      "text": "Kids learn a new word the moment it becomes useful to them — not the moment it's introduced.\nThe gap between hearing som",
+      "permalink": "https://www.threads.com/@thelittlechicco/post/Dfy4Muim2A7",
+      "timestamp": "2026-11-16T08:01:34+0000",
+      "metrics": {
+        "views": 38,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
     },
     {
       "id": "17936506977421814",
@@ -79,14 +94,16 @@
         "shares": 0
       },
       "engagement": 0
-    },
+    }
+  ],
+  "recent_posts": [
     {
-      "id": "18382716247238114",
-      "text": "Write a sentence on a slip of paper. Cut it into individual words. Hand over the pile and walk away.\nThat's summer gramm",
-      "permalink": "https://www.threads.com/@thelittlechicco/post/Dfw8l0RlnON",
-      "timestamp": "2026-11-15T14:01:27+0000",
+      "id": "17919318795465452",
+      "text": "Kids learn a new word the moment it becomes useful to them — not the moment it's introduced.\nThe gap between hearing som",
+      "permalink": "https://www.threads.com/@thelittlechicco/post/Dfy4Muim2A7",
+      "timestamp": "2026-11-16T08:01:34+0000",
       "metrics": {
-        "views": 47,
+        "views": 38,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -94,9 +111,7 @@
         "shares": 0
       },
       "engagement": 0
-    }
-  ],
-  "recent_posts": [
+    },
     {
       "id": "17936506977421814",
       "text": "A kid who cries over something that seems small is usually not crying about that thing.\nThey've been holding it since br",
@@ -231,21 +246,6 @@
         "shares": 0
       },
       "engagement": 0
-    },
-    {
-      "id": "18017869736971633",
-      "text": "The tricky part of designing for early English learners isn't the vocabulary — it's the pacing.\nIntroduce too much at on",
-      "permalink": "https://www.threads.com/@thelittlechicco/post/DfuXzKhFatk",
-      "timestamp": "2026-11-14T14:01:29+0000",
-      "metrics": {
-        "views": 41,
-        "likes": 1,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
     }
   ]
 }
