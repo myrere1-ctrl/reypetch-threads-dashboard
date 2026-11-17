@@ -1,21 +1,21 @@
 {
   "account": "thelittlechicco",
-  "updated_at": "2026-11-16T22:19:50.413Z",
+  "updated_at": "2026-11-17T04:39:54.080Z",
   "profile": {
     "username": "thelittlechicco",
     "biography": "The Little Chic Co. \nYou don’t need to be a teacher to explore English with your child. \n💛 Grab my FREE illustrated parent guide and activity PDF ⬇️",
-    "picture": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/910384646_18119299813951330_5086466759080467333_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ig_cache_key=GAZeQzZiR-08aF9AAIXb0nCRwpZGbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=Wm8W2e1TWTwQ7kNvwHNO2AQ&_nc_oc=AdrdgX2FotALwtqAkFztbQCw_CohyBOr7Q_6vBgGWMjVLZG386XH1imkqgKQll_Od1U&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=9WB463XapoqtjgAntn5QRQ&_nc_tpa=Q5bMBQK3hnUhj7X0wJ0rG_Yr95OYIyUMcJYzqn44_jrP7El4rehj9gkvVSufLeSEX1FwODvyg2QJqZGB2w&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQTNAOtc7qsoG1IFca9KPLpCKn1EebN4K5adE4det1LBsA&oe=6B01624A"
+    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/910384646_18119299813951330_5086466759080467333_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ig_cache_key=GAZeQzZiR-08aF9AAIXb0nCRwpZGbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=Wm8W2e1TWTwQ7kNvwEaEQtY&_nc_oc=AdoTFvc8bhnwLEIXDfdLM7m2g49rCmTURE41PaOMsbsHLOIOiB9Y0dIgCkrDXQE0IXU&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=HaDZmtW3XUlcEFDkNYp1UA&_nc_tpa=Q5bMBQJAXGj3qmP7Yji6RJCHItR5ESxw7m-gR8KZ2ReTWDyTCMsyUkmRozbAWsY3UEiBqMIYzuF3rzrTQA&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQRqIa5b-1UaCziWtpXUYJI6jQIR7rOYPj1yfJbHdWaN-w&oe=6B019A8A"
   },
   "summary": {
     "followers_count": 3,
-    "views": 130,
+    "views": 145,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 1,
-    "engagement_rate": 0.77,
+    "engagement_rate": 0.69,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -34,6 +34,21 @@
         "shares": 0
       },
       "engagement": 1
+    },
+    {
+      "id": "17978842206170603",
+      "text": "The tricky part of designing a first-sentences workbook isn't the sentences — it's the entry point.\nToo much scaffolding",
+      "permalink": "https://www.threads.com/@thelittlechicco/post/Df0fLGnn3Hp",
+      "timestamp": "2026-11-16T23:01:22+0000",
+      "metrics": {
+        "views": 15,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
     },
     {
       "id": "17905343550370952",
@@ -79,14 +94,16 @@
         "shares": 0
       },
       "engagement": 0
-    },
+    }
+  ],
+  "recent_posts": [
     {
-      "id": "17918836992534957",
-      "text": "Pick a room. Take turns pointing at things and making up a sentence about them.\nThe lamp is old. The door is loud. The r",
-      "permalink": "https://www.threads.com/@thelittlechicco/post/DfzTpndlvOy",
-      "timestamp": "2026-11-16T12:01:26+0000",
+      "id": "17978842206170603",
+      "text": "The tricky part of designing a first-sentences workbook isn't the sentences — it's the entry point.\nToo much scaffolding",
+      "permalink": "https://www.threads.com/@thelittlechicco/post/Df0fLGnn3Hp",
+      "timestamp": "2026-11-16T23:01:22+0000",
       "metrics": {
-        "views": 29,
+        "views": 15,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -94,9 +111,7 @@
         "shares": 0
       },
       "engagement": 0
-    }
-  ],
-  "recent_posts": [
+    },
     {
       "id": "17905343550370952",
       "text": "Structured study habits don't usually stick because of the structure.\nThey stick because something in the routine made t",
@@ -224,21 +239,6 @@
       "timestamp": "2026-11-15T14:01:27+0000",
       "metrics": {
         "views": 47,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18160247716519830",
-      "text": "When a kid shuts down after one wrong answer, they're not being sensitive.\nThey're telling you the stakes felt higher th",
-      "permalink": "https://www.threads.com/@thelittlechicco/post/Dfwu20jFgW_",
-      "timestamp": "2026-11-15T12:01:26+0000",
-      "metrics": {
-        "views": 0,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
