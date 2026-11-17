@@ -1,21 +1,21 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-11-17T14:40:10.603Z",
+  "updated_at": "2026-11-17T22:59:33.941Z",
   "profile": {
     "username": "_iame.hijrah",
     "biography": "Hijrah Journey \nInbox ➡️Akses Safar AI",
-    "picture": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ig_cache_key=GHPulixGDYKQ0TVAAKrnbOIoMBtnbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=2ZQ3H294yrMQ7kNvwFVoLKz&_nc_oc=Adq3mkd0pmcxay4xCosU6LUBJi4z4B5xSIV1WQ7r7SjvTmWoy05F2-XTrT7liJ8JuGo&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=0AsVxAN6vC3dklbeQBX-mw&_nc_tpa=Q5bMBQK29YRTNG2b3gkjJhtOsvDX9SWobgff4HxEkiEHi4cCdN5CvFsMuftpdm2QxhHkrR5WwBqQxWZfAg&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQQ6rcQx-18RQV9-Kw4-5nt6t41WinyfCsZdxWYJuaAmDQ&oe=6B021F13"
+    "picture": "https://scontent-atl3-2.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ig_cache_key=GHPulixGDYKQ0TVAAKrnbOIoMBtnbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=2ZQ3H294yrMQ7kNvwEewKtf&_nc_oc=AdouSrh85OhiY5g0aTLDUp-F8vXChRCUWWww433K-OgBtxg9ES1kK4_cilEjnYU_vYg&_nc_zt=24&_nc_ht=scontent-atl3-2.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=NeLMR4iFJr02rXz6R54lEw&_nc_tpa=Q5bMBQI6H-FEHOCd-v7gQMnQFBkcWdjPydeON_A1LXaWJA1bgmMFqP3y8XlIBkhMieQXqMIm3Vg-ZCMoEA&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQTcB2sFbpI2ivI3isqjsvXtTiCzhOSweXdPhteMk0iZ4w&oe=6B02C7D3"
   },
   "summary": {
     "followers_count": 11,
-    "views": 205,
-    "likes": 1,
+    "views": 473,
+    "likes": 2,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 52,
-    "engagement_rate": 25.37,
+    "engagement_total": 51,
+    "engagement_rate": 10.78,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -98,10 +98,25 @@
   ],
   "recent_posts": [
     {
-      "id": "17914733715483313",
-      "text": "Ayat Kursi — aku baca tiap malam, tapi sejujurnya... dulu itu cuma ritual. Autopilot.\nMalam ini aku coba baca pelan-pela",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Df2JntjkWWJ",
-      "timestamp": "2026-11-17T14:31:31+0000",
+      "id": "18119635445016087",
+      "text": "Lagi ngerasa semua jalan buntu dan pikiran ga bisa berhenti?\nAku biasanya di titik itu langsung overthinking — nyari sol",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Df29H9Igd7h",
+      "timestamp": "2026-11-17T22:01:34+0000",
+      "metrics": {
+        "views": 65,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "17923447158447686",
+      "text": "Ibu aku selalu bilang — kalau ngerasa berat banget, perbanyak istighfar.\nDulu aku kira itu jawaban yang terlalu simpel b",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Df2T72IFvDb",
+      "timestamp": "2026-11-17T16:01:38+0000",
       "metrics": {
         "views": 0,
         "likes": 0,
@@ -111,6 +126,21 @@
         "shares": 0
       },
       "engagement": 0
+    },
+    {
+      "id": "17914733715483313",
+      "text": "Ayat Kursi — aku baca tiap malam, tapi sejujurnya... dulu itu cuma ritual. Autopilot.\nMalam ini aku coba baca pelan-pela",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Df2JntjkWWJ",
+      "timestamp": "2026-11-17T14:31:31+0000",
+      "metrics": {
+        "views": 188,
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
     },
     {
       "id": "17962751013259114",
@@ -133,7 +163,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Df11AtkGyA4",
       "timestamp": "2026-11-17T11:31:25+0000",
       "metrics": {
-        "views": 85,
+        "views": 87,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -178,7 +208,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Df0s7tillWS",
       "timestamp": "2026-11-17T01:01:36+0000",
       "metrics": {
-        "views": 124,
+        "views": 127,
         "likes": 2,
         "replies": 0,
         "reposts": 0,
@@ -193,7 +223,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/Df0YUqkG4Su",
       "timestamp": "2026-11-16T22:01:30+0000",
       "metrics": {
-        "views": 334,
+        "views": 339,
         "likes": 2,
         "replies": 0,
         "reposts": 0,
@@ -208,37 +238,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DfzvI_ZkXaI",
       "timestamp": "2026-11-16T16:01:39+0000",
       "metrics": {
-        "views": 6,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18133568626700265",
-      "text": "Nenek aku selalu bilang, kalau ada yang berat di hati — baca Yasin dulu sebelum ngeluh ke siapa pun.\nDulu aku anggap itu",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Dfzk0HCkbPE",
-      "timestamp": "2026-11-16T14:31:24+0000",
-      "metrics": {
-        "views": 18,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18135262435666732",
-      "text": "Malam ini tiba-tiba ngerasa rindu Tanah Suci — padahal belum pernah ke sana.\nAneh ya? Rindu ke tempat yang belum pernah ",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DfzakUqmxQD",
-      "timestamp": "2026-11-16T13:01:52+0000",
-      "metrics": {
-        "views": 0,
+        "views": 7,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
