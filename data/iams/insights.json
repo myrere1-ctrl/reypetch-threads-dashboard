@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-11-17T04:38:21.366Z",
+  "updated_at": "2026-11-17T14:39:26.473Z",
   "profile": {
     "username": "iams_ichi",
     "name": "I.petch",
     "biography": "🇦🇺\nCMO at COA.AU &\nNo-Code App Builder\nOnly Positive Vibes\nIt’s about the vibe and the feeling. \nThe names of the places? 🤔",
-    "picture": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ig_cache_key=GP7jVy3SUhQ8xp4-AMBIEGSqJAN4bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=DZ1C56YoT5wQ7kNvwHQX401&_nc_oc=Adoyj2yM-MCwwBpbMtXhiodlQZQvhm9hMlBLygJmv2Ii1CBs1K5bTtCMd-lJKKaYu1Q&_nc_zt=24&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=-Ssr9uzU552JE71yx6Mmjw&_nc_tpa=Q5bMBQJI2KPYJd6d1KVSzlyCSSmgTUsROevZJQ6ii_81WZwQsImsdN3S85KvXaTO2OiwAn4FOxuL4CUBWA&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQRXn4ux-FfJOD-DYiDtAIXL7rBhuDmLnB0xjVJTDRsG5g&oe=6B01BD1E"
+    "picture": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ig_cache_key=GP7jVy3SUhQ8xp4-AMBIEGSqJAN4bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=DZ1C56YoT5wQ7kNvwHuSbZQ&_nc_oc=Ado58NVSr232pSJMEYIeuC02methzGSFSTbkE9UQQVwy0jv_Z0vxSGTgJbVqMoHvYC4&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=CBaFdqXw4Dgc4rY-drhXTw&_nc_tpa=Q5bMBQJl5yHSGxJ-h55w-eNG2Kbu1UjFd4zR1dkrlNE-9w2sL4-PBQ3sxJ58p8FdhqzMQoK6OZf5hj5A4A&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQT5sSPX6B7JOw8AXOFNKPeOR7SefM6WrdCBDLgV8Atp6Q&oe=6B022D9E"
   },
   "summary": {
     "followers_count": 1403,
-    "views": 113,
+    "views": 36,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 107,
-    "engagement_rate": 94.69,
+    "engagement_total": 73,
+    "engagement_rate": 202.78,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -35,36 +35,6 @@
         "shares": 1
       },
       "engagement": 24
-    },
-    {
-      "id": "18108670496220599",
-      "text": "Paris is loud and crowded and everyone performs confidence like it's mandatory.\nI found my reset in a boulangerie just o",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DfhEWhWFUlp",
-      "timestamp": "2026-11-09T10:01:25+0000",
-      "metrics": {
-        "views": 519,
-        "likes": 9,
-        "replies": 15,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 24
-    },
-    {
-      "id": "18118741072806167",
-      "text": "Kyoto has this unspoken rule where nobody makes eye contact on the street — but the second you step into a small machiya",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DfgNbRREXZ4",
-      "timestamp": "2026-11-09T02:01:29+0000",
-      "metrics": {
-        "views": 481,
-        "likes": 9,
-        "replies": 2,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 11
     },
     {
       "id": "18101064353098055",
@@ -95,16 +65,91 @@
         "shares": 0
       },
       "engagement": 8
+    },
+    {
+      "id": "18017004842756158",
+      "text": "Hokkaido in winter: everyone's bundled up, roads are iced over, and somehow the convenience store is still the warmest, ",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DfiyNcvG71e",
+      "timestamp": "2026-11-10T02:01:22+0000",
+      "metrics": {
+        "views": 116,
+        "likes": 5,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 5
+    },
+    {
+      "id": "18200291881394588",
+      "text": "Everyone says Italy is expensive if you sit down at a café. Technically true — but only if you don't know how it actuall",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DfrXhwRlu_v",
+      "timestamp": "2026-11-13T10:01:22+0000",
+      "metrics": {
+        "views": 38,
+        "likes": 0,
+        "replies": 4,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 4
     }
   ],
   "recent_posts": [
+    {
+      "id": "18249412039315655",
+      "text": "I just realized I've lived on the Gold Coast long enough that I stopped actually seeing it.\nWalked Burleigh headland thi",
+      "permalink": "https://www.threads.com/@iams_ichi/post/Df2GK75m3FO",
+      "timestamp": "2026-11-17T14:01:22+0000",
+      "metrics": {
+        "views": 1,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
+      "id": "18139231678649243",
+      "text": "Unpopular opinion: El Born is overrated — but only if you stay on the main drag.\nDuck into the smaller streets behind th",
+      "permalink": "https://www.threads.com/@iams_ichi/post/Df1qs7tkf-k",
+      "timestamp": "2026-11-17T10:01:21+0000",
+      "metrics": {
+        "views": 6,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "18173663080422331",
+      "text": "I just realized I'd been sleeping on the NSW south coast for years — always rushing through to get somewhere else.\nStopp",
+      "permalink": "https://www.threads.com/@iams_ichi/post/Df1POtSkTQU",
+      "timestamp": "2026-11-17T06:01:17+0000",
+      "metrics": {
+        "views": 29,
+        "likes": 2,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 3
+    },
     {
       "id": "17887299564691767",
       "text": "Osaka people eat takoyaki while walking, standing, sitting on a curb, literally anywhere.\nBut ask them to split a restau",
       "permalink": "https://www.threads.com/@iams_ichi/post/Df0zw6KidPo",
       "timestamp": "2026-11-17T02:01:17+0000",
       "metrics": {
-        "views": 25,
+        "views": 29,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -202,51 +247,6 @@
         "shares": 0
       },
       "engagement": 4
-    },
-    {
-      "id": "18083977976352183",
-      "text": "$6 cold brew from a tiny window on Burleigh, eaten — drunk? — sitting on the curb.\nAn hour later, walking into a proper ",
-      "permalink": "https://www.threads.com/@iams_ichi/post/Dfq8EqFm4hR",
-      "timestamp": "2026-11-13T06:01:28+0000",
-      "metrics": {
-        "views": 9,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "17993658845864504",
-      "text": "Sakura season sounds chaotic — crowds, queues, everyone chasing the same park.\nTurned up anyway. Spent most of it wander",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DfqgpOMDWQ7",
-      "timestamp": "2026-11-13T02:01:48+0000",
-      "metrics": {
-        "views": 11,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18073196900772259",
-      "text": "I just realized I spent years lowkey dismissing Melbourne as \"just another city\" because I live near the beach and figur",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DfpOM_TFkFK",
-      "timestamp": "2026-11-12T14:01:25+0000",
-      "metrics": {
-        "views": 634,
-        "likes": 22,
-        "replies": 2,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 1
-      },
-      "engagement": 24
     }
   ]
 }
