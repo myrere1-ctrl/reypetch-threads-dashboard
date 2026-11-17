@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-11-16T22:18:23.817Z",
+  "updated_at": "2026-11-17T04:38:21.366Z",
   "profile": {
     "username": "iams_ichi",
     "name": "I.petch",
     "biography": "🇦🇺\nCMO at COA.AU &\nNo-Code App Builder\nOnly Positive Vibes\nIt’s about the vibe and the feeling. \nThe names of the places? 🤔",
-    "picture": "https://scontent-dfw6-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ig_cache_key=GP7jVy3SUhQ8xp4-AMBIEGSqJAN4bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=DZ1C56YoT5wQ7kNvwG-KI1Q&_nc_oc=AdpRnFZA7DEfldbuorl5LxxfphAYdPqqbVHrTZ6-1jKxkwm1RsT_Mdqy7u8CR4zQXtk&_nc_zt=24&_nc_ht=scontent-dfw6-1.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=D6qkE2xFG9ymksXPjmubRA&_nc_tpa=Q5bMBQId8zFywSvvv2ZLsptdVXWGe1iChylIK5kB5pfgCGcDaXLX-N3jocInsyB8ZqllnXvkjdFCzmtKsQ&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQTbEOLhYHea0XsAZ9PJFrlLUDMXbltY8DkQpadRc0B1bg&oe=6B014C9E"
+    "picture": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ig_cache_key=GP7jVy3SUhQ8xp4-AMBIEGSqJAN4bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=DZ1C56YoT5wQ7kNvwHQX401&_nc_oc=Adoyj2yM-MCwwBpbMtXhiodlQZQvhm9hMlBLygJmv2Ii1CBs1K5bTtCMd-lJKKaYu1Q&_nc_zt=24&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=-Ssr9uzU552JE71yx6Mmjw&_nc_tpa=Q5bMBQJI2KPYJd6d1KVSzlyCSSmgTUsROevZJQ6ii_81WZwQsImsdN3S85KvXaTO2OiwAn4FOxuL4CUBWA&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQRXn4ux-FfJOD-DYiDtAIXL7rBhuDmLnB0xjVJTDRsG5g&oe=6B01BD1E"
   },
   "summary": {
     "followers_count": 1403,
-    "views": 63,
+    "views": 113,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 108,
-    "engagement_rate": 171.43,
+    "engagement_total": 107,
+    "engagement_rate": 94.69,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -99,12 +99,27 @@
   ],
   "recent_posts": [
     {
+      "id": "17887299564691767",
+      "text": "Osaka people eat takoyaki while walking, standing, sitting on a curb, literally anywhere.\nBut ask them to split a restau",
+      "permalink": "https://www.threads.com/@iams_ichi/post/Df0zw6KidPo",
+      "timestamp": "2026-11-17T02:01:17+0000",
+      "metrics": {
+        "views": 25,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "18103379630647280",
       "text": "Pulled into a little caravan park outside town for a COA check — full work mode.\nEnded up spending an hour on the foresh",
       "permalink": "https://www.threads.com/@iams_ichi/post/DfzhX6nmyLz",
       "timestamp": "2026-11-16T14:01:21+0000",
       "metrics": {
-        "views": 5,
+        "views": 6,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -119,7 +134,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DfzF6Rfkagd",
       "timestamp": "2026-11-16T10:01:22+0000",
       "metrics": {
-        "views": 12,
+        "views": 14,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -149,7 +164,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DfyO_DVDUKz",
       "timestamp": "2026-11-16T02:01:26+0000",
       "metrics": {
-        "views": 103,
+        "views": 107,
         "likes": 2,
         "replies": 0,
         "reposts": 0,
@@ -232,21 +247,6 @@
         "shares": 1
       },
       "engagement": 24
-    },
-    {
-      "id": "18289800547291279",
-      "text": "France taught me that disappearing mid-trip is not rude — it's survival.\nFound a quiet corner in a Lyon boulangerie, ord",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DfoyuKnEQ5R",
-      "timestamp": "2026-11-12T10:01:18+0000",
-      "metrics": {
-        "views": 27,
-        "likes": 2,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 2
     }
   ]
 }
