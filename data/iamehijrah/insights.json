@@ -1,21 +1,21 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-11-16T22:19:03.737Z",
+  "updated_at": "2026-11-17T04:38:58.992Z",
   "profile": {
     "username": "_iame.hijrah",
     "biography": "Hijrah Journey \nInbox ➡️Akses Safar AI",
-    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ig_cache_key=GHPulixGDYKQ0TVAAKrnbOIoMBtnbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=vXCgT_j21QUQ7kNvwGOjyJz&_nc_oc=AdpWpYADhwGXVZjy0Fk61MwC_-ZhtBrVw-wv6RDpy7i2ZRgeafG-yXwN-ZnKb8lISS8&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=j2rve_rJBF-IG6UqxDmKOw&_nc_tpa=Q5bMBQJfZ0QfVC6umKPAqCYO7it4QCoylJ9KozE9-40qmwvmgmD8egWHLclShpu4MFIAz7g3MZjbeBJZ8A&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQQt9IcHV3dGe6oFq8ItzIz9F_cC_jNUBInxN-kDdo0fhA&oe=6B013E13"
+    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ig_cache_key=GHPulixGDYKQ0TVAAKrnbOIoMBtnbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=vXCgT_j21QUQ7kNvwEebOfG&_nc_oc=AdrqlU1jOg08h-jYNvPRTW1_mVFnESijVLlJESy_BexUOm0RytgWW0eC1fhIyJMD6BE&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=oukKqKwoWZzrVeFzu6k-Lg&_nc_tpa=Q5bMBQK-c1EKwE_OZSuwiAy3IXBRyJKqmpVo75r91oNwn9pxEyVr5raRkMAl_rfBNgK-49WByC2nM3T0OA&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQTVBcYcaEZOm2XJjPp-yBGfI4ym60IbgGfiTGTUcQHxIQ&oe=6B01AE93"
   },
   "summary": {
     "followers_count": 11,
-    "views": 115,
-    "likes": 2,
+    "views": 577,
+    "likes": 6,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 49,
-    "engagement_rate": 42.61,
+    "engagement_total": 51,
+    "engagement_rate": 8.84,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -98,19 +98,34 @@
   ],
   "recent_posts": [
     {
-      "id": "18118524413030216",
-      "text": "Malam ini, aku tanya diri sendiri — sedekah terakhir aku kapan?\nBukan buat ngehitung pahala. Tapi karena aku sadar, maki",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Df0YUqkG4Su",
-      "timestamp": "2026-11-16T22:01:30+0000",
+      "id": "18040752146847760",
+      "text": "Ada amalan yang aku bakal rekomen kalau lagi ngerasa jauh banget dari Allah — dan ini bukan yang biasanya disebut pertam",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Df0s7tillWS",
+      "timestamp": "2026-11-17T01:01:36+0000",
       "metrics": {
-        "views": 0,
-        "likes": 1,
+        "views": 118,
+        "likes": 2,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 1
+      "engagement": 2
+    },
+    {
+      "id": "18118524413030216",
+      "text": "Malam ini, aku tanya diri sendiri — sedekah terakhir aku kapan?\nBukan buat ngehitung pahala. Tapi karena aku sadar, maki",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/Df0YUqkG4Su",
+      "timestamp": "2026-11-16T22:01:30+0000",
+      "metrics": {
+        "views": 329,
+        "likes": 2,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 2
     },
     {
       "id": "18115967744605075",
@@ -193,14 +208,14 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DfynBLbFAuF",
       "timestamp": "2026-11-16T05:31:25+0000",
       "metrics": {
-        "views": 132,
-        "likes": 2,
+        "views": 147,
+        "likes": 3,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 2
+      "engagement": 3
     },
     {
       "id": "18335632945263598",
@@ -231,21 +246,6 @@
         "shares": 0
       },
       "engagement": 0
-    },
-    {
-      "id": "17925073659445209",
-      "text": "3 Sholat Sunnah yang Bisa Ubah Hidupmu — Tapi 90% Muslim Belum Tau Cara Benarnya \n\n1/** Kamu udah sholat 5 waktu. Tapi h",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DfvVfE4iOm7",
-      "timestamp": "2026-11-14T22:59:58+0000",
-      "metrics": {
-        "views": 6,
-        "likes": 0,
-        "replies": 6,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 6
     }
   ]
 }
