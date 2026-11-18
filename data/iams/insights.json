@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-11-18T14:15:59.921Z",
+  "updated_at": "2026-11-18T22:07:12.637Z",
   "profile": {
     "username": "iams_ichi",
     "name": "I.petch",
     "biography": "🇦🇺\nCMO at COA.AU &\nNo-Code App Builder\nOnly Positive Vibes\nIt’s about the vibe and the feeling. \nThe names of the places? 🤔",
-    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ig_cache_key=GP7jVy3SUhQ8xp4-AMBIEGSqJAN4bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=HWfpjXWaU-AQ7kNvwESbdzU&_nc_oc=AdqQcJS2qyjr2nZDwKtzeOK9VonxE9HBJgvx0lXeg4obStqaFixm9HQ0wl6_FHY2gZ0&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=DDWH4LsLg28fId8QA4FYKQ&_nc_tpa=Q5bMBQK1n5000VvY1sDptkOEekDdNLPnA7TTk2sPLjVUf_1kfN4MmmbKxq5sPWd32w08rgLynh7RDtr1HA&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQRq4WGUYYcEFrP7zeE5wH4mOKvQ9oJ028mZnvPCm_09cQ&oe=6B037F1E"
+    "picture": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ig_cache_key=GP7jVy3SUhQ8xp4-AMBIEGSqJAN4bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=HWfpjXWaU-AQ7kNvwH44ABH&_nc_oc=AdqapllHvak9Q56vu7m8lew9-oL8agm_SRFyl4JbTGtEWGKu22PcAd6XQfLLyyNaShM&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=a4RT7j2HhhjZpIub1o0T0w&_nc_tpa=Q5bMBQLs2aO8uJYGd4WiWp4UVSQfur_Jo2wYckJjCpO4SzDXnz1wElDJvZb_PAQf0xyaEbnd2H-JMVO1PQ&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQSm2dbPZ72RCQh6G6yb5gATRW3zLoNtFx3kfdGUhaMqbw&oe=6B03EF9E"
   },
   "summary": {
     "followers_count": 1402,
-    "views": 93,
+    "views": 118,
     "likes": 1,
     "replies": 1,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 71,
-    "engagement_rate": 76.34,
+    "engagement_total": 68,
+    "engagement_rate": 57.63,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -72,7 +72,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Df1POtSkTQU",
       "timestamp": "2026-11-17T06:01:17+0000",
       "metrics": {
-        "views": 37,
+        "views": 38,
         "likes": 3,
         "replies": 1,
         "reposts": 0,
@@ -99,12 +99,27 @@
   ],
   "recent_posts": [
     {
+      "id": "17951590404359327",
+      "text": "Morning ...",
+      "permalink": "https://www.threads.com/@iams_ichi/post/Df5PrK2AVvC",
+      "timestamp": "2026-11-18T19:21:35+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "18400736689165663",
       "text": "Hinterland cafes have this thing where the drive up is half the point.\nWinding road, misty ridge, then suddenly a tiny p",
       "permalink": "https://www.threads.com/@iams_ichi/post/Df4q9vkIJwK",
       "timestamp": "2026-11-18T14:01:22+0000",
       "metrics": {
-        "views": 0,
+        "views": 10,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -119,7 +134,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Df4Pf8kG52z",
       "timestamp": "2026-11-18T10:01:21+0000",
       "metrics": {
-        "views": 67,
+        "views": 68,
         "likes": 1,
         "replies": 1,
         "reposts": 0,
@@ -149,7 +164,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Df3YkpjDo6Z",
       "timestamp": "2026-11-18T02:01:25+0000",
       "metrics": {
-        "views": 21,
+        "views": 22,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -194,7 +209,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Df1POtSkTQU",
       "timestamp": "2026-11-17T06:01:17+0000",
       "metrics": {
-        "views": 37,
+        "views": 38,
         "likes": 3,
         "replies": 1,
         "reposts": 0,
@@ -232,21 +247,6 @@
         "shares": 0
       },
       "engagement": 1
-    },
-    {
-      "id": "18076023758742022",
-      "text": "Everyone told me Trastevere at night was a tourist trap — overcrowded, overpriced, skip it.\nSpent an evening just wander",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DfzF6Rfkagd",
-      "timestamp": "2026-11-16T10:01:22+0000",
-      "metrics": {
-        "views": 14,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
     }
   ]
 }
