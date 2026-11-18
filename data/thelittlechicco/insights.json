@@ -1,39 +1,54 @@
 {
   "account": "thelittlechicco",
-  "updated_at": "2026-11-18T14:17:32.963Z",
+  "updated_at": "2026-11-18T22:08:41.460Z",
   "profile": {
     "username": "thelittlechicco",
     "biography": "The Little Chic Co. \nYou don’t need to be a teacher to explore English with your child. \n💛 Grab my FREE illustrated parent guide and activity PDF ⬇️",
-    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/910384646_18119299813951330_5086466759080467333_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ig_cache_key=GAZeQzZiR-08aF9AAIXb0nCRwpZGbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=Wm8W2e1TWTwQ7kNvwFTdJl6&_nc_oc=AdoPmEAJ6T8MyRLRNX3-RkIUUcMMxl2lQpI80Td7_v5Kh4XslI_Xw2wLhTpT7SQh-LE&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=EiCvMFgeT6lbtCVQKcxN5g&_nc_tpa=Q5bMBQIHm-UYtFc4mQKRe4XmfDC9qkbijc19pjDL2EgT2waeYVueSuMjNLa3TkSWpKIX-a3c0mfAWf57JQ&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQQG3fzSMbawc21H7TAbqDoMdEdwPHYiakA0vfhRMUc1lA&oe=6B0394CA"
+    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/910384646_18119299813951330_5086466759080467333_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ig_cache_key=GAZeQzZiR-08aF9AAIXb0nCRwpZGbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=Wm8W2e1TWTwQ7kNvwEQY8sm&_nc_oc=AdqxU4oLYpKTvmMS_7xu06is0_5kYwf1X7ag5mtX-uGX_WlWXYxxFvFoQKFyC1yZjgM&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=jwoYpGDmTdQLgfRGq2AJPA&_nc_tpa=Q5bMBQJmDF2qlJF1_aW_J0W-0CsNlUmcp6XLVEuW6nWKvS9CfVyuV2UpG1wOjwqG2BLGVvznbkIzd8tK1w&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQR5O92gPU6R17mZTldxiUePxJ3RjyWiEI0AeC9vS_avdA&oe=6B04054A"
   },
   "summary": {
     "followers_count": 3,
-    "views": 100,
+    "views": 165,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 1,
-    "engagement_rate": 1,
+    "engagement_total": 0,
+    "engagement_rate": 0,
     "curiosity_score": null,
     "post_count": 25
   },
   "top_posts": [
     {
-      "id": "18017869736971633",
-      "text": "The tricky part of designing for early English learners isn't the vocabulary — it's the pacing.\nIntroduce too much at on",
-      "permalink": "https://www.threads.com/@thelittlechicco/post/DfuXzKhFatk",
-      "timestamp": "2026-11-14T14:01:29+0000",
+      "id": "18109805759248494",
+      "text": "Say a word. They echo it. Now say it in a silly voice — robot, whisper, opera.\nTake turns. Add a new word each round. Fi",
+      "permalink": "https://www.threads.com/@thelittlechicco/post/Df5UKvloNZw",
+      "timestamp": "2026-11-18T20:01:24+0000",
       "metrics": {
-        "views": 41,
-        "likes": 1,
+        "views": 37,
+        "likes": 0,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 1
+      "engagement": 0
+    },
+    {
+      "id": "18110837756630301",
+      "text": "A kid who gets frustrated during a tutoring session and says 'I don't want to do this anymore' — they're usually not don",
+      "permalink": "https://www.threads.com/@thelittlechicco/post/Df4_kfJkaM3",
+      "timestamp": "2026-11-18T17:01:25+0000",
+      "metrics": {
+        "views": 22,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
     },
     {
       "id": "18155538040473032",
@@ -41,7 +56,7 @@
       "permalink": "https://www.threads.com/@thelittlechicco/post/Df4q-ToIGvf",
       "timestamp": "2026-11-18T14:01:27+0000",
       "metrics": {
-        "views": 0,
+        "views": 37,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -79,14 +94,16 @@
         "shares": 0
       },
       "engagement": 0
-    },
+    }
+  ],
+  "recent_posts": [
     {
-      "id": "18005431581040831",
-      "text": "A kid who cries when you change the plan isn't being dramatic about the plan.\nThey built the whole day around what they ",
-      "permalink": "https://www.threads.com/@thelittlechicco/post/Df3D--1AIhx",
-      "timestamp": "2026-11-17T23:01:31+0000",
+      "id": "18109805759248494",
+      "text": "Say a word. They echo it. Now say it in a silly voice — robot, whisper, opera.\nTake turns. Add a new word each round. Fi",
+      "permalink": "https://www.threads.com/@thelittlechicco/post/Df5UKvloNZw",
+      "timestamp": "2026-11-18T20:01:24+0000",
       "metrics": {
-        "views": 8,
+        "views": 37,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -94,16 +111,29 @@
         "shares": 0
       },
       "engagement": 0
-    }
-  ],
-  "recent_posts": [
+    },
+    {
+      "id": "18110837756630301",
+      "text": "A kid who gets frustrated during a tutoring session and says 'I don't want to do this anymore' — they're usually not don",
+      "permalink": "https://www.threads.com/@thelittlechicco/post/Df4_kfJkaM3",
+      "timestamp": "2026-11-18T17:01:25+0000",
+      "metrics": {
+        "views": 22,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
     {
       "id": "18155538040473032",
       "text": "Kids pick up language fastest when they don't know they're learning it.\nRepetition disguised as a game, a song, a silly ",
       "permalink": "https://www.threads.com/@thelittlechicco/post/Df4q-ToIGvf",
       "timestamp": "2026-11-18T14:01:27+0000",
       "metrics": {
-        "views": 0,
+        "views": 37,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -209,36 +239,6 @@
       "timestamp": "2026-11-17T12:01:23+0000",
       "metrics": {
         "views": 22,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18227775889338403",
-      "text": "A kid who keeps asking 'are you mad at me?' after a small mistake isn't being clingy.\nThey're checking whether the relat",
-      "permalink": "https://www.threads.com/@thelittlechicco/post/Df1c-w9llKb",
-      "timestamp": "2026-11-17T08:01:26+0000",
-      "metrics": {
-        "views": 61,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "17978842206170603",
-      "text": "The tricky part of designing a first-sentences workbook isn't the sentences — it's the entry point.\nToo much scaffolding",
-      "permalink": "https://www.threads.com/@thelittlechicco/post/Df0fLGnn3Hp",
-      "timestamp": "2026-11-16T23:01:22+0000",
-      "metrics": {
-        "views": 15,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
