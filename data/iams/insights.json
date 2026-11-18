@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-11-17T22:58:58.937Z",
+  "updated_at": "2026-11-18T04:32:42.630Z",
   "profile": {
     "username": "iams_ichi",
     "name": "I.petch",
     "biography": "🇦🇺\nCMO at COA.AU &\nNo-Code App Builder\nOnly Positive Vibes\nIt’s about the vibe and the feeling. \nThe names of the places? 🤔",
-    "picture": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ig_cache_key=GP7jVy3SUhQ8xp4-AMBIEGSqJAN4bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=DZ1C56YoT5wQ7kNvwFo0UMJ&_nc_oc=Adqo0FnLBMU8B8ELB863FdGJW1O50ouzSa9Z5ey9jYjiHD5ylcyOrTVBiMMSP2E_EIw&_nc_zt=24&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=sBv5kK7E19jpWr4TYLR-_w&_nc_tpa=Q5bMBQKj6zD0LvjXGD1qWY_Q39ZuHw-UPpCy8Mi3zhpoJ4pb2wtTzRd4l5OyOvH5mErMJxgROL3ZfPtLiA&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQQzABbgzsyT3pQbwtAK-67C4-yPZJSg_Gu1eaowiTCsHg&oe=6B029E1E"
+    "picture": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ig_cache_key=GP7jVy3SUhQ8xp4-AMBIEGSqJAN4bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=DZ1C56YoT5wQ7kNvwGABsDT&_nc_oc=Ado7ogwzuCSligxOWX3pq1i_5gQjUjkL6V_B9wqCiymUGXcWOD7z9NvSev3TTXAYk3c&_nc_zt=24&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=F4HoK_iGfhjortrr_FidWQ&_nc_tpa=Q5bMBQLfisH6zsERslaME5fDQ1rJwOfexS4UMSR0bv8gUNuTwI74auLDiH8lX40R3Y8FBlxwcDhjYOrl2g&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQR0ZtNXylpDFZM3twn0azDRb7YBC18TDLdbmDZCqEMS4g&oe=6B030E9E"
   },
   "summary": {
     "followers_count": 1402,
-    "views": 91,
-    "likes": 5,
+    "views": 134,
+    "likes": 6,
     "replies": 1,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 79,
-    "engagement_rate": 86.81,
+    "engagement_total": 72,
+    "engagement_rate": 53.73,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -52,34 +52,19 @@
       "engagement": 9
     },
     {
-      "id": "18450320041133050",
-      "text": "Gold Coast has approximately 400 cafes and somehow I have a regular at three of them.\nNot because the coffee is life-cha",
-      "permalink": "https://www.threads.com/@iams_ichi/post/Dfhf0rgGyMH",
-      "timestamp": "2026-11-09T14:01:28+0000",
-      "metrics": {
-        "views": 207,
-        "likes": 7,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 8
-    },
-    {
       "id": "18249412039315655",
       "text": "I just realized I've lived on the Gold Coast long enough that I stopped actually seeing it.\nWalked Burleigh headland thi",
       "permalink": "https://www.threads.com/@iams_ichi/post/Df2GK75m3FO",
       "timestamp": "2026-11-17T14:01:22+0000",
       "metrics": {
-        "views": 31,
-        "likes": 3,
+        "views": 40,
+        "likes": 4,
         "replies": 2,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 5
+      "engagement": 6
     },
     {
       "id": "18017004842756158",
@@ -95,23 +80,53 @@
         "shares": 0
       },
       "engagement": 5
+    },
+    {
+      "id": "18173663080422331",
+      "text": "I just realized I'd been sleeping on the NSW south coast for years — always rushing through to get somewhere else.\nStopp",
+      "permalink": "https://www.threads.com/@iams_ichi/post/Df1POtSkTQU",
+      "timestamp": "2026-11-17T06:01:17+0000",
+      "metrics": {
+        "views": 33,
+        "likes": 3,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 4
     }
   ],
   "recent_posts": [
+    {
+      "id": "18102858524412620",
+      "text": "Unpopular opinion: Kyoto is better in winter than spring.\nFewer people, actual silence at the temples, and the cold just",
+      "permalink": "https://www.threads.com/@iams_ichi/post/Df3YkpjDo6Z",
+      "timestamp": "2026-11-18T02:01:25+0000",
+      "metrics": {
+        "views": 17,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
     {
       "id": "18249412039315655",
       "text": "I just realized I've lived on the Gold Coast long enough that I stopped actually seeing it.\nWalked Burleigh headland thi",
       "permalink": "https://www.threads.com/@iams_ichi/post/Df2GK75m3FO",
       "timestamp": "2026-11-17T14:01:22+0000",
       "metrics": {
-        "views": 31,
-        "likes": 3,
+        "views": 40,
+        "likes": 4,
         "replies": 2,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 5
+      "engagement": 6
     },
     {
       "id": "18139231678649243",
@@ -134,7 +149,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Df1POtSkTQU",
       "timestamp": "2026-11-17T06:01:17+0000",
       "metrics": {
-        "views": 32,
+        "views": 33,
         "likes": 3,
         "replies": 1,
         "reposts": 0,
@@ -232,21 +247,6 @@
         "shares": 0
       },
       "engagement": 2
-    },
-    {
-      "id": "18200291881394588",
-      "text": "Everyone says Italy is expensive if you sit down at a café. Technically true — but only if you don't know how it actuall",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DfrXhwRlu_v",
-      "timestamp": "2026-11-13T10:01:22+0000",
-      "metrics": {
-        "views": 38,
-        "likes": 0,
-        "replies": 4,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 4
     }
   ]
 }
