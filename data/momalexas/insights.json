@@ -1,47 +1,32 @@
 {
   "account": "momalexas",
-  "updated_at": "2026-11-19T13:30:33.848Z",
+  "updated_at": "2026-11-19T22:17:52.906Z",
   "profile": {
     "username": "momalexas",
     "biography": "Mom of Alexa | Little Chic\nFREE ABC WORKSHEETS! \n💗 A–Z letter tracing and handwriting practice for preschoolers. ⤵️",
-    "picture": "https://scontent-sea5-2.cdninstagram.com/v/t51.82787-19/863909215_18139653901622407_2117382295371030649_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ig_cache_key=GF81fjOHnCdL63FAAHmgSrH6c2IdbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=y5DOYs6gP38Q7kNvwG_lRxS&_nc_oc=AdrA9nIIlTFoH4YbaYu9whnO-7J2ENC0wcXy0vOyvyjD3Poead73G3wYpm_L6OB2pQE&_nc_zt=24&_nc_ht=scontent-sea5-2.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=Cr8kwp0BqObdq-LxCT0IzA&_nc_tpa=Q5bMBQKSnGp4mTcAwrrvjHb7QI7_V-A8Zk-WGG25uo8Xr8dwC1ceT14kCGPzNxSEe7w8MGsfkI4jYCwWjA&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQR1glcAzkQp5Z82NCNN1dF55ckCwozP2UHiGuunSUB-rQ&oe=6B04CBDD"
+    "picture": "https://scontent-dfw5-3.cdninstagram.com/v/t51.82787-19/863909215_18139653901622407_2117382295371030649_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ig_cache_key=GF81fjOHnCdL63FAAHmgSrH6c2IdbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=y5DOYs6gP38Q7kNvwHlAMSH&_nc_oc=Adq_2U_JgxIDKX0M_H2Z_LU9uCkir7e9479RmCcFWpN5f30yrM1YkAoisKqxRZDDILM&_nc_zt=24&_nc_ht=scontent-dfw5-3.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=QGY7-wzlMfV2i5LYwrvs4A&_nc_tpa=Q5bMBQLLxgwnnJzaTHKPcueucMU2lBUVgeLCm5zKzSiHaKdaFrNIIMehYJDmVNHQr0ES7fIWBYbHP8xLEg&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQR7_5xA-IQD_fm30Lx4vbQHF1uasv-RwlwIujwMltYE_A&oe=6B053C5D"
   },
   "summary": {
     "followers_count": 105,
-    "views": 77,
+    "views": 226,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 18,
-    "engagement_rate": 23.38,
+    "engagement_total": 10,
+    "engagement_rate": 4.42,
     "curiosity_score": null,
     "post_count": 25
   },
   "top_posts": [
-    {
-      "id": "18032012288700377",
-      "text": "Get the free worksheet! A cute, easy-to-print beginning sounds worksheet for ages 4–6 to build matching beginning sounds",
-      "permalink": "https://www.threads.com/@momalexas/post/DfvVkQqgAYK",
-      "timestamp": "2026-11-14T23:00:40+0000",
-      "metrics": {
-        "views": 547,
-        "likes": 6,
-        "replies": 0,
-        "reposts": 1,
-        "quotes": 0,
-        "shares": 12
-      },
-      "engagement": 7
-    },
     {
       "id": "18110140727351270",
       "text": "She used to ask me which book to pick at bedtime.\nI'd choose fast — practical, tired, ready to be done.\nThe nights I mad",
       "permalink": "https://www.threads.com/@momalexas/post/Df5BP4_FKix",
       "timestamp": "2026-11-18T17:16:04+0000",
       "metrics": {
-        "views": 54,
+        "views": 56,
         "likes": 2,
         "replies": 0,
         "reposts": 0,
@@ -56,7 +41,7 @@
       "permalink": "https://www.threads.com/@momalexas/post/Df14cdXjwKt",
       "timestamp": "2026-11-17T12:00:53+0000",
       "metrics": {
-        "views": 87,
+        "views": 88,
         "likes": 2,
         "replies": 0,
         "reposts": 0,
@@ -94,9 +79,84 @@
         "shares": 0
       },
       "engagement": 2
+    },
+    {
+      "id": "18176819779457483",
+      "text": "Fun Christmas facts and a cute Santa coloring page for the little ones! 🎅🎄",
+      "permalink": "https://www.threads.com/@momalexas/post/Df2vW5Gj5d9",
+      "timestamp": "2026-11-17T20:00:43+0000",
+      "metrics": {
+        "views": 204,
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
     }
   ],
   "recent_posts": [
+    {
+      "id": "18225147943341915",
+      "text": "One of my girls would only do activities with a sibling beside her — not racing, not comparing, just side by side.\nThat ",
+      "permalink": "https://www.threads.com/@momalexas/post/Df7kXhOmsbV",
+      "timestamp": "2026-11-19T17:01:26+0000",
+      "metrics": {
+        "views": 9,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "18067847420545566",
+      "text": "Ocean Animals Maze Worksheet for Ages 3–4 | Printable PDF\n\nGet the free worksheet! A cute, easy-to-print ocean animals w",
+      "permalink": "https://www.threads.com/@momalexas/post/Df7jxPmCupv",
+      "timestamp": "2026-11-19T16:55:40+0000",
+      "metrics": {
+        "views": 105,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "18084653012353754",
+      "text": "She told me she wasn't sad, she was just full.\nI didn't know what that meant at first. But I stopped asking her to expla",
+      "permalink": "https://www.threads.com/@momalexas/post/Df7Rcf2lf9s",
+      "timestamp": "2026-11-19T14:16:05+0000",
+      "metrics": {
+        "views": 21,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "18201533098385390",
+      "text": "My daughters would avoid anything that felt like a lesson dressed up as fun — they could always tell.\nBut fables were di",
+      "permalink": "https://www.threads.com/@momalexas/post/Df7PxWdoPNP",
+      "timestamp": "2026-11-19T14:01:28+0000",
+      "metrics": {
+        "views": 5,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
     {
       "id": "18139086061568813",
       "text": "What Comes Next Sequencing Worksheet for Ages 4–6 | Printable PDF.\n\nGet the free worksheet! A cute, easy-to-print what c",
@@ -118,7 +178,7 @@
       "permalink": "https://www.threads.com/@momalexas/post/Df6sG-lktWF",
       "timestamp": "2026-11-19T08:49:18+0000",
       "metrics": {
-        "views": 44,
+        "views": 48,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -133,7 +193,7 @@
       "permalink": "https://www.threads.com/@momalexas/post/Df5BP4_FKix",
       "timestamp": "2026-11-18T17:16:04+0000",
       "metrics": {
-        "views": 54,
+        "views": 56,
         "likes": 2,
         "replies": 0,
         "reposts": 0,
@@ -179,66 +239,6 @@
       "timestamp": "2026-11-18T08:00:14+0000",
       "metrics": {
         "views": 9,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18441058426197024",
-      "text": "Cute Snowman Family and Christmas Tree coloring pages, complete with an easy color guide for the kids! ⛄🎄 \n\nGrab your p",
-      "permalink": "https://www.threads.com/@momalexas/post/Df3D4VXgDhJ",
-      "timestamp": "2026-11-17T23:00:03+0000",
-      "metrics": {
-        "views": 3,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18176819779457483",
-      "text": "Fun Christmas facts and a cute Santa coloring page for the little ones! 🎅🎄",
-      "permalink": "https://www.threads.com/@momalexas/post/Df2vW5Gj5d9",
-      "timestamp": "2026-11-17T20:00:43+0000",
-      "metrics": {
-        "views": 203,
-        "likes": 1,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "18125717819516256",
-      "text": "She kept stopping mid-activity to ask what a word meant — not to stall, just genuinely curious.\nThat gap between reading",
-      "permalink": "https://www.threads.com/@momalexas/post/Df2axsFlGkm",
-      "timestamp": "2026-11-17T17:01:26+0000",
-      "metrics": {
-        "views": 16,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18100081775239076",
-      "text": "Rainy afternoon, and she just went quiet in the middle of a game.\nNot pouting. Not acting out. Just... gone somewhere in",
-      "permalink": "https://www.threads.com/@momalexas/post/Df2H2l4m7FA",
-      "timestamp": "2026-11-17T14:16:04+0000",
-      "metrics": {
-        "views": 53,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
