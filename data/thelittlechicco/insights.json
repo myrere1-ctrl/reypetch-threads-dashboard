@@ -1,14 +1,14 @@
 {
   "account": "thelittlechicco",
-  "updated_at": "2026-11-18T22:08:41.460Z",
+  "updated_at": "2026-11-19T03:41:21.091Z",
   "profile": {
     "username": "thelittlechicco",
     "biography": "The Little Chic Co. \nYou don’t need to be a teacher to explore English with your child. \n💛 Grab my FREE illustrated parent guide and activity PDF ⬇️",
-    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/910384646_18119299813951330_5086466759080467333_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ig_cache_key=GAZeQzZiR-08aF9AAIXb0nCRwpZGbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=Wm8W2e1TWTwQ7kNvwEQY8sm&_nc_oc=AdqxU4oLYpKTvmMS_7xu06is0_5kYwf1X7ag5mtX-uGX_WlWXYxxFvFoQKFyC1yZjgM&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=jwoYpGDmTdQLgfRGq2AJPA&_nc_tpa=Q5bMBQJmDF2qlJF1_aW_J0W-0CsNlUmcp6XLVEuW6nWKvS9CfVyuV2UpG1wOjwqG2BLGVvznbkIzd8tK1w&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQR5O92gPU6R17mZTldxiUePxJ3RjyWiEI0AeC9vS_avdA&oe=6B04054A"
+    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/910384646_18119299813951330_5086466759080467333_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ig_cache_key=GAZeQzZiR-08aF9AAIXb0nCRwpZGbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=Wm8W2e1TWTwQ7kNvwE9gUX4&_nc_oc=AdqSDg-DubBOB10_gBkujnG9O-cmcL_BMQ7DPHI1tIGdx3Uf7ShoH2JxEw7rhsc3y8M&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=PgWhjrxnn9KGkkjh6bLeaw&_nc_tpa=Q5bMBQIq2M2uQE4b2lyYRVXYVIOcDYeXnM23uTxxINjIbhlHmO4Us2Gvw9v5b0ibs_aj12ed_aWCvuboOw&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQQ6OGjmht4RuAuV87o7mlmxXKB26CX_VYkOUwRCjt99Qw&oe=6B043D8A"
   },
   "summary": {
     "followers_count": 3,
-    "views": 165,
+    "views": 184,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
@@ -21,12 +21,27 @@
   },
   "top_posts": [
     {
+      "id": "17982196857128902",
+      "text": "Grammar workbooks have a pacing problem — go too fast and kids memorize without understanding, go too slow and they lose",
+      "permalink": "https://www.threads.com/@thelittlechicco/post/Df5oxnEj6uY",
+      "timestamp": "2026-11-18T23:01:28+0000",
+      "metrics": {
+        "views": 18,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "18109805759248494",
       "text": "Say a word. They echo it. Now say it in a silly voice — robot, whisper, opera.\nTake turns. Add a new word each round. Fi",
       "permalink": "https://www.threads.com/@thelittlechicco/post/Df5UKvloNZw",
       "timestamp": "2026-11-18T20:01:24+0000",
       "metrics": {
-        "views": 37,
+        "views": 38,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -79,14 +94,16 @@
         "shares": 0
       },
       "engagement": 0
-    },
+    }
+  ],
+  "recent_posts": [
     {
-      "id": "18118822730016202",
-      "text": "Write a noun on a sticky note. Stick it somewhere random — the fridge, the dog, the front door.\nNow challenge them to wa",
-      "permalink": "https://www.threads.com/@thelittlechicco/post/Df4BwzVFqdW",
-      "timestamp": "2026-11-18T08:01:20+0000",
+      "id": "17982196857128902",
+      "text": "Grammar workbooks have a pacing problem — go too fast and kids memorize without understanding, go too slow and they lose",
+      "permalink": "https://www.threads.com/@thelittlechicco/post/Df5oxnEj6uY",
+      "timestamp": "2026-11-18T23:01:28+0000",
       "metrics": {
-        "views": 69,
+        "views": 18,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -94,16 +111,14 @@
         "shares": 0
       },
       "engagement": 0
-    }
-  ],
-  "recent_posts": [
+    },
     {
       "id": "18109805759248494",
       "text": "Say a word. They echo it. Now say it in a silly voice — robot, whisper, opera.\nTake turns. Add a new word each round. Fi",
       "permalink": "https://www.threads.com/@thelittlechicco/post/Df5UKvloNZw",
       "timestamp": "2026-11-18T20:01:24+0000",
       "metrics": {
-        "views": 37,
+        "views": 38,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -224,21 +239,6 @@
       "timestamp": "2026-11-17T14:01:22+0000",
       "metrics": {
         "views": 19,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18136056743503944",
-      "text": "Grab a magazine or old flyer. Ask them to cut out any word they can read.\nMake a pile. Then make a sentence out of whate",
-      "permalink": "https://www.threads.com/@thelittlechicco/post/Df14cFfFnqo",
-      "timestamp": "2026-11-17T12:01:23+0000",
-      "metrics": {
-        "views": 22,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
