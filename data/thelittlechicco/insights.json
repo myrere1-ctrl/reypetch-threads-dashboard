@@ -1,14 +1,14 @@
 {
   "account": "thelittlechicco",
-  "updated_at": "2026-11-19T22:18:22.007Z",
+  "updated_at": "2026-11-20T03:33:30.371Z",
   "profile": {
     "username": "thelittlechicco",
     "biography": "The Little Chic Co. \nYou don’t need to be a teacher to explore English with your child. \n💛 Grab my FREE illustrated parent guide and activity PDF ⬇️",
-    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/910384646_18119299813951330_5086466759080467333_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ig_cache_key=GAZeQzZiR-08aF9AAIXb0nCRwpZGbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=aG2qZWAPP7kQ7kNvwFFPLys&_nc_oc=Adr5Cs3T4h2i1IP6FSYmdZf0RYPTgo20jrdaFJjQTpSp-Bg4KZnjLvnbn-zdHsyfbYQ&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=fQ4H4XyXwTxmPX8guatlYg&_nc_tpa=Q5bMBQKltRyP7i0-pLXmqk4O6GKn-qGU4Vbr9IzpFQqN80FlNVX3w-iebdc7vdMkJNRdCZ8NuzvokdeDeQ&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQQseKMvftv7yWsy8Yjlfbu0C2GY1Q6ENOrTWAAjP1vneQ&oe=6B0556CA"
+    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/910384646_18119299813951330_5086466759080467333_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ig_cache_key=GAZeQzZiR-08aF9AAIXb0nCRwpZGbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=aG2qZWAPP7kQ7kNvwE2JWGR&_nc_oc=AdqvgtvBGr2IEgmBu2NQUS-7SHD6CxSW12Mg_qcJDrCltp_ho-QiT3JKpdZPX0d1DB4&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=hEkd9ZCH32Mkc8t8krzlIQ&_nc_tpa=Q5bMBQJzWK-uEInapGdROw4Dzn0b8FCqXBCokjXbq7plckcVHFByiKKFVMW_JyaREP8J9JgEsrGeAxcudg&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQQtLYYztebhXDcMTco-7TnYDShXq7ROcSWpFieOzsc7_g&oe=6B058F0A"
   },
   "summary": {
     "followers_count": 3,
-    "views": 78,
+    "views": 92,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
@@ -20,6 +20,21 @@
     "post_count": 25
   },
   "top_posts": [
+    {
+      "id": "17981862177147291",
+      "text": "Kids don't memorize grammar rules — they internalize patterns.\nThe rule comes later, almost as a name for something they",
+      "permalink": "https://www.threads.com/@thelittlechicco/post/Df8Nj7ygRe4",
+      "timestamp": "2026-11-19T23:01:24+0000",
+      "metrics": {
+        "views": 14,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
     {
       "id": "18686540425032562",
       "text": "Grab a deck of cards and assign each suit a word type — hearts = nouns, clubs = verbs, diamonds = adjectives, spades = a",
@@ -79,14 +94,16 @@
         "shares": 0
       },
       "engagement": 0
-    },
+    }
+  ],
+  "recent_posts": [
     {
-      "id": "18494138194105988",
-      "text": "Kids learning to build sentences aren't thinking about grammar — they're thinking about whether what they said sounds ri",
-      "permalink": "https://www.threads.com/@thelittlechicco/post/Df6mj2vlX64",
-      "timestamp": "2026-11-19T08:01:21+0000",
+      "id": "17981862177147291",
+      "text": "Kids don't memorize grammar rules — they internalize patterns.\nThe rule comes later, almost as a name for something they",
+      "permalink": "https://www.threads.com/@thelittlechicco/post/Df8Nj7ygRe4",
+      "timestamp": "2026-11-19T23:01:24+0000",
       "metrics": {
-        "views": 26,
+        "views": 14,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -94,9 +111,7 @@
         "shares": 0
       },
       "engagement": 0
-    }
-  ],
-  "recent_posts": [
+    },
     {
       "id": "18686540425032562",
       "text": "Grab a deck of cards and assign each suit a word type — hearts = nouns, clubs = verbs, diamonds = adjectives, spades = a",
@@ -224,21 +239,6 @@
       "timestamp": "2026-11-18T14:01:27+0000",
       "metrics": {
         "views": 37,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "17959196706082093",
-      "text": "Write a sentence on a slip of paper. Cut it into individual words. Scramble them.\nChallenge: reassemble it in under 60 s",
-      "permalink": "https://www.threads.com/@thelittlechicco/post/Df4dPKpm3Om",
-      "timestamp": "2026-11-18T12:01:24+0000",
-      "metrics": {
-        "views": 0,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
