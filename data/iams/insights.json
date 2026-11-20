@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-11-19T22:16:40.132Z",
+  "updated_at": "2026-11-20T03:31:59.626Z",
   "profile": {
     "username": "iams_ichi",
     "name": "I.petch",
     "biography": "🇦🇺\nCMO at COA.AU &\nNo-Code App Builder\nOnly Positive Vibes\nIt’s about the vibe and the feeling. \nThe names of the places? 🤔",
-    "picture": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ig_cache_key=GP7jVy3SUhQ8xp4-AMBIEGSqJAN4bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=HWfpjXWaU-AQ7kNvwHYC-Uh&_nc_oc=AdqlTS6PpzyNJK5j6qFYG3zaWE7h6QHyzonfVQQGSCgDznXsqYK1vzQQ_zhxaqgtgdQ&_nc_zt=24&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=CU3WAkhGtCXWG6VXPsVElA&_nc_tpa=Q5bMBQLQWHiWqq5Sp-CohMvkR69wPpaZvQCB94hNvn-S6gTriLLUX39H5AcKCXkdCqRllIrL51LgV23ZaA&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQSN7CrDj8yorZzs-q76n6ys52gctWrjlILvO7q1B-LDzg&oe=6B05411E"
+    "picture": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ig_cache_key=GP7jVy3SUhQ8xp4-AMBIEGSqJAN4bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=HWfpjXWaU-AQ7kNvwHwcE8i&_nc_oc=AdovR6eRtxzPUzEKKkfaenedglGqsqCoVc5upM-B6AoT8QB3P5FY6nM7LKaKBx28eMQ&_nc_zt=24&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=a-JxAiV23ZfoQVrzKJXB2g&_nc_tpa=Q5bMBQJVY6oJBxb4hIdMcEu-8LrEx_D3V86yXhiU2GgYCsrw1V3r8PArswl_AWaaIUSp2TMGuVkkGZrWGg&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQQaIHlSccAgFdv4TzzkUOWeiSK3n2FaD5JlaeSai0iFww&oe=6B05795E"
   },
   "summary": {
     "followers_count": 1402,
-    "views": 60,
-    "likes": 0,
+    "views": 85,
+    "likes": 1,
     "replies": 1,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 57,
-    "engagement_rate": 95,
+    "engagement_total": 58,
+    "engagement_rate": 68.24,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -87,7 +87,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Df6Y0vskQQI",
       "timestamp": "2026-11-19T06:01:19+0000",
       "metrics": {
-        "views": 12,
+        "views": 16,
         "likes": 0,
         "replies": 2,
         "reposts": 0,
@@ -99,12 +99,27 @@
   ],
   "recent_posts": [
     {
+      "id": "18139201411576946",
+      "text": "Dinner in Tokyo: omakase counter, chef's choice, completely silent focus.\nLunch the same day: convenience store onigiri ",
+      "permalink": "https://www.threads.com/@iams_ichi/post/Df8iJqHlJEQ",
+      "timestamp": "2026-11-20T02:01:19+0000",
+      "metrics": {
+        "views": 5,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "18094247753202038",
       "text": "Gold Coast cafes have this unspoken rule: ordering drip coffee gets you a look.\nNot rude. Just... a vibe. Like you walke",
       "permalink": "https://www.threads.com/@iams_ichi/post/Df7PwT8ESAK",
       "timestamp": "2026-11-19T14:01:19+0000",
       "metrics": {
-        "views": 12,
+        "views": 13,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -119,14 +134,14 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Df60TjFEXWu",
       "timestamp": "2026-11-19T10:01:28+0000",
       "metrics": {
-        "views": 12,
-        "likes": 0,
+        "views": 14,
+        "likes": 1,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 0
+      "engagement": 1
     },
     {
       "id": "18579273886076950",
@@ -134,7 +149,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Df6Y0vskQQI",
       "timestamp": "2026-11-19T06:01:19+0000",
       "metrics": {
-        "views": 12,
+        "views": 16,
         "likes": 0,
         "replies": 2,
         "reposts": 0,
@@ -194,7 +209,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Df4Pf8kG52z",
       "timestamp": "2026-11-18T10:01:21+0000",
       "metrics": {
-        "views": 70,
+        "views": 71,
         "likes": 1,
         "replies": 1,
         "reposts": 0,
@@ -232,21 +247,6 @@
         "shares": 0
       },
       "engagement": 0
-    },
-    {
-      "id": "18249412039315655",
-      "text": "I just realized I've lived on the Gold Coast long enough that I stopped actually seeing it.\nWalked Burleigh headland thi",
-      "permalink": "https://www.threads.com/@iams_ichi/post/Df2GK75m3FO",
-      "timestamp": "2026-11-17T14:01:22+0000",
-      "metrics": {
-        "views": 53,
-        "likes": 5,
-        "replies": 2,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 7
     }
   ]
 }
