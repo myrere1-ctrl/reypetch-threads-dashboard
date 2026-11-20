@@ -1,41 +1,26 @@
 {
   "account": "iams",
-  "updated_at": "2026-11-20T13:10:27.526Z",
+  "updated_at": "2026-11-20T21:17:05.147Z",
   "profile": {
     "username": "iams_ichi",
     "name": "I.petch",
     "biography": "🇦🇺\nCMO at COA.AU &\nNo-Code App Builder\nOnly Positive Vibes\nIt’s about the vibe and the feeling. \nThe names of the places? 🤔",
-    "picture": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ig_cache_key=GP7jVy3SUhQ8xp4-AMBIEGSqJAN4bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=HWfpjXWaU-AQ7kNvwH0tMR0&_nc_oc=AdpvcrlP3Si0SFOwCHm97jZMFmd2AybM5HtM53ov_92O_-sd_lMDKmj8Gv7S8EMj_p0&_nc_zt=24&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=b09eJB3wECfDcrMmMAj-3A&_nc_tpa=Q5bMBQJU1iXFZ0yPB_OEkDO_XRsKwediaG1azO6u54YZhDocIlxZEWRBO7HCP-HbPVpcYN-zBQbCQHWP9Q&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQQLAEgwPGWjWOXckvGNyVnovrV81BtzgOK2NGeiAokisQ&oe=6B06221E"
+    "picture": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ig_cache_key=GP7jVy3SUhQ8xp4-AMBIEGSqJAN4bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=HWfpjXWaU-AQ7kNvwGemi4U&_nc_oc=AdrQAlZBOmYrlQMzffAh5GfJIr4f_YFTEEPe4XifC3Fu05s-HIfMWmMszuk0QMuIIOg&_nc_zt=24&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=Cl8gl5IWlo_vEIOkokTr_Q&_nc_tpa=Q5bMBQKwVOTucakBNkXznd6WLN1G4FvqxsbRD-CijZEFf3gynldXzE2yrQ2A7OF2VspR4ajiFzu-eAvF9w&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQQKhpaBXySlzL46lJOJNkavyG-ohAlef08lgW_AXl1Q7Q&oe=6B06929E"
   },
   "summary": {
     "followers_count": 1401,
-    "views": 19,
+    "views": 48,
     "likes": 1,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 57,
-    "engagement_rate": 300,
+    "engagement_total": 34,
+    "engagement_rate": 70.83,
     "curiosity_score": null,
     "post_count": 25
   },
   "top_posts": [
-    {
-      "id": "18073196900772259",
-      "text": "I just realized I spent years lowkey dismissing Melbourne as \"just another city\" because I live near the beach and figur",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DfpOM_TFkFK",
-      "timestamp": "2026-11-12T14:01:25+0000",
-      "metrics": {
-        "views": 634,
-        "likes": 22,
-        "replies": 2,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 1
-      },
-      "engagement": 24
-    },
     {
       "id": "18249412039315655",
       "text": "I just realized I've lived on the Gold Coast long enough that I stopped actually seeing it.\nWalked Burleigh headland thi",
@@ -95,16 +80,46 @@
         "shares": 0
       },
       "engagement": 2
+    },
+    {
+      "id": "18189925405411058",
+      "text": "I just realized I never actually planned my first solo Europe trip — I just... went.\nTurns out the chaos taught me more ",
+      "permalink": "https://www.threads.com/@iams_ichi/post/Df4Pf8kG52z",
+      "timestamp": "2026-11-18T10:01:21+0000",
+      "metrics": {
+        "views": 72,
+        "likes": 1,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 2
     }
   ],
   "recent_posts": [
+    {
+      "id": "17984888901125093",
+      "text": "6pm, Coolangatta beach walk, golden hour hitting the rocks just right.\nForgot I live here for a second.\n\nwhen did you la",
+      "permalink": "https://www.threads.com/@iams_ichi/post/Df90kASFmWQ",
+      "timestamp": "2026-11-20T14:01:26+0000",
+      "metrics": {
+        "views": 7,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
     {
       "id": "17976940167172716",
       "text": "Prati, early morning, before the tourists figure out where it is.\nA small bakery around the corner from Piazza del Risor",
       "permalink": "https://www.threads.com/@iams_ichi/post/Df9ZGFhlZqZ",
       "timestamp": "2026-11-20T10:01:25+0000",
       "metrics": {
-        "views": 3,
+        "views": 4,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -164,7 +179,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Df60TjFEXWu",
       "timestamp": "2026-11-19T10:01:28+0000",
       "metrics": {
-        "views": 14,
+        "views": 15,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -232,21 +247,6 @@
         "shares": 0
       },
       "engagement": 1
-    },
-    {
-      "id": "18189925405411058",
-      "text": "I just realized I never actually planned my first solo Europe trip — I just... went.\nTurns out the chaos taught me more ",
-      "permalink": "https://www.threads.com/@iams_ichi/post/Df4Pf8kG52z",
-      "timestamp": "2026-11-18T10:01:21+0000",
-      "metrics": {
-        "views": 71,
-        "likes": 1,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 2
     }
   ]
 }
