@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-11-20T03:31:59.626Z",
+  "updated_at": "2026-11-20T13:10:27.526Z",
   "profile": {
     "username": "iams_ichi",
     "name": "I.petch",
     "biography": "🇦🇺\nCMO at COA.AU &\nNo-Code App Builder\nOnly Positive Vibes\nIt’s about the vibe and the feeling. \nThe names of the places? 🤔",
-    "picture": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ig_cache_key=GP7jVy3SUhQ8xp4-AMBIEGSqJAN4bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=HWfpjXWaU-AQ7kNvwHwcE8i&_nc_oc=AdovR6eRtxzPUzEKKkfaenedglGqsqCoVc5upM-B6AoT8QB3P5FY6nM7LKaKBx28eMQ&_nc_zt=24&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=a-JxAiV23ZfoQVrzKJXB2g&_nc_tpa=Q5bMBQJVY6oJBxb4hIdMcEu-8LrEx_D3V86yXhiU2GgYCsrw1V3r8PArswl_AWaaIUSp2TMGuVkkGZrWGg&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQQaIHlSccAgFdv4TzzkUOWeiSK3n2FaD5JlaeSai0iFww&oe=6B05795E"
+    "picture": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ig_cache_key=GP7jVy3SUhQ8xp4-AMBIEGSqJAN4bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=HWfpjXWaU-AQ7kNvwH0tMR0&_nc_oc=AdpvcrlP3Si0SFOwCHm97jZMFmd2AybM5HtM53ov_92O_-sd_lMDKmj8Gv7S8EMj_p0&_nc_zt=24&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=b09eJB3wECfDcrMmMAj-3A&_nc_tpa=Q5bMBQJU1iXFZ0yPB_OEkDO_XRsKwediaG1azO6u54YZhDocIlxZEWRBO7HCP-HbPVpcYN-zBQbCQHWP9Q&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQQLAEgwPGWjWOXckvGNyVnovrV81BtzgOK2NGeiAokisQ&oe=6B06221E"
   },
   "summary": {
-    "followers_count": 1402,
-    "views": 85,
+    "followers_count": 1401,
+    "views": 19,
     "likes": 1,
-    "replies": 1,
+    "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 58,
-    "engagement_rate": 68.24,
+    "engagement_total": 57,
+    "engagement_rate": 300,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -99,12 +99,42 @@
   ],
   "recent_posts": [
     {
+      "id": "17976940167172716",
+      "text": "Prati, early morning, before the tourists figure out where it is.\nA small bakery around the corner from Piazza del Risor",
+      "permalink": "https://www.threads.com/@iams_ichi/post/Df9ZGFhlZqZ",
+      "timestamp": "2026-11-20T10:01:25+0000",
+      "metrics": {
+        "views": 3,
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
+      "id": "18122058833096349",
+      "text": "Spent a week checking COA properties across regional QLD and I kept waiting to feel like I was working.\nTurns out drivin",
+      "permalink": "https://www.threads.com/@iams_ichi/post/Df89nngFl83",
+      "timestamp": "2026-11-20T06:01:19+0000",
+      "metrics": {
+        "views": 6,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
       "id": "18139201411576946",
       "text": "Dinner in Tokyo: omakase counter, chef's choice, completely silent focus.\nLunch the same day: convenience store onigiri ",
       "permalink": "https://www.threads.com/@iams_ichi/post/Df8iJqHlJEQ",
       "timestamp": "2026-11-20T02:01:19+0000",
       "metrics": {
-        "views": 5,
+        "views": 6,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -119,7 +149,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Df7PwT8ESAK",
       "timestamp": "2026-11-19T14:01:19+0000",
       "metrics": {
-        "views": 13,
+        "views": 15,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -217,36 +247,6 @@
         "shares": 0
       },
       "engagement": 2
-    },
-    {
-      "id": "18222528385352405",
-      "text": "Drove through the Tarkine on a detour once — no plan, just a forestry road that looked passable.\nPulled over at a creek ",
-      "permalink": "https://www.threads.com/@iams_ichi/post/Df30CyoG3El",
-      "timestamp": "2026-11-18T06:01:27+0000",
-      "metrics": {
-        "views": 30,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "18102858524412620",
-      "text": "Unpopular opinion: Kyoto is better in winter than spring.\nFewer people, actual silence at the temples, and the cold just",
-      "permalink": "https://www.threads.com/@iams_ichi/post/Df3YkpjDo6Z",
-      "timestamp": "2026-11-18T02:01:25+0000",
-      "metrics": {
-        "views": 23,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
     }
   ]
 }
