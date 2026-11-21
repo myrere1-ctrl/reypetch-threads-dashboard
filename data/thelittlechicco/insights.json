@@ -1,14 +1,14 @@
 {
   "account": "thelittlechicco",
-  "updated_at": "2026-11-21T02:33:45.878Z",
+  "updated_at": "2026-11-21T11:25:42.558Z",
   "profile": {
     "username": "thelittlechicco",
     "biography": "The Little Chic Co. \nYou don’t need to be a teacher to explore English with your child. \n💛 Grab my FREE illustrated parent guide and activity PDF ⬇️",
-    "picture": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/910384646_18119299813951330_5086466759080467333_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ig_cache_key=GAZeQzZiR-08aF9AAIXb0nCRwpZGbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=aG2qZWAPP7kQ7kNvwHNQMJL&_nc_oc=AdqEuAtU3SIyq7840R-ClXGByNhwor2XaS6hrBrG2NtKPkFZrnfReT_oLubZQR3MF1E&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=Knqhtex689oBFtX5Js7BmQ&_nc_tpa=Q5bMBQIWNwDpUPX7S28XWPtv-xTozMwCfruwxkXex1nNHM3vFxpiqm0VK3qBjCtA7dyGaK_3GeG3sX6Stw&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQSmB4apCK7Zx2VMewUPs67ksxlX2454G9FuS9KGttSJKQ&oe=6B06E08A"
+    "picture": "https://scontent-lga3-1.cdninstagram.com/v/t51.82787-19/910384646_18119299813951330_5086466759080467333_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ig_cache_key=GAZeQzZiR-08aF9AAIXb0nCRwpZGbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=aG2qZWAPP7kQ7kNvwG9snMj&_nc_oc=AdqsuGFbKyZxqktdov4UTrfAArJB_vwMo8DHByOuM8xlbkEuNYiahAIV2cgOM9e5AAQ&_nc_zt=24&_nc_ht=scontent-lga3-1.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=RF7kcRO2S2TaWGyw4Z6toQ&_nc_tpa=Q5bMBQKA28G-rndsCB8e45_Y2tPey3HU2thp0YVeu1UiB6QRdWqhs5AHxLovQLW4niQU-fEdmYECf-dtZQ&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQTOoY3JGB8cibn8seBgSTEkYzgjewb0IqS42l4PnEogyA&oe=6B07510A"
   },
   "summary": {
     "followers_count": 3,
-    "views": 43,
+    "views": 16,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
@@ -20,6 +20,21 @@
     "post_count": 25
   },
   "top_posts": [
+    {
+      "id": "18142821187625789",
+      "text": "A kid who shuts down mid-task and says 'I don't want to' is almost never bored.\nUsually they hit something that felt too",
+      "permalink": "https://www.threads.com/@thelittlechicco/post/Df_wJYQEWZy",
+      "timestamp": "2026-11-21T08:01:20+0000",
+      "metrics": {
+        "views": 16,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
     {
       "id": "18588063400070018",
       "text": "Writing \"first sentences\" is deceptively hard to scaffold — too much structure and kids just fill in blanks without thin",
@@ -79,14 +94,16 @@
         "shares": 0
       },
       "engagement": 0
-    },
+    }
+  ],
+  "recent_posts": [
     {
-      "id": "17943845781391608",
-      "text": "A kid who goes quiet during a hard task isn't giving up — they're usually thinking harder than they look.\nThat silence r",
-      "permalink": "https://www.threads.com/@thelittlechicco/post/Df90kFoobkW",
-      "timestamp": "2026-11-20T14:01:28+0000",
+      "id": "18142821187625789",
+      "text": "A kid who shuts down mid-task and says 'I don't want to' is almost never bored.\nUsually they hit something that felt too",
+      "permalink": "https://www.threads.com/@thelittlechicco/post/Df_wJYQEWZy",
+      "timestamp": "2026-11-21T08:01:20+0000",
       "metrics": {
-        "views": 18,
+        "views": 16,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -94,9 +111,7 @@
         "shares": 0
       },
       "engagement": 0
-    }
-  ],
-  "recent_posts": [
+    },
     {
       "id": "18588063400070018",
       "text": "Writing \"first sentences\" is deceptively hard to scaffold — too much structure and kids just fill in blanks without thin",
@@ -224,21 +239,6 @@
       "timestamp": "2026-11-19T20:01:22+0000",
       "metrics": {
         "views": 8,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18121890665076544",
-      "text": "No-pressure learning is harder to design than it sounds — the temptation is to add more prompts, more scaffolding, more ",
-      "permalink": "https://www.threads.com/@thelittlechicco/post/Df7kXdLFCg6",
-      "timestamp": "2026-11-19T17:01:25+0000",
-      "metrics": {
-        "views": 11,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
