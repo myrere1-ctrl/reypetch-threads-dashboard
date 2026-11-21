@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-11-20T21:17:05.147Z",
+  "updated_at": "2026-11-21T02:32:12.514Z",
   "profile": {
     "username": "iams_ichi",
     "name": "I.petch",
     "biography": "🇦🇺\nCMO at COA.AU &\nNo-Code App Builder\nOnly Positive Vibes\nIt’s about the vibe and the feeling. \nThe names of the places? 🤔",
-    "picture": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ig_cache_key=GP7jVy3SUhQ8xp4-AMBIEGSqJAN4bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=HWfpjXWaU-AQ7kNvwGemi4U&_nc_oc=AdrQAlZBOmYrlQMzffAh5GfJIr4f_YFTEEPe4XifC3Fu05s-HIfMWmMszuk0QMuIIOg&_nc_zt=24&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=Cl8gl5IWlo_vEIOkokTr_Q&_nc_tpa=Q5bMBQKwVOTucakBNkXznd6WLN1G4FvqxsbRD-CijZEFf3gynldXzE2yrQ2A7OF2VspR4ajiFzu-eAvF9w&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQQKhpaBXySlzL46lJOJNkavyG-ohAlef08lgW_AXl1Q7Q&oe=6B06929E"
+    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ig_cache_key=GP7jVy3SUhQ8xp4-AMBIEGSqJAN4bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=HWfpjXWaU-AQ7kNvwGTM4ee&_nc_oc=AdpPk1abn6P5BuVmoXHfPYDgXSSSMyX-uUAuT4VtaojUOAtYw2IVUkucpO6M6CrhMCk&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=_KtvPtVYUHLdHpON7z8nxQ&_nc_tpa=Q5bMBQK8O472sP3yy-tlvhB07WaUUnrinCAHx3N_6FXr83A_-xJahZg4JPy54w6q_yNdwTp7Td0rZzWLUw&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQSWZB01zm1cTKeVL7gISsSV3bpzDLelqBG8J8s0kToZoA&oe=6B06CADE"
   },
   "summary": {
     "followers_count": 1401,
-    "views": 48,
-    "likes": 1,
-    "replies": 0,
+    "views": 88,
+    "likes": 3,
+    "replies": 10,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 34,
-    "engagement_rate": 70.83,
+    "engagement_total": 41,
+    "engagement_rate": 46.59,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -29,12 +29,27 @@
       "metrics": {
         "views": 53,
         "likes": 5,
-        "replies": 2,
+        "replies": 4,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 7
+      "engagement": 9
+    },
+    {
+      "id": "18200291881394588",
+      "text": "Everyone says Italy is expensive if you sit down at a café. Technically true — but only if you don't know how it actuall",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DfrXhwRlu_v",
+      "timestamp": "2026-11-13T10:01:22+0000",
+      "metrics": {
+        "views": 39,
+        "likes": 0,
+        "replies": 8,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 8
     },
     {
       "id": "18173663080422331",
@@ -52,19 +67,19 @@
       "engagement": 4
     },
     {
-      "id": "18200291881394588",
-      "text": "Everyone says Italy is expensive if you sit down at a café. Technically true — but only if you don't know how it actuall",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DfrXhwRlu_v",
-      "timestamp": "2026-11-13T10:01:22+0000",
+      "id": "18189925405411058",
+      "text": "I just realized I never actually planned my first solo Europe trip — I just... went.\nTurns out the chaos taught me more ",
+      "permalink": "https://www.threads.com/@iams_ichi/post/Df4Pf8kG52z",
+      "timestamp": "2026-11-18T10:01:21+0000",
       "metrics": {
-        "views": 38,
-        "likes": 0,
-        "replies": 4,
+        "views": 73,
+        "likes": 1,
+        "replies": 2,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 4
+      "engagement": 3
     },
     {
       "id": "18579273886076950",
@@ -80,21 +95,6 @@
         "shares": 0
       },
       "engagement": 2
-    },
-    {
-      "id": "18189925405411058",
-      "text": "I just realized I never actually planned my first solo Europe trip — I just... went.\nTurns out the chaos taught me more ",
-      "permalink": "https://www.threads.com/@iams_ichi/post/Df4Pf8kG52z",
-      "timestamp": "2026-11-18T10:01:21+0000",
-      "metrics": {
-        "views": 72,
-        "likes": 1,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 2
     }
   ],
   "recent_posts": [
@@ -104,7 +104,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Df90kASFmWQ",
       "timestamp": "2026-11-20T14:01:26+0000",
       "metrics": {
-        "views": 7,
+        "views": 8,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -149,7 +149,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Df8iJqHlJEQ",
       "timestamp": "2026-11-20T02:01:19+0000",
       "metrics": {
-        "views": 6,
+        "views": 7,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
