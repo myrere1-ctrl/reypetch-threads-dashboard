@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-11-22T00:27:08.203Z",
+  "updated_at": "2026-11-22T08:09:59.930Z",
   "profile": {
     "username": "iams_ichi",
     "name": "I.petch",
     "biography": "🇦🇺\nCMO at COA.AU &\nNo-Code App Builder\nOnly Positive Vibes\nIt’s about the vibe and the feeling. \nThe names of the places? 🤔",
-    "picture": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ig_cache_key=GP7jVy3SUhQ8xp4-AMBIEGSqJAN4bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzIifQ%3D%3D&_nc_ohc=4goapSOj37MQ7kNvwEurPyX&_nc_oc=AdppB0K8MXAEgNz3n855vfFNnKfQtQIfWmWbbcrAyVE2BrNgpI_pcb8MyvrrcvZRNR0&_nc_zt=24&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=PchsZZzAaPnt1lvyHXrg8Q&_nc_tpa=Q5bMBQI8a_jdorljOtos_022yTiqxsQDJXX7tV9swbVj1Py2Jt-g_rkUxli9kgjzHNeFkhdUm1PAaFOv6w&_nc_ct=RQgsPBUCFQIAAAA&oh=00_AQRlqy7owjsu4eGQjJHPtNT3--xLEcj8Ez03WrBZ8Ffaow&oe=6B081C5E"
+    "picture": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ig_cache_key=GP7jVy3SUhQ8xp4-AMBIEGSqJAN4bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=4goapSOj37MQ7kNvwGFPsHO&_nc_oc=AdqPSNmc_RHE8_zHA8X4_4rTM4xNc5vk2h0zL0sRKJxriA35-E80FgzZm9HNi243JEE&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=NNpWbNhD_kZxj-aqtTtOAg&_nc_tpa=Q5bMBQLzlWnHZnFbWpXkSSZONAS5IMHZleAY8bAO_FXE61OcWEQSk2gqD-pay37HjgC86SVdokKWDaTRag&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQQLvu8IMq_YHtYD21L8H9bR5G3i9bzPWtmH6H6Jauk-IQ&oe=6B088CDE"
   },
   "summary": {
     "followers_count": 1401,
-    "views": 93,
-    "likes": 2,
+    "views": 0,
+    "likes": 0,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 38,
-    "engagement_rate": 40.86,
+    "engagement_total": 36,
+    "engagement_rate": 0,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -42,7 +42,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Df_9FHII7-M",
       "timestamp": "2026-11-21T09:53:47+0000",
       "metrics": {
-        "views": 3,
+        "views": 5,
         "likes": 0,
         "replies": 6,
         "reposts": 0,
@@ -99,12 +99,27 @@
   ],
   "recent_posts": [
     {
+      "id": "17941639317124821",
+      "text": "Pizza lover 😋",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DgBzrHao7Tn",
+      "timestamp": "2026-11-22T03:10:05+0000",
+      "metrics": {
+        "views": 8,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "17904950820608946",
       "text": "5 Hidden Beaches Near Coffs Harbour Nobody Tells You About (All Within 15 Min From Park Beach Mall\n\n1/ You're staying ne",
       "permalink": "https://www.threads.com/@iams_ichi/post/Df_9FHII7-M",
       "timestamp": "2026-11-21T09:53:47+0000",
       "metrics": {
-        "views": 3,
+        "views": 5,
         "likes": 0,
         "replies": 6,
         "reposts": 0,
@@ -134,7 +149,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/Df_6Bj_IzA-",
       "timestamp": "2026-11-21T09:27:05+0000",
       "metrics": {
-        "views": 1,
+        "views": 2,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -232,21 +247,6 @@
         "shares": 0
       },
       "engagement": 1
-    },
-    {
-      "id": "18579273886076950",
-      "text": "Three days in the outback with almost zero human contact — and I came home more recharged than any holiday with an itine",
-      "permalink": "https://www.threads.com/@iams_ichi/post/Df6Y0vskQQI",
-      "timestamp": "2026-11-19T06:01:19+0000",
-      "metrics": {
-        "views": 16,
-        "likes": 0,
-        "replies": 2,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 2
     }
   ]
 }
