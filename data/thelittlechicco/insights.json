@@ -1,14 +1,14 @@
 {
   "account": "thelittlechicco",
-  "updated_at": "2026-11-22T00:28:33.645Z",
+  "updated_at": "2026-11-22T08:11:36.579Z",
   "profile": {
     "username": "thelittlechicco",
     "biography": "The Little Chic Co. \nYou don’t need to be a teacher to explore English with your child. \n💛 Grab my FREE illustrated parent guide and activity PDF ⬇️",
-    "picture": "https://scontent-dfw5-3.cdninstagram.com/v/t51.82787-19/910384646_18119299813951330_5086466759080467333_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ig_cache_key=GAZeQzZiR-08aF9AAIXb0nCRwpZGbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=aG2qZWAPP7kQ7kNvwG2mqbi&_nc_oc=Adq4gMVr36nhb7bqrjTE0_VlcSqCvYfgfeHtVBVcqAVBUwGWiAXswfQdp1T9IYKK2Hc&_nc_zt=24&_nc_ht=scontent-dfw5-3.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=2-e5r4kgXoFDN7ryRYXVAw&_nc_tpa=Q5bMBQLYy3kwmye57qC4iCmp8VzPuiW-BWHa3Qs668gVwikUPyybWLVYCxyZPhSyzFFCKn8n1v32TkL0eA&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQREyhjZsQJq6PmO02UFXRpDGnd8DuU_h8I7BCot_3Jntw&oe=6B07F9CA"
+    "picture": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/910384646_18119299813951330_5086466759080467333_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ig_cache_key=GAZeQzZiR-08aF9AAIXb0nCRwpZGbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=aG2qZWAPP7kQ7kNvwGsVATi&_nc_oc=AdrluK8VftYzYQ6UiHg62BVcYS7Yh4lRFsre7qadtuRHJ6zsCnyNEXI-IlcpKSzgsuo&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=JmV08t2Odi7fPl409IOt3Q&_nc_tpa=Q5bMBQJViB8ZGGj7p-6fjXTuAhDOaUYzjpR3Dy9JEspgBLb6iF2PLStXYQ0IP2Jpa5YkdnIYR2h-Izoh3w&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQQV2k1wTdqlxQO8JbmT2RFOprxvf8ByIx99xoPOHmebWQ&oe=6B086A4A"
   },
   "summary": {
     "followers_count": 3,
-    "views": 59,
+    "views": 0,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
@@ -20,6 +20,21 @@
     "post_count": 25
   },
   "top_posts": [
+    {
+      "id": "18109686113356582",
+      "text": "Classroom review lands differently when kids get to explain the rule out loud — not answer a question, but actually teac",
+      "permalink": "https://www.threads.com/@thelittlechicco/post/DgCU9KQG2HO",
+      "timestamp": "2026-11-22T08:01:27+0000",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
     {
       "id": "18119651318224222",
       "text": "A weekly routine does something interesting for kids — it removes the decision fatigue.\nWhen they already know Tuesday i",
@@ -79,14 +94,16 @@
         "shares": 0
       },
       "engagement": 0
-    },
+    }
+  ],
+  "recent_posts": [
     {
-      "id": "17900372691612496",
-      "text": "Kids absorb grammar backwards from how we teach it.\nThey use the pattern correctly, then learn the rule — almost as a la",
-      "permalink": "https://www.threads.com/@thelittlechicco/post/DgALni8FIqf",
-      "timestamp": "2026-11-21T12:01:22+0000",
+      "id": "18109686113356582",
+      "text": "Classroom review lands differently when kids get to explain the rule out loud — not answer a question, but actually teac",
+      "permalink": "https://www.threads.com/@thelittlechicco/post/DgCU9KQG2HO",
+      "timestamp": "2026-11-22T08:01:27+0000",
       "metrics": {
-        "views": 9,
+        "views": 0,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -94,9 +111,7 @@
         "shares": 0
       },
       "engagement": 0
-    }
-  ],
-  "recent_posts": [
+    },
     {
       "id": "18119651318224222",
       "text": "A weekly routine does something interesting for kids — it removes the decision fatigue.\nWhen they already know Tuesday i",
@@ -224,21 +239,6 @@
       "timestamp": "2026-11-20T17:16:05+0000",
       "metrics": {
         "views": 2,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18129040093681576",
-      "text": "A kid who cries over a 'wrong' answer during summer review isn't being dramatic.\nThey're telling you the pressure to alr",
-      "permalink": "https://www.threads.com/@thelittlechicco/post/Df-JKZoFd-L",
-      "timestamp": "2026-11-20T17:01:27+0000",
-      "metrics": {
-        "views": 1,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
