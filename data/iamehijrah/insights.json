@@ -1,21 +1,21 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-11-22T16:26:03.022Z",
+  "updated_at": "2026-11-22T22:33:49.311Z",
   "profile": {
     "username": "_iame.hijrah",
     "biography": "Hijrah Journey \nInbox ➡️Akses Safar AI",
-    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ig_cache_key=GHPulixGDYKQ0TVAAKrnbOIoMBtnbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=45EXrd36JYoQ7kNvwEegJzo&_nc_oc=AdpM-acFKU2cEyHlU_t1ufmUpK4kRnn_3WDzjdVNSavidfxcDbT0EGSmrNxMIHuKxLo&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=sfZnLLCB5fWuGl-2t7KpXQ&_nc_tpa=Q5bMBQLKmR03CD_4TJRI5Co4yIuAlIWEN3SaUc-PZqPg6dbnYOyOzmUWa7uFx2ixjeGdQc54nUCB5LeMKA&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQRTqrbTbAzpx9O9uZKhUWG9MAWD-UvuTdGw6DYIqw2sFA&oe=6B08EED3"
+    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ig_cache_key=GHPulixGDYKQ0TVAAKrnbOIoMBtnbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=45EXrd36JYoQ7kNvwEa3FD7&_nc_oc=AdopPkIqLMHCT3IC-otjGPMoK0hOTZLKlzVyo0dzMBMhVo9jitn49Q5wn3xJsXy-q-I&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=NH6guCpH7cQWT3kvbVcbhA&_nc_tpa=Q5bMBQJuEq9dDyz1LERjOpeYGiuoAjO9IZ1CNEasYMS-tzIAEwXcOu5uFqU_3RomL60rDYvDYfjFJ6T2TA&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQTAAeNXSlOv8O5ICwoqbvzXjNNgpLcF08FXo4dBv0sNhQ&oe=6B092713"
   },
   "summary": {
     "followers_count": 11,
-    "views": 17,
-    "likes": 0,
+    "views": 27,
+    "likes": 1,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 84,
-    "engagement_rate": 494.12,
+    "engagement_rate": 311.11,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -97,6 +97,21 @@
     }
   ],
   "recent_posts": [
+    {
+      "id": "18138781991507099",
+      "text": "Nenek aku dulu bilang — kalau doa belum dijawab, jangan berhenti. Tambahin sholawat sebelum dan sesudahnya, lalu pasrahi",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DgD1FhuDxcR",
+      "timestamp": "2026-11-22T22:01:27+0000",
+      "metrics": {
+        "views": 5,
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
     {
       "id": "18134886166808475",
       "text": "Jutaan Muslim Indonesia Masih Buka Google Tiap Mau Ruqyah — Ini Solusinya\n\n1/ Jujur deh... Tiap mau baca ruqyah atau zik",
@@ -231,21 +246,6 @@
         "shares": 0
       },
       "engagement": 0
-    },
-    {
-      "id": "17938702605408465",
-      "text": "Ibu aku selalu bilang — kalau ngerasa jauh dari Allah, jangan nunggu \"siap\" dulu baru balik.\nKarena nunggu siap itu bisa",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Df8GtVeGc2a",
-      "timestamp": "2026-11-19T22:01:31+0000",
-      "metrics": {
-        "views": 122,
-        "likes": 8,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 8
     }
   ]
 }
