@@ -1,21 +1,21 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-11-22T08:10:41.186Z",
+  "updated_at": "2026-11-22T16:26:03.022Z",
   "profile": {
     "username": "_iame.hijrah",
     "biography": "Hijrah Journey \nInbox ➡️Akses Safar AI",
-    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ig_cache_key=GHPulixGDYKQ0TVAAKrnbOIoMBtnbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=45EXrd36JYoQ7kNvwE1IWAd&_nc_oc=AdonSXI0nn9lwpVpjUUlUxHnkay2uPTOqZnzpyupJMZMXIyzWXck-cynX7HELAN144A&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=B-MlzB8E1GInyvRBJ12QVQ&_nc_tpa=Q5bMBQJ06bfBGSTjoReVdFZIc8GQJaS8rIEUUw5OC-6tJUxMWobyFC7Qb7C2MrdwL2XP_tZ7HHP2k7oChQ&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQRpXrTP3Hwh04UEmGJt1HO8Gx4tam_0pXWKGboYXqbq3A&oe=6B087E53"
+    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ig_cache_key=GHPulixGDYKQ0TVAAKrnbOIoMBtnbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=45EXrd36JYoQ7kNvwEegJzo&_nc_oc=AdpM-acFKU2cEyHlU_t1ufmUpK4kRnn_3WDzjdVNSavidfxcDbT0EGSmrNxMIHuKxLo&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=sfZnLLCB5fWuGl-2t7KpXQ&_nc_tpa=Q5bMBQLKmR03CD_4TJRI5Co4yIuAlIWEN3SaUc-PZqPg6dbnYOyOzmUWa7uFx2ixjeGdQc54nUCB5LeMKA&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQRTqrbTbAzpx9O9uZKhUWG9MAWD-UvuTdGw6DYIqw2sFA&oe=6B08EED3"
   },
   "summary": {
     "followers_count": 11,
-    "views": 0,
+    "views": 17,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 78,
-    "engagement_rate": 0,
+    "engagement_total": 84,
+    "engagement_rate": 494.12,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -81,22 +81,37 @@
       "engagement": 7
     },
     {
-      "id": "18048470210834068",
-      "text": "3 amalan yang ternyata bikin makin tenang — nomor 2 aku sendiri hampir lupa\n1. Ayat Kursi — dulu baca cuma habis sholat,",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Df7I7o9ET8O",
-      "timestamp": "2026-11-19T13:01:42+0000",
+      "id": "18134886166808475",
+      "text": "Jutaan Muslim Indonesia Masih Buka Google Tiap Mau Ruqyah — Ini Solusinya\n\n1/ Jujur deh... Tiap mau baca ruqyah atau zik",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DgCzvrIAN_x",
+      "timestamp": "2026-11-22T12:29:57+0000",
       "metrics": {
-        "views": 177,
-        "likes": 4,
-        "replies": 0,
+        "views": 16,
+        "likes": 0,
+        "replies": 6,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 4
+      "engagement": 6
     }
   ],
   "recent_posts": [
+    {
+      "id": "18134886166808475",
+      "text": "Jutaan Muslim Indonesia Masih Buka Google Tiap Mau Ruqyah — Ini Solusinya\n\n1/ Jujur deh... Tiap mau baca ruqyah atau zik",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DgCzvrIAN_x",
+      "timestamp": "2026-11-22T12:29:57+0000",
+      "metrics": {
+        "views": 16,
+        "likes": 0,
+        "replies": 6,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 6
+    },
     {
       "id": "18120387038081042",
       "text": "Pernah nggak ngerasa hidup kayak kurang mulu, padahal udah usaha keras?\nIbu aku selalu bilang, jangan pernah tinggalin A",
@@ -231,21 +246,6 @@
         "shares": 0
       },
       "engagement": 8
-    },
-    {
-      "id": "18344254036258020",
-      "text": "Dzikir pagi-petang itu... ternyata bukan soal hafal banyak, tapi soal niat pas mulainya.\nAku sempet ngerasa \"udah baca k",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/Df7dhmOFZ4A",
-      "timestamp": "2026-11-19T16:01:39+0000",
-      "metrics": {
-        "views": 6,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
     }
   ]
 }
