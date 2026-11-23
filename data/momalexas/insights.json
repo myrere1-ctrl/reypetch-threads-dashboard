@@ -1,21 +1,21 @@
 {
   "account": "momalexas",
-  "updated_at": "2026-11-23T03:48:03.889Z",
+  "updated_at": "2026-11-23T14:56:30.205Z",
   "profile": {
     "username": "momalexas",
     "biography": "Mom of Alexa | Little Chic\nFREE ABC WORKSHEETS! \n💗 A–Z letter tracing and handwriting practice for preschoolers. ⤵️",
-    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/863909215_18139653901622407_2117382295371030649_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ig_cache_key=GF81fjOHnCdL63FAAHmgSrH6c2IdbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=KUB_nT0YN_0Q7kNvwGWnlct&_nc_oc=Adq2m_kLYF_vweQhLj8TyLk4Tav0ZvTgItth_W-M7Vy58pNaCivJX7IYfCvySM8AzdM&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=kLCOKBmQTxoz4mwYzea7Iw&_nc_tpa=Q5bMBQIEHFy6Cx4gRGUIc9q7t5RXJqPr0H6dM7nyDIWml14dhMehoVF8xrXnAFeajHX8W1Spea6Ruz4z3w&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQRi5TspZb50rxNpeOTOD2Gk1UeI-jhRijE0pUkeO9HpWg&oe=6B09A15D"
+    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/863909215_18139653901622407_2117382295371030649_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ig_cache_key=GF81fjOHnCdL63FAAHmgSrH6c2IdbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=KUB_nT0YN_0Q7kNvwFs7CbA&_nc_oc=Adraq0aT7PFIRofsgddghCdLb7HS9HAdjbD44Zz3u8PKYxxMAEq1lZdSvzTrMUUMKSI&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=Uq3PlqINDDMkYnsLFbTeKw&_nc_tpa=Q5bMBQJQlA97r2U6Mr8AeOb8H_wVAcZ6R6a7jgllTitP7HwlfMnc_hmjlCDnOZJvZVpKK8QRi79C_MEd9w&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQRrAj_Shiq1UuXJ6t_GmUz-H79QUo-IWngdWq2G97y95g&oe=6B0A11DD"
   },
   "summary": {
     "followers_count": 105,
-    "views": 21,
+    "views": 10,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 9,
-    "engagement_rate": 42.86,
+    "engagement_rate": 90,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -97,6 +97,21 @@
     }
   ],
   "recent_posts": [
+    {
+      "id": "18104530997537136",
+      "text": "Holiday break felt endless some years — not magical, just long.\nI used to fill every quiet hour because the quiet made m",
+      "permalink": "https://www.threads.com/@momalexas/post/DgFi9bokYBO",
+      "timestamp": "2026-11-23T14:01:32+0000",
+      "metrics": {
+        "views": 8,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
     {
       "id": "18188294317422952",
       "text": "She didn't ask me what the word said. She asked me what it was doing in the sentence.\nThat question stopped me completel",
@@ -223,7 +238,7 @@
       "permalink": "https://www.threads.com/@momalexas/post/Df90kucG2_2",
       "timestamp": "2026-11-20T14:01:32+0000",
       "metrics": {
-        "views": 18,
+        "views": 19,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -231,21 +246,6 @@
         "shares": 0
       },
       "engagement": 0
-    },
-    {
-      "id": "17978582100168881",
-      "text": "Letters can begin as shapes long before they become sounds or words.\n\nFollowing curves and lines, then spotting a letter",
-      "permalink": "https://www.threads.com/@momalexas/post/Df9LWOpkqGu",
-      "timestamp": "2026-11-20T08:00:44+0000",
-      "metrics": {
-        "views": 26,
-        "likes": 1,
-        "replies": 2,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 3
     }
   ]
 }
