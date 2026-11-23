@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-11-23T03:46:51.121Z",
+  "updated_at": "2026-11-23T14:55:29.196Z",
   "profile": {
     "username": "iams_ichi",
     "name": "I.petch",
     "biography": "🇦🇺\nCMO at COA.AU &\nNo-Code App Builder\nOnly Positive Vibes\nIt’s about the vibe and the feeling. \nThe names of the places? 🤔",
-    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ig_cache_key=GP7jVy3SUhQ8xp4-AMBIEGSqJAN4bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=4goapSOj37MQ7kNvwG3IFTM&_nc_oc=AdrEdWkH4rxhHHWcB9O9eb_KY1qf-pqp7gXDS4xmy4J37rXJT8xpJYDRVyEvEXSE7Rg&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=aItejPFoqC5H_ECb64nw_g&_nc_tpa=Q5bMBQKQp8ZdBxm4Py8prQ9FZA274lCM8JGrMnd8WyUPmuMC8d5FhBM2Vez5SV3DPozf4F1846LtZOyMaw&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQSr9avx8n5AnSmhVPr30_iBSZA-LXHaI04IOHWQePOJ-A&oe=6B096DDE"
+    "picture": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ig_cache_key=GP7jVy3SUhQ8xp4-AMBIEGSqJAN4bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=4goapSOj37MQ7kNvwH7f1Iu&_nc_oc=AdrJLgHhsIyWQbk2RVGz4WSUO7Nibw5-tPKPCJBWXYeyEOgWAvW_IdwKms_tsQ_SU3k&_nc_zt=24&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=SsIBzuJJuvua8HKUS-KK1A&_nc_tpa=Q5bMBQK7GBU01IuiP9T5-z92JHnRgrhttuIzj-MtLARX3Qp6l67E1PakCYeyzN5YirZjWRm7NAhARzC1kA&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQTdyfAMe4D5T3Zr44IHwNfjFmsl5XnNa_KsdZ-BdME2Jg&oe=6B0A169E"
   },
   "summary": {
     "followers_count": 1401,
-    "views": 164,
-    "likes": 0,
-    "replies": 5,
+    "views": 35,
+    "likes": 2,
+    "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 35,
-    "engagement_rate": 21.34,
+    "engagement_total": 36,
+    "engagement_rate": 102.86,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -99,12 +99,57 @@
   ],
   "recent_posts": [
     {
+      "id": "18120883640596762",
+      "text": "NSW south coast hit different when you just... stop scheduling it.\nPulled over at a random lookout, sat there for 40 min",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DgFi7mJm501",
+      "timestamp": "2026-11-23T14:01:17+0000",
+      "metrics": {
+        "views": 7,
+        "likes": 1,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 2
+    },
+    {
+      "id": "18144844930623077",
+      "text": "Italy crowds are loud and fast and everyone wants something from you.\nFound my reset in a side street, standing alone wi",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DgFHec6IAv1",
+      "timestamp": "2026-11-23T10:01:22+0000",
+      "metrics": {
+        "views": 2,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "17881536348564548",
+      "text": "Gold Coast coffee culture has a whole unspoken hierarchy and drip coffee is not on it.\nFlat white minimum. Oat latte if ",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DgEsAs0m4ei",
+      "timestamp": "2026-11-23T06:01:23+0000",
+      "metrics": {
+        "views": 3,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
       "id": "18039111713852510",
       "text": "It's mid-November and Japan just dropped its koyo forecast like a seasonal event announcement.\nPeople are literally trac",
       "permalink": "https://www.threads.com/@iams_ichi/post/DgEQiaBgEBp",
       "timestamp": "2026-11-23T02:01:18+0000",
       "metrics": {
-        "views": 27,
+        "views": 30,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -197,51 +242,6 @@
         "views": 5,
         "likes": 1,
         "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "18122058833096349",
-      "text": "Spent a week checking COA properties across regional QLD and I kept waiting to feel like I was working.\nTurns out drivin",
-      "permalink": "https://www.threads.com/@iams_ichi/post/Df89nngFl83",
-      "timestamp": "2026-11-20T06:01:19+0000",
-      "metrics": {
-        "views": 7,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
-    },
-    {
-      "id": "18139201411576946",
-      "text": "Dinner in Tokyo: omakase counter, chef's choice, completely silent focus.\nLunch the same day: convenience store onigiri ",
-      "permalink": "https://www.threads.com/@iams_ichi/post/Df8iJqHlJEQ",
-      "timestamp": "2026-11-20T02:01:19+0000",
-      "metrics": {
-        "views": 8,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18094247753202038",
-      "text": "Gold Coast cafes have this unspoken rule: ordering drip coffee gets you a look.\nNot rude. Just... a vibe. Like you walke",
-      "permalink": "https://www.threads.com/@iams_ichi/post/Df7PwT8ESAK",
-      "timestamp": "2026-11-19T14:01:19+0000",
-      "metrics": {
-        "views": 15,
-        "likes": 0,
-        "replies": 1,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
