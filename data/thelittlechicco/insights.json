@@ -1,14 +1,14 @@
 {
   "account": "thelittlechicco",
-  "updated_at": "2026-11-22T22:34:45.742Z",
+  "updated_at": "2026-11-23T03:48:28.299Z",
   "profile": {
     "username": "thelittlechicco",
     "biography": "The Little Chic Co. \nYou don’t need to be a teacher to explore English with your child. \n💛 Grab my FREE illustrated parent guide and activity PDF ⬇️",
-    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/910384646_18119299813951330_5086466759080467333_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ig_cache_key=GAZeQzZiR-08aF9AAIXb0nCRwpZGbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=Bq9qSs_0rIgQ7kNvwF8fjie&_nc_oc=AdrN-WAwC2QIPnhjbVgCaQzJGmOx4eEBi66s1vR7U863GFZ2kdbVw-xN-mdiYB9X1Hk&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=oqFbpn0tF8m3I7jn7aWM-w&_nc_tpa=Q5bMBQJTNY7Zi_O0TJSmXqVQftpL3dBvFKqDkdejJEGOuxohoDECNVpmim8ptpsA6Ml4UXlPYNUEk0WfEg&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQTl-12ep1xjW7VMNYK8ggShejL1lJ44k9p-9abIz96hfg&oe=6B094B4A"
+    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/910384646_18119299813951330_5086466759080467333_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ig_cache_key=GAZeQzZiR-08aF9AAIXb0nCRwpZGbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=Bq9qSs_0rIgQ7kNvwHjFReZ&_nc_oc=AdroQI11B7TgF6Z53ySC2BmufGaJBWfuHLv7lsNaqCBjmlWWxc43lmC1syeiGH2EcJw&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=kLduj58UXCsRoqFbwZRtZg&_nc_tpa=Q5bMBQKDGaUo8F7rBYbSZWeKXmW2MX6M2fzs72cJY6ekX54Tv-NGSCSMz1ni53dkHFs_oBVTg9v9Y784AQ&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQQ5CFzC5erqXjLcY_t8AaIN9LUDfdcfvUyOLSu88VOOYQ&oe=6B09838A"
   },
   "summary": {
     "followers_count": 3,
-    "views": 84,
+    "views": 88,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
@@ -20,6 +20,21 @@
     "post_count": 25
   },
   "top_posts": [
+    {
+      "id": "17982187745921065",
+      "text": "A kid who cries over getting one answer wrong isn't being dramatic.\nThat reaction is usually about how much they cared —",
+      "permalink": "https://www.threads.com/@thelittlechicco/post/DgD78jVI_ik",
+      "timestamp": "2026-11-22T23:01:24+0000",
+      "metrics": {
+        "views": 4,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
     {
       "id": "17954352621052547",
       "text": "When a child melts down over something that seems tiny — a wrong answer, a word they can't pronounce — the feeling under",
@@ -79,14 +94,16 @@
         "shares": 0
       },
       "engagement": 0
-    },
+    }
+  ],
+  "recent_posts": [
     {
-      "id": "18109686113356582",
-      "text": "Classroom review lands differently when kids get to explain the rule out loud — not answer a question, but actually teac",
-      "permalink": "https://www.threads.com/@thelittlechicco/post/DgCU9KQG2HO",
-      "timestamp": "2026-11-22T08:01:27+0000",
+      "id": "17982187745921065",
+      "text": "A kid who cries over getting one answer wrong isn't being dramatic.\nThat reaction is usually about how much they cared —",
+      "permalink": "https://www.threads.com/@thelittlechicco/post/DgD78jVI_ik",
+      "timestamp": "2026-11-22T23:01:24+0000",
       "metrics": {
-        "views": 21,
+        "views": 4,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -94,9 +111,7 @@
         "shares": 0
       },
       "engagement": 0
-    }
-  ],
-  "recent_posts": [
+    },
     {
       "id": "17954352621052547",
       "text": "When a child melts down over something that seems tiny — a wrong answer, a word they can't pronounce — the feeling under",
@@ -224,21 +239,6 @@
       "timestamp": "2026-11-21T14:01:22+0000",
       "metrics": {
         "views": 11,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "17900372691612496",
-      "text": "Kids absorb grammar backwards from how we teach it.\nThey use the pattern correctly, then learn the rule — almost as a la",
-      "permalink": "https://www.threads.com/@thelittlechicco/post/DgALni8FIqf",
-      "timestamp": "2026-11-21T12:01:22+0000",
-      "metrics": {
-        "views": 9,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
