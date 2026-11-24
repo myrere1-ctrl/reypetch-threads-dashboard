@@ -1,21 +1,21 @@
 {
   "account": "momalexas",
-  "updated_at": "2026-11-23T14:56:30.205Z",
+  "updated_at": "2026-11-24T02:21:16.108Z",
   "profile": {
     "username": "momalexas",
     "biography": "Mom of Alexa | Little Chic\nFREE ABC WORKSHEETS! \n💗 A–Z letter tracing and handwriting practice for preschoolers. ⤵️",
-    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/863909215_18139653901622407_2117382295371030649_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ig_cache_key=GF81fjOHnCdL63FAAHmgSrH6c2IdbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=KUB_nT0YN_0Q7kNvwFs7CbA&_nc_oc=Adraq0aT7PFIRofsgddghCdLb7HS9HAdjbD44Zz3u8PKYxxMAEq1lZdSvzTrMUUMKSI&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=Uq3PlqINDDMkYnsLFbTeKw&_nc_tpa=Q5bMBQJQlA97r2U6Mr8AeOb8H_wVAcZ6R6a7jgllTitP7HwlfMnc_hmjlCDnOZJvZVpKK8QRi79C_MEd9w&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQRrAj_Shiq1UuXJ6t_GmUz-H79QUo-IWngdWq2G97y95g&oe=6B0A11DD"
+    "picture": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/863909215_18139653901622407_2117382295371030649_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ig_cache_key=GF81fjOHnCdL63FAAHmgSrH6c2IdbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=KUB_nT0YN_0Q7kNvwGX4evs&_nc_oc=AdqIMVmbu0fjn_2WfkjxoR2y-WKzmhvlenAjD1zju9n1sn5SvSsW0-v7YZcy9znoak8&_nc_zt=24&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=EBXwdr3DmVvZ1Yywz_ej6Q&_nc_tpa=Q5bMBQKneKDLxorFtKvxfEhTlmqUD4n18PJxiZYBNLymJeHKpc1DBjrL8R-uFOVgt3wPyJijT969rQ35Tg&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQQjg4cxxbOQF_iswKxILWN5WG_7ph0D64d3cWr_HSfF-g&oe=6B0ABA9D"
   },
   "summary": {
     "followers_count": 105,
-    "views": 10,
-    "likes": 0,
+    "views": 30,
+    "likes": 1,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 9,
-    "engagement_rate": 90,
+    "engagement_total": 10,
+    "engagement_rate": 33.33,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -66,6 +66,21 @@
       "engagement": 2
     },
     {
+      "id": "18149296804597357",
+      "text": "She fell apart at bedtime over nothing I could identify.\nNot overtired. Not scared. Just... leaking somehow.\nI stopped t",
+      "permalink": "https://www.threads.com/@momalexas/post/DgF3jFwFPqg",
+      "timestamp": "2026-11-23T17:01:28+0000",
+      "metrics": {
+        "views": 14,
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
       "id": "18201552268389391",
       "text": "Uppercase and lowercase can feel like two different alphabets.\n\nTo a four-year-old, A and a may look unrelated. Matching",
       "permalink": "https://www.threads.com/@momalexas/post/Df_95P_CHRo",
@@ -79,14 +94,16 @@
         "shares": 0
       },
       "engagement": 1
-    },
+    }
+  ],
+  "recent_posts": [
     {
-      "id": "18067847420545566",
-      "text": "Ocean Animals Maze Worksheet for Ages 3–4 | Printable PDF\n\nGet the free worksheet! A cute, easy-to-print ocean animals w",
-      "permalink": "https://www.threads.com/@momalexas/post/Df7jxPmCupv",
-      "timestamp": "2026-11-19T16:55:40+0000",
+      "id": "18149296804597357",
+      "text": "She fell apart at bedtime over nothing I could identify.\nNot overtired. Not scared. Just... leaking somehow.\nI stopped t",
+      "permalink": "https://www.threads.com/@momalexas/post/DgF3jFwFPqg",
+      "timestamp": "2026-11-23T17:01:28+0000",
       "metrics": {
-        "views": 126,
+        "views": 14,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -94,16 +111,14 @@
         "shares": 0
       },
       "engagement": 1
-    }
-  ],
-  "recent_posts": [
+    },
     {
       "id": "18104530997537136",
       "text": "Holiday break felt endless some years — not magical, just long.\nI used to fill every quiet hour because the quiet made m",
       "permalink": "https://www.threads.com/@momalexas/post/DgFi9bokYBO",
       "timestamp": "2026-11-23T14:01:32+0000",
       "metrics": {
-        "views": 8,
+        "views": 9,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -224,21 +239,6 @@
       "timestamp": "2026-11-20T17:01:28+0000",
       "metrics": {
         "views": 16,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18133392325829842",
-      "text": "She came to me angry about something small — a toy, a turn, I can't even remember.\nBut when I sat down instead of redire",
-      "permalink": "https://www.threads.com/@momalexas/post/Df90kucG2_2",
-      "timestamp": "2026-11-20T14:01:32+0000",
-      "metrics": {
-        "views": 19,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
