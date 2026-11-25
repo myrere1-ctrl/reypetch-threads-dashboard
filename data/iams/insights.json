@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-11-24T23:05:24.564Z",
+  "updated_at": "2026-11-25T05:29:36.099Z",
   "profile": {
     "username": "iams_ichi",
     "name": "I.petch",
     "biography": "🇦🇺\nCMO at COA.AU &\nNo-Code App Builder\nOnly Positive Vibes\nIt’s about the vibe and the feeling. \nThe names of the places? 🤔",
-    "picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ig_cache_key=GP7jVy3SUhQ8xp4-AMBIEGSqJAN4bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=9ULTVoDNz4MQ7kNvwGU6t4G&_nc_oc=AdpiVK9Q8iFkRiIi1yJj0JRsI2CkjWMKMVMdNIttH-hQYwzxZIcmCvXJJtRGYDgWiFU&_nc_zt=24&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=lJYIhTrNFaGB4rCxUXybRg&_nc_tpa=Q5bMBQKSHjkjq2G6mDJsm3vRdogfU0pH7GkrWa1DS4s7leEHTze4F3YLri7K9a28cKCjm1-hN2C_QzVscw&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQSYFnyuMK5d9205XS8ukD7fT9y4AX8an6c9gfg0X0uyKQ&oe=6B0BD89E"
+    "picture": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ig_cache_key=GP7jVy3SUhQ8xp4-AMBIEGSqJAN4bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=9ULTVoDNz4MQ7kNvwHy9in9&_nc_oc=Ado6A6o8bz0_UeIAG7D3A_m9-Rp530to0DplU9KeoCiiyInx7kfGfoHjCN1ks7GGQ4U&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=yAWuwInZDgQJWJ9sAsr5Ow&_nc_tpa=Q5bMBQKWBz9kOVLQF7ifK9ZPWji1W6NHCYedYXe1hmbHV0RiKf4h0YXu1pXZOb0l53I6abH7y80viYFa2A&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQRDHE5s1WKzNB6YHYHl2a8F3ZzXNixDbBUpluE4QRwfgg&oe=6B0C491E"
   },
   "summary": {
     "followers_count": 1401,
-    "views": 77,
-    "likes": 1,
-    "replies": 0,
+    "views": 106,
+    "likes": 2,
+    "replies": 1,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 24,
-    "engagement_rate": 31.17,
+    "engagement_total": 22,
+    "engagement_rate": 20.75,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -67,19 +67,19 @@
       "engagement": 3
     },
     {
-      "id": "18189925405411058",
-      "text": "I just realized I never actually planned my first solo Europe trip — I just... went.\nTurns out the chaos taught me more ",
-      "permalink": "https://www.threads.com/@iams_ichi/post/Df4Pf8kG52z",
-      "timestamp": "2026-11-18T10:01:21+0000",
+      "id": "18115194173145982",
+      "text": "It's 11pm in Tokyo and the convenience store near my hotel just became my entire personality.\nWarm canned coffee, two on",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DgJaISMlQVx",
+      "timestamp": "2026-11-25T02:01:20+0000",
       "metrics": {
-        "views": 73,
-        "likes": 1,
-        "replies": 2,
+        "views": 11,
+        "likes": 0,
+        "replies": 1,
         "reposts": 0,
         "quotes": 0,
         "shares": 0
       },
-      "engagement": 3
+      "engagement": 1
     },
     {
       "id": "18103202003644976",
@@ -98,6 +98,21 @@
     }
   ],
   "recent_posts": [
+    {
+      "id": "18115194173145982",
+      "text": "It's 11pm in Tokyo and the convenience store near my hotel just became my entire personality.\nWarm canned coffee, two on",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DgJaISMlQVx",
+      "timestamp": "2026-11-25T02:01:20+0000",
+      "metrics": {
+        "views": 11,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
     {
       "id": "18103202003644976",
       "text": "Drove into a COA property deep in the Tasmanian wilderness yesterday — work trip, technically.\nThe kind of quiet where y",
@@ -119,7 +134,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DgHsRBKltoL",
       "timestamp": "2026-11-24T10:01:20+0000",
       "metrics": {
-        "views": 32,
+        "views": 34,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -149,7 +164,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DgG1VJskccH",
       "timestamp": "2026-11-24T02:01:18+0000",
       "metrics": {
-        "views": 21,
+        "views": 22,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -179,7 +194,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DgGFJmok9Sh",
       "timestamp": "2026-11-23T18:59:45+0000",
       "metrics": {
-        "views": 1,
+        "views": 5,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -232,21 +247,6 @@
         "shares": 0
       },
       "engagement": 1
-    },
-    {
-      "id": "18039111713852510",
-      "text": "It's mid-November and Japan just dropped its koyo forecast like a seasonal event announcement.\nPeople are literally trac",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DgEQiaBgEBp",
-      "timestamp": "2026-11-23T02:01:18+0000",
-      "metrics": {
-        "views": 31,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
     }
   ]
 }
