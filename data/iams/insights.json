@@ -1,22 +1,22 @@
 {
   "account": "iams",
-  "updated_at": "2026-11-26T11:04:13.799Z",
+  "updated_at": "2026-11-26T20:15:32.747Z",
   "profile": {
     "username": "iams_ichi",
     "name": "I.petch",
     "biography": "🇦🇺\nCMO at COA.AU &\nNo-Code App Builder\nOnly Positive Vibes\nIt’s about the vibe and the feeling. \nThe names of the places? 🤔",
-    "picture": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ig_cache_key=GP7jVy3SUhQ8xp4-AMBIEGSqJAN4bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=9ULTVoDNz4MQ7kNvwELNHr_&_nc_oc=AdrFIBBvLdaTvn6dJBXaEmQQBuegyV64byLF8NdGqFfJgL-awKXWDgJenAOhHOq8bds&_nc_zt=24&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=mmOtuT1iLLk6RkXHNqM8rg&_nc_tpa=Q5bMBQL1Z9WeT2ZsFeB_ueTD28Bmo_QL-hB3SThDEgCHiigdOfBfI0YVOaaZEzmghwgxmkNmv7z3rOlzfw&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQQD7uqTpxrIuokkmHlpuUzEpRom8VDPdNjfQ_hlKnh8mQ&oe=6B0DD2DE"
+    "picture": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/760734718_17907497781449426_8647796023723313344_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ig_cache_key=GP7jVy3SUhQ8xp4-AMBIEGSqJAN4bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=9ULTVoDNz4MQ7kNvwGKQ7-K&_nc_oc=Adpy1PbLGouI6JSh-kFN6sA4p5Zq2OSc0mB4z-LNT2e0ejwidKyRpnXwWe1w264OaW4&_nc_zt=24&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=IzooAUsm2_VjQELUV1hXPA&_nc_tpa=Q5bMBQK9ftitIrDZSllYPXdRdolTdz0KWXAABf8EqvmO1uPjrT_iVCOVLIc8YT_WIb926M7PWPGEzecCiA&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQQTKy1QsjqO62XsMHRmD4bVtw65oF4PHHCdQs0I3Co46g&oe=6B0E7B9E"
   },
   "summary": {
     "followers_count": 1402,
-    "views": 30,
+    "views": 80,
     "likes": 1,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
-    "engagement_total": 21,
-    "engagement_rate": 70,
+    "engagement_total": 22,
+    "engagement_rate": 27.5,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -57,7 +57,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DgMaZmHG1go",
       "timestamp": "2026-11-26T06:01:25+0000",
       "metrics": {
-        "views": 28,
+        "views": 34,
         "likes": 1,
         "replies": 1,
         "reposts": 0,
@@ -82,12 +82,12 @@
       "engagement": 2
     },
     {
-      "id": "18453104932130816",
-      "text": "There's a creek crossing somewhere past Carnarvon Gorge that's not on the main trail map.\nSat there for an hour. Just wa",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DgKsiDvkTau",
-      "timestamp": "2026-11-25T14:01:24+0000",
+      "id": "18103091099396230",
+      "text": "Assumed \"work property checks\" meant boring admin runs.\nShowed up to a site two hours from anywhere, no signal, creek ou",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DgNRUjbmzcO",
+      "timestamp": "2026-11-26T14:01:21+0000",
       "metrics": {
-        "views": 4,
+        "views": 2,
         "likes": 0,
         "replies": 1,
         "reposts": 0,
@@ -99,12 +99,27 @@
   ],
   "recent_posts": [
     {
+      "id": "18103091099396230",
+      "text": "Assumed \"work property checks\" meant boring admin runs.\nShowed up to a site two hours from anywhere, no signal, creek ou",
+      "permalink": "https://www.threads.com/@iams_ichi/post/DgNRUjbmzcO",
+      "timestamp": "2026-11-26T14:01:21+0000",
+      "metrics": {
+        "views": 2,
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 1
+    },
+    {
       "id": "18149703424607738",
       "text": "Unpopular opinion: Trastevere is overrated — but only if you go at the wrong time.\nHit it past 9pm on a weeknight and it",
       "permalink": "https://www.threads.com/@iams_ichi/post/DgM1258lSfn",
       "timestamp": "2026-11-26T10:01:21+0000",
       "metrics": {
-        "views": 6,
+        "views": 11,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -119,7 +134,7 @@
       "permalink": "https://www.threads.com/@iams_ichi/post/DgMaZmHG1go",
       "timestamp": "2026-11-26T06:01:25+0000",
       "metrics": {
-        "views": 28,
+        "views": 34,
         "likes": 1,
         "replies": 1,
         "reposts": 0,
@@ -232,21 +247,6 @@
         "shares": 0
       },
       "engagement": 0
-    },
-    {
-      "id": "18154581058529260",
-      "text": "7am, coastline walk before anyone else got here.\nThe water's doing that flat mirror thing and I genuinely forgot it's ju",
-      "permalink": "https://www.threads.com/@iams_ichi/post/DgHQy6tGwhO",
-      "timestamp": "2026-11-24T06:01:19+0000",
-      "metrics": {
-        "views": 2,
-        "likes": 0,
-        "replies": 1,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 1
     }
   ]
 }
