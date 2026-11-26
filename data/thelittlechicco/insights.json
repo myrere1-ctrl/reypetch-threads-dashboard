@@ -1,14 +1,14 @@
 {
   "account": "thelittlechicco",
-  "updated_at": "2026-11-26T01:51:51.519Z",
+  "updated_at": "2026-11-26T11:05:45.637Z",
   "profile": {
     "username": "thelittlechicco",
     "biography": "The Little Chic Co. \nYou don’t need to be a teacher to explore English with your child. \n💛 Grab my FREE illustrated parent guide and activity PDF ⬇️",
-    "picture": "https://scontent-lga3-1.cdninstagram.com/v/t51.82787-19/910384646_18119299813951330_5086466759080467333_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ig_cache_key=GAZeQzZiR-08aF9AAIXb0nCRwpZGbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=_F7940uT6Q8Q7kNvwF88Bjh&_nc_oc=AdooOXO7Xsv1f8iHwuFgVvu6rYvV5erK4dBHsACkU5tmq0kQYfGLLeRQZ226T-SuM1c&_nc_zt=24&_nc_ht=scontent-lga3-1.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=POWk5UAc3bn3yHAB4JwQTQ&_nc_tpa=Q5bMBQL0XLnv87qOAQ9X6lvB8PRE9EHMZgGUZjrvnUkVoFZ2BVrtLWf0Bs6Vy9eUdiOVf3IR8MbmTm1TPA&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQQ9-aMQpvPc0_cBGSzpEosXArcLZU7dV7xvk6isg8K80w&oe=6B0D780A"
+    "picture": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/910384646_18119299813951330_5086466759080467333_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ig_cache_key=GAZeQzZiR-08aF9AAIXb0nCRwpZGbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=_F7940uT6Q8Q7kNvwETR74c&_nc_oc=Ado82Js0v2pSgVC0H8500qWDCT1tf9EVf4EoRv2IZSq08o6oTNhNvt_u8sPLkE5t_LM&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=tRVhojqodURCil4wV8j0QA&_nc_tpa=Q5bMBQL3VwTH-eLqfhqDy6daZqGmAWuKxB5mCGXSIakDl4g0YaMIDrpT3696ZnN8NsRlBGGTfKG2-eerDQ&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQSrUhMIxjvDH_4w60KNjrep311HTOeM1pG_zzZjY702Nw&oe=6B0DE88A"
   },
   "summary": {
     "followers_count": 3,
-    "views": 76,
+    "views": 37,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
@@ -20,6 +20,21 @@
     "post_count": 25
   },
   "top_posts": [
+    {
+      "id": "18130860643920828",
+      "text": "Classroom review works best when kids don't realize they're reviewing.\nRepackage the same concept three different ways —",
+      "permalink": "https://www.threads.com/@thelittlechicco/post/DgMoIFJlV0S",
+      "timestamp": "2026-11-26T08:01:22+0000",
+      "metrics": {
+        "views": 37,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
     {
       "id": "18136454407742544",
       "text": "Kids rarely learn a new word by being told what it means.\nThey learn it by meeting it three times in context — and sudde",
@@ -41,7 +56,7 @@
       "permalink": "https://www.threads.com/@thelittlechicco/post/DgLVxevHwXx",
       "timestamp": "2026-11-25T20:01:45+0000",
       "metrics": {
-        "views": 15,
+        "views": 16,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -79,14 +94,16 @@
         "shares": 0
       },
       "engagement": 0
-    },
+    }
+  ],
+  "recent_posts": [
     {
-      "id": "18167278348495065",
-      "text": "A child who cries because they wrote the wrong letter — that's not drama.\nThat's someone who cares, and just watched the",
-      "permalink": "https://www.threads.com/@thelittlechicco/post/DgKsicQm7kB",
-      "timestamp": "2026-11-25T14:01:27+0000",
+      "id": "18130860643920828",
+      "text": "Classroom review works best when kids don't realize they're reviewing.\nRepackage the same concept three different ways —",
+      "permalink": "https://www.threads.com/@thelittlechicco/post/DgMoIFJlV0S",
+      "timestamp": "2026-11-26T08:01:22+0000",
       "metrics": {
-        "views": 9,
+        "views": 37,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -94,9 +111,7 @@
         "shares": 0
       },
       "engagement": 0
-    }
-  ],
-  "recent_posts": [
+    },
     {
       "id": "18136454407742544",
       "text": "Kids rarely learn a new word by being told what it means.\nThey learn it by meeting it three times in context — and sudde",
@@ -118,7 +133,7 @@
       "permalink": "https://www.threads.com/@thelittlechicco/post/DgLVxevHwXx",
       "timestamp": "2026-11-25T20:01:45+0000",
       "metrics": {
-        "views": 15,
+        "views": 16,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -224,21 +239,6 @@
       "timestamp": "2026-11-24T20:01:23+0000",
       "metrics": {
         "views": 7,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18091009874705412",
-      "text": "One of the trickier calls in designing an ESL grammar workbook is deciding when to introduce a rule — and when to just l",
-      "permalink": "https://www.threads.com/@thelittlechicco/post/DgIeCPnkRlv",
-      "timestamp": "2026-11-24T17:16:14+0000",
-      "metrics": {
-        "views": 5,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
