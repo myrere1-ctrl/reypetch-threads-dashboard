@@ -1,21 +1,21 @@
 {
   "account": "iamehijrah",
-  "updated_at": "2026-11-26T01:51:03.077Z",
+  "updated_at": "2026-11-26T11:04:51.345Z",
   "profile": {
     "username": "_iame.hijrah",
     "biography": "Hijrah Journey \nInbox ➡️Akses Safar AI",
-    "picture": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ig_cache_key=GHPulixGDYKQ0TVAAKrnbOIoMBtnbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=ZDy9Fsl41VkQ7kNvwF_DNW_&_nc_oc=Adoznd_USdh6dl-Hl332UcQoEByl65sRscEOD7LUmKFQYih3wwDAXlI7Put-UeAlZPM&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=pOzdRtI2-VkdgaYrCEhPUw&_nc_tpa=Q5bMBQJNT8xk62BIRnUinLgKM8S9myGzwkjIzqLg8wYmfXJGnpPYiofwVP3ccNBFwbSVSRDBK4hVFyn2eg&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQQA6OONjNg_2P_RVmBzLo_FO7EEQUdbZI3Qlf0md6CFHQ&oe=6B0D53D3"
+    "picture": "https://scontent-lga3-1.cdninstagram.com/v/t51.82787-19/748088947_18073572698361158_7429584962433378218_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ig_cache_key=GHPulixGDYKQ0TVAAKrnbOIoMBtnbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=ZDy9Fsl41VkQ7kNvwGSd-Je&_nc_oc=AdpKy2J_17BnivXVeE-PF9wibO6ujKPKyC9Pq-gwNQceZ3QxkXU-XMXTQZ-JLqkxg4E&_nc_zt=24&_nc_ht=scontent-lga3-1.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=xgy9LE6qjzoVFzKZTLu7Eg&_nc_tpa=Q5bMBQKG-34zWEzM1VfbiWzeVKY6iirQQAG2SUagpqFlE012rCWTna8DNwgGMIEUsxKMT49Qy00fX2XCRw&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQT_h7Tqu2yZuGquNoxFJ7vmDt8RMgs_zXVAuLoFfT2Zlw&oe=6B0DFC93"
   },
   "summary": {
     "followers_count": 10,
-    "views": 94,
-    "likes": 2,
-    "replies": 1,
-    "reposts": 1,
+    "views": 1,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 11,
-    "engagement_rate": 11.7,
+    "engagement_rate": 1100,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -26,7 +26,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DgLjd2PFXlD",
       "timestamp": "2026-11-25T22:01:24+0000",
       "metrics": {
-        "views": 7,
+        "views": 8,
         "likes": 1,
         "replies": 1,
         "reposts": 1,
@@ -98,12 +98,42 @@
   ],
   "recent_posts": [
     {
+      "id": "18110671598526159",
+      "text": "Sholawat itu aneh — ga perlu momen khusus, ga perlu lagi seneng atau susah.\nTadi lagi masak, tiba-tiba mulut ngalir send",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DgMrkDtFSmW",
+      "timestamp": "2026-11-26T08:31:24+0000",
+      "metrics": {
+        "views": 1,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
+      "id": "18090729329296889",
+      "text": "Pernah ngerasa ga ada jalan keluar dari situasi yang kamu buat sendiri?\nAku pernah di titik itu — dan satu-satunya yang ",
+      "permalink": "https://www.threads.com/@_iame.hijrah/post/DgMW9UJFYKG",
+      "timestamp": "2026-11-26T05:31:20+0000",
+      "metrics": {
+        "views": 9,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "18139100704635668",
       "text": "Kapan terakhir kamu baca Surat Yasin bukan karena ada orang meninggal?\nAku sadar, lama banget aku cuma buka Yasin di mom",
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DgL4EieoX6c",
       "timestamp": "2026-11-26T01:01:26+0000",
       "metrics": {
-        "views": 5,
+        "views": 7,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -118,7 +148,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DgLjd2PFXlD",
       "timestamp": "2026-11-25T22:01:24+0000",
       "metrics": {
-        "views": 7,
+        "views": 8,
         "likes": 1,
         "replies": 1,
         "reposts": 1,
@@ -133,7 +163,7 @@
       "permalink": "https://www.threads.com/@_iame.hijrah/post/DgK9tdLG45k",
       "timestamp": "2026-11-25T16:31:28+0000",
       "metrics": {
-        "views": 13,
+        "views": 14,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -216,36 +246,6 @@
         "shares": 0
       },
       "engagement": 0
-    },
-    {
-      "id": "18165110815499189",
-      "text": "Lagi ngerasa semua ketutup dan capek banget nunggu?\nAku sempet di titik itu. Yang aku lakuin — baca Al-Waqiah tiap habis",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DgJTSLbDK97",
-      "timestamp": "2026-11-25T01:01:32+0000",
-      "metrics": {
-        "views": 10,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18075979991489357",
-      "text": "Nenekku punya satu kalimat yang aku inget terus:\n\"Kalau udah berdoa, lepas. Itu urusan Allah, bukan urusanmu lagi.\"\nDulu",
-      "permalink": "https://www.threads.com/@_iame.hijrah/post/DgI-sdAnxzC",
-      "timestamp": "2026-11-24T22:01:37+0000",
-      "metrics": {
-        "views": 95,
-        "likes": 2,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 2
     }
   ]
 }
