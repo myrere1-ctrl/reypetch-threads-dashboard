@@ -1,21 +1,21 @@
 {
   "account": "thelittlechicco",
-  "updated_at": "2026-11-26T20:16:56.933Z",
+  "updated_at": "2026-11-27T02:58:30.955Z",
   "profile": {
     "username": "thelittlechicco",
     "biography": "The Little Chic Co. \nYou don’t need to be a teacher to explore English with your child. \n💛 Grab my FREE illustrated parent guide and activity PDF ⬇️",
-    "picture": "https://scontent-lga3-1.cdninstagram.com/v/t51.82787-19/910384646_18119299813951330_5086466759080467333_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ig_cache_key=GAZeQzZiR-08aF9AAIXb0nCRwpZGbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=_F7940uT6Q8Q7kNvwF7mxK8&_nc_oc=AdrtCw_4a4icMW_5RkmJWMPily6xzx2WRqUDEOLwG2Ww2VCCaM-cGot9Lt0pOlsjWTs&_nc_zt=24&_nc_ht=scontent-lga3-1.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=J7lrhNaqBYXyGcUgj69k2A&_nc_tpa=Q5bMBQLHT3A_95ZTf8OZhYmOXiMpcDVzrFWw3AqGARr7LoaIJ5VViGCXFTAbX_nDn6w_15O3-O05crGznQ&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQQ22YMdb3ytzT-GWMtuBfvT23QfwtnLYQ-2T5RUwQFyaw&oe=6B0E590A"
+    "picture": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/910384646_18119299813951330_5086466759080467333_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ig_cache_key=GAZeQzZiR-08aF9AAIXb0nCRwpZGbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=_F7940uT6Q8Q7kNvwH9dFjP&_nc_oc=Adr3ROJWDl_4xQHLbmEA5RK5w-gIwMtPjusynle4x7FxGOUanJhWcFYYg_zDfPOasZg&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=RZWIvcIrTpDni3C29UvZoA&_nc_tpa=Q5bMBQI2RwiUo3068rHpwwyZMv-qB6_4Mk1C1AerLFwXqVMXI3Ud6GFfZts90pklsNEfVoRn2JI7AC24Jw&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQVtj1kYoXNviZln-vd5M0FWozOCU1KTyoPLsyfFUorirw&oe=6B0EC98A"
   },
   "summary": {
     "followers_count": 3,
-    "views": 105,
+    "views": 121,
     "likes": 1,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 1,
-    "engagement_rate": 0.95,
+    "engagement_rate": 0.83,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -26,7 +26,7 @@
       "permalink": "https://www.threads.com/@thelittlechicco/post/DgMoIFJlV0S",
       "timestamp": "2026-11-26T08:01:22+0000",
       "metrics": {
-        "views": 40,
+        "views": 42,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -36,12 +36,27 @@
       "engagement": 1
     },
     {
+      "id": "18350107366148157",
+      "text": "Summer is the easiest time to let grammar quietly slip — and the hardest time to make a kid care about fixing that.\nThe ",
+      "permalink": "https://www.threads.com/@thelittlechicco/post/DgOPH1SlezJ",
+      "timestamp": "2026-11-26T23:01:21+0000",
+      "metrics": {
+        "views": 2,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
+    },
+    {
       "id": "18385668358245832",
       "text": "Young kids learning English as a second language often don't start with words — they start with music.\nThe rhythm of a p",
       "permalink": "https://www.threads.com/@thelittlechicco/post/DgN6hbVGwQs",
       "timestamp": "2026-11-26T20:01:21+0000",
       "metrics": {
-        "views": 0,
+        "views": 12,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -79,14 +94,16 @@
         "shares": 0
       },
       "engagement": 0
-    },
+    }
+  ],
+  "recent_posts": [
     {
-      "id": "18138620614661821",
-      "text": "Say a word, act it out, find it in the room.\nThat three-step loop — hear it, feel it, see it — is one of the quietest wa",
-      "permalink": "https://www.threads.com/@thelittlechicco/post/DgNRVQem5YS",
-      "timestamp": "2026-11-26T14:01:27+0000",
+      "id": "18350107366148157",
+      "text": "Summer is the easiest time to let grammar quietly slip — and the hardest time to make a kid care about fixing that.\nThe ",
+      "permalink": "https://www.threads.com/@thelittlechicco/post/DgOPH1SlezJ",
+      "timestamp": "2026-11-26T23:01:21+0000",
       "metrics": {
-        "views": 19,
+        "views": 2,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -94,16 +111,14 @@
         "shares": 0
       },
       "engagement": 0
-    }
-  ],
-  "recent_posts": [
+    },
     {
       "id": "18385668358245832",
       "text": "Young kids learning English as a second language often don't start with words — they start with music.\nThe rhythm of a p",
       "permalink": "https://www.threads.com/@thelittlechicco/post/DgN6hbVGwQs",
       "timestamp": "2026-11-26T20:01:21+0000",
       "metrics": {
-        "views": 0,
+        "views": 12,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -178,7 +193,7 @@
       "permalink": "https://www.threads.com/@thelittlechicco/post/DgMoIFJlV0S",
       "timestamp": "2026-11-26T08:01:22+0000",
       "metrics": {
-        "views": 40,
+        "views": 42,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -224,21 +239,6 @@
       "timestamp": "2026-11-25T17:16:05+0000",
       "metrics": {
         "views": 18,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18125048554734362",
-      "text": "Write a sentence on a slip of paper. Cut it into individual words. Hand over the pile and a 60-second timer.\nNo instruct",
-      "permalink": "https://www.threads.com/@thelittlechicco/post/DgLBIoiIO6z",
-      "timestamp": "2026-11-25T17:01:25+0000",
-      "metrics": {
-        "views": 11,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
