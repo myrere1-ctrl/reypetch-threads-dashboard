@@ -1,21 +1,21 @@
 {
   "account": "thelittlechicco",
-  "updated_at": "2026-11-27T22:07:56.606Z",
+  "updated_at": "2026-11-28T04:00:45.841Z",
   "profile": {
     "username": "thelittlechicco",
     "biography": "The Little Chic Co. \nYou don’t need to be a teacher to explore English with your child. \n💛 Grab my FREE illustrated parent guide and activity PDF ⬇️",
-    "picture": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/910384646_18119299813951330_5086466759080467333_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ig_cache_key=GAZeQzZiR-08aF9AAIXb0nCRwpZGbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=_F7940uT6Q8Q7kNvwGm5Lir&_nc_oc=AdqJE-MWEYjhLbSspizZtHSsFb79qMPz7PzoYGSFeDkO7dkRGa8BZEv86wBcBBgZjbw&_nc_zt=24&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=YCNP4lGKjLPDUIfLWE8SMw&_nc_tpa=Q5bMBQIVQ3wydYjSzdJ8KK3_IgY0KMXb5sPgvnI-HdNJX4OnJsn-NxYu157hfwwSAhwQSlRFleAQjOwOEQ&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQVyFB4g953beCZx0chRv4ANhYWoOYyEAUsnXj0tzbqQBA&oe=6B0FE2CA"
+    "picture": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/910384646_18119299813951330_5086466759080467333_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ig_cache_key=GAZeQzZiR-08aF9AAIXb0nCRwpZGbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=_F7940uT6Q8Q7kNvwF0876W&_nc_oc=Adq99ddcfXtayLC_xxa4d57RFCjMWz5t8LhcMf0xGNV_OLIi-NivUUXgUD1FEeO-MYc&_nc_zt=24&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=AL_FPW8EAAAA&_nc_gid=UD49L08DFyEnh2ThlJ22Sw&_nc_tpa=Q5bMBQLO_5qgM6SHyODkgIUvDDq1EOUXFAn1-L0Di3qnjXUDrOPTMddx5HE0_HJg7a1lwmWuQ_jmr3fbxg&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQUlj-i3gkV5oV4DfnrK4xnzW5pSl93C1EyBmj8eVCrGfQ&oe=6B101B0A"
   },
   "summary": {
     "followers_count": 3,
-    "views": 68,
+    "views": 71,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "profile_views": null,
     "engagement_total": 1,
-    "engagement_rate": 1.47,
+    "engagement_rate": 1.41,
     "curiosity_score": null,
     "post_count": 25
   },
@@ -34,6 +34,21 @@
         "shares": 0
       },
       "engagement": 1
+    },
+    {
+      "id": "18419881960089714",
+      "text": "Grammar rules land differently when kids stumble onto the pattern before anyone explains it.\nSpot the same structure in ",
+      "permalink": "https://www.threads.com/@thelittlechicco/post/DgQz77Qj7yk",
+      "timestamp": "2026-11-27T23:01:32+0000",
+      "metrics": {
+        "views": 3,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "engagement": 0
     },
     {
       "id": "17992649949110472",
@@ -79,14 +94,16 @@
         "shares": 0
       },
       "engagement": 0
-    },
+    }
+  ],
+  "recent_posts": [
     {
-      "id": "17977999872154909",
-      "text": "Write a word on a slip of paper. Hide it somewhere in the house.\nWhoever finds it has to use it in a sentence before din",
-      "permalink": "https://www.threads.com/@thelittlechicco/post/DgPoY7PlsPF",
-      "timestamp": "2026-11-27T12:01:23+0000",
+      "id": "18419881960089714",
+      "text": "Grammar rules land differently when kids stumble onto the pattern before anyone explains it.\nSpot the same structure in ",
+      "permalink": "https://www.threads.com/@thelittlechicco/post/DgQz77Qj7yk",
+      "timestamp": "2026-11-27T23:01:32+0000",
       "metrics": {
-        "views": 6,
+        "views": 3,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -94,9 +111,7 @@
         "shares": 0
       },
       "engagement": 0
-    }
-  ],
-  "recent_posts": [
+    },
     {
       "id": "17992649949110472",
       "text": "When a kid shuts down after one wrong answer, the subject isn't the problem.\nSomething about being wrong in front of som",
@@ -224,21 +239,6 @@
       "timestamp": "2026-11-26T14:16:05+0000",
       "metrics": {
         "views": 29,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "engagement": 0
-    },
-    {
-      "id": "18138620614661821",
-      "text": "Say a word, act it out, find it in the room.\nThat three-step loop — hear it, feel it, see it — is one of the quietest wa",
-      "permalink": "https://www.threads.com/@thelittlechicco/post/DgNRVQem5YS",
-      "timestamp": "2026-11-26T14:01:27+0000",
-      "metrics": {
-        "views": 19,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
